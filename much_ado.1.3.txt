@@ -1,6 +1,6 @@
-SCENE III. The same.
-Enter DON JOHN and CONRADE
-CONRADE
+_S_SCENE III. The same.
+_D_Enter DON JOHN and CONRADE
+_R_CONRADE
 What the good-year, my lord! why are you thus out
 of measure sad?
 DON JOHN
