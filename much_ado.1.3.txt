@@ -3,12 +3,12 @@ _D_Enter DON JOHN and CONRADE
 _R_CONRADE
 What the good-year, my lord! why are you thus out
 of measure sad?
-DON JOHN
+_R_DON JOHN
 There is no measure in the occasion that breeds;
 therefore the sadness is without limit.
-CONRADE
+_R_CONRADE
 You should hear reason.
-DON JOHN
+_R_DON JOHN
 And when I have heard it, what blessing brings it?
 CONRADE
 If not a present remedy, at least a patient
