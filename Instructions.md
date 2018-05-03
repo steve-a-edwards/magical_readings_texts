@@ -15,4 +15,13 @@ Save by, at bottom left of page:
 - entering a message indicating progress (below 'Commit changes' text) 
 - clicking green button bottom left 'Commit Changes;
 
-![A test image](image.png)
+![Logging in](A-Initial-Page-Before-Login.png)
+
+
+![Logging in](B-Login-Page.png)
+
+
+![Edit document](C-Edit-Page.png)
+
+
+![Commit changes](D-Commit-Changes.png)
