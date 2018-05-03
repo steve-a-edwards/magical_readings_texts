@@ -1,15 +1,15 @@
-Instructions:
-Web page:   https://github.com/steve-a-edwards/magical_readings_texts
-Login:      ruth-l-edwards / HNATRN
-Folder:     much-ado-about-nothing
-Tracking:   track.txt
-Click on file to edit.
-Click the 'pencil' icon top right, to edit the file.
-
+Instructions:<br/>
+Web page:   https://github.com/steve-a-edwards/magical_readings_texts<br/>
+Login:      ruth-l-edwards / HNATRN<br/>
+Folder:     much-ado-about-nothing<br/>
+Tracking:   track.txt<br/>
+Click on file to edit.<br/>
+Click the 'pencil' icon top right, to edit the file.<br/>
+<p/>
 Editing:
-Scene name prefix with    _S_
-Role name prefix with     _R_
-Directions prefix with    _D_
+Scene name prefix with    _S_<br/>
+Role name prefix with     _R_<br/>
+Directions prefix with    _D_<br/>
 
 Save by, at bottom left of page:
 - entering a message indicating progress (below 'Commit changes' text) 
