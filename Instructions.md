@@ -15,22 +15,23 @@ Save by, at bottom left of page:
 - entering a message indicating progress (below 'Commit changes' text) 
 - clicking green button bottom left 'Commit Changes;
 
-<p/>
+---
 Picture below shows page before login:
 
 ![Logging in](images/A-Initial-Page-Before-Login.png)
-
-<p/>
+<br/>
+---
 Picture below shows the login page:
 
 ![Logging in](images/B-Login-Page.png)
-
-<p/>
+<br/>
+---
 Picture below shows document with line numbers:
 
 ![Edit document](images/C-Edit-Page.png)
-
-<p/>
+<br/>
+---
 Picture below shows <i>Commit changes</i> section at bottom of page:
 
 ![Commit changes](images/D-Commit-Changes.png)
+<br/>
