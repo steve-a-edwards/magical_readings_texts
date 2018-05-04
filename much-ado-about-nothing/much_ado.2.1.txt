@@ -1,15 +1,15 @@
-SCENE I. A hall in LEONATO'S house.
-Enter LEONATO, ANTONIO, HERO, BEATRICE, and others
-LEONATO
+_S_SCENE I. A hall in LEONATO'S house.
+_D_Enter LEONATO, ANTONIO, HERO, BEATRICE, and others
+_R_LEONATO
 Was not Count John here at supper?
-ANTONIO
+_R_ANTONIO
 I saw him not.
-BEATRICE
+_R_BEATRICE
 How tartly that gentleman looks! I never can see
 him but I am heart-burned an hour after.
-HERO
+_R_HERO
 He is of a very melancholy disposition.
-BEATRICE
+_R_BEATRICE
 He were an excellent man that were made just in the
 midway between him and Benedick: the one is too
 like an image and says nothing, and the other too
