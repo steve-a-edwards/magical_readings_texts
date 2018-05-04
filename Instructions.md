@@ -35,12 +35,15 @@ After signing in, go to the folder with the play / scene files:
 Then click on the filename on the left to edit that file.<br/>
 Don't forget to click on the 'pencil' icon top right to star the editing, <br/>
 and at the bottom, enter a message, then click the green button.
+<p/>
 
 ---
 Picture below shows document with line numbers:
 
 ![Edit document](images/D-Edit-Page.png)
 <br/>
+<p/>
+
 ---
 Picture below shows <i>Commit changes</i> section at bottom of page:
 
