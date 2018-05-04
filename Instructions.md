@@ -41,7 +41,7 @@ and at the bottom, enter a message, then click the green button.
 Picture below shows document with line numbers:
 
 ![Edit document](images/D-Edit-Page.png)
-<br/>
+<p/>
 When you have finished making your changes, make a mental note of the line number you are up to.
 
 ---
