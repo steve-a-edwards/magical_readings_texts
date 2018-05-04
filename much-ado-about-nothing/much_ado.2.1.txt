@@ -22,25 +22,25 @@ _R_BEATRICE
 With a good leg and a good foot, uncle, and money
 enough in his purse, such a man would win any woman
 in the world, if a' could get her good-will.
-LEONATO
+_R_LEONATO
 By my troth, niece, thou wilt never get thee a
 husband, if thou be so shrewd of thy tongue.
-ANTONIO
+_R_ANTONIO
 In faith, she's too curst.
-BEATRICE
+_R_BEATRICE
 Too curst is more than curst: I shall lessen God's
 sending that way; for it is said, 'God sends a curst
 cow short horns;' but to a cow too curst he sends none.
-LEONATO
+_R_LEONATO
 So, by being too curst, God will send you no horns.
-BEATRICE
+_R_BEATRICE
 Just, if he send me no husband; for the which
 blessing I am at him upon my knees every morning and
 evening. Lord, I could not endure a husband with a
 beard on his face: I had rather lie in the woollen.
-LEONATO
+_R_LEONATO
 You may light on a husband that hath no beard.
-BEATRICE
+_R_BEATRICE
 What should I do with him? dress him in my apparel
 and make him my waiting-gentlewoman? He that hath a
 beard is more than a youth, and he that hath no
@@ -49,9 +49,9 @@ a youth is not for me, and he that is less than a
 man, I am not for him: therefore, I will even take
 sixpence in earnest of the bear-ward, and lead his
 apes into hell.
-LEONATO
+_R_LEONATO
 Well, then, go you into hell?
-BEATRICE
+_R_BEATRICE
 No, but to the gate; and there will the devil meet
 me, like an old cuckold, with horns on his head, and
 say 'Get you to heaven, Beatrice, get you to
@@ -59,28 +59,28 @@ heaven; here's no place for you maids:' so deliver
 I up my apes, and away to Saint Peter for the
 heavens; he shows me where the bachelors sit, and
 there live we as merry as the day is long.
-ANTONIO
+_R_ANTONIO
 [To HERO] Well, niece, I trust you will be ruled
 by your father.
-BEATRICE
+_R_BEATRICE
 Yes, faith; it is my cousin's duty to make curtsy
 and say 'Father, as it please you.' But yet for all
 that, cousin, let him be a handsome fellow, or else
 make another curtsy and say 'Father, as it please
 me.'
-LEONATO
+_R_LEONATO
 Well, niece, I hope to see you one day fitted with a husband.
-BEATRICE
+_R_BEATRICE
 Not till God make men of some other metal than
 earth. Would it not grieve a woman to be
 overmastered with a pierce of valiant dust? to make
 an account of her life to a clod of wayward marl?
 No, uncle, I'll none: Adam's sons are my brethren;
 and, truly, I hold it a sin to match in my kindred.
-LEONATO
+_R_LEONATO
 Daughter, remember what I told you: if the prince
 do solicit you in that kind, you know your answer.
-BEATRICE
+_R_BEATRICE
 The fault will be in the music, cousin, if you be
 not wooed in good time: if the prince be too
 important, tell him there is measure in every thing
@@ -92,100 +92,100 @@ fantastical; the wedding, mannerly-modest, as a
 measure, full of state and ancientry; and then comes
 repentance and, with his bad legs, falls into the
 cinque pace faster and faster, till he sink into his grave.
-LEONATO
+_R_LEONATO
 Cousin, you apprehend passing shrewdly.
-BEATRICE
+_R_BEATRICE
 I have a good eye, uncle; I can see a church by daylight.
-LEONATO
+_R_LEONATO
 The revellers are entering, brother: make good room.
 All put on their masks
 
-Enter DON PEDRO, CLAUDIO, BENEDICK, BALTHASAR, DON JOHN, BORACHIO, MARGARET, URSULA and others, masked
+_D_Enter DON PEDRO, CLAUDIO, BENEDICK, BALTHASAR, DON JOHN, BORACHIO, MARGARET, URSULA and others, masked
 
-DON PEDRO
+_R_DON PEDRO
 Lady, will you walk about with your friend?
-HERO
+_R_HERO
 So you walk softly and look sweetly and say nothing,
 I am yours for the walk; and especially when I walk away.
-DON PEDRO
+_R_DON PEDRO
 With me in your company?
-HERO
+_R_HERO
 I may say so, when I please.
-DON PEDRO
+_R_DON PEDRO
 And when please you to say so?
-HERO
+_R_HERO
 When I like your favour; for God defend the lute
 should be like the case!
-DON PEDRO
+_R_DON PEDRO
 My visor is Philemon's roof; within the house is Jove.
-HERO
+_R_HERO
 Why, then, your visor should be thatched.
-DON PEDRO
+_R_DON PEDRO
 Speak low, if you speak love.
-Drawing her aside
+_D_Drawing her aside
 
-BALTHASAR
+_R_BALTHASAR
 Well, I would you did like me.
-MARGARET
+_R_MARGARET
 So would not I, for your own sake; for I have many
 ill-qualities.
-BALTHASAR
+_R_BALTHASAR
 Which is one?
-MARGARET
+_R_MARGARET
 I say my prayers aloud.
-BALTHASAR
+_R_BALTHASAR
 I love you the better: the hearers may cry, Amen.
-MARGARET
+_R_MARGARET
 God match me with a good dancer!
-BALTHASAR
+_R_BALTHASAR
 Amen.
-MARGARET
+_R_MARGARET
 And God keep him out of my sight when the dance is
 done! Answer, clerk.
-BALTHASAR
+_R_BALTHASAR
 No more words: the clerk is answered.
-URSULA
+_R_URSULA
 I know you well enough; you are Signior Antonio.
-ANTONIO
+_R_ANTONIO
 At a word, I am not.
-URSULA
+_R_URSULA
 I know you by the waggling of your head.
-ANTONIO
+_R_ANTONIO
 To tell you true, I counterfeit him.
-URSULA
+_R_URSULA
 You could never do him so ill-well, unless you were
 the very man. Here's his dry hand up and down: you
 are he, you are he.
-ANTONIO
+_R_ANTONIO
 At a word, I am not.
-URSULA
+_R_URSULA
 Come, come, do you think I do not know you by your
 excellent wit? can virtue hide itself? Go to,
 mum, you are he: graces will appear, and there's an
 end.
-BEATRICE
+_R_BEATRICE
 Will you not tell me who told you so?
-BENEDICK
+_R_BENEDICK
 No, you shall pardon me.
-BEATRICE
+_R_BEATRICE
 Nor will you not tell me who you are?
-BENEDICK
+_R_BENEDICK
 Not now.
-BEATRICE
+_R_BEATRICE
 That I was disdainful, and that I had my good wit
 out of the 'Hundred Merry Tales:'--well this was
 Signior Benedick that said so.
-BENEDICK
+_R_BENEDICK
 What's he?
-BEATRICE
+_R_BEATRICE
 I am sure you know him well enough.
-BENEDICK
+_R_BENEDICK
 Not I, believe me.
-BEATRICE
+_R_BEATRICE
 Did he never make you laugh?
-BENEDICK
+_R_BENEDICK
 I pray you, what is he?
-BEATRICE
+_R_BEATRICE
 Why, he is the prince's jester: a very dull fool;
 only his gift is in devising impossible slanders:
 none but libertines delight in him; and the
@@ -193,9 +193,9 @@ commendation is not in his wit, but in his villany;
 for he both pleases men and angers them, and then
 they laugh at him and beat him. I am sure he is in
 the fleet: I would he had boarded me.
-BENEDICK
+_R_BENEDICK
 When I know the gentleman, I'll tell him what you say.
-BEATRICE
+_R_BEATRICE
 Do, do: he'll but break a comparison or two on me;
 which, peradventure not marked or not laughed at,
 strikes him into melancholy; and then there's a
@@ -204,12 +204,12 @@ supper that night.
 Music
 
 We must follow the leaders.
-BENEDICK
+_R_BENEDICK
 In every good thing.
-BEATRICE
+_R_BEATRICE
 Nay, if they lead to any ill, I will leave them at
 the next turning.
-Dance. Then exeunt all except DON JOHN, BORACHIO, and CLAUDIO
+_D_Dance. Then exeunt all except DON JOHN, BORACHIO, and CLAUDIO
 
 DON JOHN
 Sure my brother is amorous on Hero and hath
