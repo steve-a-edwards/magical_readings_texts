@@ -25,14 +25,24 @@ Picture below shows the login page:
 
 ![Logging in](images/B-Login-Page.png)
 <br/>
+
+
+---
+After signing in, do to the folder with the play / scene files:
+
+![Edit document](images/C-Choose-Folder-Scenes.png)
+<br/>
+Then click on the filename on the left to edit that file.
+
+
 ---
 Picture below shows document with line numbers:
 
-![Edit document](images/C-Edit-Page.png)
+![Edit document](images/D-Edit-Page.png)
 <br/>
 ---
 Picture below shows <i>Commit changes</i> section at bottom of page:
 
-![Commit changes](images/D-Commit-Changes.png)
+![Commit changes](images/E-Commit-Changes.png)
 <br/>
 
