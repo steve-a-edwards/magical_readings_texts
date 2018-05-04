@@ -1,6 +1,6 @@
 Instructions:<br/>
 Web page:   https://github.com/steve-a-edwards/magical_readings_texts<br/>
-Login:      ruth-l-edwards / HNATRN<br/>
+Sign in:      ruth-l-edwards / HNATRN<br/>
 Folder:     much-ado-about-nothing<br/>
 Tracking:   track.txt<br/>
 Click on file to edit.<br/>
