@@ -35,3 +35,4 @@ Picture below shows <i>Commit changes</i> section at bottom of page:
 
 ![Commit changes](images/D-Commit-Changes.png)
 <br/>
+
