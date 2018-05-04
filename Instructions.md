@@ -42,7 +42,7 @@ Picture below shows document with line numbers:
 
 ![Edit document](images/D-Edit-Page.png)
 <br/>
-<p/>
+When you have finished making your changes, make a mental note of the line number you are up to.
 
 ---
 Picture below shows <i>Commit changes</i> section at bottom of page:
