@@ -100,9 +100,7 @@ I have a good eye, uncle; I can see a church by daylight.
 _R_LEONATO
 The revellers are entering, brother: make good room.
 All put on their masks
-
 _D_Enter DON PEDRO, CLAUDIO, BENEDICK, BALTHASAR, DON JOHN, BORACHIO, MARGARET, URSULA and others, masked
-
 _R_DON PEDRO
 Lady, will you walk about with your friend?
 _R_HERO
@@ -124,7 +122,6 @@ Why, then, your visor should be thatched.
 _R_DON PEDRO
 Speak low, if you speak love.
 _D_Drawing her aside
-
 _R_BALTHASAR
 Well, I would you did like me.
 _R_MARGARET
@@ -203,7 +200,6 @@ strikes him into melancholy; and then there's a
 partridge wing saved, for the fool will eat no
 supper that night.
 _D_Music
-
 We must follow the leaders.
 _R_BENEDICK
 In every good thing.
@@ -211,7 +207,6 @@ _R_BEATRICE
 Nay, if they lead to any ill, I will leave them at
 the next turning.
 _D_Dance. Then exeunt all except DON JOHN, BORACHIO, and CLAUDIO
-
 _R_DON JOHN
 Sure my brother is amorous on Hero and hath
 withdrawn her father to break with him about it.
@@ -236,7 +231,6 @@ So did I too; and he swore he would marry her to-night.
 _R_DON JOHN
 Come, let us to the banquet.
 _D_Exeunt DON JOHN and BORACHIO
-
 _R_CLAUDIO
 Thus answer I in the name of Benedick,
 But hear these ill news with the ears of Claudio.
@@ -250,7 +244,6 @@ Against whose charms faith melteth into blood.
 This is an accident of hourly proof,
 Which I mistrusted not. Farewell, therefore, Hero!
 _D_Re-enter BENEDICK
-
 _R_BENEDICK
 Count Claudio?
 _R_CLAUDIO
@@ -279,7 +272,6 @@ boy that stole your meat, and you'll beat the post.
 _R_CLAUDIO
 If it will not be, I'll leave you.
 _D_Exit
-
 _R_BENEDICK
 Alas, poor hurt fowl! now will he creep into sedges.
 But that my Lady Beatrice should know me, and not
@@ -290,7 +282,6 @@ is the base, though bitter, disposition of Beatrice
 that puts the world into her person and so gives me
 out. Well, I'll be revenged as I may.
 _D_Re-enter DON PEDRO
-
 _R_DON PEDRO
 Now, signior, where's the count? did you see him?
 _R_BENEDICK
@@ -351,7 +342,6 @@ and perturbation follows her.
 _R_DON PEDRO
 Look, here she comes.
 _D_Enter CLAUDIO, BEATRICE, HERO, and LEONATO
-
 _R_BENEDICK
 Will your grace command me any service to the
 world's end? I will go on the slightest errand now
@@ -368,7 +358,6 @@ _R_BENEDICK
 O God, sir, here's a dish I love not: I cannot
 endure my Lady Tongue.
 _D_Exit
-
 _R_DON PEDRO
 Come, lady, come; you have lost the heart of
 Signior Benedick.
@@ -454,7 +443,6 @@ Niece, will you look to those things I told you of?
 _R_BEATRICE
 I cry you mercy, uncle. By your grace's pardon.
 _D_Exit
-
 _R_DON PEDRO
 By my troth, a pleasant-spirited lady.
 _R_LEONATO
