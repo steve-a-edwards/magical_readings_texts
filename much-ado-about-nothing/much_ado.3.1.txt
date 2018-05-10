@@ -1,6 +1,6 @@
 SCENE I. LEONATO'S garden.
-Enter HERO, MARGARET, and URSULA
-HERO
+_D_Enter HERO, MARGARET, and URSULA
+_R_HERO
 Good Margaret, run thee to the parlor;
 There shalt thou find my cousin Beatrice
 Proposing with the prince and Claudio:
@@ -14,11 +14,11 @@ Made proud by princes, that advance their pride
 Against that power that bred it: there will she hide her,
 To listen our purpose. This is thy office;
 Bear thee well in it and leave us alone.
-MARGARET
+_R_MARGARET
 I'll make her come, I warrant you, presently.
-Exit
+_D_Exit
 
-HERO
+_R_HERO
 Now, Ursula, when Beatrice doth come,
 As we do trace this alley up and down,
 Our talk must only be of Benedick.
@@ -28,43 +28,43 @@ My talk to thee must be how Benedick
 Is sick in love with Beatrice. Of this matter
 Is little Cupid's crafty arrow made,
 That only wounds by hearsay.
-Enter BEATRICE, behind
+_D_Enter BEATRICE, behind
 
-Now begin;
+_D_Now begin;
 For look where Beatrice, like a lapwing, runs
 Close by the ground, to hear our conference.
-URSULA
+_R_URSULA
 The pleasant'st angling is to see the fish
 Cut with her golden oars the silver stream,
 And greedily devour the treacherous bait:
 So angle we for Beatrice; who even now
 Is couched in the woodbine coverture.
 Fear you not my part of the dialogue.
-HERO
+_R_HERO
 Then go we near her, that her ear lose nothing
 Of the false sweet bait that we lay for it.
-Approaching the bower
+_D_Approaching the bower
 
 No, truly, Ursula, she is too disdainful;
 I know her spirits are as coy and wild
 As haggerds of the rock.
-URSULA
+_R_URSULA
 But are you sure
 That Benedick loves Beatrice so entirely?
-HERO
+_R_HERO
 So says the prince and my new-trothed lord.
-URSULA
+_R_URSULA
 And did they bid you tell her of it, madam?
-HERO
+_R_HERO
 They did entreat me to acquaint her of it;
 But I persuaded them, if they loved Benedick,
 To wish him wrestle with affection,
 And never to let Beatrice know of it.
-URSULA
+_R_URSULA
 Why did you so? Doth not the gentleman
 Deserve as full as fortunate a bed
 As ever Beatrice shall couch upon?
-HERO
+_R_HERO
 O god of love! I know he doth deserve
 As much as may be yielded to a man:
 But Nature never framed a woman's heart
@@ -75,11 +75,11 @@ Values itself so highly that to her
 All matter else seems weak: she cannot love,
 Nor take no shape nor project of affection,
 She is so self-endeared.
-URSULA
+_R_URSULA
 Sure, I think so;
 And therefore certainly it were not good
 She knew his love, lest she make sport at it.
-HERO
+_R_HERO
 Why, you speak truth. I never yet saw man,
 How wise, how noble, young, how rarely featured,
 But she would spell him backward: if fair-faced,
@@ -92,9 +92,9 @@ If silent, why, a block moved with none.
 So turns she every man the wrong side out
 And never gives to truth and virtue that
 Which simpleness and merit purchaseth.
-URSULA
+_R_URSULA
 Sure, sure, such carping is not commendable.
-HERO
+_R_HERO
 No, not to be so odd and from all fashions
 As Beatrice is, cannot be commendable:
 But who dare tell her so? If I should speak,
@@ -104,46 +104,46 @@ Therefore let Benedick, like cover'd fire,
 Consume away in sighs, waste inwardly:
 It were a better death than die with mocks,
 Which is as bad as die with tickling.
-URSULA
+_R_URSULA
 Yet tell her of it: hear what she will say.
-HERO
+_R_HERO
 No; rather I will go to Benedick
 And counsel him to fight against his passion.
 And, truly, I'll devise some honest slanders
 To stain my cousin with: one doth not know
 How much an ill word may empoison liking.
-URSULA
+_R_URSULA
 O, do not do your cousin such a wrong.
 She cannot be so much without true judgment--
 Having so swift and excellent a wit
 As she is prized to have--as to refuse
 So rare a gentleman as Signior Benedick.
-HERO
+_R_HERO
 He is the only man of Italy.
 Always excepted my dear Claudio.
-URSULA
+_R_URSULA
 I pray you, be not angry with me, madam,
 Speaking my fancy: Signior Benedick,
 For shape, for bearing, argument and valour,
 Goes foremost in report through Italy.
-HERO
+_R_HERO
 Indeed, he hath an excellent good name.
-URSULA
+_R_URSULA
 His excellence did earn it, ere he had it.
 When are you married, madam?
-HERO
+_R_HERO
 Why, every day, to-morrow. Come, go in:
 I'll show thee some attires, and have thy counsel
 Which is the best to furnish me to-morrow.
-URSULA
+_R_URSULA
 She's limed, I warrant you: we have caught her, madam.
-HERO
+_R_HERO
 If it proves so, then loving goes by haps:
 Some Cupid kills with arrows, some with traps.
-Exeunt HERO and URSULA
+_D_Exeunt HERO and URSULA
 
-BEATRICE
-[Coming forward]
+_R_BEATRICE
+_D_Coming forward
 What fire is in mine ears? Can this be true?
 Stand I condemn'd for pride and scorn so much?
 Contempt, farewell! and maiden pride, adieu!
@@ -154,4 +154,4 @@ If thou dost love, my kindness shall incite thee
 To bind our loves up in a holy band;
 For others say thou dost deserve, and I
 Believe it better than reportingly.
-Exit
+_D_Exit
