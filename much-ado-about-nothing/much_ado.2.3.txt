@@ -3,7 +3,6 @@ _D_Enter BENEDICK
 _R_BENEDICK
 Boy!
 _D_Enter Boy
-
 _R_Boy
 Signior?
 _R_BENEDICK
@@ -14,7 +13,6 @@ I am here already, sir.
 _R_BENEDICK
 I know that; but I would have thee hence, and here again.
 _D_Exit Boy
-
 I do much wonder that one man, seeing how much
 another man is a fool when he dedicates his
 behaviors to love, will, after he hath laughed at
