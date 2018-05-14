@@ -43,9 +43,7 @@ discourse, an excellent musician, and her hair shall
 be of what colour it please God. Ha! the prince and
 Monsieur Love! I will hide me in the arbour.
 _D_Withdraws
-
 _D_Enter DON PEDRO, CLAUDIO, and LEONATO
-
 _R_DON PEDRO
 Come, shall we hear this music?
 _R_CLAUDIO
@@ -57,7 +55,6 @@ _R_CLAUDIO
 O, very well, my lord: the music ended,
 We'll fit the kid-fox with a pennyworth.
 _D_Enter BALTHASAR with Music
-
 _R_DON PEDRO
 Come, Balthasar, we'll hear that song again.
 _R_BALTHASAR
@@ -82,15 +79,13 @@ There's not a note of mine that's worth the noting.
 _R_DON PEDRO
 Why, these are very crotchets that he speaks;
 Note, notes, forsooth, and nothing.
-Air
-
+_D_Air
 _R_BENEDICK
 Now, divine air! now is his soul ravished! Is it
 not strange that sheeps' guts should hale souls out
 of men's bodies? Well, a horn for my money, when
 all's done.
 _D_The Song
-
 _R_BALTHASAR
 Sigh no more, ladies, sigh no more,
 Men were deceivers ever,
@@ -126,7 +121,6 @@ The best I can, my lord.
 _R_DON PEDRO
 Do so: farewell.
 _D_Exit BALTHASAR
-
 Come hither, Leonato. What was it you told me of
 to-day, that your niece Beatrice was in love with
 Signior Benedick?
@@ -293,7 +287,6 @@ another's dotage, and no such matter: that's the
 scene that I would see, which will be merely a
 dumb-show. Let us send her to call him in to dinner.
 _D_Exeunt DON PEDRO, CLAUDIO, and LEONATO
-
 _R_BENEDICK
 _D_Coming forward
 This can be no trick: the
@@ -324,7 +317,6 @@ were married. Here comes Beatrice. By this day!
 she's a fair lady: I do spy some marks of love in
 her.
 _D_Enter BEATRICE
-
 _R_BEATRICE
 Against my will I am sent to bid you come in to dinner.
 _R_BENEDICK
@@ -340,7 +332,6 @@ Yea, just so much as you may take upon a knife's
 point and choke a daw withal. You have no stomach,
 signior: fare you well.
 _D_Exit
-
 _R_BENEDICK
 Ha! 'Against my will I am sent to bid you come in
 to dinner;' there's a double meaning in that 'I took
