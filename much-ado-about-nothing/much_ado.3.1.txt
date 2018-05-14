@@ -17,7 +17,6 @@ Bear thee well in it and leave us alone.
 _R_MARGARET
 I'll make her come, I warrant you, presently.
 _D_Exit
-
 _R_HERO
 Now, Ursula, when Beatrice doth come,
 As we do trace this alley up and down,
@@ -29,7 +28,6 @@ Is sick in love with Beatrice. Of this matter
 Is little Cupid's crafty arrow made,
 That only wounds by hearsay.
 _D_Enter BEATRICE, behind
-
 _D_Now begin;
 For look where Beatrice, like a lapwing, runs
 Close by the ground, to hear our conference.
@@ -44,7 +42,6 @@ _R_HERO
 Then go we near her, that her ear lose nothing
 Of the false sweet bait that we lay for it.
 _D_Approaching the bower
-
 No, truly, Ursula, she is too disdainful;
 I know her spirits are as coy and wild
 As haggerds of the rock.
@@ -141,7 +138,6 @@ _R_HERO
 If it proves so, then loving goes by haps:
 Some Cupid kills with arrows, some with traps.
 _D_Exeunt HERO and URSULA
-
 _R_BEATRICE
 _D_Coming forward
 What fire is in mine ears? Can this be true?
