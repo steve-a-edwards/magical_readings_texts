@@ -30,7 +30,7 @@ ta'en you newly into his grace; where it is
 impossible you should take true root but by the
 fair weather that you make yourself: it is needful
 that you frame the season for your own harvest.
-DON JOHN
+_R_DON JOHN
 I had rather be a canker in a hedge than a rose in
 his grace, and it better fits my blood to be
 disdained of all than to fashion a carriage to rob
@@ -42,54 +42,53 @@ have decreed not to sing in my cage. If I had my
 mouth, I would bite; if I had my liberty, I would do
 my liking: in the meantime let me be that I am and
 seek not to alter me.
-CONRADE
+_R_CONRADE
 Can you make no use of your discontent?
-DON JOHN
+_R_DON JOHN
 I make all use of it, for I use it only.
 Who comes here?
-Enter BORACHIO
-
+_D_Enter BORACHIO
 What news, Borachio?
-BORACHIO
+_R_BORACHIO
 I came yonder from a great supper: the prince your
 brother is royally entertained by Leonato: and I
 can give you intelligence of an intended marriage.
-DON JOHN
+_R_DON JOHN
 Will it serve for any model to build mischief on?
 What is he for a fool that betroths himself to
 unquietness?
-BORACHIO
+_R_BORACHIO
 Marry, it is your brother's right hand.
-DON JOHN
+_R_DON JOHN
 Who? the most exquisite Claudio?
-BORACHIO
+_R_BORACHIO
 Even he.
-DON JOHN
+_R_DON JOHN
 A proper squire! And who, and who? which way looks
 he?
-BORACHIO
+_R_BORACHIO
 Marry, on Hero, the daughter and heir of Leonato.
-DON JOHN
+_R_DON JOHN
 A very forward March-chick! How came you to this?
-BORACHIO
+_R_BORACHIO
 Being entertained for a perfumer, as I was smoking a
 musty room, comes me the prince and Claudio, hand
 in hand in sad conference: I whipt me behind the
 arras; and there heard it agreed upon that the
 prince should woo Hero for himself, and having
 obtained her, give her to Count Claudio.
-DON JOHN
+_R_DON JOHN
 Come, come, let us thither: this may prove food to
 my displeasure. That young start-up hath all the
 glory of my overthrow: if I can cross him any way, I
 bless myself every way. You are both sure, and will assist me?
-CONRADE
+_R_CONRADE
 To the death, my lord.
-DON JOHN
+_R_DON JOHN
 Let us to the great supper: their cheer is the
 greater that I am subdued. Would the cook were of
 my mind! Shall we go prove what's to be done?
-BORACHIO
+_R_BORACHIO
 We'll wait upon your lordship.
-Exeunt
+_D_Exeunt
 
