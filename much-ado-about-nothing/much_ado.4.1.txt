@@ -1,49 +1,49 @@
-SCENE I. A church.
-Enter DON PEDRO, DON JOHN, LEONATO, FRIAR FRANCIS, CLAUDIO, BENEDICK, HERO, BEATRICE, and Attendants
-LEONATO
+_S_SCENE I. A church.
+_D_Enter DON PEDRO, DON JOHN, LEONATO, FRIAR FRANCIS, CLAUDIO, BENEDICK, HERO, BEATRICE, and Attendants
+_R_LEONATO
 Come, Friar Francis, be brief; only to the plain
 form of marriage, and you shall recount their
 particular duties afterwards.
-FRIAR FRANCIS
+_R_FRIAR FRANCIS
 You come hither, my lord, to marry this lady.
-CLAUDIO
+_R_CLAUDIO
 No.
-LEONATO
+_R_LEONATO
 To be married to her: friar, you come to marry her.
-FRIAR FRANCIS
+_R_FRIAR FRANCIS
 Lady, you come hither to be married to this count.
-HERO
+_R_HERO
 I do.
-FRIAR FRANCIS
+_R_FRIAR FRANCIS
 If either of you know any inward impediment why you
 should not be conjoined, charge you, on your souls,
 to utter it.
-CLAUDIO
+_R_CLAUDIO
 Know you any, Hero?
-HERO
+_R_HERO
 None, my lord.
-FRIAR FRANCIS
+_R_FRIAR FRANCIS
 Know you any, count?
-LEONATO
+_R_LEONATO
 I dare make his answer, none.
-CLAUDIO
+_R_CLAUDIO
 O, what men dare do! what men may do! what men daily
 do, not knowing what they do!
-BENEDICK
+_R_BENEDICK
 How now! interjections? Why, then, some be of
 laughing, as, ah, ha, he!
-CLAUDIO
+_R_CLAUDIO
 Stand thee by, friar. Father, by your leave:
 Will you with free and unconstrained soul
 Give me this maid, your daughter?
-LEONATO
+_R_LEONATO
 As freely, son, as God did give her me.
-CLAUDIO
+_R_CLAUDIO
 And what have I to give you back, whose worth
 May counterpoise this rich and precious gift?
-DON PEDRO
+_R_DON PEDRO
 Nothing, unless you render her again.
-CLAUDIO
+_R_CLAUDIO
 Sweet prince, you learn me noble thankfulness.
 There, Leonato, take her back again:
 Give not this rotten orange to your friend;
@@ -57,16 +57,16 @@ All you that see her, that she were a maid,
 By these exterior shows? But she is none:
 She knows the heat of a luxurious bed;
 Her blush is guiltiness, not modesty.
-LEONATO
+_R_LEONATO
 What do you mean, my lord?
-CLAUDIO
+_R_CLAUDIO
 Not to be married,
 Not to knit my soul to an approved wanton.
-LEONATO
+_R_LEONATO
 Dear my lord, if you, in your own proof,
 Have vanquish'd the resistance of her youth,
 And made defeat of her virginity,--
-CLAUDIO
+_R_CLAUDIO
 I know what you would say: if I have known her,
 You will say she did embrace me as a husband,
 And so extenuate the 'forehand sin:
@@ -74,60 +74,60 @@ No, Leonato,
 I never tempted her with word too large;
 But, as a brother to his sister, show'd
 Bashful sincerity and comely love.
-HERO
+_R_HERO
 And seem'd I ever otherwise to you?
-CLAUDIO
+_R_CLAUDIO
 Out on thee! Seeming! I will write against it:
 You seem to me as Dian in her orb,
 As chaste as is the bud ere it be blown;
 But you are more intemperate in your blood
 Than Venus, or those pamper'd animals
 That rage in savage sensuality.
-HERO
+_R_HERO
 Is my lord well, that he doth speak so wide?
-LEONATO
+_R_LEONATO
 Sweet prince, why speak not you?
-DON PEDRO
+_R_DON PEDRO
 What should I speak?
 I stand dishonour'd, that have gone about
 To link my dear friend to a common stale.
-LEONATO
+_R_LEONATO
 Are these things spoken, or do I but dream?
-DON JOHN
+_R_DON JOHN
 Sir, they are spoken, and these things are true.
-BENEDICK
+_R_BENEDICK
 This looks not like a nuptial.
-HERO
+_R_HERO
 True! O God!
-CLAUDIO
+_R_CLAUDIO
 Leonato, stand I here?
 Is this the prince? is this the prince's brother?
 Is this face Hero's? are our eyes our own?
-LEONATO
+_R_LEONATO
 All this is so: but what of this, my lord?
-CLAUDIO
+_R_CLAUDIO
 Let me but move one question to your daughter;
 And, by that fatherly and kindly power
 That you have in her, bid her answer truly.
-LEONATO
+_R_LEONATO
 I charge thee do so, as thou art my child.
-HERO
+_R_HERO
 O, God defend me! how am I beset!
 What kind of catechising call you this?
-CLAUDIO
+_R_CLAUDIO
 To make you answer truly to your name.
-HERO
+_R_HERO
 Is it not Hero? Who can blot that name
 With any just reproach?
-CLAUDIO
+_R_CLAUDIO
 Marry, that can Hero;
 Hero itself can blot out Hero's virtue.
 What man was he talk'd with you yesternight
 Out at your window betwixt twelve and one?
 Now, if you are a maid, answer to this.
-HERO
+_R_HERO
 I talk'd with no man at that hour, my lord.
-DON PEDRO
+_R_DON PEDRO
 Why, then are you no maiden. Leonato,
 I am sorry you must hear: upon mine honour,
 Myself, my brother and this grieved count
@@ -136,13 +136,13 @@ Talk with a ruffian at her chamber-window
 Who hath indeed, most like a liberal villain,
 Confess'd the vile encounters they have had
 A thousand times in secret.
-DON JOHN
+_R_DON JOHN
 Fie, fie! they are not to be named, my lord,
 Not to be spoke of;
 There is not chastity enough in language
 Without offence to utter them. Thus, pretty lady,
 I am sorry for thy much misgovernment.
-CLAUDIO
+_R_CLAUDIO
 O Hero, what a Hero hadst thou been,
 If half thy outward graces had been placed
 About thy thoughts and counsels of thy heart!
@@ -152,35 +152,33 @@ For thee I'll lock up all the gates of love,
 And on my eyelids shall conjecture hang,
 To turn all beauty into thoughts of harm,
 And never shall it more be gracious.
-LEONATO
+_R_LEONATO
 Hath no man's dagger here a point for me?
-HERO swoons
-
-BEATRICE
+_D_HERO swoons
+_R_BEATRICE
 Why, how now, cousin! wherefore sink you down?
-DON JOHN
+_R_DON JOHN
 Come, let us go. These things, come thus to light,
 Smother her spirits up.
-Exeunt DON PEDRO, DON JOHN, and CLAUDIO
-
-BENEDICK
+_D_Exeunt DON PEDRO, DON JOHN, and CLAUDIO
+_R_BENEDICK
 How doth the lady?
-BEATRICE
+_R_BEATRICE
 Dead, I think. Help, uncle!
 Hero! why, Hero! Uncle! Signior Benedick! Friar!
-LEONATO
+_R_LEONATO
 O Fate! take not away thy heavy hand.
 Death is the fairest cover for her shame
 That may be wish'd for.
-BEATRICE
+_R_BEATRICE
 How now, cousin Hero!
-FRIAR FRANCIS
+_R_FRIAR FRANCIS
 Have comfort, lady.
-LEONATO
+_R_LEONATO
 Dost thou look up?
-FRIAR FRANCIS
+_R_FRIAR FRANCIS
 Yea, wherefore should she not?
-LEONATO
+_R_LEONATO
 Wherefore! Why, doth not every earthly thing
 Cry shame upon her? Could she here deny
 The story that is printed in her blood?
@@ -205,24 +203,24 @@ Into a pit of ink, that the wide sea
 Hath drops too few to wash her clean again
 And salt too little which may season give
 To her foul-tainted flesh!
-BENEDICK
+_R_BENEDICK
 Sir, sir, be patient.
 For my part, I am so attired in wonder,
 I know not what to say.
-BEATRICE
+_R_BEATRICE
 O, on my soul, my cousin is belied!
-BENEDICK
+_R_BENEDICK
 Lady, were you her bedfellow last night?
-BEATRICE
+_R_BEATRICE
 No, truly not; although, until last night,
 I have this twelvemonth been her bedfellow.
-LEONATO
+_R_LEONATO
 Confirm'd, confirm'd! O, that is stronger made
 Which was before barr'd up with ribs of iron!
 Would the two princes lie, and Claudio lie,
 Who loved her so, that, speaking of her foulness,
 Wash'd it with tears? Hence from her! let her die.
-FRIAR FRANCIS
+_R_FRIAR FRANCIS
 Hear me a little;
 For I have only been silent so long
 And given way unto this course of fortune.
@@ -240,16 +238,16 @@ The tenor of my book; trust not my age,
 My reverence, calling, nor divinity,
 If this sweet lady lie not guiltless here
 Under some biting error.
-LEONATO
+_R_LEONATO
 Friar, it cannot be.
 Thou seest that all the grace that she hath left
 Is that she will not add to her damnation
 A sin of perjury; she not denies it:
 Why seek'st thou then to cover with excuse
 That which appears in proper nakedness?
-FRIAR FRANCIS
+_R_FRIAR FRANCIS
 Lady, what man is he you are accused of?
-HERO
+_R_HERO
 They know that do accuse me; I know none:
 If I know more of any man alive
 Than that which maiden modesty doth warrant,
@@ -258,14 +256,14 @@ Prove you that any man with me conversed
 At hours unmeet, or that I yesternight
 Maintain'd the change of words with any creature,
 Refuse me, hate me, torture me to death!
-FRIAR FRANCIS
+_R_FRIAR FRANCIS
 There is some strange misprision in the princes.
-BENEDICK
+_R_BENEDICK
 Two of them have the very bent of honour;
 And if their wisdoms be misled in this,
 The practise of it lives in John the bastard,
 Whose spirits toil in frame of villanies.
-LEONATO
+_R_LEONATO
 I know not. If they speak but truth of her,
 These hands shall tear her; if they wrong her honour,
 The proudest of them shall well hear of it.
@@ -277,7 +275,7 @@ But they shall find, awaked in such a kind,
 Both strength of limb and policy of mind,
 Ability in means and choice of friends,
 To quit me of them throughly.
-FRIAR FRANCIS
+_R_FRIAR FRANCIS
 Pause awhile,
 And let my counsel sway you in this case.
 Your daughter here the princes left for dead:
@@ -287,9 +285,9 @@ Maintain a mourning ostentation
 And on your family's old monument
 Hang mournful epitaphs and do all rites
 That appertain unto a burial.
-LEONATO
+_R_LEONATO
 What shall become of this? what will this do?
-FRIAR FRANCIS
+_R_FRIAR FRANCIS
 Marry, this well carried shall on her behalf
 Change slander to remorse; that is some good:
 But not for that dream I on this strange course,
@@ -324,99 +322,98 @@ And if it sort not well, you may conceal her,
 As best befits her wounded reputation,
 In some reclusive and religious life,
 Out of all eyes, tongues, minds and injuries.
-BENEDICK
+_R_BENEDICK
 Signior Leonato, let the friar advise you:
 And though you know my inwardness and love
 Is very much unto the prince and Claudio,
 Yet, by mine honour, I will deal in this
 As secretly and justly as your soul
 Should with your body.
-LEONATO
+_R_LEONATO
 Being that I flow in grief,
 The smallest twine may lead me.
-FRIAR FRANCIS
+_R_FRIAR FRANCIS
 'Tis well consented: presently away;
 For to strange sores strangely they strain the cure.
 Come, lady, die to live: this wedding-day
 Perhaps is but prolong'd: have patience and endure.
-Exeunt all but BENEDICK and BEATRICE
-
-BENEDICK
+_D_Exeunt all but BENEDICK and BEATRICE
+_R_BENEDICK
 Lady Beatrice, have you wept all this while?
-BEATRICE
+_R_BEATRICE
 Yea, and I will weep a while longer.
-BENEDICK
+_R_BENEDICK
 I will not desire that.
-BEATRICE
+_R_BEATRICE
 You have no reason; I do it freely.
-BENEDICK
+_R_BENEDICK
 Surely I do believe your fair cousin is wronged.
-BEATRICE
+_R_BEATRICE
 Ah, how much might the man deserve of me that would right her!
-BENEDICK
+_R_BENEDICK
 Is there any way to show such friendship?
-BEATRICE
+_R_BEATRICE
 A very even way, but no such friend.
-BENEDICK
+_R_BENEDICK
 May a man do it?
-BEATRICE
+_R_BEATRICE
 It is a man's office, but not yours.
-BENEDICK
+_R_BENEDICK
 I do love nothing in the world so well as you: is
 not that strange?
-BEATRICE
+_R_BEATRICE
 As strange as the thing I know not. It were as
 possible for me to say I loved nothing so well as
 you: but believe me not; and yet I lie not; I
 confess nothing, nor I deny nothing. I am sorry for my cousin.
-BENEDICK
+_R_BENEDICK
 By my sword, Beatrice, thou lovest me.
-BEATRICE
+_R_BEATRICE
 Do not swear, and eat it.
-BENEDICK
+_R_BENEDICK
 I will swear by it that you love me; and I will make
 him eat it that says I love not you.
-BEATRICE
+_R_BEATRICE
 Will you not eat your word?
-BENEDICK
+_R_BENEDICK
 With no sauce that can be devised to it. I protest
 I love thee.
-BEATRICE
+_R_BEATRICE
 Why, then, God forgive me!
-BENEDICK
+_R_BENEDICK
 What offence, sweet Beatrice?
-BEATRICE
+_R_BEATRICE
 You have stayed me in a happy hour: I was about to
 protest I loved you.
-BENEDICK
+_R_BENEDICK
 And do it with all thy heart.
-BEATRICE
+_R_BEATRICE
 I love you with so much of my heart that none is
 left to protest.
-BENEDICK
+_R_BENEDICK
 Come, bid me do any thing for thee.
-BEATRICE
+_R_BEATRICE
 Kill Claudio.
-BENEDICK
+_R_BENEDICK
 Ha! not for the wide world.
-BEATRICE
+_R_BEATRICE
 You kill me to deny it. Farewell.
-BENEDICK
+_R_BENEDICK
 Tarry, sweet Beatrice.
-BEATRICE
+_R_BEATRICE
 I am gone, though I am here: there is no love in
 you: nay, I pray you, let me go.
-BENEDICK
+_R_BENEDICK
 Beatrice,--
-BEATRICE
+_R_BEATRICE
 In faith, I will go.
-BENEDICK
+_R_BENEDICK
 We'll be friends first.
-BEATRICE
+_R_BEATRICE
 You dare easier be friends with me than fight with mine enemy.
-BENEDICK
+_R_BENEDICK
 Is Claudio thine enemy?
-BEATRICE
+_R_BEATRICE
 Is he not approved in the height a villain, that
 hath slandered, scorned, dishonoured my kinswoman? O
 that I were a man! What, bear her in hand until they
@@ -424,17 +421,17 @@ come to take hands; and then, with public
 accusation, uncovered slander, unmitigated rancour,
 --O God, that I were a man! I would eat his heart
 in the market-place.
-BENEDICK
+_R_BENEDICK
 Hear me, Beatrice,--
-BEATRICE
+_R_BEATRICE
 Talk with a man out at a window! A proper saying!
-BENEDICK
+_R_BENEDICK
 Nay, but, Beatrice,--
-BEATRICE
+_R_BEATRICE
 Sweet Hero! She is wronged, she is slandered, she is undone.
-BENEDICK
+_R_BENEDICK
 Beat--
-BEATRICE
+_R_BEATRICE
 Princes and counties! Surely, a princely testimony,
 a goodly count, Count Comfect; a sweet gallant,
 surely! O that I were a man for his sake! or that I
@@ -444,18 +441,18 @@ compliment, and men are only turned into tongue, and
 trim ones too: he is now as valiant as Hercules
 that only tells a lie and swears it. I cannot be a
 man with wishing, therefore I will die a woman with grieving.
-BENEDICK
+_R_BENEDICK
 Tarry, good Beatrice. By this hand, I love thee.
-BEATRICE
+_R_BEATRICE
 Use it for my love some other way than swearing by it.
-BENEDICK
+_R_BENEDICK
 Think you in your soul the Count Claudio hath wronged Hero?
-BEATRICE
+_R_BEATRICE
 Yea, as sure as I have a thought or a soul.
-BENEDICK
+_R_BENEDICK
 Enough, I am engaged; I will challenge him. I will
 kiss your hand, and so I leave you. By this hand,
 Claudio shall render me a dear account. As you
 hear of me, so think of me. Go, comfort your
 cousin: I must say she is dead: and so, farewell.
-Exeunt
+_D_Exeunt
