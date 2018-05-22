@@ -99,7 +99,7 @@ _R_BEATRICE
 I have a good eye, uncle; I can see a church by daylight.
 _R_LEONATO
 The revellers are entering, brother: make good room.
-All put on their masks
+_D_All put on their masks
 _D_Enter DON PEDRO, CLAUDIO, BENEDICK, BALTHASAR, DON JOHN, BORACHIO, MARGARET, URSULA and others, masked
 _R_DON PEDRO
 Lady, will you walk about with your friend?
@@ -498,7 +498,7 @@ shall fall in love with Benedick; and I, with your
 two helps, will so practise on Benedick that, in
 despite of his quick wit and his queasy stomach, he
 shall fall in love with Beatrice. If we can do this,
-Cupid is no longer an archer: hi s glory shall be
+Cupid is no longer an archer: his glory shall be
 ours, for we are the only love-gods. Go in with me,
 and I will tell you my drift.
 _D_Exeunt
