@@ -1,0 +1,211 @@
+KWARGS:  {'endpoint_url': 'https://dynamodb.eu-west-1.amazonaws.com', 'region_name': 'eu-west-1'}
+AWS_ACCESS_KEY_ID: AKIAII7JONLFEAGF7J6Q
+Target final folder       : /Users/steve/Applications/eclipse/workspace-alexa/magical_readings/dev_test/dynamo_db/plays_scenes_ready
+Target final file         : /Users/steve/Applications/eclipse/workspace-alexa/magical_readings/dev_test/dynamo_db/plays_scenes_ready/much ado about nothing~~Act_3~~Scene_5.json
+Source text folder        : /Users/steve/Applications/eclipse/workspace-alexa/magical_readings_texts/much-ado-about-nothing
+Source text file          : /Users/steve/Applications/eclipse/workspace-alexa/magical_readings_texts/much-ado-about-nothing/much ado about nothing~~Act_3~~Scene_5.txt
+Press Enter to continue...
+_S_SCENE V. Another room in LEONATO'S house.
+_D_Enter LEONATO, with DOGBERRY and VERGES
+_R_LEONATO
+What would you with me, honest neighbour?
+_R_DOGBERRY
+Marry, sir, I would have some confidence with you
+that decerns you nearly.
+_R_LEONATO
+Brief, I pray you; for you see it is a busy time with me.
+_R_DOGBERRY
+Marry, this it is, sir.
+_R_VERGES
+Yes, in truth it is, sir.
+_R_LEONATO
+What is it, my good friends?
+_R_DOGBERRY
+Goodman Verges, sir, speaks a little off the
+matter: an old man, sir, and his wits are not so
+blunt as, God help, I would desire they were; but,
+in faith, honest as the skin between his brows.
+_R_VERGES
+Yes, I thank God I am as honest as any man living
+that is an old man and no honester than I.
+_R_DOGBERRY
+Comparisons are odorous: palabras, neighbour Verges.
+_R_LEONATO
+Neighbours, you are tedious.
+_R_DOGBERRY
+It pleases your worship to say so, but we are the
+poor duke's officers; but truly, for mine own part,
+if I were as tedious as a king, I could find it in
+my heart to bestow it all of your worship.
+_R_LEONATO
+All thy tediousness on me, ah?
+_R_DOGBERRY
+Yea, an 'twere a thousand pound more than 'tis; for
+I hear as good exclamation on your worship as of any
+man in the city; and though I be but a poor man, I
+am glad to hear it.
+_R_VERGES
+And so am I.
+_R_LEONATO
+I would fain know what you have to say.
+_R_VERGES
+Marry, sir, our watch to-night, excepting your
+worship's presence, ha' ta'en a couple of as arrant
+knaves as any in Messina.
+_R_DOGBERRY
+A good old man, sir; he will be talking: as they
+say, when the age is in, the wit is out: God help
+us! it is a world to see. Well said, i' faith,
+neighbour Verges: well, God's a good man; an two men
+ride of a horse, one must ride behind. An honest
+soul, i' faith, sir; by my troth he is, as ever
+broke bread; but God is to be worshipped; all men
+are not alike; alas, good neighbour!
+_R_LEONATO
+Indeed, neighbour, he comes too short of you.
+_R_DOGBERRY
+Gifts that God gives.
+_R_LEONATO
+I must leave you.
+_R_DOGBERRY
+One word, sir: our watch, sir, have indeed
+comprehended two aspicious persons, and we would
+have them this morning examined before your worship.
+_R_LEONATO
+Take their examination yourself and bring it me: I
+am now in great haste, as it may appear unto you.
+_R_DOGBERRY
+It shall be suffigance.
+_R_LEONATO
+Drink some wine ere you go: fare you well.
+_D_Enter a Messenger
+_R_Messenger
+My lord, they stay for you to give your daughter to
+her husband.
+_R_LEONATO
+I'll wait upon them: I am ready.
+_D_Exeunt LEONATO and Messenger
+_R_DOGBERRY
+Go, good partner, go, get you to Francis Seacole;
+bid him bring his pen and inkhorn to the gaol: we
+are now to examination these men.
+_R_VERGES
+And we must do it wisely.
+_R_DOGBERRY
+We will spare for no wit, I warrant you; here's
+that shall drive some of them to a non-come: only
+get the learned writer to set down our
+excommunication and meet me at the gaol.
+_D_Exeunt
+Press Enter to continue...
+D1: Enter LEONATO, with DOGBERRY and VERGES
+1:LEONATO "What would you with me, honest neighbour?"
+        ROLE LINE RANGE FOR LEONATO 1 1
+2:DOGBERRY "Marry, sir, I would have some confidence with you"
+3:DOGBERRY "that decerns you nearly."
+        ROLE LINE RANGE FOR DOGBERRY 2 3
+4:LEONATO "Brief, I pray you; for you see it is a busy time with me."
+        ROLE LINE RANGE FOR LEONATO 4 4
+5:DOGBERRY "Marry, this it is, sir."
+        ROLE LINE RANGE FOR DOGBERRY 5 5
+6:VERGES "Yes, in truth it is, sir."
+        ROLE LINE RANGE FOR VERGES 6 6
+7:LEONATO "What is it, my good friends?"
+        ROLE LINE RANGE FOR LEONATO 7 7
+8:DOGBERRY "Goodman Verges, sir, speaks a little off the"
+9:DOGBERRY "matter: an old man, sir, and his wits are not so"
+10:DOGBERRY "blunt as, God help, I would desire they were; but,"
+11:DOGBERRY "in faith, honest as the skin between his brows."
+        ROLE LINE RANGE FOR DOGBERRY 8 11
+12:VERGES "Yes, I thank God I am as honest as any man living"
+13:VERGES "that is an old man and no honester than I."
+        ROLE LINE RANGE FOR VERGES 12 13
+14:DOGBERRY "Comparisons are odorous: palabras, neighbour Verges."
+        ROLE LINE RANGE FOR DOGBERRY 14 14
+15:LEONATO "Neighbours, you are tedious."
+        ROLE LINE RANGE FOR LEONATO 15 15
+16:DOGBERRY "It pleases your worship to say so, but we are the"
+17:DOGBERRY "poor duke's officers; but truly, for mine own part,"
+18:DOGBERRY "if I were as tedious as a king, I could find it in"
+19:DOGBERRY "my heart to bestow it all of your worship."
+        ROLE LINE RANGE FOR DOGBERRY 16 19
+20:LEONATO "All thy tediousness on me, ah?"
+        ROLE LINE RANGE FOR LEONATO 20 20
+21:DOGBERRY "Yea, an 'twere a thousand pound more than 'tis; for"
+22:DOGBERRY "I hear as good exclamation on your worship as of any"
+23:DOGBERRY "man in the city; and though I be but a poor man, I"
+24:DOGBERRY "am glad to hear it."
+        ROLE LINE RANGE FOR DOGBERRY 21 24
+25:VERGES "And so am I."
+        ROLE LINE RANGE FOR VERGES 25 25
+26:LEONATO "I would fain know what you have to say."
+        ROLE LINE RANGE FOR LEONATO 26 26
+27:VERGES "Marry, sir, our watch to-night, excepting your"
+28:VERGES "worship's presence, ha' ta'en a couple of as arrant"
+29:VERGES "knaves as any in Messina."
+        ROLE LINE RANGE FOR VERGES 27 29
+30:DOGBERRY "A good old man, sir; he will be talking: as they"
+31:DOGBERRY "say, when the age is in, the wit is out: God help"
+32:DOGBERRY "us! it is a world to see. Well said, i' faith,"
+33:DOGBERRY "neighbour Verges: well, God's a good man; an two men"
+34:DOGBERRY "ride of a horse, one must ride behind. An honest"
+35:DOGBERRY "soul, i' faith, sir; by my troth he is, as ever"
+36:DOGBERRY "broke bread; but God is to be worshipped; all men"
+37:DOGBERRY "are not alike; alas, good neighbour!"
+        ROLE LINE RANGE FOR DOGBERRY 30 37
+38:LEONATO "Indeed, neighbour, he comes too short of you."
+        ROLE LINE RANGE FOR LEONATO 38 38
+39:DOGBERRY "Gifts that God gives."
+        ROLE LINE RANGE FOR DOGBERRY 39 39
+40:LEONATO "I must leave you."
+        ROLE LINE RANGE FOR LEONATO 40 40
+41:DOGBERRY "One word, sir: our watch, sir, have indeed"
+42:DOGBERRY "comprehended two aspicious persons, and we would"
+43:DOGBERRY "have them this morning examined before your worship."
+        ROLE LINE RANGE FOR DOGBERRY 41 43
+44:LEONATO "Take their examination yourself and bring it me: I"
+45:LEONATO "am now in great haste, as it may appear unto you."
+        ROLE LINE RANGE FOR LEONATO 44 45
+46:DOGBERRY "It shall be suffigance."
+        ROLE LINE RANGE FOR DOGBERRY 46 46
+47:LEONATO "Drink some wine ere you go: fare you well."
+D2: Enter a Messenger
+        ROLE LINE RANGE FOR LEONATO 47 47
+48:Messenger "My lord, they stay for you to give your daughter to"
+49:Messenger "her husband."
+        ROLE LINE RANGE FOR Messenger 48 49
+50:LEONATO "I'll wait upon them: I am ready."
+D3: Exeunt LEONATO and Messenger
+        ROLE LINE RANGE FOR LEONATO 50 50
+51:DOGBERRY "Go, good partner, go, get you to Francis Seacole;"
+52:DOGBERRY "bid him bring his pen and inkhorn to the gaol: we"
+53:DOGBERRY "are now to examination these men."
+        ROLE LINE RANGE FOR DOGBERRY 51 53
+54:VERGES "And we must do it wisely."
+        ROLE LINE RANGE FOR VERGES 54 54
+55:DOGBERRY "We will spare for no wit, I warrant you; here's"
+56:DOGBERRY "that shall drive some of them to a non-come: only"
+57:DOGBERRY "get the learned writer to set down our"
+58:DOGBERRY "excommunication and meet me at the gaol."
+D4: Exeunt
+        ROLE LINE RANGE FOR DOGBERRY 55 58
+Written to target file: /Users/steve/Applications/eclipse/workspace-alexa/magical_readings/dev_test/dynamo_db/plays_scenes_ready/much ado about nothing~~Act_3~~Scene_5.json
+Put item on remote DB? [y]
+Put item on DB table: play_scenes
+{
+    "ResponseMetadata": {
+        "RequestId": "EN9290VJFQDQEJRKDBQJDPQPCNVV4KQNSO5AEMVJF66Q9ASUAAJG",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "server": "Server",
+            "date": "Thu, 24 May 2018 14:23:34 GMT",
+            "content-type": "application/x-amz-json-1.0",
+            "content-length": "2",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "EN9290VJFQDQEJRKDBQJDPQPCNVV4KQNSO5AEMVJF66Q9ASUAAJG",
+            "x-amz-crc32": "2745614147"
+        },
+        "RetryAttempts": 0
+    }
+}
+Finished processing: much ado about nothing~~Act_3~~Scene_5

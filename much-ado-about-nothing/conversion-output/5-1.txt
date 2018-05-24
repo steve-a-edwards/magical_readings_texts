@@ -1,0 +1,947 @@
+KWARGS:  {'endpoint_url': 'https://dynamodb.eu-west-1.amazonaws.com', 'region_name': 'eu-west-1'}
+AWS_ACCESS_KEY_ID: AKIAII7JONLFEAGF7J6Q
+Target final folder       : /Users/steve/Applications/eclipse/workspace-alexa/magical_readings/dev_test/dynamo_db/plays_scenes_ready
+Target final file         : /Users/steve/Applications/eclipse/workspace-alexa/magical_readings/dev_test/dynamo_db/plays_scenes_ready/much ado about nothing~~Act_5~~Scene_1.json
+Source text folder        : /Users/steve/Applications/eclipse/workspace-alexa/magical_readings_texts/much-ado-about-nothing
+Source text file          : /Users/steve/Applications/eclipse/workspace-alexa/magical_readings_texts/much-ado-about-nothing/much ado about nothing~~Act_5~~Scene_1.txt
+Press Enter to continue...
+_S_SCENE I. Before LEONATO'S house.
+_D_Enter LEONATO and ANTONIO
+_R_ANTONIO
+If you go on thus, you will kill yourself:
+And 'tis not wisdom thus to second grief
+Against yourself.
+_R_LEONATO
+I pray thee, cease thy counsel,
+Which falls into mine ears as profitless
+As water in a sieve: give not me counsel;
+Nor let no comforter delight mine ear
+But such a one whose wrongs do suit with mine.
+Bring me a father that so loved his child,
+Whose joy of her is overwhelm'd like mine,
+And bid him speak of patience;
+Measure his woe the length and breadth of mine
+And let it answer every strain for strain,
+As thus for thus and such a grief for such,
+In every lineament, branch, shape, and form:
+If such a one will smile and stroke his beard,
+Bid sorrow wag, cry 'hem!' when he should groan,
+Patch grief with proverbs, make misfortune drunk
+With candle-wasters; bring him yet to me,
+And I of him will gather patience.
+But there is no such man: for, brother, men
+Can counsel and speak comfort to that grief
+Which they themselves not feel; but, tasting it,
+Their counsel turns to passion, which before
+Would give preceptial medicine to rage,
+Fetter strong madness in a silken thread,
+Charm ache with air and agony with words:
+No, no; 'tis all men's office to speak patience
+To those that wring under the load of sorrow,
+But no man's virtue nor sufficiency
+To be so moral when he shall endure
+The like himself. Therefore give me no counsel:
+My griefs cry louder than advertisement.
+_R_ANTONIO
+Therein do men from children nothing differ.
+_R_LEONATO
+I pray thee, peace. I will be flesh and blood;
+For there was never yet philosopher
+That could endure the toothache patiently,
+However they have writ the style of gods
+And made a push at chance and sufferance.
+_R_ANTONIO
+Yet bend not all the harm upon yourself;
+Make those that do offend you suffer too.
+_R_LEONATO
+There thou speak'st reason: nay, I will do so.
+My soul doth tell me Hero is belied;
+And that shall Claudio know; so shall the prince
+And all of them that thus dishonour her.
+_R_ANTONIO
+Here comes the prince and Claudio hastily.
+_D_Enter DON PEDRO and CLAUDIO
+_R_DON PEDRO
+Good den, good den.
+_R_CLAUDIO
+Good day to both of you.
+_R_LEONATO
+Hear you. my lords,--
+_R_DON PEDRO
+We have some haste, Leonato.
+_R_LEONATO
+Some haste, my lord! well, fare you well, my lord:
+Are you so hasty now? well, all is one.
+_R_DON PEDRO
+Nay, do not quarrel with us, good old man.
+_R_ANTONIO
+If he could right himself with quarreling,
+Some of us would lie low.
+_R_CLAUDIO
+Who wrongs him?
+_R_LEONATO
+Marry, thou dost wrong me; thou dissembler, thou:--
+Nay, never lay thy hand upon thy sword;
+I fear thee not.
+_R_CLAUDIO
+Marry, beshrew my hand,
+If it should give your age such cause of fear:
+In faith, my hand meant nothing to my sword.
+_R_LEONATO
+Tush, tush, man; never fleer and jest at me:
+I speak not like a dotard nor a fool,
+As under privilege of age to brag
+What I have done being young, or what would do
+Were I not old. Know, Claudio, to thy head,
+Thou hast so wrong'd mine innocent child and me
+That I am forced to lay my reverence by
+And, with grey hairs and bruise of many days,
+Do challenge thee to trial of a man.
+I say thou hast belied mine innocent child;
+Thy slander hath gone through and through her heart,
+And she lies buried with her ancestors;
+O, in a tomb where never scandal slept,
+Save this of hers, framed by thy villany!
+_R_CLAUDIO
+My villany?
+_R_LEONATO
+Thine, Claudio; thine, I say.
+_R_DON PEDRO
+You say not right, old man.
+_R_LEONATO
+My lord, my lord,
+I'll prove it on his body, if he dare,
+Despite his nice fence and his active practise,
+His May of youth and bloom of lustihood.
+_R_CLAUDIO
+Away! I will not have to do with you.
+_R_LEONATO
+Canst thou so daff me? Thou hast kill'd my child:
+If thou kill'st me, boy, thou shalt kill a man.
+_R_ANTONIO
+He shall kill two of us, and men indeed:
+But that's no matter; let him kill one first;
+Win me and wear me; let him answer me.
+Come, follow me, boy; come, sir boy, come, follow me:
+Sir boy, I'll whip you from your foining fence;
+Nay, as I am a gentleman, I will.
+_R_LEONATO
+Brother,--
+_R_ANTONIO
+Content yourself. God knows I loved my niece;
+And she is dead, slander'd to death by villains,
+That dare as well answer a man indeed
+As I dare take a serpent by the tongue:
+Boys, apes, braggarts, Jacks, milksops!
+_R_LEONATO
+Brother Antony,--
+_R_ANTONIO
+Hold you content. What, man! I know them, yea,
+And what they weigh, even to the utmost scruple,--
+Scrambling, out-facing, fashion-monging boys,
+That lie and cog and flout, deprave and slander,
+Go anticly, show outward hideousness,
+And speak off half a dozen dangerous words,
+How they might hurt their enemies, if they durst;
+And this is all.
+_R_LEONATO
+But, brother Antony,--
+_R_ANTONIO
+Come, 'tis no matter:
+Do not you meddle; let me deal in this.
+_R_DON PEDRO
+Gentlemen both, we will not wake your patience.
+My heart is sorry for your daughter's death:
+But, on my honour, she was charged with nothing
+But what was true and very full of proof.
+_R_LEONATO
+My lord, my lord,--
+_R_DON PEDRO
+I will not hear you.
+_R_LEONATO
+No? Come, brother; away! I will be heard.
+_R_ANTONIO
+And shall, or some of us will smart for it.
+_D_Exeunt LEONATO and ANTONIO
+_R_DON PEDRO
+See, see; here comes the man we went to seek.
+_D_Enter BENEDICK
+_R_CLAUDIO
+Now, signior, what news?
+_R_BENEDICK
+Good day, my lord.
+_R_DON PEDRO
+Welcome, signior: you are almost come to part
+almost a fray.
+_R_CLAUDIO
+We had like to have had our two noses snapped off
+with two old men without teeth.
+_R_DON PEDRO
+Leonato and his brother. What thinkest thou? Had
+we fought, I doubt we should have been too young for them.
+_R_BENEDICK
+In a false quarrel there is no true valour. I came
+to seek you both.
+_R_CLAUDIO
+We have been up and down to seek thee; for we are
+high-proof melancholy and would fain have it beaten
+away. Wilt thou use thy wit?
+_R_BENEDICK
+It is in my scabbard: shall I draw it?
+_R_DON PEDRO
+Dost thou wear thy wit by thy side?
+_R_CLAUDIO
+Never any did so, though very many have been beside
+their wit. I will bid thee draw, as we do the
+minstrels; draw, to pleasure us.
+_R_DON PEDRO
+As I am an honest man, he looks pale. Art thou
+sick, or angry?
+_R_CLAUDIO
+What, courage, man! What though care killed a cat,
+thou hast mettle enough in thee to kill care.
+_R_BENEDICK
+Sir, I shall meet your wit in the career, and you
+charge it against me. I pray you choose another subject.
+_R_CLAUDIO
+Nay, then, give him another staff: this last was
+broke cross.
+_R_DON PEDRO
+By this light, he changes more and more: I think
+he be angry indeed.
+_R_CLAUDIO
+If he be, he knows how to turn his girdle.
+_R_BENEDICK
+Shall I speak a word in your ear?
+_R_CLAUDIO
+God bless me from a challenge!
+_R_BENEDICK
+_D_Aside to CLAUDIO
+You are a villain; I jest not:
+I will make it good how you dare, with what you
+dare, and when you dare. Do me right, or I will
+protest your cowardice. You have killed a sweet
+lady, and her death shall fall heavy on you. Let me
+hear from you.
+_R_CLAUDIO
+Well, I will meet you, so I may have good cheer.
+_R_DON PEDRO
+What, a feast, a feast?
+_R_CLAUDIO
+I' faith, I thank him; he hath bid me to a calf's
+head and a capon; the which if I do not carve most
+curiously, say my knife's naught. Shall I not find
+a woodcock too?
+_R_BENEDICK
+Sir, your wit ambles well; it goes easily.
+_R_DON PEDRO
+I'll tell thee how Beatrice praised thy wit the
+other day. I said, thou hadst a fine wit: 'True,'
+said she, 'a fine little one.' 'No,' said I, 'a
+great wit:' 'Right,' says she, 'a great gross one.'
+'Nay,' said I, 'a good wit:' 'Just,' said she, 'it
+hurts nobody.' 'Nay,' said I, 'the gentleman
+is wise:' 'Certain,' said she, 'a wise gentleman.'
+'Nay,' said I, 'he hath the tongues:' 'That I
+believe,' said she, 'for he swore a thing to me on
+Monday night, which he forswore on Tuesday morning;
+there's a double tongue; there's two tongues.' Thus
+did she, an hour together, transshape thy particular
+virtues: yet at last she concluded with a sigh, thou
+wast the properest man in Italy.
+_R_CLAUDIO
+For the which she wept heartily and said she cared
+not.
+_R_DON PEDRO
+Yea, that she did: but yet, for all that, an if she
+did not hate him deadly, she would love him dearly:
+the old man's daughter told us all.
+_R_CLAUDIO
+All, all; and, moreover, God saw him when he was
+hid in the garden.
+_R_DON PEDRO
+But when shall we set the savage bull's horns on
+the sensible Benedick's head?
+_R_CLAUDIO
+Yea, and text underneath, 'Here dwells Benedick the
+married man'?
+_R_BENEDICK
+Fare you well, boy: you know my mind. I will leave
+you now to your gossip-like humour: you break jests
+as braggarts do their blades, which God be thanked,
+hurt not. My lord, for your many courtesies I thank
+you: I must discontinue your company: your brother
+the bastard is fled from Messina: you have among
+you killed a sweet and innocent lady. For my Lord
+Lackbeard there, he and I shall meet: and, till
+then, peace be with him.
+_D_Exit
+_R_DON PEDRO
+He is in earnest.
+_R_CLAUDIO
+In most profound earnest; and, I'll warrant you, for
+the love of Beatrice.
+_R_DON PEDRO
+And hath challenged thee.
+_R_CLAUDIO
+Most sincerely.
+_R_DON PEDRO
+What a pretty thing man is when he goes in his
+doublet and hose and leaves off his wit!
+_R_CLAUDIO
+He is then a giant to an ape; but then is an ape a
+doctor to such a man.
+_R_DON PEDRO
+But, soft you, let me be: pluck up, my heart, and
+be sad. Did he not say, my brother was fled?
+_D_Enter DOGBERRY, VERGES, and the Watch, with CONRADE and BORACHIO
+_R_DOGBERRY
+Come you, sir: if justice cannot tame you, she
+shall ne'er weigh more reasons in her balance: nay,
+an you be a cursing hypocrite once, you must be looked to.
+_R_DON PEDRO
+How now? two of my brother's men bound! Borachio
+one!
+_R_CLAUDIO
+Hearken after their offence, my lord.
+_R_DON PEDRO
+Officers, what offence have these men done?
+_R_DOGBERRY
+Marry, sir, they have committed false report;
+moreover, they have spoken untruths; secondarily,
+they are slanders; sixth and lastly, they have
+belied a lady; thirdly, they have verified unjust
+things; and, to conclude, they are lying knaves.
+_R_DON PEDRO
+First, I ask thee what they have done; thirdly, I
+ask thee what's their offence; sixth and lastly, why
+they are committed; and, to conclude, what you lay
+to their charge.
+_R_CLAUDIO
+Rightly reasoned, and in his own division: and, by
+my troth, there's one meaning well suited.
+_R_DON PEDRO
+Who have you offended, masters, that you are thus
+bound to your answer? this learned constable is
+too cunning to be understood: what's your offence?
+_R_BORACHIO
+Sweet prince, let me go no farther to mine answer:
+do you hear me, and let this count kill me. I have
+deceived even your very eyes: what your wisdoms
+could not discover, these shallow fools have brought
+to light: who in the night overheard me confessing
+to this man how Don John your brother incensed me
+to slander the Lady Hero, how you were brought into
+the orchard and saw me court Margaret in Hero's
+garments, how you disgraced her, when you should
+marry her: my villany they have upon record; which
+I had rather seal with my death than repeat over
+to my shame. The lady is dead upon mine and my
+master's false accusation; and, briefly, I desire
+nothing but the reward of a villain.
+_R_DON PEDRO
+Runs not this speech like iron through your blood?
+_R_CLAUDIO
+I have drunk poison whiles he utter'd it.
+_R_DON PEDRO
+But did my brother set thee on to this?
+_R_BORACHIO
+Yea, and paid me richly for the practise of it.
+_R_DON PEDRO
+He is composed and framed of treachery:
+And fled he is upon this villany.
+_R_CLAUDIO
+Sweet Hero! now thy image doth appear
+In the rare semblance that I loved it first.
+_R_DOGBERRY
+Come, bring away the plaintiffs: by this time our
+sexton hath reformed Signior Leonato of the matter:
+and, masters, do not forget to specify, when time
+and place shall serve, that I am an ass.
+_R_VERGES
+Here, here comes master Signior Leonato, and the
+Sexton too.
+_D_Re-enter LEONATO and ANTONIO, with the Sexton
+_R_LEONATO
+Which is the villain? let me see his eyes,
+That, when I note another man like him,
+I may avoid him: which of these is he?
+_R_BORACHIO
+If you would know your wronger, look on me.
+_R_LEONATO
+Art thou the slave that with thy breath hast kill'd
+Mine innocent child?
+_R_BORACHIO
+Yea, even I alone.
+_R_LEONATO
+No, not so, villain; thou beliest thyself:
+Here stand a pair of honourable men;
+A third is fled, that had a hand in it.
+I thank you, princes, for my daughter's death:
+Record it with your high and worthy deeds:
+'Twas bravely done, if you bethink you of it.
+_R_CLAUDIO
+I know not how to pray your patience;
+Yet I must speak. Choose your revenge yourself;
+Impose me to what penance your invention
+Can lay upon my sin: yet sinn'd I not
+But in mistaking.
+_R_DON PEDRO
+By my soul, nor I:
+And yet, to satisfy this good old man,
+I would bend under any heavy weight
+That he'll enjoin me to.
+_R_LEONATO
+I cannot bid you bid my daughter live;
+That were impossible: but, I pray you both,
+Possess the people in Messina here
+How innocent she died; and if your love
+Can labour ought in sad invention,
+Hang her an epitaph upon her tomb
+And sing it to her bones, sing it to-night:
+To-morrow morning come you to my house,
+And since you could not be my son-in-law,
+Be yet my nephew: my brother hath a daughter,
+Almost the copy of my child that's dead,
+And she alone is heir to both of us:
+Give her the right you should have given her cousin,
+And so dies my revenge.
+_R_CLAUDIO
+O noble sir,
+Your over-kindness doth wring tears from me!
+I do embrace your offer; and dispose
+For henceforth of poor Claudio.
+_R_LEONATO
+To-morrow then I will expect your coming;
+To-night I take my leave. This naughty man
+Shall face to face be brought to Margaret,
+Who I believe was pack'd in all this wrong,
+Hired to it by your brother.
+_R_BORACHIO
+No, by my soul, she was not,
+Nor knew not what she did when she spoke to me,
+But always hath been just and virtuous
+In any thing that I do know by her.
+_R_DOGBERRY
+Moreover, sir, which indeed is not under white and
+black, this plaintiff here, the offender, did call
+me ass: I beseech you, let it be remembered in his
+punishment. And also, the watch heard them talk of
+one Deformed: they say be wears a key in his ear and
+a lock hanging by it, and borrows money in God's
+name, the which he hath used so long and never paid
+that now men grow hard-hearted and will lend nothing
+for God's sake: pray you, examine him upon that point.
+_R_LEONATO
+I thank thee for thy care and honest pains.
+_R_DOGBERRY
+Your worship speaks like a most thankful and
+reverend youth; and I praise God for you.
+_R_LEONATO
+There's for thy pains.
+_R_DOGBERRY
+God save the foundation!
+_R_LEONATO
+Go, I discharge thee of thy prisoner, and I thank thee.
+_R_DOGBERRY
+I leave an arrant knave with your worship; which I
+beseech your worship to correct yourself, for the
+example of others. God keep your worship! I wish
+your worship well; God restore you to health! I
+humbly give you leave to depart; and if a merry
+meeting may be wished, God prohibit it! Come, neighbour.
+_D_Exeunt DOGBERRY and VERGES
+_R_LEONATO
+Until to-morrow morning, lords, farewell.
+_R_ANTONIO
+Farewell, my lords: we look for you to-morrow.
+_R_DON PEDRO
+We will not fail.
+_R_CLAUDIO
+To-night I'll mourn with Hero.
+_R_LEONATO
+_D_To the Watch
+Bring you these fellows on. We'll
+talk with Margaret,
+How her acquaintance grew with this lewd fellow.
+_D_Exeunt, severally
+Press Enter to continue...
+D1: Enter LEONATO and ANTONIO
+1:ANTONIO "If you go on thus, you will kill yourself:"
+2:ANTONIO "And 'tis not wisdom thus to second grief"
+3:ANTONIO "Against yourself."
+        ROLE LINE RANGE FOR ANTONIO 1 3
+4:LEONATO "I pray thee, cease thy counsel,"
+5:LEONATO "Which falls into mine ears as profitless"
+6:LEONATO "As water in a sieve: give not me counsel;"
+7:LEONATO "Nor let no comforter delight mine ear"
+8:LEONATO "But such a one whose wrongs do suit with mine."
+9:LEONATO "Bring me a father that so loved his child,"
+10:LEONATO "Whose joy of her is overwhelm'd like mine,"
+11:LEONATO "And bid him speak of patience;"
+12:LEONATO "Measure his woe the length and breadth of mine"
+13:LEONATO "And let it answer every strain for strain,"
+14:LEONATO "As thus for thus and such a grief for such,"
+15:LEONATO "In every lineament, branch, shape, and form:"
+16:LEONATO "If such a one will smile and stroke his beard,"
+17:LEONATO "Bid sorrow wag, cry 'hem!' when he should groan,"
+18:LEONATO "Patch grief with proverbs, make misfortune drunk"
+19:LEONATO "With candle-wasters; bring him yet to me,"
+20:LEONATO "And I of him will gather patience."
+21:LEONATO "But there is no such man: for, brother, men"
+22:LEONATO "Can counsel and speak comfort to that grief"
+23:LEONATO "Which they themselves not feel; but, tasting it,"
+24:LEONATO "Their counsel turns to passion, which before"
+25:LEONATO "Would give preceptial medicine to rage,"
+26:LEONATO "Fetter strong madness in a silken thread,"
+27:LEONATO "Charm ache with air and agony with words:"
+28:LEONATO "No, no; 'tis all men's office to speak patience"
+29:LEONATO "To those that wring under the load of sorrow,"
+30:LEONATO "But no man's virtue nor sufficiency"
+31:LEONATO "To be so moral when he shall endure"
+32:LEONATO "The like himself. Therefore give me no counsel:"
+33:LEONATO "My griefs cry louder than advertisement."
+        ROLE LINE RANGE FOR LEONATO 4 33
+34:ANTONIO "Therein do men from children nothing differ."
+        ROLE LINE RANGE FOR ANTONIO 34 34
+35:LEONATO "I pray thee, peace. I will be flesh and blood;"
+36:LEONATO "For there was never yet philosopher"
+37:LEONATO "That could endure the toothache patiently,"
+38:LEONATO "However they have writ the style of gods"
+39:LEONATO "And made a push at chance and sufferance."
+        ROLE LINE RANGE FOR LEONATO 35 39
+40:ANTONIO "Yet bend not all the harm upon yourself;"
+41:ANTONIO "Make those that do offend you suffer too."
+        ROLE LINE RANGE FOR ANTONIO 40 41
+42:LEONATO "There thou speak'st reason: nay, I will do so."
+43:LEONATO "My soul doth tell me Hero is belied;"
+44:LEONATO "And that shall Claudio know; so shall the prince"
+45:LEONATO "And all of them that thus dishonour her."
+        ROLE LINE RANGE FOR LEONATO 42 45
+46:ANTONIO "Here comes the prince and Claudio hastily."
+D2: Enter DON PEDRO and CLAUDIO
+        ROLE LINE RANGE FOR ANTONIO 46 46
+47:DON PEDRO "Good den, good den."
+        ROLE LINE RANGE FOR DON PEDRO 47 47
+48:CLAUDIO "Good day to both of you."
+        ROLE LINE RANGE FOR CLAUDIO 48 48
+49:LEONATO "Hear you. my lords,--"
+        ROLE LINE RANGE FOR LEONATO 49 49
+50:DON PEDRO "We have some haste, Leonato."
+        ROLE LINE RANGE FOR DON PEDRO 50 50
+51:LEONATO "Some haste, my lord! well, fare you well, my lord:"
+52:LEONATO "Are you so hasty now? well, all is one."
+        ROLE LINE RANGE FOR LEONATO 51 52
+53:DON PEDRO "Nay, do not quarrel with us, good old man."
+        ROLE LINE RANGE FOR DON PEDRO 53 53
+54:ANTONIO "If he could right himself with quarreling,"
+55:ANTONIO "Some of us would lie low."
+        ROLE LINE RANGE FOR ANTONIO 54 55
+56:CLAUDIO "Who wrongs him?"
+        ROLE LINE RANGE FOR CLAUDIO 56 56
+57:LEONATO "Marry, thou dost wrong me; thou dissembler, thou:--"
+58:LEONATO "Nay, never lay thy hand upon thy sword;"
+59:LEONATO "I fear thee not."
+        ROLE LINE RANGE FOR LEONATO 57 59
+60:CLAUDIO "Marry, beshrew my hand,"
+61:CLAUDIO "If it should give your age such cause of fear:"
+62:CLAUDIO "In faith, my hand meant nothing to my sword."
+        ROLE LINE RANGE FOR CLAUDIO 60 62
+63:LEONATO "Tush, tush, man; never fleer and jest at me:"
+64:LEONATO "I speak not like a dotard nor a fool,"
+65:LEONATO "As under privilege of age to brag"
+66:LEONATO "What I have done being young, or what would do"
+67:LEONATO "Were I not old. Know, Claudio, to thy head,"
+68:LEONATO "Thou hast so wrong'd mine innocent child and me"
+69:LEONATO "That I am forced to lay my reverence by"
+70:LEONATO "And, with grey hairs and bruise of many days,"
+71:LEONATO "Do challenge thee to trial of a man."
+72:LEONATO "I say thou hast belied mine innocent child;"
+73:LEONATO "Thy slander hath gone through and through her heart,"
+74:LEONATO "And she lies buried with her ancestors;"
+75:LEONATO "O, in a tomb where never scandal slept,"
+76:LEONATO "Save this of hers, framed by thy villany!"
+        ROLE LINE RANGE FOR LEONATO 63 76
+77:CLAUDIO "My villany?"
+        ROLE LINE RANGE FOR CLAUDIO 77 77
+78:LEONATO "Thine, Claudio; thine, I say."
+        ROLE LINE RANGE FOR LEONATO 78 78
+79:DON PEDRO "You say not right, old man."
+        ROLE LINE RANGE FOR DON PEDRO 79 79
+80:LEONATO "My lord, my lord,"
+81:LEONATO "I'll prove it on his body, if he dare,"
+82:LEONATO "Despite his nice fence and his active practise,"
+83:LEONATO "His May of youth and bloom of lustihood."
+        ROLE LINE RANGE FOR LEONATO 80 83
+84:CLAUDIO "Away! I will not have to do with you."
+        ROLE LINE RANGE FOR CLAUDIO 84 84
+85:LEONATO "Canst thou so daff me? Thou hast kill'd my child:"
+86:LEONATO "If thou kill'st me, boy, thou shalt kill a man."
+        ROLE LINE RANGE FOR LEONATO 85 86
+87:ANTONIO "He shall kill two of us, and men indeed:"
+88:ANTONIO "But that's no matter; let him kill one first;"
+89:ANTONIO "Win me and wear me; let him answer me."
+90:ANTONIO "Come, follow me, boy; come, sir boy, come, follow me:"
+91:ANTONIO "Sir boy, I'll whip you from your foining fence;"
+92:ANTONIO "Nay, as I am a gentleman, I will."
+        ROLE LINE RANGE FOR ANTONIO 87 92
+93:LEONATO "Brother,--"
+        ROLE LINE RANGE FOR LEONATO 93 93
+94:ANTONIO "Content yourself. God knows I loved my niece;"
+95:ANTONIO "And she is dead, slander'd to death by villains,"
+96:ANTONIO "That dare as well answer a man indeed"
+97:ANTONIO "As I dare take a serpent by the tongue:"
+98:ANTONIO "Boys, apes, braggarts, Jacks, milksops!"
+        ROLE LINE RANGE FOR ANTONIO 94 98
+99:LEONATO "Brother Antony,--"
+        ROLE LINE RANGE FOR LEONATO 99 99
+100:ANTONIO "Hold you content. What, man! I know them, yea,"
+101:ANTONIO "And what they weigh, even to the utmost scruple,--"
+102:ANTONIO "Scrambling, out-facing, fashion-monging boys,"
+103:ANTONIO "That lie and cog and flout, deprave and slander,"
+104:ANTONIO "Go anticly, show outward hideousness,"
+105:ANTONIO "And speak off half a dozen dangerous words,"
+106:ANTONIO "How they might hurt their enemies, if they durst;"
+107:ANTONIO "And this is all."
+        ROLE LINE RANGE FOR ANTONIO 100 107
+108:LEONATO "But, brother Antony,--"
+        ROLE LINE RANGE FOR LEONATO 108 108
+109:ANTONIO "Come, 'tis no matter:"
+110:ANTONIO "Do not you meddle; let me deal in this."
+        ROLE LINE RANGE FOR ANTONIO 109 110
+111:DON PEDRO "Gentlemen both, we will not wake your patience."
+112:DON PEDRO "My heart is sorry for your daughter's death:"
+113:DON PEDRO "But, on my honour, she was charged with nothing"
+114:DON PEDRO "But what was true and very full of proof."
+        ROLE LINE RANGE FOR DON PEDRO 111 114
+115:LEONATO "My lord, my lord,--"
+        ROLE LINE RANGE FOR LEONATO 115 115
+116:DON PEDRO "I will not hear you."
+        ROLE LINE RANGE FOR DON PEDRO 116 116
+117:LEONATO "No? Come, brother; away! I will be heard."
+        ROLE LINE RANGE FOR LEONATO 117 117
+118:ANTONIO "And shall, or some of us will smart for it."
+D3: Exeunt LEONATO and ANTONIO
+        ROLE LINE RANGE FOR ANTONIO 118 118
+119:DON PEDRO "See, see; here comes the man we went to seek."
+D4: Enter BENEDICK
+        ROLE LINE RANGE FOR DON PEDRO 119 119
+120:CLAUDIO "Now, signior, what news?"
+        ROLE LINE RANGE FOR CLAUDIO 120 120
+121:BENEDICK "Good day, my lord."
+        ROLE LINE RANGE FOR BENEDICK 121 121
+122:DON PEDRO "Welcome, signior: you are almost come to part"
+123:DON PEDRO "almost a fray."
+        ROLE LINE RANGE FOR DON PEDRO 122 123
+124:CLAUDIO "We had like to have had our two noses snapped off"
+125:CLAUDIO "with two old men without teeth."
+        ROLE LINE RANGE FOR CLAUDIO 124 125
+126:DON PEDRO "Leonato and his brother. What thinkest thou? Had"
+127:DON PEDRO "we fought, I doubt we should have been too young for them."
+        ROLE LINE RANGE FOR DON PEDRO 126 127
+128:BENEDICK "In a false quarrel there is no true valour. I came"
+129:BENEDICK "to seek you both."
+        ROLE LINE RANGE FOR BENEDICK 128 129
+130:CLAUDIO "We have been up and down to seek thee; for we are"
+131:CLAUDIO "high-proof melancholy and would fain have it beaten"
+132:CLAUDIO "away. Wilt thou use thy wit?"
+        ROLE LINE RANGE FOR CLAUDIO 130 132
+133:BENEDICK "It is in my scabbard: shall I draw it?"
+        ROLE LINE RANGE FOR BENEDICK 133 133
+134:DON PEDRO "Dost thou wear thy wit by thy side?"
+        ROLE LINE RANGE FOR DON PEDRO 134 134
+135:CLAUDIO "Never any did so, though very many have been beside"
+136:CLAUDIO "their wit. I will bid thee draw, as we do the"
+137:CLAUDIO "minstrels; draw, to pleasure us."
+        ROLE LINE RANGE FOR CLAUDIO 135 137
+138:DON PEDRO "As I am an honest man, he looks pale. Art thou"
+139:DON PEDRO "sick, or angry?"
+        ROLE LINE RANGE FOR DON PEDRO 138 139
+140:CLAUDIO "What, courage, man! What though care killed a cat,"
+141:CLAUDIO "thou hast mettle enough in thee to kill care."
+        ROLE LINE RANGE FOR CLAUDIO 140 141
+142:BENEDICK "Sir, I shall meet your wit in the career, and you"
+143:BENEDICK "charge it against me. I pray you choose another subject."
+        ROLE LINE RANGE FOR BENEDICK 142 143
+144:CLAUDIO "Nay, then, give him another staff: this last was"
+145:CLAUDIO "broke cross."
+        ROLE LINE RANGE FOR CLAUDIO 144 145
+146:DON PEDRO "By this light, he changes more and more: I think"
+147:DON PEDRO "he be angry indeed."
+        ROLE LINE RANGE FOR DON PEDRO 146 147
+148:CLAUDIO "If he be, he knows how to turn his girdle."
+        ROLE LINE RANGE FOR CLAUDIO 148 148
+149:BENEDICK "Shall I speak a word in your ear?"
+        ROLE LINE RANGE FOR BENEDICK 149 149
+150:CLAUDIO "God bless me from a challenge!"
+D5: Aside to CLAUDIO
+        ROLE LINE RANGE FOR CLAUDIO 150 150
+151:BENEDICK "You are a villain; I jest not:"
+152:BENEDICK "I will make it good how you dare, with what you"
+153:BENEDICK "dare, and when you dare. Do me right, or I will"
+154:BENEDICK "protest your cowardice. You have killed a sweet"
+155:BENEDICK "lady, and her death shall fall heavy on you. Let me"
+156:BENEDICK "hear from you."
+        ROLE LINE RANGE FOR BENEDICK 151 156
+157:CLAUDIO "Well, I will meet you, so I may have good cheer."
+        ROLE LINE RANGE FOR CLAUDIO 157 157
+158:DON PEDRO "What, a feast, a feast?"
+        ROLE LINE RANGE FOR DON PEDRO 158 158
+159:CLAUDIO "I' faith, I thank him; he hath bid me to a calf's"
+160:CLAUDIO "head and a capon; the which if I do not carve most"
+161:CLAUDIO "curiously, say my knife's naught. Shall I not find"
+162:CLAUDIO "a woodcock too?"
+        ROLE LINE RANGE FOR CLAUDIO 159 162
+163:BENEDICK "Sir, your wit ambles well; it goes easily."
+        ROLE LINE RANGE FOR BENEDICK 163 163
+164:DON PEDRO "I'll tell thee how Beatrice praised thy wit the"
+165:DON PEDRO "other day. I said, thou hadst a fine wit: 'True,'"
+166:DON PEDRO "said she, 'a fine little one.' 'No,' said I, 'a"
+167:DON PEDRO "great wit:' 'Right,' says she, 'a great gross one.'"
+168:DON PEDRO "'Nay,' said I, 'a good wit:' 'Just,' said she, 'it"
+169:DON PEDRO "hurts nobody.' 'Nay,' said I, 'the gentleman"
+170:DON PEDRO "is wise:' 'Certain,' said she, 'a wise gentleman.'"
+171:DON PEDRO "'Nay,' said I, 'he hath the tongues:' 'That I"
+172:DON PEDRO "believe,' said she, 'for he swore a thing to me on"
+173:DON PEDRO "Monday night, which he forswore on Tuesday morning;"
+174:DON PEDRO "there's a double tongue; there's two tongues.' Thus"
+175:DON PEDRO "did she, an hour together, transshape thy particular"
+176:DON PEDRO "virtues: yet at last she concluded with a sigh, thou"
+177:DON PEDRO "wast the properest man in Italy."
+        ROLE LINE RANGE FOR DON PEDRO 164 177
+178:CLAUDIO "For the which she wept heartily and said she cared"
+179:CLAUDIO "not."
+        ROLE LINE RANGE FOR CLAUDIO 178 179
+180:DON PEDRO "Yea, that she did: but yet, for all that, an if she"
+181:DON PEDRO "did not hate him deadly, she would love him dearly:"
+182:DON PEDRO "the old man's daughter told us all."
+        ROLE LINE RANGE FOR DON PEDRO 180 182
+183:CLAUDIO "All, all; and, moreover, God saw him when he was"
+184:CLAUDIO "hid in the garden."
+        ROLE LINE RANGE FOR CLAUDIO 183 184
+185:DON PEDRO "But when shall we set the savage bull's horns on"
+186:DON PEDRO "the sensible Benedick's head?"
+        ROLE LINE RANGE FOR DON PEDRO 185 186
+187:CLAUDIO "Yea, and text underneath, 'Here dwells Benedick the"
+188:CLAUDIO "married man'?"
+        ROLE LINE RANGE FOR CLAUDIO 187 188
+189:BENEDICK "Fare you well, boy: you know my mind. I will leave"
+190:BENEDICK "you now to your gossip-like humour: you break jests"
+191:BENEDICK "as braggarts do their blades, which God be thanked,"
+192:BENEDICK "hurt not. My lord, for your many courtesies I thank"
+193:BENEDICK "you: I must discontinue your company: your brother"
+194:BENEDICK "the bastard is fled from Messina: you have among"
+195:BENEDICK "you killed a sweet and innocent lady. For my Lord"
+196:BENEDICK "Lackbeard there, he and I shall meet: and, till"
+197:BENEDICK "then, peace be with him."
+D6: Exit
+        ROLE LINE RANGE FOR BENEDICK 189 197
+198:DON PEDRO "He is in earnest."
+        ROLE LINE RANGE FOR DON PEDRO 198 198
+199:CLAUDIO "In most profound earnest; and, I'll warrant you, for"
+200:CLAUDIO "the love of Beatrice."
+        ROLE LINE RANGE FOR CLAUDIO 199 200
+201:DON PEDRO "And hath challenged thee."
+        ROLE LINE RANGE FOR DON PEDRO 201 201
+202:CLAUDIO "Most sincerely."
+        ROLE LINE RANGE FOR CLAUDIO 202 202
+203:DON PEDRO "What a pretty thing man is when he goes in his"
+204:DON PEDRO "doublet and hose and leaves off his wit!"
+        ROLE LINE RANGE FOR DON PEDRO 203 204
+205:CLAUDIO "He is then a giant to an ape; but then is an ape a"
+206:CLAUDIO "doctor to such a man."
+        ROLE LINE RANGE FOR CLAUDIO 205 206
+207:DON PEDRO "But, soft you, let me be: pluck up, my heart, and"
+208:DON PEDRO "be sad. Did he not say, my brother was fled?"
+D7: Enter DOGBERRY, VERGES, and the Watch, with CONRADE and BORACHIO
+        ROLE LINE RANGE FOR DON PEDRO 207 208
+209:DOGBERRY "Come you, sir: if justice cannot tame you, she"
+210:DOGBERRY "shall ne'er weigh more reasons in her balance: nay,"
+211:DOGBERRY "an you be a cursing hypocrite once, you must be looked to."
+        ROLE LINE RANGE FOR DOGBERRY 209 211
+212:DON PEDRO "How now? two of my brother's men bound! Borachio"
+213:DON PEDRO "one!"
+        ROLE LINE RANGE FOR DON PEDRO 212 213
+214:CLAUDIO "Hearken after their offence, my lord."
+        ROLE LINE RANGE FOR CLAUDIO 214 214
+215:DON PEDRO "Officers, what offence have these men done?"
+        ROLE LINE RANGE FOR DON PEDRO 215 215
+216:DOGBERRY "Marry, sir, they have committed false report;"
+217:DOGBERRY "moreover, they have spoken untruths; secondarily,"
+218:DOGBERRY "they are slanders; sixth and lastly, they have"
+219:DOGBERRY "belied a lady; thirdly, they have verified unjust"
+220:DOGBERRY "things; and, to conclude, they are lying knaves."
+        ROLE LINE RANGE FOR DOGBERRY 216 220
+221:DON PEDRO "First, I ask thee what they have done; thirdly, I"
+222:DON PEDRO "ask thee what's their offence; sixth and lastly, why"
+223:DON PEDRO "they are committed; and, to conclude, what you lay"
+224:DON PEDRO "to their charge."
+        ROLE LINE RANGE FOR DON PEDRO 221 224
+225:CLAUDIO "Rightly reasoned, and in his own division: and, by"
+226:CLAUDIO "my troth, there's one meaning well suited."
+        ROLE LINE RANGE FOR CLAUDIO 225 226
+227:DON PEDRO "Who have you offended, masters, that you are thus"
+228:DON PEDRO "bound to your answer? this learned constable is"
+229:DON PEDRO "too cunning to be understood: what's your offence?"
+        ROLE LINE RANGE FOR DON PEDRO 227 229
+230:BORACHIO "Sweet prince, let me go no farther to mine answer:"
+231:BORACHIO "do you hear me, and let this count kill me. I have"
+232:BORACHIO "deceived even your very eyes: what your wisdoms"
+233:BORACHIO "could not discover, these shallow fools have brought"
+234:BORACHIO "to light: who in the night overheard me confessing"
+235:BORACHIO "to this man how Don John your brother incensed me"
+236:BORACHIO "to slander the Lady Hero, how you were brought into"
+237:BORACHIO "the orchard and saw me court Margaret in Hero's"
+238:BORACHIO "garments, how you disgraced her, when you should"
+239:BORACHIO "marry her: my villany they have upon record; which"
+240:BORACHIO "I had rather seal with my death than repeat over"
+241:BORACHIO "to my shame. The lady is dead upon mine and my"
+242:BORACHIO "master's false accusation; and, briefly, I desire"
+243:BORACHIO "nothing but the reward of a villain."
+        ROLE LINE RANGE FOR BORACHIO 230 243
+244:DON PEDRO "Runs not this speech like iron through your blood?"
+        ROLE LINE RANGE FOR DON PEDRO 244 244
+245:CLAUDIO "I have drunk poison whiles he utter'd it."
+        ROLE LINE RANGE FOR CLAUDIO 245 245
+246:DON PEDRO "But did my brother set thee on to this?"
+        ROLE LINE RANGE FOR DON PEDRO 246 246
+247:BORACHIO "Yea, and paid me richly for the practise of it."
+        ROLE LINE RANGE FOR BORACHIO 247 247
+248:DON PEDRO "He is composed and framed of treachery:"
+249:DON PEDRO "And fled he is upon this villany."
+        ROLE LINE RANGE FOR DON PEDRO 248 249
+250:CLAUDIO "Sweet Hero! now thy image doth appear"
+251:CLAUDIO "In the rare semblance that I loved it first."
+        ROLE LINE RANGE FOR CLAUDIO 250 251
+252:DOGBERRY "Come, bring away the plaintiffs: by this time our"
+253:DOGBERRY "sexton hath reformed Signior Leonato of the matter:"
+254:DOGBERRY "and, masters, do not forget to specify, when time"
+255:DOGBERRY "and place shall serve, that I am an ass."
+        ROLE LINE RANGE FOR DOGBERRY 252 255
+256:VERGES "Here, here comes master Signior Leonato, and the"
+257:VERGES "Sexton too."
+D8: Re-enter LEONATO and ANTONIO, with the Sexton
+        ROLE LINE RANGE FOR VERGES 256 257
+258:LEONATO "Which is the villain? let me see his eyes,"
+259:LEONATO "That, when I note another man like him,"
+260:LEONATO "I may avoid him: which of these is he?"
+        ROLE LINE RANGE FOR LEONATO 258 260
+261:BORACHIO "If you would know your wronger, look on me."
+        ROLE LINE RANGE FOR BORACHIO 261 261
+262:LEONATO "Art thou the slave that with thy breath hast kill'd"
+263:LEONATO "Mine innocent child?"
+        ROLE LINE RANGE FOR LEONATO 262 263
+264:BORACHIO "Yea, even I alone."
+        ROLE LINE RANGE FOR BORACHIO 264 264
+265:LEONATO "No, not so, villain; thou beliest thyself:"
+266:LEONATO "Here stand a pair of honourable men;"
+267:LEONATO "A third is fled, that had a hand in it."
+268:LEONATO "I thank you, princes, for my daughter's death:"
+269:LEONATO "Record it with your high and worthy deeds:"
+270:LEONATO "'Twas bravely done, if you bethink you of it."
+        ROLE LINE RANGE FOR LEONATO 265 270
+271:CLAUDIO "I know not how to pray your patience;"
+272:CLAUDIO "Yet I must speak. Choose your revenge yourself;"
+273:CLAUDIO "Impose me to what penance your invention"
+274:CLAUDIO "Can lay upon my sin: yet sinn'd I not"
+275:CLAUDIO "But in mistaking."
+        ROLE LINE RANGE FOR CLAUDIO 271 275
+276:DON PEDRO "By my soul, nor I:"
+277:DON PEDRO "And yet, to satisfy this good old man,"
+278:DON PEDRO "I would bend under any heavy weight"
+279:DON PEDRO "That he'll enjoin me to."
+        ROLE LINE RANGE FOR DON PEDRO 276 279
+280:LEONATO "I cannot bid you bid my daughter live;"
+281:LEONATO "That were impossible: but, I pray you both,"
+282:LEONATO "Possess the people in Messina here"
+283:LEONATO "How innocent she died; and if your love"
+284:LEONATO "Can labour ought in sad invention,"
+285:LEONATO "Hang her an epitaph upon her tomb"
+286:LEONATO "And sing it to her bones, sing it to-night:"
+287:LEONATO "To-morrow morning come you to my house,"
+288:LEONATO "And since you could not be my son-in-law,"
+289:LEONATO "Be yet my nephew: my brother hath a daughter,"
+290:LEONATO "Almost the copy of my child that's dead,"
+291:LEONATO "And she alone is heir to both of us:"
+292:LEONATO "Give her the right you should have given her cousin,"
+293:LEONATO "And so dies my revenge."
+        ROLE LINE RANGE FOR LEONATO 280 293
+294:CLAUDIO "O noble sir,"
+295:CLAUDIO "Your over-kindness doth wring tears from me!"
+296:CLAUDIO "I do embrace your offer; and dispose"
+297:CLAUDIO "For henceforth of poor Claudio."
+        ROLE LINE RANGE FOR CLAUDIO 294 297
+298:LEONATO "To-morrow then I will expect your coming;"
+299:LEONATO "To-night I take my leave. This naughty man"
+300:LEONATO "Shall face to face be brought to Margaret,"
+301:LEONATO "Who I believe was pack'd in all this wrong,"
+302:LEONATO "Hired to it by your brother."
+        ROLE LINE RANGE FOR LEONATO 298 302
+303:BORACHIO "No, by my soul, she was not,"
+304:BORACHIO "Nor knew not what she did when she spoke to me,"
+305:BORACHIO "But always hath been just and virtuous"
+306:BORACHIO "In any thing that I do know by her."
+        ROLE LINE RANGE FOR BORACHIO 303 306
+307:DOGBERRY "Moreover, sir, which indeed is not under white and"
+308:DOGBERRY "black, this plaintiff here, the offender, did call"
+309:DOGBERRY "me ass: I beseech you, let it be remembered in his"
+310:DOGBERRY "punishment. And also, the watch heard them talk of"
+311:DOGBERRY "one Deformed: they say be wears a key in his ear and"
+312:DOGBERRY "a lock hanging by it, and borrows money in God's"
+313:DOGBERRY "name, the which he hath used so long and never paid"
+314:DOGBERRY "that now men grow hard-hearted and will lend nothing"
+315:DOGBERRY "for God's sake: pray you, examine him upon that point."
+        ROLE LINE RANGE FOR DOGBERRY 307 315
+316:LEONATO "I thank thee for thy care and honest pains."
+        ROLE LINE RANGE FOR LEONATO 316 316
+317:DOGBERRY "Your worship speaks like a most thankful and"
+318:DOGBERRY "reverend youth; and I praise God for you."
+        ROLE LINE RANGE FOR DOGBERRY 317 318
+319:LEONATO "There's for thy pains."
+        ROLE LINE RANGE FOR LEONATO 319 319
+320:DOGBERRY "God save the foundation!"
+        ROLE LINE RANGE FOR DOGBERRY 320 320
+321:LEONATO "Go, I discharge thee of thy prisoner, and I thank thee."
+        ROLE LINE RANGE FOR LEONATO 321 321
+322:DOGBERRY "I leave an arrant knave with your worship; which I"
+323:DOGBERRY "beseech your worship to correct yourself, for the"
+324:DOGBERRY "example of others. God keep your worship! I wish"
+325:DOGBERRY "your worship well; God restore you to health! I"
+326:DOGBERRY "humbly give you leave to depart; and if a merry"
+327:DOGBERRY "meeting may be wished, God prohibit it! Come, neighbour."
+D9: Exeunt DOGBERRY and VERGES
+        ROLE LINE RANGE FOR DOGBERRY 322 327
+328:LEONATO "Until to-morrow morning, lords, farewell."
+        ROLE LINE RANGE FOR LEONATO 328 328
+329:ANTONIO "Farewell, my lords: we look for you to-morrow."
+        ROLE LINE RANGE FOR ANTONIO 329 329
+330:DON PEDRO "We will not fail."
+        ROLE LINE RANGE FOR DON PEDRO 330 330
+331:CLAUDIO "To-night I'll mourn with Hero."
+D10: To the Watch
+        ROLE LINE RANGE FOR CLAUDIO 331 331
+332:LEONATO "Bring you these fellows on. We'll"
+333:LEONATO "talk with Margaret,"
+334:LEONATO "How her acquaintance grew with this lewd fellow."
+D11: Exeunt, severally
+        ROLE LINE RANGE FOR LEONATO 332 334
+Written to target file: /Users/steve/Applications/eclipse/workspace-alexa/magical_readings/dev_test/dynamo_db/plays_scenes_ready/much ado about nothing~~Act_5~~Scene_1.json
+Put item on remote DB? [y]
+Put item on DB table: play_scenes
+{
+    "ResponseMetadata": {
+        "RequestId": "LD2RCR6I7J6R30I69CKGGEJ8ENVV4KQNSO5AEMVJF66Q9ASUAAJG",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "server": "Server",
+            "date": "Thu, 24 May 2018 14:27:48 GMT",
+            "content-type": "application/x-amz-json-1.0",
+            "content-length": "2",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "LD2RCR6I7J6R30I69CKGGEJ8ENVV4KQNSO5AEMVJF66Q9ASUAAJG",
+            "x-amz-crc32": "2745614147"
+        },
+        "RetryAttempts": 0
+    }
+}
+Finished processing: much ado about nothing~~Act_5~~Scene_1
