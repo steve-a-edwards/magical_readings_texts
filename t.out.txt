@@ -1,0 +1,350 @@
+
+_S_SCENE I. Verona. A public place.
+_D_Enter SAMPSON and GREGORY, of the house of Capulet, armed with swords and bucklers
+_R_SAMPSON
+_T_Gregory, o' my word, we'll not carry coals.
+_R_GREGORY
+_T_No, for then we should be colliers.
+_R_SAMPSON
+_T_I mean, an we be in choler, we'll draw.
+_R_GREGORY
+_T_Ay, while you live, draw your neck out o' the collar.
+_R_SAMPSON
+_T_I strike quickly, being moved.
+_R_GREGORY
+_T_But thou art not quickly moved to strike.
+_R_SAMPSON
+_T_A dog of the house of Montague moves me.
+_R_GREGORY
+_T_To move is to stir; and to be valiant is to stand:
+_T_therefore, if thou art moved, thou runn'st away.
+_R_SAMPSON
+_T_A dog of that house shall move me to stand: I will
+_T_take the wall of any man or maid of Montague's.
+_R_GREGORY
+_T_That shows thee a weak slave; for the weakest goes
+_T_to the wall.
+_R_SAMPSON
+_T_True; and therefore women, being the weaker vessels,
+_T_are ever thrust to the wall: therefore I will push
+_T_Montague's men from the wall, and thrust his maids
+_T_to the wall.
+_R_GREGORY
+_T_The quarrel is between our masters and us their men.
+_R_SAMPSON
+_T_'Tis all one, I will show myself a tyrant: when I
+_T_have fought with the men, I will be cruel with the
+_T_maids, and cut off their heads.
+_R_GREGORY
+_T_The heads of the maids?
+_R_SAMPSON
+_T_Ay, the heads of the maids, or their maidenheads;
+_T_take it in what sense thou wilt.
+_R_GREGORY
+_T_They must take it in sense that feel it.
+_R_SAMPSON
+_T_Me they shall feel while I am able to stand: and
+_T_'tis known I am a pretty piece of flesh.
+_R_GREGORY
+_T_'Tis well thou art not fish; if thou hadst, thou
+_T_hadst been poor John. Draw thy tool! here comes
+_T_two of the house of the Montagues.
+_R_SAMPSON
+_T_My naked weapon is out: quarrel, I will back thee.
+_R_GREGORY
+_T_How! turn thy back and run?
+_R_SAMPSON
+_T_Fear me not.
+_R_GREGORY
+_T_No, marry; I fear thee!
+_R_SAMPSON
+_T_Let us take the law of our sides; let them begin.
+_R_GREGORY
+_T_I will frown as I pass by, and let them take it as
+_T_they list.
+_R_SAMPSON
+_T_Nay, as they dare. I will bite my thumb at them;
+_T_which is a disgrace to them, if they bear it.
+_D_Enter ABRAHAM and BALTHASAR
+_R_ABRAHAM
+_T_Do you bite your thumb at us, sir?
+_R_SAMPSON
+_T_I do bite my thumb, sir.
+_R_ABRAHAM
+_T_Do you bite your thumb at us, sir?
+_R_SAMPSON
+_T_[Aside to GREGORY] Is the law of our side, if I say
+_T_ay?
+_R_GREGORY
+_T_No.
+_R_SAMPSON
+_T_No, sir, I do not bite my thumb at you, sir, but I
+_T_bite my thumb, sir.
+_R_GREGORY
+_T_Do you quarrel, sir?
+_R_ABRAHAM
+_T_Quarrel sir! no, sir.
+_R_SAMPSON
+_T_If you do, sir, I am for you: I serve as good a man as you.
+_R_ABRAHAM
+_T_No better.
+_R_SAMPSON
+_T_Well, sir.
+_R_GREGORY
+_T_Say 'better:' here comes one of my master's kinsmen.
+_R_SAMPSON
+_T_Yes, better, sir.
+_R_ABRAHAM
+_T_You lie.
+_R_SAMPSON
+_T_Draw, if you be men. Gregory, remember thy swashing blow.
+_D_They fight
+_D_Enter BENVOLIO
+_R_BENVOLIO
+_T_Part, fools!
+_T_Put up your swords; you know not what you do.
+_D_Beats down their swords
+_D_Enter TYBALT
+_R_TYBALT
+_T_What, art thou drawn among these heartless hinds?
+_T_Turn thee, Benvolio, look upon thy death.
+_R_BENVOLIO
+_T_I do but keep the peace: put up thy sword,
+_T_Or manage it to part these men with me.
+_R_TYBALT
+_T_What, drawn, and talk of peace! I hate the word,
+_T_As I hate hell, all Montagues, and thee:
+_T_Have at thee, coward!
+_D_They fight
+_D_Enter, several of both houses, who join the fray; then enter Citizens, with clubs
+_R_First Citizen
+_T_Clubs, bills, and partisans! strike! beat them down!
+_T_Down with the Capulets! down with the Montagues!
+_D_Enter CAPULET in his gown, and LADY CAPULET
+_R_CAPULET
+_T_What noise is this? Give me my long sword, ho!
+_R_LADY CAPULET
+_T_A crutch, a crutch! why call you for a sword?
+_R_CAPULET
+_T_My sword, I say! Old Montague is come,
+_T_And flourishes his blade in spite of me.
+_D_Enter MONTAGUE and LADY MONTAGUE
+_R_MONTAGUE
+_T_Thou villain Capulet,--Hold me not, let me go.
+_R_LADY MONTAGUE
+_T_Thou shalt not stir a foot to seek a foe.
+_D_Enter PRINCE, with Attendants
+_R_PRINCE
+_T_Rebellious subjects, enemies to peace,
+_T_Profaners of this neighbour-stained steel,--
+_T_Will they not hear? What, ho! you men, you beasts,
+_T_That quench the fire of your pernicious rage
+_T_With purple fountains issuing from your veins,
+_T_On pain of torture, from those bloody hands
+_T_Throw your mistemper'd weapons to the ground,
+_T_And hear the sentence of your moved prince.
+_T_Three civil brawls, bred of an airy word,
+_T_By thee, old Capulet, and Montague,
+_T_Have thrice disturb'd the quiet of our streets,
+_T_And made Verona's ancient citizens
+_T_Cast by their grave beseeming ornaments,
+_T_To wield old partisans, in hands as old,
+_T_Canker'd with peace, to part your canker'd hate:
+_T_If ever you disturb our streets again,
+_T_Your lives shall pay the forfeit of the peace.
+_T_For this time, all the rest depart away:
+_T_You Capulet; shall go along with me:
+_T_And, Montague, come you this afternoon,
+_T_To know our further pleasure in this case,
+_T_To old Free-town, our common judgment-place.
+_T_Once more, on pain of death, all men depart.
+_D_Exeunt all but MONTAGUE, LADY MONTAGUE, and BENVOLIO
+_R_MONTAGUE
+_T_Who set this ancient quarrel new abroach?
+_T_Speak, nephew, were you by when it began?
+_R_BENVOLIO
+_T_Here were the servants of your adversary,
+_T_And yours, close fighting ere I did approach:
+_T_I drew to part them: in the instant came
+_T_The fiery Tybalt, with his sword prepared,
+_T_Which, as he breathed defiance to my ears,
+_T_He swung about his head and cut the winds,
+_T_Who nothing hurt withal hiss'd him in scorn:
+_T_While we were interchanging thrusts and blows,
+_T_Came more and more and fought on part and part,
+_T_Till the prince came, who parted either part.
+_R_LADY MONTAGUE
+_T_O, where is Romeo? saw you him to-day?
+_T_Right glad I am he was not at this fray.
+_R_BENVOLIO
+_T_Madam, an hour before the worshipp'd sun
+_T_Peer'd forth the golden window of the east,
+_T_A troubled mind drave me to walk abroad;
+_T_Where, underneath the grove of sycamore
+_T_That westward rooteth from the city's side,
+_T_So early walking did I see your son:
+_T_Towards him I made, but he was ware of me
+_T_And stole into the covert of the wood:
+_T_I, measuring his affections by my own,
+_T_That most are busied when they're most alone,
+_T_Pursued my humour not pursuing his,
+_T_And gladly shunn'd who gladly fled from me.
+_R_MONTAGUE
+_T_Many a morning hath he there been seen,
+_T_With tears augmenting the fresh morning dew.
+_T_Adding to clouds more clouds with his deep sighs;
+_T_But all so soon as the all-cheering sun
+_T_Should in the furthest east begin to draw
+_T_The shady curtains from Aurora's bed,
+_T_Away from the light steals home my heavy son,
+_T_And private in his chamber pens himself,
+_T_Shuts up his windows, locks far daylight out
+_T_And makes himself an artificial night:
+_T_Black and portentous must this humour prove,
+_T_Unless good counsel may the cause remove.
+_R_BENVOLIO
+_T_My noble uncle, do you know the cause?
+_R_MONTAGUE
+_T_I neither know it nor can learn of him.
+_R_BENVOLIO
+_T_Have you importuned him by any means?
+_R_MONTAGUE
+_T_Both by myself and many other friends:
+_T_But he, his own affections' counsellor,
+_T_Is to himself--I will not say how true--
+_T_But to himself so secret and so close,
+_T_So far from sounding and discovery,
+_T_As is the bud bit with an envious worm,
+_T_Ere he can spread his sweet leaves to the air,
+_T_Or dedicate his beauty to the sun.
+_T_Could we but learn from whence his sorrows grow.
+_T_We would as willingly give cure as know.
+_D_Enter ROMEO
+_R_BENVOLIO
+_T_See, where he comes: so please you, step aside;
+_T_I'll know his grievance, or be much denied.
+_R_MONTAGUE
+_T_I would thou wert so happy by thy stay,
+_T_To hear true shrift. Come, madam, let's away.
+_D_Exeunt MONTAGUE and LADY MONTAGUE
+_R_BENVOLIO
+_T_Good-morrow, cousin.
+_R_ROMEO
+_T_Is the day so young?
+_R_BENVOLIO
+_T_But new struck nine.
+_R_ROMEO
+_T_Ay me! sad hours seem long.
+_T_Was that my father that went hence so fast?
+_R_BENVOLIO
+_T_It was. What sadness lengthens Romeo's hours?
+_R_ROMEO
+_T_Not having that, which, having, makes them short.
+_R_BENVOLIO
+_T_In love?
+_R_ROMEO
+_T_Out--
+_R_BENVOLIO
+_T_Of love?
+_R_ROMEO
+_T_Out of her favour, where I am in love.
+_R_BENVOLIO
+_T_Alas, that love, so gentle in his view,
+_T_Should be so tyrannous and rough in proof!
+_R_ROMEO
+_T_Alas, that love, whose view is muffled still,
+_T_Should, without eyes, see pathways to his will!
+_T_Where shall we dine? O me! What fray was here?
+_T_Yet tell me not, for I have heard it all.
+_T_Here's much to do with hate, but more with love.
+_T_Why, then, O brawling love! O loving hate!
+_T_O any thing, of nothing first create!
+_T_O heavy lightness! serious vanity!
+_T_Mis-shapen chaos of well-seeming forms!
+_T_Feather of lead, bright smoke, cold fire,
+_T_sick health!
+_T_Still-waking sleep, that is not what it is!
+_T_This love feel I, that feel no love in this.
+_T_Dost thou not laugh?
+_R_BENVOLIO
+_T_No, coz, I rather weep.
+_R_ROMEO
+_T_Good heart, at what?
+_R_BENVOLIO
+_T_At thy good heart's oppression.
+_R_ROMEO
+_T_Why, such is love's transgression.
+_T_Griefs of mine own lie heavy in my breast,
+_T_Which thou wilt propagate, to have it prest
+_T_With more of thine: this love that thou hast shown
+_T_Doth add more grief to too much of mine own.
+_T_Love is a smoke raised with the fume of sighs;
+_T_Being purged, a fire sparkling in lovers' eyes;
+_T_Being vex'd a sea nourish'd with lovers' tears:
+_T_What is it else? a madness most discreet,
+_T_A choking gall and a preserving sweet.
+_T_Farewell, my coz.
+_R_BENVOLIO
+_T_Soft! I will go along;
+_T_An if you leave me so, you do me wrong.
+_R_ROMEO
+_T_Tut, I have lost myself; I am not here;
+_T_This is not Romeo, he's some other where.
+_R_BENVOLIO
+_T_Tell me in sadness, who is that you love.
+_R_ROMEO
+_T_What, shall I groan and tell thee?
+_R_BENVOLIO
+_T_Groan! why, no.
+_T_But sadly tell me who.
+_R_ROMEO
+_T_Bid a sick man in sadness make his will:
+_T_Ah, word ill urged to one that is so ill!
+_T_In sadness, cousin, I do love a woman.
+_R_BENVOLIO
+_T_I aim'd so near, when I supposed you loved.
+_R_ROMEO
+_T_A right good mark-man! And she's fair I love.
+_R_BENVOLIO
+_T_A right fair mark, fair coz, is soonest hit.
+_R_ROMEO
+_T_Well, in that hit you miss: she'll not be hit
+_T_With Cupid's arrow; she hath Dian's wit;
+_T_And, in strong proof of chastity well arm'd,
+_T_From love's weak childish bow she lives unharm'd.
+_T_She will not stay the siege of loving terms,
+_T_Nor bide the encounter of assailing eyes,
+_T_Nor ope her lap to saint-seducing gold:
+_T_O, she is rich in beauty, only poor,
+_T_That when she dies with beauty dies her store.
+_R_BENVOLIO
+_T_Then she hath sworn that she will still live chaste?
+_R_ROMEO
+_T_She hath, and in that sparing makes huge waste,
+_T_For beauty starved with her severity
+_T_Cuts beauty off from all posterity.
+_T_She is too fair, too wise, wisely too fair,
+_T_To merit bliss by making me despair:
+_T_She hath forsworn to love, and in that vow
+_T_Do I live dead that live to tell it now.
+_R_BENVOLIO
+_T_Be ruled by me, forget to think of her.
+_R_ROMEO
+_T_O, teach me how I should forget to think.
+_R_BENVOLIO
+_T_By giving liberty unto thine eyes;
+_T_Examine other beauties.
+_R_ROMEO
+_T_'Tis the way
+_T_To call hers exquisite, in question more:
+_T_These happy masks that kiss fair ladies' brows
+_T_Being black put us in mind they hide the fair;
+_T_He that is strucken blind cannot forget
+_T_The precious treasure of his eyesight lost:
+_T_Show me a mistress that is passing fair,
+_T_What doth her beauty serve, but as a note
+_T_Where I may read who pass'd that passing fair?
+_T_Farewell: thou canst not teach me to forget.
+_R_BENVOLIO
+_T_I'll pay that doctrine, or else die in debt.
+_D_Exeunt

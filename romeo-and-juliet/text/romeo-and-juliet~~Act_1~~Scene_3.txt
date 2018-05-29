@@ -1,37 +1,36 @@
-SCENE III. A room in Capulet's house.
-Enter LADY CAPULET and Nurse
-LADY CAPULET
+_S_SCENE III. A room in Capulet's house.
+_D_Enter LADY CAPULET and Nurse
+_R_LADY CAPULET
 Nurse, where's my daughter? call her forth to me.
-Nurse
+_R_Nurse
 Now, by my maidenhead, at twelve year old,
 I bade her come. What, lamb! what, ladybird!
 God forbid! Where's this girl? What, Juliet!
-Enter JULIET
-
-JULIET
+_D_Enter JULIET
+_R_JULIET
 How now! who calls?
-Nurse
+_R_Nurse
 Your mother.
-JULIET
+_R_JULIET
 Madam, I am here.
 What is your will?
-LADY CAPULET
+_R_LADY CAPULET
 This is the matter:--Nurse, give leave awhile,
 We must talk in secret:--nurse, come back again;
 I have remember'd me, thou's hear our counsel.
 Thou know'st my daughter's of a pretty age.
-Nurse
+_R_Nurse
 Faith, I can tell her age unto an hour.
-LADY CAPULET
+_R_LADY CAPULET
 She's not fourteen.
-Nurse
+_R_Nurse
 I'll lay fourteen of my teeth,--
 And yet, to my teeth be it spoken, I have but four--
 She is not fourteen. How long is it now
 To Lammas-tide?
-LADY CAPULET
+_R_LADY CAPULET
 A fortnight and odd days.
-Nurse
+_R_Nurse
 Even or odd, of all days in the year,
 Come Lammas-eve at night shall she be fourteen.
 Susan and she--God rest all Christian souls!--
@@ -65,9 +64,9 @@ To see, now, how a jest shall come about!
 I warrant, an I should live a thousand years,
 I never should forget it: 'Wilt thou not, Jule?' quoth he;
 And, pretty fool, it stinted and said 'Ay.'
-LADY CAPULET
+_R_LADY CAPULET
 Enough of this; I pray thee, hold thy peace.
-Nurse
+_R_Nurse
 Yes, madam: yet I cannot choose but laugh,
 To think it should leave crying and say 'Ay.'
 And yet, I warrant, it had upon its brow
@@ -76,37 +75,37 @@ A parlous knock; and it cried bitterly:
 'Yea,' quoth my husband,'fall'st upon thy face?
 Thou wilt fall backward when thou comest to age;
 Wilt thou not, Jule?' it stinted and said 'Ay.'
-JULIET
+_R_JULIET
 And stint thou too, I pray thee, nurse, say I.
-Nurse
+_R_Nurse
 Peace, I have done. God mark thee to his grace!
 Thou wast the prettiest babe that e'er I nursed:
 An I might live to see thee married once,
 I have my wish.
-LADY CAPULET
+_R_LADY CAPULET
 Marry, that 'marry' is the very theme
 I came to talk of. Tell me, daughter Juliet,
 How stands your disposition to be married?
-JULIET
+_R_JULIET
 It is an honour that I dream not of.
-Nurse
+_R_Nurse
 An honour! were not I thine only nurse,
 I would say thou hadst suck'd wisdom from thy teat.
-LADY CAPULET
+_R_LADY CAPULET
 Well, think of marriage now; younger than you,
 Here in Verona, ladies of esteem,
 Are made already mothers: by my count,
 I was your mother much upon these years
 That you are now a maid. Thus then in brief:
 The valiant Paris seeks you for his love.
-Nurse
+_R_Nurse
 A man, young lady! lady, such a man
 As all the world--why, he's a man of wax.
-LADY CAPULET
+_R_LADY CAPULET
 Verona's summer hath not such a flower.
-Nurse
+_R_Nurse
 Nay, he's a flower; in faith, a very flower.
-LADY CAPULET
+_R_LADY CAPULET
 What say you? can you love the gentleman?
 This night you shall behold him at our feast;
 Read o'er the volume of young Paris' face,
@@ -123,26 +122,24 @@ That book in many's eyes doth share the glory,
 That in gold clasps locks in the golden story;
 So shall you share all that he doth possess,
 By having him, making yourself no less.
-Nurse
+_R_Nurse
 No less! nay, bigger; women grow by men.
-LADY CAPULET
+_R_LADY CAPULET
 Speak briefly, can you like of Paris' love?
-JULIET
+_R_JULIET
 I'll look to like, if looking liking move:
 But no more deep will I endart mine eye
 Than your consent gives strength to make it fly.
-Enter a Servant
-
-Servant
+_D_Enter a Servant
+_R_Servant
 Madam, the guests are come, supper served up, you
 called, my young lady asked for, the nurse cursed in
 the pantry, and every thing in extremity. I must
 hence to wait; I beseech you, follow straight.
-LADY CAPULET
+_R_LADY CAPULET
 We follow thee.
-Exit Servant
-
 Juliet, the county stays.
-Nurse
+_D_Exit Servant
+_R_Nurse
 Go, girl, seek happy nights to happy days.
-Exeunt
+_D_Exeunt

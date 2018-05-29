@@ -1,9 +1,9 @@
-SCENE IV. A street.
-Enter ROMEO, MERCUTIO, BENVOLIO, with five or six Maskers, Torch-bearers, and others
-ROMEO
+_S_SCENE IV. A street.
+_D_Enter ROMEO, MERCUTIO, BENVOLIO, with five or six Maskers, Torch-bearers, and others
+_R_ROMEO
 What, shall this speech be spoke for our excuse?
 Or shall we on without a apology?
-BENVOLIO
+_R_BENVOLIO
 The date is out of such prolixity:
 We'll have no Cupid hoodwink'd with a scarf,
 Bearing a Tartar's painted bow of lath,
@@ -12,73 +12,73 @@ Nor no without-book prologue, faintly spoke
 After the prompter, for our entrance:
 But let them measure us by what they will;
 We'll measure them a measure, and be gone.
-ROMEO
+_R_ROMEO
 Give me a torch: I am not for this ambling;
 Being but heavy, I will bear the light.
-MERCUTIO
+_R_MERCUTIO
 Nay, gentle Romeo, we must have you dance.
-ROMEO
+_R_ROMEO
 Not I, believe me: you have dancing shoes
 With nimble soles: I have a soul of lead
 So stakes me to the ground I cannot move.
-MERCUTIO
+_R_MERCUTIO
 You are a lover; borrow Cupid's wings,
 And soar with them above a common bound.
-ROMEO
+_R_ROMEO
 I am too sore enpierced with his shaft
 To soar with his light feathers, and so bound,
 I cannot bound a pitch above dull woe:
 Under love's heavy burden do I sink.
-MERCUTIO
+_R_MERCUTIO
 And, to sink in it, should you burden love;
 Too great oppression for a tender thing.
-ROMEO
+_R_ROMEO
 Is love a tender thing? it is too rough,
 Too rude, too boisterous, and it pricks like thorn.
-MERCUTIO
+_R_MERCUTIO
 If love be rough with you, be rough with love;
 Prick love for pricking, and you beat love down.
 Give me a case to put my visage in:
 A visor for a visor! what care I
 What curious eye doth quote deformities?
 Here are the beetle brows shall blush for me.
-BENVOLIO
+_R_BENVOLIO
 Come, knock and enter; and no sooner in,
 But every man betake him to his legs.
-ROMEO
+_R_ROMEO
 A torch for me: let wantons light of heart
 Tickle the senseless rushes with their heels,
 For I am proverb'd with a grandsire phrase;
 I'll be a candle-holder, and look on.
 The game was ne'er so fair, and I am done.
-MERCUTIO
+_R_MERCUTIO
 Tut, dun's the mouse, the constable's own word:
 If thou art dun, we'll draw thee from the mire
 Of this sir-reverence love, wherein thou stick'st
 Up to the ears. Come, we burn daylight, ho!
-ROMEO
+_R_ROMEO
 Nay, that's not so.
-MERCUTIO
+_R_MERCUTIO
 I mean, sir, in delay
 We waste our lights in vain, like lamps by day.
 Take our good meaning, for our judgment sits
 Five times in that ere once in our five wits.
-ROMEO
+_R_ROMEO
 And we mean well in going to this mask;
 But 'tis no wit to go.
-MERCUTIO
+_R_MERCUTIO
 Why, may one ask?
-ROMEO
+_R_ROMEO
 I dream'd a dream to-night.
-MERCUTIO
+_R_MERCUTIO
 And so did I.
-ROMEO
+_R_ROMEO
 Well, what was yours?
-MERCUTIO
+_R_MERCUTIO
 That dreamers often lie.
-ROMEO
+_R_ROMEO
 In bed asleep, while they do dream things true.
-MERCUTIO
+_R_MERCUTIO
 O, then, I see Queen Mab hath been with you.
 She is the fairies' midwife, and she comes
 In shape no bigger than an agate-stone
@@ -122,10 +122,10 @@ This is the hag, when maids lie on their backs,
 That presses them and learns them first to bear,
 Making them women of good carriage:
 This is she--
-ROMEO
+_R_ROMEO
 Peace, peace, Mercutio, peace!
 Thou talk'st of nothing.
-MERCUTIO
+_R_MERCUTIO
 True, I talk of dreams,
 Which are the children of an idle brain,
 Begot of nothing but vain fantasy,
@@ -134,10 +134,10 @@ And more inconstant than the wind, who wooes
 Even now the frozen bosom of the north,
 And, being anger'd, puffs away from thence,
 Turning his face to the dew-dropping south.
-BENVOLIO
+_R_BENVOLIO
 This wind, you talk of, blows us from ourselves;
 Supper is done, and we shall come too late.
-ROMEO
+_R_ROMEO
 I fear, too early: for my mind misgives
 Some consequence yet hanging in the stars
 Shall bitterly begin his fearful date
@@ -146,6 +146,6 @@ Of a despised life closed in my breast
 By some vile forfeit of untimely death.
 But He, that hath the steerage of my course,
 Direct my sail! On, lusty gentlemen.
-BENVOLIO
+_R_BENVOLIO
 Strike, drum.
-Exeunt
+_D_Exeunt
