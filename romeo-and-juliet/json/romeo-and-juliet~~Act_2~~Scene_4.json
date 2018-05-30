@@ -1,0 +1,1295 @@
+{
+    "scene_id": "romeo and juliet~~Act_2~~Scene_4",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "MERCUTIO",
+            "Where the devil should this Romeo be?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "MERCUTIO",
+            "Came he not home to-night?"
+        ],
+        [
+            "BENVOLIO",
+            "Not to his father's; I spoke with his man."
+        ],
+        [
+            "MERCUTIO",
+            "Ah, that same pale hard-hearted wench, that Rosaline."
+        ],
+        [
+            "MERCUTIO",
+            "Torments him so, that he will sure run mad."
+        ],
+        [
+            "BENVOLIO",
+            "Tybalt, the kinsman of old Capulet,"
+        ],
+        [
+            "BENVOLIO",
+            "Hath sent a letter to his father's house."
+        ],
+        [
+            "MERCUTIO",
+            "A challenge, on my life."
+        ],
+        [
+            "BENVOLIO",
+            "Romeo will answer it."
+        ],
+        [
+            "MERCUTIO",
+            "Any man that can write may answer a letter."
+        ],
+        [
+            "BENVOLIO",
+            "Nay, he will answer the letter's master, how he"
+        ],
+        [
+            "BENVOLIO",
+            "dares, being dared."
+        ],
+        [
+            "MERCUTIO",
+            "Alas poor Romeo! he is already dead; stabbed with a"
+        ],
+        [
+            "MERCUTIO",
+            "white wench's black eye; shot through the ear with a"
+        ],
+        [
+            "MERCUTIO",
+            "love-song; the very pin of his heart cleft with the"
+        ],
+        [
+            "MERCUTIO",
+            "blind bow-boy's butt-shaft: and is he a man to"
+        ],
+        [
+            "MERCUTIO",
+            "encounter Tybalt?"
+        ],
+        [
+            "BENVOLIO",
+            "Why, what is Tybalt?"
+        ],
+        [
+            "MERCUTIO",
+            "More than prince of cats, I can tell you. O, he is"
+        ],
+        [
+            "MERCUTIO",
+            "the courageous captain of compliments. He fights as"
+        ],
+        [
+            "MERCUTIO",
+            "you sing prick-song, keeps time, distance, and"
+        ],
+        [
+            "MERCUTIO",
+            "proportion; rests me his minim rest, one, two, and"
+        ],
+        [
+            "MERCUTIO",
+            "the third in your bosom: the very butcher of a silk"
+        ],
+        [
+            "MERCUTIO",
+            "button, a duellist, a duellist; a gentleman of the"
+        ],
+        [
+            "MERCUTIO",
+            "very first house, of the first and second cause:"
+        ],
+        [
+            "MERCUTIO",
+            "ah, the immortal passado! the punto reverso! the"
+        ],
+        [
+            "MERCUTIO",
+            "hai!"
+        ],
+        [
+            "BENVOLIO",
+            "The what?"
+        ],
+        [
+            "MERCUTIO",
+            "The pox of such antic, lisping, affecting"
+        ],
+        [
+            "MERCUTIO",
+            "fantasticoes; these new tuners of accents! 'By Jesu,"
+        ],
+        [
+            "MERCUTIO",
+            "a very good blade! a very tall man! a very good"
+        ],
+        [
+            "MERCUTIO",
+            "whore!' Why, is not this a lamentable thing,"
+        ],
+        [
+            "MERCUTIO",
+            "grandsire, that we should be thus afflicted with"
+        ],
+        [
+            "MERCUTIO",
+            "these strange flies, these fashion-mongers, these"
+        ],
+        [
+            "MERCUTIO",
+            "perdona-mi's, who stand so much on the new form,"
+        ],
+        [
+            "MERCUTIO",
+            "that they cannot at ease on the old bench? O, their"
+        ],
+        [
+            "MERCUTIO",
+            "bones, their bones!",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "BENVOLIO",
+            "Here comes Romeo, here comes Romeo.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "MERCUTIO",
+            "Without his roe, like a dried herring: flesh, flesh,"
+        ],
+        [
+            "MERCUTIO",
+            "how art thou fishified! Now is he for the numbers"
+        ],
+        [
+            "MERCUTIO",
+            "that Petrarch flowed in: Laura to his lady was but a"
+        ],
+        [
+            "MERCUTIO",
+            "kitchen-wench; marry, she had a better love to"
+        ],
+        [
+            "MERCUTIO",
+            "be-rhyme her; Dido a dowdy; Cleopatra a gipsy;"
+        ],
+        [
+            "MERCUTIO",
+            "Helen and Hero hildings and harlots; Thisbe a grey"
+        ],
+        [
+            "MERCUTIO",
+            "eye or so, but not to the purpose. Signior"
+        ],
+        [
+            "MERCUTIO",
+            "Romeo, bon jour! there's a French salutation"
+        ],
+        [
+            "MERCUTIO",
+            "to your French slop. You gave us the counterfeit"
+        ],
+        [
+            "MERCUTIO",
+            "fairly last night."
+        ],
+        [
+            "ROMEO",
+            "Good morrow to you both. What counterfeit did I give you?"
+        ],
+        [
+            "MERCUTIO",
+            "The ship, sir, the slip; can you not conceive?"
+        ],
+        [
+            "ROMEO",
+            "Pardon, good Mercutio, my business was great; and in"
+        ],
+        [
+            "ROMEO",
+            "such a case as mine a man may strain courtesy."
+        ],
+        [
+            "MERCUTIO",
+            "That's as much as to say, such a case as yours"
+        ],
+        [
+            "MERCUTIO",
+            "constrains a man to bow in the hams."
+        ],
+        [
+            "ROMEO",
+            "Meaning, to court'sy."
+        ],
+        [
+            "MERCUTIO",
+            "Thou hast most kindly hit it."
+        ],
+        [
+            "ROMEO",
+            "A most courteous exposition."
+        ],
+        [
+            "MERCUTIO",
+            "Nay, I am the very pink of courtesy."
+        ],
+        [
+            "ROMEO",
+            "Pink for flower."
+        ],
+        [
+            "MERCUTIO",
+            "Right."
+        ],
+        [
+            "ROMEO",
+            "Why, then is my pump well flowered."
+        ],
+        [
+            "MERCUTIO",
+            "Well said: follow me this jest now till thou hast"
+        ],
+        [
+            "MERCUTIO",
+            "worn out thy pump, that when the single sole of it"
+        ],
+        [
+            "MERCUTIO",
+            "is worn, the jest may remain after the wearing sole singular."
+        ],
+        [
+            "ROMEO",
+            "O single-soled jest, solely singular for the"
+        ],
+        [
+            "ROMEO",
+            "singleness."
+        ],
+        [
+            "MERCUTIO",
+            "Come between us, good Benvolio; my wits faint."
+        ],
+        [
+            "ROMEO",
+            "Switch and spurs, switch and spurs; or I'll cry a match."
+        ],
+        [
+            "MERCUTIO",
+            "Nay, if thy wits run the wild-goose chase, I have"
+        ],
+        [
+            "MERCUTIO",
+            "done, for thou hast more of the wild-goose in one of"
+        ],
+        [
+            "MERCUTIO",
+            "thy wits than, I am sure, I have in my whole five:"
+        ],
+        [
+            "MERCUTIO",
+            "was I with you there for the goose?"
+        ],
+        [
+            "ROMEO",
+            "Thou wast never with me for any thing when thou wast"
+        ],
+        [
+            "ROMEO",
+            "not there for the goose."
+        ],
+        [
+            "MERCUTIO",
+            "I will bite thee by the ear for that jest."
+        ],
+        [
+            "ROMEO",
+            "Nay, good goose, bite not."
+        ],
+        [
+            "MERCUTIO",
+            "Thy wit is a very bitter sweeting; it is a most"
+        ],
+        [
+            "MERCUTIO",
+            "sharp sauce."
+        ],
+        [
+            "ROMEO",
+            "And is it not well served in to a sweet goose?"
+        ],
+        [
+            "MERCUTIO",
+            "O here's a wit of cheveril, that stretches from an"
+        ],
+        [
+            "MERCUTIO",
+            "inch narrow to an ell broad!"
+        ],
+        [
+            "ROMEO",
+            "I stretch it out for that word 'broad;' which added"
+        ],
+        [
+            "ROMEO",
+            "to the goose, proves thee far and wide a broad goose."
+        ],
+        [
+            "MERCUTIO",
+            "Why, is not this better now than groaning for love?"
+        ],
+        [
+            "MERCUTIO",
+            "now art thou sociable, now art thou Romeo; now art"
+        ],
+        [
+            "MERCUTIO",
+            "thou what thou art, by art as well as by nature:"
+        ],
+        [
+            "MERCUTIO",
+            "for this drivelling love is like a great natural,"
+        ],
+        [
+            "MERCUTIO",
+            "that runs lolling up and down to hide his bauble in a hole."
+        ],
+        [
+            "BENVOLIO",
+            "Stop there, stop there."
+        ],
+        [
+            "MERCUTIO",
+            "Thou desirest me to stop in my tale against the hair."
+        ],
+        [
+            "BENVOLIO",
+            "Thou wouldst else have made thy tale large."
+        ],
+        [
+            "MERCUTIO",
+            "O, thou art deceived; I would have made it short:"
+        ],
+        [
+            "MERCUTIO",
+            "for I was come to the whole depth of my tale; and"
+        ],
+        [
+            "MERCUTIO",
+            "meant, indeed, to occupy the argument no longer."
+        ],
+        [
+            "ROMEO",
+            "Here's goodly gear!",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "MERCUTIO",
+            "A sail, a sail!",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "BENVOLIO",
+            "Two, two; a shirt and a smock."
+        ],
+        [
+            "Nurse",
+            "Peter!"
+        ],
+        [
+            "PETER",
+            "Anon!"
+        ],
+        [
+            "Nurse",
+            "My fan, Peter."
+        ],
+        [
+            "MERCUTIO",
+            "Good Peter, to hide her face; for her fan's the"
+        ],
+        [
+            "MERCUTIO",
+            "fairer face."
+        ],
+        [
+            "Nurse",
+            "God ye good morrow, gentlemen."
+        ],
+        [
+            "MERCUTIO",
+            "God ye good den, fair gentlewoman."
+        ],
+        [
+            "Nurse",
+            "Is it good den?"
+        ],
+        [
+            "MERCUTIO",
+            "'Tis no less, I tell you, for the bawdy hand of the"
+        ],
+        [
+            "MERCUTIO",
+            "dial is now upon the prick of noon."
+        ],
+        [
+            "Nurse",
+            "Out upon you! what a man are you!"
+        ],
+        [
+            "ROMEO",
+            "One, gentlewoman, that God hath made for himself to"
+        ],
+        [
+            "ROMEO",
+            "mar."
+        ],
+        [
+            "Nurse",
+            "By my troth, it is well said; 'for himself to mar,'"
+        ],
+        [
+            "Nurse",
+            "quoth a'? Gentlemen, can any of you tell me where I"
+        ],
+        [
+            "Nurse",
+            "may find the young Romeo?"
+        ],
+        [
+            "ROMEO",
+            "I can tell you; but young Romeo will be older when"
+        ],
+        [
+            "ROMEO",
+            "you have found him than he was when you sought him:"
+        ],
+        [
+            "ROMEO",
+            "I am the youngest of that name, for fault of a worse."
+        ],
+        [
+            "Nurse",
+            "You say well."
+        ],
+        [
+            "MERCUTIO",
+            "Yea, is the worst well? very well took, i' faith;"
+        ],
+        [
+            "MERCUTIO",
+            "wisely, wisely."
+        ],
+        [
+            "Nurse",
+            "if you be he, sir, I desire some confidence with"
+        ],
+        [
+            "Nurse",
+            "you."
+        ],
+        [
+            "BENVOLIO",
+            "She will indite him to some supper."
+        ],
+        [
+            "MERCUTIO",
+            "A bawd, a bawd, a bawd! so ho!"
+        ],
+        [
+            "ROMEO",
+            "What hast thou found?"
+        ],
+        [
+            "MERCUTIO",
+            "No hare, sir; unless a hare, sir, in a lenten pie,"
+        ],
+        [
+            "MERCUTIO",
+            "that is something stale and hoar ere it be spent."
+        ],
+        [
+            "MERCUTIO",
+            "An old hare hoar,"
+        ],
+        [
+            "MERCUTIO",
+            "And an old hare hoar,"
+        ],
+        [
+            "MERCUTIO",
+            "Is very good meat in lent"
+        ],
+        [
+            "MERCUTIO",
+            "But a hare that is hoar"
+        ],
+        [
+            "MERCUTIO",
+            "Is too much for a score,"
+        ],
+        [
+            "MERCUTIO",
+            "When it hoars ere it be spent."
+        ],
+        [
+            "MERCUTIO",
+            "Romeo, will you come to your father's? we'll"
+        ],
+        [
+            "MERCUTIO",
+            "to dinner, thither.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "ROMEO",
+            "I will follow you.",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "MERCUTIO",
+            "Farewell, ancient lady; farewell,"
+        ],
+        [
+            "MERCUTIO",
+            "'lady, lady, lady.'",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "Nurse",
+            "Marry, farewell! I pray you, sir, what saucy",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "Nurse",
+            "merchant was this, that was so full of his ropery?"
+        ],
+        [
+            "ROMEO",
+            "A gentleman, nurse, that loves to hear himself talk,"
+        ],
+        [
+            "ROMEO",
+            "and will speak more in a minute than he will stand"
+        ],
+        [
+            "ROMEO",
+            "to in a month."
+        ],
+        [
+            "Nurse",
+            "An a' speak any thing against me, I'll take him"
+        ],
+        [
+            "Nurse",
+            "down, an a' were lustier than he is, and twenty such"
+        ],
+        [
+            "Nurse",
+            "Jacks; and if I cannot, I'll find those that shall."
+        ],
+        [
+            "Nurse",
+            "Scurvy knave! I am none of his flirt-gills; I am"
+        ],
+        [
+            "Nurse",
+            "none of his skains-mates. And thou must stand by"
+        ],
+        [
+            "Nurse",
+            "too, and suffer every knave to use me at his pleasure?"
+        ],
+        [
+            "PETER",
+            "I saw no man use you a pleasure; if I had, my weapon"
+        ],
+        [
+            "PETER",
+            "should quickly have been out, I warrant you: I dare"
+        ],
+        [
+            "PETER",
+            "draw as soon as another man, if I see occasion in a"
+        ],
+        [
+            "PETER",
+            "good quarrel, and the law on my side."
+        ],
+        [
+            "Nurse",
+            "Now, afore God, I am so vexed, that every part about"
+        ],
+        [
+            "Nurse",
+            "me quivers. Scurvy knave! Pray you, sir, a word:"
+        ],
+        [
+            "Nurse",
+            "and as I told you, my young lady bade me inquire you"
+        ],
+        [
+            "Nurse",
+            "out; what she bade me say, I will keep to myself:"
+        ],
+        [
+            "Nurse",
+            "but first let me tell ye, if ye should lead her into"
+        ],
+        [
+            "Nurse",
+            "a fool's paradise, as they say, it were a very gross"
+        ],
+        [
+            "Nurse",
+            "kind of behavior, as they say: for the gentlewoman"
+        ],
+        [
+            "Nurse",
+            "is young; and, therefore, if you should deal double"
+        ],
+        [
+            "Nurse",
+            "with her, truly it were an ill thing to be offered"
+        ],
+        [
+            "Nurse",
+            "to any gentlewoman, and very weak dealing."
+        ],
+        [
+            "ROMEO",
+            "Nurse, commend me to thy lady and mistress. I"
+        ],
+        [
+            "ROMEO",
+            "protest unto thee--"
+        ],
+        [
+            "Nurse",
+            "Good heart, and, i' faith, I will tell her as much:"
+        ],
+        [
+            "Nurse",
+            "Lord, Lord, she will be a joyful woman."
+        ],
+        [
+            "ROMEO",
+            "What wilt thou tell her, nurse? thou dost not mark me."
+        ],
+        [
+            "Nurse",
+            "I will tell her, sir, that you do protest; which, as"
+        ],
+        [
+            "Nurse",
+            "I take it, is a gentlemanlike offer."
+        ],
+        [
+            "ROMEO",
+            "Bid her devise"
+        ],
+        [
+            "ROMEO",
+            "Some means to come to shrift this afternoon;"
+        ],
+        [
+            "ROMEO",
+            "And there she shall at Friar Laurence' cell"
+        ],
+        [
+            "ROMEO",
+            "Be shrived and married. Here is for thy pains."
+        ],
+        [
+            "Nurse",
+            "No truly sir; not a penny."
+        ],
+        [
+            "ROMEO",
+            "Go to; I say you shall."
+        ],
+        [
+            "Nurse",
+            "This afternoon, sir? well, she shall be there."
+        ],
+        [
+            "ROMEO",
+            "And stay, good nurse, behind the abbey wall:"
+        ],
+        [
+            "ROMEO",
+            "Within this hour my man shall be with thee"
+        ],
+        [
+            "ROMEO",
+            "And bring thee cords made like a tackled stair;"
+        ],
+        [
+            "ROMEO",
+            "Which to the high top-gallant of my joy"
+        ],
+        [
+            "ROMEO",
+            "Must be my convoy in the secret night."
+        ],
+        [
+            "ROMEO",
+            "Farewell; be trusty, and I'll quit thy pains:"
+        ],
+        [
+            "ROMEO",
+            "Farewell; commend me to thy mistress."
+        ],
+        [
+            "Nurse",
+            "Now God in heaven bless thee! Hark you, sir."
+        ],
+        [
+            "ROMEO",
+            "What say'st thou, my dear nurse?"
+        ],
+        [
+            "Nurse",
+            "Is your man secret? Did you ne'er hear say,"
+        ],
+        [
+            "Nurse",
+            "Two may keep counsel, putting one away?"
+        ],
+        [
+            "ROMEO",
+            "I warrant thee, my man's as true as steel."
+        ],
+        [
+            "NURSE",
+            "Well, sir; my mistress is the sweetest lady--Lord,"
+        ],
+        [
+            "NURSE",
+            "Lord! when 'twas a little prating thing:--O, there"
+        ],
+        [
+            "NURSE",
+            "is a nobleman in town, one Paris, that would fain"
+        ],
+        [
+            "NURSE",
+            "lay knife aboard; but she, good soul, had as lief"
+        ],
+        [
+            "NURSE",
+            "see a toad, a very toad, as see him. I anger her"
+        ],
+        [
+            "NURSE",
+            "sometimes and tell her that Paris is the properer"
+        ],
+        [
+            "NURSE",
+            "man; but, I'll warrant you, when I say so, she looks"
+        ],
+        [
+            "NURSE",
+            "as pale as any clout in the versal world. Doth not"
+        ],
+        [
+            "NURSE",
+            "rosemary and Romeo begin both with a letter?"
+        ],
+        [
+            "ROMEO",
+            "Ay, nurse; what of that? both with an R."
+        ],
+        [
+            "Nurse",
+            "Ah. mocker! that's the dog's name; R is for"
+        ],
+        [
+            "Nurse",
+            "the--No; I know it begins with some other"
+        ],
+        [
+            "Nurse",
+            "letter:--and she hath the prettiest sententious of"
+        ],
+        [
+            "Nurse",
+            "it, of you and rosemary, that it would do you good"
+        ],
+        [
+            "Nurse",
+            "to hear it."
+        ],
+        [
+            "ROMEO",
+            "Commend me to thy lady."
+        ],
+        [
+            "Nurse",
+            "Ay, a thousand times."
+        ],
+        [
+            "Nurse",
+            "Peter!",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "PETER",
+            "Anon!",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "Nurse",
+            "Peter, take my fan, and go before and apace.",
+            {
+                "following_direction_line": "7"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter BENVOLIO and MERCUTIO"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter ROMEO"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter Nurse and PETER"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Sings"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Singing. Exeunt MERCUTIO and BENVOLIO"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exit Romeo"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "MERCUTIO": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "4",
+                "5"
+            ],
+            [
+                "8",
+                "8"
+            ],
+            [
+                "10",
+                "10"
+            ],
+            [
+                "13",
+                "17"
+            ],
+            [
+                "19",
+                "27"
+            ],
+            [
+                "29",
+                "37"
+            ],
+            [
+                "39",
+                "48"
+            ],
+            [
+                "50",
+                "50"
+            ],
+            [
+                "53",
+                "54"
+            ],
+            [
+                "56",
+                "56"
+            ],
+            [
+                "58",
+                "58"
+            ],
+            [
+                "60",
+                "60"
+            ],
+            [
+                "62",
+                "64"
+            ],
+            [
+                "67",
+                "67"
+            ],
+            [
+                "69",
+                "72"
+            ],
+            [
+                "75",
+                "75"
+            ],
+            [
+                "77",
+                "78"
+            ],
+            [
+                "80",
+                "81"
+            ],
+            [
+                "84",
+                "88"
+            ],
+            [
+                "90",
+                "90"
+            ],
+            [
+                "92",
+                "94"
+            ],
+            [
+                "96",
+                "96"
+            ],
+            [
+                "101",
+                "102"
+            ],
+            [
+                "104",
+                "104"
+            ],
+            [
+                "106",
+                "107"
+            ],
+            [
+                "118",
+                "119"
+            ],
+            [
+                "123",
+                "123"
+            ],
+            [
+                "125",
+                "134"
+            ],
+            [
+                "136",
+                "137"
+            ]
+        ],
+        "BENVOLIO": [
+            [
+                "3",
+                "3"
+            ],
+            [
+                "6",
+                "7"
+            ],
+            [
+                "9",
+                "9"
+            ],
+            [
+                "11",
+                "12"
+            ],
+            [
+                "18",
+                "18"
+            ],
+            [
+                "28",
+                "28"
+            ],
+            [
+                "38",
+                "38"
+            ],
+            [
+                "89",
+                "89"
+            ],
+            [
+                "91",
+                "91"
+            ],
+            [
+                "97",
+                "97"
+            ],
+            [
+                "122",
+                "122"
+            ]
+        ],
+        "ROMEO": [
+            [
+                "49",
+                "49"
+            ],
+            [
+                "51",
+                "52"
+            ],
+            [
+                "55",
+                "55"
+            ],
+            [
+                "57",
+                "57"
+            ],
+            [
+                "59",
+                "59"
+            ],
+            [
+                "61",
+                "61"
+            ],
+            [
+                "65",
+                "66"
+            ],
+            [
+                "68",
+                "68"
+            ],
+            [
+                "73",
+                "74"
+            ],
+            [
+                "76",
+                "76"
+            ],
+            [
+                "79",
+                "79"
+            ],
+            [
+                "82",
+                "83"
+            ],
+            [
+                "95",
+                "95"
+            ],
+            [
+                "109",
+                "110"
+            ],
+            [
+                "114",
+                "116"
+            ],
+            [
+                "124",
+                "124"
+            ],
+            [
+                "135",
+                "135"
+            ],
+            [
+                "140",
+                "142"
+            ],
+            [
+                "163",
+                "164"
+            ],
+            [
+                "167",
+                "167"
+            ],
+            [
+                "170",
+                "173"
+            ],
+            [
+                "175",
+                "175"
+            ],
+            [
+                "177",
+                "183"
+            ],
+            [
+                "185",
+                "185"
+            ],
+            [
+                "188",
+                "188"
+            ],
+            [
+                "198",
+                "198"
+            ],
+            [
+                "204",
+                "204"
+            ]
+        ],
+        "Nurse": [
+            [
+                "98",
+                "98"
+            ],
+            [
+                "100",
+                "100"
+            ],
+            [
+                "103",
+                "103"
+            ],
+            [
+                "105",
+                "105"
+            ],
+            [
+                "108",
+                "108"
+            ],
+            [
+                "111",
+                "113"
+            ],
+            [
+                "117",
+                "117"
+            ],
+            [
+                "120",
+                "121"
+            ],
+            [
+                "138",
+                "139"
+            ],
+            [
+                "143",
+                "148"
+            ],
+            [
+                "153",
+                "162"
+            ],
+            [
+                "165",
+                "166"
+            ],
+            [
+                "168",
+                "169"
+            ],
+            [
+                "174",
+                "174"
+            ],
+            [
+                "176",
+                "176"
+            ],
+            [
+                "184",
+                "184"
+            ],
+            [
+                "186",
+                "187"
+            ],
+            [
+                "199",
+                "203"
+            ],
+            [
+                "205",
+                "206"
+            ],
+            [
+                "208",
+                "208"
+            ]
+        ],
+        "PETER": [
+            [
+                "99",
+                "99"
+            ],
+            [
+                "149",
+                "152"
+            ],
+            [
+                "207",
+                "207"
+            ]
+        ],
+        "NURSE": [
+            [
+                "189",
+                "197"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IV",
+    "scene_description": "A street."
+}

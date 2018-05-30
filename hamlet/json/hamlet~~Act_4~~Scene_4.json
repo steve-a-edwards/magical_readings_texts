@@ -1,0 +1,398 @@
+{
+    "scene_id": "hamlet~~Act_4~~Scene_4",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "PRINCE FORTINBRAS",
+            "Go, captain, from me greet the Danish king;",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "PRINCE FORTINBRAS",
+            "Tell him that, by his licence, Fortinbras"
+        ],
+        [
+            "PRINCE FORTINBRAS",
+            "Craves the conveyance of a promised march"
+        ],
+        [
+            "PRINCE FORTINBRAS",
+            "Over his kingdom. You know the rendezvous."
+        ],
+        [
+            "PRINCE FORTINBRAS",
+            "If that his majesty would aught with us,"
+        ],
+        [
+            "PRINCE FORTINBRAS",
+            "We shall express our duty in his eye;"
+        ],
+        [
+            "PRINCE FORTINBRAS",
+            "And let him know so."
+        ],
+        [
+            "Captain",
+            "I will do't, my lord."
+        ],
+        [
+            "PRINCE FORTINBRAS",
+            "Go softly on.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "HAMLET",
+            "Good sir, whose powers are these?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "Captain",
+            "They are of Norway, sir."
+        ],
+        [
+            "HAMLET",
+            "How purposed, sir, I pray you?"
+        ],
+        [
+            "Captain",
+            "Against some part of Poland."
+        ],
+        [
+            "HAMLET",
+            "Who commands them, sir?"
+        ],
+        [
+            "Captain",
+            "The nephews to old Norway, Fortinbras."
+        ],
+        [
+            "HAMLET",
+            "Goes it against the main of Poland, sir,"
+        ],
+        [
+            "HAMLET",
+            "Or for some frontier?"
+        ],
+        [
+            "Captain",
+            "Truly to speak, and with no addition,"
+        ],
+        [
+            "Captain",
+            "We go to gain a little patch of ground"
+        ],
+        [
+            "Captain",
+            "That hath in it no profit but the name."
+        ],
+        [
+            "Captain",
+            "To pay five ducats, five, I would not farm it;"
+        ],
+        [
+            "Captain",
+            "Nor will it yield to Norway or the Pole"
+        ],
+        [
+            "Captain",
+            "A ranker rate, should it be sold in fee."
+        ],
+        [
+            "HAMLET",
+            "Why, then the Polack never will defend it."
+        ],
+        [
+            "Captain",
+            "Yes, it is already garrison'd."
+        ],
+        [
+            "HAMLET",
+            "Two thousand souls and twenty thousand ducats"
+        ],
+        [
+            "HAMLET",
+            "Will not debate the question of this straw:"
+        ],
+        [
+            "HAMLET",
+            "This is the imposthume of much wealth and peace,"
+        ],
+        [
+            "HAMLET",
+            "That inward breaks, and shows no cause without"
+        ],
+        [
+            "HAMLET",
+            "Why the man dies. I humbly thank you, sir."
+        ],
+        [
+            "Captain",
+            "God be wi' you, sir.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "ROSENCRANTZ",
+            "Wilt please you go, my lord?",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "HAMLET",
+            "I'll be with you straight go a little before."
+        ],
+        [
+            "HAMLET",
+            "How all occasions do inform against me,"
+        ],
+        [
+            "HAMLET",
+            "And spur my dull revenge! What is a man,"
+        ],
+        [
+            "HAMLET",
+            "If his chief good and market of his time"
+        ],
+        [
+            "HAMLET",
+            "Be but to sleep and feed? a beast, no more."
+        ],
+        [
+            "HAMLET",
+            "Sure, he that made us with such large discourse,"
+        ],
+        [
+            "HAMLET",
+            "Looking before and after, gave us not"
+        ],
+        [
+            "HAMLET",
+            "That capability and god-like reason"
+        ],
+        [
+            "HAMLET",
+            "To fust in us unused. Now, whether it be"
+        ],
+        [
+            "HAMLET",
+            "Bestial oblivion, or some craven scruple"
+        ],
+        [
+            "HAMLET",
+            "Of thinking too precisely on the event,"
+        ],
+        [
+            "HAMLET",
+            "A thought which, quarter'd, hath but one part wisdom"
+        ],
+        [
+            "HAMLET",
+            "And ever three parts coward, I do not know"
+        ],
+        [
+            "HAMLET",
+            "Why yet I live to say 'This thing's to do;'"
+        ],
+        [
+            "HAMLET",
+            "Sith I have cause and will and strength and means"
+        ],
+        [
+            "HAMLET",
+            "To do't. Examples gross as earth exhort me:"
+        ],
+        [
+            "HAMLET",
+            "Witness this army of such mass and charge"
+        ],
+        [
+            "HAMLET",
+            "Led by a delicate and tender prince,"
+        ],
+        [
+            "HAMLET",
+            "Whose spirit with divine ambition puff'd"
+        ],
+        [
+            "HAMLET",
+            "Makes mouths at the invisible event,"
+        ],
+        [
+            "HAMLET",
+            "Exposing what is mortal and unsure"
+        ],
+        [
+            "HAMLET",
+            "To all that fortune, death and danger dare,"
+        ],
+        [
+            "HAMLET",
+            "Even for an egg-shell. Rightly to be great"
+        ],
+        [
+            "HAMLET",
+            "Is not to stir without great argument,"
+        ],
+        [
+            "HAMLET",
+            "But greatly to find quarrel in a straw"
+        ],
+        [
+            "HAMLET",
+            "When honour's at the stake. How stand I then,"
+        ],
+        [
+            "HAMLET",
+            "That have a father kill'd, a mother stain'd,"
+        ],
+        [
+            "HAMLET",
+            "Excitements of my reason and my blood,"
+        ],
+        [
+            "HAMLET",
+            "And let all sleep? while, to my shame, I see"
+        ],
+        [
+            "HAMLET",
+            "The imminent death of twenty thousand men,"
+        ],
+        [
+            "HAMLET",
+            "That, for a fantasy and trick of fame,"
+        ],
+        [
+            "HAMLET",
+            "Go to their graves like beds, fight for a plot"
+        ],
+        [
+            "HAMLET",
+            "Whereon the numbers cannot try the cause,"
+        ],
+        [
+            "HAMLET",
+            "Which is not tomb enough and continent"
+        ],
+        [
+            "HAMLET",
+            "To hide the slain? O, from this time forth,"
+        ],
+        [
+            "HAMLET",
+            "My thoughts be bloody, or be nothing worth!",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter FORTINBRAS, a Captain, and Soldiers, marching"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt FORTINBRAS and Soldiers. Enter HAMLET, ROSENCRANTZ, GUILDENSTERN, and others"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt all except HAMLET. Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "PRINCE FORTINBRAS": [
+            [
+                "1",
+                "7"
+            ],
+            [
+                "9",
+                "9"
+            ]
+        ],
+        "Captain": [
+            [
+                "8",
+                "8"
+            ],
+            [
+                "11",
+                "11"
+            ],
+            [
+                "13",
+                "13"
+            ],
+            [
+                "15",
+                "15"
+            ],
+            [
+                "18",
+                "23"
+            ],
+            [
+                "25",
+                "25"
+            ],
+            [
+                "31",
+                "31"
+            ]
+        ],
+        "HAMLET": [
+            [
+                "10",
+                "10"
+            ],
+            [
+                "12",
+                "12"
+            ],
+            [
+                "14",
+                "14"
+            ],
+            [
+                "16",
+                "17"
+            ],
+            [
+                "24",
+                "24"
+            ],
+            [
+                "26",
+                "30"
+            ],
+            [
+                "33",
+                "68"
+            ]
+        ],
+        "ROSENCRANTZ": [
+            [
+                "32",
+                "32"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IV",
+    "scene_description": "A plain in Denmark."
+}

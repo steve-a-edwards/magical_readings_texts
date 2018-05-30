@@ -1,0 +1,1277 @@
+{
+    "scene_id": "hamlet~~Act_3~~Scene_4",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "LORD POLONIUS",
+            "He will come straight. Look you lay home to him:",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "LORD POLONIUS",
+            "Tell him his pranks have been too broad to bear with,"
+        ],
+        [
+            "LORD POLONIUS",
+            "And that your grace hath screen'd and stood between"
+        ],
+        [
+            "LORD POLONIUS",
+            "Much heat and him. I'll sconce me even here."
+        ],
+        [
+            "LORD POLONIUS",
+            "Pray you, be round with him."
+        ],
+        [
+            "HAMLET",
+            "[Within] Mother, mother, mother!"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "I'll warrant you,"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Fear me not: withdraw, I hear him coming.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "HAMLET",
+            "Now, mother, what's the matter?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Hamlet, thou hast thy father much offended."
+        ],
+        [
+            "HAMLET",
+            "Mother, you have my father much offended."
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Come, come, you answer with an idle tongue."
+        ],
+        [
+            "HAMLET",
+            "Go, go, you question with a wicked tongue."
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Why, how now, Hamlet!"
+        ],
+        [
+            "HAMLET",
+            "What's the matter now?"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Have you forgot me?"
+        ],
+        [
+            "HAMLET",
+            "No, by the rood, not so:"
+        ],
+        [
+            "HAMLET",
+            "You are the queen, your husband's brother's wife;"
+        ],
+        [
+            "HAMLET",
+            "And--would it were not so!--you are my mother."
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Nay, then, I'll set those to you that can speak."
+        ],
+        [
+            "HAMLET",
+            "Come, come, and sit you down; you shall not budge;"
+        ],
+        [
+            "HAMLET",
+            "You go not till I set you up a glass"
+        ],
+        [
+            "HAMLET",
+            "Where you may see the inmost part of you."
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "What wilt thou do? thou wilt not murder me?"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Help, help, ho!"
+        ],
+        [
+            "LORD POLONIUS",
+            "[Behind] What, ho! help, help, help!"
+        ],
+        [
+            "HAMLET",
+            "[Drawing] How now! a rat? Dead, for a ducat, dead!",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "LORD POLONIUS",
+            "[Behind] O, I am slain!",
+            {
+                "preceding_direction_line": "3"
+            },
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "O me, what hast thou done?",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "HAMLET",
+            "Nay, I know not:"
+        ],
+        [
+            "HAMLET",
+            "Is it the king?"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "O, what a rash and bloody deed is this!"
+        ],
+        [
+            "HAMLET",
+            "A bloody deed! almost as bad, good mother,"
+        ],
+        [
+            "HAMLET",
+            "As kill a king, and marry with his brother."
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "As kill a king!"
+        ],
+        [
+            "HAMLET",
+            "Ay, lady, 'twas my word."
+        ],
+        [
+            "HAMLET",
+            "Thou wretched, rash, intruding fool, farewell!"
+        ],
+        [
+            "HAMLET",
+            "I took thee for thy better: take thy fortune;"
+        ],
+        [
+            "HAMLET",
+            "Thou find'st to be too busy is some danger."
+        ],
+        [
+            "HAMLET",
+            "Leave wringing of your hands: peace! sit you down,"
+        ],
+        [
+            "HAMLET",
+            "And let me wring your heart; for so I shall,"
+        ],
+        [
+            "HAMLET",
+            "If it be made of penetrable stuff,"
+        ],
+        [
+            "HAMLET",
+            "If damned custom have not brass'd it so"
+        ],
+        [
+            "HAMLET",
+            "That it is proof and bulwark against sense.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "What have I done, that thou darest wag thy tongue",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "In noise so rude against me?"
+        ],
+        [
+            "HAMLET",
+            "Such an act"
+        ],
+        [
+            "HAMLET",
+            "That blurs the grace and blush of modesty,"
+        ],
+        [
+            "HAMLET",
+            "Calls virtue hypocrite, takes off the rose"
+        ],
+        [
+            "HAMLET",
+            "From the fair forehead of an innocent love"
+        ],
+        [
+            "HAMLET",
+            "And sets a blister there, makes marriage-vows"
+        ],
+        [
+            "HAMLET",
+            "As false as dicers' oaths: O, such a deed"
+        ],
+        [
+            "HAMLET",
+            "As from the body of contraction plucks"
+        ],
+        [
+            "HAMLET",
+            "The very soul, and sweet religion makes"
+        ],
+        [
+            "HAMLET",
+            "A rhapsody of words: heaven's face doth glow:"
+        ],
+        [
+            "HAMLET",
+            "Yea, this solidity and compound mass,"
+        ],
+        [
+            "HAMLET",
+            "With tristful visage, as against the doom,"
+        ],
+        [
+            "HAMLET",
+            "Is thought-sick at the act."
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Ay me, what act,"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "That roars so loud, and thunders in the index?"
+        ],
+        [
+            "HAMLET",
+            "Look here, upon this picture, and on this,"
+        ],
+        [
+            "HAMLET",
+            "The counterfeit presentment of two brothers."
+        ],
+        [
+            "HAMLET",
+            "See, what a grace was seated on this brow;"
+        ],
+        [
+            "HAMLET",
+            "Hyperion's curls; the front of Jove himself;"
+        ],
+        [
+            "HAMLET",
+            "An eye like Mars, to threaten and command;"
+        ],
+        [
+            "HAMLET",
+            "A station like the herald Mercury"
+        ],
+        [
+            "HAMLET",
+            "New-lighted on a heaven-kissing hill;"
+        ],
+        [
+            "HAMLET",
+            "A combination and a form indeed,"
+        ],
+        [
+            "HAMLET",
+            "Where every god did seem to set his seal,"
+        ],
+        [
+            "HAMLET",
+            "To give the world assurance of a man:"
+        ],
+        [
+            "HAMLET",
+            "This was your husband. Look you now, what follows:"
+        ],
+        [
+            "HAMLET",
+            "Here is your husband; like a mildew'd ear,"
+        ],
+        [
+            "HAMLET",
+            "Blasting his wholesome brother. Have you eyes?"
+        ],
+        [
+            "HAMLET",
+            "Could you on this fair mountain leave to feed,"
+        ],
+        [
+            "HAMLET",
+            "And batten on this moor? Ha! have you eyes?"
+        ],
+        [
+            "HAMLET",
+            "You cannot call it love; for at your age"
+        ],
+        [
+            "HAMLET",
+            "The hey-day in the blood is tame, it's humble,"
+        ],
+        [
+            "HAMLET",
+            "And waits upon the judgment: and what judgment"
+        ],
+        [
+            "HAMLET",
+            "Would step from this to this? Sense, sure, you have,"
+        ],
+        [
+            "HAMLET",
+            "Else could you not have motion; but sure, that sense"
+        ],
+        [
+            "HAMLET",
+            "Is apoplex'd; for madness would not err,"
+        ],
+        [
+            "HAMLET",
+            "Nor sense to ecstasy was ne'er so thrall'd"
+        ],
+        [
+            "HAMLET",
+            "But it reserved some quantity of choice,"
+        ],
+        [
+            "HAMLET",
+            "To serve in such a difference. What devil was't"
+        ],
+        [
+            "HAMLET",
+            "That thus hath cozen'd you at hoodman-blind?"
+        ],
+        [
+            "HAMLET",
+            "Eyes without feeling, feeling without sight,"
+        ],
+        [
+            "HAMLET",
+            "Ears without hands or eyes, smelling sans all,"
+        ],
+        [
+            "HAMLET",
+            "Or but a sickly part of one true sense"
+        ],
+        [
+            "HAMLET",
+            "Could not so mope."
+        ],
+        [
+            "HAMLET",
+            "O shame! where is thy blush? Rebellious hell,"
+        ],
+        [
+            "HAMLET",
+            "If thou canst mutine in a matron's bones,"
+        ],
+        [
+            "HAMLET",
+            "To flaming youth let virtue be as wax,"
+        ],
+        [
+            "HAMLET",
+            "And melt in her own fire: proclaim no shame"
+        ],
+        [
+            "HAMLET",
+            "When the compulsive ardour gives the charge,"
+        ],
+        [
+            "HAMLET",
+            "Since frost itself as actively doth burn"
+        ],
+        [
+            "HAMLET",
+            "And reason panders will."
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "O Hamlet, speak no more:"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Thou turn'st mine eyes into my very soul;"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "And there I see such black and grained spots"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "As will not leave their tinct."
+        ],
+        [
+            "HAMLET",
+            "Nay, but to live"
+        ],
+        [
+            "HAMLET",
+            "In the rank sweat of an enseamed bed,"
+        ],
+        [
+            "HAMLET",
+            "Stew'd in corruption, honeying and making love"
+        ],
+        [
+            "HAMLET",
+            "Over the nasty sty,--"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "O, speak to me no more;"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "These words, like daggers, enter in mine ears;"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "No more, sweet Hamlet!"
+        ],
+        [
+            "HAMLET",
+            "A murderer and a villain;"
+        ],
+        [
+            "HAMLET",
+            "A slave that is not twentieth part the tithe"
+        ],
+        [
+            "HAMLET",
+            "Of your precedent lord; a vice of kings;"
+        ],
+        [
+            "HAMLET",
+            "A cutpurse of the empire and the rule,"
+        ],
+        [
+            "HAMLET",
+            "That from a shelf the precious diadem stole,"
+        ],
+        [
+            "HAMLET",
+            "And put it in his pocket!"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "No more!"
+        ],
+        [
+            "HAMLET",
+            "A king of shreds and patches,--"
+        ],
+        [
+            "HAMLET",
+            "Save me, and hover o'er me with your wings,"
+        ],
+        [
+            "HAMLET",
+            "You heavenly guards! What would your gracious figure?",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Alas, he's mad!",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "HAMLET",
+            "Do you not come your tardy son to chide,"
+        ],
+        [
+            "HAMLET",
+            "That, lapsed in time and passion, lets go by"
+        ],
+        [
+            "HAMLET",
+            "The important acting of your dread command? O, say!"
+        ],
+        [
+            "Ghost",
+            "Do not forget: this visitation"
+        ],
+        [
+            "Ghost",
+            "Is but to whet thy almost blunted purpose."
+        ],
+        [
+            "Ghost",
+            "But, look, amazement on thy mother sits:"
+        ],
+        [
+            "Ghost",
+            "O, step between her and her fighting soul:"
+        ],
+        [
+            "Ghost",
+            "Conceit in weakest bodies strongest works:"
+        ],
+        [
+            "Ghost",
+            "Speak to her, Hamlet."
+        ],
+        [
+            "HAMLET",
+            "How is it with you, lady?"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Alas, how is't with you,"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "That you do bend your eye on vacancy"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "And with the incorporal air do hold discourse?"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Forth at your eyes your spirits wildly peep;"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "And, as the sleeping soldiers in the alarm,"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Your bedded hair, like life in excrements,"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Starts up, and stands on end. O gentle son,"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Upon the heat and flame of thy distemper"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Sprinkle cool patience. Whereon do you look?"
+        ],
+        [
+            "HAMLET",
+            "On him, on him! Look you, how pale he glares!"
+        ],
+        [
+            "HAMLET",
+            "His form and cause conjoin'd, preaching to stones,"
+        ],
+        [
+            "HAMLET",
+            "Would make them capable. Do not look upon me;"
+        ],
+        [
+            "HAMLET",
+            "Lest with this piteous action you convert"
+        ],
+        [
+            "HAMLET",
+            "My stern effects: then what I have to do"
+        ],
+        [
+            "HAMLET",
+            "Will want true colour; tears perchance for blood."
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "To whom do you speak this?"
+        ],
+        [
+            "HAMLET",
+            "Do you see nothing there?"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Nothing at all; yet all that is I see."
+        ],
+        [
+            "HAMLET",
+            "Nor did you nothing hear?"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "No, nothing but ourselves."
+        ],
+        [
+            "HAMLET",
+            "Why, look you there! look, how it steals away!"
+        ],
+        [
+            "HAMLET",
+            "My father, in his habit as he lived!"
+        ],
+        [
+            "HAMLET",
+            "Look, where he goes, even now, out at the portal!",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "This the very coinage of your brain:",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "This bodiless creation ecstasy"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Is very cunning in."
+        ],
+        [
+            "HAMLET",
+            "Ecstasy!"
+        ],
+        [
+            "HAMLET",
+            "My pulse, as yours, doth temperately keep time,"
+        ],
+        [
+            "HAMLET",
+            "And makes as healthful music: it is not madness"
+        ],
+        [
+            "HAMLET",
+            "That I have utter'd: bring me to the test,"
+        ],
+        [
+            "HAMLET",
+            "And I the matter will re-word; which madness"
+        ],
+        [
+            "HAMLET",
+            "Would gambol from. Mother, for love of grace,"
+        ],
+        [
+            "HAMLET",
+            "Lay not that mattering unction to your soul,"
+        ],
+        [
+            "HAMLET",
+            "That not your trespass, but my madness speaks:"
+        ],
+        [
+            "HAMLET",
+            "It will but skin and film the ulcerous place,"
+        ],
+        [
+            "HAMLET",
+            "Whilst rank corruption, mining all within,"
+        ],
+        [
+            "HAMLET",
+            "Infects unseen. Confess yourself to heaven;"
+        ],
+        [
+            "HAMLET",
+            "Repent what's past; avoid what is to come;"
+        ],
+        [
+            "HAMLET",
+            "And do not spread the compost on the weeds,"
+        ],
+        [
+            "HAMLET",
+            "To make them ranker. Forgive me this my virtue;"
+        ],
+        [
+            "HAMLET",
+            "For in the fatness of these pursy times"
+        ],
+        [
+            "HAMLET",
+            "Virtue itself of vice must pardon beg,"
+        ],
+        [
+            "HAMLET",
+            "Yea, curb and woo for leave to do him good."
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "O Hamlet, thou hast cleft my heart in twain."
+        ],
+        [
+            "HAMLET",
+            "O, throw away the worser part of it,"
+        ],
+        [
+            "HAMLET",
+            "And live the purer with the other half."
+        ],
+        [
+            "HAMLET",
+            "Good night: but go not to mine uncle's bed;"
+        ],
+        [
+            "HAMLET",
+            "Assume a virtue, if you have it not."
+        ],
+        [
+            "HAMLET",
+            "That monster, custom, who all sense doth eat,"
+        ],
+        [
+            "HAMLET",
+            "Of habits devil, is angel yet in this,"
+        ],
+        [
+            "HAMLET",
+            "That to the use of actions fair and good"
+        ],
+        [
+            "HAMLET",
+            "He likewise gives a frock or livery,"
+        ],
+        [
+            "HAMLET",
+            "That aptly is put on. Refrain to-night,"
+        ],
+        [
+            "HAMLET",
+            "And that shall lend a kind of easiness"
+        ],
+        [
+            "HAMLET",
+            "To the next abstinence: the next more easy;"
+        ],
+        [
+            "HAMLET",
+            "For use almost can change the stamp of nature,"
+        ],
+        [
+            "HAMLET",
+            "And either [ ] the devil, or throw him out"
+        ],
+        [
+            "HAMLET",
+            "With wondrous potency. Once more, good night:"
+        ],
+        [
+            "HAMLET",
+            "And when you are desirous to be bless'd,"
+        ],
+        [
+            "HAMLET",
+            "I'll blessing beg of you. For this same lord,"
+        ],
+        [
+            "HAMLET",
+            "I do repent: but heaven hath pleased it so,"
+        ],
+        [
+            "HAMLET",
+            "To punish me with this and this with me,"
+        ],
+        [
+            "HAMLET",
+            "That I must be their scourge and minister."
+        ],
+        [
+            "HAMLET",
+            "I will bestow him, and will answer well"
+        ],
+        [
+            "HAMLET",
+            "The death I gave him. So, again, good night."
+        ],
+        [
+            "HAMLET",
+            "I must be cruel, only to be kind:"
+        ],
+        [
+            "HAMLET",
+            "Thus bad begins and worse remains behind."
+        ],
+        [
+            "HAMLET",
+            "One word more, good lady.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "What shall I do?",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "HAMLET",
+            "Not this, by no means, that I bid you do:"
+        ],
+        [
+            "HAMLET",
+            "Let the bloat king tempt you again to bed;"
+        ],
+        [
+            "HAMLET",
+            "Pinch wanton on your cheek; call you his mouse;"
+        ],
+        [
+            "HAMLET",
+            "And let him, for a pair of reechy kisses,"
+        ],
+        [
+            "HAMLET",
+            "Or paddling in your neck with his damn'd fingers,"
+        ],
+        [
+            "HAMLET",
+            "Make you to ravel all this matter out,"
+        ],
+        [
+            "HAMLET",
+            "That I essentially am not in madness,"
+        ],
+        [
+            "HAMLET",
+            "But mad in craft. 'Twere good you let him know;"
+        ],
+        [
+            "HAMLET",
+            "For who, that's but a queen, fair, sober, wise,"
+        ],
+        [
+            "HAMLET",
+            "Would from a paddock, from a bat, a gib,"
+        ],
+        [
+            "HAMLET",
+            "Such dear concernings hide? who would do so?"
+        ],
+        [
+            "HAMLET",
+            "No, in despite of sense and secrecy,"
+        ],
+        [
+            "HAMLET",
+            "Unpeg the basket on the house's top."
+        ],
+        [
+            "HAMLET",
+            "Let the birds fly, and, like the famous ape,"
+        ],
+        [
+            "HAMLET",
+            "To try conclusions, in the basket creep,"
+        ],
+        [
+            "HAMLET",
+            "And break your own neck down."
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Be thou assured, if words be made of breath,"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "And breath of life, I have no life to breathe"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "What thou hast said to me."
+        ],
+        [
+            "HAMLET",
+            "I must to England; you know that?"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Alack,"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "I had forgot: 'tis so concluded on."
+        ],
+        [
+            "HAMLET",
+            "There's letters seal'd: and my two schoolfellows,"
+        ],
+        [
+            "HAMLET",
+            "Whom I will trust as I will adders fang'd,"
+        ],
+        [
+            "HAMLET",
+            "They bear the mandate; they must sweep my way,"
+        ],
+        [
+            "HAMLET",
+            "And marshal me to knavery. Let it work;"
+        ],
+        [
+            "HAMLET",
+            "For 'tis the sport to have the engineer"
+        ],
+        [
+            "HAMLET",
+            "Hoist with his own petard: and 't shall go hard"
+        ],
+        [
+            "HAMLET",
+            "But I will delve one yard below their mines,"
+        ],
+        [
+            "HAMLET",
+            "And blow them at the moon: O, 'tis most sweet,"
+        ],
+        [
+            "HAMLET",
+            "When in one line two crafts directly meet."
+        ],
+        [
+            "HAMLET",
+            "This man shall set me packing:"
+        ],
+        [
+            "HAMLET",
+            "I'll lug the guts into the neighbour room."
+        ],
+        [
+            "HAMLET",
+            "Mother, good night. Indeed this counsellor"
+        ],
+        [
+            "HAMLET",
+            "Is now most still, most secret and most grave,"
+        ],
+        [
+            "HAMLET",
+            "Who was in life a foolish prating knave."
+        ],
+        [
+            "HAMLET",
+            "Come, sir, to draw toward an end with you."
+        ],
+        [
+            "HAMLET",
+            "Good night, mother.",
+            {
+                "following_direction_line": "9"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter QUEEN MARGARET and POLONIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "POLONIUS hides behind the arras. Enter HAMLET"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Makes a pass through the arras"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Falls and dies"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Lifts up the array and discovers POLONIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Enter Ghost"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exit Ghost"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Pointing to POLONIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Exeunt severally; HAMLET dragging in POLONIUS"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "LORD POLONIUS": [
+            [
+                "1",
+                "5"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "28",
+                "28"
+            ]
+        ],
+        "HAMLET": [
+            [
+                "6",
+                "6"
+            ],
+            [
+                "9",
+                "9"
+            ],
+            [
+                "11",
+                "11"
+            ],
+            [
+                "13",
+                "13"
+            ],
+            [
+                "15",
+                "15"
+            ],
+            [
+                "17",
+                "19"
+            ],
+            [
+                "21",
+                "23"
+            ],
+            [
+                "27",
+                "27"
+            ],
+            [
+                "30",
+                "31"
+            ],
+            [
+                "33",
+                "34"
+            ],
+            [
+                "36",
+                "44"
+            ],
+            [
+                "47",
+                "58"
+            ],
+            [
+                "61",
+                "96"
+            ],
+            [
+                "101",
+                "104"
+            ],
+            [
+                "108",
+                "113"
+            ],
+            [
+                "115",
+                "117"
+            ],
+            [
+                "119",
+                "121"
+            ],
+            [
+                "128",
+                "128"
+            ],
+            [
+                "138",
+                "143"
+            ],
+            [
+                "145",
+                "145"
+            ],
+            [
+                "147",
+                "147"
+            ],
+            [
+                "149",
+                "151"
+            ],
+            [
+                "155",
+                "171"
+            ],
+            [
+                "173",
+                "196"
+            ],
+            [
+                "198",
+                "213"
+            ],
+            [
+                "217",
+                "217"
+            ],
+            [
+                "220",
+                "235"
+            ]
+        ],
+        "QUEEN GERTRUDE": [
+            [
+                "7",
+                "8"
+            ],
+            [
+                "10",
+                "10"
+            ],
+            [
+                "12",
+                "12"
+            ],
+            [
+                "14",
+                "14"
+            ],
+            [
+                "16",
+                "16"
+            ],
+            [
+                "20",
+                "20"
+            ],
+            [
+                "24",
+                "25"
+            ],
+            [
+                "29",
+                "29"
+            ],
+            [
+                "32",
+                "32"
+            ],
+            [
+                "35",
+                "35"
+            ],
+            [
+                "45",
+                "46"
+            ],
+            [
+                "59",
+                "60"
+            ],
+            [
+                "97",
+                "100"
+            ],
+            [
+                "105",
+                "107"
+            ],
+            [
+                "114",
+                "114"
+            ],
+            [
+                "118",
+                "118"
+            ],
+            [
+                "129",
+                "137"
+            ],
+            [
+                "144",
+                "144"
+            ],
+            [
+                "146",
+                "146"
+            ],
+            [
+                "148",
+                "148"
+            ],
+            [
+                "152",
+                "154"
+            ],
+            [
+                "172",
+                "172"
+            ],
+            [
+                "197",
+                "197"
+            ],
+            [
+                "214",
+                "216"
+            ],
+            [
+                "218",
+                "219"
+            ]
+        ],
+        "Ghost": [
+            [
+                "122",
+                "127"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IV",
+    "scene_description": "The Queen's closet."
+}

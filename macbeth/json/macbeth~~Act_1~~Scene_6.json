@@ -1,0 +1,221 @@
+{
+    "scene_id": "macbeth~~Act_1~~Scene_6",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "DUNCAN",
+            "This castle hath a pleasant seat; the air",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "DUNCAN",
+            "Nimbly and sweetly recommends itself"
+        ],
+        [
+            "DUNCAN",
+            "Unto our gentle senses."
+        ],
+        [
+            "BANQUO",
+            "This guest of summer,"
+        ],
+        [
+            "BANQUO",
+            "The temple-haunting martlet, does approve,"
+        ],
+        [
+            "BANQUO",
+            "By his loved mansionry, that the heaven's breath"
+        ],
+        [
+            "BANQUO",
+            "Smells wooingly here: no jutty, frieze,"
+        ],
+        [
+            "BANQUO",
+            "Buttress, nor coign of vantage, but this bird"
+        ],
+        [
+            "BANQUO",
+            "Hath made his pendent bed and procreant cradle:"
+        ],
+        [
+            "BANQUO",
+            "Where they most breed and haunt, I have observed,"
+        ],
+        [
+            "BANQUO",
+            "The air is delicate.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "DUNCAN",
+            "See, see, our honour'd hostess!",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "DUNCAN",
+            "The love that follows us sometime is our trouble,"
+        ],
+        [
+            "DUNCAN",
+            "Which still we thank as love. Herein I teach you"
+        ],
+        [
+            "DUNCAN",
+            "How you shall bid God 'ild us for your pains,"
+        ],
+        [
+            "DUNCAN",
+            "And thank us for your trouble."
+        ],
+        [
+            "LADY MACBETH",
+            "All our service"
+        ],
+        [
+            "LADY MACBETH",
+            "In every point twice done and then done double"
+        ],
+        [
+            "LADY MACBETH",
+            "Were poor and single business to contend"
+        ],
+        [
+            "LADY MACBETH",
+            "Against those honours deep and broad wherewith"
+        ],
+        [
+            "LADY MACBETH",
+            "Your majesty loads our house: for those of old,"
+        ],
+        [
+            "LADY MACBETH",
+            "And the late dignities heap'd up to them,"
+        ],
+        [
+            "LADY MACBETH",
+            "We rest your hermits."
+        ],
+        [
+            "DUNCAN",
+            "Where's the thane of Cawdor?"
+        ],
+        [
+            "DUNCAN",
+            "We coursed him at the heels, and had a purpose"
+        ],
+        [
+            "DUNCAN",
+            "To be his purveyor: but he rides well;"
+        ],
+        [
+            "DUNCAN",
+            "And his great love, sharp as his spur, hath holp him"
+        ],
+        [
+            "DUNCAN",
+            "To his home before us. Fair and noble hostess,"
+        ],
+        [
+            "DUNCAN",
+            "We are your guest to-night."
+        ],
+        [
+            "LADY MACBETH",
+            "Your servants ever"
+        ],
+        [
+            "LADY MACBETH",
+            "Have theirs, themselves and what is theirs, in compt,"
+        ],
+        [
+            "LADY MACBETH",
+            "To make their audit at your highness' pleasure,"
+        ],
+        [
+            "LADY MACBETH",
+            "Still to return your own."
+        ],
+        [
+            "DUNCAN",
+            "Give me your hand;"
+        ],
+        [
+            "DUNCAN",
+            "Conduct me to mine host: we love him highly,"
+        ],
+        [
+            "DUNCAN",
+            "And shall continue our graces towards him."
+        ],
+        [
+            "DUNCAN",
+            "By your leave, hostess.",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Hautboys and torches. Enter DUNCAN, MALCOLM, DONALBAIN, BANQUO, LENNOX, MACDUFF, ROSS, ANGUS, and Attendants"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter LADY MACBETH"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "DUNCAN": [
+            [
+                "1",
+                "3"
+            ],
+            [
+                "12",
+                "16"
+            ],
+            [
+                "24",
+                "29"
+            ],
+            [
+                "34",
+                "37"
+            ]
+        ],
+        "BANQUO": [
+            [
+                "4",
+                "11"
+            ]
+        ],
+        "LADY MACBETH": [
+            [
+                "17",
+                "23"
+            ],
+            [
+                "30",
+                "33"
+            ]
+        ]
+    },
+    "scene_name": "SCENE VI",
+    "scene_description": "Before Macbeth's castle."
+}

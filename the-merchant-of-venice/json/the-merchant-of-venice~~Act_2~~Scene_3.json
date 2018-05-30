@@ -1,0 +1,128 @@
+{
+    "scene_id": "the merchant of venice~~Act_2~~Scene_3",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "JESSICA",
+            "I am sorry thou wilt leave my father so:",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "JESSICA",
+            "Our house is hell, and thou, a merry devil,"
+        ],
+        [
+            "JESSICA",
+            "Didst rob it of some taste of tediousness."
+        ],
+        [
+            "JESSICA",
+            "But fare thee well, there is a ducat for thee:"
+        ],
+        [
+            "JESSICA",
+            "And, Launcelot, soon at supper shalt thou see"
+        ],
+        [
+            "JESSICA",
+            "Lorenzo, who is thy new master's guest:"
+        ],
+        [
+            "JESSICA",
+            "Give him this letter; do it secretly;"
+        ],
+        [
+            "JESSICA",
+            "And so farewell: I would not have my father"
+        ],
+        [
+            "JESSICA",
+            "See me in talk with thee."
+        ],
+        [
+            "LAUNCELOT",
+            "Adieu! tears exhibit my tongue. Most beautiful"
+        ],
+        [
+            "LAUNCELOT",
+            "pagan, most sweet Jew! if a Christian did not play"
+        ],
+        [
+            "LAUNCELOT",
+            "the knave and get thee, I am much deceived. But,"
+        ],
+        [
+            "LAUNCELOT",
+            "adieu: these foolish drops do something drown my"
+        ],
+        [
+            "LAUNCELOT",
+            "manly spirit: adieu."
+        ],
+        [
+            "JESSICA",
+            "Farewell, good Launcelot."
+        ],
+        [
+            "JESSICA",
+            "Alack, what heinous sin is it in me"
+        ],
+        [
+            "JESSICA",
+            "To be ashamed to be my father's child!"
+        ],
+        [
+            "JESSICA",
+            "But though I am a daughter to his blood,"
+        ],
+        [
+            "JESSICA",
+            "I am not to his manners. O Lorenzo,"
+        ],
+        [
+            "JESSICA",
+            "If thou keep promise, I shall end this strife,"
+        ],
+        [
+            "JESSICA",
+            "Become a Christian and thy loving wife.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter JESSICA and LAUNCELOT"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit Launcelot. Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "JESSICA": [
+            [
+                "1",
+                "9"
+            ],
+            [
+                "15",
+                "21"
+            ]
+        ],
+        "LAUNCELOT": [
+            [
+                "10",
+                "14"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "The same. A room in SHYLOCK'S house."
+}

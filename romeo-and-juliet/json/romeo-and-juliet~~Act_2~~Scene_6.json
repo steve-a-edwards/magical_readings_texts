@@ -1,0 +1,229 @@
+{
+    "scene_id": "romeo and juliet~~Act_2~~Scene_6",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "FRIAR LAURENCE",
+            "So smile the heavens upon this holy act,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "FRIAR LAURENCE",
+            "That after hours with sorrow chide us not!"
+        ],
+        [
+            "ROMEO",
+            "Amen, amen! but come what sorrow can,"
+        ],
+        [
+            "ROMEO",
+            "It cannot countervail the exchange of joy"
+        ],
+        [
+            "ROMEO",
+            "That one short minute gives me in her sight:"
+        ],
+        [
+            "ROMEO",
+            "Do thou but close our hands with holy words,"
+        ],
+        [
+            "ROMEO",
+            "Then love-devouring death do what he dare;"
+        ],
+        [
+            "ROMEO",
+            "It is enough I may but call her mine."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "These violent delights have violent ends"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And in their triumph die, like fire and powder,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Which as they kiss consume: the sweetest honey"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Is loathsome in his own deliciousness"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And in the taste confounds the appetite:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Therefore love moderately; long love doth so;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Too swift arrives as tardy as too slow."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Here comes the lady: O, so light a foot"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Will ne'er wear out the everlasting flint:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "A lover may bestride the gossamer"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "That idles in the wanton summer air,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And yet not fall; so light is vanity.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "JULIET",
+            "Good even to my ghostly confessor.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Romeo shall thank thee, daughter, for us both."
+        ],
+        [
+            "JULIET",
+            "As much to him, else is his thanks too much."
+        ],
+        [
+            "ROMEO",
+            "Ah, Juliet, if the measure of thy joy"
+        ],
+        [
+            "ROMEO",
+            "Be heap'd like mine and that thy skill be more"
+        ],
+        [
+            "ROMEO",
+            "To blazon it, then sweeten with thy breath"
+        ],
+        [
+            "ROMEO",
+            "This neighbour air, and let rich music's tongue"
+        ],
+        [
+            "ROMEO",
+            "Unfold the imagined happiness that both"
+        ],
+        [
+            "ROMEO",
+            "Receive in either by this dear encounter."
+        ],
+        [
+            "JULIET",
+            "Conceit, more rich in matter than in words,"
+        ],
+        [
+            "JULIET",
+            "Brags of his substance, not of ornament:"
+        ],
+        [
+            "JULIET",
+            "They are but beggars that can count their worth;"
+        ],
+        [
+            "JULIET",
+            "But my true love is grown to such excess"
+        ],
+        [
+            "JULIET",
+            "I cannot sum up sum of half my wealth."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Come, come with me, and we will make short work;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "For, by your leaves, you shall not stay alone"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Till holy church incorporate two in one.",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter FRIAR LAURENCE and ROMEO"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter JULIET"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "FRIAR LAURENCE": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "9",
+                "20"
+            ],
+            [
+                "22",
+                "22"
+            ],
+            [
+                "35",
+                "37"
+            ]
+        ],
+        "ROMEO": [
+            [
+                "3",
+                "8"
+            ],
+            [
+                "24",
+                "29"
+            ]
+        ],
+        "JULIET": [
+            [
+                "21",
+                "21"
+            ],
+            [
+                "23",
+                "23"
+            ],
+            [
+                "30",
+                "34"
+            ]
+        ]
+    },
+    "scene_name": "SCENE VI",
+    "scene_description": "Friar Laurence's cell."
+}

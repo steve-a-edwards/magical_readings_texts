@@ -1,0 +1,463 @@
+{
+    "scene_id": "macbeth~~Act_1~~Scene_7",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "MACBETH",
+            "If it were done when 'tis done, then 'twere well",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "MACBETH",
+            "It were done quickly: if the assassination"
+        ],
+        [
+            "MACBETH",
+            "Could trammel up the consequence, and catch"
+        ],
+        [
+            "MACBETH",
+            "With his surcease success; that but this blow"
+        ],
+        [
+            "MACBETH",
+            "Might be the be-all and the end-all here,"
+        ],
+        [
+            "MACBETH",
+            "But here, upon this bank and shoal of time,"
+        ],
+        [
+            "MACBETH",
+            "We'ld jump the life to come. But in these cases"
+        ],
+        [
+            "MACBETH",
+            "We still have judgment here; that we but teach"
+        ],
+        [
+            "MACBETH",
+            "Bloody instructions, which, being taught, return"
+        ],
+        [
+            "MACBETH",
+            "To plague the inventor: this even-handed justice"
+        ],
+        [
+            "MACBETH",
+            "Commends the ingredients of our poison'd chalice"
+        ],
+        [
+            "MACBETH",
+            "To our own lips. He's here in double trust;"
+        ],
+        [
+            "MACBETH",
+            "First, as I am his kinsman and his subject,"
+        ],
+        [
+            "MACBETH",
+            "Strong both against the deed; then, as his host,"
+        ],
+        [
+            "MACBETH",
+            "Who should against his murderer shut the door,"
+        ],
+        [
+            "MACBETH",
+            "Not bear the knife myself. Besides, this Duncan"
+        ],
+        [
+            "MACBETH",
+            "Hath borne his faculties so meek, hath been"
+        ],
+        [
+            "MACBETH",
+            "So clear in his great office, that his virtues"
+        ],
+        [
+            "MACBETH",
+            "Will plead like angels, trumpet-tongued, against"
+        ],
+        [
+            "MACBETH",
+            "The deep damnation of his taking-off;"
+        ],
+        [
+            "MACBETH",
+            "And pity, like a naked new-born babe,"
+        ],
+        [
+            "MACBETH",
+            "Striding the blast, or heaven's cherubim, horsed"
+        ],
+        [
+            "MACBETH",
+            "Upon the sightless couriers of the air,"
+        ],
+        [
+            "MACBETH",
+            "Shall blow the horrid deed in every eye,"
+        ],
+        [
+            "MACBETH",
+            "That tears shall drown the wind. I have no spur"
+        ],
+        [
+            "MACBETH",
+            "To prick the sides of my intent, but only"
+        ],
+        [
+            "MACBETH",
+            "Vaulting ambition, which o'erleaps itself"
+        ],
+        [
+            "MACBETH",
+            "And falls on the other."
+        ],
+        [
+            "MACBETH",
+            "How now! what news?",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "LADY MACBETH",
+            "He has almost supp'd: why have you left the chamber?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "MACBETH",
+            "Hath he ask'd for me?"
+        ],
+        [
+            "LADY MACBETH",
+            "Know you not he has?"
+        ],
+        [
+            "MACBETH",
+            "We will proceed no further in this business:"
+        ],
+        [
+            "MACBETH",
+            "He hath honour'd me of late; and I have bought"
+        ],
+        [
+            "MACBETH",
+            "Golden opinions from all sorts of people,"
+        ],
+        [
+            "MACBETH",
+            "Which would be worn now in their newest gloss,"
+        ],
+        [
+            "MACBETH",
+            "Not cast aside so soon."
+        ],
+        [
+            "LADY MACBETH",
+            "Was the hope drunk"
+        ],
+        [
+            "LADY MACBETH",
+            "Wherein you dress'd yourself? hath it slept since?"
+        ],
+        [
+            "LADY MACBETH",
+            "And wakes it now, to look so green and pale"
+        ],
+        [
+            "LADY MACBETH",
+            "At what it did so freely? From this time"
+        ],
+        [
+            "LADY MACBETH",
+            "Such I account thy love. Art thou afeard"
+        ],
+        [
+            "LADY MACBETH",
+            "To be the same in thine own act and valour"
+        ],
+        [
+            "LADY MACBETH",
+            "As thou art in desire? Wouldst thou have that"
+        ],
+        [
+            "LADY MACBETH",
+            "Which thou esteem'st the ornament of life,"
+        ],
+        [
+            "LADY MACBETH",
+            "And live a coward in thine own esteem,"
+        ],
+        [
+            "LADY MACBETH",
+            "Letting 'I dare not' wait upon 'I would,'"
+        ],
+        [
+            "LADY MACBETH",
+            "Like the poor cat i' the adage?"
+        ],
+        [
+            "MACBETH",
+            "Prithee, peace:"
+        ],
+        [
+            "MACBETH",
+            "I dare do all that may become a man;"
+        ],
+        [
+            "MACBETH",
+            "Who dares do more is none."
+        ],
+        [
+            "LADY MACBETH",
+            "What beast was't, then,"
+        ],
+        [
+            "LADY MACBETH",
+            "That made you break this enterprise to me?"
+        ],
+        [
+            "LADY MACBETH",
+            "When you durst do it, then you were a man;"
+        ],
+        [
+            "LADY MACBETH",
+            "And, to be more than what you were, you would"
+        ],
+        [
+            "LADY MACBETH",
+            "Be so much more the man. Nor time nor place"
+        ],
+        [
+            "LADY MACBETH",
+            "Did then adhere, and yet you would make both:"
+        ],
+        [
+            "LADY MACBETH",
+            "They have made themselves, and that their fitness now"
+        ],
+        [
+            "LADY MACBETH",
+            "Does unmake you. I have given suck, and know"
+        ],
+        [
+            "LADY MACBETH",
+            "How tender 'tis to love the babe that milks me:"
+        ],
+        [
+            "LADY MACBETH",
+            "I would, while it was smiling in my face,"
+        ],
+        [
+            "LADY MACBETH",
+            "Have pluck'd my nipple from his boneless gums,"
+        ],
+        [
+            "LADY MACBETH",
+            "And dash'd the brains out, had I so sworn as you"
+        ],
+        [
+            "LADY MACBETH",
+            "Have done to this."
+        ],
+        [
+            "MACBETH",
+            "If we should fail?"
+        ],
+        [
+            "LADY MACBETH",
+            "We fail!"
+        ],
+        [
+            "LADY MACBETH",
+            "But screw your courage to the sticking-place,"
+        ],
+        [
+            "LADY MACBETH",
+            "And we'll not fail. When Duncan is asleep--"
+        ],
+        [
+            "LADY MACBETH",
+            "Whereto the rather shall his day's hard journey"
+        ],
+        [
+            "LADY MACBETH",
+            "Soundly invite him--his two chamberlains"
+        ],
+        [
+            "LADY MACBETH",
+            "Will I with wine and wassail so convince"
+        ],
+        [
+            "LADY MACBETH",
+            "That memory, the warder of the brain,"
+        ],
+        [
+            "LADY MACBETH",
+            "Shall be a fume, and the receipt of reason"
+        ],
+        [
+            "LADY MACBETH",
+            "A limbeck only: when in swinish sleep"
+        ],
+        [
+            "LADY MACBETH",
+            "Their drenched natures lie as in a death,"
+        ],
+        [
+            "LADY MACBETH",
+            "What cannot you and I perform upon"
+        ],
+        [
+            "LADY MACBETH",
+            "The unguarded Duncan? what not put upon"
+        ],
+        [
+            "LADY MACBETH",
+            "His spongy officers, who shall bear the guilt"
+        ],
+        [
+            "LADY MACBETH",
+            "Of our great quell?"
+        ],
+        [
+            "MACBETH",
+            "Bring forth men-children only;"
+        ],
+        [
+            "MACBETH",
+            "For thy undaunted mettle should compose"
+        ],
+        [
+            "MACBETH",
+            "Nothing but males. Will it not be received,"
+        ],
+        [
+            "MACBETH",
+            "When we have mark'd with blood those sleepy two"
+        ],
+        [
+            "MACBETH",
+            "Of his own chamber and used their very daggers,"
+        ],
+        [
+            "MACBETH",
+            "That they have done't?"
+        ],
+        [
+            "LADY MACBETH",
+            "Who dares receive it other,"
+        ],
+        [
+            "LADY MACBETH",
+            "As we shall make our griefs and clamour roar"
+        ],
+        [
+            "LADY MACBETH",
+            "Upon his death?"
+        ],
+        [
+            "MACBETH",
+            "I am settled, and bend up"
+        ],
+        [
+            "MACBETH",
+            "Each corporal agent to this terrible feat."
+        ],
+        [
+            "MACBETH",
+            "Away, and mock the time with fairest show:"
+        ],
+        [
+            "MACBETH",
+            "False face must hide what the false heart doth know.",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Hautboys and torches. Enter a Sewer, and divers Servants with dishes and service, and pass over the stage. Then enter MACBETH"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter LADY MACBETH"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "MACBETH": [
+            [
+                "1",
+                "29"
+            ],
+            [
+                "31",
+                "31"
+            ],
+            [
+                "33",
+                "37"
+            ],
+            [
+                "49",
+                "51"
+            ],
+            [
+                "65",
+                "65"
+            ],
+            [
+                "80",
+                "85"
+            ],
+            [
+                "89",
+                "92"
+            ]
+        ],
+        "LADY MACBETH": [
+            [
+                "30",
+                "30"
+            ],
+            [
+                "32",
+                "32"
+            ],
+            [
+                "38",
+                "48"
+            ],
+            [
+                "52",
+                "64"
+            ],
+            [
+                "66",
+                "79"
+            ],
+            [
+                "86",
+                "88"
+            ]
+        ]
+    },
+    "scene_name": "SCENE VII",
+    "scene_description": "Macbeth's castle."
+}

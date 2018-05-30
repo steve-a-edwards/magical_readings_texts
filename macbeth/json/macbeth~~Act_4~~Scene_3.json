@@ -1,0 +1,1453 @@
+{
+    "scene_id": "macbeth~~Act_4~~Scene_3",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "MALCOLM",
+            "Let us seek out some desolate shade, and there",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "MALCOLM",
+            "Weep our sad bosoms empty."
+        ],
+        [
+            "MACDUFF",
+            "Let us rather"
+        ],
+        [
+            "MACDUFF",
+            "Hold fast the mortal sword, and like good men"
+        ],
+        [
+            "MACDUFF",
+            "Bestride our down-fall'n birthdom: each new morn"
+        ],
+        [
+            "MACDUFF",
+            "New widows howl, new orphans cry, new sorrows"
+        ],
+        [
+            "MACDUFF",
+            "Strike heaven on the face, that it resounds"
+        ],
+        [
+            "MACDUFF",
+            "As if it felt with Scotland and yell'd out"
+        ],
+        [
+            "MACDUFF",
+            "Like syllable of dolour."
+        ],
+        [
+            "MALCOLM",
+            "What I believe I'll wail,"
+        ],
+        [
+            "MALCOLM",
+            "What know believe, and what I can redress,"
+        ],
+        [
+            "MALCOLM",
+            "As I shall find the time to friend, I will."
+        ],
+        [
+            "MALCOLM",
+            "What you have spoke, it may be so perchance."
+        ],
+        [
+            "MALCOLM",
+            "This tyrant, whose sole name blisters our tongues,"
+        ],
+        [
+            "MALCOLM",
+            "Was once thought honest: you have loved him well."
+        ],
+        [
+            "MALCOLM",
+            "He hath not touch'd you yet. I am young;"
+        ],
+        [
+            "MALCOLM",
+            "but something"
+        ],
+        [
+            "MALCOLM",
+            "You may deserve of him through me, and wisdom"
+        ],
+        [
+            "MALCOLM",
+            "To offer up a weak poor innocent lamb"
+        ],
+        [
+            "MALCOLM",
+            "To appease an angry god."
+        ],
+        [
+            "MACDUFF",
+            "I am not treacherous."
+        ],
+        [
+            "MALCOLM",
+            "But Macbeth is."
+        ],
+        [
+            "MALCOLM",
+            "A good and virtuous nature may recoil"
+        ],
+        [
+            "MALCOLM",
+            "In an imperial charge. But I shall crave"
+        ],
+        [
+            "MALCOLM",
+            "your pardon;"
+        ],
+        [
+            "MALCOLM",
+            "That which you are my thoughts cannot transpose:"
+        ],
+        [
+            "MALCOLM",
+            "Angels are bright still, though the brightest fell;"
+        ],
+        [
+            "MALCOLM",
+            "Though all things foul would wear the brows of grace,"
+        ],
+        [
+            "MALCOLM",
+            "Yet grace must still look so."
+        ],
+        [
+            "MACDUFF",
+            "I have lost my hopes."
+        ],
+        [
+            "MALCOLM",
+            "Perchance even there where I did find my doubts."
+        ],
+        [
+            "MALCOLM",
+            "Why in that rawness left you wife and child,"
+        ],
+        [
+            "MALCOLM",
+            "Those precious motives, those strong knots of love,"
+        ],
+        [
+            "MALCOLM",
+            "Without leave-taking? I pray you,"
+        ],
+        [
+            "MALCOLM",
+            "Let not my jealousies be your dishonours,"
+        ],
+        [
+            "MALCOLM",
+            "But mine own safeties. You may be rightly just,"
+        ],
+        [
+            "MALCOLM",
+            "Whatever I shall think."
+        ],
+        [
+            "MACDUFF",
+            "Bleed, bleed, poor country!"
+        ],
+        [
+            "MACDUFF",
+            "Great tyranny! lay thou thy basis sure,"
+        ],
+        [
+            "MACDUFF",
+            "For goodness dare not cheque thee: wear thou"
+        ],
+        [
+            "MACDUFF",
+            "thy wrongs;"
+        ],
+        [
+            "MACDUFF",
+            "The title is affeer'd! Fare thee well, lord:"
+        ],
+        [
+            "MACDUFF",
+            "I would not be the villain that thou think'st"
+        ],
+        [
+            "MACDUFF",
+            "For the whole space that's in the tyrant's grasp,"
+        ],
+        [
+            "MACDUFF",
+            "And the rich East to boot."
+        ],
+        [
+            "MALCOLM",
+            "Be not offended:"
+        ],
+        [
+            "MALCOLM",
+            "I speak not as in absolute fear of you."
+        ],
+        [
+            "MALCOLM",
+            "I think our country sinks beneath the yoke;"
+        ],
+        [
+            "MALCOLM",
+            "It weeps, it bleeds; and each new day a gash"
+        ],
+        [
+            "MALCOLM",
+            "Is added to her wounds: I think withal"
+        ],
+        [
+            "MALCOLM",
+            "There would be hands uplifted in my right;"
+        ],
+        [
+            "MALCOLM",
+            "And here from gracious England have I offer"
+        ],
+        [
+            "MALCOLM",
+            "Of goodly thousands: but, for all this,"
+        ],
+        [
+            "MALCOLM",
+            "When I shall tread upon the tyrant's head,"
+        ],
+        [
+            "MALCOLM",
+            "Or wear it on my sword, yet my poor country"
+        ],
+        [
+            "MALCOLM",
+            "Shall have more vices than it had before,"
+        ],
+        [
+            "MALCOLM",
+            "More suffer and more sundry ways than ever,"
+        ],
+        [
+            "MALCOLM",
+            "By him that shall succeed."
+        ],
+        [
+            "MACDUFF",
+            "What should he be?"
+        ],
+        [
+            "MALCOLM",
+            "It is myself I mean: in whom I know"
+        ],
+        [
+            "MALCOLM",
+            "All the particulars of vice so grafted"
+        ],
+        [
+            "MALCOLM",
+            "That, when they shall be open'd, black Macbeth"
+        ],
+        [
+            "MALCOLM",
+            "Will seem as pure as snow, and the poor state"
+        ],
+        [
+            "MALCOLM",
+            "Esteem him as a lamb, being compared"
+        ],
+        [
+            "MALCOLM",
+            "With my confineless harms."
+        ],
+        [
+            "MACDUFF",
+            "Not in the legions"
+        ],
+        [
+            "MACDUFF",
+            "Of horrid hell can come a devil more damn'd"
+        ],
+        [
+            "MACDUFF",
+            "In evils to top Macbeth."
+        ],
+        [
+            "MALCOLM",
+            "I grant him bloody,"
+        ],
+        [
+            "MALCOLM",
+            "Luxurious, avaricious, false, deceitful,"
+        ],
+        [
+            "MALCOLM",
+            "Sudden, malicious, smacking of every sin"
+        ],
+        [
+            "MALCOLM",
+            "That has a name: but there's no bottom, none,"
+        ],
+        [
+            "MALCOLM",
+            "In my voluptuousness: your wives, your daughters,"
+        ],
+        [
+            "MALCOLM",
+            "Your matrons and your maids, could not fill up"
+        ],
+        [
+            "MALCOLM",
+            "The cistern of my lust, and my desire"
+        ],
+        [
+            "MALCOLM",
+            "All continent impediments would o'erbear"
+        ],
+        [
+            "MALCOLM",
+            "That did oppose my will: better Macbeth"
+        ],
+        [
+            "MALCOLM",
+            "Than such an one to reign."
+        ],
+        [
+            "MACDUFF",
+            "Boundless intemperance"
+        ],
+        [
+            "MACDUFF",
+            "In nature is a tyranny; it hath been"
+        ],
+        [
+            "MACDUFF",
+            "The untimely emptying of the happy throne"
+        ],
+        [
+            "MACDUFF",
+            "And fall of many kings. But fear not yet"
+        ],
+        [
+            "MACDUFF",
+            "To take upon you what is yours: you may"
+        ],
+        [
+            "MACDUFF",
+            "Convey your pleasures in a spacious plenty,"
+        ],
+        [
+            "MACDUFF",
+            "And yet seem cold, the time you may so hoodwink."
+        ],
+        [
+            "MACDUFF",
+            "We have willing dames enough: there cannot be"
+        ],
+        [
+            "MACDUFF",
+            "That vulture in you, to devour so many"
+        ],
+        [
+            "MACDUFF",
+            "As will to greatness dedicate themselves,"
+        ],
+        [
+            "MACDUFF",
+            "Finding it so inclined."
+        ],
+        [
+            "MALCOLM",
+            "With this there grows"
+        ],
+        [
+            "MALCOLM",
+            "In my most ill-composed affection such"
+        ],
+        [
+            "MALCOLM",
+            "A stanchless avarice that, were I king,"
+        ],
+        [
+            "MALCOLM",
+            "I should cut off the nobles for their lands,"
+        ],
+        [
+            "MALCOLM",
+            "Desire his jewels and this other's house:"
+        ],
+        [
+            "MALCOLM",
+            "And my more-having would be as a sauce"
+        ],
+        [
+            "MALCOLM",
+            "To make me hunger more; that I should forge"
+        ],
+        [
+            "MALCOLM",
+            "Quarrels unjust against the good and loyal,"
+        ],
+        [
+            "MALCOLM",
+            "Destroying them for wealth."
+        ],
+        [
+            "MACDUFF",
+            "This avarice"
+        ],
+        [
+            "MACDUFF",
+            "Sticks deeper, grows with more pernicious root"
+        ],
+        [
+            "MACDUFF",
+            "Than summer-seeming lust, and it hath been"
+        ],
+        [
+            "MACDUFF",
+            "The sword of our slain kings: yet do not fear;"
+        ],
+        [
+            "MACDUFF",
+            "Scotland hath foisons to fill up your will."
+        ],
+        [
+            "MACDUFF",
+            "Of your mere own: all these are portable,"
+        ],
+        [
+            "MACDUFF",
+            "With other graces weigh'd."
+        ],
+        [
+            "MALCOLM",
+            "But I have none: the king-becoming graces,"
+        ],
+        [
+            "MALCOLM",
+            "As justice, verity, temperance, stableness,"
+        ],
+        [
+            "MALCOLM",
+            "Bounty, perseverance, mercy, lowliness,"
+        ],
+        [
+            "MALCOLM",
+            "Devotion, patience, courage, fortitude,"
+        ],
+        [
+            "MALCOLM",
+            "I have no relish of them, but abound"
+        ],
+        [
+            "MALCOLM",
+            "In the division of each several crime,"
+        ],
+        [
+            "MALCOLM",
+            "Acting it many ways. Nay, had I power, I should"
+        ],
+        [
+            "MALCOLM",
+            "Pour the sweet milk of concord into hell,"
+        ],
+        [
+            "MALCOLM",
+            "Uproar the universal peace, confound"
+        ],
+        [
+            "MALCOLM",
+            "All unity on earth."
+        ],
+        [
+            "MACDUFF",
+            "O Scotland, Scotland!"
+        ],
+        [
+            "MALCOLM",
+            "If such a one be fit to govern, speak:"
+        ],
+        [
+            "MALCOLM",
+            "I am as I have spoken."
+        ],
+        [
+            "MACDUFF",
+            "Fit to govern!"
+        ],
+        [
+            "MACDUFF",
+            "No, not to live. O nation miserable,"
+        ],
+        [
+            "MACDUFF",
+            "With an untitled tyrant bloody-scepter'd,"
+        ],
+        [
+            "MACDUFF",
+            "When shalt thou see thy wholesome days again,"
+        ],
+        [
+            "MACDUFF",
+            "Since that the truest issue of thy throne"
+        ],
+        [
+            "MACDUFF",
+            "By his own interdiction stands accursed,"
+        ],
+        [
+            "MACDUFF",
+            "And does blaspheme his breed? Thy royal father"
+        ],
+        [
+            "MACDUFF",
+            "Was a most sainted king: the queen that bore thee,"
+        ],
+        [
+            "MACDUFF",
+            "Oftener upon her knees than on her feet,"
+        ],
+        [
+            "MACDUFF",
+            "Died every day she lived. Fare thee well!"
+        ],
+        [
+            "MACDUFF",
+            "These evils thou repeat'st upon thyself"
+        ],
+        [
+            "MACDUFF",
+            "Have banish'd me from Scotland. O my breast,"
+        ],
+        [
+            "MACDUFF",
+            "Thy hope ends here!"
+        ],
+        [
+            "MALCOLM",
+            "Macduff, this noble passion,"
+        ],
+        [
+            "MALCOLM",
+            "Child of integrity, hath from my soul"
+        ],
+        [
+            "MALCOLM",
+            "Wiped the black scruples, reconciled my thoughts"
+        ],
+        [
+            "MALCOLM",
+            "To thy good truth and honour. Devilish Macbeth"
+        ],
+        [
+            "MALCOLM",
+            "By many of these trains hath sought to win me"
+        ],
+        [
+            "MALCOLM",
+            "Into his power, and modest wisdom plucks me"
+        ],
+        [
+            "MALCOLM",
+            "From over-credulous haste: but God above"
+        ],
+        [
+            "MALCOLM",
+            "Deal between thee and me! for even now"
+        ],
+        [
+            "MALCOLM",
+            "I put myself to thy direction, and"
+        ],
+        [
+            "MALCOLM",
+            "Unspeak mine own detraction, here abjure"
+        ],
+        [
+            "MALCOLM",
+            "The taints and blames I laid upon myself,"
+        ],
+        [
+            "MALCOLM",
+            "For strangers to my nature. I am yet"
+        ],
+        [
+            "MALCOLM",
+            "Unknown to woman, never was forsworn,"
+        ],
+        [
+            "MALCOLM",
+            "Scarcely have coveted what was mine own,"
+        ],
+        [
+            "MALCOLM",
+            "At no time broke my faith, would not betray"
+        ],
+        [
+            "MALCOLM",
+            "The devil to his fellow and delight"
+        ],
+        [
+            "MALCOLM",
+            "No less in truth than life: my first false speaking"
+        ],
+        [
+            "MALCOLM",
+            "Was this upon myself: what I am truly,"
+        ],
+        [
+            "MALCOLM",
+            "Is thine and my poor country's to command:"
+        ],
+        [
+            "MALCOLM",
+            "Whither indeed, before thy here-approach,"
+        ],
+        [
+            "MALCOLM",
+            "Old Siward, with ten thousand warlike men,"
+        ],
+        [
+            "MALCOLM",
+            "Already at a point, was setting forth."
+        ],
+        [
+            "MALCOLM",
+            "Now we'll together; and the chance of goodness"
+        ],
+        [
+            "MALCOLM",
+            "Be like our warranted quarrel! Why are you silent?"
+        ],
+        [
+            "MACDUFF",
+            "Such welcome and unwelcome things at once"
+        ],
+        [
+            "MACDUFF",
+            "'Tis hard to reconcile.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "MALCOLM",
+            "Well; more anon.--Comes the king forth, I pray you?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "Doctor",
+            "Ay, sir; there are a crew of wretched souls"
+        ],
+        [
+            "Doctor",
+            "That stay his cure: their malady convinces"
+        ],
+        [
+            "Doctor",
+            "The great assay of art; but at his touch--"
+        ],
+        [
+            "Doctor",
+            "Such sanctity hath heaven given his hand--"
+        ],
+        [
+            "Doctor",
+            "They presently amend."
+        ],
+        [
+            "MALCOLM",
+            "I thank you, doctor.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "MACDUFF",
+            "What's the disease he means?",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "MALCOLM",
+            "'Tis call'd the evil:"
+        ],
+        [
+            "MALCOLM",
+            "A most miraculous work in this good king;"
+        ],
+        [
+            "MALCOLM",
+            "Which often, since my here-remain in England,"
+        ],
+        [
+            "MALCOLM",
+            "I have seen him do. How he solicits heaven,"
+        ],
+        [
+            "MALCOLM",
+            "Himself best knows: but strangely-visited people,"
+        ],
+        [
+            "MALCOLM",
+            "All swoln and ulcerous, pitiful to the eye,"
+        ],
+        [
+            "MALCOLM",
+            "The mere despair of surgery, he cures,"
+        ],
+        [
+            "MALCOLM",
+            "Hanging a golden stamp about their necks,"
+        ],
+        [
+            "MALCOLM",
+            "Put on with holy prayers: and 'tis spoken,"
+        ],
+        [
+            "MALCOLM",
+            "To the succeeding royalty he leaves"
+        ],
+        [
+            "MALCOLM",
+            "The healing benediction. With this strange virtue,"
+        ],
+        [
+            "MALCOLM",
+            "He hath a heavenly gift of prophecy,"
+        ],
+        [
+            "MALCOLM",
+            "And sundry blessings hang about his throne,"
+        ],
+        [
+            "MALCOLM",
+            "That speak him full of grace.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "MACDUFF",
+            "See, who comes here?",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "MALCOLM",
+            "My countryman; but yet I know him not."
+        ],
+        [
+            "MACDUFF",
+            "My ever-gentle cousin, welcome hither."
+        ],
+        [
+            "MALCOLM",
+            "I know him now. Good God, betimes remove"
+        ],
+        [
+            "MALCOLM",
+            "The means that makes us strangers!"
+        ],
+        [
+            "ROSS",
+            "Sir, amen."
+        ],
+        [
+            "MACDUFF",
+            "Stands Scotland where it did?"
+        ],
+        [
+            "ROSS",
+            "Alas, poor country!"
+        ],
+        [
+            "ROSS",
+            "Almost afraid to know itself. It cannot"
+        ],
+        [
+            "ROSS",
+            "Be call'd our mother, but our grave; where nothing,"
+        ],
+        [
+            "ROSS",
+            "But who knows nothing, is once seen to smile;"
+        ],
+        [
+            "ROSS",
+            "Where sighs and groans and shrieks that rend the air"
+        ],
+        [
+            "ROSS",
+            "Are made, not mark'd; where violent sorrow seems"
+        ],
+        [
+            "ROSS",
+            "A modern ecstasy; the dead man's knell"
+        ],
+        [
+            "ROSS",
+            "Is there scarce ask'd for who; and good men's lives"
+        ],
+        [
+            "ROSS",
+            "Expire before the flowers in their caps,"
+        ],
+        [
+            "ROSS",
+            "Dying or ere they sicken."
+        ],
+        [
+            "MACDUFF",
+            "O, relation"
+        ],
+        [
+            "MACDUFF",
+            "Too nice, and yet too true!"
+        ],
+        [
+            "MALCOLM",
+            "What's the newest grief?"
+        ],
+        [
+            "ROSS",
+            "That of an hour's age doth hiss the speaker:"
+        ],
+        [
+            "ROSS",
+            "Each minute teems a new one."
+        ],
+        [
+            "MACDUFF",
+            "How does my wife?"
+        ],
+        [
+            "ROSS",
+            "Why, well."
+        ],
+        [
+            "MACDUFF",
+            "And all my children?"
+        ],
+        [
+            "ROSS",
+            "Well too."
+        ],
+        [
+            "MACDUFF",
+            "The tyrant has not batter'd at their peace?"
+        ],
+        [
+            "ROSS",
+            "No; they were well at peace when I did leave 'em."
+        ],
+        [
+            "MACDUFF",
+            "But not a niggard of your speech: how goes't?"
+        ],
+        [
+            "ROSS",
+            "When I came hither to transport the tidings,"
+        ],
+        [
+            "ROSS",
+            "Which I have heavily borne, there ran a rumour"
+        ],
+        [
+            "ROSS",
+            "Of many worthy fellows that were out;"
+        ],
+        [
+            "ROSS",
+            "Which was to my belief witness'd the rather,"
+        ],
+        [
+            "ROSS",
+            "For that I saw the tyrant's power a-foot:"
+        ],
+        [
+            "ROSS",
+            "Now is the time of help; your eye in Scotland"
+        ],
+        [
+            "ROSS",
+            "Would create soldiers, make our women fight,"
+        ],
+        [
+            "ROSS",
+            "To doff their dire distresses."
+        ],
+        [
+            "MALCOLM",
+            "Be't their comfort"
+        ],
+        [
+            "MALCOLM",
+            "We are coming thither: gracious England hath"
+        ],
+        [
+            "MALCOLM",
+            "Lent us good Siward and ten thousand men;"
+        ],
+        [
+            "MALCOLM",
+            "An older and a better soldier none"
+        ],
+        [
+            "MALCOLM",
+            "That Christendom gives out."
+        ],
+        [
+            "ROSS",
+            "Would I could answer"
+        ],
+        [
+            "ROSS",
+            "This comfort with the like! But I have words"
+        ],
+        [
+            "ROSS",
+            "That would be howl'd out in the desert air,"
+        ],
+        [
+            "ROSS",
+            "Where hearing should not latch them."
+        ],
+        [
+            "MACDUFF",
+            "What concern they?"
+        ],
+        [
+            "MACDUFF",
+            "The general cause? or is it a fee-grief"
+        ],
+        [
+            "MACDUFF",
+            "Due to some single breast?"
+        ],
+        [
+            "ROSS",
+            "No mind that's honest"
+        ],
+        [
+            "ROSS",
+            "But in it shares some woe; though the main part"
+        ],
+        [
+            "ROSS",
+            "Pertains to you alone."
+        ],
+        [
+            "MACDUFF",
+            "If it be mine,"
+        ],
+        [
+            "MACDUFF",
+            "Keep it not from me, quickly let me have it."
+        ],
+        [
+            "ROSS",
+            "Let not your ears despise my tongue for ever,"
+        ],
+        [
+            "ROSS",
+            "Which shall possess them with the heaviest sound"
+        ],
+        [
+            "ROSS",
+            "That ever yet they heard."
+        ],
+        [
+            "MACDUFF",
+            "Hum! I guess at it."
+        ],
+        [
+            "ROSS",
+            "Your castle is surprised; your wife and babes"
+        ],
+        [
+            "ROSS",
+            "Savagely slaughter'd: to relate the manner,"
+        ],
+        [
+            "ROSS",
+            "Were, on the quarry of these murder'd deer,"
+        ],
+        [
+            "ROSS",
+            "To add the death of you."
+        ],
+        [
+            "MALCOLM",
+            "Merciful heaven!"
+        ],
+        [
+            "MALCOLM",
+            "What, man! ne'er pull your hat upon your brows;"
+        ],
+        [
+            "MALCOLM",
+            "Give sorrow words: the grief that does not speak"
+        ],
+        [
+            "MALCOLM",
+            "Whispers the o'er-fraught heart and bids it break."
+        ],
+        [
+            "MACDUFF",
+            "My children too?"
+        ],
+        [
+            "ROSS",
+            "Wife, children, servants, all"
+        ],
+        [
+            "ROSS",
+            "That could be found."
+        ],
+        [
+            "MACDUFF",
+            "And I must be from thence!"
+        ],
+        [
+            "MACDUFF",
+            "My wife kill'd too?"
+        ],
+        [
+            "ROSS",
+            "I have said."
+        ],
+        [
+            "MALCOLM",
+            "Be comforted:"
+        ],
+        [
+            "MALCOLM",
+            "Let's make us medicines of our great revenge,"
+        ],
+        [
+            "MALCOLM",
+            "To cure this deadly grief."
+        ],
+        [
+            "MACDUFF",
+            "He has no children. All my pretty ones?"
+        ],
+        [
+            "MACDUFF",
+            "Did you say all? O hell-kite! All?"
+        ],
+        [
+            "MACDUFF",
+            "What, all my pretty chickens and their dam"
+        ],
+        [
+            "MACDUFF",
+            "At one fell swoop?"
+        ],
+        [
+            "MALCOLM",
+            "Dispute it like a man."
+        ],
+        [
+            "MACDUFF",
+            "I shall do so;"
+        ],
+        [
+            "MACDUFF",
+            "But I must also feel it as a man:"
+        ],
+        [
+            "MACDUFF",
+            "I cannot but remember such things were,"
+        ],
+        [
+            "MACDUFF",
+            "That were most precious to me. Did heaven look on,"
+        ],
+        [
+            "MACDUFF",
+            "And would not take their part? Sinful Macduff,"
+        ],
+        [
+            "MACDUFF",
+            "They were all struck for thee! naught that I am,"
+        ],
+        [
+            "MACDUFF",
+            "Not for their own demerits, but for mine,"
+        ],
+        [
+            "MACDUFF",
+            "Fell slaughter on their souls. Heaven rest them now!"
+        ],
+        [
+            "MALCOLM",
+            "Be this the whetstone of your sword: let grief"
+        ],
+        [
+            "MALCOLM",
+            "Convert to anger; blunt not the heart, enrage it."
+        ],
+        [
+            "MACDUFF",
+            "O, I could play the woman with mine eyes"
+        ],
+        [
+            "MACDUFF",
+            "And braggart with my tongue! But, gentle heavens,"
+        ],
+        [
+            "MACDUFF",
+            "Cut short all intermission; front to front"
+        ],
+        [
+            "MACDUFF",
+            "Bring thou this fiend of Scotland and myself;"
+        ],
+        [
+            "MACDUFF",
+            "Within my sword's length set him; if he 'scape,"
+        ],
+        [
+            "MACDUFF",
+            "Heaven forgive him too!"
+        ],
+        [
+            "MALCOLM",
+            "This tune goes manly."
+        ],
+        [
+            "MALCOLM",
+            "Come, go we to the king; our power is ready;"
+        ],
+        [
+            "MALCOLM",
+            "Our lack is nothing but our leave; Macbeth"
+        ],
+        [
+            "MALCOLM",
+            "Is ripe for shaking, and the powers above"
+        ],
+        [
+            "MALCOLM",
+            "Put on their instruments. Receive what cheer you may:"
+        ],
+        [
+            "MALCOLM",
+            "The night is long that never finds the day.",
+            {
+                "following_direction_line": "5"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter MALCOLM and MACDUFF"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter a Doctor"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit Doctor"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter ROSS"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "MALCOLM": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "10",
+                "20"
+            ],
+            [
+                "22",
+                "29"
+            ],
+            [
+                "31",
+                "37"
+            ],
+            [
+                "46",
+                "58"
+            ],
+            [
+                "60",
+                "65"
+            ],
+            [
+                "69",
+                "78"
+            ],
+            [
+                "90",
+                "98"
+            ],
+            [
+                "106",
+                "115"
+            ],
+            [
+                "117",
+                "118"
+            ],
+            [
+                "132",
+                "155"
+            ],
+            [
+                "158",
+                "158"
+            ],
+            [
+                "164",
+                "164"
+            ],
+            [
+                "166",
+                "179"
+            ],
+            [
+                "181",
+                "181"
+            ],
+            [
+                "183",
+                "184"
+            ],
+            [
+                "199",
+                "199"
+            ],
+            [
+                "217",
+                "221"
+            ],
+            [
+                "242",
+                "245"
+            ],
+            [
+                "252",
+                "254"
+            ],
+            [
+                "259",
+                "259"
+            ],
+            [
+                "268",
+                "269"
+            ],
+            [
+                "276",
+                "281"
+            ]
+        ],
+        "MACDUFF": [
+            [
+                "3",
+                "9"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "30",
+                "30"
+            ],
+            [
+                "38",
+                "45"
+            ],
+            [
+                "59",
+                "59"
+            ],
+            [
+                "66",
+                "68"
+            ],
+            [
+                "79",
+                "89"
+            ],
+            [
+                "99",
+                "105"
+            ],
+            [
+                "116",
+                "116"
+            ],
+            [
+                "119",
+                "131"
+            ],
+            [
+                "156",
+                "157"
+            ],
+            [
+                "165",
+                "165"
+            ],
+            [
+                "180",
+                "180"
+            ],
+            [
+                "182",
+                "182"
+            ],
+            [
+                "186",
+                "186"
+            ],
+            [
+                "197",
+                "198"
+            ],
+            [
+                "202",
+                "202"
+            ],
+            [
+                "204",
+                "204"
+            ],
+            [
+                "206",
+                "206"
+            ],
+            [
+                "208",
+                "208"
+            ],
+            [
+                "226",
+                "228"
+            ],
+            [
+                "232",
+                "233"
+            ],
+            [
+                "237",
+                "237"
+            ],
+            [
+                "246",
+                "246"
+            ],
+            [
+                "249",
+                "250"
+            ],
+            [
+                "255",
+                "258"
+            ],
+            [
+                "260",
+                "267"
+            ],
+            [
+                "270",
+                "275"
+            ]
+        ],
+        "Doctor": [
+            [
+                "159",
+                "163"
+            ]
+        ],
+        "ROSS": [
+            [
+                "185",
+                "185"
+            ],
+            [
+                "187",
+                "196"
+            ],
+            [
+                "200",
+                "201"
+            ],
+            [
+                "203",
+                "203"
+            ],
+            [
+                "205",
+                "205"
+            ],
+            [
+                "207",
+                "207"
+            ],
+            [
+                "209",
+                "216"
+            ],
+            [
+                "222",
+                "225"
+            ],
+            [
+                "229",
+                "231"
+            ],
+            [
+                "234",
+                "236"
+            ],
+            [
+                "238",
+                "241"
+            ],
+            [
+                "247",
+                "248"
+            ],
+            [
+                "251",
+                "251"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "England. Before the King's palace."
+}

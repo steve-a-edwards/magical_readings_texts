@@ -1,0 +1,307 @@
+{
+    "scene_id": "the merchant of venice~~Act_2~~Scene_4",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "LORENZO",
+            "Nay, we will slink away in supper-time,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "LORENZO",
+            "Disguise us at my lodging and return,"
+        ],
+        [
+            "LORENZO",
+            "All in an hour."
+        ],
+        [
+            "GRATIANO",
+            "We have not made good preparation."
+        ],
+        [
+            "SALARINO",
+            "We have not spoke us yet of torchbearers."
+        ],
+        [
+            "SALANIO",
+            "'Tis vile, unless it may be quaintly order'd,"
+        ],
+        [
+            "SALANIO",
+            "And better in my mind not undertook."
+        ],
+        [
+            "LORENZO",
+            "'Tis now but four o'clock: we have two hours"
+        ],
+        [
+            "LORENZO",
+            "To furnish us."
+        ],
+        [
+            "LORENZO",
+            "Friend Launcelot, what's the news?",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "LAUNCELOT",
+            "An it shall please you to break up",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "LAUNCELOT",
+            "this, it shall seem to signify."
+        ],
+        [
+            "LORENZO",
+            "I know the hand: in faith, 'tis a fair hand;"
+        ],
+        [
+            "LORENZO",
+            "And whiter than the paper it writ on"
+        ],
+        [
+            "LORENZO",
+            "Is the fair hand that writ."
+        ],
+        [
+            "GRATIANO",
+            "Love-news, in faith."
+        ],
+        [
+            "LAUNCELOT",
+            "By your leave, sir."
+        ],
+        [
+            "LORENZO",
+            "Whither goest thou?"
+        ],
+        [
+            "LAUNCELOT",
+            "Marry, sir, to bid my old master the"
+        ],
+        [
+            "LAUNCELOT",
+            "Jew to sup to-night with my new master the Christian."
+        ],
+        [
+            "LORENZO",
+            "Hold here, take this: tell gentle Jessica"
+        ],
+        [
+            "LORENZO",
+            "I will not fail her; speak it privately."
+        ],
+        [
+            "LORENZO",
+            "Go, gentlemen,"
+        ],
+        [
+            "LORENZO",
+            "Will you prepare you for this masque tonight?"
+        ],
+        [
+            "LORENZO",
+            "I am provided of a torch-bearer.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "SALANIO",
+            "Ay, marry, I'll be gone about it straight.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "SALANIO",
+            "And so will I."
+        ],
+        [
+            "LORENZO",
+            "Meet me and Gratiano"
+        ],
+        [
+            "LORENZO",
+            "At Gratiano's lodging some hour hence."
+        ],
+        [
+            "SALARINO",
+            "'Tis good we do so.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "GRATIANO",
+            "Was not that letter from fair Jessica?",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "LORENZO",
+            "I must needs tell thee all. She hath directed"
+        ],
+        [
+            "LORENZO",
+            "How I shall take her from her father's house,"
+        ],
+        [
+            "LORENZO",
+            "What gold and jewels she is furnish'd with,"
+        ],
+        [
+            "LORENZO",
+            "What page's suit she hath in readiness."
+        ],
+        [
+            "LORENZO",
+            "If e'er the Jew her father come to heaven,"
+        ],
+        [
+            "LORENZO",
+            "It will be for his gentle daughter's sake:"
+        ],
+        [
+            "LORENZO",
+            "And never dare misfortune cross her foot,"
+        ],
+        [
+            "LORENZO",
+            "Unless she do it under this excuse,"
+        ],
+        [
+            "LORENZO",
+            "That she is issue to a faithless Jew."
+        ],
+        [
+            "LORENZO",
+            "Come, go with me; peruse this as thou goest:"
+        ],
+        [
+            "LORENZO",
+            "Fair Jessica shall be my torch-beare r.",
+            {
+                "following_direction_line": "5"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter GRATIANO, LORENZO, SALARINO, and SALANIO"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter LAUNCELOT, with a letter"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit Launcelot"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt SALARINO and SALANIO"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "LORENZO": [
+            [
+                "1",
+                "3"
+            ],
+            [
+                "8",
+                "10"
+            ],
+            [
+                "13",
+                "15"
+            ],
+            [
+                "18",
+                "18"
+            ],
+            [
+                "21",
+                "25"
+            ],
+            [
+                "28",
+                "29"
+            ],
+            [
+                "32",
+                "42"
+            ]
+        ],
+        "GRATIANO": [
+            [
+                "4",
+                "4"
+            ],
+            [
+                "16",
+                "16"
+            ],
+            [
+                "31",
+                "31"
+            ]
+        ],
+        "SALARINO": [
+            [
+                "5",
+                "5"
+            ],
+            [
+                "30",
+                "30"
+            ]
+        ],
+        "SALANIO": [
+            [
+                "6",
+                "7"
+            ],
+            [
+                "26",
+                "27"
+            ]
+        ],
+        "LAUNCELOT": [
+            [
+                "11",
+                "12"
+            ],
+            [
+                "17",
+                "17"
+            ],
+            [
+                "19",
+                "20"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IV",
+    "scene_description": "The same. A street."
+}

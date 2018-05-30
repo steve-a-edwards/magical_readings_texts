@@ -1,0 +1,183 @@
+{
+    "scene_id": "the merchant of venice~~Act_4~~Scene_2",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "PORTIA",
+            "Inquire the Jew's house out, give him this deed",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "PORTIA",
+            "And let him sign it: we'll away to-night"
+        ],
+        [
+            "PORTIA",
+            "And be a day before our husbands home:"
+        ],
+        [
+            "PORTIA",
+            "This deed will be well welcome to Lorenzo.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "GRATIANO",
+            "Fair sir, you are well o'erta'en",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "GRATIANO",
+            "My Lord Bassanio upon more advice"
+        ],
+        [
+            "GRATIANO",
+            "Hath sent you here this ring, and doth entreat"
+        ],
+        [
+            "GRATIANO",
+            "Your company at dinner."
+        ],
+        [
+            "PORTIA",
+            "That cannot be:"
+        ],
+        [
+            "PORTIA",
+            "His ring I do accept most thankfully:"
+        ],
+        [
+            "PORTIA",
+            "And so, I pray you, tell him: furthermore,"
+        ],
+        [
+            "PORTIA",
+            "I pray you, show my youth old Shylock's house."
+        ],
+        [
+            "GRATIANO",
+            "That will I do."
+        ],
+        [
+            "NERISSA",
+            "Sir, I would speak with you."
+        ],
+        [
+            "NERISSA",
+            "I'll see if I can get my husband's ring,"
+        ],
+        [
+            "NERISSA",
+            "Which I did make him swear to keep for ever.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "PORTIA",
+            "[Aside to NERISSA] Thou mayst, I warrant.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "PORTIA",
+            "We shall have old swearing"
+        ],
+        [
+            "PORTIA",
+            "That they did give the rings away to men;"
+        ],
+        [
+            "PORTIA",
+            "But we'll outface them, and outswear them too."
+        ],
+        [
+            "PORTIA",
+            "Away! make haste: thou knowist where I will tarry.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "NERISSA",
+            "Come, good sir, will you show me to this house?",
+            {
+                "preceding_direction_line": "4"
+            },
+            {
+                "following_direction_line": "5"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter PORTIA and NERISSA"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter GRATIANO"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Aside to PORTIA"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Aloud"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "PORTIA": [
+            [
+                "1",
+                "4"
+            ],
+            [
+                "9",
+                "12"
+            ],
+            [
+                "17",
+                "21"
+            ]
+        ],
+        "GRATIANO": [
+            [
+                "5",
+                "8"
+            ],
+            [
+                "13",
+                "13"
+            ]
+        ],
+        "NERISSA": [
+            [
+                "14",
+                "16"
+            ],
+            [
+                "22",
+                "22"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "The same. A street."
+}

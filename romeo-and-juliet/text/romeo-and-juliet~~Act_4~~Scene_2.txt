@@ -1,0 +1,73 @@
+_S_SCENE II. Hall in Capulet's house.
+_D_Enter CAPULET, LADY CAPULET, Nurse, and two Servingmen
+_R_CAPULET
+So many guests invite as here are writ.
+Sirrah, go hire me twenty cunning cooks.
+_D_Exit First Servant
+_R_Second Servant
+You shall have none ill, sir; for I'll try if they
+can lick their fingers.
+_R_CAPULET
+How canst thou try them so?
+_R_Second Servant
+Marry, sir, 'tis an ill cook that cannot lick his
+own fingers: therefore he that cannot lick his
+fingers goes not with me.
+_R_CAPULET
+Go, be gone.
+We shall be much unfurnished for this time.
+What, is my daughter gone to Friar Laurence?
+_D_Exit Second Servant
+_R_Nurse
+Ay, forsooth.
+_R_CAPULET
+Well, he may chance to do some good on her:
+A peevish self-will'd harlotry it is.
+_R_Nurse
+See where she comes from shrift with merry look.
+_D_Enter JULIET
+_R_CAPULET
+How now, my headstrong! where have you been gadding?
+_R_JULIET
+Where I have learn'd me to repent the sin
+Of disobedient opposition
+To you and your behests, and am enjoin'd
+By holy Laurence to fall prostrate here,
+And beg your pardon: pardon, I beseech you!
+Henceforward I am ever ruled by you.
+_R_CAPULET
+Send for the county; go tell him of this:
+I'll have this knot knit up to-morrow morning.
+_R_JULIET
+I met the youthful lord at Laurence' cell;
+And gave him what becomed love I might,
+Not step o'er the bounds of modesty.
+_R_CAPULET
+Why, I am glad on't; this is well: stand up:
+This is as't should be. Let me see the county;
+Ay, marry, go, I say, and fetch him hither.
+Now, afore God! this reverend holy friar,
+Our whole city is much bound to him.
+_R_JULIET
+Nurse, will you go with me into my closet,
+To help me sort such needful ornaments
+As you think fit to furnish me to-morrow?
+_R_LADY CAPULET
+No, not till Thursday; there is time enough.
+_R_CAPULET
+Go, nurse, go with her: we'll to church to-morrow.
+_D_Exeunt JULIET and Nurse
+_R_LADY CAPULET
+We shall be short in our provision:
+'Tis now near night.
+_R_CAPULET
+Tush, I will stir about,
+And all things shall be well, I warrant thee, wife:
+Go thou to Juliet, help to deck up her;
+I'll not to bed to-night; let me alone;
+I'll play the housewife for this once. What, ho!
+They are all forth. Well, I will walk myself
+To County Paris, to prepare him up
+Against to-morrow: my heart is wondrous light,
+Since this same wayward girl is so reclaim'd.
+_D_Exeunt

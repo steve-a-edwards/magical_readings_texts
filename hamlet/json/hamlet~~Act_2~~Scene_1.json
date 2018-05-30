@@ -1,0 +1,717 @@
+{
+    "scene_id": "hamlet~~Act_2~~Scene_1",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "LORD POLONIUS",
+            "Give him this money and these notes, Reynaldo.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "REYNALDO",
+            "I will, my lord."
+        ],
+        [
+            "LORD POLONIUS",
+            "You shall do marvellous wisely, good Reynaldo,"
+        ],
+        [
+            "LORD POLONIUS",
+            "Before you visit him, to make inquire"
+        ],
+        [
+            "LORD POLONIUS",
+            "Of his behavior."
+        ],
+        [
+            "REYNALDO",
+            "My lord, I did intend it."
+        ],
+        [
+            "LORD POLONIUS",
+            "Marry, well said; very well said. Look you, sir,"
+        ],
+        [
+            "LORD POLONIUS",
+            "Inquire me first what Danskers are in Paris;"
+        ],
+        [
+            "LORD POLONIUS",
+            "And how, and who, what means, and where they keep,"
+        ],
+        [
+            "LORD POLONIUS",
+            "What company, at what expense; and finding"
+        ],
+        [
+            "LORD POLONIUS",
+            "By this encompassment and drift of question"
+        ],
+        [
+            "LORD POLONIUS",
+            "That they do know my son, come you more nearer"
+        ],
+        [
+            "LORD POLONIUS",
+            "Than your particular demands will touch it:"
+        ],
+        [
+            "LORD POLONIUS",
+            "Take you, as 'twere, some distant knowledge of him;"
+        ],
+        [
+            "LORD POLONIUS",
+            "As thus, 'I know his father and his friends,"
+        ],
+        [
+            "LORD POLONIUS",
+            "And in part him: ' do you mark this, Reynaldo?"
+        ],
+        [
+            "REYNALDO",
+            "Ay, very well, my lord."
+        ],
+        [
+            "LORD POLONIUS",
+            "'And in part him; but' you may say 'not well:"
+        ],
+        [
+            "LORD POLONIUS",
+            "But, if't be he I mean, he's very wild;"
+        ],
+        [
+            "LORD POLONIUS",
+            "Addicted so and so:' and there put on him"
+        ],
+        [
+            "LORD POLONIUS",
+            "What forgeries you please; marry, none so rank"
+        ],
+        [
+            "LORD POLONIUS",
+            "As may dishonour him; take heed of that;"
+        ],
+        [
+            "LORD POLONIUS",
+            "But, sir, such wanton, wild and usual slips"
+        ],
+        [
+            "LORD POLONIUS",
+            "As are companions noted and most known"
+        ],
+        [
+            "LORD POLONIUS",
+            "To youth and liberty."
+        ],
+        [
+            "REYNALDO",
+            "As gaming, my lord."
+        ],
+        [
+            "LORD POLONIUS",
+            "Ay, or drinking, fencing, swearing, quarrelling,"
+        ],
+        [
+            "LORD POLONIUS",
+            "Drabbing: you may go so far."
+        ],
+        [
+            "REYNALDO",
+            "My lord, that would dishonour him."
+        ],
+        [
+            "LORD POLONIUS",
+            "'Faith, no; as you may season it in the charge"
+        ],
+        [
+            "LORD POLONIUS",
+            "You must not put another scandal on him,"
+        ],
+        [
+            "LORD POLONIUS",
+            "That he is open to incontinency;"
+        ],
+        [
+            "LORD POLONIUS",
+            "That's not my meaning: but breathe his faults so quaintly"
+        ],
+        [
+            "LORD POLONIUS",
+            "That they may seem the taints of liberty,"
+        ],
+        [
+            "LORD POLONIUS",
+            "The flash and outbreak of a fiery mind,"
+        ],
+        [
+            "LORD POLONIUS",
+            "A savageness in unreclaimed blood,"
+        ],
+        [
+            "LORD POLONIUS",
+            "Of general assault."
+        ],
+        [
+            "REYNALDO",
+            "But, my good lord,--"
+        ],
+        [
+            "LORD POLONIUS",
+            "Wherefore should you do this?"
+        ],
+        [
+            "REYNALDO",
+            "Ay, my lord,"
+        ],
+        [
+            "REYNALDO",
+            "I would know that."
+        ],
+        [
+            "LORD POLONIUS",
+            "Marry, sir, here's my drift;"
+        ],
+        [
+            "LORD POLONIUS",
+            "And I believe, it is a fetch of wit:"
+        ],
+        [
+            "LORD POLONIUS",
+            "You laying these slight sullies on my son,"
+        ],
+        [
+            "LORD POLONIUS",
+            "As 'twere a thing a little soil'd i' the working, Mark you,"
+        ],
+        [
+            "LORD POLONIUS",
+            "Your party in converse, him you would sound,"
+        ],
+        [
+            "LORD POLONIUS",
+            "Having ever seen in the prenominate crimes"
+        ],
+        [
+            "LORD POLONIUS",
+            "The youth you breathe of guilty, be assured"
+        ],
+        [
+            "LORD POLONIUS",
+            "He closes with you in this consequence;"
+        ],
+        [
+            "LORD POLONIUS",
+            "'Good sir,' or so, or 'friend,' or 'gentleman,'"
+        ],
+        [
+            "LORD POLONIUS",
+            "According to the phrase or the addition"
+        ],
+        [
+            "LORD POLONIUS",
+            "Of man and country."
+        ],
+        [
+            "REYNALDO",
+            "Very good, my lord."
+        ],
+        [
+            "LORD POLONIUS",
+            "And then, sir, does he this--he does--what was I"
+        ],
+        [
+            "LORD POLONIUS",
+            "about to say? By the mass, I was about to say"
+        ],
+        [
+            "LORD POLONIUS",
+            "something: where did I leave?"
+        ],
+        [
+            "REYNALDO",
+            "At 'closes in the consequence,' at 'friend or so,'"
+        ],
+        [
+            "REYNALDO",
+            "and 'gentleman.'"
+        ],
+        [
+            "LORD POLONIUS",
+            "At 'closes in the consequence,' ay, marry;"
+        ],
+        [
+            "LORD POLONIUS",
+            "He closes thus: 'I know the gentleman;"
+        ],
+        [
+            "LORD POLONIUS",
+            "I saw him yesterday, or t' other day,"
+        ],
+        [
+            "LORD POLONIUS",
+            "Or then, or then; with such, or such; and, as you say,"
+        ],
+        [
+            "LORD POLONIUS",
+            "There was a' gaming; there o'ertook in's rouse;"
+        ],
+        [
+            "LORD POLONIUS",
+            "There falling out at tennis:' or perchance,"
+        ],
+        [
+            "LORD POLONIUS",
+            "'I saw him enter such a house of sale,'"
+        ],
+        [
+            "LORD POLONIUS",
+            "Videlicet, a brothel, or so forth."
+        ],
+        [
+            "LORD POLONIUS",
+            "See you now;"
+        ],
+        [
+            "LORD POLONIUS",
+            "Your bait of falsehood takes this carp of truth:"
+        ],
+        [
+            "LORD POLONIUS",
+            "And thus do we of wisdom and of reach,"
+        ],
+        [
+            "LORD POLONIUS",
+            "With windlasses and with assays of bias,"
+        ],
+        [
+            "LORD POLONIUS",
+            "By indirections find directions out:"
+        ],
+        [
+            "LORD POLONIUS",
+            "So by my former lecture and advice,"
+        ],
+        [
+            "LORD POLONIUS",
+            "Shall you my son. You have me, have you not?"
+        ],
+        [
+            "REYNALDO",
+            "My lord, I have."
+        ],
+        [
+            "LORD POLONIUS",
+            "God be wi' you; fare you well."
+        ],
+        [
+            "REYNALDO",
+            "Good my lord!"
+        ],
+        [
+            "LORD POLONIUS",
+            "Observe his inclination in yourself."
+        ],
+        [
+            "REYNALDO",
+            "I shall, my lord."
+        ],
+        [
+            "LORD POLONIUS",
+            "And let him ply his music."
+        ],
+        [
+            "REYNALDO",
+            "Well, my lord."
+        ],
+        [
+            "LORD POLONIUS",
+            "Farewell!"
+        ],
+        [
+            "LORD POLONIUS",
+            "How now, Ophelia! what's the matter?",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "OPHELIA",
+            "O, my lord, my lord, I have been so affrighted!",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "LORD POLONIUS",
+            "With what, i' the name of God?"
+        ],
+        [
+            "OPHELIA",
+            "My lord, as I was sewing in my closet,"
+        ],
+        [
+            "OPHELIA",
+            "Lord Hamlet, with his doublet all unbraced;"
+        ],
+        [
+            "OPHELIA",
+            "No hat upon his head; his stockings foul'd,"
+        ],
+        [
+            "OPHELIA",
+            "Ungarter'd, and down-gyved to his ancle;"
+        ],
+        [
+            "OPHELIA",
+            "Pale as his shirt; his knees knocking each other;"
+        ],
+        [
+            "OPHELIA",
+            "And with a look so piteous in purport"
+        ],
+        [
+            "OPHELIA",
+            "As if he had been loosed out of hell"
+        ],
+        [
+            "OPHELIA",
+            "To speak of horrors,--he comes before me."
+        ],
+        [
+            "LORD POLONIUS",
+            "Mad for thy love?"
+        ],
+        [
+            "OPHELIA",
+            "My lord, I do not know;"
+        ],
+        [
+            "OPHELIA",
+            "But truly, I do fear it."
+        ],
+        [
+            "LORD POLONIUS",
+            "What said he?"
+        ],
+        [
+            "OPHELIA",
+            "He took me by the wrist and held me hard;"
+        ],
+        [
+            "OPHELIA",
+            "Then goes he to the length of all his arm;"
+        ],
+        [
+            "OPHELIA",
+            "And, with his other hand thus o'er his brow,"
+        ],
+        [
+            "OPHELIA",
+            "He falls to such perusal of my face"
+        ],
+        [
+            "OPHELIA",
+            "As he would draw it. Long stay'd he so;"
+        ],
+        [
+            "OPHELIA",
+            "At last, a little shaking of mine arm"
+        ],
+        [
+            "OPHELIA",
+            "And thrice his head thus waving up and down,"
+        ],
+        [
+            "OPHELIA",
+            "He raised a sigh so piteous and profound"
+        ],
+        [
+            "OPHELIA",
+            "As it did seem to shatter all his bulk"
+        ],
+        [
+            "OPHELIA",
+            "And end his being: that done, he lets me go:"
+        ],
+        [
+            "OPHELIA",
+            "And, with his head over his shoulder turn'd,"
+        ],
+        [
+            "OPHELIA",
+            "He seem'd to find his way without his eyes;"
+        ],
+        [
+            "OPHELIA",
+            "For out o' doors he went without their helps,"
+        ],
+        [
+            "OPHELIA",
+            "And, to the last, bended their light on me."
+        ],
+        [
+            "LORD POLONIUS",
+            "Come, go with me: I will go seek the king."
+        ],
+        [
+            "LORD POLONIUS",
+            "This is the very ecstasy of love,"
+        ],
+        [
+            "LORD POLONIUS",
+            "Whose violent property fordoes itself"
+        ],
+        [
+            "LORD POLONIUS",
+            "And leads the will to desperate undertakings"
+        ],
+        [
+            "LORD POLONIUS",
+            "As oft as any passion under heaven"
+        ],
+        [
+            "LORD POLONIUS",
+            "That does afflict our natures. I am sorry."
+        ],
+        [
+            "LORD POLONIUS",
+            "What, have you given him any hard words of late?"
+        ],
+        [
+            "OPHELIA",
+            "No, my good lord, but, as you did command,"
+        ],
+        [
+            "OPHELIA",
+            "I did repel his fetters and denied"
+        ],
+        [
+            "OPHELIA",
+            "His access to me."
+        ],
+        [
+            "LORD POLONIUS",
+            "That hath made him mad."
+        ],
+        [
+            "LORD POLONIUS",
+            "I am sorry that with better heed and judgment"
+        ],
+        [
+            "LORD POLONIUS",
+            "I had not quoted him: I fear'd he did but trifle,"
+        ],
+        [
+            "LORD POLONIUS",
+            "And meant to wreck thee; but, beshrew my jealousy!"
+        ],
+        [
+            "LORD POLONIUS",
+            "By heaven, it is as proper to our age"
+        ],
+        [
+            "LORD POLONIUS",
+            "To cast beyond ourselves in our opinions"
+        ],
+        [
+            "LORD POLONIUS",
+            "As it is common for the younger sort"
+        ],
+        [
+            "LORD POLONIUS",
+            "To lack discretion. Come, go we to the king:"
+        ],
+        [
+            "LORD POLONIUS",
+            "This must be known; which, being kept close, might"
+        ],
+        [
+            "LORD POLONIUS",
+            "move"
+        ],
+        [
+            "LORD POLONIUS",
+            "More grief to hide than hate to utter love.",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter POLONIUS and REYNALDO"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit REYNALDO. Enter OPHELIA"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "LORD POLONIUS": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "5"
+            ],
+            [
+                "7",
+                "16"
+            ],
+            [
+                "18",
+                "25"
+            ],
+            [
+                "27",
+                "28"
+            ],
+            [
+                "30",
+                "37"
+            ],
+            [
+                "39",
+                "39"
+            ],
+            [
+                "42",
+                "52"
+            ],
+            [
+                "54",
+                "56"
+            ],
+            [
+                "59",
+                "73"
+            ],
+            [
+                "75",
+                "75"
+            ],
+            [
+                "77",
+                "77"
+            ],
+            [
+                "79",
+                "79"
+            ],
+            [
+                "81",
+                "82"
+            ],
+            [
+                "84",
+                "84"
+            ],
+            [
+                "93",
+                "93"
+            ],
+            [
+                "96",
+                "96"
+            ],
+            [
+                "111",
+                "117"
+            ],
+            [
+                "121",
+                "131"
+            ]
+        ],
+        "REYNALDO": [
+            [
+                "2",
+                "2"
+            ],
+            [
+                "6",
+                "6"
+            ],
+            [
+                "17",
+                "17"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "29",
+                "29"
+            ],
+            [
+                "38",
+                "38"
+            ],
+            [
+                "40",
+                "41"
+            ],
+            [
+                "53",
+                "53"
+            ],
+            [
+                "57",
+                "58"
+            ],
+            [
+                "74",
+                "74"
+            ],
+            [
+                "76",
+                "76"
+            ],
+            [
+                "78",
+                "78"
+            ],
+            [
+                "80",
+                "80"
+            ]
+        ],
+        "OPHELIA": [
+            [
+                "83",
+                "83"
+            ],
+            [
+                "85",
+                "92"
+            ],
+            [
+                "94",
+                "95"
+            ],
+            [
+                "97",
+                "110"
+            ],
+            [
+                "118",
+                "120"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "A room in POLONIUS' house."
+}

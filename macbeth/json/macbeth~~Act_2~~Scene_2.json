@@ -1,0 +1,563 @@
+{
+    "scene_id": "macbeth~~Act_2~~Scene_2",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "LADY MACBETH",
+            "That which hath made them drunk hath made me bold;",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "LADY MACBETH",
+            "What hath quench'd them hath given me fire."
+        ],
+        [
+            "LADY MACBETH",
+            "Hark! Peace!"
+        ],
+        [
+            "LADY MACBETH",
+            "It was the owl that shriek'd, the fatal bellman,"
+        ],
+        [
+            "LADY MACBETH",
+            "Which gives the stern'st good-night. He is about it:"
+        ],
+        [
+            "LADY MACBETH",
+            "The doors are open; and the surfeited grooms"
+        ],
+        [
+            "LADY MACBETH",
+            "Do mock their charge with snores: I have drugg'd"
+        ],
+        [
+            "LADY MACBETH",
+            "their possets,"
+        ],
+        [
+            "LADY MACBETH",
+            "That death and nature do contend about them,"
+        ],
+        [
+            "LADY MACBETH",
+            "Whether they live or die."
+        ],
+        [
+            "MACBETH",
+            "[Within] Who's there? what, ho!"
+        ],
+        [
+            "LADY MACBETH",
+            "Alack, I am afraid they have awaked,"
+        ],
+        [
+            "LADY MACBETH",
+            "And 'tis not done. The attempt and not the deed"
+        ],
+        [
+            "LADY MACBETH",
+            "Confounds us. Hark! I laid their daggers ready;"
+        ],
+        [
+            "LADY MACBETH",
+            "He could not miss 'em. Had he not resembled"
+        ],
+        [
+            "LADY MACBETH",
+            "My father as he slept, I had done't."
+        ],
+        [
+            "LADY MACBETH",
+            "My husband!",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "MACBETH",
+            "I have done the deed. Didst thou not hear a noise?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "LADY MACBETH",
+            "I heard the owl scream and the crickets cry."
+        ],
+        [
+            "LADY MACBETH",
+            "Did not you speak?"
+        ],
+        [
+            "MACBETH",
+            "When?"
+        ],
+        [
+            "LADY MACBETH",
+            "Now."
+        ],
+        [
+            "MACBETH",
+            "As I descended?"
+        ],
+        [
+            "LADY MACBETH",
+            "Ay."
+        ],
+        [
+            "MACBETH",
+            "Hark!"
+        ],
+        [
+            "MACBETH",
+            "Who lies i' the second chamber?"
+        ],
+        [
+            "LADY MACBETH",
+            "Donalbain."
+        ],
+        [
+            "MACBETH",
+            "This is a sorry sight.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "LADY MACBETH",
+            "A foolish thought, to say a sorry sight.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "MACBETH",
+            "There's one did laugh in's sleep, and one cried"
+        ],
+        [
+            "MACBETH",
+            "'Murder!'"
+        ],
+        [
+            "MACBETH",
+            "That they did wake each other: I stood and heard them:"
+        ],
+        [
+            "MACBETH",
+            "But they did say their prayers, and address'd them"
+        ],
+        [
+            "MACBETH",
+            "Again to sleep."
+        ],
+        [
+            "LADY MACBETH",
+            "There are two lodged together."
+        ],
+        [
+            "MACBETH",
+            "One cried 'God bless us!' and 'Amen' the other;"
+        ],
+        [
+            "MACBETH",
+            "As they had seen me with these hangman's hands."
+        ],
+        [
+            "MACBETH",
+            "Listening their fear, I could not say 'Amen,'"
+        ],
+        [
+            "MACBETH",
+            "When they did say 'God bless us!'"
+        ],
+        [
+            "LADY MACBETH",
+            "Consider it not so deeply."
+        ],
+        [
+            "MACBETH",
+            "But wherefore could not I pronounce 'Amen'?"
+        ],
+        [
+            "MACBETH",
+            "I had most need of blessing, and 'Amen'"
+        ],
+        [
+            "MACBETH",
+            "Stuck in my throat."
+        ],
+        [
+            "LADY MACBETH",
+            "These deeds must not be thought"
+        ],
+        [
+            "LADY MACBETH",
+            "After these ways; so, it will make us mad."
+        ],
+        [
+            "MACBETH",
+            "Methought I heard a voice cry 'Sleep no more!"
+        ],
+        [
+            "MACBETH",
+            "Macbeth does murder sleep', the innocent sleep,"
+        ],
+        [
+            "MACBETH",
+            "Sleep that knits up the ravell'd sleeve of care,"
+        ],
+        [
+            "MACBETH",
+            "The death of each day's life, sore labour's bath,"
+        ],
+        [
+            "MACBETH",
+            "Balm of hurt minds, great nature's second course,"
+        ],
+        [
+            "MACBETH",
+            "Chief nourisher in life's feast,--"
+        ],
+        [
+            "LADY MACBETH",
+            "What do you mean?"
+        ],
+        [
+            "MACBETH",
+            "Still it cried 'Sleep no more!' to all the house:"
+        ],
+        [
+            "MACBETH",
+            "'Glamis hath murder'd sleep, and therefore Cawdor"
+        ],
+        [
+            "MACBETH",
+            "Shall sleep no more; Macbeth shall sleep no more.'"
+        ],
+        [
+            "LADY MACBETH",
+            "Who was it that thus cried? Why, worthy thane,"
+        ],
+        [
+            "LADY MACBETH",
+            "You do unbend your noble strength, to think"
+        ],
+        [
+            "LADY MACBETH",
+            "So brainsickly of things. Go get some water,"
+        ],
+        [
+            "LADY MACBETH",
+            "And wash this filthy witness from your hand."
+        ],
+        [
+            "LADY MACBETH",
+            "Why did you bring these daggers from the place?"
+        ],
+        [
+            "LADY MACBETH",
+            "They must lie there: go carry them; and smear"
+        ],
+        [
+            "LADY MACBETH",
+            "The sleepy grooms with blood."
+        ],
+        [
+            "MACBETH",
+            "I'll go no more:"
+        ],
+        [
+            "MACBETH",
+            "I am afraid to think what I have done;"
+        ],
+        [
+            "MACBETH",
+            "Look on't again I dare not."
+        ],
+        [
+            "LADY MACBETH",
+            "Infirm of purpose!"
+        ],
+        [
+            "LADY MACBETH",
+            "Give me the daggers: the sleeping and the dead"
+        ],
+        [
+            "LADY MACBETH",
+            "Are but as pictures: 'tis the eye of childhood"
+        ],
+        [
+            "LADY MACBETH",
+            "That fears a painted devil. If he do bleed,"
+        ],
+        [
+            "LADY MACBETH",
+            "I'll gild the faces of the grooms withal;"
+        ],
+        [
+            "LADY MACBETH",
+            "For it must seem their guilt.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "MACBETH",
+            "Whence is that knocking?",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "MACBETH",
+            "How is't with me, when every noise appals me?"
+        ],
+        [
+            "MACBETH",
+            "What hands are here? ha! they pluck out mine eyes."
+        ],
+        [
+            "MACBETH",
+            "Will all great Neptune's ocean wash this blood"
+        ],
+        [
+            "MACBETH",
+            "Clean from my hand? No, this my hand will rather"
+        ],
+        [
+            "MACBETH",
+            "The multitudinous seas in incarnadine,"
+        ],
+        [
+            "MACBETH",
+            "Making the green one red.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "LADY MACBETH",
+            "My hands are of your colour; but I shame",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "LADY MACBETH",
+            "To wear a heart so white."
+        ],
+        [
+            "LADY MACBETH",
+            "I hear a knocking"
+        ],
+        [
+            "LADY MACBETH",
+            "At the south entry: retire we to our chamber;"
+        ],
+        [
+            "LADY MACBETH",
+            "A little water clears us of this deed:"
+        ],
+        [
+            "LADY MACBETH",
+            "How easy is it, then! Your constancy"
+        ],
+        [
+            "LADY MACBETH",
+            "Hath left you unattended."
+        ],
+        [
+            "LADY MACBETH",
+            "Hark! more knocking."
+        ],
+        [
+            "LADY MACBETH",
+            "Get on your nightgown, lest occasion call us,"
+        ],
+        [
+            "LADY MACBETH",
+            "And show us to be watchers. Be not lost"
+        ],
+        [
+            "LADY MACBETH",
+            "So poorly in your thoughts.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "MACBETH",
+            "To know my deed, 'twere best not know myself.",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "MACBETH",
+            "Wake Duncan with thy knocking! I would thou couldst!",
+            {
+                "following_direction_line": "7"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter LADY MACBETH"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter MACBETH"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Looking on his hands"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit. Knocking within"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Re-enter LADY MACBETH"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Knocking within. Knocking within"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Knocking within. Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "LADY MACBETH": [
+            [
+                "1",
+                "10"
+            ],
+            [
+                "12",
+                "17"
+            ],
+            [
+                "19",
+                "20"
+            ],
+            [
+                "22",
+                "22"
+            ],
+            [
+                "24",
+                "24"
+            ],
+            [
+                "27",
+                "27"
+            ],
+            [
+                "29",
+                "29"
+            ],
+            [
+                "35",
+                "35"
+            ],
+            [
+                "40",
+                "40"
+            ],
+            [
+                "44",
+                "45"
+            ],
+            [
+                "52",
+                "52"
+            ],
+            [
+                "56",
+                "62"
+            ],
+            [
+                "66",
+                "71"
+            ],
+            [
+                "79",
+                "89"
+            ]
+        ],
+        "MACBETH": [
+            [
+                "11",
+                "11"
+            ],
+            [
+                "18",
+                "18"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "23",
+                "23"
+            ],
+            [
+                "25",
+                "26"
+            ],
+            [
+                "28",
+                "28"
+            ],
+            [
+                "30",
+                "34"
+            ],
+            [
+                "36",
+                "39"
+            ],
+            [
+                "41",
+                "43"
+            ],
+            [
+                "46",
+                "51"
+            ],
+            [
+                "53",
+                "55"
+            ],
+            [
+                "63",
+                "65"
+            ],
+            [
+                "72",
+                "78"
+            ],
+            [
+                "90",
+                "91"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "The same."
+}

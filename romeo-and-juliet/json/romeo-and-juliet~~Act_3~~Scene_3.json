@@ -1,0 +1,979 @@
+{
+    "scene_id": "romeo and juliet~~Act_3~~Scene_3",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "FRIAR LAURENCE",
+            "Romeo, come forth; come forth, thou fearful man:",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Affliction is enamour'd of thy parts,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And thou art wedded to calamity.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "ROMEO",
+            "Father, what news? what is the prince's doom?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "ROMEO",
+            "What sorrow craves acquaintance at my hand,"
+        ],
+        [
+            "ROMEO",
+            "That I yet know not?"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Too familiar"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Is my dear son with such sour company:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "I bring thee tidings of the prince's doom."
+        ],
+        [
+            "ROMEO",
+            "What less than dooms-day is the prince's doom?"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "A gentler judgment vanish'd from his lips,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Not body's death, but body's banishment."
+        ],
+        [
+            "ROMEO",
+            "Ha, banishment! be merciful, say 'death;'"
+        ],
+        [
+            "ROMEO",
+            "For exile hath more terror in his look,"
+        ],
+        [
+            "ROMEO",
+            "Much more than death: do not say 'banishment.'"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Hence from Verona art thou banished:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Be patient, for the world is broad and wide."
+        ],
+        [
+            "ROMEO",
+            "There is no world without Verona walls,"
+        ],
+        [
+            "ROMEO",
+            "But purgatory, torture, hell itself."
+        ],
+        [
+            "ROMEO",
+            "Hence-banished is banish'd from the world,"
+        ],
+        [
+            "ROMEO",
+            "And world's exile is death: then banished,"
+        ],
+        [
+            "ROMEO",
+            "Is death mis-term'd: calling death banishment,"
+        ],
+        [
+            "ROMEO",
+            "Thou cutt'st my head off with a golden axe,"
+        ],
+        [
+            "ROMEO",
+            "And smilest upon the stroke that murders me."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "O deadly sin! O rude unthankfulness!"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Thy fault our law calls death; but the kind prince,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Taking thy part, hath rush'd aside the law,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And turn'd that black word death to banishment:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "This is dear mercy, and thou seest it not."
+        ],
+        [
+            "ROMEO",
+            "'Tis torture, and not mercy: heaven is here,"
+        ],
+        [
+            "ROMEO",
+            "Where Juliet lives; and every cat and dog"
+        ],
+        [
+            "ROMEO",
+            "And little mouse, every unworthy thing,"
+        ],
+        [
+            "ROMEO",
+            "Live here in heaven and may look on her;"
+        ],
+        [
+            "ROMEO",
+            "But Romeo may not: more validity,"
+        ],
+        [
+            "ROMEO",
+            "More honourable state, more courtship lives"
+        ],
+        [
+            "ROMEO",
+            "In carrion-flies than Romeo: they my seize"
+        ],
+        [
+            "ROMEO",
+            "On the white wonder of dear Juliet's hand"
+        ],
+        [
+            "ROMEO",
+            "And steal immortal blessing from her lips,"
+        ],
+        [
+            "ROMEO",
+            "Who even in pure and vestal modesty,"
+        ],
+        [
+            "ROMEO",
+            "Still blush, as thinking their own kisses sin;"
+        ],
+        [
+            "ROMEO",
+            "But Romeo may not; he is banished:"
+        ],
+        [
+            "ROMEO",
+            "Flies may do this, but I from this must fly:"
+        ],
+        [
+            "ROMEO",
+            "They are free men, but I am banished."
+        ],
+        [
+            "ROMEO",
+            "And say'st thou yet that exile is not death?"
+        ],
+        [
+            "ROMEO",
+            "Hadst thou no poison mix'd, no sharp-ground knife,"
+        ],
+        [
+            "ROMEO",
+            "No sudden mean of death, though ne'er so mean,"
+        ],
+        [
+            "ROMEO",
+            "But 'banished' to kill me?--'banished'?"
+        ],
+        [
+            "ROMEO",
+            "O friar, the damned use that word in hell;"
+        ],
+        [
+            "ROMEO",
+            "Howlings attend it: how hast thou the heart,"
+        ],
+        [
+            "ROMEO",
+            "Being a divine, a ghostly confessor,"
+        ],
+        [
+            "ROMEO",
+            "A sin-absolver, and my friend profess'd,"
+        ],
+        [
+            "ROMEO",
+            "To mangle me with that word 'banished'?"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Thou fond mad man, hear me but speak a word."
+        ],
+        [
+            "ROMEO",
+            "O, thou wilt speak again of banishment."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "I'll give thee armour to keep off that word:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Adversity's sweet milk, philosophy,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "To comfort thee, though thou art banished."
+        ],
+        [
+            "ROMEO",
+            "Yet 'banished'? Hang up philosophy!"
+        ],
+        [
+            "ROMEO",
+            "Unless philosophy can make a Juliet,"
+        ],
+        [
+            "ROMEO",
+            "Displant a town, reverse a prince's doom,"
+        ],
+        [
+            "ROMEO",
+            "It helps not, it prevails not: talk no more."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "O, then I see that madmen have no ears."
+        ],
+        [
+            "ROMEO",
+            "How should they, when that wise men have no eyes?"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Let me dispute with thee of thy estate."
+        ],
+        [
+            "ROMEO",
+            "Thou canst not speak of that thou dost not feel:"
+        ],
+        [
+            "ROMEO",
+            "Wert thou as young as I, Juliet thy love,"
+        ],
+        [
+            "ROMEO",
+            "An hour but married, Tybalt murdered,"
+        ],
+        [
+            "ROMEO",
+            "Doting like me and like me banished,"
+        ],
+        [
+            "ROMEO",
+            "Then mightst thou speak, then mightst thou tear thy hair,"
+        ],
+        [
+            "ROMEO",
+            "And fall upon the ground, as I do now,"
+        ],
+        [
+            "ROMEO",
+            "Taking the measure of an unmade grave.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Arise; one knocks; good Romeo, hide thyself.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "ROMEO",
+            "Not I; unless the breath of heartsick groans,"
+        ],
+        [
+            "ROMEO",
+            "Mist-like, infold me from the search of eyes.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Hark, how they knock! Who's there? Romeo, arise;",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Thou wilt be taken. Stay awhile! Stand up;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Run to my study. By and by! God's will,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "What simpleness is this! I come, I come!"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Who knocks so hard? whence come you? what's your will?",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "Nurse",
+            "[Within] Let me come in, and you shall know",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "Nurse",
+            "my errand;"
+        ],
+        [
+            "Nurse",
+            "I come from Lady Juliet."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Welcome, then.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "Nurse",
+            "O holy friar, O, tell me, holy friar,",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "Nurse",
+            "Where is my lady's lord, where's Romeo?"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "There on the ground, with his own tears made drunk."
+        ],
+        [
+            "Nurse",
+            "O, he is even in my mistress' case,"
+        ],
+        [
+            "Nurse",
+            "Just in her case! O woful sympathy!"
+        ],
+        [
+            "Nurse",
+            "Piteous predicament! Even so lies she,"
+        ],
+        [
+            "Nurse",
+            "Blubbering and weeping, weeping and blubbering."
+        ],
+        [
+            "Nurse",
+            "Stand up, stand up; stand, and you be a man:"
+        ],
+        [
+            "Nurse",
+            "For Juliet's sake, for her sake, rise and stand;"
+        ],
+        [
+            "Nurse",
+            "Why should you fall into so deep an O?"
+        ],
+        [
+            "ROMEO",
+            "Nurse!"
+        ],
+        [
+            "Nurse",
+            "Ah sir! ah sir! Well, death's the end of all."
+        ],
+        [
+            "ROMEO",
+            "Spakest thou of Juliet? how is it with her?"
+        ],
+        [
+            "ROMEO",
+            "Doth she not think me an old murderer,"
+        ],
+        [
+            "ROMEO",
+            "Now I have stain'd the childhood of our joy"
+        ],
+        [
+            "ROMEO",
+            "With blood removed but little from her own?"
+        ],
+        [
+            "ROMEO",
+            "Where is she? and how doth she? and what says"
+        ],
+        [
+            "ROMEO",
+            "My conceal'd lady to our cancell'd love?"
+        ],
+        [
+            "Nurse",
+            "O, she says nothing, sir, but weeps and weeps;"
+        ],
+        [
+            "Nurse",
+            "And now falls on her bed; and then starts up,"
+        ],
+        [
+            "Nurse",
+            "And Tybalt calls; and then on Romeo cries,"
+        ],
+        [
+            "Nurse",
+            "And then down falls again."
+        ],
+        [
+            "ROMEO",
+            "As if that name,"
+        ],
+        [
+            "ROMEO",
+            "Shot from the deadly level of a gun,"
+        ],
+        [
+            "ROMEO",
+            "Did murder her; as that name's cursed hand"
+        ],
+        [
+            "ROMEO",
+            "Murder'd her kinsman. O, tell me, friar, tell me,"
+        ],
+        [
+            "ROMEO",
+            "In what vile part of this anatomy"
+        ],
+        [
+            "ROMEO",
+            "Doth my name lodge? tell me, that I may sack"
+        ],
+        [
+            "ROMEO",
+            "The hateful mansion.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Hold thy desperate hand:",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Art thou a man? thy form cries out thou art:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Thy tears are womanish; thy wild acts denote"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "The unreasonable fury of a beast:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Unseemly woman in a seeming man!"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Or ill-beseeming beast in seeming both!"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Thou hast amazed me: by my holy order,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "I thought thy disposition better temper'd."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Hast thou slain Tybalt? wilt thou slay thyself?"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And stay thy lady too that lives in thee,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "By doing damned hate upon thyself?"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Why rail'st thou on thy birth, the heaven, and earth?"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Since birth, and heaven, and earth, all three do meet"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "In thee at once; which thou at once wouldst lose."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Fie, fie, thou shamest thy shape, thy love, thy wit;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Which, like a usurer, abound'st in all,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And usest none in that true use indeed"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Which should bedeck thy shape, thy love, thy wit:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Thy noble shape is but a form of wax,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Digressing from the valour of a man;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Thy dear love sworn but hollow perjury,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Killing that love which thou hast vow'd to cherish;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Thy wit, that ornament to shape and love,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Misshapen in the conduct of them both,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Like powder in a skitless soldier's flask,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Is set afire by thine own ignorance,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And thou dismember'd with thine own defence."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "What, rouse thee, man! thy Juliet is alive,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "For whose dear sake thou wast but lately dead;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "There art thou happy: Tybalt would kill thee,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "But thou slew'st Tybalt; there are thou happy too:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "The law that threaten'd death becomes thy friend"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And turns it to exile; there art thou happy:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "A pack of blessings lights up upon thy back;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Happiness courts thee in her best array;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "But, like a misbehaved and sullen wench,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Thou pout'st upon thy fortune and thy love:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Take heed, take heed, for such die miserable."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Go, get thee to thy love, as was decreed,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Ascend her chamber, hence and comfort her:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "But look thou stay not till the watch be set,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "For then thou canst not pass to Mantua;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Where thou shalt live, till we can find a time"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "To blaze your marriage, reconcile your friends,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Beg pardon of the prince, and call thee back"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "With twenty hundred thousand times more joy"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Than thou went'st forth in lamentation."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Go before, nurse: commend me to thy lady;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And bid her hasten all the house to bed,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Which heavy sorrow makes them apt unto:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Romeo is coming."
+        ],
+        [
+            "Nurse",
+            "O Lord, I could have stay'd here all the night"
+        ],
+        [
+            "Nurse",
+            "To hear good counsel: O, what learning is!"
+        ],
+        [
+            "Nurse",
+            "My lord, I'll tell my lady you will come."
+        ],
+        [
+            "ROMEO",
+            "Do so, and bid my sweet prepare to chide."
+        ],
+        [
+            "Nurse",
+            "Here, sir, a ring she bid me give you, sir:"
+        ],
+        [
+            "Nurse",
+            "Hie you, make haste, for it grows very late.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "ROMEO",
+            "How well my comfort is revived by this!",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Go hence; good night; and here stands all your state:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Either be gone before the watch be set,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Or by the break of day disguised from hence:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Sojourn in Mantua; I'll find out your man,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And he shall signify from time to time"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Every good hap to you that chances here:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Give me thy hand; 'tis late: farewell; good night."
+        ],
+        [
+            "ROMEO",
+            "But that a joy past joy calls out on me,"
+        ],
+        [
+            "ROMEO",
+            "It were a grief, so brief to part with thee: Farewell.",
+            {
+                "following_direction_line": "9"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter FRIAR LAURENCE"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter ROMEO"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Knocking within"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Knocking"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Knocking. Knocking"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Enter Nurse"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Drawing his sword"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "FRIAR LAURENCE": [
+            [
+                "1",
+                "3"
+            ],
+            [
+                "7",
+                "9"
+            ],
+            [
+                "11",
+                "12"
+            ],
+            [
+                "16",
+                "17"
+            ],
+            [
+                "25",
+                "29"
+            ],
+            [
+                "53",
+                "53"
+            ],
+            [
+                "55",
+                "57"
+            ],
+            [
+                "62",
+                "62"
+            ],
+            [
+                "64",
+                "64"
+            ],
+            [
+                "72",
+                "72"
+            ],
+            [
+                "75",
+                "79"
+            ],
+            [
+                "83",
+                "83"
+            ],
+            [
+                "86",
+                "86"
+            ],
+            [
+                "113",
+                "163"
+            ],
+            [
+                "171",
+                "177"
+            ]
+        ],
+        "ROMEO": [
+            [
+                "4",
+                "6"
+            ],
+            [
+                "10",
+                "10"
+            ],
+            [
+                "13",
+                "15"
+            ],
+            [
+                "18",
+                "24"
+            ],
+            [
+                "30",
+                "52"
+            ],
+            [
+                "54",
+                "54"
+            ],
+            [
+                "58",
+                "61"
+            ],
+            [
+                "63",
+                "63"
+            ],
+            [
+                "65",
+                "71"
+            ],
+            [
+                "73",
+                "74"
+            ],
+            [
+                "94",
+                "94"
+            ],
+            [
+                "96",
+                "101"
+            ],
+            [
+                "106",
+                "112"
+            ],
+            [
+                "167",
+                "167"
+            ],
+            [
+                "170",
+                "170"
+            ],
+            [
+                "178",
+                "179"
+            ]
+        ],
+        "Nurse": [
+            [
+                "80",
+                "82"
+            ],
+            [
+                "84",
+                "85"
+            ],
+            [
+                "87",
+                "93"
+            ],
+            [
+                "95",
+                "95"
+            ],
+            [
+                "102",
+                "105"
+            ],
+            [
+                "164",
+                "166"
+            ],
+            [
+                "168",
+                "169"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "Friar Laurence's cell."
+}

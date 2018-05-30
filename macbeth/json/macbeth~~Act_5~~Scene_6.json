@@ -1,0 +1,90 @@
+{
+    "scene_id": "macbeth~~Act_5~~Scene_6",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "MALCOLM",
+            "Now near enough: your leafy screens throw down.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "MALCOLM",
+            "And show like those you are. You, worthy uncle,"
+        ],
+        [
+            "MALCOLM",
+            "Shall, with my cousin, your right-noble son,"
+        ],
+        [
+            "MALCOLM",
+            "Lead our first battle: worthy Macduff and we"
+        ],
+        [
+            "MALCOLM",
+            "Shall take upon 's what else remains to do,"
+        ],
+        [
+            "MALCOLM",
+            "According to our order."
+        ],
+        [
+            "SIWARD",
+            "Fare you well."
+        ],
+        [
+            "SIWARD",
+            "Do we but find the tyrant's power to-night,"
+        ],
+        [
+            "SIWARD",
+            "Let us be beaten, if we cannot fight."
+        ],
+        [
+            "MACDUFF",
+            "Make all our trumpets speak; give them all breath,"
+        ],
+        [
+            "MACDUFF",
+            "Those clamorous harbingers of blood and death.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Drum and colours. Enter MALCOLM, SIWARD, MACDUFF, and their Army, with boughs"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "MALCOLM": [
+            [
+                "1",
+                "6"
+            ]
+        ],
+        "SIWARD": [
+            [
+                "7",
+                "9"
+            ]
+        ],
+        "MACDUFF": [
+            [
+                "10",
+                "11"
+            ]
+        ]
+    },
+    "scene_name": "SCENE VI",
+    "scene_description": "Dunsinane. Before the castle."
+}

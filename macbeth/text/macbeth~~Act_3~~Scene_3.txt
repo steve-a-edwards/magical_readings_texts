@@ -1,0 +1,58 @@
+_S_SCENE III. A park near the palace.
+_D_Enter three Murderers
+_R_First Murderer
+But who did bid thee join with us?
+_R_Third Murderer
+Macbeth.
+_R_Second Murderer
+He needs not our mistrust, since he delivers
+Our offices and what we have to do
+To the direction just.
+_R_First Murderer
+Then stand with us.
+The west yet glimmers with some streaks of day:
+Now spurs the lated traveller apace
+To gain the timely inn; and near approaches
+The subject of our watch.
+_R_Third Murderer
+Hark! I hear horses.
+_R_BANQUO
+[Within] Give us a light there, ho!
+_R_Second Murderer
+Then 'tis he: the rest
+That are within the note of expectation
+Already are i' the court.
+_R_First Murderer
+His horses go about.
+_R_Third Murderer
+Almost a mile: but he does usually,
+So all men do, from hence to the palace gate
+Make it their walk.
+_R_Second Murderer
+A light, a light!
+_D_Enter BANQUO, and FLEANCE with a torch
+_R_Third Murderer
+'Tis he.
+_R_First Murderer
+Stand to't.
+_R_BANQUO
+It will be rain to-night.
+_R_First Murderer
+Let it come down.
+_D_They set upon BANQUO
+_R_BANQUO
+O, treachery! Fly, good Fleance, fly, fly, fly!
+Thou mayst revenge. O slave!
+_D_Dies. FLEANCE escapes
+_R_Third Murderer
+Who did strike out the light?
+_R_First Murderer
+Wast not the way?
+_R_Third Murderer
+There's but one down; the son is fled.
+_R_Second Murderer
+We have lost
+Best half of our affair.
+_R_First Murderer
+Well, let's away, and say how much is done.
+_D_Exeunt

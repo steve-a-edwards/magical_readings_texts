@@ -1,0 +1,1096 @@
+{
+    "scene_id": "hamlet~~Act_3~~Scene_1",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "KING CLAUDIUS",
+            "And can you, by no drift of circumstance,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "KING CLAUDIUS",
+            "Get from him why he puts on this confusion,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Grating so harshly all his days of quiet"
+        ],
+        [
+            "KING CLAUDIUS",
+            "With turbulent and dangerous lunacy?"
+        ],
+        [
+            "ROSENCRANTZ",
+            "He does confess he feels himself distracted;"
+        ],
+        [
+            "ROSENCRANTZ",
+            "But from what cause he will by no means speak."
+        ],
+        [
+            "GUILDENSTERN",
+            "Nor do we find him forward to be sounded,"
+        ],
+        [
+            "GUILDENSTERN",
+            "But, with a crafty madness, keeps aloof,"
+        ],
+        [
+            "GUILDENSTERN",
+            "When we would bring him on to some confession"
+        ],
+        [
+            "GUILDENSTERN",
+            "Of his true state."
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Did he receive you well?"
+        ],
+        [
+            "ROSENCRANTZ",
+            "Most like a gentleman."
+        ],
+        [
+            "GUILDENSTERN",
+            "But with much forcing of his disposition."
+        ],
+        [
+            "ROSENCRANTZ",
+            "Niggard of question; but, of our demands,"
+        ],
+        [
+            "ROSENCRANTZ",
+            "Most free in his reply."
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Did you assay him?"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "To any pastime?"
+        ],
+        [
+            "ROSENCRANTZ",
+            "Madam, it so fell out, that certain players"
+        ],
+        [
+            "ROSENCRANTZ",
+            "We o'er-raught on the way: of these we told him;"
+        ],
+        [
+            "ROSENCRANTZ",
+            "And there did seem in him a kind of joy"
+        ],
+        [
+            "ROSENCRANTZ",
+            "To hear of it: they are about the court,"
+        ],
+        [
+            "ROSENCRANTZ",
+            "And, as I think, they have already order"
+        ],
+        [
+            "ROSENCRANTZ",
+            "This night to play before him."
+        ],
+        [
+            "LORD POLONIUS",
+            "'Tis most true:"
+        ],
+        [
+            "LORD POLONIUS",
+            "And he beseech'd me to entreat your majesties"
+        ],
+        [
+            "LORD POLONIUS",
+            "To hear and see the matter."
+        ],
+        [
+            "KING CLAUDIUS",
+            "With all my heart; and it doth much content me"
+        ],
+        [
+            "KING CLAUDIUS",
+            "To hear him so inclined."
+        ],
+        [
+            "KING CLAUDIUS",
+            "Good gentlemen, give him a further edge,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "And drive his purpose on to these delights."
+        ],
+        [
+            "ROSENCRANTZ",
+            "We shall, my lord.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "KING CLAUDIUS",
+            "Sweet Gertrude, leave us too;",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "KING CLAUDIUS",
+            "For we have closely sent for Hamlet hither,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "That he, as 'twere by accident, may here"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Affront Ophelia:"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Her father and myself, lawful espials,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Will so bestow ourselves that, seeing, unseen,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "We may of their encounter frankly judge,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "And gather by him, as he is behaved,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "If 't be the affliction of his love or no"
+        ],
+        [
+            "KING CLAUDIUS",
+            "That thus he suffers for."
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "I shall obey you."
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "And for your part, Ophelia, I do wish"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "That your good beauties be the happy cause"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Of Hamlet's wildness: so shall I hope your virtues"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Will bring him to his wonted way again,"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "To both your honours."
+        ],
+        [
+            "OPHELIA",
+            "Madam, I wish it may.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "LORD POLONIUS",
+            "Ophelia, walk you here. Gracious, so please you,",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "LORD POLONIUS",
+            "We will bestow ourselves."
+        ],
+        [
+            "LORD POLONIUS",
+            "Read on this book;"
+        ],
+        [
+            "LORD POLONIUS",
+            "That show of such an exercise may colour"
+        ],
+        [
+            "LORD POLONIUS",
+            "Your loneliness. We are oft to blame in this,--"
+        ],
+        [
+            "LORD POLONIUS",
+            "'Tis too much proved--that with devotion's visage"
+        ],
+        [
+            "LORD POLONIUS",
+            "And pious action we do sugar o'er"
+        ],
+        [
+            "LORD POLONIUS",
+            "The devil himself.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "KING CLAUDIUS",
+            "[Aside] O, 'tis too true!",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "KING CLAUDIUS",
+            "How smart a lash that speech doth give my conscience!"
+        ],
+        [
+            "KING CLAUDIUS",
+            "The harlot's cheek, beautied with plastering art,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Is not more ugly to the thing that helps it"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Than is my deed to my most painted word:"
+        ],
+        [
+            "KING CLAUDIUS",
+            "O heavy burthen!"
+        ],
+        [
+            "LORD POLONIUS",
+            "I hear him coming: let's withdraw, my lord.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "HAMLET",
+            "To be, or not to be: that is the question:",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "HAMLET",
+            "Whether 'tis nobler in the mind to suffer"
+        ],
+        [
+            "HAMLET",
+            "The slings and arrows of outrageous fortune,"
+        ],
+        [
+            "HAMLET",
+            "Or to take arms against a sea of troubles,"
+        ],
+        [
+            "HAMLET",
+            "And by opposing end them? To die: to sleep;"
+        ],
+        [
+            "HAMLET",
+            "No more; and by a sleep to say we end"
+        ],
+        [
+            "HAMLET",
+            "The heart-ache and the thousand natural shocks"
+        ],
+        [
+            "HAMLET",
+            "That flesh is heir to, 'tis a consummation"
+        ],
+        [
+            "HAMLET",
+            "Devoutly to be wish'd. To die, to sleep;"
+        ],
+        [
+            "HAMLET",
+            "To sleep: perchance to dream: ay, there's the rub;"
+        ],
+        [
+            "HAMLET",
+            "For in that sleep of death what dreams may come"
+        ],
+        [
+            "HAMLET",
+            "When we have shuffled off this mortal coil,"
+        ],
+        [
+            "HAMLET",
+            "Must give us pause: there's the respect"
+        ],
+        [
+            "HAMLET",
+            "That makes calamity of so long life;"
+        ],
+        [
+            "HAMLET",
+            "For who would bear the whips and scorns of time,"
+        ],
+        [
+            "HAMLET",
+            "The oppressor's wrong, the proud man's contumely,"
+        ],
+        [
+            "HAMLET",
+            "The pangs of despised love, the law's delay,"
+        ],
+        [
+            "HAMLET",
+            "The insolence of office and the spurns"
+        ],
+        [
+            "HAMLET",
+            "That patient merit of the unworthy takes,"
+        ],
+        [
+            "HAMLET",
+            "When he himself might his quietus make"
+        ],
+        [
+            "HAMLET",
+            "With a bare bodkin? who would fardels bear,"
+        ],
+        [
+            "HAMLET",
+            "To grunt and sweat under a weary life,"
+        ],
+        [
+            "HAMLET",
+            "But that the dread of something after death,"
+        ],
+        [
+            "HAMLET",
+            "The undiscover'd country from whose bourn"
+        ],
+        [
+            "HAMLET",
+            "No traveller returns, puzzles the will"
+        ],
+        [
+            "HAMLET",
+            "And makes us rather bear those ills we have"
+        ],
+        [
+            "HAMLET",
+            "Than fly to others that we know not of?"
+        ],
+        [
+            "HAMLET",
+            "Thus conscience does make cowards of us all;"
+        ],
+        [
+            "HAMLET",
+            "And thus the native hue of resolution"
+        ],
+        [
+            "HAMLET",
+            "Is sicklied o'er with the pale cast of thought,"
+        ],
+        [
+            "HAMLET",
+            "And enterprises of great pith and moment"
+        ],
+        [
+            "HAMLET",
+            "With this regard their currents turn awry,"
+        ],
+        [
+            "HAMLET",
+            "And lose the name of action.--Soft you now!"
+        ],
+        [
+            "HAMLET",
+            "The fair Ophelia! Nymph, in thy orisons"
+        ],
+        [
+            "HAMLET",
+            "Be all my sins remember'd."
+        ],
+        [
+            "OPHELIA",
+            "Good my lord,"
+        ],
+        [
+            "OPHELIA",
+            "How does your honour for this many a day?"
+        ],
+        [
+            "HAMLET",
+            "I humbly thank you; well, well, well."
+        ],
+        [
+            "OPHELIA",
+            "My lord, I have remembrances of yours,"
+        ],
+        [
+            "OPHELIA",
+            "That I have longed long to re-deliver;"
+        ],
+        [
+            "OPHELIA",
+            "I pray you, now receive them."
+        ],
+        [
+            "HAMLET",
+            "No, not I;"
+        ],
+        [
+            "HAMLET",
+            "I never gave you aught."
+        ],
+        [
+            "OPHELIA",
+            "My honour'd lord, you know right well you did;"
+        ],
+        [
+            "OPHELIA",
+            "And, with them, words of so sweet breath composed"
+        ],
+        [
+            "OPHELIA",
+            "As made the things more rich: their perfume lost,"
+        ],
+        [
+            "OPHELIA",
+            "Take these again; for to the noble mind"
+        ],
+        [
+            "OPHELIA",
+            "Rich gifts wax poor when givers prove unkind."
+        ],
+        [
+            "OPHELIA",
+            "There, my lord."
+        ],
+        [
+            "HAMLET",
+            "Ha, ha! are you honest?"
+        ],
+        [
+            "OPHELIA",
+            "My lord?"
+        ],
+        [
+            "HAMLET",
+            "Are you fair?"
+        ],
+        [
+            "OPHELIA",
+            "What means your lordship?"
+        ],
+        [
+            "HAMLET",
+            "That if you be honest and fair, your honesty should"
+        ],
+        [
+            "HAMLET",
+            "admit no discourse to your beauty."
+        ],
+        [
+            "OPHELIA",
+            "Could beauty, my lord, have better commerce than"
+        ],
+        [
+            "OPHELIA",
+            "with honesty?"
+        ],
+        [
+            "HAMLET",
+            "Ay, truly; for the power of beauty will sooner"
+        ],
+        [
+            "HAMLET",
+            "transform honesty from what it is to a bawd than the"
+        ],
+        [
+            "HAMLET",
+            "force of honesty can translate beauty into his"
+        ],
+        [
+            "HAMLET",
+            "likeness: this was sometime a paradox, but now the"
+        ],
+        [
+            "HAMLET",
+            "time gives it proof. I did love you once."
+        ],
+        [
+            "OPHELIA",
+            "Indeed, my lord, you made me believe so."
+        ],
+        [
+            "HAMLET",
+            "You should not have believed me; for virtue cannot"
+        ],
+        [
+            "HAMLET",
+            "so inoculate our old stock but we shall relish of"
+        ],
+        [
+            "HAMLET",
+            "it: I loved you not."
+        ],
+        [
+            "OPHELIA",
+            "I was the more deceived."
+        ],
+        [
+            "HAMLET",
+            "Get thee to a nunnery: why wouldst thou be a"
+        ],
+        [
+            "HAMLET",
+            "breeder of sinners? I am myself indifferent honest;"
+        ],
+        [
+            "HAMLET",
+            "but yet I could accuse me of such things that it"
+        ],
+        [
+            "HAMLET",
+            "were better my mother had not borne me: I am very"
+        ],
+        [
+            "HAMLET",
+            "proud, revengeful, ambitious, with more offences at"
+        ],
+        [
+            "HAMLET",
+            "my beck than I have thoughts to put them in,"
+        ],
+        [
+            "HAMLET",
+            "imagination to give them shape, or time to act them"
+        ],
+        [
+            "HAMLET",
+            "in. What should such fellows as I do crawling"
+        ],
+        [
+            "HAMLET",
+            "between earth and heaven? We are arrant knaves,"
+        ],
+        [
+            "HAMLET",
+            "all; believe none of us. Go thy ways to a nunnery."
+        ],
+        [
+            "HAMLET",
+            "Where's your father?"
+        ],
+        [
+            "OPHELIA",
+            "At home, my lord."
+        ],
+        [
+            "HAMLET",
+            "Let the doors be shut upon him, that he may play the"
+        ],
+        [
+            "HAMLET",
+            "fool no where but in's own house. Farewell."
+        ],
+        [
+            "OPHELIA",
+            "O, help him, you sweet heavens!"
+        ],
+        [
+            "HAMLET",
+            "If thou dost marry, I'll give thee this plague for"
+        ],
+        [
+            "HAMLET",
+            "thy dowry: be thou as chaste as ice, as pure as"
+        ],
+        [
+            "HAMLET",
+            "snow, thou shalt not escape calumny. Get thee to a"
+        ],
+        [
+            "HAMLET",
+            "nunnery, go: farewell. Or, if thou wilt needs"
+        ],
+        [
+            "HAMLET",
+            "marry, marry a fool; for wise men know well enough"
+        ],
+        [
+            "HAMLET",
+            "what monsters you make of them. To a nunnery, go,"
+        ],
+        [
+            "HAMLET",
+            "and quickly too. Farewell."
+        ],
+        [
+            "OPHELIA",
+            "O heavenly powers, restore him!"
+        ],
+        [
+            "HAMLET",
+            "I have heard of your paintings too, well enough; God"
+        ],
+        [
+            "HAMLET",
+            "has given you one face, and you make yourselves"
+        ],
+        [
+            "HAMLET",
+            "another: you jig, you amble, and you lisp, and"
+        ],
+        [
+            "HAMLET",
+            "nick-name God's creatures, and make your wantonness"
+        ],
+        [
+            "HAMLET",
+            "your ignorance. Go to, I'll no more on't; it hath"
+        ],
+        [
+            "HAMLET",
+            "made me mad. I say, we will have no more marriages:"
+        ],
+        [
+            "HAMLET",
+            "those that are married already, all but one, shall"
+        ],
+        [
+            "HAMLET",
+            "live; the rest shall keep as they are. To a"
+        ],
+        [
+            "HAMLET",
+            "nunnery, go.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "OPHELIA",
+            "O, what a noble mind is here o'erthrown!",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "OPHELIA",
+            "The courtier's, soldier's, scholar's, eye, tongue, sword;"
+        ],
+        [
+            "OPHELIA",
+            "The expectancy and rose of the fair state,"
+        ],
+        [
+            "OPHELIA",
+            "The glass of fashion and the mould of form,"
+        ],
+        [
+            "OPHELIA",
+            "The observed of all observers, quite, quite down!"
+        ],
+        [
+            "OPHELIA",
+            "And I, of ladies most deject and wretched,"
+        ],
+        [
+            "OPHELIA",
+            "That suck'd the honey of his music vows,"
+        ],
+        [
+            "OPHELIA",
+            "Now see that noble and most sovereign reason,"
+        ],
+        [
+            "OPHELIA",
+            "Like sweet bells jangled, out of tune and harsh;"
+        ],
+        [
+            "OPHELIA",
+            "That unmatch'd form and feature of blown youth"
+        ],
+        [
+            "OPHELIA",
+            "Blasted with ecstasy: O, woe is me,"
+        ],
+        [
+            "OPHELIA",
+            "To have seen what I have seen, see what I see!",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "KING CLAUDIUS",
+            "Love! his affections do not that way tend;",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "KING CLAUDIUS",
+            "Nor what he spake, though it lack'd form a little,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Was not like madness. There's something in his soul,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "O'er which his melancholy sits on brood;"
+        ],
+        [
+            "KING CLAUDIUS",
+            "And I do doubt the hatch and the disclose"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Will be some danger: which for to prevent,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "I have in quick determination"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Thus set it down: he shall with speed to England,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "For the demand of our neglected tribute"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Haply the seas and countries different"
+        ],
+        [
+            "KING CLAUDIUS",
+            "With variable objects shall expel"
+        ],
+        [
+            "KING CLAUDIUS",
+            "This something-settled matter in his heart,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Whereon his brains still beating puts him thus"
+        ],
+        [
+            "KING CLAUDIUS",
+            "From fashion of himself. What think you on't?"
+        ],
+        [
+            "LORD POLONIUS",
+            "It shall do well: but yet do I believe"
+        ],
+        [
+            "LORD POLONIUS",
+            "The origin and commencement of his grief"
+        ],
+        [
+            "LORD POLONIUS",
+            "Sprung from neglected love. How now, Ophelia!"
+        ],
+        [
+            "LORD POLONIUS",
+            "You need not tell us what Lord Hamlet said;"
+        ],
+        [
+            "LORD POLONIUS",
+            "We heard it all. My lord, do as you please;"
+        ],
+        [
+            "LORD POLONIUS",
+            "But, if you hold it fit, after the play"
+        ],
+        [
+            "LORD POLONIUS",
+            "Let his queen mother all alone entreat him"
+        ],
+        [
+            "LORD POLONIUS",
+            "To show his grief: let her be round with him;"
+        ],
+        [
+            "LORD POLONIUS",
+            "And I'll be placed, so please you, in the ear"
+        ],
+        [
+            "LORD POLONIUS",
+            "Of all their conference. If she find him not,"
+        ],
+        [
+            "LORD POLONIUS",
+            "To England send him, or confine him where"
+        ],
+        [
+            "LORD POLONIUS",
+            "Your wisdom best shall think."
+        ],
+        [
+            "KING CLAUDIUS",
+            "It shall be so:"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Madness in great ones must not unwatch'd go.",
+            {
+                "following_direction_line": "8"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter KING CLAUDIUS, QUEEN GERTRUDE, POLONIUS, OPHELIA, ROSENCRANTZ, and GUILDENSTERN"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt ROSENCRANTZ and GUILDENSTERN"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit QUEEN GERTRUDE"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "To OPHELIA"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt KING CLAUDIUS and POLONIUS. Enter HAMLET"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Re-enter KING CLAUDIUS and POLONIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "KING CLAUDIUS": [
+            [
+                "1",
+                "4"
+            ],
+            [
+                "27",
+                "30"
+            ],
+            [
+                "32",
+                "41"
+            ],
+            [
+                "57",
+                "62"
+            ],
+            [
+                "175",
+                "188"
+            ],
+            [
+                "201",
+                "202"
+            ]
+        ],
+        "ROSENCRANTZ": [
+            [
+                "5",
+                "6"
+            ],
+            [
+                "12",
+                "12"
+            ],
+            [
+                "14",
+                "15"
+            ],
+            [
+                "18",
+                "23"
+            ],
+            [
+                "31",
+                "31"
+            ]
+        ],
+        "GUILDENSTERN": [
+            [
+                "7",
+                "10"
+            ],
+            [
+                "13",
+                "13"
+            ]
+        ],
+        "QUEEN GERTRUDE": [
+            [
+                "11",
+                "11"
+            ],
+            [
+                "16",
+                "17"
+            ],
+            [
+                "42",
+                "47"
+            ]
+        ],
+        "LORD POLONIUS": [
+            [
+                "24",
+                "26"
+            ],
+            [
+                "49",
+                "56"
+            ],
+            [
+                "63",
+                "63"
+            ],
+            [
+                "189",
+                "200"
+            ]
+        ],
+        "OPHELIA": [
+            [
+                "48",
+                "48"
+            ],
+            [
+                "99",
+                "100"
+            ],
+            [
+                "102",
+                "104"
+            ],
+            [
+                "107",
+                "112"
+            ],
+            [
+                "114",
+                "114"
+            ],
+            [
+                "116",
+                "116"
+            ],
+            [
+                "119",
+                "120"
+            ],
+            [
+                "126",
+                "126"
+            ],
+            [
+                "130",
+                "130"
+            ],
+            [
+                "142",
+                "142"
+            ],
+            [
+                "145",
+                "145"
+            ],
+            [
+                "153",
+                "153"
+            ],
+            [
+                "163",
+                "174"
+            ]
+        ],
+        "HAMLET": [
+            [
+                "64",
+                "98"
+            ],
+            [
+                "101",
+                "101"
+            ],
+            [
+                "105",
+                "106"
+            ],
+            [
+                "113",
+                "113"
+            ],
+            [
+                "115",
+                "115"
+            ],
+            [
+                "117",
+                "118"
+            ],
+            [
+                "121",
+                "125"
+            ],
+            [
+                "127",
+                "129"
+            ],
+            [
+                "131",
+                "141"
+            ],
+            [
+                "143",
+                "144"
+            ],
+            [
+                "146",
+                "152"
+            ],
+            [
+                "154",
+                "162"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "A room in the castle."
+}

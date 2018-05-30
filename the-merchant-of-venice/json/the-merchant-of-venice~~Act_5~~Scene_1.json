@@ -1,0 +1,1798 @@
+{
+    "scene_id": "the merchant of venice~~Act_5~~Scene_1",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "LORENZO",
+            "The moon shines bright: in such a night as this,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "LORENZO",
+            "When the sweet wind did gently kiss the trees"
+        ],
+        [
+            "LORENZO",
+            "And they did make no noise, in such a night"
+        ],
+        [
+            "LORENZO",
+            "Troilus methinks mounted the Troyan walls"
+        ],
+        [
+            "LORENZO",
+            "And sigh'd his soul toward the Grecian tents,"
+        ],
+        [
+            "LORENZO",
+            "Where Cressid lay that night."
+        ],
+        [
+            "JESSICA",
+            "In such a night"
+        ],
+        [
+            "JESSICA",
+            "Did Thisbe fearfully o'ertrip the dew"
+        ],
+        [
+            "JESSICA",
+            "And saw the lion's shadow ere himself"
+        ],
+        [
+            "JESSICA",
+            "And ran dismay'd away."
+        ],
+        [
+            "LORENZO",
+            "In such a night"
+        ],
+        [
+            "LORENZO",
+            "Stood Dido with a willow in her hand"
+        ],
+        [
+            "LORENZO",
+            "Upon the wild sea banks and waft her love"
+        ],
+        [
+            "LORENZO",
+            "To come again to Carthage."
+        ],
+        [
+            "JESSICA",
+            "In such a night"
+        ],
+        [
+            "JESSICA",
+            "Medea gather'd the enchanted herbs"
+        ],
+        [
+            "JESSICA",
+            "That did renew old AEson."
+        ],
+        [
+            "LORENZO",
+            "In such a night"
+        ],
+        [
+            "LORENZO",
+            "Did Jessica steal from the wealthy Jew"
+        ],
+        [
+            "LORENZO",
+            "And with an unthrift love did run from Venice"
+        ],
+        [
+            "LORENZO",
+            "As far as Belmont."
+        ],
+        [
+            "JESSICA",
+            "In such a night"
+        ],
+        [
+            "JESSICA",
+            "Did young Lorenzo swear he loved her well,"
+        ],
+        [
+            "JESSICA",
+            "Stealing her soul with many vows of faith"
+        ],
+        [
+            "JESSICA",
+            "And ne'er a true one."
+        ],
+        [
+            "LORENZO",
+            "In such a night"
+        ],
+        [
+            "LORENZO",
+            "Did pretty Jessica, like a little shrew,"
+        ],
+        [
+            "LORENZO",
+            "Slander her love, and he forgave it her."
+        ],
+        [
+            "JESSICA",
+            "I would out-night you, did no body come;"
+        ],
+        [
+            "JESSICA",
+            "But, hark, I hear the footing of a man.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "LORENZO",
+            "Who comes so fast in silence of the night?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "STEPHANO",
+            "A friend."
+        ],
+        [
+            "LORENZO",
+            "A friend! what friend? your name, I pray you, friend?"
+        ],
+        [
+            "STEPHANO",
+            "Stephano is my name; and I bring word"
+        ],
+        [
+            "STEPHANO",
+            "My mistress will before the break of day"
+        ],
+        [
+            "STEPHANO",
+            "Be here at Belmont; she doth stray about"
+        ],
+        [
+            "STEPHANO",
+            "By holy crosses, where she kneels and prays"
+        ],
+        [
+            "STEPHANO",
+            "For happy wedlock hours."
+        ],
+        [
+            "LORENZO",
+            "Who comes with her?"
+        ],
+        [
+            "STEPHANO",
+            "None but a holy hermit and her maid."
+        ],
+        [
+            "STEPHANO",
+            "I pray you, is my master yet return'd?"
+        ],
+        [
+            "LORENZO",
+            "He is not, nor we have not heard from him."
+        ],
+        [
+            "LORENZO",
+            "But go we in, I pray thee, Jessica,"
+        ],
+        [
+            "LORENZO",
+            "And ceremoniously let us prepare"
+        ],
+        [
+            "LORENZO",
+            "Some welcome for the mistress of the house.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "LAUNCELOT",
+            "Sola, sola! wo ha, ho! sola, sola!",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "LORENZO",
+            "Who calls?"
+        ],
+        [
+            "LAUNCELOT",
+            "Sola! did you see Master Lorenzo?"
+        ],
+        [
+            "LAUNCELOT",
+            "Master Lorenzo, sola, sola!"
+        ],
+        [
+            "LORENZO",
+            "Leave hollaing, man: here."
+        ],
+        [
+            "LAUNCELOT",
+            "Sola! where? where?"
+        ],
+        [
+            "LORENZO",
+            "Here."
+        ],
+        [
+            "LAUNCELOT",
+            "Tell him there's a post come from my master, with"
+        ],
+        [
+            "LAUNCELOT",
+            "his horn full of good news: my master will be here"
+        ],
+        [
+            "LAUNCELOT",
+            "ere morning.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "LORENZO",
+            "Sweet soul, let's in, and there expect their coming.",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "LORENZO",
+            "And yet no matter: why should we go in?"
+        ],
+        [
+            "LORENZO",
+            "My friend Stephano, signify, I pray you,"
+        ],
+        [
+            "LORENZO",
+            "Within the house, your mistress is at hand;"
+        ],
+        [
+            "LORENZO",
+            "And bring your music forth into the air."
+        ],
+        [
+            "LORENZO",
+            "How sweet the moonlight sleeps upon this bank!"
+        ],
+        [
+            "LORENZO",
+            "Here will we sit and let the sounds of music"
+        ],
+        [
+            "LORENZO",
+            "Creep in our ears: soft stillness and the night"
+        ],
+        [
+            "LORENZO",
+            "Become the touches of sweet harmony."
+        ],
+        [
+            "LORENZO",
+            "Sit, Jessica. Look how the floor of heaven"
+        ],
+        [
+            "LORENZO",
+            "Is thick inlaid with patines of bright gold:"
+        ],
+        [
+            "LORENZO",
+            "There's not the smallest orb which thou behold'st"
+        ],
+        [
+            "LORENZO",
+            "But in his motion like an angel sings,"
+        ],
+        [
+            "LORENZO",
+            "Still quiring to the young-eyed cherubins;"
+        ],
+        [
+            "LORENZO",
+            "Such harmony is in immortal souls;"
+        ],
+        [
+            "LORENZO",
+            "But whilst this muddy vesture of decay"
+        ],
+        [
+            "LORENZO",
+            "Doth grossly close it in, we cannot hear it."
+        ],
+        [
+            "LORENZO",
+            "Come, ho! and wake Diana with a hymn!"
+        ],
+        [
+            "LORENZO",
+            "With sweetest touches pierce your mistress' ear,"
+        ],
+        [
+            "LORENZO",
+            "And draw her home with music.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "JESSICA",
+            "I am never merry when I hear sweet music.",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "LORENZO",
+            "The reason is, your spirits are attentive:"
+        ],
+        [
+            "LORENZO",
+            "For do but note a wild and wanton herd,"
+        ],
+        [
+            "LORENZO",
+            "Or race of youthful and unhandled colts,"
+        ],
+        [
+            "LORENZO",
+            "Fetching mad bounds, bellowing and neighing loud,"
+        ],
+        [
+            "LORENZO",
+            "Which is the hot condition of their blood;"
+        ],
+        [
+            "LORENZO",
+            "If they but hear perchance a trumpet sound,"
+        ],
+        [
+            "LORENZO",
+            "Or any air of music touch their ears,"
+        ],
+        [
+            "LORENZO",
+            "You shall perceive them make a mutual stand,"
+        ],
+        [
+            "LORENZO",
+            "Their savage eyes turn'd to a modest gaze"
+        ],
+        [
+            "LORENZO",
+            "By the sweet power of music: therefore the poet"
+        ],
+        [
+            "LORENZO",
+            "Did feign that Orpheus drew trees, stones and floods;"
+        ],
+        [
+            "LORENZO",
+            "Since nought so stockish, hard and full of rage,"
+        ],
+        [
+            "LORENZO",
+            "But music for the time doth change his nature."
+        ],
+        [
+            "LORENZO",
+            "The man that hath no music in himself,"
+        ],
+        [
+            "LORENZO",
+            "Nor is not moved with concord of sweet sounds,"
+        ],
+        [
+            "LORENZO",
+            "Is fit for treasons, stratagems and spoils;"
+        ],
+        [
+            "LORENZO",
+            "The motions of his spirit are dull as night"
+        ],
+        [
+            "LORENZO",
+            "And his affections dark as Erebus:"
+        ],
+        [
+            "LORENZO",
+            "Let no such man be trusted. Mark the music.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "PORTIA",
+            "That light we see is burning in my hall.",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "PORTIA",
+            "How far that little candle throws his beams!"
+        ],
+        [
+            "PORTIA",
+            "So shines a good deed in a naughty world."
+        ],
+        [
+            "NERISSA",
+            "When the moon shone, we did not see the candle."
+        ],
+        [
+            "PORTIA",
+            "So doth the greater glory dim the less:"
+        ],
+        [
+            "PORTIA",
+            "A substitute shines brightly as a king"
+        ],
+        [
+            "PORTIA",
+            "Unto the king be by, and then his state"
+        ],
+        [
+            "PORTIA",
+            "Empties itself, as doth an inland brook"
+        ],
+        [
+            "PORTIA",
+            "Into the main of waters. Music! hark!"
+        ],
+        [
+            "NERISSA",
+            "It is your music, madam, of the house."
+        ],
+        [
+            "PORTIA",
+            "Nothing is good, I see, without respect:"
+        ],
+        [
+            "PORTIA",
+            "Methinks it sounds much sweeter than by day."
+        ],
+        [
+            "NERISSA",
+            "Silence bestows that virtue on it, madam."
+        ],
+        [
+            "PORTIA",
+            "The crow doth sing as sweetly as the lark,"
+        ],
+        [
+            "PORTIA",
+            "When neither is attended, and I think"
+        ],
+        [
+            "PORTIA",
+            "The nightingale, if she should sing by day,"
+        ],
+        [
+            "PORTIA",
+            "When every goose is cackling, would be thought"
+        ],
+        [
+            "PORTIA",
+            "No better a musician than the wren."
+        ],
+        [
+            "PORTIA",
+            "How many things by season season'd are"
+        ],
+        [
+            "PORTIA",
+            "To their right praise and true perfection!"
+        ],
+        [
+            "PORTIA",
+            "Peace, ho! the moon sleeps with Endymion"
+        ],
+        [
+            "PORTIA",
+            "And would not be awaked.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "LORENZO",
+            "That is the voice,",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "LORENZO",
+            "Or I am much deceived, of Portia."
+        ],
+        [
+            "PORTIA",
+            "He knows me as the blind man knows the cuckoo,"
+        ],
+        [
+            "PORTIA",
+            "By the bad voice."
+        ],
+        [
+            "LORENZO",
+            "Dear lady, welcome home."
+        ],
+        [
+            "PORTIA",
+            "We have been praying for our husbands' healths,"
+        ],
+        [
+            "PORTIA",
+            "Which speed, we hope, the better for our words."
+        ],
+        [
+            "PORTIA",
+            "Are they return'd?"
+        ],
+        [
+            "LORENZO",
+            "Madam, they are not yet;"
+        ],
+        [
+            "LORENZO",
+            "But there is come a messenger before,"
+        ],
+        [
+            "LORENZO",
+            "To signify their coming."
+        ],
+        [
+            "PORTIA",
+            "Go in, Nerissa;"
+        ],
+        [
+            "PORTIA",
+            "Give order to my servants that they take"
+        ],
+        [
+            "PORTIA",
+            "No note at all of our being absent hence;"
+        ],
+        [
+            "PORTIA",
+            "Nor you, Lorenzo; Jessica, nor you.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "LORENZO",
+            "Your husband is at hand; I hear his trumpet:",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "LORENZO",
+            "We are no tell-tales, madam; fear you not."
+        ],
+        [
+            "PORTIA",
+            "This night methinks is but the daylight sick;"
+        ],
+        [
+            "PORTIA",
+            "It looks a little paler: 'tis a day,"
+        ],
+        [
+            "PORTIA",
+            "Such as the day is when the sun is hid.",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "BASSANIO",
+            "We should hold day with the Antipodes,",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "BASSANIO",
+            "If you would walk in absence of the sun."
+        ],
+        [
+            "PORTIA",
+            "Let me give light, but let me not be light;"
+        ],
+        [
+            "PORTIA",
+            "For a light wife doth make a heavy husband,"
+        ],
+        [
+            "PORTIA",
+            "And never be Bassanio so for me:"
+        ],
+        [
+            "PORTIA",
+            "But God sort all! You are welcome home, my lord."
+        ],
+        [
+            "BASSANIO",
+            "I thank you, madam. Give welcome to my friend."
+        ],
+        [
+            "BASSANIO",
+            "This is the man, this is Antonio,"
+        ],
+        [
+            "BASSANIO",
+            "To whom I am so infinitely bound."
+        ],
+        [
+            "PORTIA",
+            "You should in all sense be much bound to him."
+        ],
+        [
+            "PORTIA",
+            "For, as I hear, he was much bound for you."
+        ],
+        [
+            "ANTONIO",
+            "No more than I am well acquitted of."
+        ],
+        [
+            "PORTIA",
+            "Sir, you are very welcome to our house:"
+        ],
+        [
+            "PORTIA",
+            "It must appear in other ways than words,"
+        ],
+        [
+            "PORTIA",
+            "Therefore I scant this breathing courtesy."
+        ],
+        [
+            "GRATIANO",
+            "[To NERISSA] By yonder moon I swear you do me wrong;"
+        ],
+        [
+            "GRATIANO",
+            "In faith, I gave it to the judge's clerk:"
+        ],
+        [
+            "GRATIANO",
+            "Would he were gelt that had it, for my part,"
+        ],
+        [
+            "GRATIANO",
+            "Since you do take it, love, so much at heart."
+        ],
+        [
+            "PORTIA",
+            "A quarrel, ho, already! what's the matter?"
+        ],
+        [
+            "GRATIANO",
+            "About a hoop of gold, a paltry ring"
+        ],
+        [
+            "GRATIANO",
+            "That she did give me, whose posy was"
+        ],
+        [
+            "GRATIANO",
+            "For all the world like cutler's poetry"
+        ],
+        [
+            "GRATIANO",
+            "Upon a knife, 'Love me, and leave me not.'"
+        ],
+        [
+            "NERISSA",
+            "What talk you of the posy or the value?"
+        ],
+        [
+            "NERISSA",
+            "You swore to me, when I did give it you,"
+        ],
+        [
+            "NERISSA",
+            "That you would wear it till your hour of death"
+        ],
+        [
+            "NERISSA",
+            "And that it should lie with you in your grave:"
+        ],
+        [
+            "NERISSA",
+            "Though not for me, yet for your vehement oaths,"
+        ],
+        [
+            "NERISSA",
+            "You should have been respective and have kept it."
+        ],
+        [
+            "NERISSA",
+            "Gave it a judge's clerk! no, God's my judge,"
+        ],
+        [
+            "NERISSA",
+            "The clerk will ne'er wear hair on's face that had it."
+        ],
+        [
+            "GRATIANO",
+            "He will, an if he live to be a man."
+        ],
+        [
+            "NERISSA",
+            "Ay, if a woman live to be a man."
+        ],
+        [
+            "GRATIANO",
+            "Now, by this hand, I gave it to a youth,"
+        ],
+        [
+            "GRATIANO",
+            "A kind of boy, a little scrubbed boy,"
+        ],
+        [
+            "GRATIANO",
+            "No higher than thyself; the judge's clerk,"
+        ],
+        [
+            "GRATIANO",
+            "A prating boy, that begg'd it as a fee:"
+        ],
+        [
+            "GRATIANO",
+            "I could not for my heart deny it him."
+        ],
+        [
+            "PORTIA",
+            "You were to blame, I must be plain with you,"
+        ],
+        [
+            "PORTIA",
+            "To part so slightly with your wife's first gift:"
+        ],
+        [
+            "PORTIA",
+            "A thing stuck on with oaths upon your finger"
+        ],
+        [
+            "PORTIA",
+            "And so riveted with faith unto your flesh."
+        ],
+        [
+            "PORTIA",
+            "I gave my love a ring and made him swear"
+        ],
+        [
+            "PORTIA",
+            "Never to part with it; and here he stands;"
+        ],
+        [
+            "PORTIA",
+            "I dare be sworn for him he would not leave it"
+        ],
+        [
+            "PORTIA",
+            "Nor pluck it from his finger, for the wealth"
+        ],
+        [
+            "PORTIA",
+            "That the world masters. Now, in faith, Gratiano,"
+        ],
+        [
+            "PORTIA",
+            "You give your wife too unkind a cause of grief:"
+        ],
+        [
+            "PORTIA",
+            "An 'twere to me, I should be mad at it."
+        ],
+        [
+            "BASSANIO",
+            "[Aside] Why, I were best to cut my left hand off"
+        ],
+        [
+            "BASSANIO",
+            "And swear I lost the ring defending it."
+        ],
+        [
+            "GRATIANO",
+            "My Lord Bassanio gave his ring away"
+        ],
+        [
+            "GRATIANO",
+            "Unto the judge that begg'd it and indeed"
+        ],
+        [
+            "GRATIANO",
+            "Deserved it too; and then the boy, his clerk,"
+        ],
+        [
+            "GRATIANO",
+            "That took some pains in writing, he begg'd mine;"
+        ],
+        [
+            "GRATIANO",
+            "And neither man nor master would take aught"
+        ],
+        [
+            "GRATIANO",
+            "But the two rings."
+        ],
+        [
+            "PORTIA",
+            "What ring gave you my lord?"
+        ],
+        [
+            "PORTIA",
+            "Not that, I hope, which you received of me."
+        ],
+        [
+            "BASSANIO",
+            "If I could add a lie unto a fault,"
+        ],
+        [
+            "BASSANIO",
+            "I would deny it; but you see my finger"
+        ],
+        [
+            "BASSANIO",
+            "Hath not the ring upon it; it is gone."
+        ],
+        [
+            "PORTIA",
+            "Even so void is your false heart of truth."
+        ],
+        [
+            "PORTIA",
+            "By heaven, I will ne'er come in your bed"
+        ],
+        [
+            "PORTIA",
+            "Until I see the ring."
+        ],
+        [
+            "NERISSA",
+            "Nor I in yours"
+        ],
+        [
+            "NERISSA",
+            "Till I again see mine."
+        ],
+        [
+            "BASSANIO",
+            "Sweet Portia,"
+        ],
+        [
+            "BASSANIO",
+            "If you did know to whom I gave the ring,"
+        ],
+        [
+            "BASSANIO",
+            "If you did know for whom I gave the ring"
+        ],
+        [
+            "BASSANIO",
+            "And would conceive for what I gave the ring"
+        ],
+        [
+            "BASSANIO",
+            "And how unwillingly I left the ring,"
+        ],
+        [
+            "BASSANIO",
+            "When nought would be accepted but the ring,"
+        ],
+        [
+            "BASSANIO",
+            "You would abate the strength of your displeasure."
+        ],
+        [
+            "PORTIA",
+            "If you had known the virtue of the ring,"
+        ],
+        [
+            "PORTIA",
+            "Or half her worthiness that gave the ring,"
+        ],
+        [
+            "PORTIA",
+            "Or your own honour to contain the ring,"
+        ],
+        [
+            "PORTIA",
+            "You would not then have parted with the ring."
+        ],
+        [
+            "PORTIA",
+            "What man is there so much unreasonable,"
+        ],
+        [
+            "PORTIA",
+            "If you had pleased to have defended it"
+        ],
+        [
+            "PORTIA",
+            "With any terms of zeal, wanted the modesty"
+        ],
+        [
+            "PORTIA",
+            "To urge the thing held as a ceremony?"
+        ],
+        [
+            "PORTIA",
+            "Nerissa teaches me what to believe:"
+        ],
+        [
+            "PORTIA",
+            "I'll die for't but some woman had the ring."
+        ],
+        [
+            "BASSANIO",
+            "No, by my honour, madam, by my soul,"
+        ],
+        [
+            "BASSANIO",
+            "No woman had it, but a civil doctor,"
+        ],
+        [
+            "BASSANIO",
+            "Which did refuse three thousand ducats of me"
+        ],
+        [
+            "BASSANIO",
+            "And begg'd the ring; the which I did deny him"
+        ],
+        [
+            "BASSANIO",
+            "And suffer'd him to go displeased away;"
+        ],
+        [
+            "BASSANIO",
+            "Even he that did uphold the very life"
+        ],
+        [
+            "BASSANIO",
+            "Of my dear friend. What should I say, sweet lady?"
+        ],
+        [
+            "BASSANIO",
+            "I was enforced to send it after him;"
+        ],
+        [
+            "BASSANIO",
+            "I was beset with shame and courtesy;"
+        ],
+        [
+            "BASSANIO",
+            "My honour would not let ingratitude"
+        ],
+        [
+            "BASSANIO",
+            "So much besmear it. Pardon me, good lady;"
+        ],
+        [
+            "BASSANIO",
+            "For, by these blessed candles of the night,"
+        ],
+        [
+            "BASSANIO",
+            "Had you been there, I think you would have begg'd"
+        ],
+        [
+            "BASSANIO",
+            "The ring of me to give the worthy doctor."
+        ],
+        [
+            "PORTIA",
+            "Let not that doctor e'er come near my house:"
+        ],
+        [
+            "PORTIA",
+            "Since he hath got the jewel that I loved,"
+        ],
+        [
+            "PORTIA",
+            "And that which you did swear to keep for me,"
+        ],
+        [
+            "PORTIA",
+            "I will become as liberal as you;"
+        ],
+        [
+            "PORTIA",
+            "I'll not deny him any thing I have,"
+        ],
+        [
+            "PORTIA",
+            "No, not my body nor my husband's bed:"
+        ],
+        [
+            "PORTIA",
+            "Know him I shall, I am well sure of it:"
+        ],
+        [
+            "PORTIA",
+            "Lie not a night from home; watch me like Argus:"
+        ],
+        [
+            "PORTIA",
+            "If you do not, if I be left alone,"
+        ],
+        [
+            "PORTIA",
+            "Now, by mine honour, which is yet mine own,"
+        ],
+        [
+            "PORTIA",
+            "I'll have that doctor for my bedfellow."
+        ],
+        [
+            "NERISSA",
+            "And I his clerk; therefore be well advised"
+        ],
+        [
+            "NERISSA",
+            "How you do leave me to mine own protection."
+        ],
+        [
+            "GRATIANO",
+            "Well, do you so; let not me take him, then;"
+        ],
+        [
+            "GRATIANO",
+            "For if I do, I'll mar the young clerk's pen."
+        ],
+        [
+            "ANTONIO",
+            "I am the unhappy subject of these quarrels."
+        ],
+        [
+            "PORTIA",
+            "Sir, grieve not you; you are welcome notwithstanding."
+        ],
+        [
+            "BASSANIO",
+            "Portia, forgive me this enforced wrong;"
+        ],
+        [
+            "BASSANIO",
+            "And, in the hearing of these many friends,"
+        ],
+        [
+            "BASSANIO",
+            "I swear to thee, even by thine own fair eyes,"
+        ],
+        [
+            "BASSANIO",
+            "Wherein I see myself--"
+        ],
+        [
+            "PORTIA",
+            "Mark you but that!"
+        ],
+        [
+            "PORTIA",
+            "In both my eyes he doubly sees himself;"
+        ],
+        [
+            "PORTIA",
+            "In each eye, one: swear by your double self,"
+        ],
+        [
+            "PORTIA",
+            "And there's an oath of credit."
+        ],
+        [
+            "BASSANIO",
+            "Nay, but hear me:"
+        ],
+        [
+            "BASSANIO",
+            "Pardon this fault, and by my soul I swear"
+        ],
+        [
+            "BASSANIO",
+            "I never more will break an oath with thee."
+        ],
+        [
+            "ANTONIO",
+            "I once did lend my body for his wealth;"
+        ],
+        [
+            "ANTONIO",
+            "Which, but for him that had your husband's ring,"
+        ],
+        [
+            "ANTONIO",
+            "Had quite miscarried: I dare be bound again,"
+        ],
+        [
+            "ANTONIO",
+            "My soul upon the forfeit, that your lord"
+        ],
+        [
+            "ANTONIO",
+            "Will never more break faith advisedly."
+        ],
+        [
+            "PORTIA",
+            "Then you shall be his surety. Give him this"
+        ],
+        [
+            "PORTIA",
+            "And bid him keep it better than the other."
+        ],
+        [
+            "ANTONIO",
+            "Here, Lord Bassanio; swear to keep this ring."
+        ],
+        [
+            "BASSANIO",
+            "By heaven, it is the same I gave the doctor!"
+        ],
+        [
+            "PORTIA",
+            "I had it of him: pardon me, Bassanio;"
+        ],
+        [
+            "PORTIA",
+            "For, by this ring, the doctor lay with me."
+        ],
+        [
+            "NERISSA",
+            "And pardon me, my gentle Gratiano;"
+        ],
+        [
+            "NERISSA",
+            "For that same scrubbed boy, the doctor's clerk,"
+        ],
+        [
+            "NERISSA",
+            "In lieu of this last night did lie with me."
+        ],
+        [
+            "GRATIANO",
+            "Why, this is like the mending of highways"
+        ],
+        [
+            "GRATIANO",
+            "In summer, where the ways are fair enough:"
+        ],
+        [
+            "GRATIANO",
+            "What, are we cuckolds ere we have deserved it?"
+        ],
+        [
+            "PORTIA",
+            "Speak not so grossly. You are all amazed:"
+        ],
+        [
+            "PORTIA",
+            "Here is a letter; read it at your leisure;"
+        ],
+        [
+            "PORTIA",
+            "It comes from Padua, from Bellario:"
+        ],
+        [
+            "PORTIA",
+            "There you shall find that Portia was the doctor,"
+        ],
+        [
+            "PORTIA",
+            "Nerissa there her clerk: Lorenzo here"
+        ],
+        [
+            "PORTIA",
+            "Shall witness I set forth as soon as you"
+        ],
+        [
+            "PORTIA",
+            "And even but now return'd; I have not yet"
+        ],
+        [
+            "PORTIA",
+            "Enter'd my house. Antonio, you are welcome;"
+        ],
+        [
+            "PORTIA",
+            "And I have better news in store for you"
+        ],
+        [
+            "PORTIA",
+            "Than you expect: unseal this letter soon;"
+        ],
+        [
+            "PORTIA",
+            "There you shall find three of your argosies"
+        ],
+        [
+            "PORTIA",
+            "Are richly come to harbour suddenly:"
+        ],
+        [
+            "PORTIA",
+            "You shall not know by what strange accident"
+        ],
+        [
+            "PORTIA",
+            "I chanced on this letter."
+        ],
+        [
+            "ANTONIO",
+            "I am dumb."
+        ],
+        [
+            "BASSANIO",
+            "Were you the doctor and I knew you not?"
+        ],
+        [
+            "GRATIANO",
+            "Were you the clerk that is to make me cuckold?"
+        ],
+        [
+            "NERISSA",
+            "Ay, but the clerk that never means to do it,"
+        ],
+        [
+            "NERISSA",
+            "Unless he live until he be a man."
+        ],
+        [
+            "BASSANIO",
+            "Sweet doctor, you shall be my bed-fellow:"
+        ],
+        [
+            "BASSANIO",
+            "When I am absent, then lie with my wife."
+        ],
+        [
+            "ANTONIO",
+            "Sweet lady, you have given me life and living;"
+        ],
+        [
+            "ANTONIO",
+            "For here I read for certain that my ships"
+        ],
+        [
+            "ANTONIO",
+            "Are safely come to road."
+        ],
+        [
+            "PORTIA",
+            "How now, Lorenzo!"
+        ],
+        [
+            "PORTIA",
+            "My clerk hath some good comforts too for you."
+        ],
+        [
+            "NERISSA",
+            "Ay, and I'll give them him without a fee."
+        ],
+        [
+            "NERISSA",
+            "There do I give to you and Jessica,"
+        ],
+        [
+            "NERISSA",
+            "From the rich Jew, a special deed of gift,"
+        ],
+        [
+            "NERISSA",
+            "After his death, of all he dies possess'd of."
+        ],
+        [
+            "LORENZO",
+            "Fair ladies, you drop manna in the way"
+        ],
+        [
+            "LORENZO",
+            "Of starved people."
+        ],
+        [
+            "PORTIA",
+            "It is almost morning,"
+        ],
+        [
+            "PORTIA",
+            "And yet I am sure you are not satisfied"
+        ],
+        [
+            "PORTIA",
+            "Of these events at full. Let us go in;"
+        ],
+        [
+            "PORTIA",
+            "And charge us there upon inter'gatories,"
+        ],
+        [
+            "PORTIA",
+            "And we will answer all things faithfully."
+        ],
+        [
+            "GRATIANO",
+            "Let it be so: the first inter'gatory"
+        ],
+        [
+            "GRATIANO",
+            "That my Nerissa shall be sworn on is,"
+        ],
+        [
+            "GRATIANO",
+            "Whether till the next night she had rather stay,"
+        ],
+        [
+            "GRATIANO",
+            "Or go to bed now, being two hours to day:"
+        ],
+        [
+            "GRATIANO",
+            "But were the day come, I should wish it dark,"
+        ],
+        [
+            "GRATIANO",
+            "That I were couching with the doctor's clerk."
+        ],
+        [
+            "GRATIANO",
+            "Well, while I live I'll fear no other thing"
+        ],
+        [
+            "GRATIANO",
+            "So sore as keeping safe Nerissa's ring.",
+            {
+                "following_direction_line": "10"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter LORENZO and JESSICA"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter STEPHANO"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter LAUNCELOT"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exit Stephano. Enter Musicians. Music"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Enter PORTIA and NERISSA"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Music ceases"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "A tucket sounds"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Enter BASSANIO, ANTONIO, GRATIANO, and their followers"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "LORENZO": [
+            [
+                "1",
+                "6"
+            ],
+            [
+                "11",
+                "14"
+            ],
+            [
+                "18",
+                "21"
+            ],
+            [
+                "26",
+                "28"
+            ],
+            [
+                "31",
+                "31"
+            ],
+            [
+                "33",
+                "33"
+            ],
+            [
+                "39",
+                "39"
+            ],
+            [
+                "42",
+                "45"
+            ],
+            [
+                "47",
+                "47"
+            ],
+            [
+                "50",
+                "50"
+            ],
+            [
+                "52",
+                "52"
+            ],
+            [
+                "56",
+                "75"
+            ],
+            [
+                "77",
+                "95"
+            ],
+            [
+                "118",
+                "119"
+            ],
+            [
+                "122",
+                "122"
+            ],
+            [
+                "126",
+                "128"
+            ],
+            [
+                "133",
+                "134"
+            ],
+            [
+                "312",
+                "313"
+            ]
+        ],
+        "JESSICA": [
+            [
+                "7",
+                "10"
+            ],
+            [
+                "15",
+                "17"
+            ],
+            [
+                "22",
+                "25"
+            ],
+            [
+                "29",
+                "30"
+            ],
+            [
+                "76",
+                "76"
+            ]
+        ],
+        "STEPHANO": [
+            [
+                "32",
+                "32"
+            ],
+            [
+                "34",
+                "38"
+            ],
+            [
+                "40",
+                "41"
+            ]
+        ],
+        "LAUNCELOT": [
+            [
+                "46",
+                "46"
+            ],
+            [
+                "48",
+                "49"
+            ],
+            [
+                "51",
+                "51"
+            ],
+            [
+                "53",
+                "55"
+            ]
+        ],
+        "PORTIA": [
+            [
+                "96",
+                "98"
+            ],
+            [
+                "100",
+                "104"
+            ],
+            [
+                "106",
+                "107"
+            ],
+            [
+                "109",
+                "117"
+            ],
+            [
+                "120",
+                "121"
+            ],
+            [
+                "123",
+                "125"
+            ],
+            [
+                "129",
+                "132"
+            ],
+            [
+                "135",
+                "137"
+            ],
+            [
+                "140",
+                "143"
+            ],
+            [
+                "147",
+                "148"
+            ],
+            [
+                "150",
+                "152"
+            ],
+            [
+                "157",
+                "157"
+            ],
+            [
+                "177",
+                "187"
+            ],
+            [
+                "196",
+                "197"
+            ],
+            [
+                "201",
+                "203"
+            ],
+            [
+                "213",
+                "222"
+            ],
+            [
+                "237",
+                "247"
+            ],
+            [
+                "253",
+                "253"
+            ],
+            [
+                "258",
+                "261"
+            ],
+            [
+                "270",
+                "271"
+            ],
+            [
+                "274",
+                "275"
+            ],
+            [
+                "282",
+                "295"
+            ],
+            [
+                "306",
+                "307"
+            ],
+            [
+                "314",
+                "318"
+            ]
+        ],
+        "NERISSA": [
+            [
+                "99",
+                "99"
+            ],
+            [
+                "105",
+                "105"
+            ],
+            [
+                "108",
+                "108"
+            ],
+            [
+                "162",
+                "169"
+            ],
+            [
+                "171",
+                "171"
+            ],
+            [
+                "204",
+                "205"
+            ],
+            [
+                "248",
+                "249"
+            ],
+            [
+                "276",
+                "278"
+            ],
+            [
+                "299",
+                "300"
+            ],
+            [
+                "308",
+                "311"
+            ]
+        ],
+        "BASSANIO": [
+            [
+                "138",
+                "139"
+            ],
+            [
+                "144",
+                "146"
+            ],
+            [
+                "188",
+                "189"
+            ],
+            [
+                "198",
+                "200"
+            ],
+            [
+                "206",
+                "212"
+            ],
+            [
+                "223",
+                "236"
+            ],
+            [
+                "254",
+                "257"
+            ],
+            [
+                "262",
+                "264"
+            ],
+            [
+                "273",
+                "273"
+            ],
+            [
+                "297",
+                "297"
+            ],
+            [
+                "301",
+                "302"
+            ]
+        ],
+        "ANTONIO": [
+            [
+                "149",
+                "149"
+            ],
+            [
+                "252",
+                "252"
+            ],
+            [
+                "265",
+                "269"
+            ],
+            [
+                "272",
+                "272"
+            ],
+            [
+                "296",
+                "296"
+            ],
+            [
+                "303",
+                "305"
+            ]
+        ],
+        "GRATIANO": [
+            [
+                "153",
+                "156"
+            ],
+            [
+                "158",
+                "161"
+            ],
+            [
+                "170",
+                "170"
+            ],
+            [
+                "172",
+                "176"
+            ],
+            [
+                "190",
+                "195"
+            ],
+            [
+                "250",
+                "251"
+            ],
+            [
+                "279",
+                "281"
+            ],
+            [
+                "298",
+                "298"
+            ],
+            [
+                "319",
+                "326"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "Belmont. Avenue to PORTIA'S house."
+}

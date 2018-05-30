@@ -1,0 +1,26 @@
+_S_SCENE I. A desert place.
+_D_Thunder and lightning. Enter three Witches
+_R_First Witch
+When shall we three meet again
+In thunder, lightning, or in rain?
+_R_Second Witch
+When the hurlyburly's done,
+When the battle's lost and won.
+_R_Third Witch
+That will be ere the set of sun.
+_R_First Witch
+Where the place?
+_R_Second Witch
+Upon the heath.
+_R_Third Witch
+There to meet with Macbeth.
+_R_First Witch
+I come, Graymalkin!
+_R_Second Witch
+Paddock calls.
+_R_Third Witch
+Anon.
+_R_ALL
+Fair is foul, and foul is fair:
+Hover through the fog and filthy air.
+_D_Exeunt

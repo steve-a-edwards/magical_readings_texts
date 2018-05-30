@@ -1,0 +1,1153 @@
+{
+    "scene_id": "hamlet~~Act_1~~Scene_5",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "HAMLET",
+            "Where wilt thou lead me? speak; I'll go no further.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "Ghost",
+            "Mark me."
+        ],
+        [
+            "HAMLET",
+            "I will."
+        ],
+        [
+            "Ghost",
+            "My hour is almost come,"
+        ],
+        [
+            "Ghost",
+            "When I to sulphurous and tormenting flames"
+        ],
+        [
+            "Ghost",
+            "Must render up myself."
+        ],
+        [
+            "HAMLET",
+            "Alas, poor ghost!"
+        ],
+        [
+            "Ghost",
+            "Pity me not, but lend thy serious hearing"
+        ],
+        [
+            "Ghost",
+            "To what I shall unfold."
+        ],
+        [
+            "HAMLET",
+            "Speak; I am bound to hear."
+        ],
+        [
+            "Ghost",
+            "So art thou to revenge, when thou shalt hear."
+        ],
+        [
+            "HAMLET",
+            "What?"
+        ],
+        [
+            "Ghost",
+            "I am thy father's spirit,"
+        ],
+        [
+            "Ghost",
+            "Doom'd for a certain term to walk the night,"
+        ],
+        [
+            "Ghost",
+            "And for the day confined to fast in fires,"
+        ],
+        [
+            "Ghost",
+            "Till the foul crimes done in my days of nature"
+        ],
+        [
+            "Ghost",
+            "Are burnt and purged away. But that I am forbid"
+        ],
+        [
+            "Ghost",
+            "To tell the secrets of my prison-house,"
+        ],
+        [
+            "Ghost",
+            "I could a tale unfold whose lightest word"
+        ],
+        [
+            "Ghost",
+            "Would harrow up thy soul, freeze thy young blood,"
+        ],
+        [
+            "Ghost",
+            "Make thy two eyes, like stars, start from their spheres,"
+        ],
+        [
+            "Ghost",
+            "Thy knotted and combined locks to part"
+        ],
+        [
+            "Ghost",
+            "And each particular hair to stand on end,"
+        ],
+        [
+            "Ghost",
+            "Like quills upon the fretful porpentine:"
+        ],
+        [
+            "Ghost",
+            "But this eternal blazon must not be"
+        ],
+        [
+            "Ghost",
+            "To ears of flesh and blood. List, list, O, list!"
+        ],
+        [
+            "Ghost",
+            "If thou didst ever thy dear father love--"
+        ],
+        [
+            "HAMLET",
+            "O God!"
+        ],
+        [
+            "Ghost",
+            "Revenge his foul and most unnatural murder."
+        ],
+        [
+            "HAMLET",
+            "Murder!"
+        ],
+        [
+            "Ghost",
+            "Murder most foul, as in the best it is;"
+        ],
+        [
+            "Ghost",
+            "But this most foul, strange and unnatural."
+        ],
+        [
+            "HAMLET",
+            "Haste me to know't, that I, with wings as swift"
+        ],
+        [
+            "HAMLET",
+            "As meditation or the thoughts of love,"
+        ],
+        [
+            "HAMLET",
+            "May sweep to my revenge."
+        ],
+        [
+            "Ghost",
+            "I find thee apt;"
+        ],
+        [
+            "Ghost",
+            "And duller shouldst thou be than the fat weed"
+        ],
+        [
+            "Ghost",
+            "That roots itself in ease on Lethe wharf,"
+        ],
+        [
+            "Ghost",
+            "Wouldst thou not stir in this. Now, Hamlet, hear:"
+        ],
+        [
+            "Ghost",
+            "'Tis given out that, sleeping in my orchard,"
+        ],
+        [
+            "Ghost",
+            "A serpent stung me; so the whole ear of Denmark"
+        ],
+        [
+            "Ghost",
+            "Is by a forged process of my death"
+        ],
+        [
+            "Ghost",
+            "Rankly abused: but know, thou noble youth,"
+        ],
+        [
+            "Ghost",
+            "The serpent that did sting thy father's life"
+        ],
+        [
+            "Ghost",
+            "Now wears his crown."
+        ],
+        [
+            "HAMLET",
+            "O my prophetic soul! My uncle!"
+        ],
+        [
+            "Ghost",
+            "Ay, that incestuous, that adulterate beast,"
+        ],
+        [
+            "Ghost",
+            "With witchcraft of his wit, with traitorous gifts,--"
+        ],
+        [
+            "Ghost",
+            "O wicked wit and gifts, that have the power"
+        ],
+        [
+            "Ghost",
+            "So to seduce!--won to his shameful lust"
+        ],
+        [
+            "Ghost",
+            "The will of my most seeming-virtuous queen:"
+        ],
+        [
+            "Ghost",
+            "O Hamlet, what a falling-off was there!"
+        ],
+        [
+            "Ghost",
+            "From me, whose love was of that dignity"
+        ],
+        [
+            "Ghost",
+            "That it went hand in hand even with the vow"
+        ],
+        [
+            "Ghost",
+            "I made to her in marriage, and to decline"
+        ],
+        [
+            "Ghost",
+            "Upon a wretch whose natural gifts were poor"
+        ],
+        [
+            "Ghost",
+            "To those of mine!"
+        ],
+        [
+            "Ghost",
+            "But virtue, as it never will be moved,"
+        ],
+        [
+            "Ghost",
+            "Though lewdness court it in a shape of heaven,"
+        ],
+        [
+            "Ghost",
+            "So lust, though to a radiant angel link'd,"
+        ],
+        [
+            "Ghost",
+            "Will sate itself in a celestial bed,"
+        ],
+        [
+            "Ghost",
+            "And prey on garbage."
+        ],
+        [
+            "Ghost",
+            "But, soft! methinks I scent the morning air;"
+        ],
+        [
+            "Ghost",
+            "Brief let me be. Sleeping within my orchard,"
+        ],
+        [
+            "Ghost",
+            "My custom always of the afternoon,"
+        ],
+        [
+            "Ghost",
+            "Upon my secure hour thy uncle stole,"
+        ],
+        [
+            "Ghost",
+            "With juice of cursed hebenon in a vial,"
+        ],
+        [
+            "Ghost",
+            "And in the porches of my ears did pour"
+        ],
+        [
+            "Ghost",
+            "The leperous distilment; whose effect"
+        ],
+        [
+            "Ghost",
+            "Holds such an enmity with blood of man"
+        ],
+        [
+            "Ghost",
+            "That swift as quicksilver it courses through"
+        ],
+        [
+            "Ghost",
+            "The natural gates and alleys of the body,"
+        ],
+        [
+            "Ghost",
+            "And with a sudden vigour doth posset"
+        ],
+        [
+            "Ghost",
+            "And curd, like eager droppings into milk,"
+        ],
+        [
+            "Ghost",
+            "The thin and wholesome blood: so did it mine;"
+        ],
+        [
+            "Ghost",
+            "And a most instant tetter bark'd about,"
+        ],
+        [
+            "Ghost",
+            "Most lazar-like, with vile and loathsome crust,"
+        ],
+        [
+            "Ghost",
+            "All my smooth body."
+        ],
+        [
+            "Ghost",
+            "Thus was I, sleeping, by a brother's hand"
+        ],
+        [
+            "Ghost",
+            "Of life, of crown, of queen, at once dispatch'd:"
+        ],
+        [
+            "Ghost",
+            "Cut off even in the blossoms of my sin,"
+        ],
+        [
+            "Ghost",
+            "Unhousel'd, disappointed, unanel'd,"
+        ],
+        [
+            "Ghost",
+            "No reckoning made, but sent to my account"
+        ],
+        [
+            "Ghost",
+            "With all my imperfections on my head:"
+        ],
+        [
+            "Ghost",
+            "O, horrible! O, horrible! most horrible!"
+        ],
+        [
+            "Ghost",
+            "If thou hast nature in thee, bear it not;"
+        ],
+        [
+            "Ghost",
+            "Let not the royal bed of Denmark be"
+        ],
+        [
+            "Ghost",
+            "A couch for luxury and damned incest."
+        ],
+        [
+            "Ghost",
+            "But, howsoever thou pursuest this act,"
+        ],
+        [
+            "Ghost",
+            "Taint not thy mind, nor let thy soul contrive"
+        ],
+        [
+            "Ghost",
+            "Against thy mother aught: leave her to heaven"
+        ],
+        [
+            "Ghost",
+            "And to those thorns that in her bosom lodge,"
+        ],
+        [
+            "Ghost",
+            "To prick and sting her. Fare thee well at once!"
+        ],
+        [
+            "Ghost",
+            "The glow-worm shows the matin to be near,"
+        ],
+        [
+            "Ghost",
+            "And 'gins to pale his uneffectual fire:"
+        ],
+        [
+            "Ghost",
+            "Adieu, adieu! Hamlet, remember me.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "HAMLET",
+            "O all you host of heaven! O earth! what else?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "HAMLET",
+            "And shall I couple hell? O, fie! Hold, hold, my heart;"
+        ],
+        [
+            "HAMLET",
+            "And you, my sinews, grow not instant old,"
+        ],
+        [
+            "HAMLET",
+            "But bear me stiffly up. Remember thee!"
+        ],
+        [
+            "HAMLET",
+            "Ay, thou poor ghost, while memory holds a seat"
+        ],
+        [
+            "HAMLET",
+            "In this distracted globe. Remember thee!"
+        ],
+        [
+            "HAMLET",
+            "Yea, from the table of my memory"
+        ],
+        [
+            "HAMLET",
+            "I'll wipe away all trivial fond records,"
+        ],
+        [
+            "HAMLET",
+            "All saws of books, all forms, all pressures past,"
+        ],
+        [
+            "HAMLET",
+            "That youth and observation copied there;"
+        ],
+        [
+            "HAMLET",
+            "And thy commandment all alone shall live"
+        ],
+        [
+            "HAMLET",
+            "Within the book and volume of my brain,"
+        ],
+        [
+            "HAMLET",
+            "Unmix'd with baser matter: yes, by heaven!"
+        ],
+        [
+            "HAMLET",
+            "O most pernicious woman!"
+        ],
+        [
+            "HAMLET",
+            "O villain, villain, smiling, damned villain!"
+        ],
+        [
+            "HAMLET",
+            "My tables,--meet it is I set it down,"
+        ],
+        [
+            "HAMLET",
+            "That one may smile, and smile, and be a villain;"
+        ],
+        [
+            "HAMLET",
+            "At least I'm sure it may be so in Denmark:"
+        ],
+        [
+            "HAMLET",
+            "So, uncle, there you are. Now to my word;"
+        ],
+        [
+            "HAMLET",
+            "It is 'Adieu, adieu! remember me.'"
+        ],
+        [
+            "HAMLET",
+            "I have sworn 't.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "HORATIO",
+            "[Within] My lord, my lord,--",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "MARCELLUS",
+            "[Within] Lord Hamlet,--"
+        ],
+        [
+            "HORATIO",
+            "[Within] Heaven secure him!"
+        ],
+        [
+            "HAMLET",
+            "So be it!"
+        ],
+        [
+            "HORATIO",
+            "[Within] Hillo, ho, ho, my lord!"
+        ],
+        [
+            "HAMLET",
+            "Hillo, ho, ho, boy! come, bird, come.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "MARCELLUS",
+            "How is't, my noble lord?",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "HORATIO",
+            "What news, my lord?"
+        ],
+        [
+            "HAMLET",
+            "O, wonderful!"
+        ],
+        [
+            "HORATIO",
+            "Good my lord, tell it."
+        ],
+        [
+            "HAMLET",
+            "No; you'll reveal it."
+        ],
+        [
+            "HORATIO",
+            "Not I, my lord, by heaven."
+        ],
+        [
+            "MARCELLUS",
+            "Nor I, my lord."
+        ],
+        [
+            "HAMLET",
+            "How say you, then; would heart of man once think it?"
+        ],
+        [
+            "HAMLET",
+            "But you'll be secret?"
+        ],
+        [
+            "MARCELLUS",
+            "Ay, by heaven, my lord."
+        ],
+        [
+            "HAMLET",
+            "There's ne'er a villain dwelling in all Denmark"
+        ],
+        [
+            "HAMLET",
+            "But he's an arrant knave."
+        ],
+        [
+            "HORATIO",
+            "There needs no ghost, my lord, come from the grave"
+        ],
+        [
+            "HORATIO",
+            "To tell us this."
+        ],
+        [
+            "HAMLET",
+            "Why, right; you are i' the right;"
+        ],
+        [
+            "HAMLET",
+            "And so, without more circumstance at all,"
+        ],
+        [
+            "HAMLET",
+            "I hold it fit that we shake hands and part:"
+        ],
+        [
+            "HAMLET",
+            "You, as your business and desire shall point you;"
+        ],
+        [
+            "HAMLET",
+            "For every man has business and desire,"
+        ],
+        [
+            "HAMLET",
+            "Such as it is; and for mine own poor part,"
+        ],
+        [
+            "HAMLET",
+            "Look you, I'll go pray."
+        ],
+        [
+            "HORATIO",
+            "These are but wild and whirling words, my lord."
+        ],
+        [
+            "HAMLET",
+            "I'm sorry they offend you, heartily;"
+        ],
+        [
+            "HAMLET",
+            "Yes, 'faith heartily."
+        ],
+        [
+            "HORATIO",
+            "There's no offence, my lord."
+        ],
+        [
+            "HAMLET",
+            "Yes, by Saint Patrick, but there is, Horatio,"
+        ],
+        [
+            "HAMLET",
+            "And much offence too. Touching this vision here,"
+        ],
+        [
+            "HAMLET",
+            "It is an honest ghost, that let me tell you:"
+        ],
+        [
+            "HAMLET",
+            "For your desire to know what is between us,"
+        ],
+        [
+            "HAMLET",
+            "O'ermaster 't as you may. And now, good friends,"
+        ],
+        [
+            "HAMLET",
+            "As you are friends, scholars and soldiers,"
+        ],
+        [
+            "HAMLET",
+            "Give me one poor request."
+        ],
+        [
+            "HORATIO",
+            "What is't, my lord? we will."
+        ],
+        [
+            "HAMLET",
+            "Never make known what you have seen to-night."
+        ],
+        [
+            "MARCELLUS",
+            "My lord, we will not."
+        ],
+        [
+            "HAMLET",
+            "Nay, but swear't."
+        ],
+        [
+            "HORATIO",
+            "In faith,"
+        ],
+        [
+            "HORATIO",
+            "My lord, not I."
+        ],
+        [
+            "MARCELLUS",
+            "Nor I, my lord, in faith."
+        ],
+        [
+            "HAMLET",
+            "Upon my sword."
+        ],
+        [
+            "MARCELLUS",
+            "We have sworn, my lord, already."
+        ],
+        [
+            "HAMLET",
+            "Indeed, upon my sword, indeed."
+        ],
+        [
+            "Ghost",
+            "[Beneath] Swear."
+        ],
+        [
+            "HAMLET",
+            "Ah, ha, boy! say'st thou so? art thou there,"
+        ],
+        [
+            "HAMLET",
+            "truepenny?"
+        ],
+        [
+            "HAMLET",
+            "Come on--you hear this fellow in the cellarage--"
+        ],
+        [
+            "HAMLET",
+            "Consent to swear."
+        ],
+        [
+            "HORATIO",
+            "Propose the oath, my lord."
+        ],
+        [
+            "HAMLET",
+            "Never to speak of this that you have seen,"
+        ],
+        [
+            "HAMLET",
+            "Swear by my sword."
+        ],
+        [
+            "Ghost",
+            "[Beneath] Swear."
+        ],
+        [
+            "HAMLET",
+            "Hic et ubique? then we'll shift our ground."
+        ],
+        [
+            "HAMLET",
+            "Come hither, gentlemen,"
+        ],
+        [
+            "HAMLET",
+            "And lay your hands again upon my sword:"
+        ],
+        [
+            "HAMLET",
+            "Never to speak of this that you have heard,"
+        ],
+        [
+            "HAMLET",
+            "Swear by my sword."
+        ],
+        [
+            "Ghost",
+            "[Beneath] Swear."
+        ],
+        [
+            "HAMLET",
+            "Well said, old mole! canst work i' the earth so fast?"
+        ],
+        [
+            "HAMLET",
+            "A worthy pioner! Once more remove, good friends."
+        ],
+        [
+            "HORATIO",
+            "O day and night, but this is wondrous strange!"
+        ],
+        [
+            "HAMLET",
+            "And therefore as a stranger give it welcome."
+        ],
+        [
+            "HAMLET",
+            "There are more things in heaven and earth, Horatio,"
+        ],
+        [
+            "HAMLET",
+            "Than are dreamt of in your philosophy. But come;"
+        ],
+        [
+            "HAMLET",
+            "Here, as before, never, so help you mercy,"
+        ],
+        [
+            "HAMLET",
+            "How strange or odd soe'er I bear myself,"
+        ],
+        [
+            "HAMLET",
+            "As I perchance hereafter shall think meet"
+        ],
+        [
+            "HAMLET",
+            "To put an antic disposition on,"
+        ],
+        [
+            "HAMLET",
+            "That you, at such times seeing me, never shall,"
+        ],
+        [
+            "HAMLET",
+            "With arms encumber'd thus, or this headshake,"
+        ],
+        [
+            "HAMLET",
+            "Or by pronouncing of some doubtful phrase,"
+        ],
+        [
+            "HAMLET",
+            "As 'Well, well, we know,' or 'We could, an if we would,'"
+        ],
+        [
+            "HAMLET",
+            "Or 'If we list to speak,' or 'There be, an if they might,'"
+        ],
+        [
+            "HAMLET",
+            "Or such ambiguous giving out, to note"
+        ],
+        [
+            "HAMLET",
+            "That you know aught of me: this not to do,"
+        ],
+        [
+            "HAMLET",
+            "So grace and mercy at your most need help you, Swear."
+        ],
+        [
+            "Ghost",
+            "[Beneath] Swear."
+        ],
+        [
+            "HAMLET",
+            "Rest, rest, perturbed spirit!"
+        ],
+        [
+            "HAMLET",
+            "So, gentlemen,"
+        ],
+        [
+            "HAMLET",
+            "With all my love I do commend me to you:"
+        ],
+        [
+            "HAMLET",
+            "And what so poor a man as Hamlet is"
+        ],
+        [
+            "HAMLET",
+            "May do, to express his love and friending to you,"
+        ],
+        [
+            "HAMLET",
+            "God willing, shall not lack. Let us go in together;"
+        ],
+        [
+            "HAMLET",
+            "And still your fingers on your lips, I pray."
+        ],
+        [
+            "HAMLET",
+            "The time is out of joint: O cursed spite,"
+        ],
+        [
+            "HAMLET",
+            "That ever I was born to set it right!"
+        ],
+        [
+            "HAMLET",
+            "Nay, come, let's go together.",
+            {
+                "following_direction_line": "5"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter GHOST and HAMLET"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Writing"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter HORATIO and MARCELLUS"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "They swear. Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "HAMLET": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "3"
+            ],
+            [
+                "7",
+                "7"
+            ],
+            [
+                "10",
+                "10"
+            ],
+            [
+                "12",
+                "12"
+            ],
+            [
+                "28",
+                "28"
+            ],
+            [
+                "30",
+                "30"
+            ],
+            [
+                "33",
+                "35"
+            ],
+            [
+                "46",
+                "46"
+            ],
+            [
+                "97",
+                "117"
+            ],
+            [
+                "121",
+                "121"
+            ],
+            [
+                "123",
+                "123"
+            ],
+            [
+                "126",
+                "126"
+            ],
+            [
+                "128",
+                "128"
+            ],
+            [
+                "131",
+                "132"
+            ],
+            [
+                "134",
+                "135"
+            ],
+            [
+                "138",
+                "144"
+            ],
+            [
+                "146",
+                "147"
+            ],
+            [
+                "149",
+                "155"
+            ],
+            [
+                "157",
+                "157"
+            ],
+            [
+                "159",
+                "159"
+            ],
+            [
+                "163",
+                "163"
+            ],
+            [
+                "165",
+                "165"
+            ],
+            [
+                "167",
+                "170"
+            ],
+            [
+                "172",
+                "173"
+            ],
+            [
+                "175",
+                "179"
+            ],
+            [
+                "181",
+                "182"
+            ],
+            [
+                "184",
+                "198"
+            ],
+            [
+                "200",
+                "209"
+            ]
+        ],
+        "Ghost": [
+            [
+                "2",
+                "2"
+            ],
+            [
+                "4",
+                "6"
+            ],
+            [
+                "8",
+                "9"
+            ],
+            [
+                "11",
+                "11"
+            ],
+            [
+                "13",
+                "27"
+            ],
+            [
+                "29",
+                "29"
+            ],
+            [
+                "31",
+                "32"
+            ],
+            [
+                "36",
+                "45"
+            ],
+            [
+                "47",
+                "96"
+            ],
+            [
+                "166",
+                "166"
+            ],
+            [
+                "174",
+                "174"
+            ],
+            [
+                "180",
+                "180"
+            ],
+            [
+                "199",
+                "199"
+            ]
+        ],
+        "HORATIO": [
+            [
+                "118",
+                "118"
+            ],
+            [
+                "120",
+                "120"
+            ],
+            [
+                "122",
+                "122"
+            ],
+            [
+                "125",
+                "125"
+            ],
+            [
+                "127",
+                "127"
+            ],
+            [
+                "129",
+                "129"
+            ],
+            [
+                "136",
+                "137"
+            ],
+            [
+                "145",
+                "145"
+            ],
+            [
+                "148",
+                "148"
+            ],
+            [
+                "156",
+                "156"
+            ],
+            [
+                "160",
+                "161"
+            ],
+            [
+                "171",
+                "171"
+            ],
+            [
+                "183",
+                "183"
+            ]
+        ],
+        "MARCELLUS": [
+            [
+                "119",
+                "119"
+            ],
+            [
+                "124",
+                "124"
+            ],
+            [
+                "130",
+                "130"
+            ],
+            [
+                "133",
+                "133"
+            ],
+            [
+                "158",
+                "158"
+            ],
+            [
+                "162",
+                "162"
+            ],
+            [
+                "164",
+                "164"
+            ]
+        ]
+    },
+    "scene_name": "SCENE V",
+    "scene_description": "Another part of the platform."
+}

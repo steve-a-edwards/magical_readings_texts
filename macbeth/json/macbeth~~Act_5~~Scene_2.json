@@ -1,0 +1,224 @@
+{
+    "scene_id": "macbeth~~Act_5~~Scene_2",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "MENTEITH",
+            "The English power is near, led on by Malcolm,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "MENTEITH",
+            "His uncle Siward and the good Macduff:"
+        ],
+        [
+            "MENTEITH",
+            "Revenges burn in them; for their dear causes"
+        ],
+        [
+            "MENTEITH",
+            "Would to the bleeding and the grim alarm"
+        ],
+        [
+            "MENTEITH",
+            "Excite the mortified man."
+        ],
+        [
+            "ANGUS",
+            "Near Birnam wood"
+        ],
+        [
+            "ANGUS",
+            "Shall we well meet them; that way are they coming."
+        ],
+        [
+            "CAITHNESS",
+            "Who knows if Donalbain be with his brother?"
+        ],
+        [
+            "LENNOX",
+            "For certain, sir, he is not: I have a file"
+        ],
+        [
+            "LENNOX",
+            "Of all the gentry: there is Siward's son,"
+        ],
+        [
+            "LENNOX",
+            "And many unrough youths that even now"
+        ],
+        [
+            "LENNOX",
+            "Protest their first of manhood."
+        ],
+        [
+            "MENTEITH",
+            "What does the tyrant?"
+        ],
+        [
+            "CAITHNESS",
+            "Great Dunsinane he strongly fortifies:"
+        ],
+        [
+            "CAITHNESS",
+            "Some say he's mad; others that lesser hate him"
+        ],
+        [
+            "CAITHNESS",
+            "Do call it valiant fury: but, for certain,"
+        ],
+        [
+            "CAITHNESS",
+            "He cannot buckle his distemper'd cause"
+        ],
+        [
+            "CAITHNESS",
+            "Within the belt of rule."
+        ],
+        [
+            "ANGUS",
+            "Now does he feel"
+        ],
+        [
+            "ANGUS",
+            "His secret murders sticking on his hands;"
+        ],
+        [
+            "ANGUS",
+            "Now minutely revolts upbraid his faith-breach;"
+        ],
+        [
+            "ANGUS",
+            "Those he commands move only in command,"
+        ],
+        [
+            "ANGUS",
+            "Nothing in love: now does he feel his title"
+        ],
+        [
+            "ANGUS",
+            "Hang loose about him, like a giant's robe"
+        ],
+        [
+            "ANGUS",
+            "Upon a dwarfish thief."
+        ],
+        [
+            "MENTEITH",
+            "Who then shall blame"
+        ],
+        [
+            "MENTEITH",
+            "His pester'd senses to recoil and start,"
+        ],
+        [
+            "MENTEITH",
+            "When all that is within him does condemn"
+        ],
+        [
+            "MENTEITH",
+            "Itself for being there?"
+        ],
+        [
+            "CAITHNESS",
+            "Well, march we on,"
+        ],
+        [
+            "CAITHNESS",
+            "To give obedience where 'tis truly owed:"
+        ],
+        [
+            "CAITHNESS",
+            "Meet we the medicine of the sickly weal,"
+        ],
+        [
+            "CAITHNESS",
+            "And with him pour we in our country's purge"
+        ],
+        [
+            "CAITHNESS",
+            "Each drop of us."
+        ],
+        [
+            "LENNOX",
+            "Or so much as it needs,"
+        ],
+        [
+            "LENNOX",
+            "To dew the sovereign flower and drown the weeds."
+        ],
+        [
+            "LENNOX",
+            "Make we our march towards Birnam.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Drum and colours. Enter MENTEITH, CAITHNESS, ANGUS, LENNOX, and Soldiers"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt, marching"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "MENTEITH": [
+            [
+                "1",
+                "5"
+            ],
+            [
+                "13",
+                "13"
+            ],
+            [
+                "26",
+                "29"
+            ]
+        ],
+        "ANGUS": [
+            [
+                "6",
+                "7"
+            ],
+            [
+                "19",
+                "25"
+            ]
+        ],
+        "CAITHNESS": [
+            [
+                "8",
+                "8"
+            ],
+            [
+                "14",
+                "18"
+            ],
+            [
+                "30",
+                "34"
+            ]
+        ],
+        "LENNOX": [
+            [
+                "9",
+                "12"
+            ],
+            [
+                "35",
+                "37"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "The country near Dunsinane."
+}

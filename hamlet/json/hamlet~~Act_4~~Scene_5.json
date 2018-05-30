@@ -1,0 +1,1381 @@
+{
+    "scene_id": "hamlet~~Act_4~~Scene_5",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "QUEEN GERTRUDE",
+            "I will not speak with her.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "Gentleman",
+            "She is importunate, indeed distract:"
+        ],
+        [
+            "Gentleman",
+            "Her mood will needs be pitied."
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "What would she have?"
+        ],
+        [
+            "Gentleman",
+            "She speaks much of her father; says she hears"
+        ],
+        [
+            "Gentleman",
+            "There's tricks i' the world; and hems, and beats her heart;"
+        ],
+        [
+            "Gentleman",
+            "Spurns enviously at straws; speaks things in doubt,"
+        ],
+        [
+            "Gentleman",
+            "That carry but half sense: her speech is nothing,"
+        ],
+        [
+            "Gentleman",
+            "Yet the unshaped use of it doth move"
+        ],
+        [
+            "Gentleman",
+            "The hearers to collection; they aim at it,"
+        ],
+        [
+            "Gentleman",
+            "And botch the words up fit to their own thoughts;"
+        ],
+        [
+            "Gentleman",
+            "Which, as her winks, and nods, and gestures"
+        ],
+        [
+            "Gentleman",
+            "yield them,"
+        ],
+        [
+            "Gentleman",
+            "Indeed would make one think there might be thought,"
+        ],
+        [
+            "Gentleman",
+            "Though nothing sure, yet much unhappily."
+        ],
+        [
+            "HORATIO",
+            "'Twere good she were spoken with; for she may strew"
+        ],
+        [
+            "HORATIO",
+            "Dangerous conjectures in ill-breeding minds."
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Let her come in."
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "To my sick soul, as sin's true nature is,"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Each toy seems prologue to some great amiss:"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "So full of artless jealousy is guilt,"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "It spills itself in fearing to be spilt.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "OPHELIA",
+            "Where is the beauteous majesty of Denmark?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "How now, Ophelia!"
+        ],
+        [
+            "OPHELIA",
+            "[Sings]"
+        ],
+        [
+            "OPHELIA",
+            "How should I your true love know"
+        ],
+        [
+            "OPHELIA",
+            "From another one?"
+        ],
+        [
+            "OPHELIA",
+            "By his cockle hat and staff,"
+        ],
+        [
+            "OPHELIA",
+            "And his sandal shoon."
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Alas, sweet lady, what imports this song?"
+        ],
+        [
+            "OPHELIA",
+            "Say you? nay, pray you, mark."
+        ],
+        [
+            "OPHELIA",
+            "He is dead and gone, lady,"
+        ],
+        [
+            "OPHELIA",
+            "He is dead and gone;"
+        ],
+        [
+            "OPHELIA",
+            "At his head a grass-green turf,"
+        ],
+        [
+            "OPHELIA",
+            "At his heels a stone.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Nay, but, Ophelia,--",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "OPHELIA",
+            "Pray you, mark."
+        ],
+        [
+            "OPHELIA",
+            "White his shroud as the mountain snow,--",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Alas, look here, my lord.",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "OPHELIA",
+            "[Sings]"
+        ],
+        [
+            "OPHELIA",
+            "Larded with sweet flowers"
+        ],
+        [
+            "OPHELIA",
+            "Which bewept to the grave did go"
+        ],
+        [
+            "OPHELIA",
+            "With true-love showers."
+        ],
+        [
+            "KING CLAUDIUS",
+            "How do you, pretty lady?"
+        ],
+        [
+            "OPHELIA",
+            "Well, God 'ild you! They say the owl was a baker's"
+        ],
+        [
+            "OPHELIA",
+            "daughter. Lord, we know what we are, but know not"
+        ],
+        [
+            "OPHELIA",
+            "what we may be. God be at your table!"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Conceit upon her father."
+        ],
+        [
+            "OPHELIA",
+            "Pray you, let's have no words of this; but when they"
+        ],
+        [
+            "OPHELIA",
+            "ask you what it means, say you this:"
+        ],
+        [
+            "OPHELIA",
+            "To-morrow is Saint Valentine's day,"
+        ],
+        [
+            "OPHELIA",
+            "All in the morning betime,"
+        ],
+        [
+            "OPHELIA",
+            "And I a maid at your window,"
+        ],
+        [
+            "OPHELIA",
+            "To be your Valentine."
+        ],
+        [
+            "OPHELIA",
+            "Then up he rose, and donn'd his clothes,"
+        ],
+        [
+            "OPHELIA",
+            "And dupp'd the chamber-door;"
+        ],
+        [
+            "OPHELIA",
+            "Let in the maid, that out a maid"
+        ],
+        [
+            "OPHELIA",
+            "Never departed more.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "KING CLAUDIUS",
+            "Pretty Ophelia!",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "OPHELIA",
+            "Indeed, la, without an oath, I'll make an end on't:"
+        ],
+        [
+            "OPHELIA",
+            "By Gis and by Saint Charity,"
+        ],
+        [
+            "OPHELIA",
+            "Alack, and fie for shame!"
+        ],
+        [
+            "OPHELIA",
+            "Young men will do't, if they come to't;"
+        ],
+        [
+            "OPHELIA",
+            "By cock, they are to blame."
+        ],
+        [
+            "OPHELIA",
+            "Quoth she, before you tumbled me,"
+        ],
+        [
+            "OPHELIA",
+            "You promised me to wed."
+        ],
+        [
+            "OPHELIA",
+            "So would I ha' done, by yonder sun,"
+        ],
+        [
+            "OPHELIA",
+            "An thou hadst not come to my bed.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "KING CLAUDIUS",
+            "How long hath she been thus?",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "OPHELIA",
+            "I hope all will be well. We must be patient: but I"
+        ],
+        [
+            "OPHELIA",
+            "cannot choose but weep, to think they should lay him"
+        ],
+        [
+            "OPHELIA",
+            "i' the cold ground. My brother shall know of it:"
+        ],
+        [
+            "OPHELIA",
+            "and so I thank you for your good counsel. Come, my"
+        ],
+        [
+            "OPHELIA",
+            "coach! Good night, ladies; good night, sweet ladies;"
+        ],
+        [
+            "OPHELIA",
+            "good night, good night.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "KING CLAUDIUS",
+            "Follow her close; give her good watch,",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "KING CLAUDIUS",
+            "I pray you."
+        ],
+        [
+            "KING CLAUDIUS",
+            "O, this is the poison of deep grief; it springs"
+        ],
+        [
+            "KING CLAUDIUS",
+            "All from her father's death. O Gertrude, Gertrude,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "When sorrows come, they come not single spies"
+        ],
+        [
+            "KING CLAUDIUS",
+            "But in battalions. First, her father slain:"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Next, your son gone; and he most violent author"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Of his own just remove: the people muddied,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Thick and unwholesome in their thoughts and whispers,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "For good Polonius' death; and we have done but greenly,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "In hugger-mugger to inter him: poor Ophelia"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Divided from herself and her fair judgment,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Without the which we are pictures, or mere beasts:"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Last, and as much containing as all these,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Her brother is in secret come from France;"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Feeds on his wonder, keeps himself in clouds,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "And wants not buzzers to infect his ear"
+        ],
+        [
+            "KING CLAUDIUS",
+            "With pestilent speeches of his father's death;"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Wherein necessity, of matter beggar'd,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Will nothing stick our person to arraign"
+        ],
+        [
+            "KING CLAUDIUS",
+            "In ear and ear. O my dear Gertrude, this,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Like to a murdering-piece, in many places"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Gives me superfluous death.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Alack, what noise is this?",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "KING CLAUDIUS",
+            "Where are my Switzers? Let them guard the door."
+        ],
+        [
+            "KING CLAUDIUS",
+            "What is the matter?",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "Gentleman",
+            "Save yourself, my lord:",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "Gentleman",
+            "The ocean, overpeering of his list,"
+        ],
+        [
+            "Gentleman",
+            "Eats not the flats with more impetuous haste"
+        ],
+        [
+            "Gentleman",
+            "Than young Laertes, in a riotous head,"
+        ],
+        [
+            "Gentleman",
+            "O'erbears your officers. The rabble call him lord;"
+        ],
+        [
+            "Gentleman",
+            "And, as the world were now but to begin,"
+        ],
+        [
+            "Gentleman",
+            "Antiquity forgot, custom not known,"
+        ],
+        [
+            "Gentleman",
+            "The ratifiers and props of every word,"
+        ],
+        [
+            "Gentleman",
+            "They cry 'Choose we: Laertes shall be king:'"
+        ],
+        [
+            "Gentleman",
+            "Caps, hands, and tongues, applaud it to the clouds:"
+        ],
+        [
+            "Gentleman",
+            "'Laertes shall be king, Laertes king!'"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "How cheerfully on the false trail they cry!"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "O, this is counter, you false Danish dogs!"
+        ],
+        [
+            "KING CLAUDIUS",
+            "The doors are broke.",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "LAERTES",
+            "Where is this king? Sirs, stand you all without.",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "Danes",
+            "No, let's come in."
+        ],
+        [
+            "LAERTES",
+            "I pray you, give me leave."
+        ],
+        [
+            "Danes",
+            "We will, we will.",
+            {
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "LAERTES",
+            "I thank you: keep the door. O thou vile king,",
+            {
+                "preceding_direction_line": "11"
+            }
+        ],
+        [
+            "LAERTES",
+            "Give me my father!"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Calmly, good Laertes."
+        ],
+        [
+            "LAERTES",
+            "That drop of blood that's calm proclaims me bastard,"
+        ],
+        [
+            "LAERTES",
+            "Cries cuckold to my father, brands the harlot"
+        ],
+        [
+            "LAERTES",
+            "Even here, between the chaste unsmirched brow"
+        ],
+        [
+            "LAERTES",
+            "Of my true mother."
+        ],
+        [
+            "KING CLAUDIUS",
+            "What is the cause, Laertes,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "That thy rebellion looks so giant-like?"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Let him go, Gertrude; do not fear our person:"
+        ],
+        [
+            "KING CLAUDIUS",
+            "There's such divinity doth hedge a king,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "That treason can but peep to what it would,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Acts little of his will. Tell me, Laertes,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Why thou art thus incensed. Let him go, Gertrude."
+        ],
+        [
+            "KING CLAUDIUS",
+            "Speak, man."
+        ],
+        [
+            "LAERTES",
+            "Where is my father?"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Dead."
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "But not by him."
+        ],
+        [
+            "KING CLAUDIUS",
+            "Let him demand his fill."
+        ],
+        [
+            "LAERTES",
+            "How came he dead? I'll not be juggled with:"
+        ],
+        [
+            "LAERTES",
+            "To hell, allegiance! vows, to the blackest devil!"
+        ],
+        [
+            "LAERTES",
+            "Conscience and grace, to the profoundest pit!"
+        ],
+        [
+            "LAERTES",
+            "I dare damnation. To this point I stand,"
+        ],
+        [
+            "LAERTES",
+            "That both the worlds I give to negligence,"
+        ],
+        [
+            "LAERTES",
+            "Let come what comes; only I'll be revenged"
+        ],
+        [
+            "LAERTES",
+            "Most thoroughly for my father."
+        ],
+        [
+            "KING CLAUDIUS",
+            "Who shall stay you?"
+        ],
+        [
+            "LAERTES",
+            "My will, not all the world:"
+        ],
+        [
+            "LAERTES",
+            "And for my means, I'll husband them so well,"
+        ],
+        [
+            "LAERTES",
+            "They shall go far with little."
+        ],
+        [
+            "KING CLAUDIUS",
+            "Good Laertes,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "If you desire to know the certainty"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Of your dear father's death, is't writ in your revenge,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "That, swoopstake, you will draw both friend and foe,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Winner and loser?"
+        ],
+        [
+            "LAERTES",
+            "None but his enemies."
+        ],
+        [
+            "KING CLAUDIUS",
+            "Will you know them then?"
+        ],
+        [
+            "LAERTES",
+            "To his good friends thus wide I'll ope my arms;"
+        ],
+        [
+            "LAERTES",
+            "And like the kind life-rendering pelican,"
+        ],
+        [
+            "LAERTES",
+            "Repast them with my blood."
+        ],
+        [
+            "KING CLAUDIUS",
+            "Why, now you speak"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Like a good child and a true gentleman."
+        ],
+        [
+            "KING CLAUDIUS",
+            "That I am guiltless of your father's death,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "And am most sensible in grief for it,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "It shall as level to your judgment pierce"
+        ],
+        [
+            "KING CLAUDIUS",
+            "As day does to your eye."
+        ],
+        [
+            "Danes",
+            "[Within] Let her come in."
+        ],
+        [
+            "LAERTES",
+            "How now! what noise is that?"
+        ],
+        [
+            "LAERTES",
+            "O heat, dry up my brains! tears seven times salt,"
+        ],
+        [
+            "LAERTES",
+            "Burn out the sense and virtue of mine eye!"
+        ],
+        [
+            "LAERTES",
+            "By heaven, thy madness shall be paid by weight,"
+        ],
+        [
+            "LAERTES",
+            "Till our scale turn the beam. O rose of May!"
+        ],
+        [
+            "LAERTES",
+            "Dear maid, kind sister, sweet Ophelia!"
+        ],
+        [
+            "LAERTES",
+            "O heavens! is't possible, a young maid's wits"
+        ],
+        [
+            "LAERTES",
+            "Should be as moral as an old man's life?"
+        ],
+        [
+            "LAERTES",
+            "Nature is fine in love, and where 'tis fine,"
+        ],
+        [
+            "LAERTES",
+            "It sends some precious instance of itself"
+        ],
+        [
+            "LAERTES",
+            "After the thing it loves.",
+            {
+                "following_direction_line": "12"
+            }
+        ],
+        [
+            "OPHELIA",
+            "[Sings]",
+            {
+                "preceding_direction_line": "12"
+            }
+        ],
+        [
+            "OPHELIA",
+            "They bore him barefaced on the bier;"
+        ],
+        [
+            "OPHELIA",
+            "Hey non nonny, nonny, hey nonny;"
+        ],
+        [
+            "OPHELIA",
+            "And in his grave rain'd many a tear:--"
+        ],
+        [
+            "OPHELIA",
+            "Fare you well, my dove!"
+        ],
+        [
+            "LAERTES",
+            "Hadst thou thy wits, and didst persuade revenge,"
+        ],
+        [
+            "LAERTES",
+            "It could not move thus."
+        ],
+        [
+            "OPHELIA",
+            "[Sings]"
+        ],
+        [
+            "OPHELIA",
+            "You must sing a-down a-down,"
+        ],
+        [
+            "OPHELIA",
+            "An you call him a-down-a."
+        ],
+        [
+            "OPHELIA",
+            "O, how the wheel becomes it! It is the false"
+        ],
+        [
+            "OPHELIA",
+            "steward, that stole his master's daughter."
+        ],
+        [
+            "LAERTES",
+            "This nothing's more than matter."
+        ],
+        [
+            "OPHELIA",
+            "There's rosemary, that's for remembrance; pray,"
+        ],
+        [
+            "OPHELIA",
+            "love, remember: and there is pansies. that's for thoughts."
+        ],
+        [
+            "LAERTES",
+            "A document in madness, thoughts and remembrance fitted."
+        ],
+        [
+            "OPHELIA",
+            "There's fennel for you, and columbines: there's rue"
+        ],
+        [
+            "OPHELIA",
+            "for you; and here's some for me: we may call it"
+        ],
+        [
+            "OPHELIA",
+            "herb-grace o' Sundays: O you must wear your rue with"
+        ],
+        [
+            "OPHELIA",
+            "a difference. There's a daisy: I would give you"
+        ],
+        [
+            "OPHELIA",
+            "some violets, but they withered all when my father"
+        ],
+        [
+            "OPHELIA",
+            "died: they say he made a good end,--"
+        ],
+        [
+            "OPHELIA",
+            "For bonny sweet Robin is all my joy.",
+            {
+                "following_direction_line": "13"
+            }
+        ],
+        [
+            "LAERTES",
+            "Thought and affliction, passion, hell itself,",
+            {
+                "preceding_direction_line": "13"
+            }
+        ],
+        [
+            "LAERTES",
+            "She turns to favour and to prettiness."
+        ],
+        [
+            "OPHELIA",
+            "[Sings]"
+        ],
+        [
+            "OPHELIA",
+            "And will he not come again?"
+        ],
+        [
+            "OPHELIA",
+            "And will he not come again?"
+        ],
+        [
+            "OPHELIA",
+            "No, no, he is dead:"
+        ],
+        [
+            "OPHELIA",
+            "Go to thy death-bed:"
+        ],
+        [
+            "OPHELIA",
+            "He never will come again."
+        ],
+        [
+            "OPHELIA",
+            "His beard was as white as snow,"
+        ],
+        [
+            "OPHELIA",
+            "All flaxen was his poll:"
+        ],
+        [
+            "OPHELIA",
+            "He is gone, he is gone,"
+        ],
+        [
+            "OPHELIA",
+            "And we cast away moan:"
+        ],
+        [
+            "OPHELIA",
+            "God ha' mercy on his soul!"
+        ],
+        [
+            "OPHELIA",
+            "And of all Christian souls, I pray God. God be wi' ye.",
+            {
+                "following_direction_line": "14"
+            }
+        ],
+        [
+            "LAERTES",
+            "Do you see this, O God?",
+            {
+                "preceding_direction_line": "14"
+            }
+        ],
+        [
+            "KING CLAUDIUS",
+            "Laertes, I must commune with your grief,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Or you deny me right. Go but apart,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Make choice of whom your wisest friends you will."
+        ],
+        [
+            "KING CLAUDIUS",
+            "And they shall hear and judge 'twixt you and me:"
+        ],
+        [
+            "KING CLAUDIUS",
+            "If by direct or by collateral hand"
+        ],
+        [
+            "KING CLAUDIUS",
+            "They find us touch'd, we will our kingdom give,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Our crown, our life, and all that we can ours,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "To you in satisfaction; but if not,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Be you content to lend your patience to us,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "And we shall jointly labour with your soul"
+        ],
+        [
+            "KING CLAUDIUS",
+            "To give it due content."
+        ],
+        [
+            "LAERTES",
+            "Let this be so;"
+        ],
+        [
+            "LAERTES",
+            "His means of death, his obscure funeral--"
+        ],
+        [
+            "LAERTES",
+            "No trophy, sword, nor hatchment o'er his bones,"
+        ],
+        [
+            "LAERTES",
+            "No noble rite nor formal ostentation--"
+        ],
+        [
+            "LAERTES",
+            "Cry to be heard, as 'twere from heaven to earth,"
+        ],
+        [
+            "LAERTES",
+            "That I must call't in question."
+        ],
+        [
+            "KING CLAUDIUS",
+            "So you shall;"
+        ],
+        [
+            "KING CLAUDIUS",
+            "And where the offence is let the great axe fall."
+        ],
+        [
+            "KING CLAUDIUS",
+            "I pray you, go with me.",
+            {
+                "following_direction_line": "15"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter QUEEN GERTRUDE, HORATIO, and a Gentleman"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit HORATIO. Re-enter HORATIO, with OPHELIA"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Sings"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Sings. Enter KING CLAUDIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Sings"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Sings"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exit HORATIO. A noise within"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Enter another Gentleman"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Noise within. Enter LAERTES, armed; Danes following"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "They retire without the door"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Re-enter OPHELIA"
+        ],
+        [
+            "_DIRECTION",
+            "D13",
+            "Sings"
+        ],
+        [
+            "_DIRECTION",
+            "D14",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D15",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "QUEEN GERTRUDE": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "4",
+                "4"
+            ],
+            [
+                "18",
+                "22"
+            ],
+            [
+                "24",
+                "24"
+            ],
+            [
+                "30",
+                "30"
+            ],
+            [
+                "36",
+                "36"
+            ],
+            [
+                "39",
+                "39"
+            ],
+            [
+                "99",
+                "99"
+            ],
+            [
+                "113",
+                "114"
+            ],
+            [
+                "122",
+                "122"
+            ],
+            [
+                "137",
+                "137"
+            ]
+        ],
+        "Gentleman": [
+            [
+                "2",
+                "3"
+            ],
+            [
+                "5",
+                "15"
+            ],
+            [
+                "102",
+                "112"
+            ]
+        ],
+        "HORATIO": [
+            [
+                "16",
+                "17"
+            ]
+        ],
+        "OPHELIA": [
+            [
+                "23",
+                "23"
+            ],
+            [
+                "25",
+                "29"
+            ],
+            [
+                "31",
+                "35"
+            ],
+            [
+                "37",
+                "38"
+            ],
+            [
+                "40",
+                "43"
+            ],
+            [
+                "45",
+                "47"
+            ],
+            [
+                "49",
+                "58"
+            ],
+            [
+                "60",
+                "68"
+            ],
+            [
+                "70",
+                "75"
+            ],
+            [
+                "178",
+                "182"
+            ],
+            [
+                "185",
+                "189"
+            ],
+            [
+                "191",
+                "192"
+            ],
+            [
+                "194",
+                "200"
+            ],
+            [
+                "203",
+                "214"
+            ]
+        ],
+        "KING CLAUDIUS": [
+            [
+                "44",
+                "44"
+            ],
+            [
+                "48",
+                "48"
+            ],
+            [
+                "59",
+                "59"
+            ],
+            [
+                "69",
+                "69"
+            ],
+            [
+                "76",
+                "98"
+            ],
+            [
+                "100",
+                "101"
+            ],
+            [
+                "115",
+                "115"
+            ],
+            [
+                "127",
+                "134"
+            ],
+            [
+                "136",
+                "136"
+            ],
+            [
+                "138",
+                "138"
+            ],
+            [
+                "146",
+                "146"
+            ],
+            [
+                "150",
+                "154"
+            ],
+            [
+                "156",
+                "156"
+            ],
+            [
+                "160",
+                "165"
+            ],
+            [
+                "216",
+                "226"
+            ],
+            [
+                "233",
+                "235"
+            ]
+        ],
+        "LAERTES": [
+            [
+                "116",
+                "116"
+            ],
+            [
+                "118",
+                "118"
+            ],
+            [
+                "120",
+                "121"
+            ],
+            [
+                "123",
+                "126"
+            ],
+            [
+                "135",
+                "135"
+            ],
+            [
+                "139",
+                "145"
+            ],
+            [
+                "147",
+                "149"
+            ],
+            [
+                "155",
+                "155"
+            ],
+            [
+                "157",
+                "159"
+            ],
+            [
+                "167",
+                "177"
+            ],
+            [
+                "183",
+                "184"
+            ],
+            [
+                "190",
+                "190"
+            ],
+            [
+                "193",
+                "193"
+            ],
+            [
+                "201",
+                "202"
+            ],
+            [
+                "215",
+                "215"
+            ],
+            [
+                "227",
+                "232"
+            ]
+        ],
+        "Danes": [
+            [
+                "117",
+                "117"
+            ],
+            [
+                "119",
+                "119"
+            ],
+            [
+                "166",
+                "166"
+            ]
+        ]
+    },
+    "scene_name": "SCENE V",
+    "scene_description": "Elsinore. A room in the castle."
+}

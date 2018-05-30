@@ -1,0 +1,450 @@
+{
+    "scene_id": "romeo and juliet~~Act_2~~Scene_5",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "JULIET",
+            "The clock struck nine when I did send the nurse;",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "JULIET",
+            "In half an hour she promised to return."
+        ],
+        [
+            "JULIET",
+            "Perchance she cannot meet him: that's not so."
+        ],
+        [
+            "JULIET",
+            "O, she is lame! love's heralds should be thoughts,"
+        ],
+        [
+            "JULIET",
+            "Which ten times faster glide than the sun's beams,"
+        ],
+        [
+            "JULIET",
+            "Driving back shadows over louring hills:"
+        ],
+        [
+            "JULIET",
+            "Therefore do nimble-pinion'd doves draw love,"
+        ],
+        [
+            "JULIET",
+            "And therefore hath the wind-swift Cupid wings."
+        ],
+        [
+            "JULIET",
+            "Now is the sun upon the highmost hill"
+        ],
+        [
+            "JULIET",
+            "Of this day's journey, and from nine till twelve"
+        ],
+        [
+            "JULIET",
+            "Is three long hours, yet she is not come."
+        ],
+        [
+            "JULIET",
+            "Had she affections and warm youthful blood,"
+        ],
+        [
+            "JULIET",
+            "She would be as swift in motion as a ball;"
+        ],
+        [
+            "JULIET",
+            "My words would bandy her to my sweet love,"
+        ],
+        [
+            "JULIET",
+            "And his to me:"
+        ],
+        [
+            "JULIET",
+            "But old folks, many feign as they were dead;"
+        ],
+        [
+            "JULIET",
+            "Unwieldy, slow, heavy and pale as lead."
+        ],
+        [
+            "JULIET",
+            "O God, she comes!"
+        ],
+        [
+            "JULIET",
+            "O honey nurse, what news?"
+        ],
+        [
+            "JULIET",
+            "Hast thou met with him? Send thy man away.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "Nurse",
+            "Peter, stay at the gate.",
+            {
+                "preceding_direction_line": "2"
+            },
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "JULIET",
+            "Now, good sweet nurse,--O Lord, why look'st thou sad?",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "JULIET",
+            "Though news be sad, yet tell them merrily;"
+        ],
+        [
+            "JULIET",
+            "If good, thou shamest the music of sweet news"
+        ],
+        [
+            "JULIET",
+            "By playing it to me with so sour a face."
+        ],
+        [
+            "Nurse",
+            "I am a-weary, give me leave awhile:"
+        ],
+        [
+            "Nurse",
+            "Fie, how my bones ache! what a jaunt have I had!"
+        ],
+        [
+            "JULIET",
+            "I would thou hadst my bones, and I thy news:"
+        ],
+        [
+            "JULIET",
+            "Nay, come, I pray thee, speak; good, good nurse, speak."
+        ],
+        [
+            "Nurse",
+            "Jesu, what haste? can you not stay awhile?"
+        ],
+        [
+            "Nurse",
+            "Do you not see that I am out of breath?"
+        ],
+        [
+            "JULIET",
+            "How art thou out of breath, when thou hast breath"
+        ],
+        [
+            "JULIET",
+            "To say to me that thou art out of breath?"
+        ],
+        [
+            "JULIET",
+            "The excuse that thou dost make in this delay"
+        ],
+        [
+            "JULIET",
+            "Is longer than the tale thou dost excuse."
+        ],
+        [
+            "JULIET",
+            "Is thy news good, or bad? answer to that;"
+        ],
+        [
+            "JULIET",
+            "Say either, and I'll stay the circumstance:"
+        ],
+        [
+            "JULIET",
+            "Let me be satisfied, is't good or bad?"
+        ],
+        [
+            "Nurse",
+            "Well, you have made a simple choice; you know not"
+        ],
+        [
+            "Nurse",
+            "how to choose a man: Romeo! no, not he; though his"
+        ],
+        [
+            "Nurse",
+            "face be better than any man's, yet his leg excels"
+        ],
+        [
+            "Nurse",
+            "all men's; and for a hand, and a foot, and a body,"
+        ],
+        [
+            "Nurse",
+            "though they be not to be talked on, yet they are"
+        ],
+        [
+            "Nurse",
+            "past compare: he is not the flower of courtesy,"
+        ],
+        [
+            "Nurse",
+            "but, I'll warrant him, as gentle as a lamb. Go thy"
+        ],
+        [
+            "Nurse",
+            "ways, wench; serve God. What, have you dined at home?"
+        ],
+        [
+            "JULIET",
+            "No, no: but all this did I know before."
+        ],
+        [
+            "JULIET",
+            "What says he of our marriage? what of that?"
+        ],
+        [
+            "Nurse",
+            "Lord, how my head aches! what a head have I!"
+        ],
+        [
+            "Nurse",
+            "It beats as it would fall in twenty pieces."
+        ],
+        [
+            "Nurse",
+            "My back o' t' other side,--O, my back, my back!"
+        ],
+        [
+            "Nurse",
+            "Beshrew your heart for sending me about,"
+        ],
+        [
+            "Nurse",
+            "To catch my death with jaunting up and down!"
+        ],
+        [
+            "JULIET",
+            "I' faith, I am sorry that thou art not well."
+        ],
+        [
+            "JULIET",
+            "Sweet, sweet, sweet nurse, tell me, what says my love?"
+        ],
+        [
+            "Nurse",
+            "Your love says, like an honest gentleman, and a"
+        ],
+        [
+            "Nurse",
+            "courteous, and a kind, and a handsome, and, I"
+        ],
+        [
+            "Nurse",
+            "warrant, a virtuous,--Where is your mother?"
+        ],
+        [
+            "JULIET",
+            "Where is my mother! why, she is within;"
+        ],
+        [
+            "JULIET",
+            "Where should she be? How oddly thou repliest!"
+        ],
+        [
+            "JULIET",
+            "'Your love says, like an honest gentleman,"
+        ],
+        [
+            "JULIET",
+            "Where is your mother?'"
+        ],
+        [
+            "Nurse",
+            "O God's lady dear!"
+        ],
+        [
+            "Nurse",
+            "Are you so hot? marry, come up, I trow;"
+        ],
+        [
+            "Nurse",
+            "Is this the poultice for my aching bones?"
+        ],
+        [
+            "Nurse",
+            "Henceforward do your messages yourself."
+        ],
+        [
+            "JULIET",
+            "Here's such a coil! come, what says Romeo?"
+        ],
+        [
+            "Nurse",
+            "Have you got leave to go to shrift to-day?"
+        ],
+        [
+            "JULIET",
+            "I have."
+        ],
+        [
+            "Nurse",
+            "Then hie you hence to Friar Laurence' cell;"
+        ],
+        [
+            "Nurse",
+            "There stays a husband to make you a wife:"
+        ],
+        [
+            "Nurse",
+            "Now comes the wanton blood up in your cheeks,"
+        ],
+        [
+            "Nurse",
+            "They'll be in scarlet straight at any news."
+        ],
+        [
+            "Nurse",
+            "Hie you to church; I must another way,"
+        ],
+        [
+            "Nurse",
+            "To fetch a ladder, by the which your love"
+        ],
+        [
+            "Nurse",
+            "Must climb a bird's nest soon when it is dark:"
+        ],
+        [
+            "Nurse",
+            "I am the drudge and toil in your delight,"
+        ],
+        [
+            "Nurse",
+            "But you shall bear the burden soon at night."
+        ],
+        [
+            "Nurse",
+            "Go; I'll to dinner: hie you to the cell."
+        ],
+        [
+            "JULIET",
+            "Hie to high fortune! Honest nurse, farewell.",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter JULIET"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter Nurse and PETER"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit PETER"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "JULIET": [
+            [
+                "1",
+                "20"
+            ],
+            [
+                "22",
+                "25"
+            ],
+            [
+                "28",
+                "29"
+            ],
+            [
+                "32",
+                "38"
+            ],
+            [
+                "47",
+                "48"
+            ],
+            [
+                "54",
+                "55"
+            ],
+            [
+                "59",
+                "62"
+            ],
+            [
+                "67",
+                "67"
+            ],
+            [
+                "69",
+                "69"
+            ],
+            [
+                "80",
+                "80"
+            ]
+        ],
+        "Nurse": [
+            [
+                "21",
+                "21"
+            ],
+            [
+                "26",
+                "27"
+            ],
+            [
+                "30",
+                "31"
+            ],
+            [
+                "39",
+                "46"
+            ],
+            [
+                "49",
+                "53"
+            ],
+            [
+                "56",
+                "58"
+            ],
+            [
+                "63",
+                "66"
+            ],
+            [
+                "68",
+                "68"
+            ],
+            [
+                "70",
+                "79"
+            ]
+        ]
+    },
+    "scene_name": "SCENE V",
+    "scene_description": "Capulet's orchard."
+}

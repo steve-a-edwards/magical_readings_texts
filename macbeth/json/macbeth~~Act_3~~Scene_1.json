@@ -1,0 +1,827 @@
+{
+    "scene_id": "macbeth~~Act_3~~Scene_1",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "BANQUO",
+            "Thou hast it now: king, Cawdor, Glamis, all,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "BANQUO",
+            "As the weird women promised, and, I fear,"
+        ],
+        [
+            "BANQUO",
+            "Thou play'dst most foully for't: yet it was said"
+        ],
+        [
+            "BANQUO",
+            "It should not stand in thy posterity,"
+        ],
+        [
+            "BANQUO",
+            "But that myself should be the root and father"
+        ],
+        [
+            "BANQUO",
+            "Of many kings. If there come truth from them--"
+        ],
+        [
+            "BANQUO",
+            "As upon thee, Macbeth, their speeches shine--"
+        ],
+        [
+            "BANQUO",
+            "Why, by the verities on thee made good,"
+        ],
+        [
+            "BANQUO",
+            "May they not be my oracles as well,"
+        ],
+        [
+            "BANQUO",
+            "And set me up in hope? But hush! no more.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "MACBETH",
+            "Here's our chief guest.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "LADY MACBETH",
+            "If he had been forgotten,"
+        ],
+        [
+            "LADY MACBETH",
+            "It had been as a gap in our great feast,"
+        ],
+        [
+            "LADY MACBETH",
+            "And all-thing unbecoming."
+        ],
+        [
+            "MACBETH",
+            "To-night we hold a solemn supper sir,"
+        ],
+        [
+            "MACBETH",
+            "And I'll request your presence."
+        ],
+        [
+            "BANQUO",
+            "Let your highness"
+        ],
+        [
+            "BANQUO",
+            "Command upon me; to the which my duties"
+        ],
+        [
+            "BANQUO",
+            "Are with a most indissoluble tie"
+        ],
+        [
+            "BANQUO",
+            "For ever knit."
+        ],
+        [
+            "MACBETH",
+            "Ride you this afternoon?"
+        ],
+        [
+            "BANQUO",
+            "Ay, my good lord."
+        ],
+        [
+            "MACBETH",
+            "We should have else desired your good advice,"
+        ],
+        [
+            "MACBETH",
+            "Which still hath been both grave and prosperous,"
+        ],
+        [
+            "MACBETH",
+            "In this day's council; but we'll take to-morrow."
+        ],
+        [
+            "MACBETH",
+            "Is't far you ride?"
+        ],
+        [
+            "BANQUO",
+            "As far, my lord, as will fill up the time"
+        ],
+        [
+            "BANQUO",
+            "'Twixt this and supper: go not my horse the better,"
+        ],
+        [
+            "BANQUO",
+            "I must become a borrower of the night"
+        ],
+        [
+            "BANQUO",
+            "For a dark hour or twain."
+        ],
+        [
+            "MACBETH",
+            "Fail not our feast."
+        ],
+        [
+            "BANQUO",
+            "My lord, I will not."
+        ],
+        [
+            "MACBETH",
+            "We hear, our bloody cousins are bestow'd"
+        ],
+        [
+            "MACBETH",
+            "In England and in Ireland, not confessing"
+        ],
+        [
+            "MACBETH",
+            "Their cruel parricide, filling their hearers"
+        ],
+        [
+            "MACBETH",
+            "With strange invention: but of that to-morrow,"
+        ],
+        [
+            "MACBETH",
+            "When therewithal we shall have cause of state"
+        ],
+        [
+            "MACBETH",
+            "Craving us jointly. Hie you to horse: adieu,"
+        ],
+        [
+            "MACBETH",
+            "Till you return at night. Goes Fleance with you?"
+        ],
+        [
+            "BANQUO",
+            "Ay, my good lord: our time does call upon 's."
+        ],
+        [
+            "MACBETH",
+            "I wish your horses swift and sure of foot;"
+        ],
+        [
+            "MACBETH",
+            "And so I do commend you to their backs. Farewell."
+        ],
+        [
+            "MACBETH",
+            "Let every man be master of his time"
+        ],
+        [
+            "MACBETH",
+            "Till seven at night: to make society"
+        ],
+        [
+            "MACBETH",
+            "The sweeter welcome, we will keep ourself"
+        ],
+        [
+            "MACBETH",
+            "Till supper-time alone: while then, God be with you!"
+        ],
+        [
+            "MACBETH",
+            "Sirrah, a word with you: attend those men"
+        ],
+        [
+            "MACBETH",
+            "Our pleasure?",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "ATTENDANT",
+            "They are, my lord, without the palace gate.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "MACBETH",
+            "Bring them before us."
+        ],
+        [
+            "MACBETH",
+            "To be thus is nothing;"
+        ],
+        [
+            "MACBETH",
+            "But to be safely thus.--Our fears in Banquo"
+        ],
+        [
+            "MACBETH",
+            "Stick deep; and in his royalty of nature"
+        ],
+        [
+            "MACBETH",
+            "Reigns that which would be fear'd: 'tis much he dares;"
+        ],
+        [
+            "MACBETH",
+            "And, to that dauntless temper of his mind,"
+        ],
+        [
+            "MACBETH",
+            "He hath a wisdom that doth guide his valour"
+        ],
+        [
+            "MACBETH",
+            "To act in safety. There is none but he"
+        ],
+        [
+            "MACBETH",
+            "Whose being I do fear: and, under him,"
+        ],
+        [
+            "MACBETH",
+            "My Genius is rebuked; as, it is said,"
+        ],
+        [
+            "MACBETH",
+            "Mark Antony's was by Caesar. He chid the sisters"
+        ],
+        [
+            "MACBETH",
+            "When first they put the name of king upon me,"
+        ],
+        [
+            "MACBETH",
+            "And bade them speak to him: then prophet-like"
+        ],
+        [
+            "MACBETH",
+            "They hail'd him father to a line of kings:"
+        ],
+        [
+            "MACBETH",
+            "Upon my head they placed a fruitless crown,"
+        ],
+        [
+            "MACBETH",
+            "And put a barren sceptre in my gripe,"
+        ],
+        [
+            "MACBETH",
+            "Thence to be wrench'd with an unlineal hand,"
+        ],
+        [
+            "MACBETH",
+            "No son of mine succeeding. If 't be so,"
+        ],
+        [
+            "MACBETH",
+            "For Banquo's issue have I filed my mind;"
+        ],
+        [
+            "MACBETH",
+            "For them the gracious Duncan have I murder'd;"
+        ],
+        [
+            "MACBETH",
+            "Put rancours in the vessel of my peace"
+        ],
+        [
+            "MACBETH",
+            "Only for them; and mine eternal jewel"
+        ],
+        [
+            "MACBETH",
+            "Given to the common enemy of man,"
+        ],
+        [
+            "MACBETH",
+            "To make them kings, the seed of Banquo kings!"
+        ],
+        [
+            "MACBETH",
+            "Rather than so, come fate into the list."
+        ],
+        [
+            "MACBETH",
+            "And champion me to the utterance! Who's there!"
+        ],
+        [
+            "MACBETH",
+            "Now go to the door, and stay there till we call."
+        ],
+        [
+            "MACBETH",
+            "Was it not yesterday we spoke together?",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "First Murderer",
+            "It was, so please your highness.",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "MACBETH",
+            "Well then, now"
+        ],
+        [
+            "MACBETH",
+            "Have you consider'd of my speeches? Know"
+        ],
+        [
+            "MACBETH",
+            "That it was he in the times past which held you"
+        ],
+        [
+            "MACBETH",
+            "So under fortune, which you thought had been"
+        ],
+        [
+            "MACBETH",
+            "Our innocent self: this I made good to you"
+        ],
+        [
+            "MACBETH",
+            "In our last conference, pass'd in probation with you,"
+        ],
+        [
+            "MACBETH",
+            "How you were borne in hand, how cross'd,"
+        ],
+        [
+            "MACBETH",
+            "the instruments,"
+        ],
+        [
+            "MACBETH",
+            "Who wrought with them, and all things else that might"
+        ],
+        [
+            "MACBETH",
+            "To half a soul and to a notion crazed"
+        ],
+        [
+            "MACBETH",
+            "Say 'Thus did Banquo.'"
+        ],
+        [
+            "First Murderer",
+            "You made it known to us."
+        ],
+        [
+            "MACBETH",
+            "I did so, and went further, which is now"
+        ],
+        [
+            "MACBETH",
+            "Our point of second meeting. Do you find"
+        ],
+        [
+            "MACBETH",
+            "Your patience so predominant in your nature"
+        ],
+        [
+            "MACBETH",
+            "That you can let this go? Are you so gospell'd"
+        ],
+        [
+            "MACBETH",
+            "To pray for this good man and for his issue,"
+        ],
+        [
+            "MACBETH",
+            "Whose heavy hand hath bow'd you to the grave"
+        ],
+        [
+            "MACBETH",
+            "And beggar'd yours for ever?"
+        ],
+        [
+            "First Murderer",
+            "We are men, my liege."
+        ],
+        [
+            "MACBETH",
+            "Ay, in the catalogue ye go for men;"
+        ],
+        [
+            "MACBETH",
+            "As hounds and greyhounds, mongrels, spaniels, curs,"
+        ],
+        [
+            "MACBETH",
+            "Shoughs, water-rugs and demi-wolves, are clept"
+        ],
+        [
+            "MACBETH",
+            "All by the name of dogs: the valued file"
+        ],
+        [
+            "MACBETH",
+            "Distinguishes the swift, the slow, the subtle,"
+        ],
+        [
+            "MACBETH",
+            "The housekeeper, the hunter, every one"
+        ],
+        [
+            "MACBETH",
+            "According to the gift which bounteous nature"
+        ],
+        [
+            "MACBETH",
+            "Hath in him closed; whereby he does receive"
+        ],
+        [
+            "MACBETH",
+            "Particular addition. from the bill"
+        ],
+        [
+            "MACBETH",
+            "That writes them all alike: and so of men."
+        ],
+        [
+            "MACBETH",
+            "Now, if you have a station in the file,"
+        ],
+        [
+            "MACBETH",
+            "Not i' the worst rank of manhood, say 't;"
+        ],
+        [
+            "MACBETH",
+            "And I will put that business in your bosoms,"
+        ],
+        [
+            "MACBETH",
+            "Whose execution takes your enemy off,"
+        ],
+        [
+            "MACBETH",
+            "Grapples you to the heart and love of us,"
+        ],
+        [
+            "MACBETH",
+            "Who wear our health but sickly in his life,"
+        ],
+        [
+            "MACBETH",
+            "Which in his death were perfect."
+        ],
+        [
+            "Second Murderer",
+            "I am one, my liege,"
+        ],
+        [
+            "Second Murderer",
+            "Whom the vile blows and buffets of the world"
+        ],
+        [
+            "Second Murderer",
+            "Have so incensed that I am reckless what"
+        ],
+        [
+            "Second Murderer",
+            "I do to spite the world."
+        ],
+        [
+            "First Murderer",
+            "And I another"
+        ],
+        [
+            "First Murderer",
+            "So weary with disasters, tugg'd with fortune,"
+        ],
+        [
+            "First Murderer",
+            "That I would set my lie on any chance,"
+        ],
+        [
+            "First Murderer",
+            "To mend it, or be rid on't."
+        ],
+        [
+            "MACBETH",
+            "Both of you"
+        ],
+        [
+            "MACBETH",
+            "Know Banquo was your enemy."
+        ],
+        [
+            "Both Murderers",
+            "True, my lord."
+        ],
+        [
+            "MACBETH",
+            "So is he mine; and in such bloody distance,"
+        ],
+        [
+            "MACBETH",
+            "That every minute of his being thrusts"
+        ],
+        [
+            "MACBETH",
+            "Against my near'st of life: and though I could"
+        ],
+        [
+            "MACBETH",
+            "With barefaced power sweep him from my sight"
+        ],
+        [
+            "MACBETH",
+            "And bid my will avouch it, yet I must not,"
+        ],
+        [
+            "MACBETH",
+            "For certain friends that are both his and mine,"
+        ],
+        [
+            "MACBETH",
+            "Whose loves I may not drop, but wail his fall"
+        ],
+        [
+            "MACBETH",
+            "Who I myself struck down; and thence it is,"
+        ],
+        [
+            "MACBETH",
+            "That I to your assistance do make love,"
+        ],
+        [
+            "MACBETH",
+            "Masking the business from the common eye"
+        ],
+        [
+            "MACBETH",
+            "For sundry weighty reasons."
+        ],
+        [
+            "Second Murderer",
+            "We shall, my lord,"
+        ],
+        [
+            "Second Murderer",
+            "Perform what you command us."
+        ],
+        [
+            "First Murderer",
+            "Though our lives--"
+        ],
+        [
+            "MACBETH",
+            "Your spirits shine through you. Within this hour at most"
+        ],
+        [
+            "MACBETH",
+            "I will advise you where to plant yourselves;"
+        ],
+        [
+            "MACBETH",
+            "Acquaint you with the perfect spy o' the time,"
+        ],
+        [
+            "MACBETH",
+            "The moment on't; for't must be done to-night,"
+        ],
+        [
+            "MACBETH",
+            "And something from the palace; always thought"
+        ],
+        [
+            "MACBETH",
+            "That I require a clearness: and with him--"
+        ],
+        [
+            "MACBETH",
+            "To leave no rubs nor botches in the work--"
+        ],
+        [
+            "MACBETH",
+            "Fleance his son, that keeps him company,"
+        ],
+        [
+            "MACBETH",
+            "Whose absence is no less material to me"
+        ],
+        [
+            "MACBETH",
+            "Than is his father's, must embrace the fate"
+        ],
+        [
+            "MACBETH",
+            "Of that dark hour. Resolve yourselves apart:"
+        ],
+        [
+            "MACBETH",
+            "I'll come to you anon."
+        ],
+        [
+            "Both Murderers",
+            "We are resolved, my lord."
+        ],
+        [
+            "MACBETH",
+            "I'll call upon you straight: abide within."
+        ],
+        [
+            "MACBETH",
+            "It is concluded. Banquo, thy soul's flight,"
+        ],
+        [
+            "MACBETH",
+            "If it find heaven, must find it out to-night.",
+            {
+                "following_direction_line": "5"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter BANQUO"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Sennet sounded. Enter MACBETH, as king, LADY MACBETH, as queen, LENNOX, ROSS, Lords, Ladies, and Attendants"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit BANQUO. Exeunt all but MACBETH, and an attendant"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit Attendant. Re-enter Attendant, with two Murderers. Exit Attendant"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt Murderers. Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "BANQUO": [
+            [
+                "1",
+                "10"
+            ],
+            [
+                "17",
+                "20"
+            ],
+            [
+                "22",
+                "22"
+            ],
+            [
+                "27",
+                "30"
+            ],
+            [
+                "32",
+                "32"
+            ],
+            [
+                "40",
+                "40"
+            ]
+        ],
+        "MACBETH": [
+            [
+                "11",
+                "11"
+            ],
+            [
+                "15",
+                "16"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "23",
+                "26"
+            ],
+            [
+                "31",
+                "31"
+            ],
+            [
+                "33",
+                "39"
+            ],
+            [
+                "41",
+                "48"
+            ],
+            [
+                "50",
+                "77"
+            ],
+            [
+                "79",
+                "89"
+            ],
+            [
+                "91",
+                "97"
+            ],
+            [
+                "99",
+                "115"
+            ],
+            [
+                "124",
+                "125"
+            ],
+            [
+                "127",
+                "137"
+            ],
+            [
+                "141",
+                "152"
+            ],
+            [
+                "154",
+                "156"
+            ]
+        ],
+        "LADY MACBETH": [
+            [
+                "12",
+                "14"
+            ]
+        ],
+        "ATTENDANT": [
+            [
+                "49",
+                "49"
+            ]
+        ],
+        "First Murderer": [
+            [
+                "78",
+                "78"
+            ],
+            [
+                "90",
+                "90"
+            ],
+            [
+                "98",
+                "98"
+            ],
+            [
+                "120",
+                "123"
+            ],
+            [
+                "140",
+                "140"
+            ]
+        ],
+        "Second Murderer": [
+            [
+                "116",
+                "119"
+            ],
+            [
+                "138",
+                "139"
+            ]
+        ],
+        "Both Murderers": [
+            [
+                "126",
+                "126"
+            ],
+            [
+                "153",
+                "153"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "Forres. The palace."
+}

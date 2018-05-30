@@ -1,0 +1,1136 @@
+{
+    "scene_id": "romeo and juliet~~Act_2~~Scene_2",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "ROMEO",
+            "He jests at scars that never felt a wound.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "ROMEO",
+            "But, soft! what light through yonder window breaks?"
+        ],
+        [
+            "ROMEO",
+            "It is the east, and Juliet is the sun."
+        ],
+        [
+            "ROMEO",
+            "Arise, fair sun, and kill the envious moon,"
+        ],
+        [
+            "ROMEO",
+            "Who is already sick and pale with grief,"
+        ],
+        [
+            "ROMEO",
+            "That thou her maid art far more fair than she:"
+        ],
+        [
+            "ROMEO",
+            "Be not her maid, since she is envious;"
+        ],
+        [
+            "ROMEO",
+            "Her vestal livery is but sick and green"
+        ],
+        [
+            "ROMEO",
+            "And none but fools do wear it; cast it off."
+        ],
+        [
+            "ROMEO",
+            "It is my lady, O, it is my love!"
+        ],
+        [
+            "ROMEO",
+            "O, that she knew she were!"
+        ],
+        [
+            "ROMEO",
+            "She speaks yet she says nothing: what of that?"
+        ],
+        [
+            "ROMEO",
+            "Her eye discourses; I will answer it."
+        ],
+        [
+            "ROMEO",
+            "I am too bold, 'tis not to me she speaks:"
+        ],
+        [
+            "ROMEO",
+            "Two of the fairest stars in all the heaven,"
+        ],
+        [
+            "ROMEO",
+            "Having some business, do entreat her eyes"
+        ],
+        [
+            "ROMEO",
+            "To twinkle in their spheres till they return."
+        ],
+        [
+            "ROMEO",
+            "What if her eyes were there, they in her head?"
+        ],
+        [
+            "ROMEO",
+            "The brightness of her cheek would shame those stars,"
+        ],
+        [
+            "ROMEO",
+            "As daylight doth a lamp; her eyes in heaven"
+        ],
+        [
+            "ROMEO",
+            "Would through the airy region stream so bright"
+        ],
+        [
+            "ROMEO",
+            "That birds would sing and think it were not night."
+        ],
+        [
+            "ROMEO",
+            "See, how she leans her cheek upon her hand!"
+        ],
+        [
+            "ROMEO",
+            "O, that I were a glove upon that hand,"
+        ],
+        [
+            "ROMEO",
+            "That I might touch that cheek!",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "JULIET",
+            "Ay me!",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "ROMEO",
+            "She speaks:"
+        ],
+        [
+            "ROMEO",
+            "O, speak again, bright angel! for thou art"
+        ],
+        [
+            "ROMEO",
+            "As glorious to this night, being o'er my head"
+        ],
+        [
+            "ROMEO",
+            "As is a winged messenger of heaven"
+        ],
+        [
+            "ROMEO",
+            "Unto the white-upturned wondering eyes"
+        ],
+        [
+            "ROMEO",
+            "Of mortals that fall back to gaze on him"
+        ],
+        [
+            "ROMEO",
+            "When he bestrides the lazy-pacing clouds"
+        ],
+        [
+            "ROMEO",
+            "And sails upon the bosom of the air."
+        ],
+        [
+            "JULIET",
+            "O Romeo, Romeo! wherefore art thou Romeo?"
+        ],
+        [
+            "JULIET",
+            "Deny thy father and refuse thy name;"
+        ],
+        [
+            "JULIET",
+            "Or, if thou wilt not, be but sworn my love,"
+        ],
+        [
+            "JULIET",
+            "And I'll no longer be a Capulet."
+        ],
+        [
+            "ROMEO",
+            "[Aside] Shall I hear more, or shall I speak at this?"
+        ],
+        [
+            "JULIET",
+            "'Tis but thy name that is my enemy;"
+        ],
+        [
+            "JULIET",
+            "Thou art thyself, though not a Montague."
+        ],
+        [
+            "JULIET",
+            "What's Montague? it is nor hand, nor foot,"
+        ],
+        [
+            "JULIET",
+            "Nor arm, nor face, nor any other part"
+        ],
+        [
+            "JULIET",
+            "Belonging to a man. O, be some other name!"
+        ],
+        [
+            "JULIET",
+            "What's in a name? that which we call a rose"
+        ],
+        [
+            "JULIET",
+            "By any other name would smell as sweet;"
+        ],
+        [
+            "JULIET",
+            "So Romeo would, were he not Romeo call'd,"
+        ],
+        [
+            "JULIET",
+            "Retain that dear perfection which he owes"
+        ],
+        [
+            "JULIET",
+            "Without that title. Romeo, doff thy name,"
+        ],
+        [
+            "JULIET",
+            "And for that name which is no part of thee"
+        ],
+        [
+            "JULIET",
+            "Take all myself."
+        ],
+        [
+            "ROMEO",
+            "I take thee at thy word:"
+        ],
+        [
+            "ROMEO",
+            "Call me but love, and I'll be new baptized;"
+        ],
+        [
+            "ROMEO",
+            "Henceforth I never will be Romeo."
+        ],
+        [
+            "JULIET",
+            "What man art thou that thus bescreen'd in night"
+        ],
+        [
+            "JULIET",
+            "So stumblest on my counsel?"
+        ],
+        [
+            "ROMEO",
+            "By a name"
+        ],
+        [
+            "ROMEO",
+            "I know not how to tell thee who I am:"
+        ],
+        [
+            "ROMEO",
+            "My name, dear saint, is hateful to myself,"
+        ],
+        [
+            "ROMEO",
+            "Because it is an enemy to thee;"
+        ],
+        [
+            "ROMEO",
+            "Had I it written, I would tear the word."
+        ],
+        [
+            "JULIET",
+            "My ears have not yet drunk a hundred words"
+        ],
+        [
+            "JULIET",
+            "Of that tongue's utterance, yet I know the sound:"
+        ],
+        [
+            "JULIET",
+            "Art thou not Romeo and a Montague?"
+        ],
+        [
+            "ROMEO",
+            "Neither, fair saint, if either thee dislike."
+        ],
+        [
+            "JULIET",
+            "How camest thou hither, tell me, and wherefore?"
+        ],
+        [
+            "JULIET",
+            "The orchard walls are high and hard to climb,"
+        ],
+        [
+            "JULIET",
+            "And the place death, considering who thou art,"
+        ],
+        [
+            "JULIET",
+            "If any of my kinsmen find thee here."
+        ],
+        [
+            "ROMEO",
+            "With love's light wings did I o'er-perch these walls;"
+        ],
+        [
+            "ROMEO",
+            "For stony limits cannot hold love out,"
+        ],
+        [
+            "ROMEO",
+            "And what love can do that dares love attempt;"
+        ],
+        [
+            "ROMEO",
+            "Therefore thy kinsmen are no let to me."
+        ],
+        [
+            "JULIET",
+            "If they do see thee, they will murder thee."
+        ],
+        [
+            "ROMEO",
+            "Alack, there lies more peril in thine eye"
+        ],
+        [
+            "ROMEO",
+            "Than twenty of their swords: look thou but sweet,"
+        ],
+        [
+            "ROMEO",
+            "And I am proof against their enmity."
+        ],
+        [
+            "JULIET",
+            "I would not for the world they saw thee here."
+        ],
+        [
+            "ROMEO",
+            "I have night's cloak to hide me from their sight;"
+        ],
+        [
+            "ROMEO",
+            "And but thou love me, let them find me here:"
+        ],
+        [
+            "ROMEO",
+            "My life were better ended by their hate,"
+        ],
+        [
+            "ROMEO",
+            "Than death prorogued, wanting of thy love."
+        ],
+        [
+            "JULIET",
+            "By whose direction found'st thou out this place?"
+        ],
+        [
+            "ROMEO",
+            "By love, who first did prompt me to inquire;"
+        ],
+        [
+            "ROMEO",
+            "He lent me counsel and I lent him eyes."
+        ],
+        [
+            "ROMEO",
+            "I am no pilot; yet, wert thou as far"
+        ],
+        [
+            "ROMEO",
+            "As that vast shore wash'd with the farthest sea,"
+        ],
+        [
+            "ROMEO",
+            "I would adventure for such merchandise."
+        ],
+        [
+            "JULIET",
+            "Thou know'st the mask of night is on my face,"
+        ],
+        [
+            "JULIET",
+            "Else would a maiden blush bepaint my cheek"
+        ],
+        [
+            "JULIET",
+            "For that which thou hast heard me speak to-night"
+        ],
+        [
+            "JULIET",
+            "Fain would I dwell on form, fain, fain deny"
+        ],
+        [
+            "JULIET",
+            "What I have spoke: but farewell compliment!"
+        ],
+        [
+            "JULIET",
+            "Dost thou love me? I know thou wilt say 'Ay,'"
+        ],
+        [
+            "JULIET",
+            "And I will take thy word: yet if thou swear'st,"
+        ],
+        [
+            "JULIET",
+            "Thou mayst prove false; at lovers' perjuries"
+        ],
+        [
+            "JULIET",
+            "Then say, Jove laughs. O gentle Romeo,"
+        ],
+        [
+            "JULIET",
+            "If thou dost love, pronounce it faithfully:"
+        ],
+        [
+            "JULIET",
+            "Or if thou think'st I am too quickly won,"
+        ],
+        [
+            "JULIET",
+            "I'll frown and be perverse an say thee nay,"
+        ],
+        [
+            "JULIET",
+            "So thou wilt woo; but else, not for the world."
+        ],
+        [
+            "JULIET",
+            "In truth, fair Montague, I am too fond,"
+        ],
+        [
+            "JULIET",
+            "And therefore thou mayst think my 'havior light:"
+        ],
+        [
+            "JULIET",
+            "But trust me, gentleman, I'll prove more true"
+        ],
+        [
+            "JULIET",
+            "Than those that have more cunning to be strange."
+        ],
+        [
+            "JULIET",
+            "I should have been more strange, I must confess,"
+        ],
+        [
+            "JULIET",
+            "But that thou overheard'st, ere I was ware,"
+        ],
+        [
+            "JULIET",
+            "My true love's passion: therefore pardon me,"
+        ],
+        [
+            "JULIET",
+            "And not impute this yielding to light love,"
+        ],
+        [
+            "JULIET",
+            "Which the dark night hath so discovered."
+        ],
+        [
+            "ROMEO",
+            "Lady, by yonder blessed moon I swear"
+        ],
+        [
+            "ROMEO",
+            "That tips with silver all these fruit-tree tops--"
+        ],
+        [
+            "JULIET",
+            "O, swear not by the moon, the inconstant moon,"
+        ],
+        [
+            "JULIET",
+            "That monthly changes in her circled orb,"
+        ],
+        [
+            "JULIET",
+            "Lest that thy love prove likewise variable."
+        ],
+        [
+            "ROMEO",
+            "What shall I swear by?"
+        ],
+        [
+            "JULIET",
+            "Do not swear at all;"
+        ],
+        [
+            "JULIET",
+            "Or, if thou wilt, swear by thy gracious self,"
+        ],
+        [
+            "JULIET",
+            "Which is the god of my idolatry,"
+        ],
+        [
+            "JULIET",
+            "And I'll believe thee."
+        ],
+        [
+            "ROMEO",
+            "If my heart's dear love--"
+        ],
+        [
+            "JULIET",
+            "Well, do not swear: although I joy in thee,"
+        ],
+        [
+            "JULIET",
+            "I have no joy of this contract to-night:"
+        ],
+        [
+            "JULIET",
+            "It is too rash, too unadvised, too sudden;"
+        ],
+        [
+            "JULIET",
+            "Too like the lightning, which doth cease to be"
+        ],
+        [
+            "JULIET",
+            "Ere one can say 'It lightens.' Sweet, good night!"
+        ],
+        [
+            "JULIET",
+            "This bud of love, by summer's ripening breath,"
+        ],
+        [
+            "JULIET",
+            "May prove a beauteous flower when next we meet."
+        ],
+        [
+            "JULIET",
+            "Good night, good night! as sweet repose and rest"
+        ],
+        [
+            "JULIET",
+            "Come to thy heart as that within my breast!"
+        ],
+        [
+            "ROMEO",
+            "O, wilt thou leave me so unsatisfied?"
+        ],
+        [
+            "JULIET",
+            "What satisfaction canst thou have to-night?"
+        ],
+        [
+            "ROMEO",
+            "The exchange of thy love's faithful vow for mine."
+        ],
+        [
+            "JULIET",
+            "I gave thee mine before thou didst request it:"
+        ],
+        [
+            "JULIET",
+            "And yet I would it were to give again."
+        ],
+        [
+            "ROMEO",
+            "Wouldst thou withdraw it? for what purpose, love?"
+        ],
+        [
+            "JULIET",
+            "But to be frank, and give it thee again."
+        ],
+        [
+            "JULIET",
+            "And yet I wish but for the thing I have:"
+        ],
+        [
+            "JULIET",
+            "My bounty is as boundless as the sea,"
+        ],
+        [
+            "JULIET",
+            "My love as deep; the more I give to thee,"
+        ],
+        [
+            "JULIET",
+            "The more I have, for both are infinite."
+        ],
+        [
+            "JULIET",
+            "I hear some noise within; dear love, adieu!"
+        ],
+        [
+            "JULIET",
+            "Anon, good nurse! Sweet Montague, be true."
+        ],
+        [
+            "JULIET",
+            "Stay but a little, I will come again.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "ROMEO",
+            "O blessed, blessed night! I am afeard.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "ROMEO",
+            "Being in night, all this is but a dream,"
+        ],
+        [
+            "ROMEO",
+            "Too flattering-sweet to be substantial.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "JULIET",
+            "Three words, dear Romeo, and good night indeed.",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "JULIET",
+            "If that thy bent of love be honourable,"
+        ],
+        [
+            "JULIET",
+            "Thy purpose marriage, send me word to-morrow,"
+        ],
+        [
+            "JULIET",
+            "By one that I'll procure to come to thee,"
+        ],
+        [
+            "JULIET",
+            "Where and what time thou wilt perform the rite;"
+        ],
+        [
+            "JULIET",
+            "And all my fortunes at thy foot I'll lay"
+        ],
+        [
+            "JULIET",
+            "And follow thee my lord throughout the world."
+        ],
+        [
+            "Nurse",
+            "[Within] Madam!"
+        ],
+        [
+            "JULIET",
+            "I come, anon.--But if thou mean'st not well,"
+        ],
+        [
+            "JULIET",
+            "I do beseech thee--"
+        ],
+        [
+            "Nurse",
+            "[Within] Madam!"
+        ],
+        [
+            "JULIET",
+            "By and by, I come:--"
+        ],
+        [
+            "JULIET",
+            "To cease thy suit, and leave me to my grief:"
+        ],
+        [
+            "JULIET",
+            "To-morrow will I send."
+        ],
+        [
+            "ROMEO",
+            "So thrive my soul--"
+        ],
+        [
+            "JULIET",
+            "A thousand times good night!",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "ROMEO",
+            "A thousand times the worse, to want thy light.",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "ROMEO",
+            "Love goes toward love, as schoolboys from"
+        ],
+        [
+            "ROMEO",
+            "their books,"
+        ],
+        [
+            "ROMEO",
+            "But love from love, toward school with heavy looks.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "JULIET",
+            "Hist! Romeo, hist! O, for a falconer's voice,",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "JULIET",
+            "To lure this tassel-gentle back again!"
+        ],
+        [
+            "JULIET",
+            "Bondage is hoarse, and may not speak aloud;"
+        ],
+        [
+            "JULIET",
+            "Else would I tear the cave where Echo lies,"
+        ],
+        [
+            "JULIET",
+            "And make her airy tongue more hoarse than mine,"
+        ],
+        [
+            "JULIET",
+            "With repetition of my Romeo's name."
+        ],
+        [
+            "ROMEO",
+            "It is my soul that calls upon my name:"
+        ],
+        [
+            "ROMEO",
+            "How silver-sweet sound lovers' tongues by night,"
+        ],
+        [
+            "ROMEO",
+            "Like softest music to attending ears!"
+        ],
+        [
+            "JULIET",
+            "Romeo!"
+        ],
+        [
+            "ROMEO",
+            "My dear?"
+        ],
+        [
+            "JULIET",
+            "At what o'clock to-morrow"
+        ],
+        [
+            "JULIET",
+            "Shall I send to thee?"
+        ],
+        [
+            "ROMEO",
+            "At the hour of nine."
+        ],
+        [
+            "JULIET",
+            "I will not fail: 'tis twenty years till then."
+        ],
+        [
+            "JULIET",
+            "I have forgot why I did call thee back."
+        ],
+        [
+            "ROMEO",
+            "Let me stand here till thou remember it."
+        ],
+        [
+            "JULIET",
+            "I shall forget, to have thee still stand there,"
+        ],
+        [
+            "JULIET",
+            "Remembering how I love thy company."
+        ],
+        [
+            "ROMEO",
+            "And I'll still stay, to have thee still forget,"
+        ],
+        [
+            "ROMEO",
+            "Forgetting any other home but this."
+        ],
+        [
+            "JULIET",
+            "'Tis almost morning; I would have thee gone:"
+        ],
+        [
+            "JULIET",
+            "And yet no further than a wanton's bird;"
+        ],
+        [
+            "JULIET",
+            "Who lets it hop a little from her hand,"
+        ],
+        [
+            "JULIET",
+            "Like a poor prisoner in his twisted gyves,"
+        ],
+        [
+            "JULIET",
+            "And with a silk thread plucks it back again,"
+        ],
+        [
+            "JULIET",
+            "So loving-jealous of his liberty."
+        ],
+        [
+            "ROMEO",
+            "I would I were thy bird."
+        ],
+        [
+            "JULIET",
+            "Sweet, so would I:"
+        ],
+        [
+            "JULIET",
+            "Yet I should kill thee with much cherishing."
+        ],
+        [
+            "JULIET",
+            "Good night, good night! parting is such"
+        ],
+        [
+            "JULIET",
+            "sweet sorrow,"
+        ],
+        [
+            "JULIET",
+            "That I shall say good night till it be morrow.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "ROMEO",
+            "Sleep dwell upon thine eyes, peace in thy breast!",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "ROMEO",
+            "Would I were sleep and peace, so sweet to rest!"
+        ],
+        [
+            "ROMEO",
+            "Hence will I to my ghostly father's cell,"
+        ],
+        [
+            "ROMEO",
+            "His help to crave, and my dear hap to tell.",
+            {
+                "following_direction_line": "8"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter ROMEO"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "JULIET appears above at a window"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Nurse calls within. Exit, above"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Re-enter JULIET, above"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exit, above"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Retiring. Re-enter JULIET, above"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exit above"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "ROMEO": [
+            [
+                "1",
+                "25"
+            ],
+            [
+                "27",
+                "34"
+            ],
+            [
+                "39",
+                "39"
+            ],
+            [
+                "52",
+                "54"
+            ],
+            [
+                "57",
+                "61"
+            ],
+            [
+                "65",
+                "65"
+            ],
+            [
+                "70",
+                "73"
+            ],
+            [
+                "75",
+                "77"
+            ],
+            [
+                "79",
+                "82"
+            ],
+            [
+                "84",
+                "88"
+            ],
+            [
+                "111",
+                "112"
+            ],
+            [
+                "116",
+                "116"
+            ],
+            [
+                "121",
+                "121"
+            ],
+            [
+                "131",
+                "131"
+            ],
+            [
+                "133",
+                "133"
+            ],
+            [
+                "136",
+                "136"
+            ],
+            [
+                "145",
+                "147"
+            ],
+            [
+                "162",
+                "162"
+            ],
+            [
+                "164",
+                "167"
+            ],
+            [
+                "174",
+                "176"
+            ],
+            [
+                "178",
+                "178"
+            ],
+            [
+                "181",
+                "181"
+            ],
+            [
+                "184",
+                "184"
+            ],
+            [
+                "187",
+                "188"
+            ],
+            [
+                "195",
+                "195"
+            ],
+            [
+                "201",
+                "204"
+            ]
+        ],
+        "JULIET": [
+            [
+                "26",
+                "26"
+            ],
+            [
+                "35",
+                "38"
+            ],
+            [
+                "40",
+                "51"
+            ],
+            [
+                "55",
+                "56"
+            ],
+            [
+                "62",
+                "64"
+            ],
+            [
+                "66",
+                "69"
+            ],
+            [
+                "74",
+                "74"
+            ],
+            [
+                "78",
+                "78"
+            ],
+            [
+                "83",
+                "83"
+            ],
+            [
+                "89",
+                "110"
+            ],
+            [
+                "113",
+                "115"
+            ],
+            [
+                "117",
+                "120"
+            ],
+            [
+                "122",
+                "130"
+            ],
+            [
+                "132",
+                "132"
+            ],
+            [
+                "134",
+                "135"
+            ],
+            [
+                "137",
+                "144"
+            ],
+            [
+                "148",
+                "154"
+            ],
+            [
+                "156",
+                "157"
+            ],
+            [
+                "159",
+                "161"
+            ],
+            [
+                "163",
+                "163"
+            ],
+            [
+                "168",
+                "173"
+            ],
+            [
+                "177",
+                "177"
+            ],
+            [
+                "179",
+                "180"
+            ],
+            [
+                "182",
+                "183"
+            ],
+            [
+                "185",
+                "186"
+            ],
+            [
+                "189",
+                "194"
+            ],
+            [
+                "196",
+                "200"
+            ]
+        ],
+        "Nurse": [
+            [
+                "155",
+                "155"
+            ],
+            [
+                "158",
+                "158"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "Capulet's orchard."
+}

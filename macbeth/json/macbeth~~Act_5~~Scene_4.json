@@ -1,0 +1,186 @@
+{
+    "scene_id": "macbeth~~Act_5~~Scene_4",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "MALCOLM",
+            "Cousins, I hope the days are near at hand",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "MALCOLM",
+            "That chambers will be safe."
+        ],
+        [
+            "MENTEITH",
+            "We doubt it nothing."
+        ],
+        [
+            "SIWARD",
+            "What wood is this before us?"
+        ],
+        [
+            "MENTEITH",
+            "The wood of Birnam."
+        ],
+        [
+            "MALCOLM",
+            "Let every soldier hew him down a bough"
+        ],
+        [
+            "MALCOLM",
+            "And bear't before him: thereby shall we shadow"
+        ],
+        [
+            "MALCOLM",
+            "The numbers of our host and make discovery"
+        ],
+        [
+            "MALCOLM",
+            "Err in report of us."
+        ],
+        [
+            "Soldiers",
+            "It shall be done."
+        ],
+        [
+            "SIWARD",
+            "We learn no other but the confident tyrant"
+        ],
+        [
+            "SIWARD",
+            "Keeps still in Dunsinane, and will endure"
+        ],
+        [
+            "SIWARD",
+            "Our setting down before 't."
+        ],
+        [
+            "MALCOLM",
+            "'Tis his main hope:"
+        ],
+        [
+            "MALCOLM",
+            "For where there is advantage to be given,"
+        ],
+        [
+            "MALCOLM",
+            "Both more and less have given him the revolt,"
+        ],
+        [
+            "MALCOLM",
+            "And none serve with him but constrained things"
+        ],
+        [
+            "MALCOLM",
+            "Whose hearts are absent too."
+        ],
+        [
+            "MACDUFF",
+            "Let our just censures"
+        ],
+        [
+            "MACDUFF",
+            "Attend the true event, and put we on"
+        ],
+        [
+            "MACDUFF",
+            "Industrious soldiership."
+        ],
+        [
+            "SIWARD",
+            "The time approaches"
+        ],
+        [
+            "SIWARD",
+            "That will with due decision make us know"
+        ],
+        [
+            "SIWARD",
+            "What we shall say we have and what we owe."
+        ],
+        [
+            "SIWARD",
+            "Thoughts speculative their unsure hopes relate,"
+        ],
+        [
+            "SIWARD",
+            "But certain issue strokes must arbitrate:"
+        ],
+        [
+            "SIWARD",
+            "Towards which advance the war.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Drum and colours. Enter MALCOLM, SIWARD and YOUNG SIWARD, MACDUFF, MENTEITH, CAITHNESS, ANGUS, LENNOX, ROSS, and Soldiers, marching"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt, marching"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "MALCOLM": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "6",
+                "9"
+            ],
+            [
+                "14",
+                "18"
+            ]
+        ],
+        "MENTEITH": [
+            [
+                "3",
+                "3"
+            ],
+            [
+                "5",
+                "5"
+            ]
+        ],
+        "SIWARD": [
+            [
+                "4",
+                "4"
+            ],
+            [
+                "11",
+                "13"
+            ],
+            [
+                "22",
+                "27"
+            ]
+        ],
+        "Soldiers": [
+            [
+                "10",
+                "10"
+            ]
+        ],
+        "MACDUFF": [
+            [
+                "19",
+                "21"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IV",
+    "scene_description": "Country near Birnam wood."
+}

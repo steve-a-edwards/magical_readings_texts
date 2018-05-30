@@ -1,0 +1,489 @@
+{
+    "scene_id": "hamlet~~Act_4~~Scene_3",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "KING CLAUDIUS",
+            "I have sent to seek him, and to find the body.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "KING CLAUDIUS",
+            "How dangerous is it that this man goes loose!"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Yet must not we put the strong law on him:"
+        ],
+        [
+            "KING CLAUDIUS",
+            "He's loved of the distracted multitude,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Who like not in their judgment, but their eyes;"
+        ],
+        [
+            "KING CLAUDIUS",
+            "And where tis so, the offender's scourge is weigh'd,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "But never the offence. To bear all smooth and even,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "This sudden sending him away must seem"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Deliberate pause: diseases desperate grown"
+        ],
+        [
+            "KING CLAUDIUS",
+            "By desperate appliance are relieved,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Or not at all."
+        ],
+        [
+            "KING CLAUDIUS",
+            "How now! what hath befall'n?",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "ROSENCRANTZ",
+            "Where the dead body is bestow'd, my lord,",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "ROSENCRANTZ",
+            "We cannot get from him."
+        ],
+        [
+            "KING CLAUDIUS",
+            "But where is he?"
+        ],
+        [
+            "ROSENCRANTZ",
+            "Without, my lord; guarded, to know your pleasure."
+        ],
+        [
+            "KING CLAUDIUS",
+            "Bring him before us."
+        ],
+        [
+            "ROSENCRANTZ",
+            "Ho, Guildenstern! bring in my lord.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "KING CLAUDIUS",
+            "Now, Hamlet, where's Polonius?",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "HAMLET",
+            "At supper."
+        ],
+        [
+            "KING CLAUDIUS",
+            "At supper! where?"
+        ],
+        [
+            "HAMLET",
+            "Not where he eats, but where he is eaten: a certain"
+        ],
+        [
+            "HAMLET",
+            "convocation of politic worms are e'en at him. Your"
+        ],
+        [
+            "HAMLET",
+            "worm is your only emperor for diet: we fat all"
+        ],
+        [
+            "HAMLET",
+            "creatures else to fat us, and we fat ourselves for"
+        ],
+        [
+            "HAMLET",
+            "maggots: your fat king and your lean beggar is but"
+        ],
+        [
+            "HAMLET",
+            "variable service, two dishes, but to one table:"
+        ],
+        [
+            "HAMLET",
+            "that's the end."
+        ],
+        [
+            "KING CLAUDIUS",
+            "Alas, alas!"
+        ],
+        [
+            "HAMLET",
+            "A man may fish with the worm that hath eat of a"
+        ],
+        [
+            "HAMLET",
+            "king, and eat of the fish that hath fed of that worm."
+        ],
+        [
+            "KING CLAUDIUS",
+            "What dost you mean by this?"
+        ],
+        [
+            "HAMLET",
+            "Nothing but to show you how a king may go a"
+        ],
+        [
+            "HAMLET",
+            "progress through the guts of a beggar."
+        ],
+        [
+            "KING CLAUDIUS",
+            "Where is Polonius?"
+        ],
+        [
+            "HAMLET",
+            "In heaven; send hither to see: if your messenger"
+        ],
+        [
+            "HAMLET",
+            "find him not there, seek him i' the other place"
+        ],
+        [
+            "HAMLET",
+            "yourself. But indeed, if you find him not within"
+        ],
+        [
+            "HAMLET",
+            "this month, you shall nose him as you go up the"
+        ],
+        [
+            "HAMLET",
+            "stairs into the lobby."
+        ],
+        [
+            "KING CLAUDIUS",
+            "Go seek him there.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "HAMLET",
+            "He will stay till ye come.",
+            {
+                "preceding_direction_line": "4"
+            },
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "KING CLAUDIUS",
+            "Hamlet, this deed, for thine especial safety,--",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "KING CLAUDIUS",
+            "Which we do tender, as we dearly grieve"
+        ],
+        [
+            "KING CLAUDIUS",
+            "For that which thou hast done,--must send thee hence"
+        ],
+        [
+            "KING CLAUDIUS",
+            "With fiery quickness: therefore prepare thyself;"
+        ],
+        [
+            "KING CLAUDIUS",
+            "The bark is ready, and the wind at help,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "The associates tend, and every thing is bent"
+        ],
+        [
+            "KING CLAUDIUS",
+            "For England."
+        ],
+        [
+            "HAMLET",
+            "For England!"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Ay, Hamlet."
+        ],
+        [
+            "HAMLET",
+            "Good."
+        ],
+        [
+            "KING CLAUDIUS",
+            "So is it, if thou knew'st our purposes."
+        ],
+        [
+            "HAMLET",
+            "I see a cherub that sees them. But, come; for"
+        ],
+        [
+            "HAMLET",
+            "England! Farewell, dear mother."
+        ],
+        [
+            "KING CLAUDIUS",
+            "Thy loving father, Hamlet."
+        ],
+        [
+            "HAMLET",
+            "My mother: father and mother is man and wife; man"
+        ],
+        [
+            "HAMLET",
+            "and wife is one flesh; and so, my mother. Come, for England!",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "KING CLAUDIUS",
+            "Follow him at foot; tempt him with speed aboard;",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "KING CLAUDIUS",
+            "Delay it not; I'll have him hence to-night:"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Away! for every thing is seal'd and done"
+        ],
+        [
+            "KING CLAUDIUS",
+            "That else leans on the affair: pray you, make haste."
+        ],
+        [
+            "KING CLAUDIUS",
+            "And, England, if my love thou hold'st at aught--"
+        ],
+        [
+            "KING CLAUDIUS",
+            "As my great power thereof may give thee sense,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Since yet thy cicatrice looks raw and red"
+        ],
+        [
+            "KING CLAUDIUS",
+            "After the Danish sword, and thy free awe"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Pays homage to us--thou mayst not coldly set"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Our sovereign process; which imports at full,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "By letters congruing to that effect,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "The present death of Hamlet. Do it, England;"
+        ],
+        [
+            "KING CLAUDIUS",
+            "For like the hectic in my blood he rages,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "And thou must cure me: till I know 'tis done,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Howe'er my haps, my joys were ne'er begun.",
+            {
+                "following_direction_line": "7"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter KING CLAUDIUS, attended"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter ROSENCRANTZ"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter HAMLET and GUILDENSTERN"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "To some Attendants"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt Attendants"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exeunt ROSENCRANTZ and GUILDENSTERN. Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "KING CLAUDIUS": [
+            [
+                "1",
+                "12"
+            ],
+            [
+                "15",
+                "15"
+            ],
+            [
+                "17",
+                "17"
+            ],
+            [
+                "19",
+                "19"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "29",
+                "29"
+            ],
+            [
+                "32",
+                "32"
+            ],
+            [
+                "35",
+                "35"
+            ],
+            [
+                "41",
+                "41"
+            ],
+            [
+                "43",
+                "49"
+            ],
+            [
+                "51",
+                "51"
+            ],
+            [
+                "53",
+                "53"
+            ],
+            [
+                "56",
+                "56"
+            ],
+            [
+                "59",
+                "73"
+            ]
+        ],
+        "ROSENCRANTZ": [
+            [
+                "13",
+                "14"
+            ],
+            [
+                "16",
+                "16"
+            ],
+            [
+                "18",
+                "18"
+            ]
+        ],
+        "HAMLET": [
+            [
+                "20",
+                "20"
+            ],
+            [
+                "22",
+                "28"
+            ],
+            [
+                "30",
+                "31"
+            ],
+            [
+                "33",
+                "34"
+            ],
+            [
+                "36",
+                "40"
+            ],
+            [
+                "42",
+                "42"
+            ],
+            [
+                "50",
+                "50"
+            ],
+            [
+                "52",
+                "52"
+            ],
+            [
+                "54",
+                "55"
+            ],
+            [
+                "57",
+                "58"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "Another room in the castle."
+}

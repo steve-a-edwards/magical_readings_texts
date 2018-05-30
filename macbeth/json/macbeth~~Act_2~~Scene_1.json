@@ -1,0 +1,408 @@
+{
+    "scene_id": "macbeth~~Act_2~~Scene_1",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "BANQUO",
+            "How goes the night, boy?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "FLEANCE",
+            "The moon is down; I have not heard the clock."
+        ],
+        [
+            "BANQUO",
+            "And she goes down at twelve."
+        ],
+        [
+            "FLEANCE",
+            "I take't, 'tis later, sir."
+        ],
+        [
+            "BANQUO",
+            "Hold, take my sword. There's husbandry in heaven;"
+        ],
+        [
+            "BANQUO",
+            "Their candles are all out. Take thee that too."
+        ],
+        [
+            "BANQUO",
+            "A heavy summons lies like lead upon me,"
+        ],
+        [
+            "BANQUO",
+            "And yet I would not sleep: merciful powers,"
+        ],
+        [
+            "BANQUO",
+            "Restrain in me the cursed thoughts that nature"
+        ],
+        [
+            "BANQUO",
+            "Gives way to in repose!"
+        ],
+        [
+            "BANQUO",
+            "Give me my sword."
+        ],
+        [
+            "BANQUO",
+            "Who's there?",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "MACBETH",
+            "A friend.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "BANQUO",
+            "What, sir, not yet at rest? The king's a-bed:"
+        ],
+        [
+            "BANQUO",
+            "He hath been in unusual pleasure, and"
+        ],
+        [
+            "BANQUO",
+            "Sent forth great largess to your offices."
+        ],
+        [
+            "BANQUO",
+            "This diamond he greets your wife withal,"
+        ],
+        [
+            "BANQUO",
+            "By the name of most kind hostess; and shut up"
+        ],
+        [
+            "BANQUO",
+            "In measureless content."
+        ],
+        [
+            "MACBETH",
+            "Being unprepared,"
+        ],
+        [
+            "MACBETH",
+            "Our will became the servant to defect;"
+        ],
+        [
+            "MACBETH",
+            "Which else should free have wrought."
+        ],
+        [
+            "BANQUO",
+            "All's well."
+        ],
+        [
+            "BANQUO",
+            "I dreamt last night of the three weird sisters:"
+        ],
+        [
+            "BANQUO",
+            "To you they have show'd some truth."
+        ],
+        [
+            "MACBETH",
+            "I think not of them:"
+        ],
+        [
+            "MACBETH",
+            "Yet, when we can entreat an hour to serve,"
+        ],
+        [
+            "MACBETH",
+            "We would spend it in some words upon that business,"
+        ],
+        [
+            "MACBETH",
+            "If you would grant the time."
+        ],
+        [
+            "BANQUO",
+            "At your kind'st leisure."
+        ],
+        [
+            "MACBETH",
+            "If you shall cleave to my consent, when 'tis,"
+        ],
+        [
+            "MACBETH",
+            "It shall make honour for you."
+        ],
+        [
+            "BANQUO",
+            "So I lose none"
+        ],
+        [
+            "BANQUO",
+            "In seeking to augment it, but still keep"
+        ],
+        [
+            "BANQUO",
+            "My bosom franchised and allegiance clear,"
+        ],
+        [
+            "BANQUO",
+            "I shall be counsell'd."
+        ],
+        [
+            "MACBETH",
+            "Good repose the while!"
+        ],
+        [
+            "BANQUO",
+            "Thanks, sir: the like to you!",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "MACBETH",
+            "Go bid thy mistress, when my drink is ready,",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "MACBETH",
+            "She strike upon the bell. Get thee to bed."
+        ],
+        [
+            "MACBETH",
+            "Is this a dagger which I see before me,"
+        ],
+        [
+            "MACBETH",
+            "The handle toward my hand? Come, let me clutch thee."
+        ],
+        [
+            "MACBETH",
+            "I have thee not, and yet I see thee still."
+        ],
+        [
+            "MACBETH",
+            "Art thou not, fatal vision, sensible"
+        ],
+        [
+            "MACBETH",
+            "To feeling as to sight? or art thou but"
+        ],
+        [
+            "MACBETH",
+            "A dagger of the mind, a false creation,"
+        ],
+        [
+            "MACBETH",
+            "Proceeding from the heat-oppressed brain?"
+        ],
+        [
+            "MACBETH",
+            "I see thee yet, in form as palpable"
+        ],
+        [
+            "MACBETH",
+            "As this which now I draw."
+        ],
+        [
+            "MACBETH",
+            "Thou marshall'st me the way that I was going;"
+        ],
+        [
+            "MACBETH",
+            "And such an instrument I was to use."
+        ],
+        [
+            "MACBETH",
+            "Mine eyes are made the fools o' the other senses,"
+        ],
+        [
+            "MACBETH",
+            "Or else worth all the rest; I see thee still,"
+        ],
+        [
+            "MACBETH",
+            "And on thy blade and dudgeon gouts of blood,"
+        ],
+        [
+            "MACBETH",
+            "Which was not so before. There's no such thing:"
+        ],
+        [
+            "MACBETH",
+            "It is the bloody business which informs"
+        ],
+        [
+            "MACBETH",
+            "Thus to mine eyes. Now o'er the one halfworld"
+        ],
+        [
+            "MACBETH",
+            "Nature seems dead, and wicked dreams abuse"
+        ],
+        [
+            "MACBETH",
+            "The curtain'd sleep; witchcraft celebrates"
+        ],
+        [
+            "MACBETH",
+            "Pale Hecate's offerings, and wither'd murder,"
+        ],
+        [
+            "MACBETH",
+            "Alarum'd by his sentinel, the wolf,"
+        ],
+        [
+            "MACBETH",
+            "Whose howl's his watch, thus with his stealthy pace."
+        ],
+        [
+            "MACBETH",
+            "With Tarquin's ravishing strides, towards his design"
+        ],
+        [
+            "MACBETH",
+            "Moves like a ghost. Thou sure and firm-set earth,"
+        ],
+        [
+            "MACBETH",
+            "Hear not my steps, which way they walk, for fear"
+        ],
+        [
+            "MACBETH",
+            "Thy very stones prate of my whereabout,"
+        ],
+        [
+            "MACBETH",
+            "And take the present horror from the time,"
+        ],
+        [
+            "MACBETH",
+            "Which now suits with it. Whiles I threat, he lives:"
+        ],
+        [
+            "MACBETH",
+            "Words to the heat of deeds too cold breath gives."
+        ],
+        [
+            "MACBETH",
+            "I go, and it is done; the bell invites me."
+        ],
+        [
+            "MACBETH",
+            "Hear it not, Duncan; for it is a knell"
+        ],
+        [
+            "MACBETH",
+            "That summons thee to heaven or to hell.",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter BANQUO, and FLEANCE bearing a torch before him"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter MACBETH, and a Servant with a torch"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt BANQUO and FLEANCE"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit Servant. A bell rings. Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "BANQUO": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "3"
+            ],
+            [
+                "5",
+                "12"
+            ],
+            [
+                "14",
+                "19"
+            ],
+            [
+                "23",
+                "25"
+            ],
+            [
+                "30",
+                "30"
+            ],
+            [
+                "33",
+                "36"
+            ],
+            [
+                "38",
+                "38"
+            ]
+        ],
+        "FLEANCE": [
+            [
+                "2",
+                "2"
+            ],
+            [
+                "4",
+                "4"
+            ]
+        ],
+        "MACBETH": [
+            [
+                "13",
+                "13"
+            ],
+            [
+                "20",
+                "22"
+            ],
+            [
+                "26",
+                "29"
+            ],
+            [
+                "31",
+                "32"
+            ],
+            [
+                "37",
+                "37"
+            ],
+            [
+                "39",
+                "72"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "Court of Macbeth's castle."
+}

@@ -1,0 +1,2577 @@
+{
+    "scene_id": "the merchant of venice~~Act_4~~Scene_1",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "DUKE",
+            "What, is Antonio here?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "ANTONIO",
+            "Ready, so please your grace."
+        ],
+        [
+            "DUKE",
+            "I am sorry for thee: thou art come to answer"
+        ],
+        [
+            "DUKE",
+            "A stony adversary, an inhuman wretch"
+        ],
+        [
+            "DUKE",
+            "uncapable of pity, void and empty"
+        ],
+        [
+            "DUKE",
+            "From any dram of mercy."
+        ],
+        [
+            "ANTONIO",
+            "I have heard"
+        ],
+        [
+            "ANTONIO",
+            "Your grace hath ta'en great pains to qualify"
+        ],
+        [
+            "ANTONIO",
+            "His rigorous course; but since he stands obdurate"
+        ],
+        [
+            "ANTONIO",
+            "And that no lawful means can carry me"
+        ],
+        [
+            "ANTONIO",
+            "Out of his envy's reach, I do oppose"
+        ],
+        [
+            "ANTONIO",
+            "My patience to his fury, and am arm'd"
+        ],
+        [
+            "ANTONIO",
+            "To suffer, with a quietness of spirit,"
+        ],
+        [
+            "ANTONIO",
+            "The very tyranny and rage of his."
+        ],
+        [
+            "DUKE",
+            "Go one, and call the Jew into the court."
+        ],
+        [
+            "SALERIO",
+            "He is ready at the door: he comes, my lord.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "DUKE",
+            "Make room, and let him stand before our face.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "DUKE",
+            "Shylock, the world thinks, and I think so too,"
+        ],
+        [
+            "DUKE",
+            "That thou but lead'st this fashion of thy malice"
+        ],
+        [
+            "DUKE",
+            "To the last hour of act; and then 'tis thought"
+        ],
+        [
+            "DUKE",
+            "Thou'lt show thy mercy and remorse more strange"
+        ],
+        [
+            "DUKE",
+            "Than is thy strange apparent cruelty;"
+        ],
+        [
+            "DUKE",
+            "And where thou now exact'st the penalty,"
+        ],
+        [
+            "DUKE",
+            "Which is a pound of this poor merchant's flesh,"
+        ],
+        [
+            "DUKE",
+            "Thou wilt not only loose the forfeiture,"
+        ],
+        [
+            "DUKE",
+            "But, touch'd with human gentleness and love,"
+        ],
+        [
+            "DUKE",
+            "Forgive a moiety of the principal;"
+        ],
+        [
+            "DUKE",
+            "Glancing an eye of pity on his losses,"
+        ],
+        [
+            "DUKE",
+            "That have of late so huddled on his back,"
+        ],
+        [
+            "DUKE",
+            "Enow to press a royal merchant down"
+        ],
+        [
+            "DUKE",
+            "And pluck commiseration of his state"
+        ],
+        [
+            "DUKE",
+            "From brassy bosoms and rough hearts of flint,"
+        ],
+        [
+            "DUKE",
+            "From stubborn Turks and Tartars, never train'd"
+        ],
+        [
+            "DUKE",
+            "To offices of tender courtesy."
+        ],
+        [
+            "DUKE",
+            "We all expect a gentle answer, Jew."
+        ],
+        [
+            "SHYLOCK",
+            "I have possess'd your grace of what I purpose;"
+        ],
+        [
+            "SHYLOCK",
+            "And by our holy Sabbath have I sworn"
+        ],
+        [
+            "SHYLOCK",
+            "To have the due and forfeit of my bond:"
+        ],
+        [
+            "SHYLOCK",
+            "If you deny it, let the danger light"
+        ],
+        [
+            "SHYLOCK",
+            "Upon your charter and your city's freedom."
+        ],
+        [
+            "SHYLOCK",
+            "You'll ask me, why I rather choose to have"
+        ],
+        [
+            "SHYLOCK",
+            "A weight of carrion flesh than to receive"
+        ],
+        [
+            "SHYLOCK",
+            "Three thousand ducats: I'll not answer that:"
+        ],
+        [
+            "SHYLOCK",
+            "But, say, it is my humour: is it answer'd?"
+        ],
+        [
+            "SHYLOCK",
+            "What if my house be troubled with a rat"
+        ],
+        [
+            "SHYLOCK",
+            "And I be pleased to give ten thousand ducats"
+        ],
+        [
+            "SHYLOCK",
+            "To have it baned? What, are you answer'd yet?"
+        ],
+        [
+            "SHYLOCK",
+            "Some men there are love not a gaping pig;"
+        ],
+        [
+            "SHYLOCK",
+            "Some, that are mad if they behold a cat;"
+        ],
+        [
+            "SHYLOCK",
+            "And others, when the bagpipe sings i' the nose,"
+        ],
+        [
+            "SHYLOCK",
+            "Cannot contain their urine: for affection,"
+        ],
+        [
+            "SHYLOCK",
+            "Mistress of passion, sways it to the mood"
+        ],
+        [
+            "SHYLOCK",
+            "Of what it likes or loathes. Now, for your answer:"
+        ],
+        [
+            "SHYLOCK",
+            "As there is no firm reason to be render'd,"
+        ],
+        [
+            "SHYLOCK",
+            "Why he cannot abide a gaping pig;"
+        ],
+        [
+            "SHYLOCK",
+            "Why he, a harmless necessary cat;"
+        ],
+        [
+            "SHYLOCK",
+            "Why he, a woollen bagpipe; but of force"
+        ],
+        [
+            "SHYLOCK",
+            "Must yield to such inevitable shame"
+        ],
+        [
+            "SHYLOCK",
+            "As to offend, himself being offended;"
+        ],
+        [
+            "SHYLOCK",
+            "So can I give no reason, nor I will not,"
+        ],
+        [
+            "SHYLOCK",
+            "More than a lodged hate and a certain loathing"
+        ],
+        [
+            "SHYLOCK",
+            "I bear Antonio, that I follow thus"
+        ],
+        [
+            "SHYLOCK",
+            "A losing suit against him. Are you answer'd?"
+        ],
+        [
+            "BASSANIO",
+            "This is no answer, thou unfeeling man,"
+        ],
+        [
+            "BASSANIO",
+            "To excuse the current of thy cruelty."
+        ],
+        [
+            "SHYLOCK",
+            "I am not bound to please thee with my answers."
+        ],
+        [
+            "BASSANIO",
+            "Do all men kill the things they do not love?"
+        ],
+        [
+            "SHYLOCK",
+            "Hates any man the thing he would not kill?"
+        ],
+        [
+            "BASSANIO",
+            "Every offence is not a hate at first."
+        ],
+        [
+            "SHYLOCK",
+            "What, wouldst thou have a serpent sting thee twice?"
+        ],
+        [
+            "ANTONIO",
+            "I pray you, think you question with the Jew:"
+        ],
+        [
+            "ANTONIO",
+            "You may as well go stand upon the beach"
+        ],
+        [
+            "ANTONIO",
+            "And bid the main flood bate his usual height;"
+        ],
+        [
+            "ANTONIO",
+            "You may as well use question with the wolf"
+        ],
+        [
+            "ANTONIO",
+            "Why he hath made the ewe bleat for the lamb;"
+        ],
+        [
+            "ANTONIO",
+            "You may as well forbid the mountain pines"
+        ],
+        [
+            "ANTONIO",
+            "To wag their high tops and to make no noise,"
+        ],
+        [
+            "ANTONIO",
+            "When they are fretten with the gusts of heaven;"
+        ],
+        [
+            "ANTONIO",
+            "You may as well do anything most hard,"
+        ],
+        [
+            "ANTONIO",
+            "As seek to soften that--than which what's harder?--"
+        ],
+        [
+            "ANTONIO",
+            "His Jewish heart: therefore, I do beseech you,"
+        ],
+        [
+            "ANTONIO",
+            "Make no more offers, use no farther means,"
+        ],
+        [
+            "ANTONIO",
+            "But with all brief and plain conveniency"
+        ],
+        [
+            "ANTONIO",
+            "Let me have judgment and the Jew his will."
+        ],
+        [
+            "BASSANIO",
+            "For thy three thousand ducats here is six."
+        ],
+        [
+            "SHYLOCK",
+            "What judgment shall I dread, doing"
+        ],
+        [
+            "SHYLOCK",
+            "Were in six parts and every part a ducat,"
+        ],
+        [
+            "SHYLOCK",
+            "I would not draw them; I would have my bond."
+        ],
+        [
+            "DUKE",
+            "How shalt thou hope for mercy, rendering none?"
+        ],
+        [
+            "SHYLOCK",
+            "What judgment shall I dread, doing no wrong?"
+        ],
+        [
+            "SHYLOCK",
+            "You have among you many a purchased slave,"
+        ],
+        [
+            "SHYLOCK",
+            "Which, like your asses and your dogs and mules,"
+        ],
+        [
+            "SHYLOCK",
+            "You use in abject and in slavish parts,"
+        ],
+        [
+            "SHYLOCK",
+            "Because you bought them: shall I say to you,"
+        ],
+        [
+            "SHYLOCK",
+            "Let them be free, marry them to your heirs?"
+        ],
+        [
+            "SHYLOCK",
+            "Why sweat they under burthens? let their beds"
+        ],
+        [
+            "SHYLOCK",
+            "Be made as soft as yours and let their palates"
+        ],
+        [
+            "SHYLOCK",
+            "Be season'd with such viands? You will answer"
+        ],
+        [
+            "SHYLOCK",
+            "'The slaves are ours:' so do I answer you:"
+        ],
+        [
+            "SHYLOCK",
+            "The pound of flesh, which I demand of him,"
+        ],
+        [
+            "SHYLOCK",
+            "Is dearly bought; 'tis mine and I will have it."
+        ],
+        [
+            "SHYLOCK",
+            "If you deny me, fie upon your law!"
+        ],
+        [
+            "SHYLOCK",
+            "There is no force in the decrees of Venice."
+        ],
+        [
+            "SHYLOCK",
+            "I stand for judgment: answer; shall I have it?"
+        ],
+        [
+            "DUKE",
+            "Upon my power I may dismiss this court,"
+        ],
+        [
+            "DUKE",
+            "Unless Bellario, a learned doctor,"
+        ],
+        [
+            "DUKE",
+            "Whom I have sent for to determine this,"
+        ],
+        [
+            "DUKE",
+            "Come here to-day."
+        ],
+        [
+            "SALERIO",
+            "My lord, here stays without"
+        ],
+        [
+            "SALERIO",
+            "A messenger with letters from the doctor,"
+        ],
+        [
+            "SALERIO",
+            "New come from Padua."
+        ],
+        [
+            "DUKE",
+            "Bring us the letter; call the messenger."
+        ],
+        [
+            "BASSANIO",
+            "Good cheer, Antonio! What, man, courage yet!"
+        ],
+        [
+            "BASSANIO",
+            "The Jew shall have my flesh, blood, bones and all,"
+        ],
+        [
+            "BASSANIO",
+            "Ere thou shalt lose for me one drop of blood."
+        ],
+        [
+            "ANTONIO",
+            "I am a tainted wether of the flock,"
+        ],
+        [
+            "ANTONIO",
+            "Meetest for death: the weakest kind of fruit"
+        ],
+        [
+            "ANTONIO",
+            "Drops earliest to the ground; and so let me"
+        ],
+        [
+            "ANTONIO",
+            "You cannot better be employ'd, Bassanio,"
+        ],
+        [
+            "ANTONIO",
+            "Than to live still and write mine epitaph.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "DUKE",
+            "Came you from Padua, from Bellario?",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "NERISSA",
+            "From both, my lord. Bellario greets your grace.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "BASSANIO",
+            "Why dost thou whet thy knife so earnestly?",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "SHYLOCK",
+            "To cut the forfeiture from that bankrupt there."
+        ],
+        [
+            "GRATIANO",
+            "Not on thy sole, but on thy soul, harsh Jew,"
+        ],
+        [
+            "GRATIANO",
+            "Thou makest thy knife keen; but no metal can,"
+        ],
+        [
+            "GRATIANO",
+            "No, not the hangman's axe, bear half the keenness"
+        ],
+        [
+            "GRATIANO",
+            "Of thy sharp envy. Can no prayers pierce thee?"
+        ],
+        [
+            "SHYLOCK",
+            "No, none that thou hast wit enough to make."
+        ],
+        [
+            "GRATIANO",
+            "O, be thou damn'd, inexecrable dog!"
+        ],
+        [
+            "GRATIANO",
+            "And for thy life let justice be accused."
+        ],
+        [
+            "GRATIANO",
+            "Thou almost makest me waver in my faith"
+        ],
+        [
+            "GRATIANO",
+            "To hold opinion with Pythagoras,"
+        ],
+        [
+            "GRATIANO",
+            "That souls of animals infuse themselves"
+        ],
+        [
+            "GRATIANO",
+            "Into the trunks of men: thy currish spirit"
+        ],
+        [
+            "GRATIANO",
+            "Govern'd a wolf, who, hang'd for human slaughter,"
+        ],
+        [
+            "GRATIANO",
+            "Even from the gallows did his fell soul fleet,"
+        ],
+        [
+            "GRATIANO",
+            "And, whilst thou lay'st in thy unhallow'd dam,"
+        ],
+        [
+            "GRATIANO",
+            "Infused itself in thee; for thy desires"
+        ],
+        [
+            "GRATIANO",
+            "Are wolvish, bloody, starved and ravenous."
+        ],
+        [
+            "SHYLOCK",
+            "Till thou canst rail the seal from off my bond,"
+        ],
+        [
+            "SHYLOCK",
+            "Thou but offend'st thy lungs to speak so loud:"
+        ],
+        [
+            "SHYLOCK",
+            "Repair thy wit, good youth, or it will fall"
+        ],
+        [
+            "SHYLOCK",
+            "To cureless ruin. I stand here for law."
+        ],
+        [
+            "DUKE",
+            "This letter from Bellario doth commend"
+        ],
+        [
+            "DUKE",
+            "A young and learned doctor to our court."
+        ],
+        [
+            "DUKE",
+            "Where is he?"
+        ],
+        [
+            "NERISSA",
+            "He attendeth here hard by,"
+        ],
+        [
+            "NERISSA",
+            "To know your answer, whether you'll admit him."
+        ],
+        [
+            "DUKE",
+            "With all my heart. Some three or four of you"
+        ],
+        [
+            "DUKE",
+            "Go give him courteous conduct to this place."
+        ],
+        [
+            "DUKE",
+            "Meantime the court shall hear Bellario's letter."
+        ],
+        [
+            "Clerk",
+            "[Reads]"
+        ],
+        [
+            "Clerk",
+            "Your grace shall understand that at the receipt of"
+        ],
+        [
+            "Clerk",
+            "your letter I am very sick: but in the instant that"
+        ],
+        [
+            "Clerk",
+            "your messenger came, in loving visitation was with"
+        ],
+        [
+            "Clerk",
+            "me a young doctor of Rome; his name is Balthasar. I"
+        ],
+        [
+            "Clerk",
+            "acquainted him with the cause in controversy between"
+        ],
+        [
+            "Clerk",
+            "the Jew and Antonio the merchant: we turned o'er"
+        ],
+        [
+            "Clerk",
+            "many books together: he is furnished with my"
+        ],
+        [
+            "Clerk",
+            "opinion; which, bettered with his own learning, the"
+        ],
+        [
+            "Clerk",
+            "greatness whereof I cannot enough commend, comes"
+        ],
+        [
+            "Clerk",
+            "with him, at my importunity, to fill up your grace's"
+        ],
+        [
+            "Clerk",
+            "request in my stead. I beseech you, let his lack of"
+        ],
+        [
+            "Clerk",
+            "years be no impediment to let him lack a reverend"
+        ],
+        [
+            "Clerk",
+            "estimation; for I never knew so young a body with so"
+        ],
+        [
+            "Clerk",
+            "old a head. I leave him to your gracious"
+        ],
+        [
+            "Clerk",
+            "acceptance, whose trial shall better publish his"
+        ],
+        [
+            "Clerk",
+            "commendation."
+        ],
+        [
+            "DUKE",
+            "You hear the learn'd Bellario, what he writes:"
+        ],
+        [
+            "DUKE",
+            "And here, I take it, is the doctor come."
+        ],
+        [
+            "DUKE",
+            "Give me your hand. Come you from old Bellario?",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "PORTIA",
+            "I did, my lord.",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "DUKE",
+            "You are welcome: take your place."
+        ],
+        [
+            "DUKE",
+            "Are you acquainted with the difference"
+        ],
+        [
+            "DUKE",
+            "That holds this present question in the court?"
+        ],
+        [
+            "PORTIA",
+            "I am informed thoroughly of the cause."
+        ],
+        [
+            "PORTIA",
+            "Which is the merchant here, and which the Jew?"
+        ],
+        [
+            "DUKE",
+            "Antonio and old Shylock, both stand forth."
+        ],
+        [
+            "PORTIA",
+            "Is your name Shylock?"
+        ],
+        [
+            "SHYLOCK",
+            "Shylock is my name."
+        ],
+        [
+            "PORTIA",
+            "Of a strange nature is the suit you follow;"
+        ],
+        [
+            "PORTIA",
+            "Yet in such rule that the Venetian law"
+        ],
+        [
+            "PORTIA",
+            "Cannot impugn you as you do proceed."
+        ],
+        [
+            "PORTIA",
+            "You stand within his danger, do you not?"
+        ],
+        [
+            "ANTONIO",
+            "Ay, so he says."
+        ],
+        [
+            "PORTIA",
+            "Do you confess the bond?"
+        ],
+        [
+            "ANTONIO",
+            "I do."
+        ],
+        [
+            "PORTIA",
+            "Then must the Jew be merciful."
+        ],
+        [
+            "SHYLOCK",
+            "On what compulsion must I? tell me that."
+        ],
+        [
+            "PORTIA",
+            "The quality of mercy is not strain'd,"
+        ],
+        [
+            "PORTIA",
+            "It droppeth as the gentle rain from heaven"
+        ],
+        [
+            "PORTIA",
+            "Upon the place beneath: it is twice blest;"
+        ],
+        [
+            "PORTIA",
+            "It blesseth him that gives and him that takes:"
+        ],
+        [
+            "PORTIA",
+            "'Tis mightiest in the mightiest: it becomes"
+        ],
+        [
+            "PORTIA",
+            "The throned monarch better than his crown;"
+        ],
+        [
+            "PORTIA",
+            "His sceptre shows the force of temporal power,"
+        ],
+        [
+            "PORTIA",
+            "The attribute to awe and majesty,"
+        ],
+        [
+            "PORTIA",
+            "Wherein doth sit the dread and fear of kings;"
+        ],
+        [
+            "PORTIA",
+            "But mercy is above this sceptred sway;"
+        ],
+        [
+            "PORTIA",
+            "It is enthroned in the hearts of kings,"
+        ],
+        [
+            "PORTIA",
+            "It is an attribute to God himself;"
+        ],
+        [
+            "PORTIA",
+            "And earthly power doth then show likest God's"
+        ],
+        [
+            "PORTIA",
+            "When mercy seasons justice. Therefore, Jew,"
+        ],
+        [
+            "PORTIA",
+            "Though justice be thy plea, consider this,"
+        ],
+        [
+            "PORTIA",
+            "That, in the course of justice, none of us"
+        ],
+        [
+            "PORTIA",
+            "Should see salvation: we do pray for mercy;"
+        ],
+        [
+            "PORTIA",
+            "And that same prayer doth teach us all to render"
+        ],
+        [
+            "PORTIA",
+            "The deeds of mercy. I have spoke thus much"
+        ],
+        [
+            "PORTIA",
+            "To mitigate the justice of thy plea;"
+        ],
+        [
+            "PORTIA",
+            "Which if thou follow, this strict court of Venice"
+        ],
+        [
+            "PORTIA",
+            "Must needs give sentence 'gainst the merchant there."
+        ],
+        [
+            "SHYLOCK",
+            "My deeds upon my head! I crave the law,"
+        ],
+        [
+            "SHYLOCK",
+            "The penalty and forfeit of my bond."
+        ],
+        [
+            "PORTIA",
+            "Is he not able to discharge the money?"
+        ],
+        [
+            "BASSANIO",
+            "Yes, here I tender it for him in the court;"
+        ],
+        [
+            "BASSANIO",
+            "Yea, twice the sum: if that will not suffice,"
+        ],
+        [
+            "BASSANIO",
+            "I will be bound to pay it ten times o'er,"
+        ],
+        [
+            "BASSANIO",
+            "On forfeit of my hands, my head, my heart:"
+        ],
+        [
+            "BASSANIO",
+            "If this will not suffice, it must appear"
+        ],
+        [
+            "BASSANIO",
+            "That malice bears down truth. And I beseech you,"
+        ],
+        [
+            "BASSANIO",
+            "Wrest once the law to your authority:"
+        ],
+        [
+            "BASSANIO",
+            "To do a great right, do a little wrong,"
+        ],
+        [
+            "BASSANIO",
+            "And curb this cruel devil of his will."
+        ],
+        [
+            "PORTIA",
+            "It must not be; there is no power in Venice"
+        ],
+        [
+            "PORTIA",
+            "Can alter a decree established:"
+        ],
+        [
+            "PORTIA",
+            "'Twill be recorded for a precedent,"
+        ],
+        [
+            "PORTIA",
+            "And many an error by the same example"
+        ],
+        [
+            "PORTIA",
+            "Will rush into the state: it cannot be."
+        ],
+        [
+            "SHYLOCK",
+            "A Daniel come to judgment! yea, a Daniel!"
+        ],
+        [
+            "SHYLOCK",
+            "O wise young judge, how I do honour thee!"
+        ],
+        [
+            "PORTIA",
+            "I pray you, let me look upon the bond."
+        ],
+        [
+            "SHYLOCK",
+            "Here 'tis, most reverend doctor, here it is."
+        ],
+        [
+            "PORTIA",
+            "Shylock, there's thrice thy money offer'd thee."
+        ],
+        [
+            "SHYLOCK",
+            "An oath, an oath, I have an oath in heaven:"
+        ],
+        [
+            "SHYLOCK",
+            "Shall I lay perjury upon my soul?"
+        ],
+        [
+            "SHYLOCK",
+            "No, not for Venice."
+        ],
+        [
+            "PORTIA",
+            "Why, this bond is forfeit;"
+        ],
+        [
+            "PORTIA",
+            "And lawfully by this the Jew may claim"
+        ],
+        [
+            "PORTIA",
+            "A pound of flesh, to be by him cut off"
+        ],
+        [
+            "PORTIA",
+            "Nearest the merchant's heart. Be merciful:"
+        ],
+        [
+            "PORTIA",
+            "Take thrice thy money; bid me tear the bond."
+        ],
+        [
+            "SHYLOCK",
+            "When it is paid according to the tenor."
+        ],
+        [
+            "SHYLOCK",
+            "It doth appear you are a worthy judge;"
+        ],
+        [
+            "SHYLOCK",
+            "You know the law, your exposition"
+        ],
+        [
+            "SHYLOCK",
+            "Hath been most sound: I charge you by the law,"
+        ],
+        [
+            "SHYLOCK",
+            "Whereof you are a well-deserving pillar,"
+        ],
+        [
+            "SHYLOCK",
+            "Proceed to judgment: by my soul I swear"
+        ],
+        [
+            "SHYLOCK",
+            "There is no power in the tongue of man"
+        ],
+        [
+            "SHYLOCK",
+            "To alter me: I stay here on my bond."
+        ],
+        [
+            "ANTONIO",
+            "Most heartily I do beseech the court"
+        ],
+        [
+            "ANTONIO",
+            "To give the judgment."
+        ],
+        [
+            "PORTIA",
+            "Why then, thus it is:"
+        ],
+        [
+            "PORTIA",
+            "You must prepare your bosom for his knife."
+        ],
+        [
+            "SHYLOCK",
+            "O noble judge! O excellent young man!"
+        ],
+        [
+            "PORTIA",
+            "For the intent and purpose of the law"
+        ],
+        [
+            "PORTIA",
+            "Hath full relation to the penalty,"
+        ],
+        [
+            "PORTIA",
+            "Which here appeareth due upon the bond."
+        ],
+        [
+            "SHYLOCK",
+            "'Tis very true: O wise and upright judge!"
+        ],
+        [
+            "SHYLOCK",
+            "How much more elder art thou than thy looks!"
+        ],
+        [
+            "PORTIA",
+            "Therefore lay bare your bosom."
+        ],
+        [
+            "SHYLOCK",
+            "Ay, his breast:"
+        ],
+        [
+            "SHYLOCK",
+            "So says the bond: doth it not, noble judge?"
+        ],
+        [
+            "SHYLOCK",
+            "'Nearest his heart:' those are the very words."
+        ],
+        [
+            "PORTIA",
+            "It is so. Are there balance here to weigh"
+        ],
+        [
+            "PORTIA",
+            "The flesh?"
+        ],
+        [
+            "SHYLOCK",
+            "I have them ready."
+        ],
+        [
+            "PORTIA",
+            "Have by some surgeon, Shylock, on your charge,"
+        ],
+        [
+            "PORTIA",
+            "To stop his wounds, lest he do bleed to death."
+        ],
+        [
+            "SHYLOCK",
+            "Is it so nominated in the bond?"
+        ],
+        [
+            "PORTIA",
+            "It is not so express'd: but what of that?"
+        ],
+        [
+            "PORTIA",
+            "'Twere good you do so much for charity."
+        ],
+        [
+            "SHYLOCK",
+            "I cannot find it; 'tis not in the bond."
+        ],
+        [
+            "PORTIA",
+            "You, merchant, have you any thing to say?"
+        ],
+        [
+            "ANTONIO",
+            "But little: I am arm'd and well prepared."
+        ],
+        [
+            "ANTONIO",
+            "Give me your hand, Bassanio: fare you well!"
+        ],
+        [
+            "ANTONIO",
+            "Grieve not that I am fallen to this for you;"
+        ],
+        [
+            "ANTONIO",
+            "For herein Fortune shows herself more kind"
+        ],
+        [
+            "ANTONIO",
+            "Than is her custom: it is still her use"
+        ],
+        [
+            "ANTONIO",
+            "To let the wretched man outlive his wealth,"
+        ],
+        [
+            "ANTONIO",
+            "To view with hollow eye and wrinkled brow"
+        ],
+        [
+            "ANTONIO",
+            "An age of poverty; from which lingering penance"
+        ],
+        [
+            "ANTONIO",
+            "Of such misery doth she cut me off."
+        ],
+        [
+            "ANTONIO",
+            "Commend me to your honourable wife:"
+        ],
+        [
+            "ANTONIO",
+            "Tell her the process of Antonio's end;"
+        ],
+        [
+            "ANTONIO",
+            "Say how I loved you, speak me fair in death;"
+        ],
+        [
+            "ANTONIO",
+            "And, when the tale is told, bid her be judge"
+        ],
+        [
+            "ANTONIO",
+            "Whether Bassanio had not once a love."
+        ],
+        [
+            "ANTONIO",
+            "Repent but you that you shall lose your friend,"
+        ],
+        [
+            "ANTONIO",
+            "And he repents not that he pays your debt;"
+        ],
+        [
+            "ANTONIO",
+            "For if the Jew do cut but deep enough,"
+        ],
+        [
+            "ANTONIO",
+            "I'll pay it presently with all my heart."
+        ],
+        [
+            "BASSANIO",
+            "Antonio, I am married to a wife"
+        ],
+        [
+            "BASSANIO",
+            "Which is as dear to me as life itself;"
+        ],
+        [
+            "BASSANIO",
+            "But life itself, my wife, and all the world,"
+        ],
+        [
+            "BASSANIO",
+            "Are not with me esteem'd above thy life:"
+        ],
+        [
+            "BASSANIO",
+            "I would lose all, ay, sacrifice them all"
+        ],
+        [
+            "BASSANIO",
+            "Here to this devil, to deliver you."
+        ],
+        [
+            "PORTIA",
+            "Your wife would give you little thanks for that,"
+        ],
+        [
+            "PORTIA",
+            "If she were by, to hear you make the offer."
+        ],
+        [
+            "GRATIANO",
+            "I have a wife, whom, I protest, I love:"
+        ],
+        [
+            "GRATIANO",
+            "I would she were in heaven, so she could"
+        ],
+        [
+            "GRATIANO",
+            "Entreat some power to change this currish Jew."
+        ],
+        [
+            "NERISSA",
+            "'Tis well you offer it behind her back;"
+        ],
+        [
+            "NERISSA",
+            "The wish would make else an unquiet house."
+        ],
+        [
+            "SHYLOCK",
+            "These be the Christian husbands. I have a daughter;"
+        ],
+        [
+            "SHYLOCK",
+            "Would any of the stock of Barrabas"
+        ],
+        [
+            "SHYLOCK",
+            "Had been her husband rather than a Christian!"
+        ],
+        [
+            "SHYLOCK",
+            "We trifle time: I pray thee, pursue sentence.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "PORTIA",
+            "A pound of that same merchant's flesh is thine:",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "PORTIA",
+            "The court awards it, and the law doth give it."
+        ],
+        [
+            "SHYLOCK",
+            "Most rightful judge!"
+        ],
+        [
+            "PORTIA",
+            "And you must cut this flesh from off his breast:"
+        ],
+        [
+            "PORTIA",
+            "The law allows it, and the court awards it."
+        ],
+        [
+            "SHYLOCK",
+            "Most learned judge! A sentence! Come, prepare!"
+        ],
+        [
+            "PORTIA",
+            "Tarry a little; there is something else."
+        ],
+        [
+            "PORTIA",
+            "This bond doth give thee here no jot of blood;"
+        ],
+        [
+            "PORTIA",
+            "The words expressly are 'a pound of flesh:'"
+        ],
+        [
+            "PORTIA",
+            "Take then thy bond, take thou thy pound of flesh;"
+        ],
+        [
+            "PORTIA",
+            "But, in the cutting it, if thou dost shed"
+        ],
+        [
+            "PORTIA",
+            "One drop of Christian blood, thy lands and goods"
+        ],
+        [
+            "PORTIA",
+            "Are, by the laws of Venice, confiscate"
+        ],
+        [
+            "PORTIA",
+            "Unto the state of Venice."
+        ],
+        [
+            "GRATIANO",
+            "O upright judge! Mark, Jew: O learned judge!"
+        ],
+        [
+            "SHYLOCK",
+            "Is that the law?"
+        ],
+        [
+            "PORTIA",
+            "Thyself shalt see the act:"
+        ],
+        [
+            "PORTIA",
+            "For, as thou urgest justice, be assured"
+        ],
+        [
+            "PORTIA",
+            "Thou shalt have justice, more than thou desirest."
+        ],
+        [
+            "GRATIANO",
+            "O learned judge! Mark, Jew: a learned judge!"
+        ],
+        [
+            "SHYLOCK",
+            "I take this offer, then; pay the bond thrice"
+        ],
+        [
+            "SHYLOCK",
+            "And let the Christian go."
+        ],
+        [
+            "BASSANIO",
+            "Here is the money."
+        ],
+        [
+            "PORTIA",
+            "Soft!"
+        ],
+        [
+            "PORTIA",
+            "The Jew shall have all justice; soft! no haste:"
+        ],
+        [
+            "PORTIA",
+            "He shall have nothing but the penalty."
+        ],
+        [
+            "GRATIANO",
+            "O Jew! an upright judge, a learned judge!"
+        ],
+        [
+            "PORTIA",
+            "Therefore prepare thee to cut off the flesh."
+        ],
+        [
+            "PORTIA",
+            "Shed thou no blood, nor cut thou less nor more"
+        ],
+        [
+            "PORTIA",
+            "But just a pound of flesh: if thou cut'st more"
+        ],
+        [
+            "PORTIA",
+            "Or less than a just pound, be it but so much"
+        ],
+        [
+            "PORTIA",
+            "As makes it light or heavy in the substance,"
+        ],
+        [
+            "PORTIA",
+            "Or the division of the twentieth part"
+        ],
+        [
+            "PORTIA",
+            "Of one poor scruple, nay, if the scale do turn"
+        ],
+        [
+            "PORTIA",
+            "But in the estimation of a hair,"
+        ],
+        [
+            "PORTIA",
+            "Thou diest and all thy goods are confiscate."
+        ],
+        [
+            "GRATIANO",
+            "A second Daniel, a Daniel, Jew!"
+        ],
+        [
+            "GRATIANO",
+            "Now, infidel, I have you on the hip."
+        ],
+        [
+            "PORTIA",
+            "Why doth the Jew pause? take thy forfeiture."
+        ],
+        [
+            "SHYLOCK",
+            "Give me my principal, and let me go."
+        ],
+        [
+            "BASSANIO",
+            "I have it ready for thee; here it is."
+        ],
+        [
+            "PORTIA",
+            "He hath refused it in the open court:"
+        ],
+        [
+            "PORTIA",
+            "He shall have merely justice and his bond."
+        ],
+        [
+            "GRATIANO",
+            "A Daniel, still say I, a second Daniel!"
+        ],
+        [
+            "GRATIANO",
+            "I thank thee, Jew, for teaching me that word."
+        ],
+        [
+            "SHYLOCK",
+            "Shall I not have barely my principal?"
+        ],
+        [
+            "PORTIA",
+            "Thou shalt have nothing but the forfeiture,"
+        ],
+        [
+            "PORTIA",
+            "To be so taken at thy peril, Jew."
+        ],
+        [
+            "SHYLOCK",
+            "Why, then the devil give him good of it!"
+        ],
+        [
+            "SHYLOCK",
+            "I'll stay no longer question."
+        ],
+        [
+            "PORTIA",
+            "Tarry, Jew:"
+        ],
+        [
+            "PORTIA",
+            "The law hath yet another hold on you."
+        ],
+        [
+            "PORTIA",
+            "It is enacted in the laws of Venice,"
+        ],
+        [
+            "PORTIA",
+            "If it be proved against an alien"
+        ],
+        [
+            "PORTIA",
+            "That by direct or indirect attempts"
+        ],
+        [
+            "PORTIA",
+            "He seek the life of any citizen,"
+        ],
+        [
+            "PORTIA",
+            "The party 'gainst the which he doth contrive"
+        ],
+        [
+            "PORTIA",
+            "Shall seize one half his goods; the other half"
+        ],
+        [
+            "PORTIA",
+            "Comes to the privy coffer of the state;"
+        ],
+        [
+            "PORTIA",
+            "And the offender's life lies in the mercy"
+        ],
+        [
+            "PORTIA",
+            "Of the duke only, 'gainst all other voice."
+        ],
+        [
+            "PORTIA",
+            "In which predicament, I say, thou stand'st;"
+        ],
+        [
+            "PORTIA",
+            "For it appears, by manifest proceeding,"
+        ],
+        [
+            "PORTIA",
+            "That indirectly and directly too"
+        ],
+        [
+            "PORTIA",
+            "Thou hast contrived against the very life"
+        ],
+        [
+            "PORTIA",
+            "Of the defendant; and thou hast incurr'd"
+        ],
+        [
+            "PORTIA",
+            "The danger formerly by me rehearsed."
+        ],
+        [
+            "PORTIA",
+            "Down therefore and beg mercy of the duke."
+        ],
+        [
+            "GRATIANO",
+            "Beg that thou mayst have leave to hang thyself:"
+        ],
+        [
+            "GRATIANO",
+            "And yet, thy wealth being forfeit to the state,"
+        ],
+        [
+            "GRATIANO",
+            "Thou hast not left the value of a cord;"
+        ],
+        [
+            "GRATIANO",
+            "Therefore thou must be hang'd at the state's charge."
+        ],
+        [
+            "DUKE",
+            "That thou shalt see the difference of our spirits,"
+        ],
+        [
+            "DUKE",
+            "I pardon thee thy life before thou ask it:"
+        ],
+        [
+            "DUKE",
+            "For half thy wealth, it is Antonio's;"
+        ],
+        [
+            "DUKE",
+            "The other half comes to the general state,"
+        ],
+        [
+            "DUKE",
+            "Which humbleness may drive unto a fine."
+        ],
+        [
+            "PORTIA",
+            "Ay, for the state, not for Antonio."
+        ],
+        [
+            "SHYLOCK",
+            "Nay, take my life and all; pardon not that:"
+        ],
+        [
+            "SHYLOCK",
+            "You take my house when you do take the prop"
+        ],
+        [
+            "SHYLOCK",
+            "That doth sustain my house; you take my life"
+        ],
+        [
+            "SHYLOCK",
+            "When you do take the means whereby I live."
+        ],
+        [
+            "PORTIA",
+            "What mercy can you render him, Antonio?"
+        ],
+        [
+            "GRATIANO",
+            "A halter gratis; nothing else, for God's sake."
+        ],
+        [
+            "ANTONIO",
+            "So please my lord the duke and all the court"
+        ],
+        [
+            "ANTONIO",
+            "To quit the fine for one half of his goods,"
+        ],
+        [
+            "ANTONIO",
+            "I am content; so he will let me have"
+        ],
+        [
+            "ANTONIO",
+            "The other half in use, to render it,"
+        ],
+        [
+            "ANTONIO",
+            "Upon his death, unto the gentleman"
+        ],
+        [
+            "ANTONIO",
+            "That lately stole his daughter:"
+        ],
+        [
+            "ANTONIO",
+            "Two things provided more, that, for this favour,"
+        ],
+        [
+            "ANTONIO",
+            "He presently become a Christian;"
+        ],
+        [
+            "ANTONIO",
+            "The other, that he do record a gift,"
+        ],
+        [
+            "ANTONIO",
+            "Here in the court, of all he dies possess'd,"
+        ],
+        [
+            "ANTONIO",
+            "Unto his son Lorenzo and his daughter."
+        ],
+        [
+            "DUKE",
+            "He shall do this, or else I do recant"
+        ],
+        [
+            "DUKE",
+            "The pardon that I late pronounced here."
+        ],
+        [
+            "PORTIA",
+            "Art thou contented, Jew? what dost thou say?"
+        ],
+        [
+            "SHYLOCK",
+            "I am content."
+        ],
+        [
+            "PORTIA",
+            "Clerk, draw a deed of gift."
+        ],
+        [
+            "SHYLOCK",
+            "I pray you, give me leave to go from hence;"
+        ],
+        [
+            "SHYLOCK",
+            "I am not well: send the deed after me,"
+        ],
+        [
+            "SHYLOCK",
+            "And I will sign it."
+        ],
+        [
+            "DUKE",
+            "Get thee gone, but do it."
+        ],
+        [
+            "GRATIANO",
+            "In christening shalt thou have two god-fathers:"
+        ],
+        [
+            "GRATIANO",
+            "Had I been judge, thou shouldst have had ten more,"
+        ],
+        [
+            "GRATIANO",
+            "To bring thee to the gallows, not the font.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "DUKE",
+            "Sir, I entreat you home with me to dinner.",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "PORTIA",
+            "I humbly do desire your grace of pardon:"
+        ],
+        [
+            "PORTIA",
+            "I must away this night toward Padua,"
+        ],
+        [
+            "PORTIA",
+            "And it is meet I presently set forth."
+        ],
+        [
+            "DUKE",
+            "I am sorry that your leisure serves you not."
+        ],
+        [
+            "DUKE",
+            "Antonio, gratify this gentleman,"
+        ],
+        [
+            "DUKE",
+            "For, in my mind, you are much bound to him.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "BASSANIO",
+            "Most worthy gentleman, I and my friend",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "BASSANIO",
+            "Have by your wisdom been this day acquitted"
+        ],
+        [
+            "BASSANIO",
+            "Of grievous penalties; in lieu whereof,"
+        ],
+        [
+            "BASSANIO",
+            "Three thousand ducats, due unto the Jew,"
+        ],
+        [
+            "BASSANIO",
+            "We freely cope your courteous pains withal."
+        ],
+        [
+            "ANTONIO",
+            "And stand indebted, over and above,"
+        ],
+        [
+            "ANTONIO",
+            "In love and service to you evermore."
+        ],
+        [
+            "PORTIA",
+            "He is well paid that is well satisfied;"
+        ],
+        [
+            "PORTIA",
+            "And I, delivering you, am satisfied"
+        ],
+        [
+            "PORTIA",
+            "And therein do account myself well paid:"
+        ],
+        [
+            "PORTIA",
+            "My mind was never yet more mercenary."
+        ],
+        [
+            "PORTIA",
+            "I pray you, know me when we meet again:"
+        ],
+        [
+            "PORTIA",
+            "I wish you well, and so I take my leave."
+        ],
+        [
+            "BASSANIO",
+            "Dear sir, of force I must attempt you further:"
+        ],
+        [
+            "BASSANIO",
+            "Take some remembrance of us, as a tribute,"
+        ],
+        [
+            "BASSANIO",
+            "Not as a fee: grant me two things, I pray you,"
+        ],
+        [
+            "BASSANIO",
+            "Not to deny me, and to pardon me."
+        ],
+        [
+            "PORTIA",
+            "You press me far, and therefore I will yield."
+        ],
+        [
+            "PORTIA",
+            "Give me your gloves, I'll wear them for your sake;"
+        ],
+        [
+            "PORTIA",
+            "And, for your love, I'll take this ring from you:"
+        ],
+        [
+            "PORTIA",
+            "Do not draw back your hand; I'll take no more;"
+        ],
+        [
+            "PORTIA",
+            "And you in love shall not deny me this.",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "BASSANIO",
+            "This ring, good sir, alas, it is a trifle!",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "BASSANIO",
+            "I will not shame myself to give you this."
+        ],
+        [
+            "PORTIA",
+            "I will have nothing else but only this;"
+        ],
+        [
+            "PORTIA",
+            "And now methinks I have a mind to it."
+        ],
+        [
+            "BASSANIO",
+            "There's more depends on this than on the value."
+        ],
+        [
+            "BASSANIO",
+            "The dearest ring in Venice will I give you,"
+        ],
+        [
+            "BASSANIO",
+            "And find it out by proclamation:"
+        ],
+        [
+            "BASSANIO",
+            "Only for this, I pray you, pardon me."
+        ],
+        [
+            "PORTIA",
+            "I see, sir, you are liberal in offers"
+        ],
+        [
+            "PORTIA",
+            "You taught me first to beg; and now methinks"
+        ],
+        [
+            "PORTIA",
+            "You teach me how a beggar should be answer'd."
+        ],
+        [
+            "BASSANIO",
+            "Good sir, this ring was given me by my wife;"
+        ],
+        [
+            "BASSANIO",
+            "And when she put it on, she made me vow"
+        ],
+        [
+            "BASSANIO",
+            "That I should neither sell nor give nor lose it."
+        ],
+        [
+            "PORTIA",
+            "That 'scuse serves many men to save their gifts."
+        ],
+        [
+            "PORTIA",
+            "An if your wife be not a mad-woman,"
+        ],
+        [
+            "PORTIA",
+            "And know how well I have deserved the ring,"
+        ],
+        [
+            "PORTIA",
+            "She would not hold out enemy for ever,"
+        ],
+        [
+            "PORTIA",
+            "For giving it to me. Well, peace be with you!",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "ANTONIO",
+            "My Lord Bassanio, let him have the ring:",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "ANTONIO",
+            "Let his deservings and my love withal"
+        ],
+        [
+            "ANTONIO",
+            "Be valued against your wife's commandment."
+        ],
+        [
+            "BASSANIO",
+            "Go, Gratiano, run and overtake him;"
+        ],
+        [
+            "BASSANIO",
+            "Give him the ring, and bring him, if thou canst,"
+        ],
+        [
+            "BASSANIO",
+            "Unto Antonio's house: away! make haste."
+        ],
+        [
+            "BASSANIO",
+            "Come, you and I will thither presently;"
+        ],
+        [
+            "BASSANIO",
+            "And in the morning early will we both"
+        ],
+        [
+            "BASSANIO",
+            "Fly toward Belmont: come, Antonio.",
+            {
+                "following_direction_line": "11"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter the DUKE, the Magnificoes, ANTONIO, BASSANIO, GRATIANO, SALERIO, and others"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter SHYLOCK"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter NERISSA, dressed like a lawyer's clerk"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Presenting a letter"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Enter PORTIA, dressed like a doctor of laws"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Aside"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exit SHYLOCK"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exeunt Duke and his train"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "To ANTONIO. To BASSANIO"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Exeunt Portia and Nerissa"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "Exit Gratiano. Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "DUKE": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "6"
+            ],
+            [
+                "15",
+                "15"
+            ],
+            [
+                "17",
+                "35"
+            ],
+            [
+                "89",
+                "89"
+            ],
+            [
+                "105",
+                "108"
+            ],
+            [
+                "112",
+                "112"
+            ],
+            [
+                "121",
+                "121"
+            ],
+            [
+                "145",
+                "147"
+            ],
+            [
+                "150",
+                "152"
+            ],
+            [
+                "170",
+                "172"
+            ],
+            [
+                "174",
+                "176"
+            ],
+            [
+                "179",
+                "179"
+            ],
+            [
+                "382",
+                "386"
+            ],
+            [
+                "405",
+                "406"
+            ],
+            [
+                "413",
+                "413"
+            ],
+            [
+                "417",
+                "417"
+            ],
+            [
+                "421",
+                "423"
+            ]
+        ],
+        "ANTONIO": [
+            [
+                "2",
+                "2"
+            ],
+            [
+                "7",
+                "14"
+            ],
+            [
+                "71",
+                "84"
+            ],
+            [
+                "116",
+                "120"
+            ],
+            [
+                "186",
+                "186"
+            ],
+            [
+                "188",
+                "188"
+            ],
+            [
+                "251",
+                "252"
+            ],
+            [
+                "275",
+                "292"
+            ],
+            [
+                "394",
+                "404"
+            ],
+            [
+                "429",
+                "430"
+            ],
+            [
+                "465",
+                "467"
+            ]
+        ],
+        "SALERIO": [
+            [
+                "16",
+                "16"
+            ],
+            [
+                "109",
+                "111"
+            ]
+        ],
+        "SHYLOCK": [
+            [
+                "36",
+                "63"
+            ],
+            [
+                "66",
+                "66"
+            ],
+            [
+                "68",
+                "68"
+            ],
+            [
+                "70",
+                "70"
+            ],
+            [
+                "86",
+                "88"
+            ],
+            [
+                "90",
+                "104"
+            ],
+            [
+                "124",
+                "124"
+            ],
+            [
+                "129",
+                "129"
+            ],
+            [
+                "141",
+                "144"
+            ],
+            [
+                "181",
+                "181"
+            ],
+            [
+                "190",
+                "190"
+            ],
+            [
+                "213",
+                "214"
+            ],
+            [
+                "230",
+                "231"
+            ],
+            [
+                "233",
+                "233"
+            ],
+            [
+                "235",
+                "237"
+            ],
+            [
+                "243",
+                "250"
+            ],
+            [
+                "255",
+                "255"
+            ],
+            [
+                "259",
+                "260"
+            ],
+            [
+                "262",
+                "264"
+            ],
+            [
+                "267",
+                "267"
+            ],
+            [
+                "270",
+                "270"
+            ],
+            [
+                "273",
+                "273"
+            ],
+            [
+                "306",
+                "309"
+            ],
+            [
+                "312",
+                "312"
+            ],
+            [
+                "315",
+                "315"
+            ],
+            [
+                "325",
+                "325"
+            ],
+            [
+                "330",
+                "331"
+            ],
+            [
+                "349",
+                "349"
+            ],
+            [
+                "355",
+                "355"
+            ],
+            [
+                "358",
+                "359"
+            ],
+            [
+                "388",
+                "391"
+            ],
+            [
+                "408",
+                "408"
+            ],
+            [
+                "410",
+                "412"
+            ]
+        ],
+        "BASSANIO": [
+            [
+                "64",
+                "65"
+            ],
+            [
+                "67",
+                "67"
+            ],
+            [
+                "69",
+                "69"
+            ],
+            [
+                "85",
+                "85"
+            ],
+            [
+                "113",
+                "115"
+            ],
+            [
+                "123",
+                "123"
+            ],
+            [
+                "216",
+                "224"
+            ],
+            [
+                "293",
+                "298"
+            ],
+            [
+                "332",
+                "332"
+            ],
+            [
+                "350",
+                "350"
+            ],
+            [
+                "424",
+                "428"
+            ],
+            [
+                "437",
+                "440"
+            ],
+            [
+                "446",
+                "447"
+            ],
+            [
+                "450",
+                "453"
+            ],
+            [
+                "457",
+                "459"
+            ],
+            [
+                "468",
+                "473"
+            ]
+        ],
+        "NERISSA": [
+            [
+                "122",
+                "122"
+            ],
+            [
+                "148",
+                "149"
+            ],
+            [
+                "304",
+                "305"
+            ]
+        ],
+        "GRATIANO": [
+            [
+                "125",
+                "128"
+            ],
+            [
+                "130",
+                "140"
+            ],
+            [
+                "301",
+                "303"
+            ],
+            [
+                "324",
+                "324"
+            ],
+            [
+                "329",
+                "329"
+            ],
+            [
+                "336",
+                "336"
+            ],
+            [
+                "346",
+                "347"
+            ],
+            [
+                "353",
+                "354"
+            ],
+            [
+                "378",
+                "381"
+            ],
+            [
+                "393",
+                "393"
+            ],
+            [
+                "414",
+                "416"
+            ]
+        ],
+        "Clerk": [
+            [
+                "153",
+                "169"
+            ]
+        ],
+        "PORTIA": [
+            [
+                "173",
+                "173"
+            ],
+            [
+                "177",
+                "178"
+            ],
+            [
+                "180",
+                "180"
+            ],
+            [
+                "182",
+                "185"
+            ],
+            [
+                "187",
+                "187"
+            ],
+            [
+                "189",
+                "189"
+            ],
+            [
+                "191",
+                "212"
+            ],
+            [
+                "215",
+                "215"
+            ],
+            [
+                "225",
+                "229"
+            ],
+            [
+                "232",
+                "232"
+            ],
+            [
+                "234",
+                "234"
+            ],
+            [
+                "238",
+                "242"
+            ],
+            [
+                "253",
+                "254"
+            ],
+            [
+                "256",
+                "258"
+            ],
+            [
+                "261",
+                "261"
+            ],
+            [
+                "265",
+                "266"
+            ],
+            [
+                "268",
+                "269"
+            ],
+            [
+                "271",
+                "272"
+            ],
+            [
+                "274",
+                "274"
+            ],
+            [
+                "299",
+                "300"
+            ],
+            [
+                "310",
+                "311"
+            ],
+            [
+                "313",
+                "314"
+            ],
+            [
+                "316",
+                "323"
+            ],
+            [
+                "326",
+                "328"
+            ],
+            [
+                "333",
+                "335"
+            ],
+            [
+                "337",
+                "345"
+            ],
+            [
+                "348",
+                "348"
+            ],
+            [
+                "351",
+                "352"
+            ],
+            [
+                "356",
+                "357"
+            ],
+            [
+                "360",
+                "377"
+            ],
+            [
+                "387",
+                "387"
+            ],
+            [
+                "392",
+                "392"
+            ],
+            [
+                "407",
+                "407"
+            ],
+            [
+                "409",
+                "409"
+            ],
+            [
+                "418",
+                "420"
+            ],
+            [
+                "431",
+                "436"
+            ],
+            [
+                "441",
+                "445"
+            ],
+            [
+                "448",
+                "449"
+            ],
+            [
+                "454",
+                "456"
+            ],
+            [
+                "460",
+                "464"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "Venice. A court of justice."
+}

@@ -1,0 +1,696 @@
+{
+    "scene_id": "romeo and juliet~~Act_4~~Scene_1",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "FRIAR LAURENCE",
+            "On Thursday, sir? the time is very short.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "PARIS",
+            "My father Capulet will have it so;"
+        ],
+        [
+            "PARIS",
+            "And I am nothing slow to slack his haste."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "You say you do not know the lady's mind:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Uneven is the course, I like it not."
+        ],
+        [
+            "PARIS",
+            "Immoderately she weeps for Tybalt's death,"
+        ],
+        [
+            "PARIS",
+            "And therefore have I little talk'd of love;"
+        ],
+        [
+            "PARIS",
+            "For Venus smiles not in a house of tears."
+        ],
+        [
+            "PARIS",
+            "Now, sir, her father counts it dangerous"
+        ],
+        [
+            "PARIS",
+            "That she doth give her sorrow so much sway,"
+        ],
+        [
+            "PARIS",
+            "And in his wisdom hastes our marriage,"
+        ],
+        [
+            "PARIS",
+            "To stop the inundation of her tears;"
+        ],
+        [
+            "PARIS",
+            "Which, too much minded by herself alone,"
+        ],
+        [
+            "PARIS",
+            "May be put from her by society:"
+        ],
+        [
+            "PARIS",
+            "Now do you know the reason of this haste."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "[Aside] I would I knew not why it should be slow'd."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Look, sir, here comes the lady towards my cell.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "PARIS",
+            "Happily met, my lady and my wife!",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "JULIET",
+            "That may be, sir, when I may be a wife."
+        ],
+        [
+            "PARIS",
+            "That may be must be, love, on Thursday next."
+        ],
+        [
+            "JULIET",
+            "What must be shall be."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "That's a certain text."
+        ],
+        [
+            "PARIS",
+            "Come you to make confession to this father?"
+        ],
+        [
+            "JULIET",
+            "To answer that, I should confess to you."
+        ],
+        [
+            "PARIS",
+            "Do not deny to him that you love me."
+        ],
+        [
+            "JULIET",
+            "I will confess to you that I love him."
+        ],
+        [
+            "PARIS",
+            "So will ye, I am sure, that you love me."
+        ],
+        [
+            "JULIET",
+            "If I do so, it will be of more price,"
+        ],
+        [
+            "JULIET",
+            "Being spoke behind your back, than to your face."
+        ],
+        [
+            "PARIS",
+            "Poor soul, thy face is much abused with tears."
+        ],
+        [
+            "JULIET",
+            "The tears have got small victory by that;"
+        ],
+        [
+            "JULIET",
+            "For it was bad enough before their spite."
+        ],
+        [
+            "PARIS",
+            "Thou wrong'st it, more than tears, with that report."
+        ],
+        [
+            "JULIET",
+            "That is no slander, sir, which is a truth;"
+        ],
+        [
+            "JULIET",
+            "And what I spake, I spake it to my face."
+        ],
+        [
+            "PARIS",
+            "Thy face is mine, and thou hast slander'd it."
+        ],
+        [
+            "JULIET",
+            "It may be so, for it is not mine own."
+        ],
+        [
+            "JULIET",
+            "Are you at leisure, holy father, now;"
+        ],
+        [
+            "JULIET",
+            "Or shall I come to you at evening mass?"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "My leisure serves me, pensive daughter, now."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "My lord, we must entreat the time alone."
+        ],
+        [
+            "PARIS",
+            "God shield I should disturb devotion!"
+        ],
+        [
+            "PARIS",
+            "Juliet, on Thursday early will I rouse ye:"
+        ],
+        [
+            "PARIS",
+            "Till then, adieu; and keep this holy kiss.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "JULIET",
+            "O shut the door! and when thou hast done so,",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "JULIET",
+            "Come weep with me; past hope, past cure, past help!"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Ah, Juliet, I already know thy grief;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "It strains me past the compass of my wits:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "I hear thou must, and nothing may prorogue it,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "On Thursday next be married to this county."
+        ],
+        [
+            "JULIET",
+            "Tell me not, friar, that thou hear'st of this,"
+        ],
+        [
+            "JULIET",
+            "Unless thou tell me how I may prevent it:"
+        ],
+        [
+            "JULIET",
+            "If, in thy wisdom, thou canst give no help,"
+        ],
+        [
+            "JULIET",
+            "Do thou but call my resolution wise,"
+        ],
+        [
+            "JULIET",
+            "And with this knife I'll help it presently."
+        ],
+        [
+            "JULIET",
+            "God join'd my heart and Romeo's, thou our hands;"
+        ],
+        [
+            "JULIET",
+            "And ere this hand, by thee to Romeo seal'd,"
+        ],
+        [
+            "JULIET",
+            "Shall be the label to another deed,"
+        ],
+        [
+            "JULIET",
+            "Or my true heart with treacherous revolt"
+        ],
+        [
+            "JULIET",
+            "Turn to another, this shall slay them both:"
+        ],
+        [
+            "JULIET",
+            "Therefore, out of thy long-experienced time,"
+        ],
+        [
+            "JULIET",
+            "Give me some present counsel, or, behold,"
+        ],
+        [
+            "JULIET",
+            "'Twixt my extremes and me this bloody knife"
+        ],
+        [
+            "JULIET",
+            "Shall play the umpire, arbitrating that"
+        ],
+        [
+            "JULIET",
+            "Which the commission of thy years and art"
+        ],
+        [
+            "JULIET",
+            "Could to no issue of true honour bring."
+        ],
+        [
+            "JULIET",
+            "Be not so long to speak; I long to die,"
+        ],
+        [
+            "JULIET",
+            "If what thou speak'st speak not of remedy."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Hold, daughter: I do spy a kind of hope,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Which craves as desperate an execution."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "As that is desperate which we would prevent."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "If, rather than to marry County Paris,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Thou hast the strength of will to slay thyself,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Then is it likely thou wilt undertake"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "A thing like death to chide away this shame,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "That copest with death himself to scape from it:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And, if thou darest, I'll give thee remedy."
+        ],
+        [
+            "JULIET",
+            "O, bid me leap, rather than marry Paris,"
+        ],
+        [
+            "JULIET",
+            "From off the battlements of yonder tower;"
+        ],
+        [
+            "JULIET",
+            "Or walk in thievish ways; or bid me lurk"
+        ],
+        [
+            "JULIET",
+            "Where serpents are; chain me with roaring bears;"
+        ],
+        [
+            "JULIET",
+            "Or shut me nightly in a charnel-house,"
+        ],
+        [
+            "JULIET",
+            "O'er-cover'd quite with dead men's rattling bones,"
+        ],
+        [
+            "JULIET",
+            "With reeky shanks and yellow chapless skulls;"
+        ],
+        [
+            "JULIET",
+            "Or bid me go into a new-made grave"
+        ],
+        [
+            "JULIET",
+            "And hide me with a dead man in his shroud;"
+        ],
+        [
+            "JULIET",
+            "Things that, to hear them told, have made me tremble;"
+        ],
+        [
+            "JULIET",
+            "And I will do it without fear or doubt,"
+        ],
+        [
+            "JULIET",
+            "To live an unstain'd wife to my sweet love."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Hold, then; go home, be merry, give consent"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "To marry Paris: Wednesday is to-morrow:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "To-morrow night look that thou lie alone;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Let not thy nurse lie with thee in thy chamber:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Take thou this vial, being then in bed,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And this distilled liquor drink thou off;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "When presently through all thy veins shall run"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "A cold and drowsy humour, for no pulse"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Shall keep his native progress, but surcease:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "No warmth, no breath, shall testify thou livest;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "The roses in thy lips and cheeks shall fade"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "To paly ashes, thy eyes' windows fall,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Like death, when he shuts up the day of life;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Each part, deprived of supple government,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Shall, stiff and stark and cold, appear like death:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And in this borrow'd likeness of shrunk death"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Thou shalt continue two and forty hours,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And then awake as from a pleasant sleep."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Now, when the bridegroom in the morning comes"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "To rouse thee from thy bed, there art thou dead:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Then, as the manner of our country is,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "In thy best robes uncover'd on the bier"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Thou shalt be borne to that same ancient vault"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Where all the kindred of the Capulets lie."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "In the mean time, against thou shalt awake,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Shall Romeo by my letters know our drift,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And hither shall he come: and he and I"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Will watch thy waking, and that very night"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Shall Romeo bear thee hence to Mantua."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And this shall free thee from this present shame;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "If no inconstant toy, nor womanish fear,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Abate thy valour in the acting it."
+        ],
+        [
+            "JULIET",
+            "Give me, give me! O, tell not me of fear!"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Hold; get you gone, be strong and prosperous"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "In this resolve: I'll send a friar with speed"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "To Mantua, with my letters to thy lord."
+        ],
+        [
+            "JULIET",
+            "Love give me strength! and strength shall help afford."
+        ],
+        [
+            "JULIET",
+            "Farewell, dear father!",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter FRIAR LAURENCE and PARIS"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter JULIET"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "FRIAR LAURENCE": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "4",
+                "5"
+            ],
+            [
+                "16",
+                "17"
+            ],
+            [
+                "22",
+                "22"
+            ],
+            [
+                "40",
+                "41"
+            ],
+            [
+                "47",
+                "50"
+            ],
+            [
+                "69",
+                "77"
+            ],
+            [
+                "90",
+                "121"
+            ],
+            [
+                "123",
+                "125"
+            ]
+        ],
+        "PARIS": [
+            [
+                "2",
+                "3"
+            ],
+            [
+                "6",
+                "15"
+            ],
+            [
+                "18",
+                "18"
+            ],
+            [
+                "20",
+                "20"
+            ],
+            [
+                "23",
+                "23"
+            ],
+            [
+                "25",
+                "25"
+            ],
+            [
+                "27",
+                "27"
+            ],
+            [
+                "30",
+                "30"
+            ],
+            [
+                "33",
+                "33"
+            ],
+            [
+                "36",
+                "36"
+            ],
+            [
+                "42",
+                "44"
+            ]
+        ],
+        "JULIET": [
+            [
+                "19",
+                "19"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "24",
+                "24"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "28",
+                "29"
+            ],
+            [
+                "31",
+                "32"
+            ],
+            [
+                "34",
+                "35"
+            ],
+            [
+                "37",
+                "39"
+            ],
+            [
+                "45",
+                "46"
+            ],
+            [
+                "51",
+                "68"
+            ],
+            [
+                "78",
+                "89"
+            ],
+            [
+                "122",
+                "122"
+            ],
+            [
+                "126",
+                "127"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "Friar Laurence's cell."
+}

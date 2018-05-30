@@ -1,0 +1,206 @@
+{
+    "scene_id": "romeo and juliet~~Act_5~~Scene_2",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "FRIAR JOHN",
+            "Holy Franciscan friar! brother, ho!",
+            {
+                "preceding_direction_line": "1"
+            },
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "FRIAR LAURENCE",
+            "This same should be the voice of Friar John.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Welcome from Mantua: what says Romeo?"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Or, if his mind be writ, give me his letter."
+        ],
+        [
+            "FRIAR JOHN",
+            "Going to find a bare-foot brother out"
+        ],
+        [
+            "FRIAR JOHN",
+            "One of our order, to associate me,"
+        ],
+        [
+            "FRIAR JOHN",
+            "Here in this city visiting the sick,"
+        ],
+        [
+            "FRIAR JOHN",
+            "And finding him, the searchers of the town,"
+        ],
+        [
+            "FRIAR JOHN",
+            "Suspecting that we both were in a house"
+        ],
+        [
+            "FRIAR JOHN",
+            "Where the infectious pestilence did reign,"
+        ],
+        [
+            "FRIAR JOHN",
+            "Seal'd up the doors, and would not let us forth;"
+        ],
+        [
+            "FRIAR JOHN",
+            "So that my speed to Mantua there was stay'd."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Who bare my letter, then, to Romeo?"
+        ],
+        [
+            "FRIAR JOHN",
+            "I could not send it,--here it is again,--"
+        ],
+        [
+            "FRIAR JOHN",
+            "Nor get a messenger to bring it thee,"
+        ],
+        [
+            "FRIAR JOHN",
+            "So fearful were they of infection."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Unhappy fortune! by my brotherhood,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "The letter was not nice but full of charge"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Of dear import, and the neglecting it"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "May do much danger. Friar John, go hence;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Get me an iron crow, and bring it straight"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Unto my cell."
+        ],
+        [
+            "FRIAR JOHN",
+            "Brother, I'll go and bring it thee.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Now must I to the monument alone;",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Within three hours will fair Juliet wake:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "She will beshrew me much that Romeo"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Hath had no notice of these accidents;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "But I will write again to Mantua,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And keep her at my cell till Romeo come;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Poor living corse, closed in a dead man's tomb!",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter FRIAR JOHN"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter FRIAR LAURENCE"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "FRIAR JOHN": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "5",
+                "12"
+            ],
+            [
+                "14",
+                "16"
+            ],
+            [
+                "23",
+                "23"
+            ]
+        ],
+        "FRIAR LAURENCE": [
+            [
+                "2",
+                "4"
+            ],
+            [
+                "13",
+                "13"
+            ],
+            [
+                "17",
+                "22"
+            ],
+            [
+                "24",
+                "30"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "Friar Laurence's cell."
+}

@@ -1,0 +1,310 @@
+{
+    "scene_id": "romeo and juliet~~Act_4~~Scene_3",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "JULIET",
+            "Ay, those attires are best: but, gentle nurse,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "JULIET",
+            "I pray thee, leave me to my self to-night,"
+        ],
+        [
+            "JULIET",
+            "For I have need of many orisons"
+        ],
+        [
+            "JULIET",
+            "To move the heavens to smile upon my state,"
+        ],
+        [
+            "JULIET",
+            "Which, well thou know'st, is cross, and full of sin.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "LADY CAPULET",
+            "What, are you busy, ho? need you my help?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "JULIET",
+            "No, madam; we have cull'd such necessaries"
+        ],
+        [
+            "JULIET",
+            "As are behoveful for our state to-morrow:"
+        ],
+        [
+            "JULIET",
+            "So please you, let me now be left alone,"
+        ],
+        [
+            "JULIET",
+            "And let the nurse this night sit up with you;"
+        ],
+        [
+            "JULIET",
+            "For, I am sure, you have your hands full all,"
+        ],
+        [
+            "JULIET",
+            "In this so sudden business."
+        ],
+        [
+            "LADY CAPULET",
+            "Good night:"
+        ],
+        [
+            "LADY CAPULET",
+            "Get thee to bed, and rest; for thou hast need.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "JULIET",
+            "Farewell! God knows when we shall meet again.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "JULIET",
+            "I have a faint cold fear thrills through my veins,"
+        ],
+        [
+            "JULIET",
+            "That almost freezes up the heat of life:"
+        ],
+        [
+            "JULIET",
+            "I'll call them back again to comfort me:"
+        ],
+        [
+            "JULIET",
+            "Nurse! What should she do here?"
+        ],
+        [
+            "JULIET",
+            "My dismal scene I needs must act alone."
+        ],
+        [
+            "JULIET",
+            "Come, vial."
+        ],
+        [
+            "JULIET",
+            "What if this mixture do not work at all?"
+        ],
+        [
+            "JULIET",
+            "Shall I be married then to-morrow morning?"
+        ],
+        [
+            "JULIET",
+            "No, no: this shall forbid it: lie thou there."
+        ],
+        [
+            "JULIET",
+            "What if it be a poison, which the friar"
+        ],
+        [
+            "JULIET",
+            "Subtly hath minister'd to have me dead,"
+        ],
+        [
+            "JULIET",
+            "Lest in this marriage he should be dishonour'd,"
+        ],
+        [
+            "JULIET",
+            "Because he married me before to Romeo?"
+        ],
+        [
+            "JULIET",
+            "I fear it is: and yet, methinks, it should not,"
+        ],
+        [
+            "JULIET",
+            "For he hath still been tried a holy man."
+        ],
+        [
+            "JULIET",
+            "How if, when I am laid into the tomb,"
+        ],
+        [
+            "JULIET",
+            "I wake before the time that Romeo"
+        ],
+        [
+            "JULIET",
+            "Come to redeem me? there's a fearful point!"
+        ],
+        [
+            "JULIET",
+            "Shall I not, then, be stifled in the vault,"
+        ],
+        [
+            "JULIET",
+            "To whose foul mouth no healthsome air breathes in,"
+        ],
+        [
+            "JULIET",
+            "And there die strangled ere my Romeo comes?"
+        ],
+        [
+            "JULIET",
+            "Or, if I live, is it not very like,"
+        ],
+        [
+            "JULIET",
+            "The horrible conceit of death and night,"
+        ],
+        [
+            "JULIET",
+            "Together with the terror of the place,--"
+        ],
+        [
+            "JULIET",
+            "As in a vault, an ancient receptacle,"
+        ],
+        [
+            "JULIET",
+            "Where, for these many hundred years, the bones"
+        ],
+        [
+            "JULIET",
+            "Of all my buried ancestors are packed:"
+        ],
+        [
+            "JULIET",
+            "Where bloody Tybalt, yet but green in earth,"
+        ],
+        [
+            "JULIET",
+            "Lies festering in his shroud; where, as they say,"
+        ],
+        [
+            "JULIET",
+            "At some hours in the night spirits resort;--"
+        ],
+        [
+            "JULIET",
+            "Alack, alack, is it not like that I,"
+        ],
+        [
+            "JULIET",
+            "So early waking, what with loathsome smells,"
+        ],
+        [
+            "JULIET",
+            "And shrieks like mandrakes' torn out of the earth,"
+        ],
+        [
+            "JULIET",
+            "That living mortals, hearing them, run mad:--"
+        ],
+        [
+            "JULIET",
+            "O, if I wake, shall I not be distraught,"
+        ],
+        [
+            "JULIET",
+            "Environed with all these hideous fears?"
+        ],
+        [
+            "JULIET",
+            "And madly play with my forefather's joints?"
+        ],
+        [
+            "JULIET",
+            "And pluck the mangled Tybalt from his shroud?"
+        ],
+        [
+            "JULIET",
+            "And, in this rage, with some great kinsman's bone,"
+        ],
+        [
+            "JULIET",
+            "As with a club, dash out my desperate brains?"
+        ],
+        [
+            "JULIET",
+            "O, look! methinks I see my cousin's ghost"
+        ],
+        [
+            "JULIET",
+            "Seeking out Romeo, that did spit his body"
+        ],
+        [
+            "JULIET",
+            "Upon a rapier's point: stay, Tybalt, stay!"
+        ],
+        [
+            "JULIET",
+            "Romeo, I come! this do I drink to thee.",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter JULIET and Nurse"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter LADY CAPULET"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt LADY CAPULET and Nurse"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Laying down her dagger. She falls upon her bed, within the curtains"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "JULIET": [
+            [
+                "1",
+                "5"
+            ],
+            [
+                "7",
+                "12"
+            ],
+            [
+                "15",
+                "59"
+            ]
+        ],
+        "LADY CAPULET": [
+            [
+                "6",
+                "6"
+            ],
+            [
+                "13",
+                "14"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "Juliet's chamber."
+}

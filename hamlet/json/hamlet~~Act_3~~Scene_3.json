@@ -1,0 +1,511 @@
+{
+    "scene_id": "hamlet~~Act_3~~Scene_3",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "KING CLAUDIUS",
+            "I like him not, nor stands it safe with us",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "KING CLAUDIUS",
+            "To let his madness range. Therefore prepare you;"
+        ],
+        [
+            "KING CLAUDIUS",
+            "I your commission will forthwith dispatch,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "And he to England shall along with you:"
+        ],
+        [
+            "KING CLAUDIUS",
+            "The terms of our estate may not endure"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Hazard so dangerous as doth hourly grow"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Out of his lunacies."
+        ],
+        [
+            "GUILDENSTERN",
+            "We will ourselves provide:"
+        ],
+        [
+            "GUILDENSTERN",
+            "Most holy and religious fear it is"
+        ],
+        [
+            "GUILDENSTERN",
+            "To keep those many many bodies safe"
+        ],
+        [
+            "GUILDENSTERN",
+            "That live and feed upon your majesty."
+        ],
+        [
+            "ROSENCRANTZ",
+            "The single and peculiar life is bound,"
+        ],
+        [
+            "ROSENCRANTZ",
+            "With all the strength and armour of the mind,"
+        ],
+        [
+            "ROSENCRANTZ",
+            "To keep itself from noyance; but much more"
+        ],
+        [
+            "ROSENCRANTZ",
+            "That spirit upon whose weal depend and rest"
+        ],
+        [
+            "ROSENCRANTZ",
+            "The lives of many. The cease of majesty"
+        ],
+        [
+            "ROSENCRANTZ",
+            "Dies not alone; but, like a gulf, doth draw"
+        ],
+        [
+            "ROSENCRANTZ",
+            "What's near it with it: it is a massy wheel,"
+        ],
+        [
+            "ROSENCRANTZ",
+            "Fix'd on the summit of the highest mount,"
+        ],
+        [
+            "ROSENCRANTZ",
+            "To whose huge spokes ten thousand lesser things"
+        ],
+        [
+            "ROSENCRANTZ",
+            "Are mortised and adjoin'd; which, when it falls,"
+        ],
+        [
+            "ROSENCRANTZ",
+            "Each small annexment, petty consequence,"
+        ],
+        [
+            "ROSENCRANTZ",
+            "Attends the boisterous ruin. Never alone"
+        ],
+        [
+            "ROSENCRANTZ",
+            "Did the king sigh, but with a general groan."
+        ],
+        [
+            "KING CLAUDIUS",
+            "Arm you, I pray you, to this speedy voyage;"
+        ],
+        [
+            "KING CLAUDIUS",
+            "For we will fetters put upon this fear,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Which now goes too free-footed."
+        ],
+        [
+            "GUILDENSTERN",
+            "We will haste us.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "LORD POLONIUS",
+            "My lord, he's going to his mother's closet:",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "LORD POLONIUS",
+            "Behind the arras I'll convey myself,"
+        ],
+        [
+            "LORD POLONIUS",
+            "To hear the process; and warrant she'll tax him home:"
+        ],
+        [
+            "LORD POLONIUS",
+            "And, as you said, and wisely was it said,"
+        ],
+        [
+            "LORD POLONIUS",
+            "'Tis meet that some more audience than a mother,"
+        ],
+        [
+            "LORD POLONIUS",
+            "Since nature makes them partial, should o'erhear"
+        ],
+        [
+            "LORD POLONIUS",
+            "The speech, of vantage. Fare you well, my liege:"
+        ],
+        [
+            "LORD POLONIUS",
+            "I'll call upon you ere you go to bed,"
+        ],
+        [
+            "LORD POLONIUS",
+            "And tell you what I know."
+        ],
+        [
+            "KING CLAUDIUS",
+            "Thanks, dear my lord."
+        ],
+        [
+            "KING CLAUDIUS",
+            "O, my offence is rank it smells to heaven;"
+        ],
+        [
+            "KING CLAUDIUS",
+            "It hath the primal eldest curse upon't,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "A brother's murder. Pray can I not,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Though inclination be as sharp as will:"
+        ],
+        [
+            "KING CLAUDIUS",
+            "My stronger guilt defeats my strong intent;"
+        ],
+        [
+            "KING CLAUDIUS",
+            "And, like a man to double business bound,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "I stand in pause where I shall first begin,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "And both neglect. What if this cursed hand"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Were thicker than itself with brother's blood,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Is there not rain enough in the sweet heavens"
+        ],
+        [
+            "KING CLAUDIUS",
+            "To wash it white as snow? Whereto serves mercy"
+        ],
+        [
+            "KING CLAUDIUS",
+            "But to confront the visage of offence?"
+        ],
+        [
+            "KING CLAUDIUS",
+            "And what's in prayer but this two-fold force,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "To be forestalled ere we come to fall,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Or pardon'd being down? Then I'll look up;"
+        ],
+        [
+            "KING CLAUDIUS",
+            "My fault is past. But, O, what form of prayer"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Can serve my turn? 'Forgive me my foul murder'?"
+        ],
+        [
+            "KING CLAUDIUS",
+            "That cannot be; since I am still possess'd"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Of those effects for which I did the murder,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "My crown, mine own ambition and my queen."
+        ],
+        [
+            "KING CLAUDIUS",
+            "May one be pardon'd and retain the offence?"
+        ],
+        [
+            "KING CLAUDIUS",
+            "In the corrupted currents of this world"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Offence's gilded hand may shove by justice,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "And oft 'tis seen the wicked prize itself"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Buys out the law: but 'tis not so above;"
+        ],
+        [
+            "KING CLAUDIUS",
+            "There is no shuffling, there the action lies"
+        ],
+        [
+            "KING CLAUDIUS",
+            "In his true nature; and we ourselves compell'd,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Even to the teeth and forehead of our faults,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "To give in evidence. What then? what rests?"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Try what repentance can: what can it not?"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Yet what can it when one can not repent?"
+        ],
+        [
+            "KING CLAUDIUS",
+            "O wretched state! O bosom black as death!"
+        ],
+        [
+            "KING CLAUDIUS",
+            "O limed soul, that, struggling to be free,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Art more engaged! Help, angels! Make assay!"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Bow, stubborn knees; and, heart with strings of steel,"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Be soft as sinews of the newborn babe!"
+        ],
+        [
+            "KING CLAUDIUS",
+            "All may be well.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "HAMLET",
+            "Now might I do it pat, now he is praying;",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "HAMLET",
+            "And now I'll do't. And so he goes to heaven;"
+        ],
+        [
+            "HAMLET",
+            "And so am I revenged. That would be scann'd:"
+        ],
+        [
+            "HAMLET",
+            "A villain kills my father; and for that,"
+        ],
+        [
+            "HAMLET",
+            "I, his sole son, do this same villain send"
+        ],
+        [
+            "HAMLET",
+            "To heaven."
+        ],
+        [
+            "HAMLET",
+            "O, this is hire and salary, not revenge."
+        ],
+        [
+            "HAMLET",
+            "He took my father grossly, full of bread;"
+        ],
+        [
+            "HAMLET",
+            "With all his crimes broad blown, as flush as May;"
+        ],
+        [
+            "HAMLET",
+            "And how his audit stands who knows save heaven?"
+        ],
+        [
+            "HAMLET",
+            "But in our circumstance and course of thought,"
+        ],
+        [
+            "HAMLET",
+            "'Tis heavy with him: and am I then revenged,"
+        ],
+        [
+            "HAMLET",
+            "To take him in the purging of his soul,"
+        ],
+        [
+            "HAMLET",
+            "When he is fit and season'd for his passage?"
+        ],
+        [
+            "HAMLET",
+            "No!"
+        ],
+        [
+            "HAMLET",
+            "Up, sword; and know thou a more horrid hent:"
+        ],
+        [
+            "HAMLET",
+            "When he is drunk asleep, or in his rage,"
+        ],
+        [
+            "HAMLET",
+            "Or in the incestuous pleasure of his bed;"
+        ],
+        [
+            "HAMLET",
+            "At gaming, swearing, or about some act"
+        ],
+        [
+            "HAMLET",
+            "That has no relish of salvation in't;"
+        ],
+        [
+            "HAMLET",
+            "Then trip him, that his heels may kick at heaven,"
+        ],
+        [
+            "HAMLET",
+            "And that his soul may be as damn'd and black"
+        ],
+        [
+            "HAMLET",
+            "As hell, whereto it goes. My mother stays:"
+        ],
+        [
+            "HAMLET",
+            "This physic but prolongs thy sickly days.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "KING CLAUDIUS",
+            "[Rising] My words fly up, my thoughts remain below:",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "KING CLAUDIUS",
+            "Words without thoughts never to heaven go.",
+            {
+                "following_direction_line": "5"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter KING CLAUDIUS, ROSENCRANTZ, and GUILDENSTERN"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt ROSENCRANTZ and GUILDENSTERN. Enter POLONIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit POLONIUS. Retires and kneels. Enter HAMLET"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "KING CLAUDIUS": [
+            [
+                "1",
+                "7"
+            ],
+            [
+                "25",
+                "27"
+            ],
+            [
+                "38",
+                "75"
+            ],
+            [
+                "100",
+                "101"
+            ]
+        ],
+        "GUILDENSTERN": [
+            [
+                "8",
+                "11"
+            ],
+            [
+                "28",
+                "28"
+            ]
+        ],
+        "ROSENCRANTZ": [
+            [
+                "12",
+                "24"
+            ]
+        ],
+        "LORD POLONIUS": [
+            [
+                "29",
+                "37"
+            ]
+        ],
+        "HAMLET": [
+            [
+                "76",
+                "99"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "A room in the castle."
+}

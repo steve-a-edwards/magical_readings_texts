@@ -1,0 +1,256 @@
+{
+    "scene_id": "the merchant of venice~~Act_2~~Scene_1",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "MOROCCO",
+            "Mislike me not for my complexion,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "MOROCCO",
+            "The shadow'd livery of the burnish'd sun,"
+        ],
+        [
+            "MOROCCO",
+            "To whom I am a neighbour and near bred."
+        ],
+        [
+            "MOROCCO",
+            "Bring me the fairest creature northward born,"
+        ],
+        [
+            "MOROCCO",
+            "Where Phoebus' fire scarce thaws the icicles,"
+        ],
+        [
+            "MOROCCO",
+            "And let us make incision for your love,"
+        ],
+        [
+            "MOROCCO",
+            "To prove whose blood is reddest, his or mine."
+        ],
+        [
+            "MOROCCO",
+            "I tell thee, lady, this aspect of mine"
+        ],
+        [
+            "MOROCCO",
+            "Hath fear'd the valiant: by my love I swear"
+        ],
+        [
+            "MOROCCO",
+            "The best-regarded virgins of our clime"
+        ],
+        [
+            "MOROCCO",
+            "Have loved it too: I would not change this hue,"
+        ],
+        [
+            "MOROCCO",
+            "Except to steal your thoughts, my gentle queen."
+        ],
+        [
+            "PORTIA",
+            "In terms of choice I am not solely led"
+        ],
+        [
+            "PORTIA",
+            "By nice direction of a maiden's eyes;"
+        ],
+        [
+            "PORTIA",
+            "Besides, the lottery of my destiny"
+        ],
+        [
+            "PORTIA",
+            "Bars me the right of voluntary choosing:"
+        ],
+        [
+            "PORTIA",
+            "But if my father had not scanted me"
+        ],
+        [
+            "PORTIA",
+            "And hedged me by his wit, to yield myself"
+        ],
+        [
+            "PORTIA",
+            "His wife who wins me by that means I told you,"
+        ],
+        [
+            "PORTIA",
+            "Yourself, renowned prince, then stood as fair"
+        ],
+        [
+            "PORTIA",
+            "As any comer I have look'd on yet"
+        ],
+        [
+            "PORTIA",
+            "For my affection."
+        ],
+        [
+            "MOROCCO",
+            "Even for that I thank you:"
+        ],
+        [
+            "MOROCCO",
+            "Therefore, I pray you, lead me to the caskets"
+        ],
+        [
+            "MOROCCO",
+            "To try my fortune. By this scimitar"
+        ],
+        [
+            "MOROCCO",
+            "That slew the Sophy and a Persian prince"
+        ],
+        [
+            "MOROCCO",
+            "That won three fields of Sultan Solyman,"
+        ],
+        [
+            "MOROCCO",
+            "I would outstare the sternest eyes that look,"
+        ],
+        [
+            "MOROCCO",
+            "Outbrave the heart most daring on the earth,"
+        ],
+        [
+            "MOROCCO",
+            "Pluck the young sucking cubs from the she-bear,"
+        ],
+        [
+            "MOROCCO",
+            "Yea, mock the lion when he roars for prey,"
+        ],
+        [
+            "MOROCCO",
+            "To win thee, lady. But, alas the while!"
+        ],
+        [
+            "MOROCCO",
+            "If Hercules and Lichas play at dice"
+        ],
+        [
+            "MOROCCO",
+            "Which is the better man, the greater throw"
+        ],
+        [
+            "MOROCCO",
+            "May turn by fortune from the weaker hand:"
+        ],
+        [
+            "MOROCCO",
+            "So is Alcides beaten by his page;"
+        ],
+        [
+            "MOROCCO",
+            "And so may I, blind fortune leading me,"
+        ],
+        [
+            "MOROCCO",
+            "Miss that which one unworthier may attain,"
+        ],
+        [
+            "MOROCCO",
+            "And die with grieving."
+        ],
+        [
+            "PORTIA",
+            "You must take your chance,"
+        ],
+        [
+            "PORTIA",
+            "And either not attempt to choose at all"
+        ],
+        [
+            "PORTIA",
+            "Or swear before you choose, if you choose wrong"
+        ],
+        [
+            "PORTIA",
+            "Never to speak to lady afterward"
+        ],
+        [
+            "PORTIA",
+            "In way of marriage: therefore be advised."
+        ],
+        [
+            "MOROCCO",
+            "Nor will not. Come, bring me unto my chance."
+        ],
+        [
+            "PORTIA",
+            "First, forward to the temple: after dinner"
+        ],
+        [
+            "PORTIA",
+            "Your hazard shall be made."
+        ],
+        [
+            "MOROCCO",
+            "Good fortune then!"
+        ],
+        [
+            "MOROCCO",
+            "To make me blest or cursed'st among men.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Flourish of cornets. Enter the PRINCE OF MOROCCO and his train; PORTIA, NERISSA, and others attending"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Cornets, and exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "MOROCCO": [
+            [
+                "1",
+                "12"
+            ],
+            [
+                "23",
+                "39"
+            ],
+            [
+                "45",
+                "45"
+            ],
+            [
+                "48",
+                "49"
+            ]
+        ],
+        "PORTIA": [
+            [
+                "13",
+                "22"
+            ],
+            [
+                "40",
+                "44"
+            ],
+            [
+                "46",
+                "47"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "Belmont. A room in PORTIA'S house."
+}

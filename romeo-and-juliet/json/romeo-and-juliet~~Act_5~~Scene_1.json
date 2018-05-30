@@ -1,0 +1,476 @@
+{
+    "scene_id": "romeo and juliet~~Act_5~~Scene_1",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "ROMEO",
+            "If I may trust the flattering truth of sleep,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "ROMEO",
+            "My dreams presage some joyful news at hand:"
+        ],
+        [
+            "ROMEO",
+            "My bosom's lord sits lightly in his throne;"
+        ],
+        [
+            "ROMEO",
+            "And all this day an unaccustom'd spirit"
+        ],
+        [
+            "ROMEO",
+            "Lifts me above the ground with cheerful thoughts."
+        ],
+        [
+            "ROMEO",
+            "I dreamt my lady came and found me dead--"
+        ],
+        [
+            "ROMEO",
+            "Strange dream, that gives a dead man leave"
+        ],
+        [
+            "ROMEO",
+            "to think!--"
+        ],
+        [
+            "ROMEO",
+            "And breathed such life with kisses in my lips,"
+        ],
+        [
+            "ROMEO",
+            "That I revived, and was an emperor."
+        ],
+        [
+            "ROMEO",
+            "Ah me! how sweet is love itself possess'd,"
+        ],
+        [
+            "ROMEO",
+            "When but love's shadows are so rich in joy!"
+        ],
+        [
+            "ROMEO",
+            "News from Verona!--How now, Balthasar!"
+        ],
+        [
+            "ROMEO",
+            "Dost thou not bring me letters from the friar?"
+        ],
+        [
+            "ROMEO",
+            "How doth my lady? Is my father well?"
+        ],
+        [
+            "ROMEO",
+            "How fares my Juliet? that I ask again;"
+        ],
+        [
+            "ROMEO",
+            "For nothing can be ill, if she be well.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "BALTHASAR",
+            "Then she is well, and nothing can be ill:",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "BALTHASAR",
+            "Her body sleeps in Capel's monument,"
+        ],
+        [
+            "BALTHASAR",
+            "And her immortal part with angels lives."
+        ],
+        [
+            "BALTHASAR",
+            "I saw her laid low in her kindred's vault,"
+        ],
+        [
+            "BALTHASAR",
+            "And presently took post to tell it you:"
+        ],
+        [
+            "BALTHASAR",
+            "O, pardon me for bringing these ill news,"
+        ],
+        [
+            "BALTHASAR",
+            "Since you did leave it for my office, sir."
+        ],
+        [
+            "ROMEO",
+            "Is it even so? then I defy you, stars!"
+        ],
+        [
+            "ROMEO",
+            "Thou know'st my lodging: get me ink and paper,"
+        ],
+        [
+            "ROMEO",
+            "And hire post-horses; I will hence to-night."
+        ],
+        [
+            "BALTHASAR",
+            "I do beseech you, sir, have patience:"
+        ],
+        [
+            "BALTHASAR",
+            "Your looks are pale and wild, and do import"
+        ],
+        [
+            "BALTHASAR",
+            "Some misadventure."
+        ],
+        [
+            "ROMEO",
+            "Tush, thou art deceived:"
+        ],
+        [
+            "ROMEO",
+            "Leave me, and do the thing I bid thee do."
+        ],
+        [
+            "ROMEO",
+            "Hast thou no letters to me from the friar?"
+        ],
+        [
+            "BALTHASAR",
+            "No, my good lord."
+        ],
+        [
+            "ROMEO",
+            "No matter: get thee gone,"
+        ],
+        [
+            "ROMEO",
+            "And hire those horses; I'll be with thee straight."
+        ],
+        [
+            "ROMEO",
+            "Well, Juliet, I will lie with thee to-night."
+        ],
+        [
+            "ROMEO",
+            "Let's see for means: O mischief, thou art swift"
+        ],
+        [
+            "ROMEO",
+            "To enter in the thoughts of desperate men!"
+        ],
+        [
+            "ROMEO",
+            "I do remember an apothecary,--"
+        ],
+        [
+            "ROMEO",
+            "And hereabouts he dwells,--which late I noted"
+        ],
+        [
+            "ROMEO",
+            "In tatter'd weeds, with overwhelming brows,"
+        ],
+        [
+            "ROMEO",
+            "Culling of simples; meagre were his looks,"
+        ],
+        [
+            "ROMEO",
+            "Sharp misery had worn him to the bones:"
+        ],
+        [
+            "ROMEO",
+            "And in his needy shop a tortoise hung,"
+        ],
+        [
+            "ROMEO",
+            "An alligator stuff'd, and other skins"
+        ],
+        [
+            "ROMEO",
+            "Of ill-shaped fishes; and about his shelves"
+        ],
+        [
+            "ROMEO",
+            "A beggarly account of empty boxes,"
+        ],
+        [
+            "ROMEO",
+            "Green earthen pots, bladders and musty seeds,"
+        ],
+        [
+            "ROMEO",
+            "Remnants of packthread and old cakes of roses,"
+        ],
+        [
+            "ROMEO",
+            "Were thinly scatter'd, to make up a show."
+        ],
+        [
+            "ROMEO",
+            "Noting this penury, to myself I said"
+        ],
+        [
+            "ROMEO",
+            "'An if a man did need a poison now,"
+        ],
+        [
+            "ROMEO",
+            "Whose sale is present death in Mantua,"
+        ],
+        [
+            "ROMEO",
+            "Here lives a caitiff wretch would sell it him.'"
+        ],
+        [
+            "ROMEO",
+            "O, this same thought did but forerun my need;"
+        ],
+        [
+            "ROMEO",
+            "And this same needy man must sell it me."
+        ],
+        [
+            "ROMEO",
+            "As I remember, this should be the house."
+        ],
+        [
+            "ROMEO",
+            "Being holiday, the beggar's shop is shut."
+        ],
+        [
+            "ROMEO",
+            "What, ho! apothecary!",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "Apothecary",
+            "Who calls so loud?",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "ROMEO",
+            "Come hither, man. I see that thou art poor:"
+        ],
+        [
+            "ROMEO",
+            "Hold, there is forty ducats: let me have"
+        ],
+        [
+            "ROMEO",
+            "A dram of poison, such soon-speeding gear"
+        ],
+        [
+            "ROMEO",
+            "As will disperse itself through all the veins"
+        ],
+        [
+            "ROMEO",
+            "That the life-weary taker may fall dead"
+        ],
+        [
+            "ROMEO",
+            "And that the trunk may be discharged of breath"
+        ],
+        [
+            "ROMEO",
+            "As violently as hasty powder fired"
+        ],
+        [
+            "ROMEO",
+            "Doth hurry from the fatal cannon's womb."
+        ],
+        [
+            "Apothecary",
+            "Such mortal drugs I have; but Mantua's law"
+        ],
+        [
+            "Apothecary",
+            "Is death to any he that utters them."
+        ],
+        [
+            "ROMEO",
+            "Art thou so bare and full of wretchedness,"
+        ],
+        [
+            "ROMEO",
+            "And fear'st to die? famine is in thy cheeks,"
+        ],
+        [
+            "ROMEO",
+            "Need and oppression starveth in thine eyes,"
+        ],
+        [
+            "ROMEO",
+            "Contempt and beggary hangs upon thy back;"
+        ],
+        [
+            "ROMEO",
+            "The world is not thy friend nor the world's law;"
+        ],
+        [
+            "ROMEO",
+            "The world affords no law to make thee rich;"
+        ],
+        [
+            "ROMEO",
+            "Then be not poor, but break it, and take this."
+        ],
+        [
+            "Apothecary",
+            "My poverty, but not my will, consents."
+        ],
+        [
+            "ROMEO",
+            "I pay thy poverty, and not thy will."
+        ],
+        [
+            "Apothecary",
+            "Put this in any liquid thing you will,"
+        ],
+        [
+            "Apothecary",
+            "And drink it off; and, if you had the strength"
+        ],
+        [
+            "Apothecary",
+            "Of twenty men, it would dispatch you straight."
+        ],
+        [
+            "ROMEO",
+            "There is thy gold, worse poison to men's souls,"
+        ],
+        [
+            "ROMEO",
+            "Doing more murders in this loathsome world,"
+        ],
+        [
+            "ROMEO",
+            "Than these poor compounds that thou mayst not sell."
+        ],
+        [
+            "ROMEO",
+            "I sell thee poison; thou hast sold me none."
+        ],
+        [
+            "ROMEO",
+            "Farewell: buy food, and get thyself in flesh."
+        ],
+        [
+            "ROMEO",
+            "Come, cordial and not poison, go with me"
+        ],
+        [
+            "ROMEO",
+            "To Juliet's grave; for there must I use thee.",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter ROMEO"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter BALTHASAR, booted"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit BALTHASAR. Enter Apothecary"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "ROMEO": [
+            [
+                "1",
+                "17"
+            ],
+            [
+                "25",
+                "27"
+            ],
+            [
+                "31",
+                "33"
+            ],
+            [
+                "35",
+                "60"
+            ],
+            [
+                "62",
+                "69"
+            ],
+            [
+                "72",
+                "78"
+            ],
+            [
+                "80",
+                "80"
+            ],
+            [
+                "84",
+                "90"
+            ]
+        ],
+        "BALTHASAR": [
+            [
+                "18",
+                "24"
+            ],
+            [
+                "28",
+                "30"
+            ],
+            [
+                "34",
+                "34"
+            ]
+        ],
+        "Apothecary": [
+            [
+                "61",
+                "61"
+            ],
+            [
+                "70",
+                "71"
+            ],
+            [
+                "79",
+                "79"
+            ],
+            [
+                "81",
+                "83"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "Mantua. A street."
+}

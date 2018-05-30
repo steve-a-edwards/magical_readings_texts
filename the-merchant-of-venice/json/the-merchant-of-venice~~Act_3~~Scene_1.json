@@ -1,0 +1,714 @@
+{
+    "scene_id": "the merchant of venice~~Act_3~~Scene_1",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "SALANIO",
+            "Now, what news on the Rialto?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "SALARINO",
+            "Why, yet it lives there uncheck'd that Antonio hath"
+        ],
+        [
+            "SALARINO",
+            "a ship of rich lading wrecked on the narrow seas;"
+        ],
+        [
+            "SALARINO",
+            "the Goodwins, I think they call the place; a very"
+        ],
+        [
+            "SALARINO",
+            "dangerous flat and fatal, where the carcasses of many"
+        ],
+        [
+            "SALARINO",
+            "a tall ship lie buried, as they say, if my gossip"
+        ],
+        [
+            "SALARINO",
+            "Report be an honest woman of her word."
+        ],
+        [
+            "SALANIO",
+            "I would she were as lying a gossip in that as ever"
+        ],
+        [
+            "SALANIO",
+            "knapped ginger or made her neighbours believe she"
+        ],
+        [
+            "SALANIO",
+            "wept for the death of a third husband. But it is"
+        ],
+        [
+            "SALANIO",
+            "true, without any slips of prolixity or crossing the"
+        ],
+        [
+            "SALANIO",
+            "plain highway of talk, that the good Antonio, the"
+        ],
+        [
+            "SALANIO",
+            "honest Antonio,--O that I had a title good enough"
+        ],
+        [
+            "SALANIO",
+            "to keep his name company!--"
+        ],
+        [
+            "SALARINO",
+            "Come, the full stop."
+        ],
+        [
+            "SALANIO",
+            "Ha! what sayest thou? Why, the end is, he hath"
+        ],
+        [
+            "SALANIO",
+            "lost a ship."
+        ],
+        [
+            "SALARINO",
+            "I would it might prove the end of his losses."
+        ],
+        [
+            "SALANIO",
+            "Let me say 'amen' betimes, lest the devil cross my"
+        ],
+        [
+            "SALANIO",
+            "prayer, for here he comes in the likeness of a Jew."
+        ],
+        [
+            "SALANIO",
+            "How now, Shylock! what news among the merchants?",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "SHYLOCK",
+            "You know, none so well, none so well as you, of my",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "SHYLOCK",
+            "daughter's flight."
+        ],
+        [
+            "SALARINO",
+            "That's certain: I, for my part, knew the tailor"
+        ],
+        [
+            "SALARINO",
+            "that made the wings she flew withal."
+        ],
+        [
+            "SALANIO",
+            "And Shylock, for his own part, knew the bird was"
+        ],
+        [
+            "SALANIO",
+            "fledged; and then it is the complexion of them all"
+        ],
+        [
+            "SALANIO",
+            "to leave the dam."
+        ],
+        [
+            "SHYLOCK",
+            "She is damned for it."
+        ],
+        [
+            "SALANIO",
+            "That's certain, if the devil may be her judge."
+        ],
+        [
+            "SHYLOCK",
+            "My own flesh and blood to rebel!"
+        ],
+        [
+            "SALANIO",
+            "Out upon it, old carrion! rebels it at these years?"
+        ],
+        [
+            "SHYLOCK",
+            "I say, my daughter is my flesh and blood."
+        ],
+        [
+            "SALARINO",
+            "There is more difference between thy flesh and hers"
+        ],
+        [
+            "SALARINO",
+            "than between jet and ivory; more between your bloods"
+        ],
+        [
+            "SALARINO",
+            "than there is between red wine and rhenish. But"
+        ],
+        [
+            "SALARINO",
+            "tell us, do you hear whether Antonio have had any"
+        ],
+        [
+            "SALARINO",
+            "loss at sea or no?"
+        ],
+        [
+            "SHYLOCK",
+            "There I have another bad match: a bankrupt, a"
+        ],
+        [
+            "SHYLOCK",
+            "prodigal, who dare scarce show his head on the"
+        ],
+        [
+            "SHYLOCK",
+            "Rialto; a beggar, that was used to come so smug upon"
+        ],
+        [
+            "SHYLOCK",
+            "the mart; let him look to his bond: he was wont to"
+        ],
+        [
+            "SHYLOCK",
+            "call me usurer; let him look to his bond: he was"
+        ],
+        [
+            "SHYLOCK",
+            "wont to lend money for a Christian courtesy; let him"
+        ],
+        [
+            "SHYLOCK",
+            "look to his bond."
+        ],
+        [
+            "SALARINO",
+            "Why, I am sure, if he forfeit, thou wilt not take"
+        ],
+        [
+            "SALARINO",
+            "his flesh: what's that good for?"
+        ],
+        [
+            "SHYLOCK",
+            "To bait fish withal: if it will feed nothing else,"
+        ],
+        [
+            "SHYLOCK",
+            "it will feed my revenge. He hath disgraced me, and"
+        ],
+        [
+            "SHYLOCK",
+            "hindered me half a million; laughed at my losses,"
+        ],
+        [
+            "SHYLOCK",
+            "mocked at my gains, scorned my nation, thwarted my"
+        ],
+        [
+            "SHYLOCK",
+            "bargains, cooled my friends, heated mine"
+        ],
+        [
+            "SHYLOCK",
+            "enemies; and what's his reason? I am a Jew. Hath"
+        ],
+        [
+            "SHYLOCK",
+            "not a Jew eyes? hath not a Jew hands, organs,"
+        ],
+        [
+            "SHYLOCK",
+            "dimensions, senses, affections, passions? fed with"
+        ],
+        [
+            "SHYLOCK",
+            "the same food, hurt with the same weapons, subject"
+        ],
+        [
+            "SHYLOCK",
+            "to the same diseases, healed by the same means,"
+        ],
+        [
+            "SHYLOCK",
+            "warmed and cooled by the same winter and summer, as"
+        ],
+        [
+            "SHYLOCK",
+            "a Christian is? If you prick us, do we not bleed?"
+        ],
+        [
+            "SHYLOCK",
+            "if you tickle us, do we not laugh? if you poison"
+        ],
+        [
+            "SHYLOCK",
+            "us, do we not die? and if you wrong us, shall we not"
+        ],
+        [
+            "SHYLOCK",
+            "revenge? If we are like you in the rest, we will"
+        ],
+        [
+            "SHYLOCK",
+            "resemble you in that. If a Jew wrong a Christian,"
+        ],
+        [
+            "SHYLOCK",
+            "what is his humility? Revenge. If a Christian"
+        ],
+        [
+            "SHYLOCK",
+            "wrong a Jew, what should his sufferance be by"
+        ],
+        [
+            "SHYLOCK",
+            "Christian example? Why, revenge. The villany you"
+        ],
+        [
+            "SHYLOCK",
+            "teach me, I will execute, and it shall go hard but I"
+        ],
+        [
+            "SHYLOCK",
+            "will better the instruction.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "Servant",
+            "Gentlemen, my master Antonio is at his house and",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "Servant",
+            "desires to speak with you both."
+        ],
+        [
+            "SALARINO",
+            "We have been up and down to seek him.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "SALANIO",
+            "Here comes another of the tribe: a third cannot be",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "SALANIO",
+            "matched, unless the devil himself turn Jew.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "SHYLOCK",
+            "How now, Tubal! what news from Genoa? hast thou",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "SHYLOCK",
+            "found my daughter?"
+        ],
+        [
+            "TUBAL",
+            "I often came where I did hear of her, but cannot find her."
+        ],
+        [
+            "SHYLOCK",
+            "Why, there, there, there, there! a diamond gone,"
+        ],
+        [
+            "SHYLOCK",
+            "cost me two thousand ducats in Frankfort! The curse"
+        ],
+        [
+            "SHYLOCK",
+            "never fell upon our nation till now; I never felt it"
+        ],
+        [
+            "SHYLOCK",
+            "till now: two thousand ducats in that; and other"
+        ],
+        [
+            "SHYLOCK",
+            "precious, precious jewels. I would my daughter"
+        ],
+        [
+            "SHYLOCK",
+            "were dead at my foot, and the jewels in her ear!"
+        ],
+        [
+            "SHYLOCK",
+            "would she were hearsed at my foot, and the ducats in"
+        ],
+        [
+            "SHYLOCK",
+            "her coffin! No news of them? Why, so: and I know"
+        ],
+        [
+            "SHYLOCK",
+            "not what's spent in the search: why, thou loss upon"
+        ],
+        [
+            "SHYLOCK",
+            "loss! the thief gone with so much, and so much to"
+        ],
+        [
+            "SHYLOCK",
+            "find the thief; and no satisfaction, no revenge:"
+        ],
+        [
+            "SHYLOCK",
+            "nor no in luck stirring but what lights on my"
+        ],
+        [
+            "SHYLOCK",
+            "shoulders; no sighs but of my breathing; no tears"
+        ],
+        [
+            "SHYLOCK",
+            "but of my shedding."
+        ],
+        [
+            "TUBAL",
+            "Yes, other men have ill luck too: Antonio, as I"
+        ],
+        [
+            "TUBAL",
+            "heard in Genoa,--"
+        ],
+        [
+            "SHYLOCK",
+            "What, what, what? ill luck, ill luck?"
+        ],
+        [
+            "TUBAL",
+            "Hath an argosy cast away, coming from Tripolis."
+        ],
+        [
+            "SHYLOCK",
+            "I thank God, I thank God. Is't true, is't true?"
+        ],
+        [
+            "TUBAL",
+            "I spoke with some of the sailors that escaped the wreck."
+        ],
+        [
+            "SHYLOCK",
+            "I thank thee, good Tubal: good news, good news!"
+        ],
+        [
+            "SHYLOCK",
+            "ha, ha! where? in Genoa?"
+        ],
+        [
+            "TUBAL",
+            "Your daughter spent in Genoa, as I heard, in one"
+        ],
+        [
+            "TUBAL",
+            "night fourscore ducats."
+        ],
+        [
+            "SHYLOCK",
+            "Thou stickest a dagger in me: I shall never see my"
+        ],
+        [
+            "SHYLOCK",
+            "gold again: fourscore ducats at a sitting!"
+        ],
+        [
+            "SHYLOCK",
+            "fourscore ducats!"
+        ],
+        [
+            "TUBAL",
+            "There came divers of Antonio's creditors in my"
+        ],
+        [
+            "TUBAL",
+            "company to Venice, that swear he cannot choose but break."
+        ],
+        [
+            "SHYLOCK",
+            "I am very glad of it: I'll plague him; I'll torture"
+        ],
+        [
+            "SHYLOCK",
+            "him: I am glad of it."
+        ],
+        [
+            "TUBAL",
+            "One of them showed me a ring that he had of your"
+        ],
+        [
+            "TUBAL",
+            "daughter for a monkey."
+        ],
+        [
+            "SHYLOCK",
+            "Out upon her! Thou torturest me, Tubal: it was my"
+        ],
+        [
+            "SHYLOCK",
+            "turquoise; I had it of Leah when I was a bachelor:"
+        ],
+        [
+            "SHYLOCK",
+            "I would not have given it for a wilderness of monkeys."
+        ],
+        [
+            "TUBAL",
+            "But Antonio is certainly undone."
+        ],
+        [
+            "SHYLOCK",
+            "Nay, that's true, that's very true. Go, Tubal, fee"
+        ],
+        [
+            "SHYLOCK",
+            "me an officer; bespeak him a fortnight before. I"
+        ],
+        [
+            "SHYLOCK",
+            "will have the heart of him, if he forfeit; for, were"
+        ],
+        [
+            "SHYLOCK",
+            "he out of Venice, I can make what merchandise I"
+        ],
+        [
+            "SHYLOCK",
+            "will. Go, go, Tubal, and meet me at our synagogue;"
+        ],
+        [
+            "SHYLOCK",
+            "go, good Tubal; at our synagogue, Tubal.",
+            {
+                "following_direction_line": "6"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter SALANIO and SALARINO"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter SHYLOCK"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter a Servant"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter TUBAL"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt SALANIO, SALARINO, and Servant"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "SALANIO": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "8",
+                "14"
+            ],
+            [
+                "16",
+                "17"
+            ],
+            [
+                "19",
+                "21"
+            ],
+            [
+                "26",
+                "28"
+            ],
+            [
+                "30",
+                "30"
+            ],
+            [
+                "32",
+                "32"
+            ],
+            [
+                "72",
+                "73"
+            ]
+        ],
+        "SALARINO": [
+            [
+                "2",
+                "7"
+            ],
+            [
+                "15",
+                "15"
+            ],
+            [
+                "18",
+                "18"
+            ],
+            [
+                "24",
+                "25"
+            ],
+            [
+                "34",
+                "38"
+            ],
+            [
+                "46",
+                "47"
+            ],
+            [
+                "71",
+                "71"
+            ]
+        ],
+        "SHYLOCK": [
+            [
+                "22",
+                "23"
+            ],
+            [
+                "29",
+                "29"
+            ],
+            [
+                "31",
+                "31"
+            ],
+            [
+                "33",
+                "33"
+            ],
+            [
+                "39",
+                "45"
+            ],
+            [
+                "48",
+                "68"
+            ],
+            [
+                "74",
+                "75"
+            ],
+            [
+                "77",
+                "90"
+            ],
+            [
+                "93",
+                "93"
+            ],
+            [
+                "95",
+                "95"
+            ],
+            [
+                "97",
+                "98"
+            ],
+            [
+                "101",
+                "103"
+            ],
+            [
+                "106",
+                "107"
+            ],
+            [
+                "110",
+                "112"
+            ],
+            [
+                "114",
+                "119"
+            ]
+        ],
+        "Servant": [
+            [
+                "69",
+                "70"
+            ]
+        ],
+        "TUBAL": [
+            [
+                "76",
+                "76"
+            ],
+            [
+                "91",
+                "92"
+            ],
+            [
+                "94",
+                "94"
+            ],
+            [
+                "96",
+                "96"
+            ],
+            [
+                "99",
+                "100"
+            ],
+            [
+                "104",
+                "105"
+            ],
+            [
+                "108",
+                "109"
+            ],
+            [
+                "113",
+                "113"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "Venice. A street."
+}

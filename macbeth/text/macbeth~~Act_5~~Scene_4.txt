@@ -1,0 +1,40 @@
+_S_SCENE IV. Country near Birnam wood.
+_D_Drum and colours. Enter MALCOLM, SIWARD and YOUNG SIWARD, MACDUFF, MENTEITH, CAITHNESS, ANGUS, LENNOX, ROSS, and Soldiers, marching
+_R_MALCOLM
+Cousins, I hope the days are near at hand
+That chambers will be safe.
+_R_MENTEITH
+We doubt it nothing.
+_R_SIWARD
+What wood is this before us?
+_R_MENTEITH
+The wood of Birnam.
+_R_MALCOLM
+Let every soldier hew him down a bough
+And bear't before him: thereby shall we shadow
+The numbers of our host and make discovery
+Err in report of us.
+_R_Soldiers
+It shall be done.
+_R_SIWARD
+We learn no other but the confident tyrant
+Keeps still in Dunsinane, and will endure
+Our setting down before 't.
+_R_MALCOLM
+'Tis his main hope:
+For where there is advantage to be given,
+Both more and less have given him the revolt,
+And none serve with him but constrained things
+Whose hearts are absent too.
+_R_MACDUFF
+Let our just censures
+Attend the true event, and put we on
+Industrious soldiership.
+_R_SIWARD
+The time approaches
+That will with due decision make us know
+What we shall say we have and what we owe.
+Thoughts speculative their unsure hopes relate,
+But certain issue strokes must arbitrate:
+Towards which advance the war.
+_D_Exeunt, marching

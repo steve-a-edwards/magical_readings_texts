@@ -1,0 +1,277 @@
+{
+    "scene_id": "macbeth~~Act_3~~Scene_3",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "First Murderer",
+            "But who did bid thee join with us?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "Third Murderer",
+            "Macbeth."
+        ],
+        [
+            "Second Murderer",
+            "He needs not our mistrust, since he delivers"
+        ],
+        [
+            "Second Murderer",
+            "Our offices and what we have to do"
+        ],
+        [
+            "Second Murderer",
+            "To the direction just."
+        ],
+        [
+            "First Murderer",
+            "Then stand with us."
+        ],
+        [
+            "First Murderer",
+            "The west yet glimmers with some streaks of day:"
+        ],
+        [
+            "First Murderer",
+            "Now spurs the lated traveller apace"
+        ],
+        [
+            "First Murderer",
+            "To gain the timely inn; and near approaches"
+        ],
+        [
+            "First Murderer",
+            "The subject of our watch."
+        ],
+        [
+            "Third Murderer",
+            "Hark! I hear horses."
+        ],
+        [
+            "BANQUO",
+            "[Within] Give us a light there, ho!"
+        ],
+        [
+            "Second Murderer",
+            "Then 'tis he: the rest"
+        ],
+        [
+            "Second Murderer",
+            "That are within the note of expectation"
+        ],
+        [
+            "Second Murderer",
+            "Already are i' the court."
+        ],
+        [
+            "First Murderer",
+            "His horses go about."
+        ],
+        [
+            "Third Murderer",
+            "Almost a mile: but he does usually,"
+        ],
+        [
+            "Third Murderer",
+            "So all men do, from hence to the palace gate"
+        ],
+        [
+            "Third Murderer",
+            "Make it their walk."
+        ],
+        [
+            "Second Murderer",
+            "A light, a light!",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "Third Murderer",
+            "'Tis he.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "First Murderer",
+            "Stand to't."
+        ],
+        [
+            "BANQUO",
+            "It will be rain to-night."
+        ],
+        [
+            "First Murderer",
+            "Let it come down.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "BANQUO",
+            "O, treachery! Fly, good Fleance, fly, fly, fly!",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "BANQUO",
+            "Thou mayst revenge. O slave!",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "Third Murderer",
+            "Who did strike out the light?",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "First Murderer",
+            "Wast not the way?"
+        ],
+        [
+            "Third Murderer",
+            "There's but one down; the son is fled."
+        ],
+        [
+            "Second Murderer",
+            "We have lost"
+        ],
+        [
+            "Second Murderer",
+            "Best half of our affair."
+        ],
+        [
+            "First Murderer",
+            "Well, let's away, and say how much is done.",
+            {
+                "following_direction_line": "5"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter three Murderers"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter BANQUO, and FLEANCE with a torch"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "They set upon BANQUO"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Dies. FLEANCE escapes"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "First Murderer": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "6",
+                "10"
+            ],
+            [
+                "16",
+                "16"
+            ],
+            [
+                "22",
+                "22"
+            ],
+            [
+                "24",
+                "24"
+            ],
+            [
+                "28",
+                "28"
+            ],
+            [
+                "32",
+                "32"
+            ]
+        ],
+        "Third Murderer": [
+            [
+                "2",
+                "2"
+            ],
+            [
+                "11",
+                "11"
+            ],
+            [
+                "17",
+                "19"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "27",
+                "27"
+            ],
+            [
+                "29",
+                "29"
+            ]
+        ],
+        "Second Murderer": [
+            [
+                "3",
+                "5"
+            ],
+            [
+                "13",
+                "15"
+            ],
+            [
+                "20",
+                "20"
+            ],
+            [
+                "30",
+                "31"
+            ]
+        ],
+        "BANQUO": [
+            [
+                "12",
+                "12"
+            ],
+            [
+                "23",
+                "23"
+            ],
+            [
+                "25",
+                "26"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "A park near the palace."
+}

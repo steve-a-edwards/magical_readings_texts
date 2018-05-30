@@ -1,0 +1,450 @@
+{
+    "scene_id": "the merchant of venice~~Act_2~~Scene_6",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "GRATIANO",
+            "This is the pent-house under which Lorenzo",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "GRATIANO",
+            "Desired us to make stand."
+        ],
+        [
+            "SALARINO",
+            "His hour is almost past."
+        ],
+        [
+            "GRATIANO",
+            "And it is marvel he out-dwells his hour,"
+        ],
+        [
+            "GRATIANO",
+            "For lovers ever run before the clock."
+        ],
+        [
+            "SALARINO",
+            "O, ten times faster Venus' pigeons fly"
+        ],
+        [
+            "SALARINO",
+            "To seal love's bonds new-made, than they are wont"
+        ],
+        [
+            "SALARINO",
+            "To keep obliged faith unforfeited!"
+        ],
+        [
+            "GRATIANO",
+            "That ever holds: who riseth from a feast"
+        ],
+        [
+            "GRATIANO",
+            "With that keen appetite that he sits down?"
+        ],
+        [
+            "GRATIANO",
+            "Where is the horse that doth untread again"
+        ],
+        [
+            "GRATIANO",
+            "His tedious measures with the unbated fire"
+        ],
+        [
+            "GRATIANO",
+            "That he did pace them first? All things that are,"
+        ],
+        [
+            "GRATIANO",
+            "Are with more spirit chased than enjoy'd."
+        ],
+        [
+            "GRATIANO",
+            "How like a younker or a prodigal"
+        ],
+        [
+            "GRATIANO",
+            "The scarfed bark puts from her native bay,"
+        ],
+        [
+            "GRATIANO",
+            "Hugg'd and embraced by the strumpet wind!"
+        ],
+        [
+            "GRATIANO",
+            "How like the prodigal doth she return,"
+        ],
+        [
+            "GRATIANO",
+            "With over-weather'd ribs and ragged sails,"
+        ],
+        [
+            "GRATIANO",
+            "Lean, rent and beggar'd by the strumpet wind!"
+        ],
+        [
+            "SALARINO",
+            "Here comes Lorenzo: more of this hereafter.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "LORENZO",
+            "Sweet friends, your patience for my long abode;",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "LORENZO",
+            "Not I, but my affairs, have made you wait:"
+        ],
+        [
+            "LORENZO",
+            "When you shall please to play the thieves for wives,"
+        ],
+        [
+            "LORENZO",
+            "I'll watch as long for you then. Approach;"
+        ],
+        [
+            "LORENZO",
+            "Here dwells my father Jew. Ho! who's within?",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "JESSICA",
+            "Who are you? Tell me, for more certainty,",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "JESSICA",
+            "Albeit I'll swear that I do know your tongue."
+        ],
+        [
+            "LORENZO",
+            "Lorenzo, and thy love."
+        ],
+        [
+            "JESSICA",
+            "Lorenzo, certain, and my love indeed,"
+        ],
+        [
+            "JESSICA",
+            "For who love I so much? And now who knows"
+        ],
+        [
+            "JESSICA",
+            "But you, Lorenzo, whether I am yours?"
+        ],
+        [
+            "LORENZO",
+            "Heaven and thy thoughts are witness that thou art."
+        ],
+        [
+            "JESSICA",
+            "Here, catch this casket; it is worth the pains."
+        ],
+        [
+            "JESSICA",
+            "I am glad 'tis night, you do not look on me,"
+        ],
+        [
+            "JESSICA",
+            "For I am much ashamed of my exchange:"
+        ],
+        [
+            "JESSICA",
+            "But love is blind and lovers cannot see"
+        ],
+        [
+            "JESSICA",
+            "The pretty follies that themselves commit;"
+        ],
+        [
+            "JESSICA",
+            "For if they could, Cupid himself would blush"
+        ],
+        [
+            "JESSICA",
+            "To see me thus transformed to a boy."
+        ],
+        [
+            "LORENZO",
+            "Descend, for you must be my torchbearer."
+        ],
+        [
+            "JESSICA",
+            "What, must I hold a candle to my shames?"
+        ],
+        [
+            "JESSICA",
+            "They in themselves, good-sooth, are too too light."
+        ],
+        [
+            "JESSICA",
+            "Why, 'tis an office of discovery, love;"
+        ],
+        [
+            "JESSICA",
+            "And I should be obscured."
+        ],
+        [
+            "LORENZO",
+            "So are you, sweet,"
+        ],
+        [
+            "LORENZO",
+            "Even in the lovely garnish of a boy."
+        ],
+        [
+            "LORENZO",
+            "But come at once;"
+        ],
+        [
+            "LORENZO",
+            "For the close night doth play the runaway,"
+        ],
+        [
+            "LORENZO",
+            "And we are stay'd for at Bassanio's feast."
+        ],
+        [
+            "JESSICA",
+            "I will make fast the doors, and gild myself"
+        ],
+        [
+            "JESSICA",
+            "With some more ducats, and be with you straight.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "GRATIANO",
+            "Now, by my hood, a Gentile and no Jew.",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "LORENZO",
+            "Beshrew me but I love her heartily;"
+        ],
+        [
+            "LORENZO",
+            "For she is wise, if I can judge of her,"
+        ],
+        [
+            "LORENZO",
+            "And fair she is, if that mine eyes be true,"
+        ],
+        [
+            "LORENZO",
+            "And true she is, as she hath proved herself,"
+        ],
+        [
+            "LORENZO",
+            "And therefore, like herself, wise, fair and true,"
+        ],
+        [
+            "LORENZO",
+            "Shall she be placed in my constant soul."
+        ],
+        [
+            "LORENZO",
+            "What, art thou come? On, gentlemen; away!"
+        ],
+        [
+            "LORENZO",
+            "Our masquing mates by this time for us stay.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "ANTONIO",
+            "Who's there?",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "GRATIANO",
+            "Signior Antonio!"
+        ],
+        [
+            "ANTONIO",
+            "Fie, fie, Gratiano! where are all the rest?"
+        ],
+        [
+            "ANTONIO",
+            "'Tis nine o'clock: our friends all stay for you."
+        ],
+        [
+            "ANTONIO",
+            "No masque to-night: the wind is come about;"
+        ],
+        [
+            "ANTONIO",
+            "Bassanio presently will go aboard:"
+        ],
+        [
+            "ANTONIO",
+            "I have sent twenty out to seek for you."
+        ],
+        [
+            "GRATIANO",
+            "I am glad on't: I desire no more delight"
+        ],
+        [
+            "GRATIANO",
+            "Than to be under sail and gone to-night.",
+            {
+                "following_direction_line": "6"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter GRATIANO and SALARINO, masqued"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter LORENZO"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter JESSICA, above, in boy's clothes"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit above"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Enter JESSICA, below. Exit with Jessica and Salarino. Enter ANTONIO"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "GRATIANO": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "4",
+                "5"
+            ],
+            [
+                "9",
+                "20"
+            ],
+            [
+                "53",
+                "53"
+            ],
+            [
+                "63",
+                "63"
+            ],
+            [
+                "69",
+                "70"
+            ]
+        ],
+        "SALARINO": [
+            [
+                "3",
+                "3"
+            ],
+            [
+                "6",
+                "8"
+            ],
+            [
+                "21",
+                "21"
+            ]
+        ],
+        "LORENZO": [
+            [
+                "22",
+                "26"
+            ],
+            [
+                "29",
+                "29"
+            ],
+            [
+                "33",
+                "33"
+            ],
+            [
+                "41",
+                "41"
+            ],
+            [
+                "46",
+                "50"
+            ],
+            [
+                "54",
+                "61"
+            ]
+        ],
+        "JESSICA": [
+            [
+                "27",
+                "28"
+            ],
+            [
+                "30",
+                "32"
+            ],
+            [
+                "34",
+                "40"
+            ],
+            [
+                "42",
+                "45"
+            ],
+            [
+                "51",
+                "52"
+            ]
+        ],
+        "ANTONIO": [
+            [
+                "62",
+                "62"
+            ],
+            [
+                "64",
+                "68"
+            ]
+        ]
+    },
+    "scene_name": "SCENE VI",
+    "scene_description": "The same."
+}

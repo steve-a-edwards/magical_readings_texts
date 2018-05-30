@@ -1,0 +1,1807 @@
+{
+    "scene_id": "romeo and juliet~~Act_5~~Scene_3",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "PARIS",
+            "Give me thy torch, boy: hence, and stand aloof:",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "PARIS",
+            "Yet put it out, for I would not be seen."
+        ],
+        [
+            "PARIS",
+            "Under yond yew-trees lay thee all along,"
+        ],
+        [
+            "PARIS",
+            "Holding thine ear close to the hollow ground;"
+        ],
+        [
+            "PARIS",
+            "So shall no foot upon the churchyard tread,"
+        ],
+        [
+            "PARIS",
+            "Being loose, unfirm, with digging up of graves,"
+        ],
+        [
+            "PARIS",
+            "But thou shalt hear it: whistle then to me,"
+        ],
+        [
+            "PARIS",
+            "As signal that thou hear'st something approach."
+        ],
+        [
+            "PARIS",
+            "Give me those flowers. Do as I bid thee, go."
+        ],
+        [
+            "PAGE",
+            "[Aside] I am almost afraid to stand alone"
+        ],
+        [
+            "PAGE",
+            "Here in the churchyard; yet I will adventure.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "PARIS",
+            "Sweet flower, with flowers thy bridal bed I strew,--",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "PARIS",
+            "O woe! thy canopy is dust and stones;--"
+        ],
+        [
+            "PARIS",
+            "Which with sweet water nightly I will dew,"
+        ],
+        [
+            "PARIS",
+            "Or, wanting that, with tears distill'd by moans:"
+        ],
+        [
+            "PARIS",
+            "The obsequies that I for thee will keep"
+        ],
+        [
+            "PARIS",
+            "Nightly shall be to strew thy grave and weep."
+        ],
+        [
+            "PARIS",
+            "The boy gives warning something doth approach."
+        ],
+        [
+            "PARIS",
+            "What cursed foot wanders this way to-night,"
+        ],
+        [
+            "PARIS",
+            "To cross my obsequies and true love's rite?"
+        ],
+        [
+            "PARIS",
+            "What with a torch! muffle me, night, awhile.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "ROMEO",
+            "Give me that mattock and the wrenching iron.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "ROMEO",
+            "Hold, take this letter; early in the morning"
+        ],
+        [
+            "ROMEO",
+            "See thou deliver it to my lord and father."
+        ],
+        [
+            "ROMEO",
+            "Give me the light: upon thy life, I charge thee,"
+        ],
+        [
+            "ROMEO",
+            "Whate'er thou hear'st or seest, stand all aloof,"
+        ],
+        [
+            "ROMEO",
+            "And do not interrupt me in my course."
+        ],
+        [
+            "ROMEO",
+            "Why I descend into this bed of death,"
+        ],
+        [
+            "ROMEO",
+            "Is partly to behold my lady's face;"
+        ],
+        [
+            "ROMEO",
+            "But chiefly to take thence from her dead finger"
+        ],
+        [
+            "ROMEO",
+            "A precious ring, a ring that I must use"
+        ],
+        [
+            "ROMEO",
+            "In dear employment: therefore hence, be gone:"
+        ],
+        [
+            "ROMEO",
+            "But if thou, jealous, dost return to pry"
+        ],
+        [
+            "ROMEO",
+            "In what I further shall intend to do,"
+        ],
+        [
+            "ROMEO",
+            "By heaven, I will tear thee joint by joint"
+        ],
+        [
+            "ROMEO",
+            "And strew this hungry churchyard with thy limbs:"
+        ],
+        [
+            "ROMEO",
+            "The time and my intents are savage-wild,"
+        ],
+        [
+            "ROMEO",
+            "More fierce and more inexorable far"
+        ],
+        [
+            "ROMEO",
+            "Than empty tigers or the roaring sea."
+        ],
+        [
+            "BALTHASAR",
+            "I will be gone, sir, and not trouble you."
+        ],
+        [
+            "ROMEO",
+            "So shalt thou show me friendship. Take thou that:"
+        ],
+        [
+            "ROMEO",
+            "Live, and be prosperous: and farewell, good fellow."
+        ],
+        [
+            "BALTHASAR",
+            "[Aside] For all this same, I'll hide me hereabout:"
+        ],
+        [
+            "BALTHASAR",
+            "His looks I fear, and his intents I doubt.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "ROMEO",
+            "Thou detestable maw, thou womb of death,",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "ROMEO",
+            "Gorged with the dearest morsel of the earth,"
+        ],
+        [
+            "ROMEO",
+            "Thus I enforce thy rotten jaws to open,"
+        ],
+        [
+            "ROMEO",
+            "And, in despite, I'll cram thee with more food!",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "PARIS",
+            "This is that banish'd haughty Montague,",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "PARIS",
+            "That murder'd my love's cousin, with which grief,"
+        ],
+        [
+            "PARIS",
+            "It is supposed, the fair creature died;"
+        ],
+        [
+            "PARIS",
+            "And here is come to do some villanous shame"
+        ],
+        [
+            "PARIS",
+            "To the dead bodies: I will apprehend him."
+        ],
+        [
+            "PARIS",
+            "Stop thy unhallow'd toil, vile Montague!"
+        ],
+        [
+            "PARIS",
+            "Can vengeance be pursued further than death?"
+        ],
+        [
+            "PARIS",
+            "Condemned villain, I do apprehend thee:"
+        ],
+        [
+            "PARIS",
+            "Obey, and go with me; for thou must die.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "ROMEO",
+            "I must indeed; and therefore came I hither.",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "ROMEO",
+            "Good gentle youth, tempt not a desperate man;"
+        ],
+        [
+            "ROMEO",
+            "Fly hence, and leave me: think upon these gone;"
+        ],
+        [
+            "ROMEO",
+            "Let them affright thee. I beseech thee, youth,"
+        ],
+        [
+            "ROMEO",
+            "Put not another sin upon my head,"
+        ],
+        [
+            "ROMEO",
+            "By urging me to fury: O, be gone!"
+        ],
+        [
+            "ROMEO",
+            "By heaven, I love thee better than myself;"
+        ],
+        [
+            "ROMEO",
+            "For I come hither arm'd against myself:"
+        ],
+        [
+            "ROMEO",
+            "Stay not, be gone; live, and hereafter say,"
+        ],
+        [
+            "ROMEO",
+            "A madman's mercy bade thee run away."
+        ],
+        [
+            "PARIS",
+            "I do defy thy conjurations,"
+        ],
+        [
+            "PARIS",
+            "And apprehend thee for a felon here."
+        ],
+        [
+            "ROMEO",
+            "Wilt thou provoke me? then have at thee, boy!",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "PAGE",
+            "O Lord, they fight! I will go call the watch.",
+            {
+                "preceding_direction_line": "7"
+            },
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "PARIS",
+            "O, I am slain!",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "PARIS",
+            "If thou be merciful,"
+        ],
+        [
+            "PARIS",
+            "Open the tomb, lay me with Juliet.",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "ROMEO",
+            "In faith, I will. Let me peruse this face.",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "ROMEO",
+            "Mercutio's kinsman, noble County Paris!"
+        ],
+        [
+            "ROMEO",
+            "What said my man, when my betossed soul"
+        ],
+        [
+            "ROMEO",
+            "Did not attend him as we rode? I think"
+        ],
+        [
+            "ROMEO",
+            "He told me Paris should have married Juliet:"
+        ],
+        [
+            "ROMEO",
+            "Said he not so? or did I dream it so?"
+        ],
+        [
+            "ROMEO",
+            "Or am I mad, hearing him talk of Juliet,"
+        ],
+        [
+            "ROMEO",
+            "To think it was so? O, give me thy hand,"
+        ],
+        [
+            "ROMEO",
+            "One writ with me in sour misfortune's book!"
+        ],
+        [
+            "ROMEO",
+            "I'll bury thee in a triumphant grave;"
+        ],
+        [
+            "ROMEO",
+            "A grave? O no! a lantern, slaughter'd youth,"
+        ],
+        [
+            "ROMEO",
+            "For here lies Juliet, and her beauty makes"
+        ],
+        [
+            "ROMEO",
+            "This vault a feasting presence full of light."
+        ],
+        [
+            "ROMEO",
+            "Death, lie thou there, by a dead man interr'd."
+        ],
+        [
+            "ROMEO",
+            "How oft when men are at the point of death"
+        ],
+        [
+            "ROMEO",
+            "Have they been merry! which their keepers call"
+        ],
+        [
+            "ROMEO",
+            "A lightning before death: O, how may I"
+        ],
+        [
+            "ROMEO",
+            "Call this a lightning? O my love! my wife!"
+        ],
+        [
+            "ROMEO",
+            "Death, that hath suck'd the honey of thy breath,"
+        ],
+        [
+            "ROMEO",
+            "Hath had no power yet upon thy beauty:"
+        ],
+        [
+            "ROMEO",
+            "Thou art not conquer'd; beauty's ensign yet"
+        ],
+        [
+            "ROMEO",
+            "Is crimson in thy lips and in thy cheeks,"
+        ],
+        [
+            "ROMEO",
+            "And death's pale flag is not advanced there."
+        ],
+        [
+            "ROMEO",
+            "Tybalt, liest thou there in thy bloody sheet?"
+        ],
+        [
+            "ROMEO",
+            "O, what more favour can I do to thee,"
+        ],
+        [
+            "ROMEO",
+            "Than with that hand that cut thy youth in twain"
+        ],
+        [
+            "ROMEO",
+            "To sunder his that was thine enemy?"
+        ],
+        [
+            "ROMEO",
+            "Forgive me, cousin! Ah, dear Juliet,"
+        ],
+        [
+            "ROMEO",
+            "Why art thou yet so fair? shall I believe"
+        ],
+        [
+            "ROMEO",
+            "That unsubstantial death is amorous,"
+        ],
+        [
+            "ROMEO",
+            "And that the lean abhorred monster keeps"
+        ],
+        [
+            "ROMEO",
+            "Thee here in dark to be his paramour?"
+        ],
+        [
+            "ROMEO",
+            "For fear of that, I still will stay with thee;"
+        ],
+        [
+            "ROMEO",
+            "And never from this palace of dim night"
+        ],
+        [
+            "ROMEO",
+            "Depart again: here, here will I remain"
+        ],
+        [
+            "ROMEO",
+            "With worms that are thy chamber-maids; O, here"
+        ],
+        [
+            "ROMEO",
+            "Will I set up my everlasting rest,"
+        ],
+        [
+            "ROMEO",
+            "And shake the yoke of inauspicious stars"
+        ],
+        [
+            "ROMEO",
+            "From this world-wearied flesh. Eyes, look your last!"
+        ],
+        [
+            "ROMEO",
+            "Arms, take your last embrace! and, lips, O you"
+        ],
+        [
+            "ROMEO",
+            "The doors of breath, seal with a righteous kiss"
+        ],
+        [
+            "ROMEO",
+            "A dateless bargain to engrossing death!"
+        ],
+        [
+            "ROMEO",
+            "Come, bitter conduct, come, unsavoury guide!"
+        ],
+        [
+            "ROMEO",
+            "Thou desperate pilot, now at once run on"
+        ],
+        [
+            "ROMEO",
+            "The dashing rocks thy sea-sick weary bark!"
+        ],
+        [
+            "ROMEO",
+            "Here's to my love!"
+        ],
+        [
+            "ROMEO",
+            "O true apothecary!"
+        ],
+        [
+            "ROMEO",
+            "Thy drugs are quick. Thus with a kiss I die.",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Saint Francis be my speed! how oft to-night",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Have my old feet stumbled at graves! Who's there?"
+        ],
+        [
+            "BALTHASAR",
+            "Here's one, a friend, and one that knows you well."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Bliss be upon you! Tell me, good my friend,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "What torch is yond, that vainly lends his light"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "To grubs and eyeless skulls? as I discern,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "It burneth in the Capel's monument."
+        ],
+        [
+            "BALTHASAR",
+            "It doth so, holy sir; and there's my master,"
+        ],
+        [
+            "BALTHASAR",
+            "One that you love."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Who is it?"
+        ],
+        [
+            "BALTHASAR",
+            "Romeo."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "How long hath he been there?"
+        ],
+        [
+            "BALTHASAR",
+            "Full half an hour."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Go with me to the vault."
+        ],
+        [
+            "BALTHASAR",
+            "I dare not, sir"
+        ],
+        [
+            "BALTHASAR",
+            "My master knows not but I am gone hence;"
+        ],
+        [
+            "BALTHASAR",
+            "And fearfully did menace me with death,"
+        ],
+        [
+            "BALTHASAR",
+            "If I did stay to look on his intents."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Stay, then; I'll go alone. Fear comes upon me:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "O, much I fear some ill unlucky thing."
+        ],
+        [
+            "BALTHASAR",
+            "As I did sleep under this yew-tree here,"
+        ],
+        [
+            "BALTHASAR",
+            "I dreamt my master and another fought,"
+        ],
+        [
+            "BALTHASAR",
+            "And that my master slew him."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Romeo!"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Alack, alack, what blood is this, which stains"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "The stony entrance of this sepulchre?"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "What mean these masterless and gory swords"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "To lie discolour'd by this place of peace?"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Romeo! O, pale! Who else? what, Paris too?"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And steep'd in blood? Ah, what an unkind hour"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Is guilty of this lamentable chance!"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "The lady stirs.",
+            {
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "JULIET",
+            "O comfortable friar! where is my lord?",
+            {
+                "preceding_direction_line": "11"
+            }
+        ],
+        [
+            "JULIET",
+            "I do remember well where I should be,"
+        ],
+        [
+            "JULIET",
+            "And there I am. Where is my Romeo?",
+            {
+                "following_direction_line": "12"
+            }
+        ],
+        [
+            "FRIAR LAURENCE",
+            "I hear some noise. Lady, come from that nest",
+            {
+                "preceding_direction_line": "12"
+            }
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Of death, contagion, and unnatural sleep:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "A greater power than we can contradict"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Hath thwarted our intents. Come, come away."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Thy husband in thy bosom there lies dead;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And Paris too. Come, I'll dispose of thee"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Among a sisterhood of holy nuns:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Stay not to question, for the watch is coming;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Come, go, good Juliet,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "I dare no longer stay.",
+            {
+                "following_direction_line": "13"
+            }
+        ],
+        [
+            "JULIET",
+            "Go, get thee hence, for I will not away.",
+            {
+                "preceding_direction_line": "13"
+            }
+        ],
+        [
+            "JULIET",
+            "What's here? a cup, closed in my true love's hand?"
+        ],
+        [
+            "JULIET",
+            "Poison, I see, hath been his timeless end:"
+        ],
+        [
+            "JULIET",
+            "O churl! drunk all, and left no friendly drop"
+        ],
+        [
+            "JULIET",
+            "To help me after? I will kiss thy lips;"
+        ],
+        [
+            "JULIET",
+            "Haply some poison yet doth hang on them,"
+        ],
+        [
+            "JULIET",
+            "To make die with a restorative."
+        ],
+        [
+            "JULIET",
+            "Thy lips are warm.",
+            {
+                "following_direction_line": "14"
+            }
+        ],
+        [
+            "First Watchman",
+            "[Within] Lead, boy: which way?",
+            {
+                "preceding_direction_line": "14"
+            }
+        ],
+        [
+            "JULIET",
+            "Yea, noise? then I'll be brief. O happy dagger!"
+        ],
+        [
+            "JULIET",
+            "This is thy sheath;"
+        ],
+        [
+            "JULIET",
+            "there rust, and let me die.",
+            {
+                "following_direction_line": "15"
+            }
+        ],
+        [
+            "PAGE",
+            "This is the place; there, where the torch doth burn.",
+            {
+                "preceding_direction_line": "15"
+            }
+        ],
+        [
+            "First Watchman",
+            "The ground is bloody; search about the churchyard:"
+        ],
+        [
+            "First Watchman",
+            "Go, some of you, whoe'er you find attach."
+        ],
+        [
+            "First Watchman",
+            "Pitiful sight! here lies the county slain,"
+        ],
+        [
+            "First Watchman",
+            "And Juliet bleeding, warm, and newly dead,"
+        ],
+        [
+            "First Watchman",
+            "Who here hath lain these two days buried."
+        ],
+        [
+            "First Watchman",
+            "Go, tell the prince: run to the Capulets:"
+        ],
+        [
+            "First Watchman",
+            "Raise up the Montagues: some others search:"
+        ],
+        [
+            "First Watchman",
+            "We see the ground whereon these woes do lie;"
+        ],
+        [
+            "First Watchman",
+            "But the true ground of all these piteous woes"
+        ],
+        [
+            "First Watchman",
+            "We cannot without circumstance descry.",
+            {
+                "following_direction_line": "16"
+            }
+        ],
+        [
+            "Second Watchman",
+            "Here's Romeo's man; we found him in the churchyard.",
+            {
+                "preceding_direction_line": "16"
+            }
+        ],
+        [
+            "First Watchman",
+            "Hold him in safety, till the prince come hither.",
+            {
+                "following_direction_line": "17"
+            }
+        ],
+        [
+            "Third Watchman",
+            "Here is a friar, that trembles, sighs and weeps:",
+            {
+                "preceding_direction_line": "17"
+            }
+        ],
+        [
+            "Third Watchman",
+            "We took this mattock and this spade from him,"
+        ],
+        [
+            "Third Watchman",
+            "As he was coming from this churchyard side."
+        ],
+        [
+            "First Watchman",
+            "A great suspicion: stay the friar too.",
+            {
+                "following_direction_line": "18"
+            }
+        ],
+        [
+            "PRINCE",
+            "What misadventure is so early up,",
+            {
+                "preceding_direction_line": "18"
+            }
+        ],
+        [
+            "PRINCE",
+            "That calls our person from our morning's rest?",
+            {
+                "following_direction_line": "19"
+            }
+        ],
+        [
+            "CAPULET",
+            "What should it be, that they so shriek abroad?",
+            {
+                "preceding_direction_line": "19"
+            }
+        ],
+        [
+            "LADY CAPULET",
+            "The people in the street cry Romeo,"
+        ],
+        [
+            "LADY CAPULET",
+            "Some Juliet, and some Paris; and all run,"
+        ],
+        [
+            "LADY CAPULET",
+            "With open outcry toward our monument."
+        ],
+        [
+            "PRINCE",
+            "What fear is this which startles in our ears?"
+        ],
+        [
+            "First Watchman",
+            "Sovereign, here lies the County Paris slain;"
+        ],
+        [
+            "First Watchman",
+            "And Romeo dead; and Juliet, dead before,"
+        ],
+        [
+            "First Watchman",
+            "Warm and new kill'd."
+        ],
+        [
+            "PRINCE",
+            "Search, seek, and know how this foul murder comes."
+        ],
+        [
+            "First Watchman",
+            "Here is a friar, and slaughter'd Romeo's man;"
+        ],
+        [
+            "First Watchman",
+            "With instruments upon them, fit to open"
+        ],
+        [
+            "First Watchman",
+            "These dead men's tombs."
+        ],
+        [
+            "CAPULET",
+            "O heavens! O wife, look how our daughter bleeds!"
+        ],
+        [
+            "CAPULET",
+            "This dagger hath mista'en--for, lo, his house"
+        ],
+        [
+            "CAPULET",
+            "Is empty on the back of Montague,--"
+        ],
+        [
+            "CAPULET",
+            "And it mis-sheathed in my daughter's bosom!"
+        ],
+        [
+            "LADY CAPULET",
+            "O me! this sight of death is as a bell,"
+        ],
+        [
+            "LADY CAPULET",
+            "That warns my old age to a sepulchre.",
+            {
+                "following_direction_line": "20"
+            }
+        ],
+        [
+            "PRINCE",
+            "Come, Montague; for thou art early up,",
+            {
+                "preceding_direction_line": "20"
+            }
+        ],
+        [
+            "PRINCE",
+            "To see thy son and heir more early down."
+        ],
+        [
+            "MONTAGUE",
+            "Alas, my liege, my wife is dead to-night;"
+        ],
+        [
+            "MONTAGUE",
+            "Grief of my son's exile hath stopp'd her breath:"
+        ],
+        [
+            "MONTAGUE",
+            "What further woe conspires against mine age?"
+        ],
+        [
+            "PRINCE",
+            "Look, and thou shalt see."
+        ],
+        [
+            "MONTAGUE",
+            "O thou untaught! what manners is in this?"
+        ],
+        [
+            "MONTAGUE",
+            "To press before thy father to a grave?"
+        ],
+        [
+            "PRINCE",
+            "Seal up the mouth of outrage for a while,"
+        ],
+        [
+            "PRINCE",
+            "Till we can clear these ambiguities,"
+        ],
+        [
+            "PRINCE",
+            "And know their spring, their head, their"
+        ],
+        [
+            "PRINCE",
+            "true descent;"
+        ],
+        [
+            "PRINCE",
+            "And then will I be general of your woes,"
+        ],
+        [
+            "PRINCE",
+            "And lead you even to death: meantime forbear,"
+        ],
+        [
+            "PRINCE",
+            "And let mischance be slave to patience."
+        ],
+        [
+            "PRINCE",
+            "Bring forth the parties of suspicion."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "I am the greatest, able to do least,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Yet most suspected, as the time and place"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Doth make against me of this direful murder;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And here I stand, both to impeach and purge"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Myself condemned and myself excused."
+        ],
+        [
+            "PRINCE",
+            "Then say at once what thou dost know in this."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "I will be brief, for my short date of breath"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Is not so long as is a tedious tale."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Romeo, there dead, was husband to that Juliet;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And she, there dead, that Romeo's faithful wife:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "I married them; and their stol'n marriage-day"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Was Tybalt's dooms-day, whose untimely death"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Banish'd the new-made bridegroom from the city,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "For whom, and not for Tybalt, Juliet pined."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "You, to remove that siege of grief from her,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Betroth'd and would have married her perforce"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "To County Paris: then comes she to me,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And, with wild looks, bid me devise some mean"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "To rid her from this second marriage,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Or in my cell there would she kill herself."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Then gave I her, so tutor'd by my art,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "A sleeping potion; which so took effect"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "As I intended, for it wrought on her"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "The form of death: meantime I writ to Romeo,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "That he should hither come as this dire night,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "To help to take her from her borrow'd grave,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Being the time the potion's force should cease."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "But he which bore my letter, Friar John,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Was stay'd by accident, and yesternight"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Return'd my letter back. Then all alone"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "At the prefixed hour of her waking,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Came I to take her from her kindred's vault;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Meaning to keep her closely at my cell,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Till I conveniently could send to Romeo:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "But when I came, some minute ere the time"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Of her awaking, here untimely lay"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "The noble Paris and true Romeo dead."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "She wakes; and I entreated her come forth,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And bear this work of heaven with patience:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "But then a noise did scare me from the tomb;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And she, too desperate, would not go with me,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "But, as it seems, did violence on herself."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "All this I know; and to the marriage"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Her nurse is privy: and, if aught in this"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Miscarried by my fault, let my old life"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Be sacrificed, some hour before his time,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Unto the rigour of severest law."
+        ],
+        [
+            "PRINCE",
+            "We still have known thee for a holy man."
+        ],
+        [
+            "PRINCE",
+            "Where's Romeo's man? what can he say in this?"
+        ],
+        [
+            "BALTHASAR",
+            "I brought my master news of Juliet's death;"
+        ],
+        [
+            "BALTHASAR",
+            "And then in post he came from Mantua"
+        ],
+        [
+            "BALTHASAR",
+            "To this same place, to this same monument."
+        ],
+        [
+            "BALTHASAR",
+            "This letter he early bid me give his father,"
+        ],
+        [
+            "BALTHASAR",
+            "And threatened me with death, going in the vault,"
+        ],
+        [
+            "BALTHASAR",
+            "I departed not and left him there."
+        ],
+        [
+            "PRINCE",
+            "Give me the letter; I will look on it."
+        ],
+        [
+            "PRINCE",
+            "Where is the county's page, that raised the watch?"
+        ],
+        [
+            "PRINCE",
+            "Sirrah, what made your master in this place?"
+        ],
+        [
+            "PAGE",
+            "He came with flowers to strew his lady's grave;"
+        ],
+        [
+            "PAGE",
+            "And bid me stand aloof, and so I did:"
+        ],
+        [
+            "PAGE",
+            "Anon comes one with light to ope the tomb;"
+        ],
+        [
+            "PAGE",
+            "And by and by my master drew on him;"
+        ],
+        [
+            "PAGE",
+            "And then I ran away to call the watch."
+        ],
+        [
+            "PRINCE",
+            "This letter doth make good the friar's words,"
+        ],
+        [
+            "PRINCE",
+            "Their course of love, the tidings of her death:"
+        ],
+        [
+            "PRINCE",
+            "And here he writes that he did buy a poison"
+        ],
+        [
+            "PRINCE",
+            "Of a poor 'pothecary, and therewithal"
+        ],
+        [
+            "PRINCE",
+            "Came to this vault to die, and lie with Juliet."
+        ],
+        [
+            "PRINCE",
+            "Where be these enemies? Capulet! Montague!"
+        ],
+        [
+            "PRINCE",
+            "See, what a scourge is laid upon your hate,"
+        ],
+        [
+            "PRINCE",
+            "That heaven finds means to kill your joys with love."
+        ],
+        [
+            "PRINCE",
+            "And I for winking at your discords too"
+        ],
+        [
+            "PRINCE",
+            "Have lost a brace of kinsmen: all are punish'd."
+        ],
+        [
+            "CAPULET",
+            "O brother Montague, give me thy hand:"
+        ],
+        [
+            "CAPULET",
+            "This is my daughter's jointure, for no more"
+        ],
+        [
+            "CAPULET",
+            "Can I demand."
+        ],
+        [
+            "MONTAGUE",
+            "But I can give thee more:"
+        ],
+        [
+            "MONTAGUE",
+            "For I will raise her statue in pure gold;"
+        ],
+        [
+            "MONTAGUE",
+            "That while Verona by that name is known,"
+        ],
+        [
+            "MONTAGUE",
+            "There shall no figure at such rate be set"
+        ],
+        [
+            "MONTAGUE",
+            "As that of true and faithful Juliet."
+        ],
+        [
+            "CAPULET",
+            "As rich shall Romeo's by his lady's lie;"
+        ],
+        [
+            "CAPULET",
+            "Poor sacrifices of our enmity!"
+        ],
+        [
+            "PRINCE",
+            "A glooming peace this morning with it brings;"
+        ],
+        [
+            "PRINCE",
+            "The sun, for sorrow, will not show his head:"
+        ],
+        [
+            "PRINCE",
+            "Go hence, to have more talk of these sad things;"
+        ],
+        [
+            "PRINCE",
+            "Some shall be pardon'd, and some punished:"
+        ],
+        [
+            "PRINCE",
+            "For never was a story of more woe"
+        ],
+        [
+            "PRINCE",
+            "Than this of Juliet and her Romeo.",
+            {
+                "following_direction_line": "21"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter PARIS, and his Page bearing flowers and a torch"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Retires"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "The Page whistles. Retires. Enter ROMEO and BALTHASAR, with a torch, mattock, and c"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Retires"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Opens the tomb"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Comes forward"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "They fight"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Falls. Dies"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Laying PARIS in the tomb. Drinks. Dies. Enter, at the other end of the churchyard, FRIAR LAURENCE, with a lantern, crow, and spade"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "Advances. Enters the tomb. JULIET wakes"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Noise within"
+        ],
+        [
+            "_DIRECTION",
+            "D13",
+            "Noise again"
+        ],
+        [
+            "_DIRECTION",
+            "D14",
+            "Exit FRIAR LAURENCE. Kisses him"
+        ],
+        [
+            "_DIRECTION",
+            "D15",
+            "Snatching ROMEO's dagger. Stabs herself. Falls on ROMEO's body, and dies. Enter Watch, with the Page of PARIS"
+        ],
+        [
+            "_DIRECTION",
+            "D16",
+            "Re-enter some of the Watch, with BALTHASAR"
+        ],
+        [
+            "_DIRECTION",
+            "D17",
+            "Re-enter others of the Watch, with FRIAR LAURENCE"
+        ],
+        [
+            "_DIRECTION",
+            "D18",
+            "Enter the PRINCE and Attendants"
+        ],
+        [
+            "_DIRECTION",
+            "D19",
+            "Enter CAPULET, LADY CAPULET, and others"
+        ],
+        [
+            "_DIRECTION",
+            "D20",
+            "Enter MONTAGUE and others"
+        ],
+        [
+            "_DIRECTION",
+            "D21",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "PARIS": [
+            [
+                "1",
+                "9"
+            ],
+            [
+                "12",
+                "21"
+            ],
+            [
+                "49",
+                "57"
+            ],
+            [
+                "68",
+                "69"
+            ],
+            [
+                "72",
+                "74"
+            ]
+        ],
+        "PAGE": [
+            [
+                "10",
+                "11"
+            ],
+            [
+                "71",
+                "71"
+            ],
+            [
+                "180",
+                "180"
+            ],
+            [
+                "291",
+                "295"
+            ]
+        ],
+        "ROMEO": [
+            [
+                "22",
+                "39"
+            ],
+            [
+                "41",
+                "42"
+            ],
+            [
+                "45",
+                "48"
+            ],
+            [
+                "58",
+                "67"
+            ],
+            [
+                "70",
+                "70"
+            ],
+            [
+                "75",
+                "122"
+            ]
+        ],
+        "BALTHASAR": [
+            [
+                "40",
+                "40"
+            ],
+            [
+                "43",
+                "44"
+            ],
+            [
+                "125",
+                "125"
+            ],
+            [
+                "130",
+                "131"
+            ],
+            [
+                "133",
+                "133"
+            ],
+            [
+                "135",
+                "135"
+            ],
+            [
+                "137",
+                "140"
+            ],
+            [
+                "143",
+                "145"
+            ],
+            [
+                "282",
+                "287"
+            ]
+        ],
+        "FRIAR LAURENCE": [
+            [
+                "123",
+                "124"
+            ],
+            [
+                "126",
+                "129"
+            ],
+            [
+                "132",
+                "132"
+            ],
+            [
+                "134",
+                "134"
+            ],
+            [
+                "136",
+                "136"
+            ],
+            [
+                "141",
+                "142"
+            ],
+            [
+                "146",
+                "154"
+            ],
+            [
+                "158",
+                "167"
+            ],
+            [
+                "233",
+                "237"
+            ],
+            [
+                "239",
+                "279"
+            ]
+        ],
+        "JULIET": [
+            [
+                "155",
+                "157"
+            ],
+            [
+                "168",
+                "175"
+            ],
+            [
+                "177",
+                "179"
+            ]
+        ],
+        "First Watchman": [
+            [
+                "176",
+                "176"
+            ],
+            [
+                "181",
+                "190"
+            ],
+            [
+                "192",
+                "192"
+            ],
+            [
+                "196",
+                "196"
+            ],
+            [
+                "204",
+                "206"
+            ],
+            [
+                "208",
+                "210"
+            ]
+        ],
+        "Second Watchman": [
+            [
+                "191",
+                "191"
+            ]
+        ],
+        "Third Watchman": [
+            [
+                "193",
+                "195"
+            ]
+        ],
+        "PRINCE": [
+            [
+                "197",
+                "198"
+            ],
+            [
+                "203",
+                "203"
+            ],
+            [
+                "207",
+                "207"
+            ],
+            [
+                "217",
+                "218"
+            ],
+            [
+                "222",
+                "222"
+            ],
+            [
+                "225",
+                "232"
+            ],
+            [
+                "238",
+                "238"
+            ],
+            [
+                "280",
+                "281"
+            ],
+            [
+                "288",
+                "290"
+            ],
+            [
+                "296",
+                "305"
+            ],
+            [
+                "316",
+                "321"
+            ]
+        ],
+        "CAPULET": [
+            [
+                "199",
+                "199"
+            ],
+            [
+                "211",
+                "214"
+            ],
+            [
+                "306",
+                "308"
+            ],
+            [
+                "314",
+                "315"
+            ]
+        ],
+        "LADY CAPULET": [
+            [
+                "200",
+                "202"
+            ],
+            [
+                "215",
+                "216"
+            ]
+        ],
+        "MONTAGUE": [
+            [
+                "219",
+                "221"
+            ],
+            [
+                "223",
+                "224"
+            ],
+            [
+                "309",
+                "313"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "A churchyard; in it a tomb belonging to the Capulets."
+}

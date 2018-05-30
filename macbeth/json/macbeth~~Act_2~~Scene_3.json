@@ -1,0 +1,1096 @@
+{
+    "scene_id": "macbeth~~Act_2~~Scene_3",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "Porter",
+            "Here's a knocking indeed! If a",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "Porter",
+            "man were porter of hell-gate, he should have"
+        ],
+        [
+            "Porter",
+            "old turning the key."
+        ],
+        [
+            "Porter",
+            "Knock,"
+        ],
+        [
+            "Porter",
+            "knock, knock! Who's there, i' the name of"
+        ],
+        [
+            "Porter",
+            "Beelzebub? Here's a farmer, that hanged"
+        ],
+        [
+            "Porter",
+            "himself on the expectation of plenty: come in"
+        ],
+        [
+            "Porter",
+            "time; have napkins enow about you; here"
+        ],
+        [
+            "Porter",
+            "you'll sweat for't."
+        ],
+        [
+            "Porter",
+            "Knock,"
+        ],
+        [
+            "Porter",
+            "knock! Who's there, in the other devil's"
+        ],
+        [
+            "Porter",
+            "name? Faith, here's an equivocator, that could"
+        ],
+        [
+            "Porter",
+            "swear in both the scales against either scale;"
+        ],
+        [
+            "Porter",
+            "who committed treason enough for God's sake,"
+        ],
+        [
+            "Porter",
+            "yet could not equivocate to heaven: O, come"
+        ],
+        [
+            "Porter",
+            "in, equivocator."
+        ],
+        [
+            "Porter",
+            "Knock,"
+        ],
+        [
+            "Porter",
+            "knock, knock! Who's there? Faith, here's an"
+        ],
+        [
+            "Porter",
+            "English tailor come hither, for stealing out of"
+        ],
+        [
+            "Porter",
+            "a French hose: come in, tailor; here you may"
+        ],
+        [
+            "Porter",
+            "roast your goose."
+        ],
+        [
+            "Porter",
+            "Knock,"
+        ],
+        [
+            "Porter",
+            "knock; never at quiet! What are you? But"
+        ],
+        [
+            "Porter",
+            "this place is too cold for hell. I'll devil-porter"
+        ],
+        [
+            "Porter",
+            "it no further: I had thought to have let in"
+        ],
+        [
+            "Porter",
+            "some of all professions that go the primrose"
+        ],
+        [
+            "Porter",
+            "way to the everlasting bonfire."
+        ],
+        [
+            "Porter",
+            "Anon, anon! I pray you, remember the porter.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "MACDUFF",
+            "Was it so late, friend, ere you went to bed,",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "MACDUFF",
+            "That you do lie so late?"
+        ],
+        [
+            "Porter",
+            "'Faith sir, we were carousing till the"
+        ],
+        [
+            "Porter",
+            "second cock: and drink, sir, is a great"
+        ],
+        [
+            "Porter",
+            "provoker of three things."
+        ],
+        [
+            "MACDUFF",
+            "What three things does drink especially provoke?"
+        ],
+        [
+            "Porter",
+            "Marry, sir, nose-painting, sleep, and"
+        ],
+        [
+            "Porter",
+            "urine. Lechery, sir, it provokes, and unprovokes;"
+        ],
+        [
+            "Porter",
+            "it provokes the desire, but it takes"
+        ],
+        [
+            "Porter",
+            "away the performance: therefore, much drink"
+        ],
+        [
+            "Porter",
+            "may be said to be an equivocator with lechery:"
+        ],
+        [
+            "Porter",
+            "it makes him, and it mars him; it sets"
+        ],
+        [
+            "Porter",
+            "him on, and it takes him off; it persuades him,"
+        ],
+        [
+            "Porter",
+            "and disheartens him; makes him stand to, and"
+        ],
+        [
+            "Porter",
+            "not stand to; in conclusion, equivocates him"
+        ],
+        [
+            "Porter",
+            "in a sleep, and, giving him the lie, leaves him."
+        ],
+        [
+            "MACDUFF",
+            "I believe drink gave thee the lie last night."
+        ],
+        [
+            "Porter",
+            "That it did, sir, i' the very throat on"
+        ],
+        [
+            "Porter",
+            "me: but I requited him for his lie; and, I"
+        ],
+        [
+            "Porter",
+            "think, being too strong for him, though he took"
+        ],
+        [
+            "Porter",
+            "up my legs sometime, yet I made a shift to cast"
+        ],
+        [
+            "Porter",
+            "him."
+        ],
+        [
+            "MACDUFF",
+            "Is thy master stirring?"
+        ],
+        [
+            "MACDUFF",
+            "Our knocking has awaked him; here he comes.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "LENNOX",
+            "Good morrow, noble sir.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "MACBETH",
+            "Good morrow, both."
+        ],
+        [
+            "MACDUFF",
+            "Is the king stirring, worthy thane?"
+        ],
+        [
+            "MACBETH",
+            "Not yet."
+        ],
+        [
+            "MACDUFF",
+            "He did command me to call timely on him:"
+        ],
+        [
+            "MACDUFF",
+            "I have almost slipp'd the hour."
+        ],
+        [
+            "MACBETH",
+            "I'll bring you to him."
+        ],
+        [
+            "MACDUFF",
+            "I know this is a joyful trouble to you;"
+        ],
+        [
+            "MACDUFF",
+            "But yet 'tis one."
+        ],
+        [
+            "MACBETH",
+            "The labour we delight in physics pain."
+        ],
+        [
+            "MACBETH",
+            "This is the door."
+        ],
+        [
+            "MACDUFF",
+            "I'll make so bold to call,"
+        ],
+        [
+            "MACDUFF",
+            "For 'tis my limited service.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "LENNOX",
+            "Goes the king hence to-day?",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "MACBETH",
+            "He does: he did appoint so."
+        ],
+        [
+            "LENNOX",
+            "The night has been unruly: where we lay,"
+        ],
+        [
+            "LENNOX",
+            "Our chimneys were blown down; and, as they say,"
+        ],
+        [
+            "LENNOX",
+            "Lamentings heard i' the air; strange screams of death,"
+        ],
+        [
+            "LENNOX",
+            "And prophesying with accents terrible"
+        ],
+        [
+            "LENNOX",
+            "Of dire combustion and confused events"
+        ],
+        [
+            "LENNOX",
+            "New hatch'd to the woeful time: the obscure bird"
+        ],
+        [
+            "LENNOX",
+            "Clamour'd the livelong night: some say, the earth"
+        ],
+        [
+            "LENNOX",
+            "Was feverous and did shake."
+        ],
+        [
+            "MACBETH",
+            "'Twas a rough night."
+        ],
+        [
+            "LENNOX",
+            "My young remembrance cannot parallel"
+        ],
+        [
+            "LENNOX",
+            "A fellow to it.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "MACDUFF",
+            "O horror, horror, horror! Tongue nor heart",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "MACDUFF",
+            "Cannot conceive nor name thee!"
+        ],
+        [
+            "LENNOX",
+            "What's the matter."
+        ],
+        [
+            "MACDUFF",
+            "Confusion now hath made his masterpiece!"
+        ],
+        [
+            "MACDUFF",
+            "Most sacrilegious murder hath broke ope"
+        ],
+        [
+            "MACDUFF",
+            "The Lord's anointed temple, and stole thence"
+        ],
+        [
+            "MACDUFF",
+            "The life o' the building!"
+        ],
+        [
+            "MACBETH",
+            "What is 't you say? the life?"
+        ],
+        [
+            "LENNOX",
+            "Mean you his majesty?"
+        ],
+        [
+            "MACDUFF",
+            "Approach the chamber, and destroy your sight"
+        ],
+        [
+            "MACDUFF",
+            "With a new Gorgon: do not bid me speak;"
+        ],
+        [
+            "MACDUFF",
+            "See, and then speak yourselves."
+        ],
+        [
+            "MACDUFF",
+            "Awake, awake!"
+        ],
+        [
+            "MACDUFF",
+            "Ring the alarum-bell. Murder and treason!"
+        ],
+        [
+            "MACDUFF",
+            "Banquo and Donalbain! Malcolm! awake!"
+        ],
+        [
+            "MACDUFF",
+            "Shake off this downy sleep, death's counterfeit,"
+        ],
+        [
+            "MACDUFF",
+            "And look on death itself! up, up, and see"
+        ],
+        [
+            "MACDUFF",
+            "The great doom's image! Malcolm! Banquo!"
+        ],
+        [
+            "MACDUFF",
+            "As from your graves rise up, and walk like sprites,"
+        ],
+        [
+            "MACDUFF",
+            "To countenance this horror! Ring the bell.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "LADY MACBETH",
+            "What's the business,",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "LADY MACBETH",
+            "That such a hideous trumpet calls to parley"
+        ],
+        [
+            "LADY MACBETH",
+            "The sleepers of the house? speak, speak!"
+        ],
+        [
+            "MACDUFF",
+            "O gentle lady,"
+        ],
+        [
+            "MACDUFF",
+            "'Tis not for you to hear what I can speak:"
+        ],
+        [
+            "MACDUFF",
+            "The repetition, in a woman's ear,"
+        ],
+        [
+            "MACDUFF",
+            "Would murder as it fell."
+        ],
+        [
+            "MACDUFF",
+            "O Banquo, Banquo,"
+        ],
+        [
+            "MACDUFF",
+            "Our royal master 's murder'd!",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "LADY MACBETH",
+            "Woe, alas!",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "LADY MACBETH",
+            "What, in our house?"
+        ],
+        [
+            "BANQUO",
+            "Too cruel any where."
+        ],
+        [
+            "BANQUO",
+            "Dear Duff, I prithee, contradict thyself,"
+        ],
+        [
+            "BANQUO",
+            "And say it is not so.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "MACBETH",
+            "Had I but died an hour before this chance,",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "MACBETH",
+            "I had lived a blessed time; for, from this instant,"
+        ],
+        [
+            "MACBETH",
+            "There 's nothing serious in mortality:"
+        ],
+        [
+            "MACBETH",
+            "All is but toys: renown and grace is dead;"
+        ],
+        [
+            "MACBETH",
+            "The wine of life is drawn, and the mere lees"
+        ],
+        [
+            "MACBETH",
+            "Is left this vault to brag of.",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "DONALBAIN",
+            "What is amiss?",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "MACBETH",
+            "You are, and do not know't:"
+        ],
+        [
+            "MACBETH",
+            "The spring, the head, the fountain of your blood"
+        ],
+        [
+            "MACBETH",
+            "Is stopp'd; the very source of it is stopp'd."
+        ],
+        [
+            "MACDUFF",
+            "Your royal father 's murder'd."
+        ],
+        [
+            "MALCOLM",
+            "O, by whom?"
+        ],
+        [
+            "LENNOX",
+            "Those of his chamber, as it seem'd, had done 't:"
+        ],
+        [
+            "LENNOX",
+            "Their hands and faces were an badged with blood;"
+        ],
+        [
+            "LENNOX",
+            "So were their daggers, which unwiped we found"
+        ],
+        [
+            "LENNOX",
+            "Upon their pillows:"
+        ],
+        [
+            "LENNOX",
+            "They stared, and were distracted; no man's life"
+        ],
+        [
+            "LENNOX",
+            "Was to be trusted with them."
+        ],
+        [
+            "MACBETH",
+            "O, yet I do repent me of my fury,"
+        ],
+        [
+            "MACBETH",
+            "That I did kill them."
+        ],
+        [
+            "MACDUFF",
+            "Wherefore did you so?"
+        ],
+        [
+            "MACBETH",
+            "Who can be wise, amazed, temperate and furious,"
+        ],
+        [
+            "MACBETH",
+            "Loyal and neutral, in a moment? No man:"
+        ],
+        [
+            "MACBETH",
+            "The expedition my violent love"
+        ],
+        [
+            "MACBETH",
+            "Outrun the pauser, reason. Here lay Duncan,"
+        ],
+        [
+            "MACBETH",
+            "His silver skin laced with his golden blood;"
+        ],
+        [
+            "MACBETH",
+            "And his gash'd stabs look'd like a breach in nature"
+        ],
+        [
+            "MACBETH",
+            "For ruin's wasteful entrance: there, the murderers,"
+        ],
+        [
+            "MACBETH",
+            "Steep'd in the colours of their trade, their daggers"
+        ],
+        [
+            "MACBETH",
+            "Unmannerly breech'd with gore: who could refrain,"
+        ],
+        [
+            "MACBETH",
+            "That had a heart to love, and in that heart"
+        ],
+        [
+            "MACBETH",
+            "Courage to make 's love kno wn?"
+        ],
+        [
+            "LADY MACBETH",
+            "Help me hence, ho!"
+        ],
+        [
+            "MACDUFF",
+            "Look to the lady."
+        ],
+        [
+            "MALCOLM",
+            "[Aside to DONALBAIN] Why do we hold our tongues,"
+        ],
+        [
+            "MALCOLM",
+            "That most may claim this argument for ours?"
+        ],
+        [
+            "DONALBAIN",
+            "[Aside to MALCOLM] What should be spoken here,"
+        ],
+        [
+            "DONALBAIN",
+            "where our fate,"
+        ],
+        [
+            "DONALBAIN",
+            "Hid in an auger-hole, may rush, and seize us?"
+        ],
+        [
+            "DONALBAIN",
+            "Let 's away;"
+        ],
+        [
+            "DONALBAIN",
+            "Our tears are not yet brew'd."
+        ],
+        [
+            "MALCOLM",
+            "[Aside to DONALBAIN] Nor our strong sorrow"
+        ],
+        [
+            "MALCOLM",
+            "Upon the foot of motion."
+        ],
+        [
+            "BANQUO",
+            "Look to the lady:"
+        ],
+        [
+            "BANQUO",
+            "And when we have our naked frailties hid,"
+        ],
+        [
+            "BANQUO",
+            "That suffer in exposure, let us meet,"
+        ],
+        [
+            "BANQUO",
+            "And question this most bloody piece of work,"
+        ],
+        [
+            "BANQUO",
+            "To know it further. Fears and scruples shake us:"
+        ],
+        [
+            "BANQUO",
+            "In the great hand of God I stand; and thence"
+        ],
+        [
+            "BANQUO",
+            "Against the undivulged pretence I fight"
+        ],
+        [
+            "BANQUO",
+            "Of treasonous malice.",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "MACDUFF",
+            "And so do I.",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "ALL",
+            "So all."
+        ],
+        [
+            "MACBETH",
+            "Let's briefly put on manly readiness,"
+        ],
+        [
+            "MACBETH",
+            "And meet i' the hall together."
+        ],
+        [
+            "ALL",
+            "Well contented.",
+            {
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "MALCOLM",
+            "What will you do? Let's not consort with them:",
+            {
+                "preceding_direction_line": "11"
+            }
+        ],
+        [
+            "MALCOLM",
+            "To show an unfelt sorrow is an office"
+        ],
+        [
+            "MALCOLM",
+            "Which the false man does easy. I'll to England."
+        ],
+        [
+            "DONALBAIN",
+            "To Ireland, I; our separated fortune"
+        ],
+        [
+            "DONALBAIN",
+            "Shall keep us both the safer: where we are,"
+        ],
+        [
+            "DONALBAIN",
+            "There's daggers in men's smiles: the near in blood,"
+        ],
+        [
+            "DONALBAIN",
+            "The nearer bloody."
+        ],
+        [
+            "MALCOLM",
+            "This murderous shaft that's shot"
+        ],
+        [
+            "MALCOLM",
+            "Hath not yet lighted, and our safest way"
+        ],
+        [
+            "MALCOLM",
+            "Is to avoid the aim. Therefore, to horse;"
+        ],
+        [
+            "MALCOLM",
+            "And let us not be dainty of leave-taking,"
+        ],
+        [
+            "MALCOLM",
+            "But shift away: there's warrant in that theft"
+        ],
+        [
+            "MALCOLM",
+            "Which steals itself, when there's no mercy left.",
+            {
+                "following_direction_line": "12"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Knocking within. Enter a Porter"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Knocking within. Knocking within. Knocking within. Knocking within. Knocking within. Opens the gate. Enter MACDUFF and LENNOX"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter MACBETH"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Re-enter MACDUFF"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exeunt MACBETH and LENNOX. Bell rings. Enter LADY MACBETH"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Enter BANQUO"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Re-enter MACBETH and LENNOX, with ROSS"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Enter MALCOLM and DONALBAIN"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "LADY MACBETH is carried out"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "Exeunt all but Malcolm and Donalbain."
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "Porter": [
+            [
+                "1",
+                "28"
+            ],
+            [
+                "31",
+                "33"
+            ],
+            [
+                "35",
+                "44"
+            ],
+            [
+                "46",
+                "50"
+            ]
+        ],
+        "MACDUFF": [
+            [
+                "29",
+                "30"
+            ],
+            [
+                "34",
+                "34"
+            ],
+            [
+                "45",
+                "45"
+            ],
+            [
+                "51",
+                "52"
+            ],
+            [
+                "55",
+                "55"
+            ],
+            [
+                "57",
+                "58"
+            ],
+            [
+                "60",
+                "61"
+            ],
+            [
+                "64",
+                "65"
+            ],
+            [
+                "79",
+                "80"
+            ],
+            [
+                "82",
+                "85"
+            ],
+            [
+                "88",
+                "98"
+            ],
+            [
+                "102",
+                "107"
+            ],
+            [
+                "123",
+                "123"
+            ],
+            [
+                "133",
+                "133"
+            ],
+            [
+                "146",
+                "146"
+            ],
+            [
+                "164",
+                "164"
+            ]
+        ],
+        "LENNOX": [
+            [
+                "53",
+                "53"
+            ],
+            [
+                "66",
+                "66"
+            ],
+            [
+                "68",
+                "75"
+            ],
+            [
+                "77",
+                "78"
+            ],
+            [
+                "81",
+                "81"
+            ],
+            [
+                "87",
+                "87"
+            ],
+            [
+                "125",
+                "130"
+            ]
+        ],
+        "MACBETH": [
+            [
+                "54",
+                "54"
+            ],
+            [
+                "56",
+                "56"
+            ],
+            [
+                "59",
+                "59"
+            ],
+            [
+                "62",
+                "63"
+            ],
+            [
+                "67",
+                "67"
+            ],
+            [
+                "76",
+                "76"
+            ],
+            [
+                "86",
+                "86"
+            ],
+            [
+                "113",
+                "118"
+            ],
+            [
+                "120",
+                "122"
+            ],
+            [
+                "131",
+                "132"
+            ],
+            [
+                "134",
+                "144"
+            ],
+            [
+                "166",
+                "167"
+            ]
+        ],
+        "LADY MACBETH": [
+            [
+                "99",
+                "101"
+            ],
+            [
+                "108",
+                "109"
+            ],
+            [
+                "145",
+                "145"
+            ]
+        ],
+        "BANQUO": [
+            [
+                "110",
+                "112"
+            ],
+            [
+                "156",
+                "163"
+            ]
+        ],
+        "DONALBAIN": [
+            [
+                "119",
+                "119"
+            ],
+            [
+                "149",
+                "153"
+            ],
+            [
+                "172",
+                "175"
+            ]
+        ],
+        "MALCOLM": [
+            [
+                "124",
+                "124"
+            ],
+            [
+                "147",
+                "148"
+            ],
+            [
+                "154",
+                "155"
+            ],
+            [
+                "169",
+                "171"
+            ],
+            [
+                "176",
+                "181"
+            ]
+        ],
+        "ALL": [
+            [
+                "165",
+                "165"
+            ],
+            [
+                "168",
+                "168"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "The same."
+}

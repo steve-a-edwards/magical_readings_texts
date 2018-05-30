@@ -1,0 +1,460 @@
+{
+    "scene_id": "the merchant of venice~~Act_3~~Scene_4",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "LORENZO",
+            "Madam, although I speak it in your presence,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "LORENZO",
+            "You have a noble and a true conceit"
+        ],
+        [
+            "LORENZO",
+            "Of godlike amity; which appears most strongly"
+        ],
+        [
+            "LORENZO",
+            "In bearing thus the absence of your lord."
+        ],
+        [
+            "LORENZO",
+            "But if you knew to whom you show this honour,"
+        ],
+        [
+            "LORENZO",
+            "How true a gentleman you send relief,"
+        ],
+        [
+            "LORENZO",
+            "How dear a lover of my lord your husband,"
+        ],
+        [
+            "LORENZO",
+            "I know you would be prouder of the work"
+        ],
+        [
+            "LORENZO",
+            "Than customary bounty can enforce you."
+        ],
+        [
+            "PORTIA",
+            "I never did repent for doing good,"
+        ],
+        [
+            "PORTIA",
+            "Nor shall not now: for in companions"
+        ],
+        [
+            "PORTIA",
+            "That do converse and waste the time together,"
+        ],
+        [
+            "PORTIA",
+            "Whose souls do bear an equal yoke Of love,"
+        ],
+        [
+            "PORTIA",
+            "There must be needs a like proportion"
+        ],
+        [
+            "PORTIA",
+            "Of lineaments, of manners and of spirit;"
+        ],
+        [
+            "PORTIA",
+            "Which makes me think that this Antonio,"
+        ],
+        [
+            "PORTIA",
+            "Being the bosom lover of my lord,"
+        ],
+        [
+            "PORTIA",
+            "Must needs be like my lord. If it be so,"
+        ],
+        [
+            "PORTIA",
+            "How little is the cost I have bestow'd"
+        ],
+        [
+            "PORTIA",
+            "In purchasing the semblance of my soul"
+        ],
+        [
+            "PORTIA",
+            "From out the state of hellish misery!"
+        ],
+        [
+            "PORTIA",
+            "This comes too near the praising of myself;"
+        ],
+        [
+            "PORTIA",
+            "Therefore no more of it: hear other things."
+        ],
+        [
+            "PORTIA",
+            "Lorenzo, I commit into your hands"
+        ],
+        [
+            "PORTIA",
+            "The husbandry and manage of my house"
+        ],
+        [
+            "PORTIA",
+            "Until my lord's return: for mine own part,"
+        ],
+        [
+            "PORTIA",
+            "I have toward heaven breathed a secret vow"
+        ],
+        [
+            "PORTIA",
+            "To live in prayer and contemplation,"
+        ],
+        [
+            "PORTIA",
+            "Only attended by Nerissa here,"
+        ],
+        [
+            "PORTIA",
+            "Until her husband and my lord's return:"
+        ],
+        [
+            "PORTIA",
+            "There is a monastery two miles off;"
+        ],
+        [
+            "PORTIA",
+            "And there will we abide. I do desire you"
+        ],
+        [
+            "PORTIA",
+            "Not to deny this imposition;"
+        ],
+        [
+            "PORTIA",
+            "The which my love and some necessity"
+        ],
+        [
+            "PORTIA",
+            "Now lays upon you."
+        ],
+        [
+            "LORENZO",
+            "Madam, with all my heart;"
+        ],
+        [
+            "LORENZO",
+            "I shall obey you in all fair commands."
+        ],
+        [
+            "PORTIA",
+            "My people do already know my mind,"
+        ],
+        [
+            "PORTIA",
+            "And will acknowledge you and Jessica"
+        ],
+        [
+            "PORTIA",
+            "In place of Lord Bassanio and myself."
+        ],
+        [
+            "PORTIA",
+            "And so farewell, till we shall meet again."
+        ],
+        [
+            "LORENZO",
+            "Fair thoughts and happy hours attend on you!"
+        ],
+        [
+            "JESSICA",
+            "I wish your ladyship all heart's content."
+        ],
+        [
+            "PORTIA",
+            "I thank you for your wish, and am well pleased"
+        ],
+        [
+            "PORTIA",
+            "To wish it back on you: fare you well Jessica."
+        ],
+        [
+            "PORTIA",
+            "Now, Balthasar,"
+        ],
+        [
+            "PORTIA",
+            "As I have ever found thee honest-true,"
+        ],
+        [
+            "PORTIA",
+            "So let me find thee still. Take this same letter,"
+        ],
+        [
+            "PORTIA",
+            "And use thou all the endeavour of a man"
+        ],
+        [
+            "PORTIA",
+            "In speed to Padua: see thou render this"
+        ],
+        [
+            "PORTIA",
+            "Into my cousin's hand, Doctor Bellario;"
+        ],
+        [
+            "PORTIA",
+            "And, look, what notes and garments he doth give thee,"
+        ],
+        [
+            "PORTIA",
+            "Bring them, I pray thee, with imagined speed"
+        ],
+        [
+            "PORTIA",
+            "Unto the tranect, to the common ferry"
+        ],
+        [
+            "PORTIA",
+            "Which trades to Venice. Waste no time in words,"
+        ],
+        [
+            "PORTIA",
+            "But get thee gone: I shall be there before thee.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "BALTHASAR",
+            "Madam, I go with all convenient speed.",
+            {
+                "preceding_direction_line": "2"
+            },
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "PORTIA",
+            "Come on, Nerissa; I have work in hand",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "PORTIA",
+            "That you yet know not of: we'll see our husbands"
+        ],
+        [
+            "PORTIA",
+            "Before they think of us."
+        ],
+        [
+            "NERISSA",
+            "Shall they see us?"
+        ],
+        [
+            "PORTIA",
+            "They shall, Nerissa; but in such a habit,"
+        ],
+        [
+            "PORTIA",
+            "That they shall think we are accomplished"
+        ],
+        [
+            "PORTIA",
+            "With that we lack. I'll hold thee any wager,"
+        ],
+        [
+            "PORTIA",
+            "When we are both accoutred like young men,"
+        ],
+        [
+            "PORTIA",
+            "I'll prove the prettier fellow of the two,"
+        ],
+        [
+            "PORTIA",
+            "And wear my dagger with the braver grace,"
+        ],
+        [
+            "PORTIA",
+            "And speak between the change of man and boy"
+        ],
+        [
+            "PORTIA",
+            "With a reed voice, and turn two mincing steps"
+        ],
+        [
+            "PORTIA",
+            "Into a manly stride, and speak of frays"
+        ],
+        [
+            "PORTIA",
+            "Like a fine bragging youth, and tell quaint lies,"
+        ],
+        [
+            "PORTIA",
+            "How honourable ladies sought my love,"
+        ],
+        [
+            "PORTIA",
+            "Which I denying, they fell sick and died;"
+        ],
+        [
+            "PORTIA",
+            "I could not do withal; then I'll repent,"
+        ],
+        [
+            "PORTIA",
+            "And wish for all that, that I had not killed them;"
+        ],
+        [
+            "PORTIA",
+            "And twenty of these puny lies I'll tell,"
+        ],
+        [
+            "PORTIA",
+            "That men shall swear I have discontinued school"
+        ],
+        [
+            "PORTIA",
+            "Above a twelvemonth. I have within my mind"
+        ],
+        [
+            "PORTIA",
+            "A thousand raw tricks of these bragging Jacks,"
+        ],
+        [
+            "PORTIA",
+            "Which I will practise."
+        ],
+        [
+            "NERISSA",
+            "Why, shall we turn to men?"
+        ],
+        [
+            "PORTIA",
+            "Fie, what a question's that,"
+        ],
+        [
+            "PORTIA",
+            "If thou wert near a lewd interpreter!"
+        ],
+        [
+            "PORTIA",
+            "But come, I'll tell thee all my whole device"
+        ],
+        [
+            "PORTIA",
+            "When I am in my coach, which stays for us"
+        ],
+        [
+            "PORTIA",
+            "At the park gate; and therefore haste away,"
+        ],
+        [
+            "PORTIA",
+            "For we must measure twenty miles to-day.",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter PORTIA, NERISSA, LORENZO, JESSICA, and BALTHASAR"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt JESSICA and LORENZO"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "LORENZO": [
+            [
+                "1",
+                "9"
+            ],
+            [
+                "36",
+                "37"
+            ],
+            [
+                "42",
+                "42"
+            ]
+        ],
+        "PORTIA": [
+            [
+                "10",
+                "35"
+            ],
+            [
+                "38",
+                "41"
+            ],
+            [
+                "44",
+                "56"
+            ],
+            [
+                "58",
+                "60"
+            ],
+            [
+                "62",
+                "80"
+            ],
+            [
+                "82",
+                "87"
+            ]
+        ],
+        "JESSICA": [
+            [
+                "43",
+                "43"
+            ]
+        ],
+        "BALTHASAR": [
+            [
+                "57",
+                "57"
+            ]
+        ],
+        "NERISSA": [
+            [
+                "61",
+                "61"
+            ],
+            [
+                "81",
+                "81"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IV",
+    "scene_description": "Belmont. A room in PORTIA'S house."
+}

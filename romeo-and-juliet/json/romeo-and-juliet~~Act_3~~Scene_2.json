@@ -1,0 +1,734 @@
+{
+    "scene_id": "romeo and juliet~~Act_3~~Scene_2",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "JULIET",
+            "Gallop apace, you fiery-footed steeds,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "JULIET",
+            "Towards Phoebus' lodging: such a wagoner"
+        ],
+        [
+            "JULIET",
+            "As Phaethon would whip you to the west,"
+        ],
+        [
+            "JULIET",
+            "And bring in cloudy night immediately."
+        ],
+        [
+            "JULIET",
+            "Spread thy close curtain, love-performing night,"
+        ],
+        [
+            "JULIET",
+            "That runaway's eyes may wink and Romeo"
+        ],
+        [
+            "JULIET",
+            "Leap to these arms, untalk'd of and unseen."
+        ],
+        [
+            "JULIET",
+            "Lovers can see to do their amorous rites"
+        ],
+        [
+            "JULIET",
+            "By their own beauties; or, if love be blind,"
+        ],
+        [
+            "JULIET",
+            "It best agrees with night. Come, civil night,"
+        ],
+        [
+            "JULIET",
+            "Thou sober-suited matron, all in black,"
+        ],
+        [
+            "JULIET",
+            "And learn me how to lose a winning match,"
+        ],
+        [
+            "JULIET",
+            "Play'd for a pair of stainless maidenhoods:"
+        ],
+        [
+            "JULIET",
+            "Hood my unmann'd blood, bating in my cheeks,"
+        ],
+        [
+            "JULIET",
+            "With thy black mantle; till strange love, grown bold,"
+        ],
+        [
+            "JULIET",
+            "Think true love acted simple modesty."
+        ],
+        [
+            "JULIET",
+            "Come, night; come, Romeo; come, thou day in night;"
+        ],
+        [
+            "JULIET",
+            "For thou wilt lie upon the wings of night"
+        ],
+        [
+            "JULIET",
+            "Whiter than new snow on a raven's back."
+        ],
+        [
+            "JULIET",
+            "Come, gentle night, come, loving, black-brow'd night,"
+        ],
+        [
+            "JULIET",
+            "Give me my Romeo; and, when he shall die,"
+        ],
+        [
+            "JULIET",
+            "Take him and cut him out in little stars,"
+        ],
+        [
+            "JULIET",
+            "And he will make the face of heaven so fine"
+        ],
+        [
+            "JULIET",
+            "That all the world will be in love with night"
+        ],
+        [
+            "JULIET",
+            "And pay no worship to the garish sun."
+        ],
+        [
+            "JULIET",
+            "O, I have bought the mansion of a love,"
+        ],
+        [
+            "JULIET",
+            "But not possess'd it, and, though I am sold,"
+        ],
+        [
+            "JULIET",
+            "Not yet enjoy'd: so tedious is this day"
+        ],
+        [
+            "JULIET",
+            "As is the night before some festival"
+        ],
+        [
+            "JULIET",
+            "To an impatient child that hath new robes"
+        ],
+        [
+            "JULIET",
+            "And may not wear them. O, here comes my nurse,"
+        ],
+        [
+            "JULIET",
+            "And she brings news; and every tongue that speaks"
+        ],
+        [
+            "JULIET",
+            "But Romeo's name speaks heavenly eloquence."
+        ],
+        [
+            "JULIET",
+            "Now, nurse, what news? What hast thou there? the cords"
+        ],
+        [
+            "JULIET",
+            "That Romeo bid thee fetch?",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "Nurse",
+            "Ay, ay, the cords.",
+            {
+                "preceding_direction_line": "2"
+            },
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "JULIET",
+            "Ay me! what news? why dost thou wring thy hands?",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "Nurse",
+            "Ah, well-a-day! he's dead, he's dead, he's dead!"
+        ],
+        [
+            "Nurse",
+            "We are undone, lady, we are undone!"
+        ],
+        [
+            "Nurse",
+            "Alack the day! he's gone, he's kill'd, he's dead!"
+        ],
+        [
+            "JULIET",
+            "Can heaven be so envious?"
+        ],
+        [
+            "Nurse",
+            "Romeo can,"
+        ],
+        [
+            "Nurse",
+            "Though heaven cannot: O Romeo, Romeo!"
+        ],
+        [
+            "Nurse",
+            "Who ever would have thought it? Romeo!"
+        ],
+        [
+            "JULIET",
+            "What devil art thou, that dost torment me thus?"
+        ],
+        [
+            "JULIET",
+            "This torture should be roar'd in dismal hell."
+        ],
+        [
+            "JULIET",
+            "Hath Romeo slain himself? say thou but 'I,'"
+        ],
+        [
+            "JULIET",
+            "And that bare vowel 'I' shall poison more"
+        ],
+        [
+            "JULIET",
+            "Than the death-darting eye of cockatrice:"
+        ],
+        [
+            "JULIET",
+            "I am not I, if there be such an I;"
+        ],
+        [
+            "JULIET",
+            "Or those eyes shut, that make thee answer 'I.'"
+        ],
+        [
+            "JULIET",
+            "If he be slain, say 'I'; or if not, no:"
+        ],
+        [
+            "JULIET",
+            "Brief sounds determine of my weal or woe."
+        ],
+        [
+            "Nurse",
+            "I saw the wound, I saw it with mine eyes,--"
+        ],
+        [
+            "Nurse",
+            "God save the mark!--here on his manly breast:"
+        ],
+        [
+            "Nurse",
+            "A piteous corse, a bloody piteous corse;"
+        ],
+        [
+            "Nurse",
+            "Pale, pale as ashes, all bedaub'd in blood,"
+        ],
+        [
+            "Nurse",
+            "All in gore-blood; I swounded at the sight."
+        ],
+        [
+            "JULIET",
+            "O, break, my heart! poor bankrupt, break at once!"
+        ],
+        [
+            "JULIET",
+            "To prison, eyes, ne'er look on liberty!"
+        ],
+        [
+            "JULIET",
+            "Vile earth, to earth resign; end motion here;"
+        ],
+        [
+            "JULIET",
+            "And thou and Romeo press one heavy bier!"
+        ],
+        [
+            "Nurse",
+            "O Tybalt, Tybalt, the best friend I had!"
+        ],
+        [
+            "Nurse",
+            "O courteous Tybalt! honest gentleman!"
+        ],
+        [
+            "Nurse",
+            "That ever I should live to see thee dead!"
+        ],
+        [
+            "JULIET",
+            "What storm is this that blows so contrary?"
+        ],
+        [
+            "JULIET",
+            "Is Romeo slaughter'd, and is Tybalt dead?"
+        ],
+        [
+            "JULIET",
+            "My dear-loved cousin, and my dearer lord?"
+        ],
+        [
+            "JULIET",
+            "Then, dreadful trumpet, sound the general doom!"
+        ],
+        [
+            "JULIET",
+            "For who is living, if those two are gone?"
+        ],
+        [
+            "Nurse",
+            "Tybalt is gone, and Romeo banished;"
+        ],
+        [
+            "Nurse",
+            "Romeo that kill'd him, he is banished."
+        ],
+        [
+            "JULIET",
+            "O God! did Romeo's hand shed Tybalt's blood?"
+        ],
+        [
+            "Nurse",
+            "It did, it did; alas the day, it did!"
+        ],
+        [
+            "JULIET",
+            "O serpent heart, hid with a flowering face!"
+        ],
+        [
+            "JULIET",
+            "Did ever dragon keep so fair a cave?"
+        ],
+        [
+            "JULIET",
+            "Beautiful tyrant! fiend angelical!"
+        ],
+        [
+            "JULIET",
+            "Dove-feather'd raven! wolvish-ravening lamb!"
+        ],
+        [
+            "JULIET",
+            "Despised substance of divinest show!"
+        ],
+        [
+            "JULIET",
+            "Just opposite to what thou justly seem'st,"
+        ],
+        [
+            "JULIET",
+            "A damned saint, an honourable villain!"
+        ],
+        [
+            "JULIET",
+            "O nature, what hadst thou to do in hell,"
+        ],
+        [
+            "JULIET",
+            "When thou didst bower the spirit of a fiend"
+        ],
+        [
+            "JULIET",
+            "In moral paradise of such sweet flesh?"
+        ],
+        [
+            "JULIET",
+            "Was ever book containing such vile matter"
+        ],
+        [
+            "JULIET",
+            "So fairly bound? O that deceit should dwell"
+        ],
+        [
+            "JULIET",
+            "In such a gorgeous palace!"
+        ],
+        [
+            "Nurse",
+            "There's no trust,"
+        ],
+        [
+            "Nurse",
+            "No faith, no honesty in men; all perjured,"
+        ],
+        [
+            "Nurse",
+            "All forsworn, all naught, all dissemblers."
+        ],
+        [
+            "Nurse",
+            "Ah, where's my man? give me some aqua vitae:"
+        ],
+        [
+            "Nurse",
+            "These griefs, these woes, these sorrows make me old."
+        ],
+        [
+            "Nurse",
+            "Shame come to Romeo!"
+        ],
+        [
+            "JULIET",
+            "Blister'd be thy tongue"
+        ],
+        [
+            "JULIET",
+            "For such a wish! he was not born to shame:"
+        ],
+        [
+            "JULIET",
+            "Upon his brow shame is ashamed to sit;"
+        ],
+        [
+            "JULIET",
+            "For 'tis a throne where honour may be crown'd"
+        ],
+        [
+            "JULIET",
+            "Sole monarch of the universal earth."
+        ],
+        [
+            "JULIET",
+            "O, what a beast was I to chide at him!"
+        ],
+        [
+            "Nurse",
+            "Will you speak well of him that kill'd your cousin?"
+        ],
+        [
+            "JULIET",
+            "Shall I speak ill of him that is my husband?"
+        ],
+        [
+            "JULIET",
+            "Ah, poor my lord, what tongue shall smooth thy name,"
+        ],
+        [
+            "JULIET",
+            "When I, thy three-hours wife, have mangled it?"
+        ],
+        [
+            "JULIET",
+            "But, wherefore, villain, didst thou kill my cousin?"
+        ],
+        [
+            "JULIET",
+            "That villain cousin would have kill'd my husband:"
+        ],
+        [
+            "JULIET",
+            "Back, foolish tears, back to your native spring;"
+        ],
+        [
+            "JULIET",
+            "Your tributary drops belong to woe,"
+        ],
+        [
+            "JULIET",
+            "Which you, mistaking, offer up to joy."
+        ],
+        [
+            "JULIET",
+            "My husband lives, that Tybalt would have slain;"
+        ],
+        [
+            "JULIET",
+            "And Tybalt's dead, that would have slain my husband:"
+        ],
+        [
+            "JULIET",
+            "All this is comfort; wherefore weep I then?"
+        ],
+        [
+            "JULIET",
+            "Some word there was, worser than Tybalt's death,"
+        ],
+        [
+            "JULIET",
+            "That murder'd me: I would forget it fain;"
+        ],
+        [
+            "JULIET",
+            "But, O, it presses to my memory,"
+        ],
+        [
+            "JULIET",
+            "Like damned guilty deeds to sinners' minds:"
+        ],
+        [
+            "JULIET",
+            "'Tybalt is dead, and Romeo--banished;'"
+        ],
+        [
+            "JULIET",
+            "That 'banished,' that one word 'banished,'"
+        ],
+        [
+            "JULIET",
+            "Hath slain ten thousand Tybalts. Tybalt's death"
+        ],
+        [
+            "JULIET",
+            "Was woe enough, if it had ended there:"
+        ],
+        [
+            "JULIET",
+            "Or, if sour woe delights in fellowship"
+        ],
+        [
+            "JULIET",
+            "And needly will be rank'd with other griefs,"
+        ],
+        [
+            "JULIET",
+            "Why follow'd not, when she said 'Tybalt's dead,'"
+        ],
+        [
+            "JULIET",
+            "Thy father, or thy mother, nay, or both,"
+        ],
+        [
+            "JULIET",
+            "Which modern lamentations might have moved?"
+        ],
+        [
+            "JULIET",
+            "But with a rear-ward following Tybalt's death,"
+        ],
+        [
+            "JULIET",
+            "'Romeo is banished,' to speak that word,"
+        ],
+        [
+            "JULIET",
+            "Is father, mother, Tybalt, Romeo, Juliet,"
+        ],
+        [
+            "JULIET",
+            "All slain, all dead. 'Romeo is banished!'"
+        ],
+        [
+            "JULIET",
+            "There is no end, no limit, measure, bound,"
+        ],
+        [
+            "JULIET",
+            "In that word's death; no words can that woe sound."
+        ],
+        [
+            "JULIET",
+            "Where is my father, and my mother, nurse?"
+        ],
+        [
+            "Nurse",
+            "Weeping and wailing over Tybalt's corse:"
+        ],
+        [
+            "Nurse",
+            "Will you go to them? I will bring you thither."
+        ],
+        [
+            "JULIET",
+            "Wash they his wounds with tears: mine shall be spent,"
+        ],
+        [
+            "JULIET",
+            "When theirs are dry, for Romeo's banishment."
+        ],
+        [
+            "JULIET",
+            "Take up those cords: poor ropes, you are beguiled,"
+        ],
+        [
+            "JULIET",
+            "Both you and I; for Romeo is exiled:"
+        ],
+        [
+            "JULIET",
+            "He made you for a highway to my bed;"
+        ],
+        [
+            "JULIET",
+            "But I, a maid, die maiden-widowed."
+        ],
+        [
+            "JULIET",
+            "Come, cords, come, nurse; I'll to my wedding-bed;"
+        ],
+        [
+            "JULIET",
+            "And death, not Romeo, take my maidenhead!"
+        ],
+        [
+            "Nurse",
+            "Hie to your chamber: I'll find Romeo"
+        ],
+        [
+            "Nurse",
+            "To comfort you: I wot well where he is."
+        ],
+        [
+            "Nurse",
+            "Hark ye, your Romeo will be here at night:"
+        ],
+        [
+            "Nurse",
+            "I'll to him; he is hid at Laurence' cell."
+        ],
+        [
+            "JULIET",
+            "O, find him! give this ring to my true knight,"
+        ],
+        [
+            "JULIET",
+            "And bid him come to take his last farewell.",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter JULIET"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter Nurse, with cords"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Throws them down"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "JULIET": [
+            [
+                "1",
+                "35"
+            ],
+            [
+                "37",
+                "37"
+            ],
+            [
+                "41",
+                "41"
+            ],
+            [
+                "45",
+                "53"
+            ],
+            [
+                "59",
+                "62"
+            ],
+            [
+                "66",
+                "70"
+            ],
+            [
+                "73",
+                "73"
+            ],
+            [
+                "75",
+                "87"
+            ],
+            [
+                "94",
+                "99"
+            ],
+            [
+                "101",
+                "131"
+            ],
+            [
+                "134",
+                "141"
+            ],
+            [
+                "146",
+                "147"
+            ]
+        ],
+        "Nurse": [
+            [
+                "36",
+                "36"
+            ],
+            [
+                "38",
+                "40"
+            ],
+            [
+                "42",
+                "44"
+            ],
+            [
+                "54",
+                "58"
+            ],
+            [
+                "63",
+                "65"
+            ],
+            [
+                "71",
+                "72"
+            ],
+            [
+                "74",
+                "74"
+            ],
+            [
+                "88",
+                "93"
+            ],
+            [
+                "100",
+                "100"
+            ],
+            [
+                "132",
+                "133"
+            ],
+            [
+                "142",
+                "145"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "Capulet's orchard."
+}

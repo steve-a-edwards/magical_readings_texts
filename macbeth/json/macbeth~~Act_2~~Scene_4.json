@@ -1,0 +1,333 @@
+{
+    "scene_id": "macbeth~~Act_2~~Scene_4",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "Old Man",
+            "Threescore and ten I can remember well:",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "Old Man",
+            "Within the volume of which time I have seen"
+        ],
+        [
+            "Old Man",
+            "Hours dreadful and things strange; but this sore night"
+        ],
+        [
+            "Old Man",
+            "Hath trifled former knowings."
+        ],
+        [
+            "ROSS",
+            "Ah, good father,"
+        ],
+        [
+            "ROSS",
+            "Thou seest, the heavens, as troubled with man's act,"
+        ],
+        [
+            "ROSS",
+            "Threaten his bloody stage: by the clock, 'tis day,"
+        ],
+        [
+            "ROSS",
+            "And yet dark night strangles the travelling lamp:"
+        ],
+        [
+            "ROSS",
+            "Is't night's predominance, or the day's shame,"
+        ],
+        [
+            "ROSS",
+            "That darkness does the face of earth entomb,"
+        ],
+        [
+            "ROSS",
+            "When living light should kiss it?"
+        ],
+        [
+            "Old Man",
+            "'Tis unnatural,"
+        ],
+        [
+            "Old Man",
+            "Even like the deed that's done. On Tuesday last,"
+        ],
+        [
+            "Old Man",
+            "A falcon, towering in her pride of place,"
+        ],
+        [
+            "Old Man",
+            "Was by a mousing owl hawk'd at and kill'd."
+        ],
+        [
+            "ROSS",
+            "And Duncan's horses--a thing most strange and certain--"
+        ],
+        [
+            "ROSS",
+            "Beauteous and swift, the minions of their race,"
+        ],
+        [
+            "ROSS",
+            "Turn'd wild in nature, broke their stalls, flung out,"
+        ],
+        [
+            "ROSS",
+            "Contending 'gainst obedience, as they would make"
+        ],
+        [
+            "ROSS",
+            "War with mankind."
+        ],
+        [
+            "Old Man",
+            "'Tis said they eat each other."
+        ],
+        [
+            "ROSS",
+            "They did so, to the amazement of mine eyes"
+        ],
+        [
+            "ROSS",
+            "That look'd upon't. Here comes the good Macduff."
+        ],
+        [
+            "ROSS",
+            "How goes the world, sir, now?",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "MACDUFF",
+            "Why, see you not?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "ROSS",
+            "Is't known who did this more than bloody deed?"
+        ],
+        [
+            "MACDUFF",
+            "Those that Macbeth hath slain."
+        ],
+        [
+            "ROSS",
+            "Alas, the day!"
+        ],
+        [
+            "ROSS",
+            "What good could they pretend?"
+        ],
+        [
+            "MACDUFF",
+            "They were suborn'd:"
+        ],
+        [
+            "MACDUFF",
+            "Malcolm and Donalbain, the king's two sons,"
+        ],
+        [
+            "MACDUFF",
+            "Are stol'n away and fled; which puts upon them"
+        ],
+        [
+            "MACDUFF",
+            "Suspicion of the deed."
+        ],
+        [
+            "ROSS",
+            "'Gainst nature still!"
+        ],
+        [
+            "ROSS",
+            "Thriftless ambition, that wilt ravin up"
+        ],
+        [
+            "ROSS",
+            "Thine own life's means! Then 'tis most like"
+        ],
+        [
+            "ROSS",
+            "The sovereignty will fall upon Macbeth."
+        ],
+        [
+            "MACDUFF",
+            "He is already named, and gone to Scone"
+        ],
+        [
+            "MACDUFF",
+            "To be invested."
+        ],
+        [
+            "ROSS",
+            "Where is Duncan's body?"
+        ],
+        [
+            "MACDUFF",
+            "Carried to Colmekill,"
+        ],
+        [
+            "MACDUFF",
+            "The sacred storehouse of his predecessors,"
+        ],
+        [
+            "MACDUFF",
+            "And guardian of their bones."
+        ],
+        [
+            "ROSS",
+            "Will you to Scone?"
+        ],
+        [
+            "MACDUFF",
+            "No, cousin, I'll to Fife."
+        ],
+        [
+            "ROSS",
+            "Well, I will thither."
+        ],
+        [
+            "MACDUFF",
+            "Well, may you see things well done there: adieu!"
+        ],
+        [
+            "MACDUFF",
+            "Lest our old robes sit easier than our new!"
+        ],
+        [
+            "ROSS",
+            "Farewell, father."
+        ],
+        [
+            "Old Man",
+            "God's benison go with you; and with those"
+        ],
+        [
+            "Old Man",
+            "That would make good of bad, and friends of foes!",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter ROSS and an old Man"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter MACDUFF"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "Old Man": [
+            [
+                "1",
+                "4"
+            ],
+            [
+                "12",
+                "15"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "50",
+                "51"
+            ]
+        ],
+        "ROSS": [
+            [
+                "5",
+                "11"
+            ],
+            [
+                "16",
+                "20"
+            ],
+            [
+                "22",
+                "24"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "28",
+                "29"
+            ],
+            [
+                "34",
+                "37"
+            ],
+            [
+                "40",
+                "40"
+            ],
+            [
+                "44",
+                "44"
+            ],
+            [
+                "46",
+                "46"
+            ],
+            [
+                "49",
+                "49"
+            ]
+        ],
+        "MACDUFF": [
+            [
+                "25",
+                "25"
+            ],
+            [
+                "27",
+                "27"
+            ],
+            [
+                "30",
+                "33"
+            ],
+            [
+                "38",
+                "39"
+            ],
+            [
+                "41",
+                "43"
+            ],
+            [
+                "45",
+                "45"
+            ],
+            [
+                "47",
+                "48"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IV",
+    "scene_description": "Outside Macbeth's castle."
+}

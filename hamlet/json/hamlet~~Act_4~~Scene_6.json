@@ -1,0 +1,205 @@
+{
+    "scene_id": "hamlet~~Act_4~~Scene_6",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "HORATIO",
+            "What are they that would speak with me?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "Servant",
+            "Sailors, sir: they say they have letters for you."
+        ],
+        [
+            "HORATIO",
+            "Let them come in."
+        ],
+        [
+            "HORATIO",
+            "I do not know from what part of the world"
+        ],
+        [
+            "HORATIO",
+            "I should be greeted, if not from Lord Hamlet.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "First Sailor",
+            "God bless you, sir.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "HORATIO",
+            "Let him bless thee too."
+        ],
+        [
+            "First Sailor",
+            "He shall, sir, an't please him. There's a letter for"
+        ],
+        [
+            "First Sailor",
+            "you, sir; it comes from the ambassador that was"
+        ],
+        [
+            "First Sailor",
+            "bound for England; if your name be Horatio, as I am"
+        ],
+        [
+            "First Sailor",
+            "let to know it is."
+        ],
+        [
+            "HORATIO",
+            "[Reads] 'Horatio, when thou shalt have overlooked"
+        ],
+        [
+            "HORATIO",
+            "this, give these fellows some means to the king:"
+        ],
+        [
+            "HORATIO",
+            "they have letters for him. Ere we were two days old"
+        ],
+        [
+            "HORATIO",
+            "at sea, a pirate of very warlike appointment gave us"
+        ],
+        [
+            "HORATIO",
+            "chase. Finding ourselves too slow of sail, we put on"
+        ],
+        [
+            "HORATIO",
+            "a compelled valour, and in the grapple I boarded"
+        ],
+        [
+            "HORATIO",
+            "them: on the instant they got clear of our ship; so"
+        ],
+        [
+            "HORATIO",
+            "I alone became their prisoner. They have dealt with"
+        ],
+        [
+            "HORATIO",
+            "me like thieves of mercy: but they knew what they"
+        ],
+        [
+            "HORATIO",
+            "did; I am to do a good turn for them. Let the king"
+        ],
+        [
+            "HORATIO",
+            "have the letters I have sent; and repair thou to me"
+        ],
+        [
+            "HORATIO",
+            "with as much speed as thou wouldst fly death. I"
+        ],
+        [
+            "HORATIO",
+            "have words to speak in thine ear will make thee"
+        ],
+        [
+            "HORATIO",
+            "dumb; yet are they much too light for the bore of"
+        ],
+        [
+            "HORATIO",
+            "the matter. These good fellows will bring thee"
+        ],
+        [
+            "HORATIO",
+            "where I am. Rosencrantz and Guildenstern hold their"
+        ],
+        [
+            "HORATIO",
+            "course for England: of them I have much to tell"
+        ],
+        [
+            "HORATIO",
+            "thee. Farewell."
+        ],
+        [
+            "HORATIO",
+            "'He that thou knowest thine, HAMLET.'"
+        ],
+        [
+            "HORATIO",
+            "Come, I will make you way for these your letters;"
+        ],
+        [
+            "HORATIO",
+            "And do't the speedier, that you may direct me"
+        ],
+        [
+            "HORATIO",
+            "To him from whom you brought them.",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter HORATIO and a Servant"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit Servant. Enter Sailors"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "HORATIO": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "5"
+            ],
+            [
+                "7",
+                "7"
+            ],
+            [
+                "12",
+                "33"
+            ]
+        ],
+        "Servant": [
+            [
+                "2",
+                "2"
+            ]
+        ],
+        "First Sailor": [
+            [
+                "6",
+                "6"
+            ],
+            [
+                "8",
+                "11"
+            ]
+        ]
+    },
+    "scene_name": "SCENE VI",
+    "scene_description": "Another room in the castle."
+}

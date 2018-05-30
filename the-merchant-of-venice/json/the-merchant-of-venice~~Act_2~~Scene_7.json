@@ -1,0 +1,402 @@
+{
+    "scene_id": "the merchant of venice~~Act_2~~Scene_7",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "PORTIA",
+            "Go draw aside the curtains and discover",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "PORTIA",
+            "The several caskets to this noble prince."
+        ],
+        [
+            "PORTIA",
+            "Now make your choice."
+        ],
+        [
+            "MOROCCO",
+            "The first, of gold, who this inscription bears,"
+        ],
+        [
+            "MOROCCO",
+            "'Who chooseth me shall gain what many men desire;'"
+        ],
+        [
+            "MOROCCO",
+            "The second, silver, which this promise carries,"
+        ],
+        [
+            "MOROCCO",
+            "'Who chooseth me shall get as much as he deserves;'"
+        ],
+        [
+            "MOROCCO",
+            "This third, dull lead, with warning all as blunt,"
+        ],
+        [
+            "MOROCCO",
+            "'Who chooseth me must give and hazard all he hath.'"
+        ],
+        [
+            "MOROCCO",
+            "How shall I know if I do choose the right?"
+        ],
+        [
+            "PORTIA",
+            "The one of them contains my picture, prince:"
+        ],
+        [
+            "PORTIA",
+            "If you choose that, then I am yours withal."
+        ],
+        [
+            "MOROCCO",
+            "Some god direct my judgment! Let me see;"
+        ],
+        [
+            "MOROCCO",
+            "I will survey the inscriptions back again."
+        ],
+        [
+            "MOROCCO",
+            "What says this leaden casket?"
+        ],
+        [
+            "MOROCCO",
+            "'Who chooseth me must give and hazard all he hath.'"
+        ],
+        [
+            "MOROCCO",
+            "Must give: for what? for lead? hazard for lead?"
+        ],
+        [
+            "MOROCCO",
+            "This casket threatens. Men that hazard all"
+        ],
+        [
+            "MOROCCO",
+            "Do it in hope of fair advantages:"
+        ],
+        [
+            "MOROCCO",
+            "A golden mind stoops not to shows of dross;"
+        ],
+        [
+            "MOROCCO",
+            "I'll then nor give nor hazard aught for lead."
+        ],
+        [
+            "MOROCCO",
+            "What says the silver with her virgin hue?"
+        ],
+        [
+            "MOROCCO",
+            "'Who chooseth me shall get as much as he deserves.'"
+        ],
+        [
+            "MOROCCO",
+            "As much as he deserves! Pause there, Morocco,"
+        ],
+        [
+            "MOROCCO",
+            "And weigh thy value with an even hand:"
+        ],
+        [
+            "MOROCCO",
+            "If thou be'st rated by thy estimation,"
+        ],
+        [
+            "MOROCCO",
+            "Thou dost deserve enough; and yet enough"
+        ],
+        [
+            "MOROCCO",
+            "May not extend so far as to the lady:"
+        ],
+        [
+            "MOROCCO",
+            "And yet to be afeard of my deserving"
+        ],
+        [
+            "MOROCCO",
+            "Were but a weak disabling of myself."
+        ],
+        [
+            "MOROCCO",
+            "As much as I deserve! Why, that's the lady:"
+        ],
+        [
+            "MOROCCO",
+            "I do in birth deserve her, and in fortunes,"
+        ],
+        [
+            "MOROCCO",
+            "In graces and in qualities of breeding;"
+        ],
+        [
+            "MOROCCO",
+            "But more than these, in love I do deserve."
+        ],
+        [
+            "MOROCCO",
+            "What if I stray'd no further, but chose here?"
+        ],
+        [
+            "MOROCCO",
+            "Let's see once more this saying graved in gold"
+        ],
+        [
+            "MOROCCO",
+            "'Who chooseth me shall gain what many men desire.'"
+        ],
+        [
+            "MOROCCO",
+            "Why, that's the lady; all the world desires her;"
+        ],
+        [
+            "MOROCCO",
+            "From the four corners of the earth they come,"
+        ],
+        [
+            "MOROCCO",
+            "To kiss this shrine, this mortal-breathing saint:"
+        ],
+        [
+            "MOROCCO",
+            "The Hyrcanian deserts and the vasty wilds"
+        ],
+        [
+            "MOROCCO",
+            "Of wide Arabia are as thoroughfares now"
+        ],
+        [
+            "MOROCCO",
+            "For princes to come view fair Portia:"
+        ],
+        [
+            "MOROCCO",
+            "The watery kingdom, whose ambitious head"
+        ],
+        [
+            "MOROCCO",
+            "Spits in the face of heaven, is no bar"
+        ],
+        [
+            "MOROCCO",
+            "To stop the foreign spirits, but they come,"
+        ],
+        [
+            "MOROCCO",
+            "As o'er a brook, to see fair Portia."
+        ],
+        [
+            "MOROCCO",
+            "One of these three contains her heavenly picture."
+        ],
+        [
+            "MOROCCO",
+            "Is't like that lead contains her? 'Twere damnation"
+        ],
+        [
+            "MOROCCO",
+            "To think so base a thought: it were too gross"
+        ],
+        [
+            "MOROCCO",
+            "To rib her cerecloth in the obscure grave."
+        ],
+        [
+            "MOROCCO",
+            "Or shall I think in silver she's immured,"
+        ],
+        [
+            "MOROCCO",
+            "Being ten times undervalued to tried gold?"
+        ],
+        [
+            "MOROCCO",
+            "O sinful thought! Never so rich a gem"
+        ],
+        [
+            "MOROCCO",
+            "Was set in worse than gold. They have in England"
+        ],
+        [
+            "MOROCCO",
+            "A coin that bears the figure of an angel"
+        ],
+        [
+            "MOROCCO",
+            "Stamped in gold, but that's insculp'd upon;"
+        ],
+        [
+            "MOROCCO",
+            "But here an angel in a golden bed"
+        ],
+        [
+            "MOROCCO",
+            "Lies all within. Deliver me the key:"
+        ],
+        [
+            "MOROCCO",
+            "Here do I choose, and thrive I as I may!"
+        ],
+        [
+            "PORTIA",
+            "There, take it, prince; and if my form lie there,"
+        ],
+        [
+            "PORTIA",
+            "Then I am yours.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "MOROCCO",
+            "O hell! what have we here?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "MOROCCO",
+            "A carrion Death, within whose empty eye"
+        ],
+        [
+            "MOROCCO",
+            "There is a written scroll! I'll read the writing."
+        ],
+        [
+            "MOROCCO",
+            "All that glitters is not gold;"
+        ],
+        [
+            "MOROCCO",
+            "Often have you heard that told:"
+        ],
+        [
+            "MOROCCO",
+            "Many a man his life hath sold"
+        ],
+        [
+            "MOROCCO",
+            "But my outside to behold:"
+        ],
+        [
+            "MOROCCO",
+            "Gilded tombs do worms enfold."
+        ],
+        [
+            "MOROCCO",
+            "Had you been as wise as bold,"
+        ],
+        [
+            "MOROCCO",
+            "Young in limbs, in judgment old,"
+        ],
+        [
+            "MOROCCO",
+            "Your answer had not been inscroll'd:"
+        ],
+        [
+            "MOROCCO",
+            "Fare you well; your suit is cold."
+        ],
+        [
+            "MOROCCO",
+            "Cold, indeed; and labour lost:"
+        ],
+        [
+            "MOROCCO",
+            "Then, farewell, heat, and welcome, frost!"
+        ],
+        [
+            "MOROCCO",
+            "Portia, adieu. I have too grieved a heart"
+        ],
+        [
+            "MOROCCO",
+            "To take a tedious leave: thus losers part.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "PORTIA",
+            "A gentle riddance. Draw the curtains, go.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "PORTIA",
+            "Let all of his complexion choose me so.",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Flourish of cornets. Enter PORTIA, with the PRINCE OF MOROCCO, and their trains"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "He unlocks the golden casket"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Reads. Exit with his train. Flourish of cornets"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "PORTIA": [
+            [
+                "1",
+                "3"
+            ],
+            [
+                "11",
+                "12"
+            ],
+            [
+                "61",
+                "62"
+            ],
+            [
+                "79",
+                "80"
+            ]
+        ],
+        "MOROCCO": [
+            [
+                "4",
+                "10"
+            ],
+            [
+                "13",
+                "60"
+            ],
+            [
+                "63",
+                "78"
+            ]
+        ]
+    },
+    "scene_name": "SCENE VII",
+    "scene_description": "Belmont. A room in PORTIA'S house."
+}

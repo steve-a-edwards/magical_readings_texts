@@ -1,0 +1,296 @@
+{
+    "scene_id": "the merchant of venice~~Act_2~~Scene_8",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "SALARINO",
+            "Why, man, I saw Bassanio under sail:",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "SALARINO",
+            "With him is Gratiano gone along;"
+        ],
+        [
+            "SALARINO",
+            "And in their ship I am sure Lorenzo is not."
+        ],
+        [
+            "SALANIO",
+            "The villain Jew with outcries raised the duke,"
+        ],
+        [
+            "SALANIO",
+            "Who went with him to search Bassanio's ship."
+        ],
+        [
+            "SALARINO",
+            "He came too late, the ship was under sail:"
+        ],
+        [
+            "SALARINO",
+            "But there the duke was given to understand"
+        ],
+        [
+            "SALARINO",
+            "That in a gondola were seen together"
+        ],
+        [
+            "SALARINO",
+            "Lorenzo and his amorous Jessica:"
+        ],
+        [
+            "SALARINO",
+            "Besides, Antonio certified the duke"
+        ],
+        [
+            "SALARINO",
+            "They were not with Bassanio in his ship."
+        ],
+        [
+            "SALANIO",
+            "I never heard a passion so confused,"
+        ],
+        [
+            "SALANIO",
+            "So strange, outrageous, and so variable,"
+        ],
+        [
+            "SALANIO",
+            "As the dog Jew did utter in the streets:"
+        ],
+        [
+            "SALANIO",
+            "'My daughter! O my ducats! O my daughter!"
+        ],
+        [
+            "SALANIO",
+            "Fled with a Christian! O my Christian ducats!"
+        ],
+        [
+            "SALANIO",
+            "Justice! the law! my ducats, and my daughter!"
+        ],
+        [
+            "SALANIO",
+            "A sealed bag, two sealed bags of ducats,"
+        ],
+        [
+            "SALANIO",
+            "Of double ducats, stolen from me by my daughter!"
+        ],
+        [
+            "SALANIO",
+            "And jewels, two stones, two rich and precious stones,"
+        ],
+        [
+            "SALANIO",
+            "Stolen by my daughter! Justice! find the girl;"
+        ],
+        [
+            "SALANIO",
+            "She hath the stones upon her, and the ducats.'"
+        ],
+        [
+            "SALARINO",
+            "Why, all the boys in Venice follow him,"
+        ],
+        [
+            "SALARINO",
+            "Crying, his stones, his daughter, and his ducats."
+        ],
+        [
+            "SALANIO",
+            "Let good Antonio look he keep his day,"
+        ],
+        [
+            "SALANIO",
+            "Or he shall pay for this."
+        ],
+        [
+            "SALARINO",
+            "Marry, well remember'd."
+        ],
+        [
+            "SALARINO",
+            "I reason'd with a Frenchman yesterday,"
+        ],
+        [
+            "SALARINO",
+            "Who told me, in the narrow seas that part"
+        ],
+        [
+            "SALARINO",
+            "The French and English, there miscarried"
+        ],
+        [
+            "SALARINO",
+            "A vessel of our country richly fraught:"
+        ],
+        [
+            "SALARINO",
+            "I thought upon Antonio when he told me;"
+        ],
+        [
+            "SALARINO",
+            "And wish'd in silence that it were not his."
+        ],
+        [
+            "SALANIO",
+            "You were best to tell Antonio what you hear;"
+        ],
+        [
+            "SALANIO",
+            "Yet do not suddenly, for it may grieve him."
+        ],
+        [
+            "SALARINO",
+            "A kinder gentleman treads not the earth."
+        ],
+        [
+            "SALARINO",
+            "I saw Bassanio and Antonio part:"
+        ],
+        [
+            "SALARINO",
+            "Bassanio told him he would make some speed"
+        ],
+        [
+            "SALARINO",
+            "Of his return: he answer'd, 'Do not so;"
+        ],
+        [
+            "SALARINO",
+            "Slubber not business for my sake, Bassanio"
+        ],
+        [
+            "SALARINO",
+            "But stay the very riping of the time;"
+        ],
+        [
+            "SALARINO",
+            "And for the Jew's bond which he hath of me,"
+        ],
+        [
+            "SALARINO",
+            "Let it not enter in your mind of love:"
+        ],
+        [
+            "SALARINO",
+            "Be merry, and employ your chiefest thoughts"
+        ],
+        [
+            "SALARINO",
+            "To courtship and such fair ostents of love"
+        ],
+        [
+            "SALARINO",
+            "As shall conveniently become you there:'"
+        ],
+        [
+            "SALARINO",
+            "And even there, his eye being big with tears,"
+        ],
+        [
+            "SALARINO",
+            "Turning his face, he put his hand behind him,"
+        ],
+        [
+            "SALARINO",
+            "And with affection wondrous sensible"
+        ],
+        [
+            "SALARINO",
+            "He wrung Bassanio's hand; and so they parted."
+        ],
+        [
+            "SALANIO",
+            "I think he only loves the world for him."
+        ],
+        [
+            "SALANIO",
+            "I pray thee, let us go and find him out"
+        ],
+        [
+            "SALANIO",
+            "And quicken his embraced heaviness"
+        ],
+        [
+            "SALANIO",
+            "With some delight or other."
+        ],
+        [
+            "SALARINO",
+            "Do we so.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter SALARINO and SALANIO"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "SALARINO": [
+            [
+                "1",
+                "3"
+            ],
+            [
+                "6",
+                "11"
+            ],
+            [
+                "23",
+                "24"
+            ],
+            [
+                "27",
+                "33"
+            ],
+            [
+                "36",
+                "50"
+            ],
+            [
+                "55",
+                "55"
+            ]
+        ],
+        "SALANIO": [
+            [
+                "4",
+                "5"
+            ],
+            [
+                "12",
+                "22"
+            ],
+            [
+                "25",
+                "26"
+            ],
+            [
+                "34",
+                "35"
+            ],
+            [
+                "51",
+                "54"
+            ]
+        ]
+    },
+    "scene_name": "SCENE VIII",
+    "scene_description": "Venice. A street."
+}

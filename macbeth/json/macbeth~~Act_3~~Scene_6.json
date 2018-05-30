@@ -1,0 +1,276 @@
+{
+    "scene_id": "macbeth~~Act_3~~Scene_6",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "LENNOX",
+            "My former speeches have but hit your thoughts,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "LENNOX",
+            "Which can interpret further: only, I say,"
+        ],
+        [
+            "LENNOX",
+            "Things have been strangely borne. The"
+        ],
+        [
+            "LENNOX",
+            "gracious Duncan"
+        ],
+        [
+            "LENNOX",
+            "Was pitied of Macbeth: marry, he was dead:"
+        ],
+        [
+            "LENNOX",
+            "And the right-valiant Banquo walk'd too late;"
+        ],
+        [
+            "LENNOX",
+            "Whom, you may say, if't please you, Fleance kill'd,"
+        ],
+        [
+            "LENNOX",
+            "For Fleance fled: men must not walk too late."
+        ],
+        [
+            "LENNOX",
+            "Who cannot want the thought how monstrous"
+        ],
+        [
+            "LENNOX",
+            "It was for Malcolm and for Donalbain"
+        ],
+        [
+            "LENNOX",
+            "To kill their gracious father? damned fact!"
+        ],
+        [
+            "LENNOX",
+            "How it did grieve Macbeth! did he not straight"
+        ],
+        [
+            "LENNOX",
+            "In pious rage the two delinquents tear,"
+        ],
+        [
+            "LENNOX",
+            "That were the slaves of drink and thralls of sleep?"
+        ],
+        [
+            "LENNOX",
+            "Was not that nobly done? Ay, and wisely too;"
+        ],
+        [
+            "LENNOX",
+            "For 'twould have anger'd any heart alive"
+        ],
+        [
+            "LENNOX",
+            "To hear the men deny't. So that, I say,"
+        ],
+        [
+            "LENNOX",
+            "He has borne all things well: and I do think"
+        ],
+        [
+            "LENNOX",
+            "That had he Duncan's sons under his key--"
+        ],
+        [
+            "LENNOX",
+            "As, an't please heaven, he shall not--they"
+        ],
+        [
+            "LENNOX",
+            "should find"
+        ],
+        [
+            "LENNOX",
+            "What 'twere to kill a father; so should Fleance."
+        ],
+        [
+            "LENNOX",
+            "But, peace! for from broad words and 'cause he fail'd"
+        ],
+        [
+            "LENNOX",
+            "His presence at the tyrant's feast, I hear"
+        ],
+        [
+            "LENNOX",
+            "Macduff lives in disgrace: sir, can you tell"
+        ],
+        [
+            "LENNOX",
+            "Where he bestows himself?"
+        ],
+        [
+            "Lord",
+            "The son of Duncan,"
+        ],
+        [
+            "Lord",
+            "From whom this tyrant holds the due of birth"
+        ],
+        [
+            "Lord",
+            "Lives in the English court, and is received"
+        ],
+        [
+            "Lord",
+            "Of the most pious Edward with such grace"
+        ],
+        [
+            "Lord",
+            "That the malevolence of fortune nothing"
+        ],
+        [
+            "Lord",
+            "Takes from his high respect: thither Macduff"
+        ],
+        [
+            "Lord",
+            "Is gone to pray the holy king, upon his aid"
+        ],
+        [
+            "Lord",
+            "To wake Northumberland and warlike Siward:"
+        ],
+        [
+            "Lord",
+            "That, by the help of these--with Him above"
+        ],
+        [
+            "Lord",
+            "To ratify the work--we may again"
+        ],
+        [
+            "Lord",
+            "Give to our tables meat, sleep to our nights,"
+        ],
+        [
+            "Lord",
+            "Free from our feasts and banquets bloody knives,"
+        ],
+        [
+            "Lord",
+            "Do faithful homage and receive free honours:"
+        ],
+        [
+            "Lord",
+            "All which we pine for now: and this report"
+        ],
+        [
+            "Lord",
+            "Hath so exasperate the king that he"
+        ],
+        [
+            "Lord",
+            "Prepares for some attempt of war."
+        ],
+        [
+            "LENNOX",
+            "Sent he to Macduff?"
+        ],
+        [
+            "Lord",
+            "He did: and with an absolute 'Sir, not I,'"
+        ],
+        [
+            "Lord",
+            "The cloudy messenger turns me his back,"
+        ],
+        [
+            "Lord",
+            "And hums, as who should say 'You'll rue the time"
+        ],
+        [
+            "Lord",
+            "That clogs me with this answer.'"
+        ],
+        [
+            "LENNOX",
+            "And that well might"
+        ],
+        [
+            "LENNOX",
+            "Advise him to a caution, to hold what distance"
+        ],
+        [
+            "LENNOX",
+            "His wisdom can provide. Some holy angel"
+        ],
+        [
+            "LENNOX",
+            "Fly to the court of England and unfold"
+        ],
+        [
+            "LENNOX",
+            "His message ere he come, that a swift blessing"
+        ],
+        [
+            "LENNOX",
+            "May soon return to this our suffering country"
+        ],
+        [
+            "LENNOX",
+            "Under a hand accursed!"
+        ],
+        [
+            "Lord",
+            "I'll send my prayers with him.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter LENNOX and another Lord"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "LENNOX": [
+            [
+                "1",
+                "26"
+            ],
+            [
+                "43",
+                "43"
+            ],
+            [
+                "48",
+                "54"
+            ]
+        ],
+        "Lord": [
+            [
+                "27",
+                "42"
+            ],
+            [
+                "44",
+                "47"
+            ],
+            [
+                "55",
+                "55"
+            ]
+        ]
+    },
+    "scene_name": "SCENE VI",
+    "scene_description": "Forres. The palace."
+}

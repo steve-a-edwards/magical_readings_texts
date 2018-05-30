@@ -1,0 +1,507 @@
+{
+    "scene_id": "romeo and juliet~~Act_2~~Scene_3",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "FRIAR LAURENCE",
+            "The grey-eyed morn smiles on the frowning night,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Chequering the eastern clouds with streaks of light,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And flecked darkness like a drunkard reels"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "From forth day's path and Titan's fiery wheels:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Now, ere the sun advance his burning eye,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "The day to cheer and night's dank dew to dry,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "I must up-fill this osier cage of ours"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "With baleful weeds and precious-juiced flowers."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "The earth that's nature's mother is her tomb;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "What is her burying grave that is her womb,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And from her womb children of divers kind"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "We sucking on her natural bosom find,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Many for many virtues excellent,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "None but for some and yet all different."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "O, mickle is the powerful grace that lies"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "In herbs, plants, stones, and their true qualities:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "For nought so vile that on the earth doth live"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "But to the earth some special good doth give,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Nor aught so good but strain'd from that fair use"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Revolts from true birth, stumbling on abuse:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Virtue itself turns vice, being misapplied;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And vice sometimes by action dignified."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Within the infant rind of this small flower"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Poison hath residence and medicine power:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "For this, being smelt, with that part cheers each part;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Being tasted, slays all senses with the heart."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Two such opposed kings encamp them still"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "In man as well as herbs, grace and rude will;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And where the worser is predominant,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Full soon the canker death eats up that plant.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "ROMEO",
+            "Good morrow, father.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Benedicite!"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "What early tongue so sweet saluteth me?"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Young son, it argues a distemper'd head"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "So soon to bid good morrow to thy bed:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Care keeps his watch in every old man's eye,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And where care lodges, sleep will never lie;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "But where unbruised youth with unstuff'd brain"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Doth couch his limbs, there golden sleep doth reign:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Therefore thy earliness doth me assure"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Thou art up-roused by some distemperature;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Or if not so, then here I hit it right,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Our Romeo hath not been in bed to-night."
+        ],
+        [
+            "ROMEO",
+            "That last is true; the sweeter rest was mine."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "God pardon sin! wast thou with Rosaline?"
+        ],
+        [
+            "ROMEO",
+            "With Rosaline, my ghostly father? no;"
+        ],
+        [
+            "ROMEO",
+            "I have forgot that name, and that name's woe."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "That's my good son: but where hast thou been, then?"
+        ],
+        [
+            "ROMEO",
+            "I'll tell thee, ere thou ask it me again."
+        ],
+        [
+            "ROMEO",
+            "I have been feasting with mine enemy,"
+        ],
+        [
+            "ROMEO",
+            "Where on a sudden one hath wounded me,"
+        ],
+        [
+            "ROMEO",
+            "That's by me wounded: both our remedies"
+        ],
+        [
+            "ROMEO",
+            "Within thy help and holy physic lies:"
+        ],
+        [
+            "ROMEO",
+            "I bear no hatred, blessed man, for, lo,"
+        ],
+        [
+            "ROMEO",
+            "My intercession likewise steads my foe."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Be plain, good son, and homely in thy drift;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Riddling confession finds but riddling shrift."
+        ],
+        [
+            "ROMEO",
+            "Then plainly know my heart's dear love is set"
+        ],
+        [
+            "ROMEO",
+            "On the fair daughter of rich Capulet:"
+        ],
+        [
+            "ROMEO",
+            "As mine on hers, so hers is set on mine;"
+        ],
+        [
+            "ROMEO",
+            "And all combined, save what thou must combine"
+        ],
+        [
+            "ROMEO",
+            "By holy marriage: when and where and how"
+        ],
+        [
+            "ROMEO",
+            "We met, we woo'd and made exchange of vow,"
+        ],
+        [
+            "ROMEO",
+            "I'll tell thee as we pass; but this I pray,"
+        ],
+        [
+            "ROMEO",
+            "That thou consent to marry us to-day."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Holy Saint Francis, what a change is here!"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Is Rosaline, whom thou didst love so dear,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "So soon forsaken? young men's love then lies"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Not truly in their hearts, but in their eyes."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Jesu Maria, what a deal of brine"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Hath wash'd thy sallow cheeks for Rosaline!"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "How much salt water thrown away in waste,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "To season love, that of it doth not taste!"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "The sun not yet thy sighs from heaven clears,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Thy old groans ring yet in my ancient ears;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Lo, here upon thy cheek the stain doth sit"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Of an old tear that is not wash'd off yet:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "If e'er thou wast thyself and these woes thine,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Thou and these woes were all for Rosaline:"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "And art thou changed? pronounce this sentence then,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Women may fall, when there's no strength in men."
+        ],
+        [
+            "ROMEO",
+            "Thou chid'st me oft for loving Rosaline."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "For doting, not for loving, pupil mine."
+        ],
+        [
+            "ROMEO",
+            "And bad'st me bury love."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Not in a grave,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "To lay one in, another out to have."
+        ],
+        [
+            "ROMEO",
+            "I pray thee, chide not; she whom I love now"
+        ],
+        [
+            "ROMEO",
+            "Doth grace for grace and love for love allow;"
+        ],
+        [
+            "ROMEO",
+            "The other did not so."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "O, she knew well"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Thy love did read by rote and could not spell."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "But come, young waverer, come, go with me,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "In one respect I'll thy assistant be;"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "For this alliance may so happy prove,"
+        ],
+        [
+            "FRIAR LAURENCE",
+            "To turn your households' rancour to pure love."
+        ],
+        [
+            "ROMEO",
+            "O, let us hence; I stand on sudden haste."
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Wisely and slow; they stumble that run fast.",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter FRIAR LAURENCE, with a basket"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter ROMEO"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "FRIAR LAURENCE": [
+            [
+                "1",
+                "30"
+            ],
+            [
+                "32",
+                "43"
+            ],
+            [
+                "45",
+                "45"
+            ],
+            [
+                "48",
+                "48"
+            ],
+            [
+                "56",
+                "57"
+            ],
+            [
+                "66",
+                "81"
+            ],
+            [
+                "83",
+                "83"
+            ],
+            [
+                "85",
+                "86"
+            ],
+            [
+                "90",
+                "95"
+            ],
+            [
+                "97",
+                "97"
+            ]
+        ],
+        "ROMEO": [
+            [
+                "31",
+                "31"
+            ],
+            [
+                "44",
+                "44"
+            ],
+            [
+                "46",
+                "47"
+            ],
+            [
+                "49",
+                "55"
+            ],
+            [
+                "58",
+                "65"
+            ],
+            [
+                "82",
+                "82"
+            ],
+            [
+                "84",
+                "84"
+            ],
+            [
+                "87",
+                "89"
+            ],
+            [
+                "96",
+                "96"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "Friar Laurence's cell."
+}

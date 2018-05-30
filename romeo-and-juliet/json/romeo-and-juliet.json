@@ -1,0 +1,56 @@
+{
+  "main_author": "Shakespeare",
+  "plays_scenes": [
+    [
+      "Act_1",
+      [
+        "Scene_1",
+        "Scene_2",
+        "Scene_3",
+        "Scene_4",
+        "Scene_5"
+      ]
+    ],
+    [
+      "Act_2",
+      [
+        "Scene_1",
+        "Scene_2",
+        "Scene_3",
+        "Scene_4",
+        "Scene_5",
+        "Scene_6"
+      ]
+    ],
+    [
+      "Act_3",
+      [
+        "Scene_1",
+        "Scene_2",
+        "Scene_3",
+        "Scene_4",
+        "Scene_5"
+      ]
+    ],
+    [
+      "Act_4",
+      [
+        "Scene_1",
+        "Scene_2",
+        "Scene_3",
+        "Scene_4",
+        "Scene_5"
+      ]
+    ],
+    [
+      "Act_5",
+      [
+        "Scene_1",
+        "Scene_2",
+        "Scene_3"
+      ]
+    ]
+  ],
+  "work_name": "romeo and juliet",
+  "work_type": "Play"
+}

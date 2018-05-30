@@ -1,0 +1,362 @@
+{
+    "scene_id": "macbeth~~Act_1~~Scene_4",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "DUNCAN",
+            "Is execution done on Cawdor? Are not",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "DUNCAN",
+            "Those in commission yet return'd?"
+        ],
+        [
+            "MALCOLM",
+            "My liege,"
+        ],
+        [
+            "MALCOLM",
+            "They are not yet come back. But I have spoke"
+        ],
+        [
+            "MALCOLM",
+            "With one that saw him die: who did report"
+        ],
+        [
+            "MALCOLM",
+            "That very frankly he confess'd his treasons,"
+        ],
+        [
+            "MALCOLM",
+            "Implored your highness' pardon and set forth"
+        ],
+        [
+            "MALCOLM",
+            "A deep repentance: nothing in his life"
+        ],
+        [
+            "MALCOLM",
+            "Became him like the leaving it; he died"
+        ],
+        [
+            "MALCOLM",
+            "As one that had been studied in his death"
+        ],
+        [
+            "MALCOLM",
+            "To throw away the dearest thing he owed,"
+        ],
+        [
+            "MALCOLM",
+            "As 'twere a careless trifle."
+        ],
+        [
+            "DUNCAN",
+            "There's no art"
+        ],
+        [
+            "DUNCAN",
+            "To find the mind's construction in the face:"
+        ],
+        [
+            "DUNCAN",
+            "He was a gentleman on whom I built"
+        ],
+        [
+            "DUNCAN",
+            "An absolute trust."
+        ],
+        [
+            "DUNCAN",
+            "O worthiest cousin!"
+        ],
+        [
+            "DUNCAN",
+            "The sin of my ingratitude even now"
+        ],
+        [
+            "DUNCAN",
+            "Was heavy on me: thou art so far before"
+        ],
+        [
+            "DUNCAN",
+            "That swiftest wing of recompense is slow"
+        ],
+        [
+            "DUNCAN",
+            "To overtake thee. Would thou hadst less deserved,"
+        ],
+        [
+            "DUNCAN",
+            "That the proportion both of thanks and payment"
+        ],
+        [
+            "DUNCAN",
+            "Might have been mine! only I have left to say,"
+        ],
+        [
+            "DUNCAN",
+            "More is thy due than more than all can pay.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "MACBETH",
+            "The service and the loyalty I owe,",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "MACBETH",
+            "In doing it, pays itself. Your highness' part"
+        ],
+        [
+            "MACBETH",
+            "Is to receive our duties; and our duties"
+        ],
+        [
+            "MACBETH",
+            "Are to your throne and state children and servants,"
+        ],
+        [
+            "MACBETH",
+            "Which do but what they should, by doing every thing"
+        ],
+        [
+            "MACBETH",
+            "Safe toward your love and honour."
+        ],
+        [
+            "DUNCAN",
+            "Welcome hither:"
+        ],
+        [
+            "DUNCAN",
+            "I have begun to plant thee, and will labour"
+        ],
+        [
+            "DUNCAN",
+            "To make thee full of growing. Noble Banquo,"
+        ],
+        [
+            "DUNCAN",
+            "That hast no less deserved, nor must be known"
+        ],
+        [
+            "DUNCAN",
+            "No less to have done so, let me enfold thee"
+        ],
+        [
+            "DUNCAN",
+            "And hold thee to my heart."
+        ],
+        [
+            "BANQUO",
+            "There if I grow,"
+        ],
+        [
+            "BANQUO",
+            "The harvest is your own."
+        ],
+        [
+            "DUNCAN",
+            "My plenteous joys,"
+        ],
+        [
+            "DUNCAN",
+            "Wanton in fulness, seek to hide themselves"
+        ],
+        [
+            "DUNCAN",
+            "In drops of sorrow. Sons, kinsmen, thanes,"
+        ],
+        [
+            "DUNCAN",
+            "And you whose places are the nearest, know"
+        ],
+        [
+            "DUNCAN",
+            "We will establish our estate upon"
+        ],
+        [
+            "DUNCAN",
+            "Our eldest, Malcolm, whom we name hereafter"
+        ],
+        [
+            "DUNCAN",
+            "The Prince of Cumberland; which honour must"
+        ],
+        [
+            "DUNCAN",
+            "Not unaccompanied invest him only,"
+        ],
+        [
+            "DUNCAN",
+            "But signs of nobleness, like stars, shall shine"
+        ],
+        [
+            "DUNCAN",
+            "On all deservers. From hence to Inverness,"
+        ],
+        [
+            "DUNCAN",
+            "And bind us further to you."
+        ],
+        [
+            "MACBETH",
+            "The rest is labour, which is not used for you:"
+        ],
+        [
+            "MACBETH",
+            "I'll be myself the harbinger and make joyful"
+        ],
+        [
+            "MACBETH",
+            "The hearing of my wife with your approach;"
+        ],
+        [
+            "MACBETH",
+            "So humbly take my leave."
+        ],
+        [
+            "DUNCAN",
+            "My worthy Cawdor!"
+        ],
+        [
+            "MACBETH",
+            "[Aside] The Prince of Cumberland! that is a step"
+        ],
+        [
+            "MACBETH",
+            "On which I must fall down, or else o'erleap,"
+        ],
+        [
+            "MACBETH",
+            "For in my way it lies. Stars, hide your fires;"
+        ],
+        [
+            "MACBETH",
+            "Let not light see my black and deep desires:"
+        ],
+        [
+            "MACBETH",
+            "The eye wink at the hand; yet let that be,"
+        ],
+        [
+            "MACBETH",
+            "Which the eye fears, when it is done, to see.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "DUNCAN",
+            "True, worthy Banquo; he is full so valiant,",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "DUNCAN",
+            "And in his commendations I am fed;"
+        ],
+        [
+            "DUNCAN",
+            "It is a banquet to me. Let's after him,"
+        ],
+        [
+            "DUNCAN",
+            "Whose care is gone before to bid us welcome:"
+        ],
+        [
+            "DUNCAN",
+            "It is a peerless kinsman.",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Flourish. Enter DUNCAN, MALCOLM, DONALBAIN, LENNOX, and Attendants"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter MACBETH, BANQUO, ROSS, and ANGUS"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Flourish. Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "DUNCAN": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "13",
+                "24"
+            ],
+            [
+                "31",
+                "36"
+            ],
+            [
+                "39",
+                "49"
+            ],
+            [
+                "54",
+                "54"
+            ],
+            [
+                "61",
+                "65"
+            ]
+        ],
+        "MALCOLM": [
+            [
+                "3",
+                "12"
+            ]
+        ],
+        "MACBETH": [
+            [
+                "25",
+                "30"
+            ],
+            [
+                "50",
+                "53"
+            ],
+            [
+                "55",
+                "60"
+            ]
+        ],
+        "BANQUO": [
+            [
+                "37",
+                "38"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IV",
+    "scene_description": "Forres. The palace."
+}

@@ -1,0 +1,2385 @@
+{
+    "scene_id": "hamlet~~Act_3~~Scene_2",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "HAMLET",
+            "Speak the speech, I pray you, as I pronounced it to",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "HAMLET",
+            "you, trippingly on the tongue: but if you mouth it,"
+        ],
+        [
+            "HAMLET",
+            "as many of your players do, I had as lief the"
+        ],
+        [
+            "HAMLET",
+            "town-crier spoke my lines. Nor do not saw the air"
+        ],
+        [
+            "HAMLET",
+            "too much with your hand, thus, but use all gently;"
+        ],
+        [
+            "HAMLET",
+            "for in the very torrent, tempest, and, as I may say,"
+        ],
+        [
+            "HAMLET",
+            "the whirlwind of passion, you must acquire and beget"
+        ],
+        [
+            "HAMLET",
+            "a temperance that may give it smoothness. O, it"
+        ],
+        [
+            "HAMLET",
+            "offends me to the soul to hear a robustious"
+        ],
+        [
+            "HAMLET",
+            "periwig-pated fellow tear a passion to tatters, to"
+        ],
+        [
+            "HAMLET",
+            "very rags, to split the ears of the groundlings, who"
+        ],
+        [
+            "HAMLET",
+            "for the most part are capable of nothing but"
+        ],
+        [
+            "HAMLET",
+            "inexplicable dumbshows and noise: I would have such"
+        ],
+        [
+            "HAMLET",
+            "a fellow whipped for o'erdoing Termagant; it"
+        ],
+        [
+            "HAMLET",
+            "out-herods Herod: pray you, avoid it."
+        ],
+        [
+            "First Player",
+            "I warrant your honour."
+        ],
+        [
+            "HAMLET",
+            "Be not too tame neither, but let your own discretion"
+        ],
+        [
+            "HAMLET",
+            "be your tutor: suit the action to the word, the"
+        ],
+        [
+            "HAMLET",
+            "word to the action; with this special o'erstep not"
+        ],
+        [
+            "HAMLET",
+            "the modesty of nature: for any thing so overdone is"
+        ],
+        [
+            "HAMLET",
+            "from the purpose of playing, whose end, both at the"
+        ],
+        [
+            "HAMLET",
+            "first and now, was and is, to hold, as 'twere, the"
+        ],
+        [
+            "HAMLET",
+            "mirror up to nature; to show virtue her own feature,"
+        ],
+        [
+            "HAMLET",
+            "scorn her own image, and the very age and body of"
+        ],
+        [
+            "HAMLET",
+            "the time his form and pressure. Now this overdone,"
+        ],
+        [
+            "HAMLET",
+            "or come tardy off, though it make the unskilful"
+        ],
+        [
+            "HAMLET",
+            "laugh, cannot but make the judicious grieve; the"
+        ],
+        [
+            "HAMLET",
+            "censure of the which one must in your allowance"
+        ],
+        [
+            "HAMLET",
+            "o'erweigh a whole theatre of others. O, there be"
+        ],
+        [
+            "HAMLET",
+            "players that I have seen play, and heard others"
+        ],
+        [
+            "HAMLET",
+            "praise, and that highly, not to speak it profanely,"
+        ],
+        [
+            "HAMLET",
+            "that, neither having the accent of Christians nor"
+        ],
+        [
+            "HAMLET",
+            "the gait of Christian, pagan, nor man, have so"
+        ],
+        [
+            "HAMLET",
+            "strutted and bellowed that I have thought some of"
+        ],
+        [
+            "HAMLET",
+            "nature's journeymen had made men and not made them"
+        ],
+        [
+            "HAMLET",
+            "well, they imitated humanity so abominably."
+        ],
+        [
+            "First Player",
+            "I hope we have reformed that indifferently with us,"
+        ],
+        [
+            "First Player",
+            "sir."
+        ],
+        [
+            "HAMLET",
+            "O, reform it altogether. And let those that play"
+        ],
+        [
+            "HAMLET",
+            "your clowns speak no more than is set down for them;"
+        ],
+        [
+            "HAMLET",
+            "for there be of them that will themselves laugh, to"
+        ],
+        [
+            "HAMLET",
+            "set on some quantity of barren spectators to laugh"
+        ],
+        [
+            "HAMLET",
+            "too; though, in the mean time, some necessary"
+        ],
+        [
+            "HAMLET",
+            "question of the play be then to be considered:"
+        ],
+        [
+            "HAMLET",
+            "that's villanous, and shows a most pitiful ambition"
+        ],
+        [
+            "HAMLET",
+            "in the fool that uses it. Go, make you ready."
+        ],
+        [
+            "HAMLET",
+            "How now, my lord! I will the king hear this piece of work?",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "LORD POLONIUS",
+            "And the queen too, and that presently.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "HAMLET",
+            "Bid the players make haste."
+        ],
+        [
+            "HAMLET",
+            "Will you two help to hasten them?",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "GUILDENSTERN",
+            "We will, my lord.",
+            {
+                "preceding_direction_line": "3"
+            },
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "HAMLET",
+            "What ho! Horatio!",
+            {
+                "preceding_direction_line": "4"
+            },
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "HORATIO",
+            "Here, sweet lord, at your service.",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "HAMLET",
+            "Horatio, thou art e'en as just a man"
+        ],
+        [
+            "HAMLET",
+            "As e'er my conversation coped withal."
+        ],
+        [
+            "HORATIO",
+            "O, my dear lord,--"
+        ],
+        [
+            "HAMLET",
+            "Nay, do not think I flatter;"
+        ],
+        [
+            "HAMLET",
+            "For what advancement may I hope from thee"
+        ],
+        [
+            "HAMLET",
+            "That no revenue hast but thy good spirits,"
+        ],
+        [
+            "HAMLET",
+            "To feed and clothe thee? Why should the poor be flatter'd?"
+        ],
+        [
+            "HAMLET",
+            "No, let the candied tongue lick absurd pomp,"
+        ],
+        [
+            "HAMLET",
+            "And crook the pregnant hinges of the knee"
+        ],
+        [
+            "HAMLET",
+            "Where thrift may follow fawning. Dost thou hear?"
+        ],
+        [
+            "HAMLET",
+            "Since my dear soul was mistress of her choice"
+        ],
+        [
+            "HAMLET",
+            "And could of men distinguish, her election"
+        ],
+        [
+            "HAMLET",
+            "Hath seal'd thee for herself; for thou hast been"
+        ],
+        [
+            "HAMLET",
+            "As one, in suffering all, that suffers nothing,"
+        ],
+        [
+            "HAMLET",
+            "A man that fortune's buffets and rewards"
+        ],
+        [
+            "HAMLET",
+            "Hast ta'en with equal thanks: and blest are those"
+        ],
+        [
+            "HAMLET",
+            "Whose blood and judgment are so well commingled,"
+        ],
+        [
+            "HAMLET",
+            "That they are not a pipe for fortune's finger"
+        ],
+        [
+            "HAMLET",
+            "To sound what stop she please. Give me that man"
+        ],
+        [
+            "HAMLET",
+            "That is not passion's slave, and I will wear him"
+        ],
+        [
+            "HAMLET",
+            "In my heart's core, ay, in my heart of heart,"
+        ],
+        [
+            "HAMLET",
+            "As I do thee.--Something too much of this.--"
+        ],
+        [
+            "HAMLET",
+            "There is a play to-night before the king;"
+        ],
+        [
+            "HAMLET",
+            "One scene of it comes near the circumstance"
+        ],
+        [
+            "HAMLET",
+            "Which I have told thee of my father's death:"
+        ],
+        [
+            "HAMLET",
+            "I prithee, when thou seest that act afoot,"
+        ],
+        [
+            "HAMLET",
+            "Even with the very comment of thy soul"
+        ],
+        [
+            "HAMLET",
+            "Observe mine uncle: if his occulted guilt"
+        ],
+        [
+            "HAMLET",
+            "Do not itself unkennel in one speech,"
+        ],
+        [
+            "HAMLET",
+            "It is a damned ghost that we have seen,"
+        ],
+        [
+            "HAMLET",
+            "And my imaginations are as foul"
+        ],
+        [
+            "HAMLET",
+            "As Vulcan's stithy. Give him heedful note;"
+        ],
+        [
+            "HAMLET",
+            "For I mine eyes will rivet to his face,"
+        ],
+        [
+            "HAMLET",
+            "And after we will both our judgments join"
+        ],
+        [
+            "HAMLET",
+            "In censure of his seeming."
+        ],
+        [
+            "HORATIO",
+            "Well, my lord:"
+        ],
+        [
+            "HORATIO",
+            "If he steal aught the whilst this play is playing,"
+        ],
+        [
+            "HORATIO",
+            "And 'scape detecting, I will pay the theft."
+        ],
+        [
+            "HAMLET",
+            "They are coming to the play; I must be idle:"
+        ],
+        [
+            "HAMLET",
+            "Get you a place.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "KING CLAUDIUS",
+            "How fares our cousin Hamlet?",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "HAMLET",
+            "Excellent, i' faith; of the chameleon's dish: I eat"
+        ],
+        [
+            "HAMLET",
+            "the air, promise-crammed: you cannot feed capons so."
+        ],
+        [
+            "KING CLAUDIUS",
+            "I have nothing with this answer, Hamlet; these words"
+        ],
+        [
+            "KING CLAUDIUS",
+            "are not mine."
+        ],
+        [
+            "HAMLET",
+            "No, nor mine now."
+        ],
+        [
+            "HAMLET",
+            "My lord, you played once i' the university, you say?",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "LORD POLONIUS",
+            "That did I, my lord; and was accounted a good actor.",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "HAMLET",
+            "What did you enact?"
+        ],
+        [
+            "LORD POLONIUS",
+            "I did enact Julius Caesar: I was killed i' the"
+        ],
+        [
+            "LORD POLONIUS",
+            "Capitol; Brutus killed me."
+        ],
+        [
+            "HAMLET",
+            "It was a brute part of him to kill so capital a calf"
+        ],
+        [
+            "HAMLET",
+            "there. Be the players ready?"
+        ],
+        [
+            "ROSENCRANTZ",
+            "Ay, my lord; they stay upon your patience."
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Come hither, my dear Hamlet, sit by me."
+        ],
+        [
+            "HAMLET",
+            "No, good mother, here's metal more attractive."
+        ],
+        [
+            "LORD POLONIUS",
+            "[To KING CLAUDIUS] O, ho! do you mark that?"
+        ],
+        [
+            "HAMLET",
+            "Lady, shall I lie in your lap?",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "OPHELIA",
+            "No, my lord.",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "HAMLET",
+            "I mean, my head upon your lap?"
+        ],
+        [
+            "OPHELIA",
+            "Ay, my lord."
+        ],
+        [
+            "HAMLET",
+            "Do you think I meant country matters?"
+        ],
+        [
+            "OPHELIA",
+            "I think nothing, my lord."
+        ],
+        [
+            "HAMLET",
+            "That's a fair thought to lie between maids' legs."
+        ],
+        [
+            "OPHELIA",
+            "What is, my lord?"
+        ],
+        [
+            "HAMLET",
+            "Nothing."
+        ],
+        [
+            "OPHELIA",
+            "You are merry, my lord."
+        ],
+        [
+            "HAMLET",
+            "Who, I?"
+        ],
+        [
+            "OPHELIA",
+            "Ay, my lord."
+        ],
+        [
+            "HAMLET",
+            "O God, your only jig-maker. What should a man do"
+        ],
+        [
+            "HAMLET",
+            "but be merry? for, look you, how cheerfully my"
+        ],
+        [
+            "HAMLET",
+            "mother looks, and my father died within these two hours."
+        ],
+        [
+            "OPHELIA",
+            "Nay, 'tis twice two months, my lord."
+        ],
+        [
+            "HAMLET",
+            "So long? Nay then, let the devil wear black, for"
+        ],
+        [
+            "HAMLET",
+            "I'll have a suit of sables. O heavens! die two"
+        ],
+        [
+            "HAMLET",
+            "months ago, and not forgotten yet? Then there's"
+        ],
+        [
+            "HAMLET",
+            "hope a great man's memory may outlive his life half"
+        ],
+        [
+            "HAMLET",
+            "a year: but, by'r lady, he must build churches,"
+        ],
+        [
+            "HAMLET",
+            "then; or else shall he suffer not thinking on, with"
+        ],
+        [
+            "HAMLET",
+            "the hobby-horse, whose epitaph is 'For, O, for, O,"
+        ],
+        [
+            "HAMLET",
+            "the hobby-horse is forgot.'",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "OPHELIA",
+            "What means this, my lord?",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "HAMLET",
+            "Marry, this is miching mallecho; it means mischief."
+        ],
+        [
+            "OPHELIA",
+            "Belike this show imports the argument of the play.",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "HAMLET",
+            "We shall know by this fellow: the players cannot",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "HAMLET",
+            "keep counsel; they'll tell all."
+        ],
+        [
+            "OPHELIA",
+            "Will he tell us what this show meant?"
+        ],
+        [
+            "HAMLET",
+            "Ay, or any show that you'll show him: be not you"
+        ],
+        [
+            "HAMLET",
+            "ashamed to show, he'll not shame to tell you what it means."
+        ],
+        [
+            "OPHELIA",
+            "You are naught, you are naught: I'll mark the play."
+        ],
+        [
+            "Prologue",
+            "For us, and for our tragedy,"
+        ],
+        [
+            "Prologue",
+            "Here stooping to your clemency,"
+        ],
+        [
+            "Prologue",
+            "We beg your hearing patiently.",
+            {
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "HAMLET",
+            "Is this a prologue, or the posy of a ring?",
+            {
+                "preceding_direction_line": "11"
+            }
+        ],
+        [
+            "OPHELIA",
+            "'Tis brief, my lord."
+        ],
+        [
+            "HAMLET",
+            "As woman's love.",
+            {
+                "following_direction_line": "12"
+            }
+        ],
+        [
+            "Player King",
+            "Full thirty times hath Phoebus' cart gone round",
+            {
+                "preceding_direction_line": "12"
+            }
+        ],
+        [
+            "Player King",
+            "Neptune's salt wash and Tellus' orbed ground,"
+        ],
+        [
+            "Player King",
+            "And thirty dozen moons with borrow'd sheen"
+        ],
+        [
+            "Player King",
+            "About the world have times twelve thirties been,"
+        ],
+        [
+            "Player King",
+            "Since love our hearts and Hymen did our hands"
+        ],
+        [
+            "Player King",
+            "Unite commutual in most sacred bands."
+        ],
+        [
+            "Player Queen",
+            "So many journeys may the sun and moon"
+        ],
+        [
+            "Player Queen",
+            "Make us again count o'er ere love be done!"
+        ],
+        [
+            "Player Queen",
+            "But, woe is me, you are so sick of late,"
+        ],
+        [
+            "Player Queen",
+            "So far from cheer and from your former state,"
+        ],
+        [
+            "Player Queen",
+            "That I distrust you. Yet, though I distrust,"
+        ],
+        [
+            "Player Queen",
+            "Discomfort you, my lord, it nothing must:"
+        ],
+        [
+            "Player Queen",
+            "For women's fear and love holds quantity;"
+        ],
+        [
+            "Player Queen",
+            "In neither aught, or in extremity."
+        ],
+        [
+            "Player Queen",
+            "Now, what my love is, proof hath made you know;"
+        ],
+        [
+            "Player Queen",
+            "And as my love is sized, my fear is so:"
+        ],
+        [
+            "Player Queen",
+            "Where love is great, the littlest doubts are fear;"
+        ],
+        [
+            "Player Queen",
+            "Where little fears grow great, great love grows there."
+        ],
+        [
+            "Player King",
+            "'Faith, I must leave thee, love, and shortly too;"
+        ],
+        [
+            "Player King",
+            "My operant powers their functions leave to do:"
+        ],
+        [
+            "Player King",
+            "And thou shalt live in this fair world behind,"
+        ],
+        [
+            "Player King",
+            "Honour'd, beloved; and haply one as kind"
+        ],
+        [
+            "Player King",
+            "For husband shalt thou--"
+        ],
+        [
+            "Player Queen",
+            "O, confound the rest!"
+        ],
+        [
+            "Player Queen",
+            "Such love must needs be treason in my breast:"
+        ],
+        [
+            "Player Queen",
+            "In second husband let me be accurst!"
+        ],
+        [
+            "Player Queen",
+            "None wed the second but who kill'd the first."
+        ],
+        [
+            "HAMLET",
+            "[Aside] Wormwood, wormwood."
+        ],
+        [
+            "Player Queen",
+            "The instances that second marriage move"
+        ],
+        [
+            "Player Queen",
+            "Are base respects of thrift, but none of love:"
+        ],
+        [
+            "Player Queen",
+            "A second time I kill my husband dead,"
+        ],
+        [
+            "Player Queen",
+            "When second husband kisses me in bed."
+        ],
+        [
+            "Player King",
+            "I do believe you think what now you speak;"
+        ],
+        [
+            "Player King",
+            "But what we do determine oft we break."
+        ],
+        [
+            "Player King",
+            "Purpose is but the slave to memory,"
+        ],
+        [
+            "Player King",
+            "Of violent birth, but poor validity;"
+        ],
+        [
+            "Player King",
+            "Which now, like fruit unripe, sticks on the tree;"
+        ],
+        [
+            "Player King",
+            "But fall, unshaken, when they mellow be."
+        ],
+        [
+            "Player King",
+            "Most necessary 'tis that we forget"
+        ],
+        [
+            "Player King",
+            "To pay ourselves what to ourselves is debt:"
+        ],
+        [
+            "Player King",
+            "What to ourselves in passion we propose,"
+        ],
+        [
+            "Player King",
+            "The passion ending, doth the purpose lose."
+        ],
+        [
+            "Player King",
+            "The violence of either grief or joy"
+        ],
+        [
+            "Player King",
+            "Their own enactures with themselves destroy:"
+        ],
+        [
+            "Player King",
+            "Where joy most revels, grief doth most lament;"
+        ],
+        [
+            "Player King",
+            "Grief joys, joy grieves, on slender accident."
+        ],
+        [
+            "Player King",
+            "This world is not for aye, nor 'tis not strange"
+        ],
+        [
+            "Player King",
+            "That even our loves should with our fortunes change;"
+        ],
+        [
+            "Player King",
+            "For 'tis a question left us yet to prove,"
+        ],
+        [
+            "Player King",
+            "Whether love lead fortune, or else fortune love."
+        ],
+        [
+            "Player King",
+            "The great man down, you mark his favourite flies;"
+        ],
+        [
+            "Player King",
+            "The poor advanced makes friends of enemies."
+        ],
+        [
+            "Player King",
+            "And hitherto doth love on fortune tend;"
+        ],
+        [
+            "Player King",
+            "For who not needs shall never lack a friend,"
+        ],
+        [
+            "Player King",
+            "And who in want a hollow friend doth try,"
+        ],
+        [
+            "Player King",
+            "Directly seasons him his enemy."
+        ],
+        [
+            "Player King",
+            "But, orderly to end where I begun,"
+        ],
+        [
+            "Player King",
+            "Our wills and fates do so contrary run"
+        ],
+        [
+            "Player King",
+            "That our devices still are overthrown;"
+        ],
+        [
+            "Player King",
+            "Our thoughts are ours, their ends none of our own:"
+        ],
+        [
+            "Player King",
+            "So think thou wilt no second husband wed;"
+        ],
+        [
+            "Player King",
+            "But die thy thoughts when thy first lord is dead."
+        ],
+        [
+            "Player Queen",
+            "Nor earth to me give food, nor heaven light!"
+        ],
+        [
+            "Player Queen",
+            "Sport and repose lock from me day and night!"
+        ],
+        [
+            "Player Queen",
+            "To desperation turn my trust and hope!"
+        ],
+        [
+            "Player Queen",
+            "An anchor's cheer in prison be my scope!"
+        ],
+        [
+            "Player Queen",
+            "Each opposite that blanks the face of joy"
+        ],
+        [
+            "Player Queen",
+            "Meet what I would have well and it destroy!"
+        ],
+        [
+            "Player Queen",
+            "Both here and hence pursue me lasting strife,"
+        ],
+        [
+            "Player Queen",
+            "If, once a widow, ever I be wife!"
+        ],
+        [
+            "HAMLET",
+            "If she should break it now!"
+        ],
+        [
+            "Player King",
+            "'Tis deeply sworn. Sweet, leave me here awhile;"
+        ],
+        [
+            "Player King",
+            "My spirits grow dull, and fain I would beguile"
+        ],
+        [
+            "Player King",
+            "The tedious day with sleep.",
+            {
+                "following_direction_line": "13"
+            }
+        ],
+        [
+            "Player Queen",
+            "Sleep rock thy brain,",
+            {
+                "preceding_direction_line": "13"
+            }
+        ],
+        [
+            "Player Queen",
+            "And never come mischance between us twain!",
+            {
+                "following_direction_line": "14"
+            }
+        ],
+        [
+            "HAMLET",
+            "Madam, how like you this play?",
+            {
+                "preceding_direction_line": "14"
+            }
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "The lady protests too much, methinks."
+        ],
+        [
+            "HAMLET",
+            "O, but she'll keep her word."
+        ],
+        [
+            "KING CLAUDIUS",
+            "Have you heard the argument? Is there no offence in 't?"
+        ],
+        [
+            "HAMLET",
+            "No, no, they do but jest, poison in jest; no offence"
+        ],
+        [
+            "HAMLET",
+            "i' the world."
+        ],
+        [
+            "KING CLAUDIUS",
+            "What do you call the play?"
+        ],
+        [
+            "HAMLET",
+            "The Mouse-trap. Marry, how? Tropically. This play"
+        ],
+        [
+            "HAMLET",
+            "is the image of a murder done in Vienna: Gonzago is"
+        ],
+        [
+            "HAMLET",
+            "the duke's name; his wife, Baptista: you shall see"
+        ],
+        [
+            "HAMLET",
+            "anon; 'tis a knavish piece of work: but what o'"
+        ],
+        [
+            "HAMLET",
+            "that? your majesty and we that have free souls, it"
+        ],
+        [
+            "HAMLET",
+            "touches us not: let the galled jade wince, our"
+        ],
+        [
+            "HAMLET",
+            "withers are unwrung."
+        ],
+        [
+            "HAMLET",
+            "This is one Lucianus, nephew to the king.",
+            {
+                "following_direction_line": "15"
+            }
+        ],
+        [
+            "OPHELIA",
+            "You are as good as a chorus, my lord.",
+            {
+                "preceding_direction_line": "15"
+            }
+        ],
+        [
+            "HAMLET",
+            "I could interpret between you and your love, if I"
+        ],
+        [
+            "HAMLET",
+            "could see the puppets dallying."
+        ],
+        [
+            "OPHELIA",
+            "You are keen, my lord, you are keen."
+        ],
+        [
+            "HAMLET",
+            "It would cost you a groaning to take off my edge."
+        ],
+        [
+            "OPHELIA",
+            "Still better, and worse."
+        ],
+        [
+            "HAMLET",
+            "So you must take your husbands. Begin, murderer;"
+        ],
+        [
+            "HAMLET",
+            "pox, leave thy damnable faces, and begin. Come:"
+        ],
+        [
+            "HAMLET",
+            "'the croaking raven doth bellow for revenge.'"
+        ],
+        [
+            "LUCIANUS",
+            "Thoughts black, hands apt, drugs fit, and time agreeing;"
+        ],
+        [
+            "LUCIANUS",
+            "Confederate season, else no creature seeing;"
+        ],
+        [
+            "LUCIANUS",
+            "Thou mixture rank, of midnight weeds collected,"
+        ],
+        [
+            "LUCIANUS",
+            "With Hecate's ban thrice blasted, thrice infected,"
+        ],
+        [
+            "LUCIANUS",
+            "Thy natural magic and dire property,"
+        ],
+        [
+            "LUCIANUS",
+            "On wholesome life usurp immediately.",
+            {
+                "following_direction_line": "16"
+            }
+        ],
+        [
+            "HAMLET",
+            "He poisons him i' the garden for's estate. His",
+            {
+                "preceding_direction_line": "16"
+            }
+        ],
+        [
+            "HAMLET",
+            "name's Gonzago: the story is extant, and writ in"
+        ],
+        [
+            "HAMLET",
+            "choice Italian: you shall see anon how the murderer"
+        ],
+        [
+            "HAMLET",
+            "gets the love of Gonzago's wife."
+        ],
+        [
+            "OPHELIA",
+            "The king rises."
+        ],
+        [
+            "HAMLET",
+            "What, frighted with false fire!"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "How fares my lord?"
+        ],
+        [
+            "LORD POLONIUS",
+            "Give o'er the play."
+        ],
+        [
+            "KING CLAUDIUS",
+            "Give me some light: away!"
+        ],
+        [
+            "All",
+            "Lights, lights, lights!",
+            {
+                "following_direction_line": "17"
+            }
+        ],
+        [
+            "HAMLET",
+            "Why, let the stricken deer go weep,",
+            {
+                "preceding_direction_line": "17"
+            }
+        ],
+        [
+            "HAMLET",
+            "The hart ungalled play;"
+        ],
+        [
+            "HAMLET",
+            "For some must watch, while some must sleep:"
+        ],
+        [
+            "HAMLET",
+            "So runs the world away."
+        ],
+        [
+            "HAMLET",
+            "Would not this, sir, and a forest of feathers-- if"
+        ],
+        [
+            "HAMLET",
+            "the rest of my fortunes turn Turk with me--with two"
+        ],
+        [
+            "HAMLET",
+            "Provincial roses on my razed shoes, get me a"
+        ],
+        [
+            "HAMLET",
+            "fellowship in a cry of players, sir?"
+        ],
+        [
+            "HORATIO",
+            "Half a share."
+        ],
+        [
+            "HAMLET",
+            "A whole one, I."
+        ],
+        [
+            "HAMLET",
+            "For thou dost know, O Damon dear,"
+        ],
+        [
+            "HAMLET",
+            "This realm dismantled was"
+        ],
+        [
+            "HAMLET",
+            "Of Jove himself; and now reigns here"
+        ],
+        [
+            "HAMLET",
+            "A very, very--pajock."
+        ],
+        [
+            "HORATIO",
+            "You might have rhymed."
+        ],
+        [
+            "HAMLET",
+            "O good Horatio, I'll take the ghost's word for a"
+        ],
+        [
+            "HAMLET",
+            "thousand pound. Didst perceive?"
+        ],
+        [
+            "HORATIO",
+            "Very well, my lord."
+        ],
+        [
+            "HAMLET",
+            "Upon the talk of the poisoning?"
+        ],
+        [
+            "HORATIO",
+            "I did very well note him."
+        ],
+        [
+            "HAMLET",
+            "Ah, ha! Come, some music! come, the recorders!"
+        ],
+        [
+            "HAMLET",
+            "For if the king like not the comedy,"
+        ],
+        [
+            "HAMLET",
+            "Why then, belike, he likes it not, perdy."
+        ],
+        [
+            "HAMLET",
+            "Come, some music!",
+            {
+                "following_direction_line": "18"
+            }
+        ],
+        [
+            "GUILDENSTERN",
+            "Good my lord, vouchsafe me a word with you.",
+            {
+                "preceding_direction_line": "18"
+            }
+        ],
+        [
+            "HAMLET",
+            "Sir, a whole history."
+        ],
+        [
+            "GUILDENSTERN",
+            "The king, sir,--"
+        ],
+        [
+            "HAMLET",
+            "Ay, sir, what of him?"
+        ],
+        [
+            "GUILDENSTERN",
+            "Is in his retirement marvellous distempered."
+        ],
+        [
+            "HAMLET",
+            "With drink, sir?"
+        ],
+        [
+            "GUILDENSTERN",
+            "No, my lord, rather with choler."
+        ],
+        [
+            "HAMLET",
+            "Your wisdom should show itself more richer to"
+        ],
+        [
+            "HAMLET",
+            "signify this to his doctor; for, for me to put him"
+        ],
+        [
+            "HAMLET",
+            "to his purgation would perhaps plunge him into far"
+        ],
+        [
+            "HAMLET",
+            "more choler."
+        ],
+        [
+            "GUILDENSTERN",
+            "Good my lord, put your discourse into some frame and"
+        ],
+        [
+            "GUILDENSTERN",
+            "start not so wildly from my affair."
+        ],
+        [
+            "HAMLET",
+            "I am tame, sir: pronounce."
+        ],
+        [
+            "GUILDENSTERN",
+            "The queen, your mother, in most great affliction of"
+        ],
+        [
+            "GUILDENSTERN",
+            "spirit, hath sent me to you."
+        ],
+        [
+            "HAMLET",
+            "You are welcome."
+        ],
+        [
+            "GUILDENSTERN",
+            "Nay, good my lord, this courtesy is not of the right"
+        ],
+        [
+            "GUILDENSTERN",
+            "breed. If it shall please you to make me a"
+        ],
+        [
+            "GUILDENSTERN",
+            "wholesome answer, I will do your mother's"
+        ],
+        [
+            "GUILDENSTERN",
+            "commandment: if not, your pardon and my return"
+        ],
+        [
+            "GUILDENSTERN",
+            "shall be the end of my business."
+        ],
+        [
+            "HAMLET",
+            "Sir, I cannot."
+        ],
+        [
+            "GUILDENSTERN",
+            "What, my lord?"
+        ],
+        [
+            "HAMLET",
+            "Make you a wholesome answer; my wit's diseased: but,"
+        ],
+        [
+            "HAMLET",
+            "sir, such answer as I can make, you shall command;"
+        ],
+        [
+            "HAMLET",
+            "or, rather, as you say, my mother: therefore no"
+        ],
+        [
+            "HAMLET",
+            "more, but to the matter: my mother, you say,--"
+        ],
+        [
+            "ROSENCRANTZ",
+            "Then thus she says; your behavior hath struck her"
+        ],
+        [
+            "ROSENCRANTZ",
+            "into amazement and admiration."
+        ],
+        [
+            "HAMLET",
+            "O wonderful son, that can so astonish a mother! But"
+        ],
+        [
+            "HAMLET",
+            "is there no sequel at the heels of this mother's"
+        ],
+        [
+            "HAMLET",
+            "admiration? Impart."
+        ],
+        [
+            "ROSENCRANTZ",
+            "She desires to speak with you in her closet, ere you"
+        ],
+        [
+            "ROSENCRANTZ",
+            "go to bed."
+        ],
+        [
+            "HAMLET",
+            "We shall obey, were she ten times our mother. Have"
+        ],
+        [
+            "HAMLET",
+            "you any further trade with us?"
+        ],
+        [
+            "ROSENCRANTZ",
+            "My lord, you once did love me."
+        ],
+        [
+            "HAMLET",
+            "So I do still, by these pickers and stealers."
+        ],
+        [
+            "ROSENCRANTZ",
+            "Good my lord, what is your cause of distemper? you"
+        ],
+        [
+            "ROSENCRANTZ",
+            "do, surely, bar the door upon your own liberty, if"
+        ],
+        [
+            "ROSENCRANTZ",
+            "you deny your griefs to your friend."
+        ],
+        [
+            "HAMLET",
+            "Sir, I lack advancement."
+        ],
+        [
+            "ROSENCRANTZ",
+            "How can that be, when you have the voice of the king"
+        ],
+        [
+            "ROSENCRANTZ",
+            "himself for your succession in Denmark?"
+        ],
+        [
+            "HAMLET",
+            "Ay, but sir, 'While the grass grows,'--the proverb"
+        ],
+        [
+            "HAMLET",
+            "is something musty."
+        ],
+        [
+            "HAMLET",
+            "O, the recorders! let me see one. To withdraw with"
+        ],
+        [
+            "HAMLET",
+            "you:--why do you go about to recover the wind of me,"
+        ],
+        [
+            "HAMLET",
+            "as if you would drive me into a toil?",
+            {
+                "following_direction_line": "19"
+            }
+        ],
+        [
+            "GUILDENSTERN",
+            "O, my lord, if my duty be too bold, my love is too",
+            {
+                "preceding_direction_line": "19"
+            }
+        ],
+        [
+            "GUILDENSTERN",
+            "unmannerly."
+        ],
+        [
+            "HAMLET",
+            "I do not well understand that. Will you play upon"
+        ],
+        [
+            "HAMLET",
+            "this pipe?"
+        ],
+        [
+            "GUILDENSTERN",
+            "My lord, I cannot."
+        ],
+        [
+            "HAMLET",
+            "I pray you."
+        ],
+        [
+            "GUILDENSTERN",
+            "Believe me, I cannot."
+        ],
+        [
+            "HAMLET",
+            "I do beseech you."
+        ],
+        [
+            "GUILDENSTERN",
+            "I know no touch of it, my lord."
+        ],
+        [
+            "HAMLET",
+            "'Tis as easy as lying: govern these ventages with"
+        ],
+        [
+            "HAMLET",
+            "your fingers and thumb, give it breath with your"
+        ],
+        [
+            "HAMLET",
+            "mouth, and it will discourse most eloquent music."
+        ],
+        [
+            "HAMLET",
+            "Look you, these are the stops."
+        ],
+        [
+            "GUILDENSTERN",
+            "But these cannot I command to any utterance of"
+        ],
+        [
+            "GUILDENSTERN",
+            "harmony; I have not the skill."
+        ],
+        [
+            "HAMLET",
+            "Why, look you now, how unworthy a thing you make of"
+        ],
+        [
+            "HAMLET",
+            "me! You would play upon me; you would seem to know"
+        ],
+        [
+            "HAMLET",
+            "my stops; you would pluck out the heart of my"
+        ],
+        [
+            "HAMLET",
+            "mystery; you would sound me from my lowest note to"
+        ],
+        [
+            "HAMLET",
+            "the top of my compass: and there is much music,"
+        ],
+        [
+            "HAMLET",
+            "excellent voice, in this little organ; yet cannot"
+        ],
+        [
+            "HAMLET",
+            "you make it speak. 'Sblood, do you think I am"
+        ],
+        [
+            "HAMLET",
+            "easier to be played on than a pipe? Call me what"
+        ],
+        [
+            "HAMLET",
+            "instrument you will, though you can fret me, yet you"
+        ],
+        [
+            "HAMLET",
+            "cannot play upon me."
+        ],
+        [
+            "HAMLET",
+            "God bless you, sir!",
+            {
+                "following_direction_line": "20"
+            }
+        ],
+        [
+            "LORD POLONIUS",
+            "My lord, the queen would speak with you, and",
+            {
+                "preceding_direction_line": "20"
+            }
+        ],
+        [
+            "LORD POLONIUS",
+            "presently."
+        ],
+        [
+            "HAMLET",
+            "Do you see yonder cloud that's almost in shape of a camel?"
+        ],
+        [
+            "LORD POLONIUS",
+            "By the mass, and 'tis like a camel, indeed."
+        ],
+        [
+            "HAMLET",
+            "Methinks it is like a weasel."
+        ],
+        [
+            "LORD POLONIUS",
+            "It is backed like a weasel."
+        ],
+        [
+            "HAMLET",
+            "Or like a whale?"
+        ],
+        [
+            "LORD POLONIUS",
+            "Very like a whale."
+        ],
+        [
+            "HAMLET",
+            "Then I will come to my mother by and by. They fool"
+        ],
+        [
+            "HAMLET",
+            "me to the top of my bent. I will come by and by."
+        ],
+        [
+            "LORD POLONIUS",
+            "I will say so."
+        ],
+        [
+            "HAMLET",
+            "By and by is easily said."
+        ],
+        [
+            "HAMLET",
+            "Leave me, friends."
+        ],
+        [
+            "HAMLET",
+            "Tis now the very witching time of night,"
+        ],
+        [
+            "HAMLET",
+            "When churchyards yawn and hell itself breathes out"
+        ],
+        [
+            "HAMLET",
+            "Contagion to this world: now could I drink hot blood,"
+        ],
+        [
+            "HAMLET",
+            "And do such bitter business as the day"
+        ],
+        [
+            "HAMLET",
+            "Would quake to look on. Soft! now to my mother."
+        ],
+        [
+            "HAMLET",
+            "O heart, lose not thy nature; let not ever"
+        ],
+        [
+            "HAMLET",
+            "The soul of Nero enter this firm bosom:"
+        ],
+        [
+            "HAMLET",
+            "Let me be cruel, not unnatural:"
+        ],
+        [
+            "HAMLET",
+            "I will speak daggers to her, but use none;"
+        ],
+        [
+            "HAMLET",
+            "My tongue and soul in this be hypocrites;"
+        ],
+        [
+            "HAMLET",
+            "How in my words soever she be shent,"
+        ],
+        [
+            "HAMLET",
+            "To give them seals never, my soul, consent!",
+            {
+                "following_direction_line": "21"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter HAMLET and Players"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt Players. Enter POLONIUS, ROSENCRANTZ, and GUILDENSTERN"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit POLONIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt ROSENCRANTZ and GUILDENSTERN"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Enter HORATIO"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Danish march. A flourish. Enter KING CLAUDIUS, QUEEN GERTRUDE, POLONIUS, OPHELIA, ROSENCRANTZ, GUILDENSTERN, and others"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "To POLONIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Lying down at OPHELIA's feet"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Hautboys play. The dumb-show enters. Enter a King and a Queen very lovingly; the Queen embracing him, and he her. She kneels, and makes show of protestation unto him. He takes her up, and declines his head upon her neck: lays him down upon a bank of flowers: she, seeing him asleep, leaves him. Anon comes in a fellow, takes off his crown, kisses it, and pours poison in the King's ears, and exit. The Queen returns; finds the King dead, and makes passionate action. The Poisoner, with some two or three Mutes, comes in again, seeming to lament with her. The dead body is carried away. The Poisoner wooes the Queen with gifts: she seems loath and unwilling awhile, but in the end accepts his love. Exeunt"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Enter Prologue"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Enter two Players, King and Queen"
+        ],
+        [
+            "_DIRECTION",
+            "D13",
+            "Sleeps"
+        ],
+        [
+            "_DIRECTION",
+            "D14",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D15",
+            "Enter LUCIANUS"
+        ],
+        [
+            "_DIRECTION",
+            "D16",
+            "Pours the poison into the sleeper's ears"
+        ],
+        [
+            "_DIRECTION",
+            "D17",
+            "Exeunt all but HAMLET and HORATIO"
+        ],
+        [
+            "_DIRECTION",
+            "D18",
+            "Re-enter ROSENCRANTZ and GUILDENSTERN"
+        ],
+        [
+            "_DIRECTION",
+            "D19",
+            "Re-enter Players with recorders"
+        ],
+        [
+            "_DIRECTION",
+            "D20",
+            "Enter POLONIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D21",
+            "Exit POLONIUS. Exeunt all but HAMLET. Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "HAMLET": [
+            [
+                "1",
+                "15"
+            ],
+            [
+                "17",
+                "36"
+            ],
+            [
+                "39",
+                "47"
+            ],
+            [
+                "49",
+                "50"
+            ],
+            [
+                "52",
+                "52"
+            ],
+            [
+                "54",
+                "55"
+            ],
+            [
+                "57",
+                "88"
+            ],
+            [
+                "92",
+                "93"
+            ],
+            [
+                "95",
+                "96"
+            ],
+            [
+                "99",
+                "100"
+            ],
+            [
+                "102",
+                "102"
+            ],
+            [
+                "105",
+                "106"
+            ],
+            [
+                "109",
+                "109"
+            ],
+            [
+                "111",
+                "111"
+            ],
+            [
+                "113",
+                "113"
+            ],
+            [
+                "115",
+                "115"
+            ],
+            [
+                "117",
+                "117"
+            ],
+            [
+                "119",
+                "119"
+            ],
+            [
+                "121",
+                "121"
+            ],
+            [
+                "123",
+                "125"
+            ],
+            [
+                "127",
+                "134"
+            ],
+            [
+                "136",
+                "136"
+            ],
+            [
+                "138",
+                "139"
+            ],
+            [
+                "141",
+                "142"
+            ],
+            [
+                "147",
+                "147"
+            ],
+            [
+                "149",
+                "149"
+            ],
+            [
+                "177",
+                "177"
+            ],
+            [
+                "220",
+                "220"
+            ],
+            [
+                "226",
+                "226"
+            ],
+            [
+                "228",
+                "228"
+            ],
+            [
+                "230",
+                "231"
+            ],
+            [
+                "233",
+                "240"
+            ],
+            [
+                "242",
+                "243"
+            ],
+            [
+                "245",
+                "245"
+            ],
+            [
+                "247",
+                "249"
+            ],
+            [
+                "256",
+                "259"
+            ],
+            [
+                "261",
+                "261"
+            ],
+            [
+                "266",
+                "273"
+            ],
+            [
+                "275",
+                "279"
+            ],
+            [
+                "281",
+                "282"
+            ],
+            [
+                "284",
+                "284"
+            ],
+            [
+                "286",
+                "289"
+            ],
+            [
+                "291",
+                "291"
+            ],
+            [
+                "293",
+                "293"
+            ],
+            [
+                "295",
+                "295"
+            ],
+            [
+                "297",
+                "300"
+            ],
+            [
+                "303",
+                "303"
+            ],
+            [
+                "306",
+                "306"
+            ],
+            [
+                "312",
+                "312"
+            ],
+            [
+                "314",
+                "317"
+            ],
+            [
+                "320",
+                "322"
+            ],
+            [
+                "325",
+                "326"
+            ],
+            [
+                "328",
+                "328"
+            ],
+            [
+                "332",
+                "332"
+            ],
+            [
+                "335",
+                "339"
+            ],
+            [
+                "342",
+                "343"
+            ],
+            [
+                "345",
+                "345"
+            ],
+            [
+                "347",
+                "347"
+            ],
+            [
+                "349",
+                "352"
+            ],
+            [
+                "355",
+                "365"
+            ],
+            [
+                "368",
+                "368"
+            ],
+            [
+                "370",
+                "370"
+            ],
+            [
+                "372",
+                "372"
+            ],
+            [
+                "374",
+                "375"
+            ],
+            [
+                "377",
+                "390"
+            ]
+        ],
+        "First Player": [
+            [
+                "16",
+                "16"
+            ],
+            [
+                "37",
+                "38"
+            ]
+        ],
+        "LORD POLONIUS": [
+            [
+                "48",
+                "48"
+            ],
+            [
+                "101",
+                "101"
+            ],
+            [
+                "103",
+                "104"
+            ],
+            [
+                "110",
+                "110"
+            ],
+            [
+                "263",
+                "263"
+            ],
+            [
+                "366",
+                "367"
+            ],
+            [
+                "369",
+                "369"
+            ],
+            [
+                "371",
+                "371"
+            ],
+            [
+                "373",
+                "373"
+            ],
+            [
+                "376",
+                "376"
+            ]
+        ],
+        "GUILDENSTERN": [
+            [
+                "51",
+                "51"
+            ],
+            [
+                "290",
+                "290"
+            ],
+            [
+                "292",
+                "292"
+            ],
+            [
+                "294",
+                "294"
+            ],
+            [
+                "296",
+                "296"
+            ],
+            [
+                "301",
+                "302"
+            ],
+            [
+                "304",
+                "305"
+            ],
+            [
+                "307",
+                "311"
+            ],
+            [
+                "313",
+                "313"
+            ],
+            [
+                "340",
+                "341"
+            ],
+            [
+                "344",
+                "344"
+            ],
+            [
+                "346",
+                "346"
+            ],
+            [
+                "348",
+                "348"
+            ],
+            [
+                "353",
+                "354"
+            ]
+        ],
+        "HORATIO": [
+            [
+                "53",
+                "53"
+            ],
+            [
+                "56",
+                "56"
+            ],
+            [
+                "89",
+                "91"
+            ],
+            [
+                "274",
+                "274"
+            ],
+            [
+                "280",
+                "280"
+            ],
+            [
+                "283",
+                "283"
+            ],
+            [
+                "285",
+                "285"
+            ]
+        ],
+        "KING CLAUDIUS": [
+            [
+                "94",
+                "94"
+            ],
+            [
+                "97",
+                "98"
+            ],
+            [
+                "229",
+                "229"
+            ],
+            [
+                "232",
+                "232"
+            ],
+            [
+                "264",
+                "264"
+            ]
+        ],
+        "ROSENCRANTZ": [
+            [
+                "107",
+                "107"
+            ],
+            [
+                "318",
+                "319"
+            ],
+            [
+                "323",
+                "324"
+            ],
+            [
+                "327",
+                "327"
+            ],
+            [
+                "329",
+                "331"
+            ],
+            [
+                "333",
+                "334"
+            ]
+        ],
+        "QUEEN GERTRUDE": [
+            [
+                "108",
+                "108"
+            ],
+            [
+                "227",
+                "227"
+            ],
+            [
+                "262",
+                "262"
+            ]
+        ],
+        "OPHELIA": [
+            [
+                "112",
+                "112"
+            ],
+            [
+                "114",
+                "114"
+            ],
+            [
+                "116",
+                "116"
+            ],
+            [
+                "118",
+                "118"
+            ],
+            [
+                "120",
+                "120"
+            ],
+            [
+                "122",
+                "122"
+            ],
+            [
+                "126",
+                "126"
+            ],
+            [
+                "135",
+                "135"
+            ],
+            [
+                "137",
+                "137"
+            ],
+            [
+                "140",
+                "140"
+            ],
+            [
+                "143",
+                "143"
+            ],
+            [
+                "148",
+                "148"
+            ],
+            [
+                "241",
+                "241"
+            ],
+            [
+                "244",
+                "244"
+            ],
+            [
+                "246",
+                "246"
+            ],
+            [
+                "260",
+                "260"
+            ]
+        ],
+        "Prologue": [
+            [
+                "144",
+                "146"
+            ]
+        ],
+        "Player King": [
+            [
+                "150",
+                "155"
+            ],
+            [
+                "168",
+                "172"
+            ],
+            [
+                "182",
+                "211"
+            ],
+            [
+                "221",
+                "223"
+            ]
+        ],
+        "Player Queen": [
+            [
+                "156",
+                "167"
+            ],
+            [
+                "173",
+                "176"
+            ],
+            [
+                "178",
+                "181"
+            ],
+            [
+                "212",
+                "219"
+            ],
+            [
+                "224",
+                "225"
+            ]
+        ],
+        "LUCIANUS": [
+            [
+                "250",
+                "255"
+            ]
+        ],
+        "All": [
+            [
+                "265",
+                "265"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "A hall in the castle."
+}

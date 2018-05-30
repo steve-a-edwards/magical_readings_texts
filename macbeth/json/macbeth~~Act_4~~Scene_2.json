@@ -1,0 +1,633 @@
+{
+    "scene_id": "macbeth~~Act_4~~Scene_2",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "LADY MACDUFF",
+            "What had he done, to make him fly the land?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "ROSS",
+            "You must have patience, madam."
+        ],
+        [
+            "LADY MACDUFF",
+            "He had none:"
+        ],
+        [
+            "LADY MACDUFF",
+            "His flight was madness: when our actions do not,"
+        ],
+        [
+            "LADY MACDUFF",
+            "Our fears do make us traitors."
+        ],
+        [
+            "ROSS",
+            "You know not"
+        ],
+        [
+            "ROSS",
+            "Whether it was his wisdom or his fear."
+        ],
+        [
+            "LADY MACDUFF",
+            "Wisdom! to leave his wife, to leave his babes,"
+        ],
+        [
+            "LADY MACDUFF",
+            "His mansion and his titles in a place"
+        ],
+        [
+            "LADY MACDUFF",
+            "From whence himself does fly? He loves us not;"
+        ],
+        [
+            "LADY MACDUFF",
+            "He wants the natural touch: for the poor wren,"
+        ],
+        [
+            "LADY MACDUFF",
+            "The most diminutive of birds, will fight,"
+        ],
+        [
+            "LADY MACDUFF",
+            "Her young ones in her nest, against the owl."
+        ],
+        [
+            "LADY MACDUFF",
+            "All is the fear and nothing is the love;"
+        ],
+        [
+            "LADY MACDUFF",
+            "As little is the wisdom, where the flight"
+        ],
+        [
+            "LADY MACDUFF",
+            "So runs against all reason."
+        ],
+        [
+            "ROSS",
+            "My dearest coz,"
+        ],
+        [
+            "ROSS",
+            "I pray you, school yourself: but for your husband,"
+        ],
+        [
+            "ROSS",
+            "He is noble, wise, judicious, and best knows"
+        ],
+        [
+            "ROSS",
+            "The fits o' the season. I dare not speak"
+        ],
+        [
+            "ROSS",
+            "much further;"
+        ],
+        [
+            "ROSS",
+            "But cruel are the times, when we are traitors"
+        ],
+        [
+            "ROSS",
+            "And do not know ourselves, when we hold rumour"
+        ],
+        [
+            "ROSS",
+            "From what we fear, yet know not what we fear,"
+        ],
+        [
+            "ROSS",
+            "But float upon a wild and violent sea"
+        ],
+        [
+            "ROSS",
+            "Each way and move. I take my leave of you:"
+        ],
+        [
+            "ROSS",
+            "Shall not be long but I'll be here again:"
+        ],
+        [
+            "ROSS",
+            "Things at the worst will cease, or else climb upward"
+        ],
+        [
+            "ROSS",
+            "To what they were before. My pretty cousin,"
+        ],
+        [
+            "ROSS",
+            "Blessing upon you!"
+        ],
+        [
+            "LADY MACDUFF",
+            "Father'd he is, and yet he's fatherless."
+        ],
+        [
+            "ROSS",
+            "I am so much a fool, should I stay longer,"
+        ],
+        [
+            "ROSS",
+            "It would be my disgrace and your discomfort:"
+        ],
+        [
+            "ROSS",
+            "I take my leave at once.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "LADY MACDUFF",
+            "Sirrah, your father's dead;",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "LADY MACDUFF",
+            "And what will you do now? How will you live?"
+        ],
+        [
+            "Son",
+            "As birds do, mother."
+        ],
+        [
+            "LADY MACDUFF",
+            "What, with worms and flies?"
+        ],
+        [
+            "Son",
+            "With what I get, I mean; and so do they."
+        ],
+        [
+            "LADY MACDUFF",
+            "Poor bird! thou'ldst never fear the net nor lime,"
+        ],
+        [
+            "LADY MACDUFF",
+            "The pitfall nor the gin."
+        ],
+        [
+            "Son",
+            "Why should I, mother? Poor birds they are not set for."
+        ],
+        [
+            "Son",
+            "My father is not dead, for all your saying."
+        ],
+        [
+            "LADY MACDUFF",
+            "Yes, he is dead; how wilt thou do for a father?"
+        ],
+        [
+            "Son",
+            "Nay, how will you do for a husband?"
+        ],
+        [
+            "LADY MACDUFF",
+            "Why, I can buy me twenty at any market."
+        ],
+        [
+            "Son",
+            "Then you'll buy 'em to sell again."
+        ],
+        [
+            "LADY MACDUFF",
+            "Thou speak'st with all thy wit: and yet, i' faith,"
+        ],
+        [
+            "LADY MACDUFF",
+            "With wit enough for thee."
+        ],
+        [
+            "Son",
+            "Was my father a traitor, mother?"
+        ],
+        [
+            "LADY MACDUFF",
+            "Ay, that he was."
+        ],
+        [
+            "Son",
+            "What is a traitor?"
+        ],
+        [
+            "LADY MACDUFF",
+            "Why, one that swears and lies."
+        ],
+        [
+            "Son",
+            "And be all traitors that do so?"
+        ],
+        [
+            "LADY MACDUFF",
+            "Every one that does so is a traitor, and must be hanged."
+        ],
+        [
+            "Son",
+            "And must they all be hanged that swear and lie?"
+        ],
+        [
+            "LADY MACDUFF",
+            "Every one."
+        ],
+        [
+            "Son",
+            "Who must hang them?"
+        ],
+        [
+            "LADY MACDUFF",
+            "Why, the honest men."
+        ],
+        [
+            "Son",
+            "Then the liars and swearers are fools,"
+        ],
+        [
+            "Son",
+            "for there are liars and swearers enow to beat"
+        ],
+        [
+            "Son",
+            "the honest men and hang up them."
+        ],
+        [
+            "LADY MACDUFF",
+            "Now, God help thee, poor monkey!"
+        ],
+        [
+            "LADY MACDUFF",
+            "But how wilt thou do for a father?"
+        ],
+        [
+            "Son",
+            "If he were dead, you'ld weep for"
+        ],
+        [
+            "Son",
+            "him: if you would not, it were a good sign"
+        ],
+        [
+            "Son",
+            "that I should quickly have a new father."
+        ],
+        [
+            "LADY MACDUFF",
+            "Poor prattler, how thou talk'st!",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "Messenger",
+            "Bless you, fair dame! I am not to you known,",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "Messenger",
+            "Though in your state of honour I am perfect."
+        ],
+        [
+            "Messenger",
+            "I doubt some danger does approach you nearly:"
+        ],
+        [
+            "Messenger",
+            "If you will take a homely man's advice,"
+        ],
+        [
+            "Messenger",
+            "Be not found here; hence, with your little ones."
+        ],
+        [
+            "Messenger",
+            "To fright you thus, methinks, I am too savage;"
+        ],
+        [
+            "Messenger",
+            "To do worse to you were fell cruelty,"
+        ],
+        [
+            "Messenger",
+            "Which is too nigh your person. Heaven preserve you!"
+        ],
+        [
+            "Messenger",
+            "I dare abide no longer.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "LADY MACDUFF",
+            "Whither should I fly?",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "LADY MACDUFF",
+            "I have done no harm. But I remember now"
+        ],
+        [
+            "LADY MACDUFF",
+            "I am in this earthly world; where to do harm"
+        ],
+        [
+            "LADY MACDUFF",
+            "Is often laudable, to do good sometime"
+        ],
+        [
+            "LADY MACDUFF",
+            "Accounted dangerous folly: why then, alas,"
+        ],
+        [
+            "LADY MACDUFF",
+            "Do I put up that womanly defence,"
+        ],
+        [
+            "LADY MACDUFF",
+            "To say I have done no harm?"
+        ],
+        [
+            "LADY MACDUFF",
+            "What are these faces?",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "First Murderer",
+            "Where is your husband?",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "LADY MACDUFF",
+            "I hope, in no place so unsanctified"
+        ],
+        [
+            "LADY MACDUFF",
+            "Where such as thou mayst find him."
+        ],
+        [
+            "First Murderer",
+            "He's a traitor."
+        ],
+        [
+            "Son",
+            "Thou liest, thou shag-hair'd villain!"
+        ],
+        [
+            "First Murderer",
+            "What, you egg!"
+        ],
+        [
+            "First Murderer",
+            "Young fry of treachery!",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "Son",
+            "He has kill'd me, mother:",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "Son",
+            "Run away, I pray you!",
+            {
+                "following_direction_line": "7"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter LADY MACDUFF, her Son, and ROSS"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter a Messenger"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Enter Murderers"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Stabbing him"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Dies. Exit LADY MACDUFF, crying 'Murder!' Exeunt Murderers, following her"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "LADY MACDUFF": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "5"
+            ],
+            [
+                "8",
+                "16"
+            ],
+            [
+                "31",
+                "31"
+            ],
+            [
+                "35",
+                "36"
+            ],
+            [
+                "38",
+                "38"
+            ],
+            [
+                "40",
+                "41"
+            ],
+            [
+                "44",
+                "44"
+            ],
+            [
+                "46",
+                "46"
+            ],
+            [
+                "48",
+                "49"
+            ],
+            [
+                "51",
+                "51"
+            ],
+            [
+                "53",
+                "53"
+            ],
+            [
+                "55",
+                "55"
+            ],
+            [
+                "57",
+                "57"
+            ],
+            [
+                "59",
+                "59"
+            ],
+            [
+                "63",
+                "64"
+            ],
+            [
+                "68",
+                "68"
+            ],
+            [
+                "78",
+                "85"
+            ],
+            [
+                "87",
+                "88"
+            ]
+        ],
+        "ROSS": [
+            [
+                "2",
+                "2"
+            ],
+            [
+                "6",
+                "7"
+            ],
+            [
+                "17",
+                "30"
+            ],
+            [
+                "32",
+                "34"
+            ]
+        ],
+        "Son": [
+            [
+                "37",
+                "37"
+            ],
+            [
+                "39",
+                "39"
+            ],
+            [
+                "42",
+                "43"
+            ],
+            [
+                "45",
+                "45"
+            ],
+            [
+                "47",
+                "47"
+            ],
+            [
+                "50",
+                "50"
+            ],
+            [
+                "52",
+                "52"
+            ],
+            [
+                "54",
+                "54"
+            ],
+            [
+                "56",
+                "56"
+            ],
+            [
+                "58",
+                "58"
+            ],
+            [
+                "60",
+                "62"
+            ],
+            [
+                "65",
+                "67"
+            ],
+            [
+                "90",
+                "90"
+            ],
+            [
+                "93",
+                "94"
+            ]
+        ],
+        "Messenger": [
+            [
+                "69",
+                "77"
+            ]
+        ],
+        "First Murderer": [
+            [
+                "86",
+                "86"
+            ],
+            [
+                "89",
+                "89"
+            ],
+            [
+                "91",
+                "92"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "Fife. Macduff's castle."
+}

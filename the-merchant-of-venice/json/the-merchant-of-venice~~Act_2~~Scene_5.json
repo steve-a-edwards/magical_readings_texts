@@ -1,0 +1,355 @@
+{
+    "scene_id": "the merchant of venice~~Act_2~~Scene_5",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "SHYLOCK",
+            "Well, thou shalt see, thy eyes shall be thy judge,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "SHYLOCK",
+            "The difference of old Shylock and Bassanio:--"
+        ],
+        [
+            "SHYLOCK",
+            "What, Jessica!--thou shalt not gormandise,"
+        ],
+        [
+            "SHYLOCK",
+            "As thou hast done with me:--What, Jessica!--"
+        ],
+        [
+            "SHYLOCK",
+            "And sleep and snore, and rend apparel out;--"
+        ],
+        [
+            "SHYLOCK",
+            "Why, Jessica, I say!"
+        ],
+        [
+            "LAUNCELOT",
+            "Why, Jessica!"
+        ],
+        [
+            "SHYLOCK",
+            "Who bids thee call? I do not bid thee call."
+        ],
+        [
+            "LAUNCELOT",
+            "Your worship was wont to tell me that"
+        ],
+        [
+            "LAUNCELOT",
+            "I could do nothing without bidding.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "JESSICA",
+            "Call you? what is your will?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "SHYLOCK",
+            "I am bid forth to supper, Jessica:"
+        ],
+        [
+            "SHYLOCK",
+            "There are my keys. But wherefore should I go?"
+        ],
+        [
+            "SHYLOCK",
+            "I am not bid for love; they flatter me:"
+        ],
+        [
+            "SHYLOCK",
+            "But yet I'll go in hate, to feed upon"
+        ],
+        [
+            "SHYLOCK",
+            "The prodigal Christian. Jessica, my girl,"
+        ],
+        [
+            "SHYLOCK",
+            "Look to my house. I am right loath to go:"
+        ],
+        [
+            "SHYLOCK",
+            "There is some ill a-brewing towards my rest,"
+        ],
+        [
+            "SHYLOCK",
+            "For I did dream of money-bags to-night."
+        ],
+        [
+            "LAUNCELOT",
+            "I beseech you, sir, go: my young master doth expect"
+        ],
+        [
+            "LAUNCELOT",
+            "your reproach."
+        ],
+        [
+            "SHYLOCK",
+            "So do I his."
+        ],
+        [
+            "LAUNCELOT",
+            "An they have conspired together, I will not say you"
+        ],
+        [
+            "LAUNCELOT",
+            "shall see a masque; but if you do, then it was not"
+        ],
+        [
+            "LAUNCELOT",
+            "for nothing that my nose fell a-bleeding on"
+        ],
+        [
+            "LAUNCELOT",
+            "Black-Monday last at six o'clock i' the morning,"
+        ],
+        [
+            "LAUNCELOT",
+            "falling out that year on Ash-Wednesday was four"
+        ],
+        [
+            "LAUNCELOT",
+            "year, in the afternoon."
+        ],
+        [
+            "SHYLOCK",
+            "What, are there masques? Hear you me, Jessica:"
+        ],
+        [
+            "SHYLOCK",
+            "Lock up my doors; and when you hear the drum"
+        ],
+        [
+            "SHYLOCK",
+            "And the vile squealing of the wry-neck'd fife,"
+        ],
+        [
+            "SHYLOCK",
+            "Clamber not you up to the casements then,"
+        ],
+        [
+            "SHYLOCK",
+            "Nor thrust your head into the public street"
+        ],
+        [
+            "SHYLOCK",
+            "To gaze on Christian fools with varnish'd faces,"
+        ],
+        [
+            "SHYLOCK",
+            "But stop my house's ears, I mean my casements:"
+        ],
+        [
+            "SHYLOCK",
+            "Let not the sound of shallow foppery enter"
+        ],
+        [
+            "SHYLOCK",
+            "My sober house. By Jacob's staff, I swear,"
+        ],
+        [
+            "SHYLOCK",
+            "I have no mind of feasting forth to-night:"
+        ],
+        [
+            "SHYLOCK",
+            "But I will go. Go you before me, sirrah;"
+        ],
+        [
+            "SHYLOCK",
+            "Say I will come."
+        ],
+        [
+            "LAUNCELOT",
+            "I will go before, sir. Mistress, look out at"
+        ],
+        [
+            "LAUNCELOT",
+            "window, for all this, There will come a Christian"
+        ],
+        [
+            "LAUNCELOT",
+            "boy, will be worth a Jewess' eye.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "SHYLOCK",
+            "What says that fool of Hagar's offspring, ha?",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "JESSICA",
+            "His words were 'Farewell mistress;' nothing else."
+        ],
+        [
+            "SHYLOCK",
+            "The patch is kind enough, but a huge feeder;"
+        ],
+        [
+            "SHYLOCK",
+            "Snail-slow in profit, and he sleeps by day"
+        ],
+        [
+            "SHYLOCK",
+            "More than the wild-cat: drones hive not with me;"
+        ],
+        [
+            "SHYLOCK",
+            "Therefore I part with him, and part with him"
+        ],
+        [
+            "SHYLOCK",
+            "To one that would have him help to waste"
+        ],
+        [
+            "SHYLOCK",
+            "His borrow'd purse. Well, Jessica, go in;"
+        ],
+        [
+            "SHYLOCK",
+            "Perhaps I will return immediately:"
+        ],
+        [
+            "SHYLOCK",
+            "Do as I bid you; shut doors after you:"
+        ],
+        [
+            "SHYLOCK",
+            "Fast bind, fast find;"
+        ],
+        [
+            "SHYLOCK",
+            "A proverb never stale in thrifty mind.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "JESSICA",
+            "Farewell; and if my fortune be not crost,",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "JESSICA",
+            "I have a father, you a daughter, lost.",
+            {
+                "following_direction_line": "5"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter SHYLOCK and LAUNCELOT"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter Jessica"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "SHYLOCK": [
+            [
+                "1",
+                "6"
+            ],
+            [
+                "8",
+                "8"
+            ],
+            [
+                "12",
+                "19"
+            ],
+            [
+                "22",
+                "22"
+            ],
+            [
+                "29",
+                "40"
+            ],
+            [
+                "44",
+                "44"
+            ],
+            [
+                "46",
+                "55"
+            ]
+        ],
+        "LAUNCELOT": [
+            [
+                "7",
+                "7"
+            ],
+            [
+                "9",
+                "10"
+            ],
+            [
+                "20",
+                "21"
+            ],
+            [
+                "23",
+                "28"
+            ],
+            [
+                "41",
+                "43"
+            ]
+        ],
+        "JESSICA": [
+            [
+                "11",
+                "11"
+            ],
+            [
+                "45",
+                "45"
+            ],
+            [
+                "56",
+                "57"
+            ]
+        ]
+    },
+    "scene_name": "SCENE V",
+    "scene_description": "The same. Before SHYLOCK'S house."
+}

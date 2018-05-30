@@ -1,0 +1,983 @@
+{
+    "scene_id": "the merchant of venice~~Act_1~~Scene_3",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "SHYLOCK",
+            "Three thousand ducats; well.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "BASSANIO",
+            "Ay, sir, for three months."
+        ],
+        [
+            "SHYLOCK",
+            "For three months; well."
+        ],
+        [
+            "BASSANIO",
+            "For the which, as I told you, Antonio shall be bound."
+        ],
+        [
+            "SHYLOCK",
+            "Antonio shall become bound; well."
+        ],
+        [
+            "BASSANIO",
+            "May you stead me? will you pleasure me? shall I"
+        ],
+        [
+            "BASSANIO",
+            "know your answer?"
+        ],
+        [
+            "SHYLOCK",
+            "Three thousand ducats for three months and Antonio bound."
+        ],
+        [
+            "BASSANIO",
+            "Your answer to that."
+        ],
+        [
+            "SHYLOCK",
+            "Antonio is a good man."
+        ],
+        [
+            "BASSANIO",
+            "Have you heard any imputation to the contrary?"
+        ],
+        [
+            "SHYLOCK",
+            "Oh, no, no, no, no: my meaning in saying he is a"
+        ],
+        [
+            "SHYLOCK",
+            "good man is to have you understand me that he is"
+        ],
+        [
+            "SHYLOCK",
+            "sufficient. Yet his means are in supposition: he"
+        ],
+        [
+            "SHYLOCK",
+            "hath an argosy bound to Tripolis, another to the"
+        ],
+        [
+            "SHYLOCK",
+            "Indies; I understand moreover, upon the Rialto, he"
+        ],
+        [
+            "SHYLOCK",
+            "hath a third at Mexico, a fourth for England, and"
+        ],
+        [
+            "SHYLOCK",
+            "other ventures he hath, squandered abroad. But ships"
+        ],
+        [
+            "SHYLOCK",
+            "are but boards, sailors but men: there be land-rats"
+        ],
+        [
+            "SHYLOCK",
+            "and water-rats, water-thieves and land-thieves, I"
+        ],
+        [
+            "SHYLOCK",
+            "mean pirates, and then there is the peril of waters,"
+        ],
+        [
+            "SHYLOCK",
+            "winds and rocks. The man is, notwithstanding,"
+        ],
+        [
+            "SHYLOCK",
+            "sufficient. Three thousand ducats; I think I may"
+        ],
+        [
+            "SHYLOCK",
+            "take his bond."
+        ],
+        [
+            "BASSANIO",
+            "Be assured you may."
+        ],
+        [
+            "SHYLOCK",
+            "I will be assured I may; and, that I may be assured,"
+        ],
+        [
+            "SHYLOCK",
+            "I will bethink me. May I speak with Antonio?"
+        ],
+        [
+            "BASSANIO",
+            "If it please you to dine with us."
+        ],
+        [
+            "SHYLOCK",
+            "Yes, to smell pork; to eat of the habitation which"
+        ],
+        [
+            "SHYLOCK",
+            "your prophet the Nazarite conjured the devil into. I"
+        ],
+        [
+            "SHYLOCK",
+            "will buy with you, sell with you, talk with you,"
+        ],
+        [
+            "SHYLOCK",
+            "walk with you, and so following, but I will not eat"
+        ],
+        [
+            "SHYLOCK",
+            "with you, drink with you, nor pray with you. What"
+        ],
+        [
+            "SHYLOCK",
+            "news on the Rialto? Who is he comes here?",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "BASSANIO",
+            "This is Signior Antonio.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "SHYLOCK",
+            "[Aside] How like a fawning publican he looks!"
+        ],
+        [
+            "SHYLOCK",
+            "I hate him for he is a Christian,"
+        ],
+        [
+            "SHYLOCK",
+            "But more for that in low simplicity"
+        ],
+        [
+            "SHYLOCK",
+            "He lends out money gratis and brings down"
+        ],
+        [
+            "SHYLOCK",
+            "The rate of usance here with us in Venice."
+        ],
+        [
+            "SHYLOCK",
+            "If I can catch him once upon the hip,"
+        ],
+        [
+            "SHYLOCK",
+            "I will feed fat the ancient grudge I bear him."
+        ],
+        [
+            "SHYLOCK",
+            "He hates our sacred nation, and he rails,"
+        ],
+        [
+            "SHYLOCK",
+            "Even there where merchants most do congregate,"
+        ],
+        [
+            "SHYLOCK",
+            "On me, my bargains and my well-won thrift,"
+        ],
+        [
+            "SHYLOCK",
+            "Which he calls interest. Cursed be my tribe,"
+        ],
+        [
+            "SHYLOCK",
+            "If I forgive him!"
+        ],
+        [
+            "BASSANIO",
+            "Shylock, do you hear?"
+        ],
+        [
+            "SHYLOCK",
+            "I am debating of my present store,"
+        ],
+        [
+            "SHYLOCK",
+            "And, by the near guess of my memory,"
+        ],
+        [
+            "SHYLOCK",
+            "I cannot instantly raise up the gross"
+        ],
+        [
+            "SHYLOCK",
+            "Of full three thousand ducats. What of that?"
+        ],
+        [
+            "SHYLOCK",
+            "Tubal, a wealthy Hebrew of my tribe,"
+        ],
+        [
+            "SHYLOCK",
+            "Will furnish me. But soft! how many months"
+        ],
+        [
+            "SHYLOCK",
+            "Do you desire?"
+        ],
+        [
+            "SHYLOCK",
+            "Rest you fair, good signior;"
+        ],
+        [
+            "SHYLOCK",
+            "Your worship was the last man in our mouths.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "ANTONIO",
+            "Shylock, although I neither lend nor borrow",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "ANTONIO",
+            "By taking nor by giving of excess,"
+        ],
+        [
+            "ANTONIO",
+            "Yet, to supply the ripe wants of my friend,"
+        ],
+        [
+            "ANTONIO",
+            "I'll break a custom. Is he yet possess'd"
+        ],
+        [
+            "ANTONIO",
+            "How much ye would?"
+        ],
+        [
+            "SHYLOCK",
+            "Ay, ay, three thousand ducats."
+        ],
+        [
+            "ANTONIO",
+            "And for three months."
+        ],
+        [
+            "SHYLOCK",
+            "I had forgot; three months; you told me so."
+        ],
+        [
+            "SHYLOCK",
+            "Well then, your bond; and let me see; but hear you;"
+        ],
+        [
+            "SHYLOCK",
+            "Methought you said you neither lend nor borrow"
+        ],
+        [
+            "SHYLOCK",
+            "Upon advantage."
+        ],
+        [
+            "ANTONIO",
+            "I do never use it."
+        ],
+        [
+            "SHYLOCK",
+            "When Jacob grazed his uncle Laban's sheep--"
+        ],
+        [
+            "SHYLOCK",
+            "This Jacob from our holy Abram was,"
+        ],
+        [
+            "SHYLOCK",
+            "As his wise mother wrought in his behalf,"
+        ],
+        [
+            "SHYLOCK",
+            "The third possessor; ay, he was the third--"
+        ],
+        [
+            "ANTONIO",
+            "And what of him? did he take interest?"
+        ],
+        [
+            "SHYLOCK",
+            "No, not take interest, not, as you would say,"
+        ],
+        [
+            "SHYLOCK",
+            "Directly interest: mark what Jacob did."
+        ],
+        [
+            "SHYLOCK",
+            "When Laban and himself were compromised"
+        ],
+        [
+            "SHYLOCK",
+            "That all the eanlings which were streak'd and pied"
+        ],
+        [
+            "SHYLOCK",
+            "Should fall as Jacob's hire, the ewes, being rank,"
+        ],
+        [
+            "SHYLOCK",
+            "In the end of autumn turned to the rams,"
+        ],
+        [
+            "SHYLOCK",
+            "And, when the work of generation was"
+        ],
+        [
+            "SHYLOCK",
+            "Between these woolly breeders in the act,"
+        ],
+        [
+            "SHYLOCK",
+            "The skilful shepherd peel'd me certain wands,"
+        ],
+        [
+            "SHYLOCK",
+            "And, in the doing of the deed of kind,"
+        ],
+        [
+            "SHYLOCK",
+            "He stuck them up before the fulsome ewes,"
+        ],
+        [
+            "SHYLOCK",
+            "Who then conceiving did in eaning time"
+        ],
+        [
+            "SHYLOCK",
+            "Fall parti-colour'd lambs, and those were Jacob's."
+        ],
+        [
+            "SHYLOCK",
+            "This was a way to thrive, and he was blest:"
+        ],
+        [
+            "SHYLOCK",
+            "And thrift is blessing, if men steal it not."
+        ],
+        [
+            "ANTONIO",
+            "This was a venture, sir, that Jacob served for;"
+        ],
+        [
+            "ANTONIO",
+            "A thing not in his power to bring to pass,"
+        ],
+        [
+            "ANTONIO",
+            "But sway'd and fashion'd by the hand of heaven."
+        ],
+        [
+            "ANTONIO",
+            "Was this inserted to make interest good?"
+        ],
+        [
+            "ANTONIO",
+            "Or is your gold and silver ewes and rams?"
+        ],
+        [
+            "SHYLOCK",
+            "I cannot tell; I make it breed as fast:"
+        ],
+        [
+            "SHYLOCK",
+            "But note me, signior."
+        ],
+        [
+            "ANTONIO",
+            "Mark you this, Bassanio,"
+        ],
+        [
+            "ANTONIO",
+            "The devil can cite Scripture for his purpose."
+        ],
+        [
+            "ANTONIO",
+            "An evil soul producing holy witness"
+        ],
+        [
+            "ANTONIO",
+            "Is like a villain with a smiling cheek,"
+        ],
+        [
+            "ANTONIO",
+            "A goodly apple rotten at the heart:"
+        ],
+        [
+            "ANTONIO",
+            "O, what a goodly outside falsehood hath!"
+        ],
+        [
+            "SHYLOCK",
+            "Three thousand ducats; 'tis a good round sum."
+        ],
+        [
+            "SHYLOCK",
+            "Three months from twelve; then, let me see; the rate--"
+        ],
+        [
+            "ANTONIO",
+            "Well, Shylock, shall we be beholding to you?"
+        ],
+        [
+            "SHYLOCK",
+            "Signior Antonio, many a time and oft"
+        ],
+        [
+            "SHYLOCK",
+            "In the Rialto you have rated me"
+        ],
+        [
+            "SHYLOCK",
+            "About my moneys and my usances:"
+        ],
+        [
+            "SHYLOCK",
+            "Still have I borne it with a patient shrug,"
+        ],
+        [
+            "SHYLOCK",
+            "For sufferance is the badge of all our tribe."
+        ],
+        [
+            "SHYLOCK",
+            "You call me misbeliever, cut-throat dog,"
+        ],
+        [
+            "SHYLOCK",
+            "And spit upon my Jewish gaberdine,"
+        ],
+        [
+            "SHYLOCK",
+            "And all for use of that which is mine own."
+        ],
+        [
+            "SHYLOCK",
+            "Well then, it now appears you need my help:"
+        ],
+        [
+            "SHYLOCK",
+            "Go to, then; you come to me, and you say"
+        ],
+        [
+            "SHYLOCK",
+            "'Shylock, we would have moneys:' you say so;"
+        ],
+        [
+            "SHYLOCK",
+            "You, that did void your rheum upon my beard"
+        ],
+        [
+            "SHYLOCK",
+            "And foot me as you spurn a stranger cur"
+        ],
+        [
+            "SHYLOCK",
+            "Over your threshold: moneys is your suit"
+        ],
+        [
+            "SHYLOCK",
+            "What should I say to you? Should I not say"
+        ],
+        [
+            "SHYLOCK",
+            "'Hath a dog money? is it possible"
+        ],
+        [
+            "SHYLOCK",
+            "A cur can lend three thousand ducats?' Or"
+        ],
+        [
+            "SHYLOCK",
+            "Shall I bend low and in a bondman's key,"
+        ],
+        [
+            "SHYLOCK",
+            "With bated breath and whispering humbleness, Say this;"
+        ],
+        [
+            "SHYLOCK",
+            "'Fair sir, you spit on me on Wednesday last;"
+        ],
+        [
+            "SHYLOCK",
+            "You spurn'd me such a day; another time"
+        ],
+        [
+            "SHYLOCK",
+            "You call'd me dog; and for these courtesies"
+        ],
+        [
+            "SHYLOCK",
+            "I'll lend you thus much moneys'?"
+        ],
+        [
+            "ANTONIO",
+            "I am as like to call thee so again,"
+        ],
+        [
+            "ANTONIO",
+            "To spit on thee again, to spurn thee too."
+        ],
+        [
+            "ANTONIO",
+            "If thou wilt lend this money, lend it not"
+        ],
+        [
+            "ANTONIO",
+            "As to thy friends; for when did friendship take"
+        ],
+        [
+            "ANTONIO",
+            "A breed for barren metal of his friend?"
+        ],
+        [
+            "ANTONIO",
+            "But lend it rather to thine enemy,"
+        ],
+        [
+            "ANTONIO",
+            "Who, if he break, thou mayst with better face"
+        ],
+        [
+            "ANTONIO",
+            "Exact the penalty."
+        ],
+        [
+            "SHYLOCK",
+            "Why, look you, how you storm!"
+        ],
+        [
+            "SHYLOCK",
+            "I would be friends with you and have your love,"
+        ],
+        [
+            "SHYLOCK",
+            "Forget the shames that you have stain'd me with,"
+        ],
+        [
+            "SHYLOCK",
+            "Supply your present wants and take no doit"
+        ],
+        [
+            "SHYLOCK",
+            "Of usance for my moneys, and you'll not hear me:"
+        ],
+        [
+            "SHYLOCK",
+            "This is kind I offer."
+        ],
+        [
+            "BASSANIO",
+            "This were kindness."
+        ],
+        [
+            "SHYLOCK",
+            "This kindness will I show."
+        ],
+        [
+            "SHYLOCK",
+            "Go with me to a notary, seal me there"
+        ],
+        [
+            "SHYLOCK",
+            "Your single bond; and, in a merry sport,"
+        ],
+        [
+            "SHYLOCK",
+            "If you repay me not on such a day,"
+        ],
+        [
+            "SHYLOCK",
+            "In such a place, such sum or sums as are"
+        ],
+        [
+            "SHYLOCK",
+            "Express'd in the condition, let the forfeit"
+        ],
+        [
+            "SHYLOCK",
+            "Be nominated for an equal pound"
+        ],
+        [
+            "SHYLOCK",
+            "Of your fair flesh, to be cut off and taken"
+        ],
+        [
+            "SHYLOCK",
+            "In what part of your body pleaseth me."
+        ],
+        [
+            "ANTONIO",
+            "Content, i' faith: I'll seal to such a bond"
+        ],
+        [
+            "ANTONIO",
+            "And say there is much kindness in the Jew."
+        ],
+        [
+            "BASSANIO",
+            "You shall not seal to such a bond for me:"
+        ],
+        [
+            "BASSANIO",
+            "I'll rather dwell in my necessity."
+        ],
+        [
+            "ANTONIO",
+            "Why, fear not, man; I will not forfeit it:"
+        ],
+        [
+            "ANTONIO",
+            "Within these two months, that's a month before"
+        ],
+        [
+            "ANTONIO",
+            "This bond expires, I do expect return"
+        ],
+        [
+            "ANTONIO",
+            "Of thrice three times the value of this bond."
+        ],
+        [
+            "SHYLOCK",
+            "O father Abram, what these Christians are,"
+        ],
+        [
+            "SHYLOCK",
+            "Whose own hard dealings teaches them suspect"
+        ],
+        [
+            "SHYLOCK",
+            "The thoughts of others! Pray you, tell me this;"
+        ],
+        [
+            "SHYLOCK",
+            "If he should break his day, what should I gain"
+        ],
+        [
+            "SHYLOCK",
+            "By the exaction of the forfeiture?"
+        ],
+        [
+            "SHYLOCK",
+            "A pound of man's flesh taken from a man"
+        ],
+        [
+            "SHYLOCK",
+            "Is not so estimable, profitable neither,"
+        ],
+        [
+            "SHYLOCK",
+            "As flesh of muttons, beefs, or goats. I say,"
+        ],
+        [
+            "SHYLOCK",
+            "To buy his favour, I extend this friendship:"
+        ],
+        [
+            "SHYLOCK",
+            "If he will take it, so; if not, adieu;"
+        ],
+        [
+            "SHYLOCK",
+            "And, for my love, I pray you wrong me not."
+        ],
+        [
+            "ANTONIO",
+            "Yes Shylock, I will seal unto this bond."
+        ],
+        [
+            "SHYLOCK",
+            "Then meet me forthwith at the notary's;"
+        ],
+        [
+            "SHYLOCK",
+            "Give him direction for this merry bond,"
+        ],
+        [
+            "SHYLOCK",
+            "And I will go and purse the ducats straight,"
+        ],
+        [
+            "SHYLOCK",
+            "See to my house, left in the fearful guard"
+        ],
+        [
+            "SHYLOCK",
+            "Of an unthrifty knave, and presently"
+        ],
+        [
+            "SHYLOCK",
+            "I will be with you."
+        ],
+        [
+            "ANTONIO",
+            "Hie thee, gentle Jew."
+        ],
+        [
+            "ANTONIO",
+            "The Hebrew will turn Christian: he grows kind.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "BASSANIO",
+            "I like not fair terms and a villain's mind.",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "ANTONIO",
+            "Come on: in this there can be no dismay;"
+        ],
+        [
+            "ANTONIO",
+            "My ships come home a month before the day.",
+            {
+                "following_direction_line": "5"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter BASSANIO and SHYLOCK"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter ANTONIO"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "To ANTONIO"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit Shylock"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "SHYLOCK": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "3"
+            ],
+            [
+                "5",
+                "5"
+            ],
+            [
+                "8",
+                "8"
+            ],
+            [
+                "10",
+                "10"
+            ],
+            [
+                "12",
+                "24"
+            ],
+            [
+                "26",
+                "27"
+            ],
+            [
+                "29",
+                "34"
+            ],
+            [
+                "36",
+                "47"
+            ],
+            [
+                "49",
+                "57"
+            ],
+            [
+                "63",
+                "63"
+            ],
+            [
+                "65",
+                "68"
+            ],
+            [
+                "70",
+                "73"
+            ],
+            [
+                "75",
+                "89"
+            ],
+            [
+                "95",
+                "96"
+            ],
+            [
+                "103",
+                "104"
+            ],
+            [
+                "106",
+                "128"
+            ],
+            [
+                "137",
+                "142"
+            ],
+            [
+                "144",
+                "152"
+            ],
+            [
+                "161",
+                "171"
+            ],
+            [
+                "173",
+                "178"
+            ]
+        ],
+        "BASSANIO": [
+            [
+                "2",
+                "2"
+            ],
+            [
+                "4",
+                "4"
+            ],
+            [
+                "6",
+                "7"
+            ],
+            [
+                "9",
+                "9"
+            ],
+            [
+                "11",
+                "11"
+            ],
+            [
+                "25",
+                "25"
+            ],
+            [
+                "28",
+                "28"
+            ],
+            [
+                "35",
+                "35"
+            ],
+            [
+                "48",
+                "48"
+            ],
+            [
+                "143",
+                "143"
+            ],
+            [
+                "155",
+                "156"
+            ],
+            [
+                "181",
+                "181"
+            ]
+        ],
+        "ANTONIO": [
+            [
+                "58",
+                "62"
+            ],
+            [
+                "64",
+                "64"
+            ],
+            [
+                "69",
+                "69"
+            ],
+            [
+                "74",
+                "74"
+            ],
+            [
+                "90",
+                "94"
+            ],
+            [
+                "97",
+                "102"
+            ],
+            [
+                "105",
+                "105"
+            ],
+            [
+                "129",
+                "136"
+            ],
+            [
+                "153",
+                "154"
+            ],
+            [
+                "157",
+                "160"
+            ],
+            [
+                "172",
+                "172"
+            ],
+            [
+                "179",
+                "180"
+            ],
+            [
+                "182",
+                "183"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "Venice. A public place."
+}

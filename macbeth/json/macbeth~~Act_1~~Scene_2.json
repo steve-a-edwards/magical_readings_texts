@@ -1,0 +1,425 @@
+{
+    "scene_id": "macbeth~~Act_1~~Scene_2",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "DUNCAN",
+            "What bloody man is that? He can report,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "DUNCAN",
+            "As seemeth by his plight, of the revolt"
+        ],
+        [
+            "DUNCAN",
+            "The newest state."
+        ],
+        [
+            "MALCOLM",
+            "This is the sergeant"
+        ],
+        [
+            "MALCOLM",
+            "Who like a good and hardy soldier fought"
+        ],
+        [
+            "MALCOLM",
+            "'Gainst my captivity. Hail, brave friend!"
+        ],
+        [
+            "MALCOLM",
+            "Say to the king the knowledge of the broil"
+        ],
+        [
+            "MALCOLM",
+            "As thou didst leave it."
+        ],
+        [
+            "Sergeant",
+            "Doubtful it stood;"
+        ],
+        [
+            "Sergeant",
+            "As two spent swimmers, that do cling together"
+        ],
+        [
+            "Sergeant",
+            "And choke their art. The merciless Macdonwald--"
+        ],
+        [
+            "Sergeant",
+            "Worthy to be a rebel, for to that"
+        ],
+        [
+            "Sergeant",
+            "The multiplying villanies of nature"
+        ],
+        [
+            "Sergeant",
+            "Do swarm upon him--from the western isles"
+        ],
+        [
+            "Sergeant",
+            "Of kerns and gallowglasses is supplied;"
+        ],
+        [
+            "Sergeant",
+            "And fortune, on his damned quarrel smiling,"
+        ],
+        [
+            "Sergeant",
+            "Show'd like a rebel's whore: but all's too weak:"
+        ],
+        [
+            "Sergeant",
+            "For brave Macbeth--well he deserves that name--"
+        ],
+        [
+            "Sergeant",
+            "Disdaining fortune, with his brandish'd steel,"
+        ],
+        [
+            "Sergeant",
+            "Which smoked with bloody execution,"
+        ],
+        [
+            "Sergeant",
+            "Like valour's minion carved out his passage"
+        ],
+        [
+            "Sergeant",
+            "Till he faced the slave;"
+        ],
+        [
+            "Sergeant",
+            "Which ne'er shook hands, nor bade farewell to him,"
+        ],
+        [
+            "Sergeant",
+            "Till he unseam'd him from the nave to the chaps,"
+        ],
+        [
+            "Sergeant",
+            "And fix'd his head upon our battlements."
+        ],
+        [
+            "DUNCAN",
+            "O valiant cousin! worthy gentleman!"
+        ],
+        [
+            "Sergeant",
+            "As whence the sun 'gins his reflection"
+        ],
+        [
+            "Sergeant",
+            "Shipwrecking storms and direful thunders break,"
+        ],
+        [
+            "Sergeant",
+            "So from that spring whence comfort seem'd to come"
+        ],
+        [
+            "Sergeant",
+            "Discomfort swells. Mark, king of Scotland, mark:"
+        ],
+        [
+            "Sergeant",
+            "No sooner justice had with valour arm'd"
+        ],
+        [
+            "Sergeant",
+            "Compell'd these skipping kerns to trust their heels,"
+        ],
+        [
+            "Sergeant",
+            "But the Norweyan lord surveying vantage,"
+        ],
+        [
+            "Sergeant",
+            "With furbish'd arms and new supplies of men"
+        ],
+        [
+            "Sergeant",
+            "Began a fresh assault."
+        ],
+        [
+            "DUNCAN",
+            "Dismay'd not this"
+        ],
+        [
+            "DUNCAN",
+            "Our captains, Macbeth and Banquo?"
+        ],
+        [
+            "Sergeant",
+            "Yes;"
+        ],
+        [
+            "Sergeant",
+            "As sparrows eagles, or the hare the lion."
+        ],
+        [
+            "Sergeant",
+            "If I say sooth, I must report they were"
+        ],
+        [
+            "Sergeant",
+            "As cannons overcharged with double cracks, so they"
+        ],
+        [
+            "Sergeant",
+            "Doubly redoubled strokes upon the foe:"
+        ],
+        [
+            "Sergeant",
+            "Except they meant to bathe in reeking wounds,"
+        ],
+        [
+            "Sergeant",
+            "Or memorise another Golgotha,"
+        ],
+        [
+            "Sergeant",
+            "I cannot tell."
+        ],
+        [
+            "Sergeant",
+            "But I am faint, my gashes cry for help."
+        ],
+        [
+            "DUNCAN",
+            "So well thy words become thee as thy wounds;"
+        ],
+        [
+            "DUNCAN",
+            "They smack of honour both. Go get him surgeons."
+        ],
+        [
+            "DUNCAN",
+            "Who comes here?",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "MALCOLM",
+            "The worthy thane of Ross.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "LENNOX",
+            "What a haste looks through his eyes! So should he look"
+        ],
+        [
+            "LENNOX",
+            "That seems to speak things strange."
+        ],
+        [
+            "ROSS",
+            "God save the king!"
+        ],
+        [
+            "DUNCAN",
+            "Whence camest thou, worthy thane?"
+        ],
+        [
+            "ROSS",
+            "From Fife, great king;"
+        ],
+        [
+            "ROSS",
+            "Where the Norweyan banners flout the sky"
+        ],
+        [
+            "ROSS",
+            "And fan our people cold. Norway himself,"
+        ],
+        [
+            "ROSS",
+            "With terrible numbers,"
+        ],
+        [
+            "ROSS",
+            "Assisted by that most disloyal traitor"
+        ],
+        [
+            "ROSS",
+            "The thane of Cawdor, began a dismal conflict;"
+        ],
+        [
+            "ROSS",
+            "Till that Bellona's bridegroom, lapp'd in proof,"
+        ],
+        [
+            "ROSS",
+            "Confronted him with self-comparisons,"
+        ],
+        [
+            "ROSS",
+            "Point against point rebellious, arm 'gainst arm."
+        ],
+        [
+            "ROSS",
+            "Curbing his lavish spirit: and, to conclude,"
+        ],
+        [
+            "ROSS",
+            "The victory fell on us."
+        ],
+        [
+            "DUNCAN",
+            "Great happiness!"
+        ],
+        [
+            "ROSS",
+            "That now"
+        ],
+        [
+            "ROSS",
+            "Sweno, the Norways' king, craves composition:"
+        ],
+        [
+            "ROSS",
+            "Nor would we deign him burial of his men"
+        ],
+        [
+            "ROSS",
+            "Till he disbursed at Saint Colme's inch"
+        ],
+        [
+            "ROSS",
+            "Ten thousand dollars to our general use."
+        ],
+        [
+            "DUNCAN",
+            "No more that thane of Cawdor shall deceive"
+        ],
+        [
+            "DUNCAN",
+            "Our bosom interest: go pronounce his present death,"
+        ],
+        [
+            "DUNCAN",
+            "And with his former title greet Macbeth."
+        ],
+        [
+            "ROSS",
+            "I'll see it done."
+        ],
+        [
+            "DUNCAN",
+            "What he hath lost noble Macbeth hath won.",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Alarum within. Enter DUNCAN, MALCOLM, DONALBAIN, LENNOX, with Attendants, meeting a bleeding Sergeant"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit Sergeant, attended. Enter ROSS"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "DUNCAN": [
+            [
+                "1",
+                "3"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "36",
+                "37"
+            ],
+            [
+                "47",
+                "49"
+            ],
+            [
+                "54",
+                "54"
+            ],
+            [
+                "66",
+                "66"
+            ],
+            [
+                "72",
+                "74"
+            ],
+            [
+                "76",
+                "76"
+            ]
+        ],
+        "MALCOLM": [
+            [
+                "4",
+                "8"
+            ],
+            [
+                "50",
+                "50"
+            ]
+        ],
+        "Sergeant": [
+            [
+                "9",
+                "25"
+            ],
+            [
+                "27",
+                "35"
+            ],
+            [
+                "38",
+                "46"
+            ]
+        ],
+        "LENNOX": [
+            [
+                "51",
+                "52"
+            ]
+        ],
+        "ROSS": [
+            [
+                "53",
+                "53"
+            ],
+            [
+                "55",
+                "65"
+            ],
+            [
+                "67",
+                "71"
+            ],
+            [
+                "75",
+                "75"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "A camp near Forres."
+}

@@ -1,0 +1,1868 @@
+{
+    "scene_id": "hamlet~~Act_5~~Scene_1",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "First Clown",
+            "Is she to be buried in Christian burial that",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "First Clown",
+            "wilfully seeks her own salvation?"
+        ],
+        [
+            "Second Clown",
+            "I tell thee she is: and therefore make her grave"
+        ],
+        [
+            "Second Clown",
+            "straight: the crowner hath sat on her, and finds it"
+        ],
+        [
+            "Second Clown",
+            "Christian burial."
+        ],
+        [
+            "First Clown",
+            "How can that be, unless she drowned herself in her"
+        ],
+        [
+            "First Clown",
+            "own defence?"
+        ],
+        [
+            "Second Clown",
+            "Why, 'tis found so."
+        ],
+        [
+            "First Clown",
+            "It must be 'se offendendo;' it cannot be else. For"
+        ],
+        [
+            "First Clown",
+            "here lies the point: if I drown myself wittingly,"
+        ],
+        [
+            "First Clown",
+            "it argues an act: and an act hath three branches: it"
+        ],
+        [
+            "First Clown",
+            "is, to act, to do, to perform: argal, she drowned"
+        ],
+        [
+            "First Clown",
+            "herself wittingly."
+        ],
+        [
+            "Second Clown",
+            "Nay, but hear you, goodman delver,--"
+        ],
+        [
+            "First Clown",
+            "Give me leave. Here lies the water; good: here"
+        ],
+        [
+            "First Clown",
+            "stands the man; good; if the man go to this water,"
+        ],
+        [
+            "First Clown",
+            "and drown himself, it is, will he, nill he, he"
+        ],
+        [
+            "First Clown",
+            "goes,--mark you that; but if the water come to him"
+        ],
+        [
+            "First Clown",
+            "and drown him, he drowns not himself: argal, he"
+        ],
+        [
+            "First Clown",
+            "that is not guilty of his own death shortens not his own life."
+        ],
+        [
+            "Second Clown",
+            "But is this law?"
+        ],
+        [
+            "First Clown",
+            "Ay, marry, is't; crowner's quest law."
+        ],
+        [
+            "Second Clown",
+            "Will you ha' the truth on't? If this had not been"
+        ],
+        [
+            "Second Clown",
+            "a gentlewoman, she should have been buried out o'"
+        ],
+        [
+            "Second Clown",
+            "Christian burial."
+        ],
+        [
+            "First Clown",
+            "Why, there thou say'st: and the more pity that"
+        ],
+        [
+            "First Clown",
+            "great folk should have countenance in this world to"
+        ],
+        [
+            "First Clown",
+            "drown or hang themselves, more than their even"
+        ],
+        [
+            "First Clown",
+            "Christian. Come, my spade. There is no ancient"
+        ],
+        [
+            "First Clown",
+            "gentleman but gardeners, ditchers, and grave-makers:"
+        ],
+        [
+            "First Clown",
+            "they hold up Adam's profession."
+        ],
+        [
+            "Second Clown",
+            "Was he a gentleman?"
+        ],
+        [
+            "First Clown",
+            "He was the first that ever bore arms."
+        ],
+        [
+            "Second Clown",
+            "Why, he had none."
+        ],
+        [
+            "First Clown",
+            "What, art a heathen? How dost thou understand the"
+        ],
+        [
+            "First Clown",
+            "Scripture? The Scripture says 'Adam digged:'"
+        ],
+        [
+            "First Clown",
+            "could he dig without arms? I'll put another"
+        ],
+        [
+            "First Clown",
+            "question to thee: if thou answerest me not to the"
+        ],
+        [
+            "First Clown",
+            "purpose, confess thyself--"
+        ],
+        [
+            "Second Clown",
+            "Go to."
+        ],
+        [
+            "First Clown",
+            "What is he that builds stronger than either the"
+        ],
+        [
+            "First Clown",
+            "mason, the shipwright, or the carpenter?"
+        ],
+        [
+            "Second Clown",
+            "The gallows-maker; for that frame outlives a"
+        ],
+        [
+            "Second Clown",
+            "thousand tenants."
+        ],
+        [
+            "First Clown",
+            "I like thy wit well, in good faith: the gallows"
+        ],
+        [
+            "First Clown",
+            "does well; but how does it well? it does well to"
+        ],
+        [
+            "First Clown",
+            "those that do in: now thou dost ill to say the"
+        ],
+        [
+            "First Clown",
+            "gallows is built stronger than the church: argal,"
+        ],
+        [
+            "First Clown",
+            "the gallows may do well to thee. To't again, come."
+        ],
+        [
+            "Second Clown",
+            "'Who builds stronger than a mason, a shipwright, or"
+        ],
+        [
+            "Second Clown",
+            "a carpenter?'"
+        ],
+        [
+            "First Clown",
+            "Ay, tell me that, and unyoke."
+        ],
+        [
+            "Second Clown",
+            "Marry, now I can tell."
+        ],
+        [
+            "First Clown",
+            "To't."
+        ],
+        [
+            "Second Clown",
+            "Mass, I cannot tell.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "First Clown",
+            "Cudgel thy brains no more about it, for your dull",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "First Clown",
+            "ass will not mend his pace with beating; and, when"
+        ],
+        [
+            "First Clown",
+            "you are asked this question next, say 'a"
+        ],
+        [
+            "First Clown",
+            "grave-maker: 'the houses that he makes last till"
+        ],
+        [
+            "First Clown",
+            "doomsday. Go, get thee to Yaughan: fetch me a"
+        ],
+        [
+            "First Clown",
+            "stoup of liquor."
+        ],
+        [
+            "First Clown",
+            "In youth, when I did love, did love,"
+        ],
+        [
+            "First Clown",
+            "Methought it was very sweet,"
+        ],
+        [
+            "First Clown",
+            "To contract, O, the time, for, ah, my behove,"
+        ],
+        [
+            "First Clown",
+            "O, methought, there was nothing meet.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "HAMLET",
+            "Has this fellow no feeling of his business, that he",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "HAMLET",
+            "sings at grave-making?"
+        ],
+        [
+            "HORATIO",
+            "Custom hath made it in him a property of easiness."
+        ],
+        [
+            "HAMLET",
+            "'Tis e'en so: the hand of little employment hath"
+        ],
+        [
+            "HAMLET",
+            "the daintier sense."
+        ],
+        [
+            "First Clown",
+            "[Sings]"
+        ],
+        [
+            "First Clown",
+            "But age, with his stealing steps,"
+        ],
+        [
+            "First Clown",
+            "Hath claw'd me in his clutch,"
+        ],
+        [
+            "First Clown",
+            "And hath shipped me intil the land,"
+        ],
+        [
+            "First Clown",
+            "As if I had never been such.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "HAMLET",
+            "That skull had a tongue in it, and could sing once:",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "HAMLET",
+            "how the knave jowls it to the ground, as if it were"
+        ],
+        [
+            "HAMLET",
+            "Cain's jaw-bone, that did the first murder! It"
+        ],
+        [
+            "HAMLET",
+            "might be the pate of a politician, which this ass"
+        ],
+        [
+            "HAMLET",
+            "now o'er-reaches; one that would circumvent God,"
+        ],
+        [
+            "HAMLET",
+            "might it not?"
+        ],
+        [
+            "HORATIO",
+            "It might, my lord."
+        ],
+        [
+            "HAMLET",
+            "Or of a courtier; which could say 'Good morrow,"
+        ],
+        [
+            "HAMLET",
+            "sweet lord! How dost thou, good lord?' This might"
+        ],
+        [
+            "HAMLET",
+            "be my lord such-a-one, that praised my lord"
+        ],
+        [
+            "HAMLET",
+            "such-a-one's horse, when he meant to beg it; might it not?"
+        ],
+        [
+            "HORATIO",
+            "Ay, my lord."
+        ],
+        [
+            "HAMLET",
+            "Why, e'en so: and now my Lady Worm's; chapless, and"
+        ],
+        [
+            "HAMLET",
+            "knocked about the mazzard with a sexton's spade:"
+        ],
+        [
+            "HAMLET",
+            "here's fine revolution, an we had the trick to"
+        ],
+        [
+            "HAMLET",
+            "see't. Did these bones cost no more the breeding,"
+        ],
+        [
+            "HAMLET",
+            "but to play at loggats with 'em? mine ache to think on't."
+        ],
+        [
+            "First Clown",
+            "[Sings]"
+        ],
+        [
+            "First Clown",
+            "A pick-axe, and a spade, a spade,"
+        ],
+        [
+            "First Clown",
+            "For and a shrouding sheet:"
+        ],
+        [
+            "First Clown",
+            "O, a pit of clay for to be made"
+        ],
+        [
+            "First Clown",
+            "For such a guest is meet.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "HAMLET",
+            "There's another: why may not that be the skull of a",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "HAMLET",
+            "lawyer? Where be his quiddities now, his quillets,"
+        ],
+        [
+            "HAMLET",
+            "his cases, his tenures, and his tricks? why does he"
+        ],
+        [
+            "HAMLET",
+            "suffer this rude knave now to knock him about the"
+        ],
+        [
+            "HAMLET",
+            "sconce with a dirty shovel, and will not tell him of"
+        ],
+        [
+            "HAMLET",
+            "his action of battery? Hum! This fellow might be"
+        ],
+        [
+            "HAMLET",
+            "in's time a great buyer of land, with his statutes,"
+        ],
+        [
+            "HAMLET",
+            "his recognizances, his fines, his double vouchers,"
+        ],
+        [
+            "HAMLET",
+            "his recoveries: is this the fine of his fines, and"
+        ],
+        [
+            "HAMLET",
+            "the recovery of his recoveries, to have his fine"
+        ],
+        [
+            "HAMLET",
+            "pate full of fine dirt? will his vouchers vouch him"
+        ],
+        [
+            "HAMLET",
+            "no more of his purchases, and double ones too, than"
+        ],
+        [
+            "HAMLET",
+            "the length and breadth of a pair of indentures? The"
+        ],
+        [
+            "HAMLET",
+            "very conveyances of his lands will hardly lie in"
+        ],
+        [
+            "HAMLET",
+            "this box; and must the inheritor himself have no more, ha?"
+        ],
+        [
+            "HORATIO",
+            "Not a jot more, my lord."
+        ],
+        [
+            "HAMLET",
+            "Is not parchment made of sheepskins?"
+        ],
+        [
+            "HORATIO",
+            "Ay, my lord, and of calf-skins too."
+        ],
+        [
+            "HAMLET",
+            "They are sheep and calves which seek out assurance"
+        ],
+        [
+            "HAMLET",
+            "in that. I will speak to this fellow. Whose"
+        ],
+        [
+            "HAMLET",
+            "grave's this, sirrah?"
+        ],
+        [
+            "First Clown",
+            "Mine, sir."
+        ],
+        [
+            "First Clown",
+            "O, a pit of clay for to be made"
+        ],
+        [
+            "First Clown",
+            "For such a guest is meet.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "HAMLET",
+            "I think it be thine, indeed; for thou liest in't.",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "First Clown",
+            "You lie out on't, sir, and therefore it is not"
+        ],
+        [
+            "First Clown",
+            "yours: for my part, I do not lie in't, and yet it is mine."
+        ],
+        [
+            "HAMLET",
+            "'Thou dost lie in't, to be in't and say it is thine:"
+        ],
+        [
+            "HAMLET",
+            "'tis for the dead, not for the quick; therefore thou liest."
+        ],
+        [
+            "First Clown",
+            "'Tis a quick lie, sir; 'twill away gain, from me to"
+        ],
+        [
+            "First Clown",
+            "you."
+        ],
+        [
+            "HAMLET",
+            "What man dost thou dig it for?"
+        ],
+        [
+            "First Clown",
+            "For no man, sir."
+        ],
+        [
+            "HAMLET",
+            "What woman, then?"
+        ],
+        [
+            "First Clown",
+            "For none, neither."
+        ],
+        [
+            "HAMLET",
+            "Who is to be buried in't?"
+        ],
+        [
+            "First Clown",
+            "One that was a woman, sir; but, rest her soul, she's dead."
+        ],
+        [
+            "HAMLET",
+            "How absolute the knave is! we must speak by the"
+        ],
+        [
+            "HAMLET",
+            "card, or equivocation will undo us. By the Lord,"
+        ],
+        [
+            "HAMLET",
+            "Horatio, these three years I have taken a note of"
+        ],
+        [
+            "HAMLET",
+            "it; the age is grown so picked that the toe of the"
+        ],
+        [
+            "HAMLET",
+            "peasant comes so near the heel of the courtier, he"
+        ],
+        [
+            "HAMLET",
+            "gaffs his kibe. How long hast thou been a"
+        ],
+        [
+            "HAMLET",
+            "grave-maker?"
+        ],
+        [
+            "First Clown",
+            "Of all the days i' the year, I came to't that day"
+        ],
+        [
+            "First Clown",
+            "that our last king Hamlet overcame Fortinbras."
+        ],
+        [
+            "HAMLET",
+            "How long is that since?"
+        ],
+        [
+            "First Clown",
+            "Cannot you tell that? every fool can tell that: it"
+        ],
+        [
+            "First Clown",
+            "was the very day that young Hamlet was born; he that"
+        ],
+        [
+            "First Clown",
+            "is mad, and sent into England."
+        ],
+        [
+            "HAMLET",
+            "Ay, marry, why was he sent into England?"
+        ],
+        [
+            "First Clown",
+            "Why, because he was mad: he shall recover his wits"
+        ],
+        [
+            "First Clown",
+            "there; or, if he do not, it's no great matter there."
+        ],
+        [
+            "HAMLET",
+            "Why?"
+        ],
+        [
+            "First Clown",
+            "'Twill, a not be seen in him there; there the men"
+        ],
+        [
+            "First Clown",
+            "are as mad as he."
+        ],
+        [
+            "HAMLET",
+            "How came he mad?"
+        ],
+        [
+            "First Clown",
+            "Very strangely, they say."
+        ],
+        [
+            "HAMLET",
+            "How strangely?"
+        ],
+        [
+            "First Clown",
+            "Faith, e'en with losing his wits."
+        ],
+        [
+            "HAMLET",
+            "Upon what ground?"
+        ],
+        [
+            "First Clown",
+            "Why, here in Denmark: I have been sexton here, man"
+        ],
+        [
+            "First Clown",
+            "and boy, thirty years."
+        ],
+        [
+            "HAMLET",
+            "How long will a man lie i' the earth ere he rot?"
+        ],
+        [
+            "First Clown",
+            "I' faith, if he be not rotten before he die--as we"
+        ],
+        [
+            "First Clown",
+            "have many pocky corses now-a-days, that will scarce"
+        ],
+        [
+            "First Clown",
+            "hold the laying in--he will last you some eight year"
+        ],
+        [
+            "First Clown",
+            "or nine year: a tanner will last you nine year."
+        ],
+        [
+            "HAMLET",
+            "Why he more than another?"
+        ],
+        [
+            "First Clown",
+            "Why, sir, his hide is so tanned with his trade, that"
+        ],
+        [
+            "First Clown",
+            "he will keep out water a great while; and your water"
+        ],
+        [
+            "First Clown",
+            "is a sore decayer of your whoreson dead body."
+        ],
+        [
+            "First Clown",
+            "Here's a skull now; this skull has lain in the earth"
+        ],
+        [
+            "First Clown",
+            "three and twenty years."
+        ],
+        [
+            "HAMLET",
+            "Whose was it?"
+        ],
+        [
+            "First Clown",
+            "A whoreson mad fellow's it was: whose do you think it was?"
+        ],
+        [
+            "HAMLET",
+            "Nay, I know not."
+        ],
+        [
+            "First Clown",
+            "A pestilence on him for a mad rogue! a' poured a"
+        ],
+        [
+            "First Clown",
+            "flagon of Rhenish on my head once. This same skull,"
+        ],
+        [
+            "First Clown",
+            "sir, was Yorick's skull, the king's jester."
+        ],
+        [
+            "HAMLET",
+            "This?"
+        ],
+        [
+            "First Clown",
+            "E'en that."
+        ],
+        [
+            "HAMLET",
+            "Let me see."
+        ],
+        [
+            "HAMLET",
+            "Alas, poor Yorick! I knew him, Horatio: a fellow"
+        ],
+        [
+            "HAMLET",
+            "of infinite jest, of most excellent fancy: he hath"
+        ],
+        [
+            "HAMLET",
+            "borne me on his back a thousand times; and now, how"
+        ],
+        [
+            "HAMLET",
+            "abhorred in my imagination it is! my gorge rims at"
+        ],
+        [
+            "HAMLET",
+            "it. Here hung those lips that I have kissed I know"
+        ],
+        [
+            "HAMLET",
+            "not how oft. Where be your gibes now? your"
+        ],
+        [
+            "HAMLET",
+            "gambols? your songs? your flashes of merriment,"
+        ],
+        [
+            "HAMLET",
+            "that were wont to set the table on a roar? Not one"
+        ],
+        [
+            "HAMLET",
+            "now, to mock your own grinning? quite chap-fallen?"
+        ],
+        [
+            "HAMLET",
+            "Now get you to my lady's chamber, and tell her, let"
+        ],
+        [
+            "HAMLET",
+            "her paint an inch thick, to this favour she must"
+        ],
+        [
+            "HAMLET",
+            "come; make her laugh at that. Prithee, Horatio, tell"
+        ],
+        [
+            "HAMLET",
+            "me one thing.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "HORATIO",
+            "What's that, my lord?",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "HAMLET",
+            "Dost thou think Alexander looked o' this fashion i'"
+        ],
+        [
+            "HAMLET",
+            "the earth?"
+        ],
+        [
+            "HORATIO",
+            "E'en so."
+        ],
+        [
+            "HAMLET",
+            "And smelt so? pah!",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "HORATIO",
+            "E'en so, my lord.",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "HAMLET",
+            "To what base uses we may return, Horatio! Why may"
+        ],
+        [
+            "HAMLET",
+            "not imagination trace the noble dust of Alexander,"
+        ],
+        [
+            "HAMLET",
+            "till he find it stopping a bung-hole?"
+        ],
+        [
+            "HORATIO",
+            "'Twere to consider too curiously, to consider so."
+        ],
+        [
+            "HAMLET",
+            "No, faith, not a jot; but to follow him thither with"
+        ],
+        [
+            "HAMLET",
+            "modesty enough, and likelihood to lead it: as"
+        ],
+        [
+            "HAMLET",
+            "thus: Alexander died, Alexander was buried,"
+        ],
+        [
+            "HAMLET",
+            "Alexander returneth into dust; the dust is earth; of"
+        ],
+        [
+            "HAMLET",
+            "earth we make loam; and why of that loam, whereto he"
+        ],
+        [
+            "HAMLET",
+            "was converted, might they not stop a beer-barrel?"
+        ],
+        [
+            "HAMLET",
+            "Imperious Caesar, dead and turn'd to clay,"
+        ],
+        [
+            "HAMLET",
+            "Might stop a hole to keep the wind away:"
+        ],
+        [
+            "HAMLET",
+            "O, that that earth, which kept the world in awe,"
+        ],
+        [
+            "HAMLET",
+            "Should patch a wall to expel the winter flaw!"
+        ],
+        [
+            "HAMLET",
+            "But soft! but soft! aside: here comes the king."
+        ],
+        [
+            "HAMLET",
+            "The queen, the courtiers: who is this they follow?"
+        ],
+        [
+            "HAMLET",
+            "And with such maimed rites? This doth betoken"
+        ],
+        [
+            "HAMLET",
+            "The corse they follow did with desperate hand"
+        ],
+        [
+            "HAMLET",
+            "Fordo its own life: 'twas of some estate."
+        ],
+        [
+            "HAMLET",
+            "Couch we awhile, and mark.",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "LAERTES",
+            "What ceremony else?",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "HAMLET",
+            "That is Laertes,"
+        ],
+        [
+            "HAMLET",
+            "A very noble youth: mark."
+        ],
+        [
+            "LAERTES",
+            "What ceremony else?"
+        ],
+        [
+            "First Priest",
+            "Her obsequies have been as far enlarged"
+        ],
+        [
+            "First Priest",
+            "As we have warrantise: her death was doubtful;"
+        ],
+        [
+            "First Priest",
+            "And, but that great command o'ersways the order,"
+        ],
+        [
+            "First Priest",
+            "She should in ground unsanctified have lodged"
+        ],
+        [
+            "First Priest",
+            "Till the last trumpet: for charitable prayers,"
+        ],
+        [
+            "First Priest",
+            "Shards, flints and pebbles should be thrown on her;"
+        ],
+        [
+            "First Priest",
+            "Yet here she is allow'd her virgin crants,"
+        ],
+        [
+            "First Priest",
+            "Her maiden strewments and the bringing home"
+        ],
+        [
+            "First Priest",
+            "Of bell and burial."
+        ],
+        [
+            "LAERTES",
+            "Must there no more be done?"
+        ],
+        [
+            "First Priest",
+            "No more be done:"
+        ],
+        [
+            "First Priest",
+            "We should profane the service of the dead"
+        ],
+        [
+            "First Priest",
+            "To sing a requiem and such rest to her"
+        ],
+        [
+            "First Priest",
+            "As to peace-parted souls."
+        ],
+        [
+            "LAERTES",
+            "Lay her i' the earth:"
+        ],
+        [
+            "LAERTES",
+            "And from her fair and unpolluted flesh"
+        ],
+        [
+            "LAERTES",
+            "May violets spring! I tell thee, churlish priest,"
+        ],
+        [
+            "LAERTES",
+            "A ministering angel shall my sister be,"
+        ],
+        [
+            "LAERTES",
+            "When thou liest howling."
+        ],
+        [
+            "HAMLET",
+            "What, the fair Ophelia!"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Sweets to the sweet: farewell!"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "I hoped thou shouldst have been my Hamlet's wife;"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "I thought thy bride-bed to have deck'd, sweet maid,"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "And not have strew'd thy grave.",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "LAERTES",
+            "O, treble woe",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "LAERTES",
+            "Fall ten times treble on that cursed head,"
+        ],
+        [
+            "LAERTES",
+            "Whose wicked deed thy most ingenious sense"
+        ],
+        [
+            "LAERTES",
+            "Deprived thee of! Hold off the earth awhile,"
+        ],
+        [
+            "LAERTES",
+            "Till I have caught her once more in mine arms:"
+        ],
+        [
+            "LAERTES",
+            "Now pile your dust upon the quick and dead,"
+        ],
+        [
+            "LAERTES",
+            "Till of this flat a mountain you have made,"
+        ],
+        [
+            "LAERTES",
+            "To o'ertop old Pelion, or the skyish head"
+        ],
+        [
+            "LAERTES",
+            "Of blue Olympus.",
+            {
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "HAMLET",
+            "[Advancing] What is he whose grief",
+            {
+                "preceding_direction_line": "11"
+            }
+        ],
+        [
+            "HAMLET",
+            "Bears such an emphasis? whose phrase of sorrow"
+        ],
+        [
+            "HAMLET",
+            "Conjures the wandering stars, and makes them stand"
+        ],
+        [
+            "HAMLET",
+            "Like wonder-wounded hearers? This is I,"
+        ],
+        [
+            "HAMLET",
+            "Hamlet the Dane.",
+            {
+                "following_direction_line": "12"
+            }
+        ],
+        [
+            "LAERTES",
+            "The devil take thy soul!",
+            {
+                "preceding_direction_line": "12"
+            },
+            {
+                "following_direction_line": "13"
+            }
+        ],
+        [
+            "HAMLET",
+            "Thou pray'st not well.",
+            {
+                "preceding_direction_line": "13"
+            }
+        ],
+        [
+            "HAMLET",
+            "I prithee, take thy fingers from my throat;"
+        ],
+        [
+            "HAMLET",
+            "For, though I am not splenitive and rash,"
+        ],
+        [
+            "HAMLET",
+            "Yet have I something in me dangerous,"
+        ],
+        [
+            "HAMLET",
+            "Which let thy wiseness fear: hold off thy hand."
+        ],
+        [
+            "KING CLAUDIUS",
+            "Pluck them asunder."
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Hamlet, Hamlet!"
+        ],
+        [
+            "All",
+            "Gentlemen,--"
+        ],
+        [
+            "HORATIO",
+            "Good my lord, be quiet.",
+            {
+                "following_direction_line": "14"
+            }
+        ],
+        [
+            "HAMLET",
+            "Why I will fight with him upon this theme",
+            {
+                "preceding_direction_line": "14"
+            }
+        ],
+        [
+            "HAMLET",
+            "Until my eyelids will no longer wag."
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "O my son, what theme?"
+        ],
+        [
+            "HAMLET",
+            "I loved Ophelia: forty thousand brothers"
+        ],
+        [
+            "HAMLET",
+            "Could not, with all their quantity of love,"
+        ],
+        [
+            "HAMLET",
+            "Make up my sum. What wilt thou do for her?"
+        ],
+        [
+            "KING CLAUDIUS",
+            "O, he is mad, Laertes."
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "For love of God, forbear him."
+        ],
+        [
+            "HAMLET",
+            "'Swounds, show me what thou'lt do:"
+        ],
+        [
+            "HAMLET",
+            "Woo't weep? woo't fight? woo't fast? woo't tear thyself?"
+        ],
+        [
+            "HAMLET",
+            "Woo't drink up eisel? eat a crocodile?"
+        ],
+        [
+            "HAMLET",
+            "I'll do't. Dost thou come here to whine?"
+        ],
+        [
+            "HAMLET",
+            "To outface me with leaping in her grave?"
+        ],
+        [
+            "HAMLET",
+            "Be buried quick with her, and so will I:"
+        ],
+        [
+            "HAMLET",
+            "And, if thou prate of mountains, let them throw"
+        ],
+        [
+            "HAMLET",
+            "Millions of acres on us, till our ground,"
+        ],
+        [
+            "HAMLET",
+            "Singeing his pate against the burning zone,"
+        ],
+        [
+            "HAMLET",
+            "Make Ossa like a wart! Nay, an thou'lt mouth,"
+        ],
+        [
+            "HAMLET",
+            "I'll rant as well as thou."
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "This is mere madness:"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "And thus awhile the fit will work on him;"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Anon, as patient as the female dove,"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "When that her golden couplets are disclosed,"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "His silence will sit drooping."
+        ],
+        [
+            "HAMLET",
+            "Hear you, sir;"
+        ],
+        [
+            "HAMLET",
+            "What is the reason that you use me thus?"
+        ],
+        [
+            "HAMLET",
+            "I loved you ever: but it is no matter;"
+        ],
+        [
+            "HAMLET",
+            "Let Hercules himself do what he may,"
+        ],
+        [
+            "HAMLET",
+            "The cat will mew and dog will have his day.",
+            {
+                "following_direction_line": "15"
+            }
+        ],
+        [
+            "KING CLAUDIUS",
+            "I pray you, good Horatio, wait upon him.",
+            {
+                "preceding_direction_line": "15"
+            }
+        ],
+        [
+            "KING CLAUDIUS",
+            "Strengthen your patience in our last night's speech;"
+        ],
+        [
+            "KING CLAUDIUS",
+            "We'll put the matter to the present push."
+        ],
+        [
+            "KING CLAUDIUS",
+            "Good Gertrude, set some watch over your son."
+        ],
+        [
+            "KING CLAUDIUS",
+            "This grave shall have a living monument:"
+        ],
+        [
+            "KING CLAUDIUS",
+            "An hour of quiet shortly shall we see;"
+        ],
+        [
+            "KING CLAUDIUS",
+            "Till then, in patience our proceeding be.",
+            {
+                "following_direction_line": "16"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter two Clowns, with spades, and c"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter HAMLET and HORATIO, at a distance"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit Second Clown. He digs and sings"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Throws up a skull"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Throws up another skull"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Sings"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Takes the skull"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Puts down the skull"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Enter Priest, and c. in procession; the Corpse of OPHELIA, LAERTES and Mourners following; KING CLAUDIUS, QUEEN GERTRUDE, their trains, and c. Retiring with HORATIO"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Scattering flowers"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "Leaps into the grave"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Leaps into the grave"
+        ],
+        [
+            "_DIRECTION",
+            "D13",
+            "Grappling with him"
+        ],
+        [
+            "_DIRECTION",
+            "D14",
+            "The Attendants part them, and they come out of the grave"
+        ],
+        [
+            "_DIRECTION",
+            "D15",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D16",
+            "Exit HORATIO. To LAERTES. Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "First Clown": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "6",
+                "7"
+            ],
+            [
+                "9",
+                "13"
+            ],
+            [
+                "15",
+                "20"
+            ],
+            [
+                "22",
+                "22"
+            ],
+            [
+                "26",
+                "31"
+            ],
+            [
+                "33",
+                "33"
+            ],
+            [
+                "35",
+                "39"
+            ],
+            [
+                "41",
+                "42"
+            ],
+            [
+                "45",
+                "49"
+            ],
+            [
+                "52",
+                "52"
+            ],
+            [
+                "54",
+                "54"
+            ],
+            [
+                "56",
+                "65"
+            ],
+            [
+                "71",
+                "75"
+            ],
+            [
+                "93",
+                "97"
+            ],
+            [
+                "119",
+                "121"
+            ],
+            [
+                "123",
+                "124"
+            ],
+            [
+                "127",
+                "128"
+            ],
+            [
+                "130",
+                "130"
+            ],
+            [
+                "132",
+                "132"
+            ],
+            [
+                "134",
+                "134"
+            ],
+            [
+                "142",
+                "143"
+            ],
+            [
+                "145",
+                "147"
+            ],
+            [
+                "149",
+                "150"
+            ],
+            [
+                "152",
+                "153"
+            ],
+            [
+                "155",
+                "155"
+            ],
+            [
+                "157",
+                "157"
+            ],
+            [
+                "159",
+                "160"
+            ],
+            [
+                "162",
+                "165"
+            ],
+            [
+                "167",
+                "171"
+            ],
+            [
+                "173",
+                "173"
+            ],
+            [
+                "175",
+                "177"
+            ],
+            [
+                "179",
+                "179"
+            ]
+        ],
+        "Second Clown": [
+            [
+                "3",
+                "5"
+            ],
+            [
+                "8",
+                "8"
+            ],
+            [
+                "14",
+                "14"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "23",
+                "25"
+            ],
+            [
+                "32",
+                "32"
+            ],
+            [
+                "34",
+                "34"
+            ],
+            [
+                "40",
+                "40"
+            ],
+            [
+                "43",
+                "44"
+            ],
+            [
+                "50",
+                "51"
+            ],
+            [
+                "53",
+                "53"
+            ],
+            [
+                "55",
+                "55"
+            ]
+        ],
+        "HAMLET": [
+            [
+                "66",
+                "67"
+            ],
+            [
+                "69",
+                "70"
+            ],
+            [
+                "76",
+                "81"
+            ],
+            [
+                "83",
+                "86"
+            ],
+            [
+                "88",
+                "92"
+            ],
+            [
+                "98",
+                "112"
+            ],
+            [
+                "114",
+                "114"
+            ],
+            [
+                "116",
+                "118"
+            ],
+            [
+                "122",
+                "122"
+            ],
+            [
+                "125",
+                "126"
+            ],
+            [
+                "129",
+                "129"
+            ],
+            [
+                "131",
+                "131"
+            ],
+            [
+                "133",
+                "133"
+            ],
+            [
+                "135",
+                "141"
+            ],
+            [
+                "144",
+                "144"
+            ],
+            [
+                "148",
+                "148"
+            ],
+            [
+                "151",
+                "151"
+            ],
+            [
+                "154",
+                "154"
+            ],
+            [
+                "156",
+                "156"
+            ],
+            [
+                "158",
+                "158"
+            ],
+            [
+                "161",
+                "161"
+            ],
+            [
+                "166",
+                "166"
+            ],
+            [
+                "172",
+                "172"
+            ],
+            [
+                "174",
+                "174"
+            ],
+            [
+                "178",
+                "178"
+            ],
+            [
+                "180",
+                "193"
+            ],
+            [
+                "195",
+                "196"
+            ],
+            [
+                "198",
+                "198"
+            ],
+            [
+                "200",
+                "202"
+            ],
+            [
+                "204",
+                "219"
+            ],
+            [
+                "221",
+                "222"
+            ],
+            [
+                "243",
+                "243"
+            ],
+            [
+                "257",
+                "261"
+            ],
+            [
+                "263",
+                "267"
+            ],
+            [
+                "272",
+                "273"
+            ],
+            [
+                "275",
+                "277"
+            ],
+            [
+                "280",
+                "290"
+            ],
+            [
+                "296",
+                "300"
+            ]
+        ],
+        "HORATIO": [
+            [
+                "68",
+                "68"
+            ],
+            [
+                "82",
+                "82"
+            ],
+            [
+                "87",
+                "87"
+            ],
+            [
+                "113",
+                "113"
+            ],
+            [
+                "115",
+                "115"
+            ],
+            [
+                "194",
+                "194"
+            ],
+            [
+                "197",
+                "197"
+            ],
+            [
+                "199",
+                "199"
+            ],
+            [
+                "203",
+                "203"
+            ],
+            [
+                "271",
+                "271"
+            ]
+        ],
+        "LAERTES": [
+            [
+                "220",
+                "220"
+            ],
+            [
+                "223",
+                "223"
+            ],
+            [
+                "233",
+                "233"
+            ],
+            [
+                "238",
+                "242"
+            ],
+            [
+                "248",
+                "256"
+            ],
+            [
+                "262",
+                "262"
+            ]
+        ],
+        "First Priest": [
+            [
+                "224",
+                "232"
+            ],
+            [
+                "234",
+                "237"
+            ]
+        ],
+        "QUEEN GERTRUDE": [
+            [
+                "244",
+                "247"
+            ],
+            [
+                "269",
+                "269"
+            ],
+            [
+                "274",
+                "274"
+            ],
+            [
+                "279",
+                "279"
+            ],
+            [
+                "291",
+                "295"
+            ]
+        ],
+        "KING CLAUDIUS": [
+            [
+                "268",
+                "268"
+            ],
+            [
+                "278",
+                "278"
+            ],
+            [
+                "301",
+                "307"
+            ]
+        ],
+        "All": [
+            [
+                "270",
+                "270"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "A churchyard."
+}

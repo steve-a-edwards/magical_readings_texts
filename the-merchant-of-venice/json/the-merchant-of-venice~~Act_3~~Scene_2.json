@@ -1,0 +1,1620 @@
+{
+    "scene_id": "the merchant of venice~~Act_3~~Scene_2",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "PORTIA",
+            "I pray you, tarry: pause a day or two",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "PORTIA",
+            "Before you hazard; for, in choosing wrong,"
+        ],
+        [
+            "PORTIA",
+            "I lose your company: therefore forbear awhile."
+        ],
+        [
+            "PORTIA",
+            "There's something tells me, but it is not love,"
+        ],
+        [
+            "PORTIA",
+            "I would not lose you; and you know yourself,"
+        ],
+        [
+            "PORTIA",
+            "Hate counsels not in such a quality."
+        ],
+        [
+            "PORTIA",
+            "But lest you should not understand me well,--"
+        ],
+        [
+            "PORTIA",
+            "And yet a maiden hath no tongue but thought,--"
+        ],
+        [
+            "PORTIA",
+            "I would detain you here some month or two"
+        ],
+        [
+            "PORTIA",
+            "Before you venture for me. I could teach you"
+        ],
+        [
+            "PORTIA",
+            "How to choose right, but I am then forsworn;"
+        ],
+        [
+            "PORTIA",
+            "So will I never be: so may you miss me;"
+        ],
+        [
+            "PORTIA",
+            "But if you do, you'll make me wish a sin,"
+        ],
+        [
+            "PORTIA",
+            "That I had been forsworn. Beshrew your eyes,"
+        ],
+        [
+            "PORTIA",
+            "They have o'erlook'd me and divided me;"
+        ],
+        [
+            "PORTIA",
+            "One half of me is yours, the other half yours,"
+        ],
+        [
+            "PORTIA",
+            "Mine own, I would say; but if mine, then yours,"
+        ],
+        [
+            "PORTIA",
+            "And so all yours. O, these naughty times"
+        ],
+        [
+            "PORTIA",
+            "Put bars between the owners and their rights!"
+        ],
+        [
+            "PORTIA",
+            "And so, though yours, not yours. Prove it so,"
+        ],
+        [
+            "PORTIA",
+            "Let fortune go to hell for it, not I."
+        ],
+        [
+            "PORTIA",
+            "I speak too long; but 'tis to peize the time,"
+        ],
+        [
+            "PORTIA",
+            "To eke it and to draw it out in length,"
+        ],
+        [
+            "PORTIA",
+            "To stay you from election."
+        ],
+        [
+            "BASSANIO",
+            "Let me choose"
+        ],
+        [
+            "BASSANIO",
+            "For as I am, I live upon the rack."
+        ],
+        [
+            "PORTIA",
+            "Upon the rack, Bassanio! then confess"
+        ],
+        [
+            "PORTIA",
+            "What treason there is mingled with your love."
+        ],
+        [
+            "BASSANIO",
+            "None but that ugly treason of mistrust,"
+        ],
+        [
+            "BASSANIO",
+            "Which makes me fear the enjoying of my love:"
+        ],
+        [
+            "BASSANIO",
+            "There may as well be amity and life"
+        ],
+        [
+            "BASSANIO",
+            "'Tween snow and fire, as treason and my love."
+        ],
+        [
+            "PORTIA",
+            "Ay, but I fear you speak upon the rack,"
+        ],
+        [
+            "PORTIA",
+            "Where men enforced do speak anything."
+        ],
+        [
+            "BASSANIO",
+            "Promise me life, and I'll confess the truth."
+        ],
+        [
+            "PORTIA",
+            "Well then, confess and live."
+        ],
+        [
+            "BASSANIO",
+            "'Confess' and 'love'"
+        ],
+        [
+            "BASSANIO",
+            "Had been the very sum of my confession:"
+        ],
+        [
+            "BASSANIO",
+            "O happy torment, when my torturer"
+        ],
+        [
+            "BASSANIO",
+            "Doth teach me answers for deliverance!"
+        ],
+        [
+            "BASSANIO",
+            "But let me to my fortune and the caskets."
+        ],
+        [
+            "PORTIA",
+            "Away, then! I am lock'd in one of them:"
+        ],
+        [
+            "PORTIA",
+            "If you do love me, you will find me out."
+        ],
+        [
+            "PORTIA",
+            "Nerissa and the rest, stand all aloof."
+        ],
+        [
+            "PORTIA",
+            "Let music sound while he doth make his choice;"
+        ],
+        [
+            "PORTIA",
+            "Then, if he lose, he makes a swan-like end,"
+        ],
+        [
+            "PORTIA",
+            "Fading in music: that the comparison"
+        ],
+        [
+            "PORTIA",
+            "May stand more proper, my eye shall be the stream"
+        ],
+        [
+            "PORTIA",
+            "And watery death-bed for him. He may win;"
+        ],
+        [
+            "PORTIA",
+            "And what is music then? Then music is"
+        ],
+        [
+            "PORTIA",
+            "Even as the flourish when true subjects bow"
+        ],
+        [
+            "PORTIA",
+            "To a new-crowned monarch: such it is"
+        ],
+        [
+            "PORTIA",
+            "As are those dulcet sounds in break of day"
+        ],
+        [
+            "PORTIA",
+            "That creep into the dreaming bridegroom's ear,"
+        ],
+        [
+            "PORTIA",
+            "And summon him to marriage. Now he goes,"
+        ],
+        [
+            "PORTIA",
+            "With no less presence, but with much more love,"
+        ],
+        [
+            "PORTIA",
+            "Than young Alcides, when he did redeem"
+        ],
+        [
+            "PORTIA",
+            "The virgin tribute paid by howling Troy"
+        ],
+        [
+            "PORTIA",
+            "To the sea-monster: I stand for sacrifice"
+        ],
+        [
+            "PORTIA",
+            "The rest aloof are the Dardanian wives,"
+        ],
+        [
+            "PORTIA",
+            "With bleared visages, come forth to view"
+        ],
+        [
+            "PORTIA",
+            "The issue of the exploit. Go, Hercules!"
+        ],
+        [
+            "PORTIA",
+            "Live thou, I live: with much, much more dismay"
+        ],
+        [
+            "PORTIA",
+            "I view the fight than thou that makest the fray."
+        ],
+        [
+            "PORTIA",
+            "SONG."
+        ],
+        [
+            "PORTIA",
+            "Tell me where is fancy bred,"
+        ],
+        [
+            "PORTIA",
+            "Or in the heart, or in the head?"
+        ],
+        [
+            "PORTIA",
+            "How begot, how nourished?"
+        ],
+        [
+            "PORTIA",
+            "Reply, reply."
+        ],
+        [
+            "PORTIA",
+            "It is engender'd in the eyes,"
+        ],
+        [
+            "PORTIA",
+            "With gazing fed; and fancy dies"
+        ],
+        [
+            "PORTIA",
+            "In the cradle where it lies."
+        ],
+        [
+            "PORTIA",
+            "Let us all ring fancy's knell"
+        ],
+        [
+            "PORTIA",
+            "I'll begin it,--Ding, dong, bell.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "ALL",
+            "Ding, dong, bell.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "BASSANIO",
+            "So may the outward shows be least themselves:"
+        ],
+        [
+            "BASSANIO",
+            "The world is still deceived with ornament."
+        ],
+        [
+            "BASSANIO",
+            "In law, what plea so tainted and corrupt,"
+        ],
+        [
+            "BASSANIO",
+            "But, being seasoned with a gracious voice,"
+        ],
+        [
+            "BASSANIO",
+            "Obscures the show of evil? In religion,"
+        ],
+        [
+            "BASSANIO",
+            "What damned error, but some sober brow"
+        ],
+        [
+            "BASSANIO",
+            "Will bless it and approve it with a text,"
+        ],
+        [
+            "BASSANIO",
+            "Hiding the grossness with fair ornament?"
+        ],
+        [
+            "BASSANIO",
+            "There is no vice so simple but assumes"
+        ],
+        [
+            "BASSANIO",
+            "Some mark of virtue on his outward parts:"
+        ],
+        [
+            "BASSANIO",
+            "How many cowards, whose hearts are all as false"
+        ],
+        [
+            "BASSANIO",
+            "As stairs of sand, wear yet upon their chins"
+        ],
+        [
+            "BASSANIO",
+            "The beards of Hercules and frowning Mars;"
+        ],
+        [
+            "BASSANIO",
+            "Who, inward search'd, have livers white as milk;"
+        ],
+        [
+            "BASSANIO",
+            "And these assume but valour's excrement"
+        ],
+        [
+            "BASSANIO",
+            "To render them redoubted! Look on beauty,"
+        ],
+        [
+            "BASSANIO",
+            "And you shall see 'tis purchased by the weight;"
+        ],
+        [
+            "BASSANIO",
+            "Which therein works a miracle in nature,"
+        ],
+        [
+            "BASSANIO",
+            "Making them lightest that wear most of it:"
+        ],
+        [
+            "BASSANIO",
+            "So are those crisped snaky golden locks"
+        ],
+        [
+            "BASSANIO",
+            "Which make such wanton gambols with the wind,"
+        ],
+        [
+            "BASSANIO",
+            "Upon supposed fairness, often known"
+        ],
+        [
+            "BASSANIO",
+            "To be the dowry of a second head,"
+        ],
+        [
+            "BASSANIO",
+            "The skull that bred them in the sepulchre."
+        ],
+        [
+            "BASSANIO",
+            "Thus ornament is but the guiled shore"
+        ],
+        [
+            "BASSANIO",
+            "To a most dangerous sea; the beauteous scarf"
+        ],
+        [
+            "BASSANIO",
+            "Veiling an Indian beauty; in a word,"
+        ],
+        [
+            "BASSANIO",
+            "The seeming truth which cunning times put on"
+        ],
+        [
+            "BASSANIO",
+            "To entrap the wisest. Therefore, thou gaudy gold,"
+        ],
+        [
+            "BASSANIO",
+            "Hard food for Midas, I will none of thee;"
+        ],
+        [
+            "BASSANIO",
+            "Nor none of thee, thou pale and common drudge"
+        ],
+        [
+            "BASSANIO",
+            "'Tween man and man: but thou, thou meagre lead,"
+        ],
+        [
+            "BASSANIO",
+            "Which rather threatenest than dost promise aught,"
+        ],
+        [
+            "BASSANIO",
+            "Thy paleness moves me more than eloquence;"
+        ],
+        [
+            "BASSANIO",
+            "And here choose I; joy be the consequence!"
+        ],
+        [
+            "PORTIA",
+            "[Aside] How all the other passions fleet to air,"
+        ],
+        [
+            "PORTIA",
+            "As doubtful thoughts, and rash-embraced despair,"
+        ],
+        [
+            "PORTIA",
+            "And shuddering fear, and green-eyed jealousy! O love,"
+        ],
+        [
+            "PORTIA",
+            "Be moderate; allay thy ecstasy,"
+        ],
+        [
+            "PORTIA",
+            "In measure rein thy joy; scant this excess."
+        ],
+        [
+            "PORTIA",
+            "I feel too much thy blessing: make it less,"
+        ],
+        [
+            "PORTIA",
+            "For fear I surfeit."
+        ],
+        [
+            "BASSANIO",
+            "What find I here?"
+        ],
+        [
+            "BASSANIO",
+            "Fair Portia's counterfeit! What demi-god"
+        ],
+        [
+            "BASSANIO",
+            "Hath come so near creation? Move these eyes?"
+        ],
+        [
+            "BASSANIO",
+            "Or whether, riding on the balls of mine,"
+        ],
+        [
+            "BASSANIO",
+            "Seem they in motion? Here are sever'd lips,"
+        ],
+        [
+            "BASSANIO",
+            "Parted with sugar breath: so sweet a bar"
+        ],
+        [
+            "BASSANIO",
+            "Should sunder such sweet friends. Here in her hairs"
+        ],
+        [
+            "BASSANIO",
+            "The painter plays the spider and hath woven"
+        ],
+        [
+            "BASSANIO",
+            "A golden mesh to entrap the hearts of men,"
+        ],
+        [
+            "BASSANIO",
+            "Faster than gnats in cobwebs; but her eyes,--"
+        ],
+        [
+            "BASSANIO",
+            "How could he see to do them? having made one,"
+        ],
+        [
+            "BASSANIO",
+            "Methinks it should have power to steal both his"
+        ],
+        [
+            "BASSANIO",
+            "And leave itself unfurnish'd. Yet look, how far"
+        ],
+        [
+            "BASSANIO",
+            "The substance of my praise doth wrong this shadow"
+        ],
+        [
+            "BASSANIO",
+            "In underprizing it, so far this shadow"
+        ],
+        [
+            "BASSANIO",
+            "Doth limp behind the substance. Here's the scroll,"
+        ],
+        [
+            "BASSANIO",
+            "The continent and summary of my fortune."
+        ],
+        [
+            "BASSANIO",
+            "You that choose not by the view,"
+        ],
+        [
+            "BASSANIO",
+            "Chance as fair and choose as true!"
+        ],
+        [
+            "BASSANIO",
+            "Since this fortune falls to you,"
+        ],
+        [
+            "BASSANIO",
+            "Be content and seek no new,"
+        ],
+        [
+            "BASSANIO",
+            "If you be well pleased with this"
+        ],
+        [
+            "BASSANIO",
+            "And hold your fortune for your bliss,"
+        ],
+        [
+            "BASSANIO",
+            "Turn you where your lady is"
+        ],
+        [
+            "BASSANIO",
+            "And claim her with a loving kiss."
+        ],
+        [
+            "BASSANIO",
+            "A gentle scroll. Fair lady, by your leave;"
+        ],
+        [
+            "BASSANIO",
+            "I come by note, to give and to receive."
+        ],
+        [
+            "BASSANIO",
+            "Like one of two contending in a prize,"
+        ],
+        [
+            "BASSANIO",
+            "That thinks he hath done well in people's eyes,"
+        ],
+        [
+            "BASSANIO",
+            "Hearing applause and universal shout,"
+        ],
+        [
+            "BASSANIO",
+            "Giddy in spirit, still gazing in a doubt"
+        ],
+        [
+            "BASSANIO",
+            "Whether these pearls of praise be his or no;"
+        ],
+        [
+            "BASSANIO",
+            "So, thrice fair lady, stand I, even so;"
+        ],
+        [
+            "BASSANIO",
+            "As doubtful whether what I see be true,"
+        ],
+        [
+            "BASSANIO",
+            "Until confirm'd, sign'd, ratified by you.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "PORTIA",
+            "You see me, Lord Bassanio, where I stand,",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "PORTIA",
+            "Such as I am: though for myself alone"
+        ],
+        [
+            "PORTIA",
+            "I would not be ambitious in my wish,"
+        ],
+        [
+            "PORTIA",
+            "To wish myself much better; yet, for you"
+        ],
+        [
+            "PORTIA",
+            "I would be trebled twenty times myself;"
+        ],
+        [
+            "PORTIA",
+            "A thousand times more fair, ten thousand times more rich;"
+        ],
+        [
+            "PORTIA",
+            "That only to stand high in your account,"
+        ],
+        [
+            "PORTIA",
+            "I might in virtue, beauties, livings, friends,"
+        ],
+        [
+            "PORTIA",
+            "Exceed account; but the full sum of me"
+        ],
+        [
+            "PORTIA",
+            "Is sum of something, which, to term in gross,"
+        ],
+        [
+            "PORTIA",
+            "Is an unlesson'd girl, unschool'd, unpractised;"
+        ],
+        [
+            "PORTIA",
+            "Happy in this, she is not yet so old"
+        ],
+        [
+            "PORTIA",
+            "But she may learn; happier than this,"
+        ],
+        [
+            "PORTIA",
+            "She is not bred so dull but she can learn;"
+        ],
+        [
+            "PORTIA",
+            "Happiest of all is that her gentle spirit"
+        ],
+        [
+            "PORTIA",
+            "Commits itself to yours to be directed,"
+        ],
+        [
+            "PORTIA",
+            "As from her lord, her governor, her king."
+        ],
+        [
+            "PORTIA",
+            "Myself and what is mine to you and yours"
+        ],
+        [
+            "PORTIA",
+            "Is now converted: but now I was the lord"
+        ],
+        [
+            "PORTIA",
+            "Of this fair mansion, master of my servants,"
+        ],
+        [
+            "PORTIA",
+            "Queen o'er myself: and even now, but now,"
+        ],
+        [
+            "PORTIA",
+            "This house, these servants and this same myself"
+        ],
+        [
+            "PORTIA",
+            "Are yours, my lord: I give them with this ring;"
+        ],
+        [
+            "PORTIA",
+            "Which when you part from, lose, or give away,"
+        ],
+        [
+            "PORTIA",
+            "Let it presage the ruin of your love"
+        ],
+        [
+            "PORTIA",
+            "And be my vantage to exclaim on you."
+        ],
+        [
+            "BASSANIO",
+            "Madam, you have bereft me of all words,"
+        ],
+        [
+            "BASSANIO",
+            "Only my blood speaks to you in my veins;"
+        ],
+        [
+            "BASSANIO",
+            "And there is such confusion in my powers,"
+        ],
+        [
+            "BASSANIO",
+            "As after some oration fairly spoke"
+        ],
+        [
+            "BASSANIO",
+            "By a beloved prince, there doth appear"
+        ],
+        [
+            "BASSANIO",
+            "Among the buzzing pleased multitude;"
+        ],
+        [
+            "BASSANIO",
+            "Where every something, being blent together,"
+        ],
+        [
+            "BASSANIO",
+            "Turns to a wild of nothing, save of joy,"
+        ],
+        [
+            "BASSANIO",
+            "Express'd and not express'd. But when this ring"
+        ],
+        [
+            "BASSANIO",
+            "Parts from this finger, then parts life from hence:"
+        ],
+        [
+            "BASSANIO",
+            "O, then be bold to say Bassanio's dead!"
+        ],
+        [
+            "NERISSA",
+            "My lord and lady, it is now our time,"
+        ],
+        [
+            "NERISSA",
+            "That have stood by and seen our wishes prosper,"
+        ],
+        [
+            "NERISSA",
+            "To cry, good joy: good joy, my lord and lady!"
+        ],
+        [
+            "GRATIANO",
+            "My lord Bassanio and my gentle lady,"
+        ],
+        [
+            "GRATIANO",
+            "I wish you all the joy that you can wish;"
+        ],
+        [
+            "GRATIANO",
+            "For I am sure you can wish none from me:"
+        ],
+        [
+            "GRATIANO",
+            "And when your honours mean to solemnize"
+        ],
+        [
+            "GRATIANO",
+            "The bargain of your faith, I do beseech you,"
+        ],
+        [
+            "GRATIANO",
+            "Even at that time I may be married too."
+        ],
+        [
+            "BASSANIO",
+            "With all my heart, so thou canst get a wife."
+        ],
+        [
+            "GRATIANO",
+            "I thank your lordship, you have got me one."
+        ],
+        [
+            "GRATIANO",
+            "My eyes, my lord, can look as swift as yours:"
+        ],
+        [
+            "GRATIANO",
+            "You saw the mistress, I beheld the maid;"
+        ],
+        [
+            "GRATIANO",
+            "You loved, I loved for intermission."
+        ],
+        [
+            "GRATIANO",
+            "No more pertains to me, my lord, than you."
+        ],
+        [
+            "GRATIANO",
+            "Your fortune stood upon the casket there,"
+        ],
+        [
+            "GRATIANO",
+            "And so did mine too, as the matter falls;"
+        ],
+        [
+            "GRATIANO",
+            "For wooing here until I sweat again,"
+        ],
+        [
+            "GRATIANO",
+            "And sweating until my very roof was dry"
+        ],
+        [
+            "GRATIANO",
+            "With oaths of love, at last, if promise last,"
+        ],
+        [
+            "GRATIANO",
+            "I got a promise of this fair one here"
+        ],
+        [
+            "GRATIANO",
+            "To have her love, provided that your fortune"
+        ],
+        [
+            "GRATIANO",
+            "Achieved her mistress."
+        ],
+        [
+            "PORTIA",
+            "Is this true, Nerissa?"
+        ],
+        [
+            "NERISSA",
+            "Madam, it is, so you stand pleased withal."
+        ],
+        [
+            "BASSANIO",
+            "And do you, Gratiano, mean good faith?"
+        ],
+        [
+            "GRATIANO",
+            "Yes, faith, my lord."
+        ],
+        [
+            "BASSANIO",
+            "Our feast shall be much honour'd in your marriage."
+        ],
+        [
+            "GRATIANO",
+            "We'll play with them the first boy for a thousand ducats."
+        ],
+        [
+            "NERISSA",
+            "What, and stake down?"
+        ],
+        [
+            "GRATIANO",
+            "No; we shall ne'er win at that sport, and stake down."
+        ],
+        [
+            "GRATIANO",
+            "But who comes here? Lorenzo and his infidel? What,"
+        ],
+        [
+            "GRATIANO",
+            "and my old Venetian friend Salerio?",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "BASSANIO",
+            "Lorenzo and Salerio, welcome hither;",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "BASSANIO",
+            "If that the youth of my new interest here"
+        ],
+        [
+            "BASSANIO",
+            "Have power to bid you welcome. By your leave,"
+        ],
+        [
+            "BASSANIO",
+            "I bid my very friends and countrymen,"
+        ],
+        [
+            "BASSANIO",
+            "Sweet Portia, welcome."
+        ],
+        [
+            "PORTIA",
+            "So do I, my lord:"
+        ],
+        [
+            "PORTIA",
+            "They are entirely welcome."
+        ],
+        [
+            "LORENZO",
+            "I thank your honour. For my part, my lord,"
+        ],
+        [
+            "LORENZO",
+            "My purpose was not to have seen you here;"
+        ],
+        [
+            "LORENZO",
+            "But meeting with Salerio by the way,"
+        ],
+        [
+            "LORENZO",
+            "He did entreat me, past all saying nay,"
+        ],
+        [
+            "LORENZO",
+            "To come with him along."
+        ],
+        [
+            "SALERIO",
+            "I did, my lord;"
+        ],
+        [
+            "SALERIO",
+            "And I have reason for it. Signior Antonio"
+        ],
+        [
+            "SALERIO",
+            "Commends him to you.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "BASSANIO",
+            "Ere I ope his letter,",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "BASSANIO",
+            "I pray you, tell me how my good friend doth."
+        ],
+        [
+            "SALERIO",
+            "Not sick, my lord, unless it be in mind;"
+        ],
+        [
+            "SALERIO",
+            "Nor well, unless in mind: his letter there"
+        ],
+        [
+            "SALERIO",
+            "Will show you his estate."
+        ],
+        [
+            "GRATIANO",
+            "Nerissa, cheer yon stranger; bid her welcome."
+        ],
+        [
+            "GRATIANO",
+            "Your hand, Salerio: what's the news from Venice?"
+        ],
+        [
+            "GRATIANO",
+            "How doth that royal merchant, good Antonio?"
+        ],
+        [
+            "GRATIANO",
+            "I know he will be glad of our success;"
+        ],
+        [
+            "GRATIANO",
+            "We are the Jasons, we have won the fleece."
+        ],
+        [
+            "SALERIO",
+            "I would you had won the fleece that he hath lost."
+        ],
+        [
+            "PORTIA",
+            "There are some shrewd contents in yon same paper,"
+        ],
+        [
+            "PORTIA",
+            "That steals the colour from Bassanio's cheek:"
+        ],
+        [
+            "PORTIA",
+            "Some dear friend dead; else nothing in the world"
+        ],
+        [
+            "PORTIA",
+            "Could turn so much the constitution"
+        ],
+        [
+            "PORTIA",
+            "Of any constant man. What, worse and worse!"
+        ],
+        [
+            "PORTIA",
+            "With leave, Bassanio: I am half yourself,"
+        ],
+        [
+            "PORTIA",
+            "And I must freely have the half of anything"
+        ],
+        [
+            "PORTIA",
+            "That this same paper brings you."
+        ],
+        [
+            "BASSANIO",
+            "O sweet Portia,"
+        ],
+        [
+            "BASSANIO",
+            "Here are a few of the unpleasant'st words"
+        ],
+        [
+            "BASSANIO",
+            "That ever blotted paper! Gentle lady,"
+        ],
+        [
+            "BASSANIO",
+            "When I did first impart my love to you,"
+        ],
+        [
+            "BASSANIO",
+            "I freely told you, all the wealth I had"
+        ],
+        [
+            "BASSANIO",
+            "Ran in my veins, I was a gentleman;"
+        ],
+        [
+            "BASSANIO",
+            "And then I told you true: and yet, dear lady,"
+        ],
+        [
+            "BASSANIO",
+            "Rating myself at nothing, you shall see"
+        ],
+        [
+            "BASSANIO",
+            "How much I was a braggart. When I told you"
+        ],
+        [
+            "BASSANIO",
+            "My state was nothing, I should then have told you"
+        ],
+        [
+            "BASSANIO",
+            "That I was worse than nothing; for, indeed,"
+        ],
+        [
+            "BASSANIO",
+            "I have engaged myself to a dear friend,"
+        ],
+        [
+            "BASSANIO",
+            "Engaged my friend to his mere enemy,"
+        ],
+        [
+            "BASSANIO",
+            "To feed my means. Here is a letter, lady;"
+        ],
+        [
+            "BASSANIO",
+            "The paper as the body of my friend,"
+        ],
+        [
+            "BASSANIO",
+            "And every word in it a gaping wound,"
+        ],
+        [
+            "BASSANIO",
+            "Issuing life-blood. But is it true, Salerio?"
+        ],
+        [
+            "BASSANIO",
+            "Have all his ventures fail'd? What, not one hit?"
+        ],
+        [
+            "BASSANIO",
+            "From Tripolis, from Mexico and England,"
+        ],
+        [
+            "BASSANIO",
+            "From Lisbon, Barbary and India?"
+        ],
+        [
+            "BASSANIO",
+            "And not one vessel 'scape the dreadful touch"
+        ],
+        [
+            "BASSANIO",
+            "Of merchant-marring rocks?"
+        ],
+        [
+            "SALERIO",
+            "Not one, my lord."
+        ],
+        [
+            "SALERIO",
+            "Besides, it should appear, that if he had"
+        ],
+        [
+            "SALERIO",
+            "The present money to discharge the Jew,"
+        ],
+        [
+            "SALERIO",
+            "He would not take it. Never did I know"
+        ],
+        [
+            "SALERIO",
+            "A creature, that did bear the shape of man,"
+        ],
+        [
+            "SALERIO",
+            "So keen and greedy to confound a man:"
+        ],
+        [
+            "SALERIO",
+            "He plies the duke at morning and at night,"
+        ],
+        [
+            "SALERIO",
+            "And doth impeach the freedom of the state,"
+        ],
+        [
+            "SALERIO",
+            "If they deny him justice: twenty merchants,"
+        ],
+        [
+            "SALERIO",
+            "The duke himself, and the magnificoes"
+        ],
+        [
+            "SALERIO",
+            "Of greatest port, have all persuaded with him;"
+        ],
+        [
+            "SALERIO",
+            "But none can drive him from the envious plea"
+        ],
+        [
+            "SALERIO",
+            "Of forfeiture, of justice and his bond."
+        ],
+        [
+            "JESSICA",
+            "When I was with him I have heard him swear"
+        ],
+        [
+            "JESSICA",
+            "To Tubal and to Chus, his countrymen,"
+        ],
+        [
+            "JESSICA",
+            "That he would rather have Antonio's flesh"
+        ],
+        [
+            "JESSICA",
+            "Than twenty times the value of the sum"
+        ],
+        [
+            "JESSICA",
+            "That he did owe him: and I know, my lord,"
+        ],
+        [
+            "JESSICA",
+            "If law, authority and power deny not,"
+        ],
+        [
+            "JESSICA",
+            "It will go hard with poor Antonio."
+        ],
+        [
+            "PORTIA",
+            "Is it your dear friend that is thus in trouble?"
+        ],
+        [
+            "BASSANIO",
+            "The dearest friend to me, the kindest man,"
+        ],
+        [
+            "BASSANIO",
+            "The best-condition'd and unwearied spirit"
+        ],
+        [
+            "BASSANIO",
+            "In doing courtesies, and one in whom"
+        ],
+        [
+            "BASSANIO",
+            "The ancient Roman honour more appears"
+        ],
+        [
+            "BASSANIO",
+            "Than any that draws breath in Italy."
+        ],
+        [
+            "PORTIA",
+            "What sum owes he the Jew?"
+        ],
+        [
+            "BASSANIO",
+            "For me three thousand ducats."
+        ],
+        [
+            "PORTIA",
+            "What, no more?"
+        ],
+        [
+            "PORTIA",
+            "Pay him six thousand, and deface the bond;"
+        ],
+        [
+            "PORTIA",
+            "Double six thousand, and then treble that,"
+        ],
+        [
+            "PORTIA",
+            "Before a friend of this description"
+        ],
+        [
+            "PORTIA",
+            "Shall lose a hair through Bassanio's fault."
+        ],
+        [
+            "PORTIA",
+            "First go with me to church and call me wife,"
+        ],
+        [
+            "PORTIA",
+            "And then away to Venice to your friend;"
+        ],
+        [
+            "PORTIA",
+            "For never shall you lie by Portia's side"
+        ],
+        [
+            "PORTIA",
+            "With an unquiet soul. You shall have gold"
+        ],
+        [
+            "PORTIA",
+            "To pay the petty debt twenty times over:"
+        ],
+        [
+            "PORTIA",
+            "When it is paid, bring your true friend along."
+        ],
+        [
+            "PORTIA",
+            "My maid Nerissa and myself meantime"
+        ],
+        [
+            "PORTIA",
+            "Will live as maids and widows. Come, away!"
+        ],
+        [
+            "PORTIA",
+            "For you shall hence upon your wedding-day:"
+        ],
+        [
+            "PORTIA",
+            "Bid your friends welcome, show a merry cheer:"
+        ],
+        [
+            "PORTIA",
+            "Since you are dear bought, I will love you dear."
+        ],
+        [
+            "PORTIA",
+            "But let me hear the letter of your friend."
+        ],
+        [
+            "BASSANIO",
+            "[Reads] Sweet Bassanio, my ships have all"
+        ],
+        [
+            "BASSANIO",
+            "miscarried, my creditors grow cruel, my estate is"
+        ],
+        [
+            "BASSANIO",
+            "very low, my bond to the Jew is forfeit; and since"
+        ],
+        [
+            "BASSANIO",
+            "in paying it, it is impossible I should live, all"
+        ],
+        [
+            "BASSANIO",
+            "debts are cleared between you and I, if I might but"
+        ],
+        [
+            "BASSANIO",
+            "see you at my death. Notwithstanding, use your"
+        ],
+        [
+            "BASSANIO",
+            "pleasure: if your love do not persuade you to come,"
+        ],
+        [
+            "BASSANIO",
+            "let not my letter."
+        ],
+        [
+            "PORTIA",
+            "O love, dispatch all business, and be gone!"
+        ],
+        [
+            "BASSANIO",
+            "Since I have your good leave to go away,"
+        ],
+        [
+            "BASSANIO",
+            "I will make haste: but, till I come again,"
+        ],
+        [
+            "BASSANIO",
+            "No bed shall e'er be guilty of my stay,"
+        ],
+        [
+            "BASSANIO",
+            "No rest be interposer 'twixt us twain.",
+            {
+                "following_direction_line": "6"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter BASSANIO, PORTIA, GRATIANO, NERISSA, and Attendants"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Music, whilst BASSANIO comments on the caskets to himself"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Opening the leaden casket. Reads"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter LORENZO, JESSICA, and SALERIO, a Messenger from Venice"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Gives Bassanio a letter"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "PORTIA": [
+            [
+                "1",
+                "24"
+            ],
+            [
+                "27",
+                "28"
+            ],
+            [
+                "33",
+                "34"
+            ],
+            [
+                "36",
+                "36"
+            ],
+            [
+                "42",
+                "74"
+            ],
+            [
+                "111",
+                "117"
+            ],
+            [
+                "153",
+                "178"
+            ],
+            [
+                "213",
+                "213"
+            ],
+            [
+                "228",
+                "229"
+            ],
+            [
+                "249",
+                "256"
+            ],
+            [
+                "299",
+                "299"
+            ],
+            [
+                "305",
+                "305"
+            ],
+            [
+                "307",
+                "323"
+            ],
+            [
+                "332",
+                "332"
+            ]
+        ],
+        "BASSANIO": [
+            [
+                "25",
+                "26"
+            ],
+            [
+                "29",
+                "32"
+            ],
+            [
+                "35",
+                "35"
+            ],
+            [
+                "37",
+                "41"
+            ],
+            [
+                "76",
+                "110"
+            ],
+            [
+                "118",
+                "152"
+            ],
+            [
+                "179",
+                "189"
+            ],
+            [
+                "199",
+                "199"
+            ],
+            [
+                "215",
+                "215"
+            ],
+            [
+                "217",
+                "217"
+            ],
+            [
+                "223",
+                "227"
+            ],
+            [
+                "238",
+                "239"
+            ],
+            [
+                "257",
+                "278"
+            ],
+            [
+                "300",
+                "304"
+            ],
+            [
+                "306",
+                "306"
+            ],
+            [
+                "324",
+                "331"
+            ],
+            [
+                "333",
+                "336"
+            ]
+        ],
+        "ALL": [
+            [
+                "75",
+                "75"
+            ]
+        ],
+        "NERISSA": [
+            [
+                "190",
+                "192"
+            ],
+            [
+                "214",
+                "214"
+            ],
+            [
+                "219",
+                "219"
+            ]
+        ],
+        "GRATIANO": [
+            [
+                "193",
+                "198"
+            ],
+            [
+                "200",
+                "212"
+            ],
+            [
+                "216",
+                "216"
+            ],
+            [
+                "218",
+                "218"
+            ],
+            [
+                "220",
+                "222"
+            ],
+            [
+                "243",
+                "247"
+            ]
+        ],
+        "LORENZO": [
+            [
+                "230",
+                "234"
+            ]
+        ],
+        "SALERIO": [
+            [
+                "235",
+                "237"
+            ],
+            [
+                "240",
+                "242"
+            ],
+            [
+                "248",
+                "248"
+            ],
+            [
+                "279",
+                "291"
+            ]
+        ],
+        "JESSICA": [
+            [
+                "292",
+                "298"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "Belmont. A room in PORTIA'S house."
+}

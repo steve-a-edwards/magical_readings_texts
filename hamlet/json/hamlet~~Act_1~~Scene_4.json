@@ -1,0 +1,598 @@
+{
+    "scene_id": "hamlet~~Act_1~~Scene_4",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "HAMLET",
+            "The air bites shrewdly; it is very cold.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "HORATIO",
+            "It is a nipping and an eager air."
+        ],
+        [
+            "HAMLET",
+            "What hour now?"
+        ],
+        [
+            "HORATIO",
+            "I think it lacks of twelve."
+        ],
+        [
+            "HAMLET",
+            "No, it is struck."
+        ],
+        [
+            "HORATIO",
+            "Indeed? I heard it not: then it draws near the season"
+        ],
+        [
+            "HORATIO",
+            "Wherein the spirit held his wont to walk."
+        ],
+        [
+            "HORATIO",
+            "What does this mean, my lord?",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "HAMLET",
+            "The king doth wake to-night and takes his rouse,",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "HAMLET",
+            "Keeps wassail, and the swaggering up-spring reels;"
+        ],
+        [
+            "HAMLET",
+            "And, as he drains his draughts of Rhenish down,"
+        ],
+        [
+            "HAMLET",
+            "The kettle-drum and trumpet thus bray out"
+        ],
+        [
+            "HAMLET",
+            "The triumph of his pledge."
+        ],
+        [
+            "HORATIO",
+            "Is it a custom?"
+        ],
+        [
+            "HAMLET",
+            "Ay, marry, is't:"
+        ],
+        [
+            "HAMLET",
+            "But to my mind, though I am native here"
+        ],
+        [
+            "HAMLET",
+            "And to the manner born, it is a custom"
+        ],
+        [
+            "HAMLET",
+            "More honour'd in the breach than the observance."
+        ],
+        [
+            "HAMLET",
+            "This heavy-headed revel east and west"
+        ],
+        [
+            "HAMLET",
+            "Makes us traduced and tax'd of other nations:"
+        ],
+        [
+            "HAMLET",
+            "They clepe us drunkards, and with swinish phrase"
+        ],
+        [
+            "HAMLET",
+            "Soil our addition; and indeed it takes"
+        ],
+        [
+            "HAMLET",
+            "From our achievements, though perform'd at height,"
+        ],
+        [
+            "HAMLET",
+            "The pith and marrow of our attribute."
+        ],
+        [
+            "HAMLET",
+            "So, oft it chances in particular men,"
+        ],
+        [
+            "HAMLET",
+            "That for some vicious mole of nature in them,"
+        ],
+        [
+            "HAMLET",
+            "As, in their birth--wherein they are not guilty,"
+        ],
+        [
+            "HAMLET",
+            "Since nature cannot choose his origin--"
+        ],
+        [
+            "HAMLET",
+            "By the o'ergrowth of some complexion,"
+        ],
+        [
+            "HAMLET",
+            "Oft breaking down the pales and forts of reason,"
+        ],
+        [
+            "HAMLET",
+            "Or by some habit that too much o'er-leavens"
+        ],
+        [
+            "HAMLET",
+            "The form of plausive manners, that these men,"
+        ],
+        [
+            "HAMLET",
+            "Carrying, I say, the stamp of one defect,"
+        ],
+        [
+            "HAMLET",
+            "Being nature's livery, or fortune's star,--"
+        ],
+        [
+            "HAMLET",
+            "Their virtues else--be they as pure as grace,"
+        ],
+        [
+            "HAMLET",
+            "As infinite as man may undergo--"
+        ],
+        [
+            "HAMLET",
+            "Shall in the general censure take corruption"
+        ],
+        [
+            "HAMLET",
+            "From that particular fault: the dram of eale"
+        ],
+        [
+            "HAMLET",
+            "Doth all the noble substance of a doubt"
+        ],
+        [
+            "HAMLET",
+            "To his own scandal."
+        ],
+        [
+            "HORATIO",
+            "Look, my lord, it comes!",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "HAMLET",
+            "Angels and ministers of grace defend us!",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "HAMLET",
+            "Be thou a spirit of health or goblin damn'd,"
+        ],
+        [
+            "HAMLET",
+            "Bring with thee airs from heaven or blasts from hell,"
+        ],
+        [
+            "HAMLET",
+            "Be thy intents wicked or charitable,"
+        ],
+        [
+            "HAMLET",
+            "Thou comest in such a questionable shape"
+        ],
+        [
+            "HAMLET",
+            "That I will speak to thee: I'll call thee Hamlet,"
+        ],
+        [
+            "HAMLET",
+            "King, father, royal Dane: O, answer me!"
+        ],
+        [
+            "HAMLET",
+            "Let me not burst in ignorance; but tell"
+        ],
+        [
+            "HAMLET",
+            "Why thy canonized bones, hearsed in death,"
+        ],
+        [
+            "HAMLET",
+            "Have burst their cerements; why the sepulchre,"
+        ],
+        [
+            "HAMLET",
+            "Wherein we saw thee quietly inurn'd,"
+        ],
+        [
+            "HAMLET",
+            "Hath oped his ponderous and marble jaws,"
+        ],
+        [
+            "HAMLET",
+            "To cast thee up again. What may this mean,"
+        ],
+        [
+            "HAMLET",
+            "That thou, dead corse, again in complete steel"
+        ],
+        [
+            "HAMLET",
+            "Revisit'st thus the glimpses of the moon,"
+        ],
+        [
+            "HAMLET",
+            "Making night hideous; and we fools of nature"
+        ],
+        [
+            "HAMLET",
+            "So horridly to shake our disposition"
+        ],
+        [
+            "HAMLET",
+            "With thoughts beyond the reaches of our souls?"
+        ],
+        [
+            "HAMLET",
+            "Say, why is this? wherefore? what should we do?",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "HORATIO",
+            "It beckons you to go away with it,",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "HORATIO",
+            "As if it some impartment did desire"
+        ],
+        [
+            "HORATIO",
+            "To you alone."
+        ],
+        [
+            "MARCELLUS",
+            "Look, with what courteous action"
+        ],
+        [
+            "MARCELLUS",
+            "It waves you to a more removed ground:"
+        ],
+        [
+            "MARCELLUS",
+            "But do not go with it."
+        ],
+        [
+            "HORATIO",
+            "No, by no means."
+        ],
+        [
+            "HAMLET",
+            "It will not speak; then I will follow it."
+        ],
+        [
+            "HORATIO",
+            "Do not, my lord."
+        ],
+        [
+            "HAMLET",
+            "Why, what should be the fear?"
+        ],
+        [
+            "HAMLET",
+            "I do not set my life in a pin's fee;"
+        ],
+        [
+            "HAMLET",
+            "And for my soul, what can it do to that,"
+        ],
+        [
+            "HAMLET",
+            "Being a thing immortal as itself?"
+        ],
+        [
+            "HAMLET",
+            "It waves me forth again: I'll follow it."
+        ],
+        [
+            "HORATIO",
+            "What if it tempt you toward the flood, my lord,"
+        ],
+        [
+            "HORATIO",
+            "Or to the dreadful summit of the cliff"
+        ],
+        [
+            "HORATIO",
+            "That beetles o'er his base into the sea,"
+        ],
+        [
+            "HORATIO",
+            "And there assume some other horrible form,"
+        ],
+        [
+            "HORATIO",
+            "Which might deprive your sovereignty of reason"
+        ],
+        [
+            "HORATIO",
+            "And draw you into madness? think of it:"
+        ],
+        [
+            "HORATIO",
+            "The very place puts toys of desperation,"
+        ],
+        [
+            "HORATIO",
+            "Without more motive, into every brain"
+        ],
+        [
+            "HORATIO",
+            "That looks so many fathoms to the sea"
+        ],
+        [
+            "HORATIO",
+            "And hears it roar beneath."
+        ],
+        [
+            "HAMLET",
+            "It waves me still."
+        ],
+        [
+            "HAMLET",
+            "Go on; I'll follow thee."
+        ],
+        [
+            "MARCELLUS",
+            "You shall not go, my lord."
+        ],
+        [
+            "HAMLET",
+            "Hold off your hands."
+        ],
+        [
+            "HORATIO",
+            "Be ruled; you shall not go."
+        ],
+        [
+            "HAMLET",
+            "My fate cries out,"
+        ],
+        [
+            "HAMLET",
+            "And makes each petty artery in this body"
+        ],
+        [
+            "HAMLET",
+            "As hardy as the Nemean lion's nerve."
+        ],
+        [
+            "HAMLET",
+            "Still am I call'd. Unhand me, gentlemen."
+        ],
+        [
+            "HAMLET",
+            "By heaven, I'll make a ghost of him that lets me!"
+        ],
+        [
+            "HAMLET",
+            "I say, away! Go on; I'll follow thee.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "HORATIO",
+            "He waxes desperate with imagination.",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "MARCELLUS",
+            "Let's follow; 'tis not fit thus to obey him."
+        ],
+        [
+            "HORATIO",
+            "Have after. To what issue will this come?"
+        ],
+        [
+            "MARCELLUS",
+            "Something is rotten in the state of Denmark."
+        ],
+        [
+            "HORATIO",
+            "Heaven will direct it."
+        ],
+        [
+            "MARCELLUS",
+            "Nay, let's follow him.",
+            {
+                "following_direction_line": "6"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter HAMLET, HORATIO, and MARCELLUS"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "A flourish of trumpets, and ordnance shot off, within"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter Ghost"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Ghost beckons HAMLET"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt Ghost and HAMLET"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "HAMLET": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "3"
+            ],
+            [
+                "5",
+                "5"
+            ],
+            [
+                "9",
+                "13"
+            ],
+            [
+                "15",
+                "40"
+            ],
+            [
+                "42",
+                "60"
+            ],
+            [
+                "68",
+                "68"
+            ],
+            [
+                "70",
+                "74"
+            ],
+            [
+                "85",
+                "86"
+            ],
+            [
+                "88",
+                "88"
+            ],
+            [
+                "90",
+                "95"
+            ]
+        ],
+        "HORATIO": [
+            [
+                "2",
+                "2"
+            ],
+            [
+                "4",
+                "4"
+            ],
+            [
+                "6",
+                "8"
+            ],
+            [
+                "14",
+                "14"
+            ],
+            [
+                "41",
+                "41"
+            ],
+            [
+                "61",
+                "63"
+            ],
+            [
+                "67",
+                "67"
+            ],
+            [
+                "69",
+                "69"
+            ],
+            [
+                "75",
+                "84"
+            ],
+            [
+                "89",
+                "89"
+            ],
+            [
+                "96",
+                "96"
+            ],
+            [
+                "98",
+                "98"
+            ],
+            [
+                "100",
+                "100"
+            ]
+        ],
+        "MARCELLUS": [
+            [
+                "64",
+                "66"
+            ],
+            [
+                "87",
+                "87"
+            ],
+            [
+                "97",
+                "97"
+            ],
+            [
+                "99",
+                "99"
+            ],
+            [
+                "101",
+                "101"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IV",
+    "scene_description": "The platform."
+}

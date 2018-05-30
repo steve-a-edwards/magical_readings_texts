@@ -1,0 +1,235 @@
+{
+    "scene_id": "hamlet~~Act_4~~Scene_2",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "HAMLET",
+            "Safely stowed.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "GUILDENSTERN:",
+            "[Within] Hamlet! Lord Hamlet!"
+        ],
+        [
+            "HAMLET",
+            "What noise? who calls on Hamlet?"
+        ],
+        [
+            "HAMLET",
+            "O, here they come.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "ROSENCRANTZ",
+            "What have you done, my lord, with the dead body?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "HAMLET",
+            "Compounded it with dust, whereto 'tis kin."
+        ],
+        [
+            "ROSENCRANTZ",
+            "Tell us where 'tis, that we may take it thence"
+        ],
+        [
+            "ROSENCRANTZ",
+            "And bear it to the chapel."
+        ],
+        [
+            "HAMLET",
+            "Do not believe it."
+        ],
+        [
+            "ROSENCRANTZ",
+            "Believe what?"
+        ],
+        [
+            "HAMLET",
+            "That I can keep your counsel and not mine own."
+        ],
+        [
+            "HAMLET",
+            "Besides, to be demanded of a sponge! what"
+        ],
+        [
+            "HAMLET",
+            "replication should be made by the son of a king?"
+        ],
+        [
+            "ROSENCRANTZ",
+            "Take you me for a sponge, my lord?"
+        ],
+        [
+            "HAMLET",
+            "Ay, sir, that soaks up the king's countenance, his"
+        ],
+        [
+            "HAMLET",
+            "rewards, his authorities. But such officers do the"
+        ],
+        [
+            "HAMLET",
+            "king best service in the end: he keeps them, like"
+        ],
+        [
+            "HAMLET",
+            "an ape, in the corner of his jaw; first mouthed, to"
+        ],
+        [
+            "HAMLET",
+            "be last swallowed: when he needs what you have"
+        ],
+        [
+            "HAMLET",
+            "gleaned, it is but squeezing you, and, sponge, you"
+        ],
+        [
+            "HAMLET",
+            "shall be dry again."
+        ],
+        [
+            "ROSENCRANTZ",
+            "I understand you not, my lord."
+        ],
+        [
+            "HAMLET",
+            "I am glad of it: a knavish speech sleeps in a"
+        ],
+        [
+            "HAMLET",
+            "foolish ear."
+        ],
+        [
+            "ROSENCRANTZ",
+            "My lord, you must tell us where the body is, and go"
+        ],
+        [
+            "ROSENCRANTZ",
+            "with us to the king."
+        ],
+        [
+            "HAMLET",
+            "The body is with the king, but the king is not with"
+        ],
+        [
+            "HAMLET",
+            "the body. The king is a thing--"
+        ],
+        [
+            "GUILDENSTERN",
+            "A thing, my lord!"
+        ],
+        [
+            "HAMLET",
+            "Of nothing: bring me to him. Hide fox, and all after.",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter HAMLET"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter ROSENCRANTZ and GUILDENSTERN"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "HAMLET": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "4"
+            ],
+            [
+                "6",
+                "6"
+            ],
+            [
+                "9",
+                "9"
+            ],
+            [
+                "11",
+                "13"
+            ],
+            [
+                "15",
+                "21"
+            ],
+            [
+                "23",
+                "24"
+            ],
+            [
+                "27",
+                "28"
+            ],
+            [
+                "30",
+                "30"
+            ]
+        ],
+        "GUILDENSTERN:": [
+            [
+                "2",
+                "2"
+            ]
+        ],
+        "ROSENCRANTZ": [
+            [
+                "5",
+                "5"
+            ],
+            [
+                "7",
+                "8"
+            ],
+            [
+                "10",
+                "10"
+            ],
+            [
+                "14",
+                "14"
+            ],
+            [
+                "22",
+                "22"
+            ],
+            [
+                "25",
+                "26"
+            ]
+        ],
+        "GUILDENSTERN": [
+            [
+                "29",
+                "29"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "Another room in the castle."
+}

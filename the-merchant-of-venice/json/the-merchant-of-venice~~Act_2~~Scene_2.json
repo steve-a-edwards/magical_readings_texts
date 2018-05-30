@@ -1,0 +1,1163 @@
+{
+    "scene_id": "the merchant of venice~~Act_2~~Scene_2",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "LAUNCELOT",
+            "Certainly my conscience will serve me to run from",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "LAUNCELOT",
+            "this Jew my master. The fiend is at mine elbow and"
+        ],
+        [
+            "LAUNCELOT",
+            "tempts me saying to me 'Gobbo, Launcelot Gobbo, good"
+        ],
+        [
+            "LAUNCELOT",
+            "Launcelot,' or 'good Gobbo,' or good Launcelot"
+        ],
+        [
+            "LAUNCELOT",
+            "Gobbo, use your legs, take the start, run away. My"
+        ],
+        [
+            "LAUNCELOT",
+            "conscience says 'No; take heed,' honest Launcelot;"
+        ],
+        [
+            "LAUNCELOT",
+            "take heed, honest Gobbo, or, as aforesaid, 'honest"
+        ],
+        [
+            "LAUNCELOT",
+            "Launcelot Gobbo; do not run; scorn running with thy"
+        ],
+        [
+            "LAUNCELOT",
+            "heels.' Well, the most courageous fiend bids me"
+        ],
+        [
+            "LAUNCELOT",
+            "pack: 'Via!' says the fiend; 'away!' says the"
+        ],
+        [
+            "LAUNCELOT",
+            "fiend; 'for the heavens, rouse up a brave mind,'"
+        ],
+        [
+            "LAUNCELOT",
+            "says the fiend, 'and run.' Well, my conscience,"
+        ],
+        [
+            "LAUNCELOT",
+            "hanging about the neck of my heart, says very wisely"
+        ],
+        [
+            "LAUNCELOT",
+            "to me 'My honest friend Launcelot, being an honest"
+        ],
+        [
+            "LAUNCELOT",
+            "man's son,' or rather an honest woman's son; for,"
+        ],
+        [
+            "LAUNCELOT",
+            "indeed, my father did something smack, something"
+        ],
+        [
+            "LAUNCELOT",
+            "grow to, he had a kind of taste; well, my conscience"
+        ],
+        [
+            "LAUNCELOT",
+            "says 'Launcelot, budge not.' 'Budge,' says the"
+        ],
+        [
+            "LAUNCELOT",
+            "fiend. 'Budge not,' says my conscience."
+        ],
+        [
+            "LAUNCELOT",
+            "'Conscience,' say I, 'you counsel well;' ' Fiend,'"
+        ],
+        [
+            "LAUNCELOT",
+            "say I, 'you counsel well:' to be ruled by my"
+        ],
+        [
+            "LAUNCELOT",
+            "conscience, I should stay with the Jew my master,"
+        ],
+        [
+            "LAUNCELOT",
+            "who, God bless the mark, is a kind of devil; and, to"
+        ],
+        [
+            "LAUNCELOT",
+            "run away from the Jew, I should be ruled by the"
+        ],
+        [
+            "LAUNCELOT",
+            "fiend, who, saving your reverence, is the devil"
+        ],
+        [
+            "LAUNCELOT",
+            "himself. Certainly the Jew is the very devil"
+        ],
+        [
+            "LAUNCELOT",
+            "incarnal; and, in my conscience, my conscience is"
+        ],
+        [
+            "LAUNCELOT",
+            "but a kind of hard conscience, to offer to counsel"
+        ],
+        [
+            "LAUNCELOT",
+            "me to stay with the Jew. The fiend gives the more"
+        ],
+        [
+            "LAUNCELOT",
+            "friendly counsel: I will run, fiend; my heels are"
+        ],
+        [
+            "LAUNCELOT",
+            "at your command; I will run.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "GOBBO",
+            "Master young man, you, I pray you, which is the way",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "GOBBO",
+            "to master Jew's?"
+        ],
+        [
+            "LAUNCELOT",
+            "[Aside] O heavens, this is my true-begotten father!"
+        ],
+        [
+            "LAUNCELOT",
+            "who, being more than sand-blind, high-gravel blind,"
+        ],
+        [
+            "LAUNCELOT",
+            "knows me not: I will try confusions with him."
+        ],
+        [
+            "GOBBO",
+            "Master young gentleman, I pray you, which is the way"
+        ],
+        [
+            "GOBBO",
+            "to master Jew's?"
+        ],
+        [
+            "LAUNCELOT",
+            "Turn up on your right hand at the next turning, but,"
+        ],
+        [
+            "LAUNCELOT",
+            "at the next turning of all, on your left; marry, at"
+        ],
+        [
+            "LAUNCELOT",
+            "the very next turning, turn of no hand, but turn"
+        ],
+        [
+            "LAUNCELOT",
+            "down indirectly to the Jew's house."
+        ],
+        [
+            "GOBBO",
+            "By God's sonties, 'twill be a hard way to hit. Can"
+        ],
+        [
+            "GOBBO",
+            "you tell me whether one Launcelot,"
+        ],
+        [
+            "GOBBO",
+            "that dwells with him, dwell with him or no?"
+        ],
+        [
+            "LAUNCELOT",
+            "Talk you of young Master Launcelot?"
+        ],
+        [
+            "LAUNCELOT",
+            "Mark me now; now will I raise the waters. Talk you"
+        ],
+        [
+            "LAUNCELOT",
+            "of young Master Launcelot?",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "GOBBO",
+            "No master, sir, but a poor man's son: his father,",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "GOBBO",
+            "though I say it, is an honest exceeding poor man"
+        ],
+        [
+            "GOBBO",
+            "and, God be thanked, well to live."
+        ],
+        [
+            "LAUNCELOT",
+            "Well, let his father be what a' will, we talk of"
+        ],
+        [
+            "LAUNCELOT",
+            "young Master Launcelot."
+        ],
+        [
+            "GOBBO",
+            "Your worship's friend and Launcelot, sir."
+        ],
+        [
+            "LAUNCELOT",
+            "But I pray you, ergo, old man, ergo, I beseech you,"
+        ],
+        [
+            "LAUNCELOT",
+            "talk you of young Master Launcelot?"
+        ],
+        [
+            "GOBBO",
+            "Of Launcelot, an't please your mastership."
+        ],
+        [
+            "LAUNCELOT",
+            "Ergo, Master Launcelot. Talk not of Master"
+        ],
+        [
+            "LAUNCELOT",
+            "Launcelot, father; for the young gentleman,"
+        ],
+        [
+            "LAUNCELOT",
+            "according to Fates and Destinies and such odd"
+        ],
+        [
+            "LAUNCELOT",
+            "sayings, the Sisters Three and such branches of"
+        ],
+        [
+            "LAUNCELOT",
+            "learning, is indeed deceased, or, as you would say"
+        ],
+        [
+            "LAUNCELOT",
+            "in plain terms, gone to heaven."
+        ],
+        [
+            "GOBBO",
+            "Marry, God forbid! the boy was the very staff of my"
+        ],
+        [
+            "GOBBO",
+            "age, my very prop."
+        ],
+        [
+            "LAUNCELOT",
+            "Do I look like a cudgel or a hovel-post, a staff or"
+        ],
+        [
+            "LAUNCELOT",
+            "a prop? Do you know me, father?"
+        ],
+        [
+            "GOBBO",
+            "Alack the day, I know you not, young gentleman:"
+        ],
+        [
+            "GOBBO",
+            "but, I pray you, tell me, is my boy, God rest his"
+        ],
+        [
+            "GOBBO",
+            "soul, alive or dead?"
+        ],
+        [
+            "LAUNCELOT",
+            "Do you not know me, father?"
+        ],
+        [
+            "GOBBO",
+            "Alack, sir, I am sand-blind; I know you not."
+        ],
+        [
+            "LAUNCELOT",
+            "Nay, indeed, if you had your eyes, you might fail of"
+        ],
+        [
+            "LAUNCELOT",
+            "the knowing me: it is a wise father that knows his"
+        ],
+        [
+            "LAUNCELOT",
+            "own child. Well, old man, I will tell you news of"
+        ],
+        [
+            "LAUNCELOT",
+            "your son: give me your blessing: truth will come"
+        ],
+        [
+            "LAUNCELOT",
+            "to light; murder cannot be hid long; a man's son"
+        ],
+        [
+            "LAUNCELOT",
+            "may, but at the length truth will out."
+        ],
+        [
+            "GOBBO",
+            "Pray you, sir, stand up: I am sure you are not"
+        ],
+        [
+            "GOBBO",
+            "Launcelot, my boy."
+        ],
+        [
+            "LAUNCELOT",
+            "Pray you, let's have no more fooling about it, but"
+        ],
+        [
+            "LAUNCELOT",
+            "give me your blessing: I am Launcelot, your boy"
+        ],
+        [
+            "LAUNCELOT",
+            "that was, your son that is, your child that shall"
+        ],
+        [
+            "LAUNCELOT",
+            "be."
+        ],
+        [
+            "GOBBO",
+            "I cannot think you are my son."
+        ],
+        [
+            "LAUNCELOT",
+            "I know not what I shall think of that: but I am"
+        ],
+        [
+            "LAUNCELOT",
+            "Launcelot, the Jew's man, and I am sure Margery your"
+        ],
+        [
+            "LAUNCELOT",
+            "wife is my mother."
+        ],
+        [
+            "GOBBO",
+            "Her name is Margery, indeed: I'll be sworn, if thou"
+        ],
+        [
+            "GOBBO",
+            "be Launcelot, thou art mine own flesh and blood."
+        ],
+        [
+            "GOBBO",
+            "Lord worshipped might he be! what a beard hast thou"
+        ],
+        [
+            "GOBBO",
+            "got! thou hast got more hair on thy chin than"
+        ],
+        [
+            "GOBBO",
+            "Dobbin my fill-horse has on his tail."
+        ],
+        [
+            "LAUNCELOT",
+            "It should seem, then, that Dobbin's tail grows"
+        ],
+        [
+            "LAUNCELOT",
+            "backward: I am sure he had more hair of his tail"
+        ],
+        [
+            "LAUNCELOT",
+            "than I have of my face when I last saw him."
+        ],
+        [
+            "GOBBO",
+            "Lord, how art thou changed! How dost thou and thy"
+        ],
+        [
+            "GOBBO",
+            "master agree? I have brought him a present. How"
+        ],
+        [
+            "GOBBO",
+            "'gree you now?"
+        ],
+        [
+            "LAUNCELOT",
+            "Well, well: but, for mine own part, as I have set"
+        ],
+        [
+            "LAUNCELOT",
+            "up my rest to run away, so I will not rest till I"
+        ],
+        [
+            "LAUNCELOT",
+            "have run some ground. My master's a very Jew: give"
+        ],
+        [
+            "LAUNCELOT",
+            "him a present! give him a halter: I am famished in"
+        ],
+        [
+            "LAUNCELOT",
+            "his service; you may tell every finger I have with"
+        ],
+        [
+            "LAUNCELOT",
+            "my ribs. Father, I am glad you are come: give me"
+        ],
+        [
+            "LAUNCELOT",
+            "your present to one Master Bassanio, who, indeed,"
+        ],
+        [
+            "LAUNCELOT",
+            "gives rare new liveries: if I serve not him, I"
+        ],
+        [
+            "LAUNCELOT",
+            "will run as far as God has any ground. O rare"
+        ],
+        [
+            "LAUNCELOT",
+            "fortune! here comes the man: to him, father; for I"
+        ],
+        [
+            "LAUNCELOT",
+            "am a Jew, if I serve the Jew any longer.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "BASSANIO",
+            "You may do so; but let it be so hasted that supper",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "BASSANIO",
+            "be ready at the farthest by five of the clock. See"
+        ],
+        [
+            "BASSANIO",
+            "these letters delivered; put the liveries to making,"
+        ],
+        [
+            "BASSANIO",
+            "and desire Gratiano to come anon to my lodging.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "LAUNCELOT",
+            "To him, father.",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "GOBBO",
+            "God bless your worship!"
+        ],
+        [
+            "BASSANIO",
+            "Gramercy! wouldst thou aught with me?"
+        ],
+        [
+            "GOBBO",
+            "Here's my son, sir, a poor boy,--"
+        ],
+        [
+            "LAUNCELOT",
+            "Not a poor boy, sir, but the rich Jew's man; that"
+        ],
+        [
+            "LAUNCELOT",
+            "would, sir, as my father shall specify--"
+        ],
+        [
+            "GOBBO",
+            "He hath a great infection, sir, as one would say, to serve--"
+        ],
+        [
+            "LAUNCELOT",
+            "Indeed, the short and the long is, I serve the Jew,"
+        ],
+        [
+            "LAUNCELOT",
+            "and have a desire, as my father shall specify--"
+        ],
+        [
+            "GOBBO",
+            "His master and he, saving your worship's reverence,"
+        ],
+        [
+            "GOBBO",
+            "are scarce cater-cousins--"
+        ],
+        [
+            "LAUNCELOT",
+            "To be brief, the very truth is that the Jew, having"
+        ],
+        [
+            "LAUNCELOT",
+            "done me wrong, doth cause me, as my father, being, I"
+        ],
+        [
+            "LAUNCELOT",
+            "hope, an old man, shall frutify unto you--"
+        ],
+        [
+            "GOBBO",
+            "I have here a dish of doves that I would bestow upon"
+        ],
+        [
+            "GOBBO",
+            "your worship, and my suit is--"
+        ],
+        [
+            "LAUNCELOT",
+            "In very brief, the suit is impertinent to myself, as"
+        ],
+        [
+            "LAUNCELOT",
+            "your worship shall know by this honest old man; and,"
+        ],
+        [
+            "LAUNCELOT",
+            "though I say it, though old man, yet poor man, my father."
+        ],
+        [
+            "BASSANIO",
+            "One speak for both. What would you?"
+        ],
+        [
+            "LAUNCELOT",
+            "Serve you, sir."
+        ],
+        [
+            "GOBBO",
+            "That is the very defect of the matter, sir."
+        ],
+        [
+            "BASSANIO",
+            "I know thee well; thou hast obtain'd thy suit:"
+        ],
+        [
+            "BASSANIO",
+            "Shylock thy master spoke with me this day,"
+        ],
+        [
+            "BASSANIO",
+            "And hath preferr'd thee, if it be preferment"
+        ],
+        [
+            "BASSANIO",
+            "To leave a rich Jew's service, to become"
+        ],
+        [
+            "BASSANIO",
+            "The follower of so poor a gentleman."
+        ],
+        [
+            "LAUNCELOT",
+            "The old proverb is very well parted between my"
+        ],
+        [
+            "LAUNCELOT",
+            "master Shylock and you, sir: you have the grace of"
+        ],
+        [
+            "LAUNCELOT",
+            "God, sir, and he hath enough."
+        ],
+        [
+            "BASSANIO",
+            "Thou speak'st it well. Go, father, with thy son."
+        ],
+        [
+            "BASSANIO",
+            "Take leave of thy old master and inquire"
+        ],
+        [
+            "BASSANIO",
+            "My lodging out. Give him a livery"
+        ],
+        [
+            "BASSANIO",
+            "More guarded than his fellows': see it done."
+        ],
+        [
+            "LAUNCELOT",
+            "Father, in. I cannot get a service, no; I have"
+        ],
+        [
+            "LAUNCELOT",
+            "ne'er a tongue in my head. Well, if any man in"
+        ],
+        [
+            "LAUNCELOT",
+            "Italy have a fairer table which doth offer to swear"
+        ],
+        [
+            "LAUNCELOT",
+            "upon a book, I shall have good fortune. Go to,"
+        ],
+        [
+            "LAUNCELOT",
+            "here's a simple line of life: here's a small trifle"
+        ],
+        [
+            "LAUNCELOT",
+            "of wives: alas, fifteen wives is nothing! eleven"
+        ],
+        [
+            "LAUNCELOT",
+            "widows and nine maids is a simple coming-in for one"
+        ],
+        [
+            "LAUNCELOT",
+            "man: and then to 'scape drowning thrice, and to be"
+        ],
+        [
+            "LAUNCELOT",
+            "in peril of my life with the edge of a feather-bed;"
+        ],
+        [
+            "LAUNCELOT",
+            "here are simple scapes. Well, if Fortune be a"
+        ],
+        [
+            "LAUNCELOT",
+            "woman, she's a good wench for this gear. Father,"
+        ],
+        [
+            "LAUNCELOT",
+            "come; I'll take my leave of the Jew in the twinkling of an eye.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "BASSANIO",
+            "I pray thee, good Leonardo, think on this:",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "BASSANIO",
+            "These things being bought and orderly bestow'd,"
+        ],
+        [
+            "BASSANIO",
+            "Return in haste, for I do feast to-night"
+        ],
+        [
+            "BASSANIO",
+            "My best-esteem'd acquaintance: hie thee, go."
+        ],
+        [
+            "LEONARDO",
+            "My best endeavours shall be done herein.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "GRATIANO",
+            "Where is your master?",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "LEONARDO",
+            "Yonder, sir, he walks.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "GRATIANO",
+            "Signior Bassanio!",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "BASSANIO",
+            "Gratiano!"
+        ],
+        [
+            "GRATIANO",
+            "I have a suit to you."
+        ],
+        [
+            "BASSANIO",
+            "You have obtain'd it."
+        ],
+        [
+            "GRATIANO",
+            "You must not deny me: I must go with you to Belmont."
+        ],
+        [
+            "BASSANIO",
+            "Why then you must. But hear thee, Gratiano;"
+        ],
+        [
+            "BASSANIO",
+            "Thou art too wild, too rude and bold of voice;"
+        ],
+        [
+            "BASSANIO",
+            "Parts that become thee happily enough"
+        ],
+        [
+            "BASSANIO",
+            "And in such eyes as ours appear not faults;"
+        ],
+        [
+            "BASSANIO",
+            "But where thou art not known, why, there they show"
+        ],
+        [
+            "BASSANIO",
+            "Something too liberal. Pray thee, take pain"
+        ],
+        [
+            "BASSANIO",
+            "To allay with some cold drops of modesty"
+        ],
+        [
+            "BASSANIO",
+            "Thy skipping spirit, lest through thy wild behavior"
+        ],
+        [
+            "BASSANIO",
+            "I be misconstrued in the place I go to,"
+        ],
+        [
+            "BASSANIO",
+            "And lose my hopes."
+        ],
+        [
+            "GRATIANO",
+            "Signior Bassanio, hear me:"
+        ],
+        [
+            "GRATIANO",
+            "If I do not put on a sober habit,"
+        ],
+        [
+            "GRATIANO",
+            "Talk with respect and swear but now and then,"
+        ],
+        [
+            "GRATIANO",
+            "Wear prayer-books in my pocket, look demurely,"
+        ],
+        [
+            "GRATIANO",
+            "Nay more, while grace is saying, hood mine eyes"
+        ],
+        [
+            "GRATIANO",
+            "Thus with my hat, and sigh and say 'amen,'"
+        ],
+        [
+            "GRATIANO",
+            "Use all the observance of civility,"
+        ],
+        [
+            "GRATIANO",
+            "Like one well studied in a sad ostent"
+        ],
+        [
+            "GRATIANO",
+            "To please his grandam, never trust me more."
+        ],
+        [
+            "BASSANIO",
+            "Well, we shall see your bearing."
+        ],
+        [
+            "GRATIANO",
+            "Nay, but I bar to-night: you shall not gauge me"
+        ],
+        [
+            "GRATIANO",
+            "By what we do to-night."
+        ],
+        [
+            "BASSANIO",
+            "No, that were pity:"
+        ],
+        [
+            "BASSANIO",
+            "I would entreat you rather to put on"
+        ],
+        [
+            "BASSANIO",
+            "Your boldest suit of mirth, for we have friends"
+        ],
+        [
+            "BASSANIO",
+            "That purpose merriment. But fare you well:"
+        ],
+        [
+            "BASSANIO",
+            "I have some business."
+        ],
+        [
+            "GRATIANO",
+            "And I must to Lorenzo and the rest:"
+        ],
+        [
+            "GRATIANO",
+            "But we will visit you at supper-time.",
+            {
+                "following_direction_line": "9"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter LAUNCELOT"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter Old GOBBO, with a basket"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Aside"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter BASSANIO, with LEONARDO and other followers"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exit a Servant"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exeunt Launcelot and Old Gobbo"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Enter GRATIANO"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "LAUNCELOT": [
+            [
+                "1",
+                "31"
+            ],
+            [
+                "34",
+                "36"
+            ],
+            [
+                "39",
+                "42"
+            ],
+            [
+                "46",
+                "48"
+            ],
+            [
+                "52",
+                "53"
+            ],
+            [
+                "55",
+                "56"
+            ],
+            [
+                "58",
+                "63"
+            ],
+            [
+                "66",
+                "67"
+            ],
+            [
+                "71",
+                "71"
+            ],
+            [
+                "73",
+                "78"
+            ],
+            [
+                "81",
+                "84"
+            ],
+            [
+                "86",
+                "88"
+            ],
+            [
+                "94",
+                "96"
+            ],
+            [
+                "100",
+                "110"
+            ],
+            [
+                "115",
+                "115"
+            ],
+            [
+                "119",
+                "120"
+            ],
+            [
+                "122",
+                "123"
+            ],
+            [
+                "126",
+                "128"
+            ],
+            [
+                "131",
+                "133"
+            ],
+            [
+                "135",
+                "135"
+            ],
+            [
+                "142",
+                "144"
+            ],
+            [
+                "149",
+                "160"
+            ]
+        ],
+        "GOBBO": [
+            [
+                "32",
+                "33"
+            ],
+            [
+                "37",
+                "38"
+            ],
+            [
+                "43",
+                "45"
+            ],
+            [
+                "49",
+                "51"
+            ],
+            [
+                "54",
+                "54"
+            ],
+            [
+                "57",
+                "57"
+            ],
+            [
+                "64",
+                "65"
+            ],
+            [
+                "68",
+                "70"
+            ],
+            [
+                "72",
+                "72"
+            ],
+            [
+                "79",
+                "80"
+            ],
+            [
+                "85",
+                "85"
+            ],
+            [
+                "89",
+                "93"
+            ],
+            [
+                "97",
+                "99"
+            ],
+            [
+                "116",
+                "116"
+            ],
+            [
+                "118",
+                "118"
+            ],
+            [
+                "121",
+                "121"
+            ],
+            [
+                "124",
+                "125"
+            ],
+            [
+                "129",
+                "130"
+            ],
+            [
+                "136",
+                "136"
+            ]
+        ],
+        "BASSANIO": [
+            [
+                "111",
+                "114"
+            ],
+            [
+                "117",
+                "117"
+            ],
+            [
+                "134",
+                "134"
+            ],
+            [
+                "137",
+                "141"
+            ],
+            [
+                "145",
+                "148"
+            ],
+            [
+                "161",
+                "164"
+            ],
+            [
+                "169",
+                "169"
+            ],
+            [
+                "171",
+                "171"
+            ],
+            [
+                "173",
+                "182"
+            ],
+            [
+                "192",
+                "192"
+            ],
+            [
+                "195",
+                "199"
+            ]
+        ],
+        "LEONARDO": [
+            [
+                "165",
+                "165"
+            ],
+            [
+                "167",
+                "167"
+            ]
+        ],
+        "GRATIANO": [
+            [
+                "166",
+                "166"
+            ],
+            [
+                "168",
+                "168"
+            ],
+            [
+                "170",
+                "170"
+            ],
+            [
+                "172",
+                "172"
+            ],
+            [
+                "183",
+                "191"
+            ],
+            [
+                "193",
+                "194"
+            ],
+            [
+                "200",
+                "201"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "Venice. A street."
+}

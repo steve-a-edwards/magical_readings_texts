@@ -1,0 +1,274 @@
+{
+    "scene_id": "macbeth~~Act_5~~Scene_7",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "MACBETH",
+            "They have tied me to a stake; I cannot fly,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "MACBETH",
+            "But, bear-like, I must fight the course. What's he"
+        ],
+        [
+            "MACBETH",
+            "That was not born of woman? Such a one"
+        ],
+        [
+            "MACBETH",
+            "Am I to fear, or none.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "YOUNG SIWARD",
+            "What is thy name?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "MACBETH",
+            "Thou'lt be afraid to hear it."
+        ],
+        [
+            "YOUNG SIWARD",
+            "No; though thou call'st thyself a hotter name"
+        ],
+        [
+            "YOUNG SIWARD",
+            "Than any is in hell."
+        ],
+        [
+            "MACBETH",
+            "My name's Macbeth."
+        ],
+        [
+            "YOUNG SIWARD",
+            "The devil himself could not pronounce a title"
+        ],
+        [
+            "YOUNG SIWARD",
+            "More hateful to mine ear."
+        ],
+        [
+            "MACBETH",
+            "No, nor more fearful."
+        ],
+        [
+            "YOUNG SIWARD",
+            "Thou liest, abhorred tyrant; with my sword"
+        ],
+        [
+            "YOUNG SIWARD",
+            "I'll prove the lie thou speak'st.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "MACBETH",
+            "Thou wast born of woman",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "MACBETH",
+            "But swords I smile at, weapons laugh to scorn,"
+        ],
+        [
+            "MACBETH",
+            "Brandish'd by man that's of a woman born.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "MACDUFF",
+            "That way the noise is. Tyrant, show thy face!",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "MACDUFF",
+            "If thou be'st slain and with no stroke of mine,"
+        ],
+        [
+            "MACDUFF",
+            "My wife and children's ghosts will haunt me still."
+        ],
+        [
+            "MACDUFF",
+            "I cannot strike at wretched kerns, whose arms"
+        ],
+        [
+            "MACDUFF",
+            "Are hired to bear their staves: either thou, Macbeth,"
+        ],
+        [
+            "MACDUFF",
+            "Or else my sword with an unbatter'd edge"
+        ],
+        [
+            "MACDUFF",
+            "I sheathe again undeeded. There thou shouldst be;"
+        ],
+        [
+            "MACDUFF",
+            "By this great clatter, one of greatest note"
+        ],
+        [
+            "MACDUFF",
+            "Seems bruited. Let me find him, fortune!"
+        ],
+        [
+            "MACDUFF",
+            "And more I beg not.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "SIWARD",
+            "This way, my lord; the castle's gently render'd:",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "SIWARD",
+            "The tyrant's people on both sides do fight;"
+        ],
+        [
+            "SIWARD",
+            "The noble thanes do bravely in the war;"
+        ],
+        [
+            "SIWARD",
+            "The day almost itself professes yours,"
+        ],
+        [
+            "SIWARD",
+            "And little is to do."
+        ],
+        [
+            "MALCOLM",
+            "We have met with foes"
+        ],
+        [
+            "MALCOLM",
+            "That strike beside us."
+        ],
+        [
+            "SIWARD",
+            "Enter, sir, the castle.",
+            {
+                "following_direction_line": "6"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Alarums. Enter MACBETH"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter YOUNG SIWARD"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "They fight and YOUNG SIWARD is slain"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit. Alarums. Enter MACDUFF"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exit. Alarums. Enter MALCOLM and SIWARD"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exeunt. Alarums"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "MACBETH": [
+            [
+                "1",
+                "4"
+            ],
+            [
+                "6",
+                "6"
+            ],
+            [
+                "9",
+                "9"
+            ],
+            [
+                "12",
+                "12"
+            ],
+            [
+                "15",
+                "17"
+            ]
+        ],
+        "YOUNG SIWARD": [
+            [
+                "5",
+                "5"
+            ],
+            [
+                "7",
+                "8"
+            ],
+            [
+                "10",
+                "11"
+            ],
+            [
+                "13",
+                "14"
+            ]
+        ],
+        "MACDUFF": [
+            [
+                "18",
+                "27"
+            ]
+        ],
+        "SIWARD": [
+            [
+                "28",
+                "32"
+            ],
+            [
+                "35",
+                "35"
+            ]
+        ],
+        "MALCOLM": [
+            [
+                "33",
+                "34"
+            ]
+        ]
+    },
+    "scene_name": "SCENE VII",
+    "scene_description": "Another part of the field."
+}

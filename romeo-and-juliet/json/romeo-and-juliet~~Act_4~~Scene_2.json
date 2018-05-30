@@ -1,0 +1,346 @@
+{
+    "scene_id": "romeo and juliet~~Act_4~~Scene_2",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "CAPULET",
+            "So many guests invite as here are writ.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "CAPULET",
+            "Sirrah, go hire me twenty cunning cooks.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "Second Servant",
+            "You shall have none ill, sir; for I'll try if they",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "Second Servant",
+            "can lick their fingers."
+        ],
+        [
+            "CAPULET",
+            "How canst thou try them so?"
+        ],
+        [
+            "Second Servant",
+            "Marry, sir, 'tis an ill cook that cannot lick his"
+        ],
+        [
+            "Second Servant",
+            "own fingers: therefore he that cannot lick his"
+        ],
+        [
+            "Second Servant",
+            "fingers goes not with me."
+        ],
+        [
+            "CAPULET",
+            "Go, be gone."
+        ],
+        [
+            "CAPULET",
+            "We shall be much unfurnished for this time."
+        ],
+        [
+            "CAPULET",
+            "What, is my daughter gone to Friar Laurence?",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "Nurse",
+            "Ay, forsooth.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "CAPULET",
+            "Well, he may chance to do some good on her:"
+        ],
+        [
+            "CAPULET",
+            "A peevish self-will'd harlotry it is."
+        ],
+        [
+            "Nurse",
+            "See where she comes from shrift with merry look.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "CAPULET",
+            "How now, my headstrong! where have you been gadding?",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "JULIET",
+            "Where I have learn'd me to repent the sin"
+        ],
+        [
+            "JULIET",
+            "Of disobedient opposition"
+        ],
+        [
+            "JULIET",
+            "To you and your behests, and am enjoin'd"
+        ],
+        [
+            "JULIET",
+            "By holy Laurence to fall prostrate here,"
+        ],
+        [
+            "JULIET",
+            "And beg your pardon: pardon, I beseech you!"
+        ],
+        [
+            "JULIET",
+            "Henceforward I am ever ruled by you."
+        ],
+        [
+            "CAPULET",
+            "Send for the county; go tell him of this:"
+        ],
+        [
+            "CAPULET",
+            "I'll have this knot knit up to-morrow morning."
+        ],
+        [
+            "JULIET",
+            "I met the youthful lord at Laurence' cell;"
+        ],
+        [
+            "JULIET",
+            "And gave him what becomed love I might,"
+        ],
+        [
+            "JULIET",
+            "Not step o'er the bounds of modesty."
+        ],
+        [
+            "CAPULET",
+            "Why, I am glad on't; this is well: stand up:"
+        ],
+        [
+            "CAPULET",
+            "This is as't should be. Let me see the county;"
+        ],
+        [
+            "CAPULET",
+            "Ay, marry, go, I say, and fetch him hither."
+        ],
+        [
+            "CAPULET",
+            "Now, afore God! this reverend holy friar,"
+        ],
+        [
+            "CAPULET",
+            "Our whole city is much bound to him."
+        ],
+        [
+            "JULIET",
+            "Nurse, will you go with me into my closet,"
+        ],
+        [
+            "JULIET",
+            "To help me sort such needful ornaments"
+        ],
+        [
+            "JULIET",
+            "As you think fit to furnish me to-morrow?"
+        ],
+        [
+            "LADY CAPULET",
+            "No, not till Thursday; there is time enough."
+        ],
+        [
+            "CAPULET",
+            "Go, nurse, go with her: we'll to church to-morrow.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "LADY CAPULET",
+            "We shall be short in our provision:",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "LADY CAPULET",
+            "'Tis now near night."
+        ],
+        [
+            "CAPULET",
+            "Tush, I will stir about,"
+        ],
+        [
+            "CAPULET",
+            "And all things shall be well, I warrant thee, wife:"
+        ],
+        [
+            "CAPULET",
+            "Go thou to Juliet, help to deck up her;"
+        ],
+        [
+            "CAPULET",
+            "I'll not to bed to-night; let me alone;"
+        ],
+        [
+            "CAPULET",
+            "I'll play the housewife for this once. What, ho!"
+        ],
+        [
+            "CAPULET",
+            "They are all forth. Well, I will walk myself"
+        ],
+        [
+            "CAPULET",
+            "To County Paris, to prepare him up"
+        ],
+        [
+            "CAPULET",
+            "Against to-morrow: my heart is wondrous light,"
+        ],
+        [
+            "CAPULET",
+            "Since this same wayward girl is so reclaim'd.",
+            {
+                "following_direction_line": "6"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter CAPULET, LADY CAPULET, Nurse, and two Servingmen"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit First Servant"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit Second Servant"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter JULIET"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt JULIET and Nurse"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "CAPULET": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "5",
+                "5"
+            ],
+            [
+                "9",
+                "11"
+            ],
+            [
+                "13",
+                "14"
+            ],
+            [
+                "16",
+                "16"
+            ],
+            [
+                "23",
+                "24"
+            ],
+            [
+                "28",
+                "32"
+            ],
+            [
+                "37",
+                "37"
+            ],
+            [
+                "40",
+                "48"
+            ]
+        ],
+        "Second Servant": [
+            [
+                "3",
+                "4"
+            ],
+            [
+                "6",
+                "8"
+            ]
+        ],
+        "Nurse": [
+            [
+                "12",
+                "12"
+            ],
+            [
+                "15",
+                "15"
+            ]
+        ],
+        "JULIET": [
+            [
+                "17",
+                "22"
+            ],
+            [
+                "25",
+                "27"
+            ],
+            [
+                "33",
+                "35"
+            ]
+        ],
+        "LADY CAPULET": [
+            [
+                "36",
+                "36"
+            ],
+            [
+                "38",
+                "39"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "Hall in Capulet's house."
+}

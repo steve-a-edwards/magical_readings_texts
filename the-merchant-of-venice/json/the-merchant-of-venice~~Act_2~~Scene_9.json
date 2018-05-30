@@ -1,0 +1,556 @@
+{
+    "scene_id": "the merchant of venice~~Act_2~~Scene_9",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "NERISSA",
+            "Quick, quick, I pray thee; draw the curtain straight:",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "NERISSA",
+            "The Prince of Arragon hath ta'en his oath,"
+        ],
+        [
+            "NERISSA",
+            "And comes to his election presently.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "PORTIA",
+            "Behold, there stand the caskets, noble prince:",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "PORTIA",
+            "If you choose that wherein I am contain'd,"
+        ],
+        [
+            "PORTIA",
+            "Straight shall our nuptial rites be solemnized:"
+        ],
+        [
+            "PORTIA",
+            "But if you fail, without more speech, my lord,"
+        ],
+        [
+            "PORTIA",
+            "You must be gone from hence immediately."
+        ],
+        [
+            "ARRAGON",
+            "I am enjoin'd by oath to observe three things:"
+        ],
+        [
+            "ARRAGON",
+            "First, never to unfold to any one"
+        ],
+        [
+            "ARRAGON",
+            "Which casket 'twas I chose; next, if I fail"
+        ],
+        [
+            "ARRAGON",
+            "Of the right casket, never in my life"
+        ],
+        [
+            "ARRAGON",
+            "To woo a maid in way of marriage: Lastly,"
+        ],
+        [
+            "ARRAGON",
+            "If I do fail in fortune of my choice,"
+        ],
+        [
+            "ARRAGON",
+            "Immediately to leave you and be gone."
+        ],
+        [
+            "PORTIA",
+            "To these injunctions every one doth swear"
+        ],
+        [
+            "PORTIA",
+            "That comes to hazard for my worthless self."
+        ],
+        [
+            "ARRAGON",
+            "And so have I address'd me. Fortune now"
+        ],
+        [
+            "ARRAGON",
+            "To my heart's hope! Gold; silver; and base lead."
+        ],
+        [
+            "ARRAGON",
+            "'Who chooseth me must give and hazard all he hath.'"
+        ],
+        [
+            "ARRAGON",
+            "You shall look fairer, ere I give or hazard."
+        ],
+        [
+            "ARRAGON",
+            "What says the golden chest? ha! let me see:"
+        ],
+        [
+            "ARRAGON",
+            "'Who chooseth me shall gain what many men desire.'"
+        ],
+        [
+            "ARRAGON",
+            "What many men desire! that 'many' may be meant"
+        ],
+        [
+            "ARRAGON",
+            "By the fool multitude, that choose by show,"
+        ],
+        [
+            "ARRAGON",
+            "Not learning more than the fond eye doth teach;"
+        ],
+        [
+            "ARRAGON",
+            "Which pries not to the interior, but, like the martlet,"
+        ],
+        [
+            "ARRAGON",
+            "Builds in the weather on the outward wall,"
+        ],
+        [
+            "ARRAGON",
+            "Even in the force and road of casualty."
+        ],
+        [
+            "ARRAGON",
+            "I will not choose what many men desire,"
+        ],
+        [
+            "ARRAGON",
+            "Because I will not jump with common spirits"
+        ],
+        [
+            "ARRAGON",
+            "And rank me with the barbarous multitudes."
+        ],
+        [
+            "ARRAGON",
+            "Why, then to thee, thou silver treasure-house;"
+        ],
+        [
+            "ARRAGON",
+            "Tell me once more what title thou dost bear:"
+        ],
+        [
+            "ARRAGON",
+            "'Who chooseth me shall get as much as he deserves:'"
+        ],
+        [
+            "ARRAGON",
+            "And well said too; for who shall go about"
+        ],
+        [
+            "ARRAGON",
+            "To cozen fortune and be honourable"
+        ],
+        [
+            "ARRAGON",
+            "Without the stamp of merit? Let none presume"
+        ],
+        [
+            "ARRAGON",
+            "To wear an undeserved dignity."
+        ],
+        [
+            "ARRAGON",
+            "O, that estates, degrees and offices"
+        ],
+        [
+            "ARRAGON",
+            "Were not derived corruptly, and that clear honour"
+        ],
+        [
+            "ARRAGON",
+            "Were purchased by the merit of the wearer!"
+        ],
+        [
+            "ARRAGON",
+            "How many then should cover that stand bare!"
+        ],
+        [
+            "ARRAGON",
+            "How many be commanded that command!"
+        ],
+        [
+            "ARRAGON",
+            "How much low peasantry would then be glean'd"
+        ],
+        [
+            "ARRAGON",
+            "From the true seed of honour! and how much honour"
+        ],
+        [
+            "ARRAGON",
+            "Pick'd from the chaff and ruin of the times"
+        ],
+        [
+            "ARRAGON",
+            "To be new-varnish'd! Well, but to my choice:"
+        ],
+        [
+            "ARRAGON",
+            "'Who chooseth me shall get as much as he deserves.'"
+        ],
+        [
+            "ARRAGON",
+            "I will assume desert. Give me a key for this,"
+        ],
+        [
+            "ARRAGON",
+            "And instantly unlock my fortunes here.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "PORTIA",
+            "Too long a pause for that which you find there.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "ARRAGON",
+            "What's here? the portrait of a blinking idiot,"
+        ],
+        [
+            "ARRAGON",
+            "Presenting me a schedule! I will read it."
+        ],
+        [
+            "ARRAGON",
+            "How much unlike art thou to Portia!"
+        ],
+        [
+            "ARRAGON",
+            "How much unlike my hopes and my deservings!"
+        ],
+        [
+            "ARRAGON",
+            "'Who chooseth me shall have as much as he deserves.'"
+        ],
+        [
+            "ARRAGON",
+            "Did I deserve no more than a fool's head?"
+        ],
+        [
+            "ARRAGON",
+            "Is that my prize? are my deserts no better?"
+        ],
+        [
+            "PORTIA",
+            "To offend, and judge, are distinct offices"
+        ],
+        [
+            "PORTIA",
+            "And of opposed natures."
+        ],
+        [
+            "ARRAGON",
+            "What is here?"
+        ],
+        [
+            "ARRAGON",
+            "The fire seven times tried this:"
+        ],
+        [
+            "ARRAGON",
+            "Seven times tried that judgment is,"
+        ],
+        [
+            "ARRAGON",
+            "That did never choose amiss."
+        ],
+        [
+            "ARRAGON",
+            "Some there be that shadows kiss;"
+        ],
+        [
+            "ARRAGON",
+            "Such have but a shadow's bliss:"
+        ],
+        [
+            "ARRAGON",
+            "There be fools alive, I wis,"
+        ],
+        [
+            "ARRAGON",
+            "Silver'd o'er; and so was this."
+        ],
+        [
+            "ARRAGON",
+            "Take what wife you will to bed,"
+        ],
+        [
+            "ARRAGON",
+            "I will ever be your head:"
+        ],
+        [
+            "ARRAGON",
+            "So be gone: you are sped."
+        ],
+        [
+            "ARRAGON",
+            "Still more fool I shall appear"
+        ],
+        [
+            "ARRAGON",
+            "By the time I linger here"
+        ],
+        [
+            "ARRAGON",
+            "With one fool's head I came to woo,"
+        ],
+        [
+            "ARRAGON",
+            "But I go away with two."
+        ],
+        [
+            "ARRAGON",
+            "Sweet, adieu. I'll keep my oath,"
+        ],
+        [
+            "ARRAGON",
+            "Patiently to bear my wroth.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "PORTIA",
+            "Thus hath the candle singed the moth.",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "PORTIA",
+            "O, these deliberate fools! when they do choose,"
+        ],
+        [
+            "PORTIA",
+            "They have the wisdom by their wit to lose."
+        ],
+        [
+            "NERISSA",
+            "The ancient saying is no heresy,"
+        ],
+        [
+            "NERISSA",
+            "Hanging and wiving goes by destiny."
+        ],
+        [
+            "PORTIA",
+            "Come, draw the curtain, Nerissa.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "Servant",
+            "Where is my lady?",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "PORTIA",
+            "Here: what would my lord?"
+        ],
+        [
+            "Servant",
+            "Madam, there is alighted at your gate"
+        ],
+        [
+            "Servant",
+            "A young Venetian, one that comes before"
+        ],
+        [
+            "Servant",
+            "To signify the approaching of his lord;"
+        ],
+        [
+            "Servant",
+            "From whom he bringeth sensible regreets,"
+        ],
+        [
+            "Servant",
+            "To wit, besides commends and courteous breath,"
+        ],
+        [
+            "Servant",
+            "Gifts of rich value. Yet I have not seen"
+        ],
+        [
+            "Servant",
+            "So likely an ambassador of love:"
+        ],
+        [
+            "Servant",
+            "A day in April never came so sweet,"
+        ],
+        [
+            "Servant",
+            "To show how costly summer was at hand,"
+        ],
+        [
+            "Servant",
+            "As this fore-spurrer comes before his lord."
+        ],
+        [
+            "PORTIA",
+            "No more, I pray thee: I am half afeard"
+        ],
+        [
+            "PORTIA",
+            "Thou wilt say anon he is some kin to thee,"
+        ],
+        [
+            "PORTIA",
+            "Thou spend'st such high-day wit in praising him."
+        ],
+        [
+            "PORTIA",
+            "Come, come, Nerissa; for I long to see"
+        ],
+        [
+            "PORTIA",
+            "Quick Cupid's post that comes so mannerly."
+        ],
+        [
+            "NERISSA",
+            "Bassanio, lord Love, if thy will it be!",
+            {
+                "following_direction_line": "6"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter NERISSA with a Servitor"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Flourish of cornets. Enter the PRINCE OF ARRAGON, PORTIA, and their trains"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "He opens the silver casket"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Reads. Exeunt Arragon and train"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Enter a Servant"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "NERISSA": [
+            [
+                "1",
+                "3"
+            ],
+            [
+                "82",
+                "83"
+            ],
+            [
+                "102",
+                "102"
+            ]
+        ],
+        "PORTIA": [
+            [
+                "4",
+                "8"
+            ],
+            [
+                "16",
+                "17"
+            ],
+            [
+                "52",
+                "52"
+            ],
+            [
+                "60",
+                "61"
+            ],
+            [
+                "79",
+                "81"
+            ],
+            [
+                "84",
+                "84"
+            ],
+            [
+                "86",
+                "86"
+            ],
+            [
+                "97",
+                "101"
+            ]
+        ],
+        "ARRAGON": [
+            [
+                "9",
+                "15"
+            ],
+            [
+                "18",
+                "51"
+            ],
+            [
+                "53",
+                "59"
+            ],
+            [
+                "62",
+                "78"
+            ]
+        ],
+        "Servant": [
+            [
+                "85",
+                "85"
+            ],
+            [
+                "87",
+                "96"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IX",
+    "scene_description": "Belmont. A room in PORTIA'S house."
+}

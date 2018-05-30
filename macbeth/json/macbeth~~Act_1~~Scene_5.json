@@ -1,0 +1,428 @@
+{
+    "scene_id": "macbeth~~Act_1~~Scene_5",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "LADY MACBETH",
+            "'They met me in the day of success: and I have",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "LADY MACBETH",
+            "learned by the perfectest report, they have more in"
+        ],
+        [
+            "LADY MACBETH",
+            "them than mortal knowledge. When I burned in desire"
+        ],
+        [
+            "LADY MACBETH",
+            "to question them further, they made themselves air,"
+        ],
+        [
+            "LADY MACBETH",
+            "into which they vanished. Whiles I stood rapt in"
+        ],
+        [
+            "LADY MACBETH",
+            "the wonder of it, came missives from the king, who"
+        ],
+        [
+            "LADY MACBETH",
+            "all-hailed me 'Thane of Cawdor;' by which title,"
+        ],
+        [
+            "LADY MACBETH",
+            "before, these weird sisters saluted me, and referred"
+        ],
+        [
+            "LADY MACBETH",
+            "me to the coming on of time, with 'Hail, king that"
+        ],
+        [
+            "LADY MACBETH",
+            "shalt be!' This have I thought good to deliver"
+        ],
+        [
+            "LADY MACBETH",
+            "thee, my dearest partner of greatness, that thou"
+        ],
+        [
+            "LADY MACBETH",
+            "mightst not lose the dues of rejoicing, by being"
+        ],
+        [
+            "LADY MACBETH",
+            "ignorant of what greatness is promised thee. Lay it"
+        ],
+        [
+            "LADY MACBETH",
+            "to thy heart, and farewell.'"
+        ],
+        [
+            "LADY MACBETH",
+            "Glamis thou art, and Cawdor; and shalt be"
+        ],
+        [
+            "LADY MACBETH",
+            "What thou art promised: yet do I fear thy nature;"
+        ],
+        [
+            "LADY MACBETH",
+            "It is too full o' the milk of human kindness"
+        ],
+        [
+            "LADY MACBETH",
+            "To catch the nearest way: thou wouldst be great;"
+        ],
+        [
+            "LADY MACBETH",
+            "Art not without ambition, but without"
+        ],
+        [
+            "LADY MACBETH",
+            "The illness should attend it: what thou wouldst highly,"
+        ],
+        [
+            "LADY MACBETH",
+            "That wouldst thou holily; wouldst not play false,"
+        ],
+        [
+            "LADY MACBETH",
+            "And yet wouldst wrongly win: thou'ldst have, great Glamis,"
+        ],
+        [
+            "LADY MACBETH",
+            "That which cries 'Thus thou must do, if thou have it;"
+        ],
+        [
+            "LADY MACBETH",
+            "And that which rather thou dost fear to do"
+        ],
+        [
+            "LADY MACBETH",
+            "Than wishest should be undone.' Hie thee hither,"
+        ],
+        [
+            "LADY MACBETH",
+            "That I may pour my spirits in thine ear;"
+        ],
+        [
+            "LADY MACBETH",
+            "And chastise with the valour of my tongue"
+        ],
+        [
+            "LADY MACBETH",
+            "All that impedes thee from the golden round,"
+        ],
+        [
+            "LADY MACBETH",
+            "Which fate and metaphysical aid doth seem"
+        ],
+        [
+            "LADY MACBETH",
+            "To have thee crown'd withal."
+        ],
+        [
+            "LADY MACBETH",
+            "What is your tidings?",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "Messenger",
+            "The king comes here to-night.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "LADY MACBETH",
+            "Thou'rt mad to say it:"
+        ],
+        [
+            "LADY MACBETH",
+            "Is not thy master with him? who, were't so,"
+        ],
+        [
+            "LADY MACBETH",
+            "Would have inform'd for preparation."
+        ],
+        [
+            "Messenger",
+            "So please you, it is true: our thane is coming:"
+        ],
+        [
+            "Messenger",
+            "One of my fellows had the speed of him,"
+        ],
+        [
+            "Messenger",
+            "Who, almost dead for breath, had scarcely more"
+        ],
+        [
+            "Messenger",
+            "Than would make up his message."
+        ],
+        [
+            "LADY MACBETH",
+            "Give him tending;"
+        ],
+        [
+            "LADY MACBETH",
+            "He brings great news."
+        ],
+        [
+            "LADY MACBETH",
+            "The raven himself is hoarse"
+        ],
+        [
+            "LADY MACBETH",
+            "That croaks the fatal entrance of Duncan"
+        ],
+        [
+            "LADY MACBETH",
+            "Under my battlements. Come, you spirits"
+        ],
+        [
+            "LADY MACBETH",
+            "That tend on mortal thoughts, unsex me here,"
+        ],
+        [
+            "LADY MACBETH",
+            "And fill me from the crown to the toe top-full"
+        ],
+        [
+            "LADY MACBETH",
+            "Of direst cruelty! make thick my blood;"
+        ],
+        [
+            "LADY MACBETH",
+            "Stop up the access and passage to remorse,"
+        ],
+        [
+            "LADY MACBETH",
+            "That no compunctious visitings of nature"
+        ],
+        [
+            "LADY MACBETH",
+            "Shake my fell purpose, nor keep peace between"
+        ],
+        [
+            "LADY MACBETH",
+            "The effect and it! Come to my woman's breasts,"
+        ],
+        [
+            "LADY MACBETH",
+            "And take my milk for gall, you murdering ministers,"
+        ],
+        [
+            "LADY MACBETH",
+            "Wherever in your sightless substances"
+        ],
+        [
+            "LADY MACBETH",
+            "You wait on nature's mischief! Come, thick night,"
+        ],
+        [
+            "LADY MACBETH",
+            "And pall thee in the dunnest smoke of hell,"
+        ],
+        [
+            "LADY MACBETH",
+            "That my keen knife see not the wound it makes,"
+        ],
+        [
+            "LADY MACBETH",
+            "Nor heaven peep through the blanket of the dark,"
+        ],
+        [
+            "LADY MACBETH",
+            "To cry 'Hold, hold!'"
+        ],
+        [
+            "LADY MACBETH",
+            "Great Glamis! worthy Cawdor!"
+        ],
+        [
+            "LADY MACBETH",
+            "Greater than both, by the all-hail hereafter!"
+        ],
+        [
+            "LADY MACBETH",
+            "Thy letters have transported me beyond"
+        ],
+        [
+            "LADY MACBETH",
+            "This ignorant present, and I feel now"
+        ],
+        [
+            "LADY MACBETH",
+            "The future in the instant.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "MACBETH",
+            "My dearest love,",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "MACBETH",
+            "Duncan comes here to-night."
+        ],
+        [
+            "LADY MACBETH",
+            "And when goes hence?"
+        ],
+        [
+            "MACBETH",
+            "To-morrow, as he purposes."
+        ],
+        [
+            "LADY MACBETH",
+            "O, never"
+        ],
+        [
+            "LADY MACBETH",
+            "Shall sun that morrow see!"
+        ],
+        [
+            "LADY MACBETH",
+            "Your face, my thane, is as a book where men"
+        ],
+        [
+            "LADY MACBETH",
+            "May read strange matters. To beguile the time,"
+        ],
+        [
+            "LADY MACBETH",
+            "Look like the time; bear welcome in your eye,"
+        ],
+        [
+            "LADY MACBETH",
+            "Your hand, your tongue: look like the innocent flower,"
+        ],
+        [
+            "LADY MACBETH",
+            "But be the serpent under't. He that's coming"
+        ],
+        [
+            "LADY MACBETH",
+            "Must be provided for: and you shall put"
+        ],
+        [
+            "LADY MACBETH",
+            "This night's great business into my dispatch;"
+        ],
+        [
+            "LADY MACBETH",
+            "Which shall to all our nights and days to come"
+        ],
+        [
+            "LADY MACBETH",
+            "Give solely sovereign sway and masterdom."
+        ],
+        [
+            "MACBETH",
+            "We will speak further."
+        ],
+        [
+            "LADY MACBETH",
+            "Only look up clear;"
+        ],
+        [
+            "LADY MACBETH",
+            "To alter favour ever is to fear:"
+        ],
+        [
+            "LADY MACBETH",
+            "Leave all the rest to me.",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter LADY MACBETH, reading a letter"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter a Messenger"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit Messenger. Enter MACBETH"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "LADY MACBETH": [
+            [
+                "1",
+                "31"
+            ],
+            [
+                "33",
+                "35"
+            ],
+            [
+                "40",
+                "63"
+            ],
+            [
+                "66",
+                "66"
+            ],
+            [
+                "68",
+                "78"
+            ],
+            [
+                "80",
+                "82"
+            ]
+        ],
+        "Messenger": [
+            [
+                "32",
+                "32"
+            ],
+            [
+                "36",
+                "39"
+            ]
+        ],
+        "MACBETH": [
+            [
+                "64",
+                "65"
+            ],
+            [
+                "67",
+                "67"
+            ],
+            [
+                "79",
+                "79"
+            ]
+        ]
+    },
+    "scene_name": "SCENE V",
+    "scene_description": "Inverness. Macbeth's castle."
+}
