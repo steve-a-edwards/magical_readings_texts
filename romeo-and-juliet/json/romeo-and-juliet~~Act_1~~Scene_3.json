@@ -1,0 +1,625 @@
+{
+    "scene_id": "romeo and juliet~~Act_1~~Scene_3",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "LADY CAPULET",
+            "Nurse, where's my daughter? call her forth to me.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "Nurse",
+            "Now, by my maidenhead, at twelve year old,"
+        ],
+        [
+            "Nurse",
+            "I bade her come. What, lamb! what, ladybird!"
+        ],
+        [
+            "Nurse",
+            "God forbid! Where's this girl? What, Juliet!",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "JULIET",
+            "How now! who calls?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "Nurse",
+            "Your mother."
+        ],
+        [
+            "JULIET",
+            "Madam, I am here."
+        ],
+        [
+            "JULIET",
+            "What is your will?"
+        ],
+        [
+            "LADY CAPULET",
+            "This is the matter:--Nurse, give leave awhile,"
+        ],
+        [
+            "LADY CAPULET",
+            "We must talk in secret:--nurse, come back again;"
+        ],
+        [
+            "LADY CAPULET",
+            "I have remember'd me, thou's hear our counsel."
+        ],
+        [
+            "LADY CAPULET",
+            "Thou know'st my daughter's of a pretty age."
+        ],
+        [
+            "Nurse",
+            "Faith, I can tell her age unto an hour."
+        ],
+        [
+            "LADY CAPULET",
+            "She's not fourteen."
+        ],
+        [
+            "Nurse",
+            "I'll lay fourteen of my teeth,--"
+        ],
+        [
+            "Nurse",
+            "And yet, to my teeth be it spoken, I have but four--"
+        ],
+        [
+            "Nurse",
+            "She is not fourteen. How long is it now"
+        ],
+        [
+            "Nurse",
+            "To Lammas-tide?"
+        ],
+        [
+            "LADY CAPULET",
+            "A fortnight and odd days."
+        ],
+        [
+            "Nurse",
+            "Even or odd, of all days in the year,"
+        ],
+        [
+            "Nurse",
+            "Come Lammas-eve at night shall she be fourteen."
+        ],
+        [
+            "Nurse",
+            "Susan and she--God rest all Christian souls!--"
+        ],
+        [
+            "Nurse",
+            "Were of an age: well, Susan is with God;"
+        ],
+        [
+            "Nurse",
+            "She was too good for me: but, as I said,"
+        ],
+        [
+            "Nurse",
+            "On Lammas-eve at night shall she be fourteen;"
+        ],
+        [
+            "Nurse",
+            "That shall she, marry; I remember it well."
+        ],
+        [
+            "Nurse",
+            "'Tis since the earthquake now eleven years;"
+        ],
+        [
+            "Nurse",
+            "And she was wean'd,--I never shall forget it,--"
+        ],
+        [
+            "Nurse",
+            "Of all the days of the year, upon that day:"
+        ],
+        [
+            "Nurse",
+            "For I had then laid wormwood to my dug,"
+        ],
+        [
+            "Nurse",
+            "Sitting in the sun under the dove-house wall;"
+        ],
+        [
+            "Nurse",
+            "My lord and you were then at Mantua:--"
+        ],
+        [
+            "Nurse",
+            "Nay, I do bear a brain:--but, as I said,"
+        ],
+        [
+            "Nurse",
+            "When it did taste the wormwood on the nipple"
+        ],
+        [
+            "Nurse",
+            "Of my dug and felt it bitter, pretty fool,"
+        ],
+        [
+            "Nurse",
+            "To see it tetchy and fall out with the dug!"
+        ],
+        [
+            "Nurse",
+            "Shake quoth the dove-house: 'twas no need, I trow,"
+        ],
+        [
+            "Nurse",
+            "To bid me trudge:"
+        ],
+        [
+            "Nurse",
+            "And since that time it is eleven years;"
+        ],
+        [
+            "Nurse",
+            "For then she could stand alone; nay, by the rood,"
+        ],
+        [
+            "Nurse",
+            "She could have run and waddled all about;"
+        ],
+        [
+            "Nurse",
+            "For even the day before, she broke her brow:"
+        ],
+        [
+            "Nurse",
+            "And then my husband--God be with his soul!"
+        ],
+        [
+            "Nurse",
+            "A' was a merry man--took up the child:"
+        ],
+        [
+            "Nurse",
+            "'Yea,' quoth he, 'dost thou fall upon thy face?"
+        ],
+        [
+            "Nurse",
+            "Thou wilt fall backward when thou hast more wit;"
+        ],
+        [
+            "Nurse",
+            "Wilt thou not, Jule?' and, by my holidame,"
+        ],
+        [
+            "Nurse",
+            "The pretty wretch left crying and said 'Ay.'"
+        ],
+        [
+            "Nurse",
+            "To see, now, how a jest shall come about!"
+        ],
+        [
+            "Nurse",
+            "I warrant, an I should live a thousand years,"
+        ],
+        [
+            "Nurse",
+            "I never should forget it: 'Wilt thou not, Jule?' quoth he;"
+        ],
+        [
+            "Nurse",
+            "And, pretty fool, it stinted and said 'Ay.'"
+        ],
+        [
+            "LADY CAPULET",
+            "Enough of this; I pray thee, hold thy peace."
+        ],
+        [
+            "Nurse",
+            "Yes, madam: yet I cannot choose but laugh,"
+        ],
+        [
+            "Nurse",
+            "To think it should leave crying and say 'Ay.'"
+        ],
+        [
+            "Nurse",
+            "And yet, I warrant, it had upon its brow"
+        ],
+        [
+            "Nurse",
+            "A bump as big as a young cockerel's stone;"
+        ],
+        [
+            "Nurse",
+            "A parlous knock; and it cried bitterly:"
+        ],
+        [
+            "Nurse",
+            "'Yea,' quoth my husband,'fall'st upon thy face?"
+        ],
+        [
+            "Nurse",
+            "Thou wilt fall backward when thou comest to age;"
+        ],
+        [
+            "Nurse",
+            "Wilt thou not, Jule?' it stinted and said 'Ay.'"
+        ],
+        [
+            "JULIET",
+            "And stint thou too, I pray thee, nurse, say I."
+        ],
+        [
+            "Nurse",
+            "Peace, I have done. God mark thee to his grace!"
+        ],
+        [
+            "Nurse",
+            "Thou wast the prettiest babe that e'er I nursed:"
+        ],
+        [
+            "Nurse",
+            "An I might live to see thee married once,"
+        ],
+        [
+            "Nurse",
+            "I have my wish."
+        ],
+        [
+            "LADY CAPULET",
+            "Marry, that 'marry' is the very theme"
+        ],
+        [
+            "LADY CAPULET",
+            "I came to talk of. Tell me, daughter Juliet,"
+        ],
+        [
+            "LADY CAPULET",
+            "How stands your disposition to be married?"
+        ],
+        [
+            "JULIET",
+            "It is an honour that I dream not of."
+        ],
+        [
+            "Nurse",
+            "An honour! were not I thine only nurse,"
+        ],
+        [
+            "Nurse",
+            "I would say thou hadst suck'd wisdom from thy teat."
+        ],
+        [
+            "LADY CAPULET",
+            "Well, think of marriage now; younger than you,"
+        ],
+        [
+            "LADY CAPULET",
+            "Here in Verona, ladies of esteem,"
+        ],
+        [
+            "LADY CAPULET",
+            "Are made already mothers: by my count,"
+        ],
+        [
+            "LADY CAPULET",
+            "I was your mother much upon these years"
+        ],
+        [
+            "LADY CAPULET",
+            "That you are now a maid. Thus then in brief:"
+        ],
+        [
+            "LADY CAPULET",
+            "The valiant Paris seeks you for his love."
+        ],
+        [
+            "Nurse",
+            "A man, young lady! lady, such a man"
+        ],
+        [
+            "Nurse",
+            "As all the world--why, he's a man of wax."
+        ],
+        [
+            "LADY CAPULET",
+            "Verona's summer hath not such a flower."
+        ],
+        [
+            "Nurse",
+            "Nay, he's a flower; in faith, a very flower."
+        ],
+        [
+            "LADY CAPULET",
+            "What say you? can you love the gentleman?"
+        ],
+        [
+            "LADY CAPULET",
+            "This night you shall behold him at our feast;"
+        ],
+        [
+            "LADY CAPULET",
+            "Read o'er the volume of young Paris' face,"
+        ],
+        [
+            "LADY CAPULET",
+            "And find delight writ there with beauty's pen;"
+        ],
+        [
+            "LADY CAPULET",
+            "Examine every married lineament,"
+        ],
+        [
+            "LADY CAPULET",
+            "And see how one another lends content"
+        ],
+        [
+            "LADY CAPULET",
+            "And what obscured in this fair volume lies"
+        ],
+        [
+            "LADY CAPULET",
+            "Find written in the margent of his eyes."
+        ],
+        [
+            "LADY CAPULET",
+            "This precious book of love, this unbound lover,"
+        ],
+        [
+            "LADY CAPULET",
+            "To beautify him, only lacks a cover:"
+        ],
+        [
+            "LADY CAPULET",
+            "The fish lives in the sea, and 'tis much pride"
+        ],
+        [
+            "LADY CAPULET",
+            "For fair without the fair within to hide:"
+        ],
+        [
+            "LADY CAPULET",
+            "That book in many's eyes doth share the glory,"
+        ],
+        [
+            "LADY CAPULET",
+            "That in gold clasps locks in the golden story;"
+        ],
+        [
+            "LADY CAPULET",
+            "So shall you share all that he doth possess,"
+        ],
+        [
+            "LADY CAPULET",
+            "By having him, making yourself no less."
+        ],
+        [
+            "Nurse",
+            "No less! nay, bigger; women grow by men."
+        ],
+        [
+            "LADY CAPULET",
+            "Speak briefly, can you like of Paris' love?"
+        ],
+        [
+            "JULIET",
+            "I'll look to like, if looking liking move:"
+        ],
+        [
+            "JULIET",
+            "But no more deep will I endart mine eye"
+        ],
+        [
+            "JULIET",
+            "Than your consent gives strength to make it fly.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "Servant",
+            "Madam, the guests are come, supper served up, you",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "Servant",
+            "called, my young lady asked for, the nurse cursed in"
+        ],
+        [
+            "Servant",
+            "the pantry, and every thing in extremity. I must"
+        ],
+        [
+            "Servant",
+            "hence to wait; I beseech you, follow straight."
+        ],
+        [
+            "LADY CAPULET",
+            "We follow thee."
+        ],
+        [
+            "LADY CAPULET",
+            "Juliet, the county stays.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "Nurse",
+            "Go, girl, seek happy nights to happy days.",
+            {
+                "preceding_direction_line": "4"
+            },
+            {
+                "following_direction_line": "5"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter LADY CAPULET and Nurse"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter JULIET"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter a Servant"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit Servant"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "LADY CAPULET": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "9",
+                "12"
+            ],
+            [
+                "14",
+                "14"
+            ],
+            [
+                "19",
+                "19"
+            ],
+            [
+                "53",
+                "53"
+            ],
+            [
+                "67",
+                "69"
+            ],
+            [
+                "73",
+                "78"
+            ],
+            [
+                "81",
+                "81"
+            ],
+            [
+                "83",
+                "98"
+            ],
+            [
+                "100",
+                "100"
+            ],
+            [
+                "108",
+                "109"
+            ]
+        ],
+        "Nurse": [
+            [
+                "2",
+                "4"
+            ],
+            [
+                "6",
+                "6"
+            ],
+            [
+                "13",
+                "13"
+            ],
+            [
+                "15",
+                "18"
+            ],
+            [
+                "20",
+                "52"
+            ],
+            [
+                "54",
+                "61"
+            ],
+            [
+                "63",
+                "66"
+            ],
+            [
+                "71",
+                "72"
+            ],
+            [
+                "79",
+                "80"
+            ],
+            [
+                "82",
+                "82"
+            ],
+            [
+                "99",
+                "99"
+            ],
+            [
+                "110",
+                "110"
+            ]
+        ],
+        "JULIET": [
+            [
+                "5",
+                "5"
+            ],
+            [
+                "7",
+                "8"
+            ],
+            [
+                "62",
+                "62"
+            ],
+            [
+                "70",
+                "70"
+            ],
+            [
+                "101",
+                "103"
+            ]
+        ],
+        "Servant": [
+            [
+                "104",
+                "107"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "A room in Capulet's house."
+}

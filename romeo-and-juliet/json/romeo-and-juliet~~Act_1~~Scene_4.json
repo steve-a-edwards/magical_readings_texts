@@ -1,0 +1,626 @@
+{
+    "scene_id": "romeo and juliet~~Act_1~~Scene_4",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "ROMEO",
+            "What, shall this speech be spoke for our excuse?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "ROMEO",
+            "Or shall we on without a apology?"
+        ],
+        [
+            "BENVOLIO",
+            "The date is out of such prolixity:"
+        ],
+        [
+            "BENVOLIO",
+            "We'll have no Cupid hoodwink'd with a scarf,"
+        ],
+        [
+            "BENVOLIO",
+            "Bearing a Tartar's painted bow of lath,"
+        ],
+        [
+            "BENVOLIO",
+            "Scaring the ladies like a crow-keeper;"
+        ],
+        [
+            "BENVOLIO",
+            "Nor no without-book prologue, faintly spoke"
+        ],
+        [
+            "BENVOLIO",
+            "After the prompter, for our entrance:"
+        ],
+        [
+            "BENVOLIO",
+            "But let them measure us by what they will;"
+        ],
+        [
+            "BENVOLIO",
+            "We'll measure them a measure, and be gone."
+        ],
+        [
+            "ROMEO",
+            "Give me a torch: I am not for this ambling;"
+        ],
+        [
+            "ROMEO",
+            "Being but heavy, I will bear the light."
+        ],
+        [
+            "MERCUTIO",
+            "Nay, gentle Romeo, we must have you dance."
+        ],
+        [
+            "ROMEO",
+            "Not I, believe me: you have dancing shoes"
+        ],
+        [
+            "ROMEO",
+            "With nimble soles: I have a soul of lead"
+        ],
+        [
+            "ROMEO",
+            "So stakes me to the ground I cannot move."
+        ],
+        [
+            "MERCUTIO",
+            "You are a lover; borrow Cupid's wings,"
+        ],
+        [
+            "MERCUTIO",
+            "And soar with them above a common bound."
+        ],
+        [
+            "ROMEO",
+            "I am too sore enpierced with his shaft"
+        ],
+        [
+            "ROMEO",
+            "To soar with his light feathers, and so bound,"
+        ],
+        [
+            "ROMEO",
+            "I cannot bound a pitch above dull woe:"
+        ],
+        [
+            "ROMEO",
+            "Under love's heavy burden do I sink."
+        ],
+        [
+            "MERCUTIO",
+            "And, to sink in it, should you burden love;"
+        ],
+        [
+            "MERCUTIO",
+            "Too great oppression for a tender thing."
+        ],
+        [
+            "ROMEO",
+            "Is love a tender thing? it is too rough,"
+        ],
+        [
+            "ROMEO",
+            "Too rude, too boisterous, and it pricks like thorn."
+        ],
+        [
+            "MERCUTIO",
+            "If love be rough with you, be rough with love;"
+        ],
+        [
+            "MERCUTIO",
+            "Prick love for pricking, and you beat love down."
+        ],
+        [
+            "MERCUTIO",
+            "Give me a case to put my visage in:"
+        ],
+        [
+            "MERCUTIO",
+            "A visor for a visor! what care I"
+        ],
+        [
+            "MERCUTIO",
+            "What curious eye doth quote deformities?"
+        ],
+        [
+            "MERCUTIO",
+            "Here are the beetle brows shall blush for me."
+        ],
+        [
+            "BENVOLIO",
+            "Come, knock and enter; and no sooner in,"
+        ],
+        [
+            "BENVOLIO",
+            "But every man betake him to his legs."
+        ],
+        [
+            "ROMEO",
+            "A torch for me: let wantons light of heart"
+        ],
+        [
+            "ROMEO",
+            "Tickle the senseless rushes with their heels,"
+        ],
+        [
+            "ROMEO",
+            "For I am proverb'd with a grandsire phrase;"
+        ],
+        [
+            "ROMEO",
+            "I'll be a candle-holder, and look on."
+        ],
+        [
+            "ROMEO",
+            "The game was ne'er so fair, and I am done."
+        ],
+        [
+            "MERCUTIO",
+            "Tut, dun's the mouse, the constable's own word:"
+        ],
+        [
+            "MERCUTIO",
+            "If thou art dun, we'll draw thee from the mire"
+        ],
+        [
+            "MERCUTIO",
+            "Of this sir-reverence love, wherein thou stick'st"
+        ],
+        [
+            "MERCUTIO",
+            "Up to the ears. Come, we burn daylight, ho!"
+        ],
+        [
+            "ROMEO",
+            "Nay, that's not so."
+        ],
+        [
+            "MERCUTIO",
+            "I mean, sir, in delay"
+        ],
+        [
+            "MERCUTIO",
+            "We waste our lights in vain, like lamps by day."
+        ],
+        [
+            "MERCUTIO",
+            "Take our good meaning, for our judgment sits"
+        ],
+        [
+            "MERCUTIO",
+            "Five times in that ere once in our five wits."
+        ],
+        [
+            "ROMEO",
+            "And we mean well in going to this mask;"
+        ],
+        [
+            "ROMEO",
+            "But 'tis no wit to go."
+        ],
+        [
+            "MERCUTIO",
+            "Why, may one ask?"
+        ],
+        [
+            "ROMEO",
+            "I dream'd a dream to-night."
+        ],
+        [
+            "MERCUTIO",
+            "And so did I."
+        ],
+        [
+            "ROMEO",
+            "Well, what was yours?"
+        ],
+        [
+            "MERCUTIO",
+            "That dreamers often lie."
+        ],
+        [
+            "ROMEO",
+            "In bed asleep, while they do dream things true."
+        ],
+        [
+            "MERCUTIO",
+            "O, then, I see Queen Mab hath been with you."
+        ],
+        [
+            "MERCUTIO",
+            "She is the fairies' midwife, and she comes"
+        ],
+        [
+            "MERCUTIO",
+            "In shape no bigger than an agate-stone"
+        ],
+        [
+            "MERCUTIO",
+            "On the fore-finger of an alderman,"
+        ],
+        [
+            "MERCUTIO",
+            "Drawn with a team of little atomies"
+        ],
+        [
+            "MERCUTIO",
+            "Athwart men's noses as they lie asleep;"
+        ],
+        [
+            "MERCUTIO",
+            "Her wagon-spokes made of long spiders' legs,"
+        ],
+        [
+            "MERCUTIO",
+            "The cover of the wings of grasshoppers,"
+        ],
+        [
+            "MERCUTIO",
+            "The traces of the smallest spider's web,"
+        ],
+        [
+            "MERCUTIO",
+            "The collars of the moonshine's watery beams,"
+        ],
+        [
+            "MERCUTIO",
+            "Her whip of cricket's bone, the lash of film,"
+        ],
+        [
+            "MERCUTIO",
+            "Her wagoner a small grey-coated gnat,"
+        ],
+        [
+            "MERCUTIO",
+            "Not so big as a round little worm"
+        ],
+        [
+            "MERCUTIO",
+            "Prick'd from the lazy finger of a maid;"
+        ],
+        [
+            "MERCUTIO",
+            "Her chariot is an empty hazel-nut"
+        ],
+        [
+            "MERCUTIO",
+            "Made by the joiner squirrel or old grub,"
+        ],
+        [
+            "MERCUTIO",
+            "Time out o' mind the fairies' coachmakers."
+        ],
+        [
+            "MERCUTIO",
+            "And in this state she gallops night by night"
+        ],
+        [
+            "MERCUTIO",
+            "Through lovers' brains, and then they dream of love;"
+        ],
+        [
+            "MERCUTIO",
+            "O'er courtiers' knees, that dream on court'sies straight,"
+        ],
+        [
+            "MERCUTIO",
+            "O'er lawyers' fingers, who straight dream on fees,"
+        ],
+        [
+            "MERCUTIO",
+            "O'er ladies ' lips, who straight on kisses dream,"
+        ],
+        [
+            "MERCUTIO",
+            "Which oft the angry Mab with blisters plagues,"
+        ],
+        [
+            "MERCUTIO",
+            "Because their breaths with sweetmeats tainted are:"
+        ],
+        [
+            "MERCUTIO",
+            "Sometime she gallops o'er a courtier's nose,"
+        ],
+        [
+            "MERCUTIO",
+            "And then dreams he of smelling out a suit;"
+        ],
+        [
+            "MERCUTIO",
+            "And sometime comes she with a tithe-pig's tail"
+        ],
+        [
+            "MERCUTIO",
+            "Tickling a parson's nose as a' lies asleep,"
+        ],
+        [
+            "MERCUTIO",
+            "Then dreams, he of another benefice:"
+        ],
+        [
+            "MERCUTIO",
+            "Sometime she driveth o'er a soldier's neck,"
+        ],
+        [
+            "MERCUTIO",
+            "And then dreams he of cutting foreign throats,"
+        ],
+        [
+            "MERCUTIO",
+            "Of breaches, ambuscadoes, Spanish blades,"
+        ],
+        [
+            "MERCUTIO",
+            "Of healths five-fathom deep; and then anon"
+        ],
+        [
+            "MERCUTIO",
+            "Drums in his ear, at which he starts and wakes,"
+        ],
+        [
+            "MERCUTIO",
+            "And being thus frighted swears a prayer or two"
+        ],
+        [
+            "MERCUTIO",
+            "And sleeps again. This is that very Mab"
+        ],
+        [
+            "MERCUTIO",
+            "That plats the manes of horses in the night,"
+        ],
+        [
+            "MERCUTIO",
+            "And bakes the elflocks in foul sluttish hairs,"
+        ],
+        [
+            "MERCUTIO",
+            "Which once untangled, much misfortune bodes:"
+        ],
+        [
+            "MERCUTIO",
+            "This is the hag, when maids lie on their backs,"
+        ],
+        [
+            "MERCUTIO",
+            "That presses them and learns them first to bear,"
+        ],
+        [
+            "MERCUTIO",
+            "Making them women of good carriage:"
+        ],
+        [
+            "MERCUTIO",
+            "This is she--"
+        ],
+        [
+            "ROMEO",
+            "Peace, peace, Mercutio, peace!"
+        ],
+        [
+            "ROMEO",
+            "Thou talk'st of nothing."
+        ],
+        [
+            "MERCUTIO",
+            "True, I talk of dreams,"
+        ],
+        [
+            "MERCUTIO",
+            "Which are the children of an idle brain,"
+        ],
+        [
+            "MERCUTIO",
+            "Begot of nothing but vain fantasy,"
+        ],
+        [
+            "MERCUTIO",
+            "Which is as thin of substance as the air"
+        ],
+        [
+            "MERCUTIO",
+            "And more inconstant than the wind, who wooes"
+        ],
+        [
+            "MERCUTIO",
+            "Even now the frozen bosom of the north,"
+        ],
+        [
+            "MERCUTIO",
+            "And, being anger'd, puffs away from thence,"
+        ],
+        [
+            "MERCUTIO",
+            "Turning his face to the dew-dropping south."
+        ],
+        [
+            "BENVOLIO",
+            "This wind, you talk of, blows us from ourselves;"
+        ],
+        [
+            "BENVOLIO",
+            "Supper is done, and we shall come too late."
+        ],
+        [
+            "ROMEO",
+            "I fear, too early: for my mind misgives"
+        ],
+        [
+            "ROMEO",
+            "Some consequence yet hanging in the stars"
+        ],
+        [
+            "ROMEO",
+            "Shall bitterly begin his fearful date"
+        ],
+        [
+            "ROMEO",
+            "With this night's revels and expire the term"
+        ],
+        [
+            "ROMEO",
+            "Of a despised life closed in my breast"
+        ],
+        [
+            "ROMEO",
+            "By some vile forfeit of untimely death."
+        ],
+        [
+            "ROMEO",
+            "But He, that hath the steerage of my course,"
+        ],
+        [
+            "ROMEO",
+            "Direct my sail! On, lusty gentlemen."
+        ],
+        [
+            "BENVOLIO",
+            "Strike, drum.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter ROMEO, MERCUTIO, BENVOLIO, with five or six Maskers, Torch-bearers, and others"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "ROMEO": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "11",
+                "12"
+            ],
+            [
+                "14",
+                "16"
+            ],
+            [
+                "19",
+                "22"
+            ],
+            [
+                "25",
+                "26"
+            ],
+            [
+                "35",
+                "39"
+            ],
+            [
+                "44",
+                "44"
+            ],
+            [
+                "49",
+                "50"
+            ],
+            [
+                "52",
+                "52"
+            ],
+            [
+                "54",
+                "54"
+            ],
+            [
+                "56",
+                "56"
+            ],
+            [
+                "100",
+                "101"
+            ],
+            [
+                "112",
+                "119"
+            ]
+        ],
+        "BENVOLIO": [
+            [
+                "3",
+                "10"
+            ],
+            [
+                "33",
+                "34"
+            ],
+            [
+                "110",
+                "111"
+            ],
+            [
+                "120",
+                "120"
+            ]
+        ],
+        "MERCUTIO": [
+            [
+                "13",
+                "13"
+            ],
+            [
+                "17",
+                "18"
+            ],
+            [
+                "23",
+                "24"
+            ],
+            [
+                "27",
+                "32"
+            ],
+            [
+                "40",
+                "43"
+            ],
+            [
+                "45",
+                "48"
+            ],
+            [
+                "51",
+                "51"
+            ],
+            [
+                "53",
+                "53"
+            ],
+            [
+                "55",
+                "55"
+            ],
+            [
+                "57",
+                "99"
+            ],
+            [
+                "102",
+                "109"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IV",
+    "scene_description": "A street."
+}
