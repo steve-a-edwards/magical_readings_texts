@@ -54,9 +54,9 @@ you tell me whether one Launcelot,
 that dwells with him, dwell with him or no?
 _R_LAUNCELOT
 Talk you of young Master Launcelot?
+_D_Aside
 Mark me now; now will I raise the waters. Talk you
 of young Master Launcelot?
-_D_Aside
 _R_GOBBO
 No master, sir, but a poor man's son: his father,
 though I say it, is an honest exceeding poor man

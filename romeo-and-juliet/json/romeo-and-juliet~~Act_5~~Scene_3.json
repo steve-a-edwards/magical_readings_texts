@@ -77,11 +77,17 @@
         ],
         [
             "PARIS",
-            "Nightly shall be to strew thy grave and weep."
+            "Nightly shall be to strew thy grave and weep.",
+            {
+                "following_direction_line": "3"
+            }
         ],
         [
             "PARIS",
-            "The boy gives warning something doth approach."
+            "The boy gives warning something doth approach.",
+            {
+                "preceding_direction_line": "3"
+            }
         ],
         [
             "PARIS",
@@ -95,14 +101,14 @@
             "PARIS",
             "What with a torch! muffle me, night, awhile.",
             {
-                "following_direction_line": "3"
+                "following_direction_line": "4"
             }
         ],
         [
             "ROMEO",
             "Give me that mattock and the wrenching iron.",
             {
-                "preceding_direction_line": "3"
+                "preceding_direction_line": "4"
             }
         ],
         [
@@ -193,14 +199,14 @@
             "BALTHASAR",
             "His looks I fear, and his intents I doubt.",
             {
-                "following_direction_line": "4"
+                "following_direction_line": "5"
             }
         ],
         [
             "ROMEO",
             "Thou detestable maw, thou womb of death,",
             {
-                "preceding_direction_line": "4"
+                "preceding_direction_line": "5"
             }
         ],
         [
@@ -215,14 +221,14 @@
             "ROMEO",
             "And, in despite, I'll cram thee with more food!",
             {
-                "following_direction_line": "5"
+                "following_direction_line": "6"
             }
         ],
         [
             "PARIS",
             "This is that banish'd haughty Montague,",
             {
-                "preceding_direction_line": "5"
+                "preceding_direction_line": "6"
             }
         ],
         [
@@ -239,11 +245,17 @@
         ],
         [
             "PARIS",
-            "To the dead bodies: I will apprehend him."
+            "To the dead bodies: I will apprehend him.",
+            {
+                "following_direction_line": "7"
+            }
         ],
         [
             "PARIS",
-            "Stop thy unhallow'd toil, vile Montague!"
+            "Stop thy unhallow'd toil, vile Montague!",
+            {
+                "preceding_direction_line": "7"
+            }
         ],
         [
             "PARIS",
@@ -255,17 +267,11 @@
         ],
         [
             "PARIS",
-            "Obey, and go with me; for thou must die.",
-            {
-                "following_direction_line": "6"
-            }
+            "Obey, and go with me; for thou must die."
         ],
         [
             "ROMEO",
-            "I must indeed; and therefore came I hither.",
-            {
-                "preceding_direction_line": "6"
-            }
+            "I must indeed; and therefore came I hither."
         ],
         [
             "ROMEO",
@@ -315,42 +321,48 @@
             "ROMEO",
             "Wilt thou provoke me? then have at thee, boy!",
             {
-                "following_direction_line": "7"
+                "following_direction_line": "8"
             }
         ],
         [
             "PAGE",
             "O Lord, they fight! I will go call the watch.",
             {
-                "preceding_direction_line": "7"
+                "preceding_direction_line": "8"
             },
             {
-                "following_direction_line": "8"
+                "following_direction_line": "9"
             }
         ],
         [
             "PARIS",
             "O, I am slain!",
             {
-                "preceding_direction_line": "8"
+                "preceding_direction_line": "9"
+            },
+            {
+                "following_direction_line": "10"
             }
         ],
         [
             "PARIS",
-            "If thou be merciful,"
+            "If thou be merciful,",
+            {
+                "preceding_direction_line": "10"
+            }
         ],
         [
             "PARIS",
             "Open the tomb, lay me with Juliet.",
             {
-                "following_direction_line": "9"
+                "following_direction_line": "11"
             }
         ],
         [
             "ROMEO",
             "In faith, I will. Let me peruse this face.",
             {
-                "preceding_direction_line": "9"
+                "preceding_direction_line": "11"
             }
         ],
         [
@@ -403,11 +415,17 @@
         ],
         [
             "ROMEO",
-            "Death, lie thou there, by a dead man interr'd."
+            "Death, lie thou there, by a dead man interr'd.",
+            {
+                "following_direction_line": "12"
+            }
         ],
         [
             "ROMEO",
-            "How oft when men are at the point of death"
+            "How oft when men are at the point of death",
+            {
+                "preceding_direction_line": "12"
+            }
         ],
         [
             "ROMEO",
@@ -531,24 +549,30 @@
         ],
         [
             "ROMEO",
-            "Here's to my love!"
+            "Here's to my love!",
+            {
+                "following_direction_line": "13"
+            }
         ],
         [
             "ROMEO",
-            "O true apothecary!"
+            "O true apothecary!",
+            {
+                "preceding_direction_line": "13"
+            }
         ],
         [
             "ROMEO",
             "Thy drugs are quick. Thus with a kiss I die.",
             {
-                "following_direction_line": "10"
+                "following_direction_line": "14"
             }
         ],
         [
             "FRIAR LAURENCE",
             "Saint Francis be my speed! how oft to-night",
             {
-                "preceding_direction_line": "10"
+                "preceding_direction_line": "14"
             }
         ],
         [
@@ -641,11 +665,17 @@
         ],
         [
             "FRIAR LAURENCE",
-            "Romeo!"
+            "Romeo!",
+            {
+                "following_direction_line": "15"
+            }
         ],
         [
             "FRIAR LAURENCE",
-            "Alack, alack, what blood is this, which stains"
+            "Alack, alack, what blood is this, which stains",
+            {
+                "preceding_direction_line": "15"
+            }
         ],
         [
             "FRIAR LAURENCE",
@@ -657,11 +687,17 @@
         ],
         [
             "FRIAR LAURENCE",
-            "To lie discolour'd by this place of peace?"
+            "To lie discolour'd by this place of peace?",
+            {
+                "following_direction_line": "16"
+            }
         ],
         [
             "FRIAR LAURENCE",
-            "Romeo! O, pale! Who else? what, Paris too?"
+            "Romeo! O, pale! Who else? what, Paris too?",
+            {
+                "preceding_direction_line": "16"
+            }
         ],
         [
             "FRIAR LAURENCE",
@@ -675,14 +711,14 @@
             "FRIAR LAURENCE",
             "The lady stirs.",
             {
-                "following_direction_line": "11"
+                "following_direction_line": "17"
             }
         ],
         [
             "JULIET",
             "O comfortable friar! where is my lord?",
             {
-                "preceding_direction_line": "11"
+                "preceding_direction_line": "17"
             }
         ],
         [
@@ -693,14 +729,14 @@
             "JULIET",
             "And there I am. Where is my Romeo?",
             {
-                "following_direction_line": "12"
+                "following_direction_line": "18"
             }
         ],
         [
             "FRIAR LAURENCE",
             "I hear some noise. Lady, come from that nest",
             {
-                "preceding_direction_line": "12"
+                "preceding_direction_line": "18"
             }
         ],
         [
@@ -733,25 +769,31 @@
         ],
         [
             "FRIAR LAURENCE",
-            "Come, go, good Juliet,"
+            "Come, go, good Juliet,",
+            {
+                "following_direction_line": "19"
+            }
         ],
         [
             "FRIAR LAURENCE",
             "I dare no longer stay.",
             {
-                "following_direction_line": "13"
+                "preceding_direction_line": "19"
             }
         ],
         [
             "JULIET",
             "Go, get thee hence, for I will not away.",
             {
-                "preceding_direction_line": "13"
+                "following_direction_line": "20"
             }
         ],
         [
             "JULIET",
-            "What's here? a cup, closed in my true love's hand?"
+            "What's here? a cup, closed in my true love's hand?",
+            {
+                "preceding_direction_line": "20"
+            }
         ],
         [
             "JULIET",
@@ -771,42 +813,54 @@
         ],
         [
             "JULIET",
-            "To make die with a restorative."
+            "To make die with a restorative.",
+            {
+                "following_direction_line": "21"
+            }
         ],
         [
             "JULIET",
             "Thy lips are warm.",
             {
-                "following_direction_line": "14"
+                "preceding_direction_line": "21"
             }
         ],
         [
             "First Watchman",
-            "[Within] Lead, boy: which way?",
+            "[Within] Lead, boy: which way?"
+        ],
+        [
+            "JULIET",
+            "Yea, noise? then I'll be brief. O happy dagger!",
             {
-                "preceding_direction_line": "14"
+                "following_direction_line": "22"
             }
         ],
         [
             "JULIET",
-            "Yea, noise? then I'll be brief. O happy dagger!"
-        ],
-        [
-            "JULIET",
-            "This is thy sheath;"
+            "This is thy sheath;",
+            {
+                "preceding_direction_line": "22"
+            },
+            {
+                "following_direction_line": "23"
+            }
         ],
         [
             "JULIET",
             "there rust, and let me die.",
             {
-                "following_direction_line": "15"
+                "preceding_direction_line": "23"
+            },
+            {
+                "following_direction_line": "24"
             }
         ],
         [
             "PAGE",
             "This is the place; there, where the torch doth burn.",
             {
-                "preceding_direction_line": "15"
+                "preceding_direction_line": "24"
             }
         ],
         [
@@ -849,28 +903,28 @@
             "First Watchman",
             "We cannot without circumstance descry.",
             {
-                "following_direction_line": "16"
+                "following_direction_line": "25"
             }
         ],
         [
             "Second Watchman",
             "Here's Romeo's man; we found him in the churchyard.",
             {
-                "preceding_direction_line": "16"
+                "preceding_direction_line": "25"
             }
         ],
         [
             "First Watchman",
             "Hold him in safety, till the prince come hither.",
             {
-                "following_direction_line": "17"
+                "following_direction_line": "26"
             }
         ],
         [
             "Third Watchman",
             "Here is a friar, that trembles, sighs and weeps:",
             {
-                "preceding_direction_line": "17"
+                "preceding_direction_line": "26"
             }
         ],
         [
@@ -885,28 +939,28 @@
             "First Watchman",
             "A great suspicion: stay the friar too.",
             {
-                "following_direction_line": "18"
+                "following_direction_line": "27"
             }
         ],
         [
             "PRINCE",
             "What misadventure is so early up,",
             {
-                "preceding_direction_line": "18"
+                "preceding_direction_line": "27"
             }
         ],
         [
             "PRINCE",
             "That calls our person from our morning's rest?",
             {
-                "following_direction_line": "19"
+                "following_direction_line": "28"
             }
         ],
         [
             "CAPULET",
             "What should it be, that they so shriek abroad?",
             {
-                "preceding_direction_line": "19"
+                "preceding_direction_line": "28"
             }
         ],
         [
@@ -977,14 +1031,14 @@
             "LADY CAPULET",
             "That warns my old age to a sepulchre.",
             {
-                "following_direction_line": "20"
+                "following_direction_line": "29"
             }
         ],
         [
             "PRINCE",
             "Come, Montague; for thou art early up,",
             {
-                "preceding_direction_line": "20"
+                "preceding_direction_line": "29"
             }
         ],
         [
@@ -1403,7 +1457,7 @@
             "PRINCE",
             "Than this of Juliet and her Romeo.",
             {
-                "following_direction_line": "21"
+                "following_direction_line": "30"
             }
         ]
     ],
@@ -1421,96 +1475,141 @@
         [
             "_DIRECTION",
             "D3",
-            "The Page whistles. Retires. Enter ROMEO and BALTHASAR, with a torch, mattock, and c"
+            "The Page whistles"
         ],
         [
             "_DIRECTION",
             "D4",
-            "Retires"
+            "Retires. Enter ROMEO and BALTHASAR, with a torch, mattock, and c"
         ],
         [
             "_DIRECTION",
             "D5",
-            "Opens the tomb"
+            "Retires"
         ],
         [
             "_DIRECTION",
             "D6",
-            "Comes forward"
+            "Opens the tomb"
         ],
         [
             "_DIRECTION",
             "D7",
-            "They fight"
+            "Comes forward"
         ],
         [
             "_DIRECTION",
             "D8",
-            "Exit"
+            "They fight"
         ],
         [
             "_DIRECTION",
             "D9",
-            "Falls. Dies"
+            "Exit"
         ],
         [
             "_DIRECTION",
             "D10",
-            "Laying PARIS in the tomb. Drinks. Dies. Enter, at the other end of the churchyard, FRIAR LAURENCE, with a lantern, crow, and spade"
+            "Falls"
         ],
         [
             "_DIRECTION",
             "D11",
-            "Advances. Enters the tomb. JULIET wakes"
+            "Dies"
         ],
         [
             "_DIRECTION",
             "D12",
-            "Noise within"
+            "Laying PARIS in the tomb"
         ],
         [
             "_DIRECTION",
             "D13",
-            "Noise again"
+            "Drinks"
         ],
         [
             "_DIRECTION",
             "D14",
-            "Exit FRIAR LAURENCE. Kisses him"
+            "Dies. Enter, at the other end of the churchyard, FRIAR LAURENCE, with a lantern, crow, and spade"
         ],
         [
             "_DIRECTION",
             "D15",
-            "Snatching ROMEO's dagger. Stabs herself. Falls on ROMEO's body, and dies. Enter Watch, with the Page of PARIS"
+            "Advances"
         ],
         [
             "_DIRECTION",
             "D16",
-            "Re-enter some of the Watch, with BALTHASAR"
+            "Enters the tomb"
         ],
         [
             "_DIRECTION",
             "D17",
-            "Re-enter others of the Watch, with FRIAR LAURENCE"
+            "JULIET wakes"
         ],
         [
             "_DIRECTION",
             "D18",
-            "Enter the PRINCE and Attendants"
+            "Noise within"
         ],
         [
             "_DIRECTION",
             "D19",
-            "Enter CAPULET, LADY CAPULET, and others"
+            "Noise again"
         ],
         [
             "_DIRECTION",
             "D20",
-            "Enter MONTAGUE and others"
+            "Exit FRIAR LAURENCE"
         ],
         [
             "_DIRECTION",
             "D21",
+            "Kisses him"
+        ],
+        [
+            "_DIRECTION",
+            "D22",
+            "Snatching ROMEO's dagger"
+        ],
+        [
+            "_DIRECTION",
+            "D23",
+            "Stabs herself"
+        ],
+        [
+            "_DIRECTION",
+            "D24",
+            "Falls on ROMEO's body, and dies. Enter Watch, with the Page of PARIS"
+        ],
+        [
+            "_DIRECTION",
+            "D25",
+            "Re-enter some of the Watch, with BALTHASAR"
+        ],
+        [
+            "_DIRECTION",
+            "D26",
+            "Re-enter others of the Watch, with FRIAR LAURENCE"
+        ],
+        [
+            "_DIRECTION",
+            "D27",
+            "Enter the PRINCE and Attendants"
+        ],
+        [
+            "_DIRECTION",
+            "D28",
+            "Enter CAPULET, LADY CAPULET, and others"
+        ],
+        [
+            "_DIRECTION",
+            "D29",
+            "Enter MONTAGUE and others"
+        ],
+        [
+            "_DIRECTION",
+            "D30",
             "Exeunt"
         ]
     ],

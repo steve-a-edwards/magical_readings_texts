@@ -244,9 +244,9 @@ _R_OSRIC
 I commend my duty to your lordship.
 _R_HAMLET
 Yours, yours.
+_D_Exit OSRIC
 He does well to commend it himself; there are no
 tongues else for's turn.
-_D_Exit OSRIC
 _R_HORATIO
 This lapwing runs away with the shell on his head.
 _R_HAMLET
@@ -396,12 +396,12 @@ Well; again.
 _R_KING CLAUDIUS
 Stay; give me drink. Hamlet, this pearl is thine;
 Here's to thy health.
-Give him the cup.
 _D_Trumpets sound, and cannon shot off within
+Give him the cup.
 _R_HAMLET
 I'll play this bout first; set it by awhile. Come.
-Another hit; what say you?
 _D_They play
+Another hit; what say you?
 _R_LAERTES
 A touch, a touch, I do confess.
 _R_KING CLAUDIUS
@@ -517,8 +517,8 @@ If thou didst ever hold me in thy heart
 Absent thee from felicity awhile,
 And in this harsh world draw thy breath in pain,
 To tell my story.
-What warlike noise is this?
 _D_March afar off, and shot within
+What warlike noise is this?
 _R_OSRIC
 Young Fortinbras, with conquest come from Poland,
 To the ambassadors of England gives

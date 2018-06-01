@@ -6,9 +6,9 @@ _R_Servant
 Sailors, sir: they say they have letters for you.
 _R_HORATIO
 Let them come in.
+_D_Exit Servant
 I do not know from what part of the world
 I should be greeted, if not from Lord Hamlet.
-_D_Exit Servant
 _D_Enter Sailors
 _R_First Sailor
 God bless you, sir.

@@ -71,47 +71,47 @@
             "A jealous hood, a jealous hood!",
             {
                 "preceding_direction_line": "3"
-            }
-        ],
-        [
-            "CAPULET",
-            "Now, fellow,"
-        ],
-        [
-            "CAPULET",
-            "What's there?",
+            },
             {
                 "following_direction_line": "4"
             }
         ],
         [
-            "First Servant",
-            "Things for the cook, sir; but I know not what.",
+            "CAPULET",
+            "Now, fellow,",
             {
                 "preceding_direction_line": "4"
             }
         ],
         [
             "CAPULET",
-            "Make haste, make haste."
+            "What's there?"
+        ],
+        [
+            "First Servant",
+            "Things for the cook, sir; but I know not what."
         ],
         [
             "CAPULET",
-            "Sirrah, fetch drier logs:"
-        ],
-        [
-            "CAPULET",
-            "Call Peter, he will show thee where they are.",
+            "Make haste, make haste.",
             {
                 "following_direction_line": "5"
             }
         ],
         [
-            "Second Servant",
-            "I have a head, sir, that will find out logs,",
+            "CAPULET",
+            "Sirrah, fetch drier logs:",
             {
                 "preceding_direction_line": "5"
             }
+        ],
+        [
+            "CAPULET",
+            "Call Peter, he will show thee where they are."
+        ],
+        [
+            "Second Servant",
+            "I have a head, sir, that will find out logs,"
         ],
         [
             "Second Servant",
@@ -137,15 +137,27 @@
         ],
         [
             "CAPULET",
-            "For so he said he would: I hear him near."
+            "For so he said he would: I hear him near.",
+            {
+                "following_direction_line": "7"
+            }
         ],
         [
             "CAPULET",
-            "Nurse! Wife! What, ho! What, nurse, I say!"
+            "Nurse! Wife! What, ho! What, nurse, I say!",
+            {
+                "preceding_direction_line": "7"
+            },
+            {
+                "following_direction_line": "8"
+            }
         ],
         [
             "CAPULET",
-            "Go waken Juliet, go and trim her up;"
+            "Go waken Juliet, go and trim her up;",
+            {
+                "preceding_direction_line": "8"
+            }
         ],
         [
             "CAPULET",
@@ -159,7 +171,7 @@
             "CAPULET",
             "Make haste, I say.",
             {
-                "following_direction_line": "7"
+                "following_direction_line": "9"
             }
         ]
     ],
@@ -197,7 +209,17 @@
         [
             "_DIRECTION",
             "D7",
-            "Music within. Re-enter Nurse. Exeunt"
+            "Music within"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Re-enter Nurse"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Exeunt"
         ]
     ],
     "ranges_of_roles_lines": {

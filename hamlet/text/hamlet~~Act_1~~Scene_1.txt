@@ -193,20 +193,20 @@ And prologue to the omen coming on,
 Have heaven and earth together demonstrated
 Unto our climatures and countrymen.--
 But soft, behold! lo, where it comes again!
+_D_Re-enter Ghost
 I'll cross it, though it blast me. Stay, illusion!
 If thou hast any sound, or use of voice,
 Speak to me:
 If there be any good thing to be done,
 That may to thee do ease and grace to me,
 Speak to me:
+_D_Cock crows
 If thou art privy to thy country's fate,
 Which, happily, foreknowing may avoid, O, speak!
 Or if thou hast uphoarded in thy life
 Extorted treasure in the womb of earth,
 For which, they say, you spirits oft walk in death,
 Speak of it: stay, and speak! Stop it, Marcellus.
-_D_Re-enter Ghost
-_D_Cock crows
 _R_MARCELLUS
 Shall I strike at it with my partisan?
 _R_HORATIO
@@ -217,11 +217,11 @@ _R_HORATIO
 'Tis here!
 _R_MARCELLUS
 'Tis gone!
+_D_Exit Ghost
 We do it wrong, being so majestical,
 To offer it the show of violence;
 For it is, as the air, invulnerable,
 And our vain blows malicious mockery.
-_D_Exit Ghost
 _R_BERNARDO
 It was about to speak, when the cock crew.
 _R_HORATIO

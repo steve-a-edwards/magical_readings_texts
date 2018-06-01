@@ -42,8 +42,8 @@ That we can let our beard be shook with danger
 And think it pastime. You shortly shall hear more:
 I loved your father, and we love ourself;
 And that, I hope, will teach you to imagine--
-How now! what news?
 _D_Enter a Messenger
+How now! what news?
 _R_Messenger
 Letters, my lord, from Hamlet:
 This to your majesty; this to the queen.
@@ -55,6 +55,8 @@ They were given me by Claudio; he received them
 Of him that brought them.
 _R_KING CLAUDIUS
 Laertes, you shall hear them. Leave us.
+_D_Exit Messenger
+_D_Reads
 'High and mighty, You shall know I am set naked on
 your kingdom. To-morrow shall I beg leave to see
 your kingly eyes: when I shall, first asking your
@@ -62,8 +64,6 @@ pardon thereunto, recount the occasion of my sudden
 and more strange return. 'HAMLET.'
 What should this mean? Are all the rest come back?
 Or is it some abuse, and no such thing?
-_D_Exit Messenger
-_D_Reads
 _R_LAERTES
 Know you the hand?
 _R_KING CLAUDIUS
@@ -212,8 +212,8 @@ And that he calls for drink, I'll have prepared him
 A chalice for the nonce, whereon but sipping,
 If he by chance escape your venom'd stuck,
 Our purpose may hold there.
-How now, sweet queen!
 _D_Enter QUEEN GERTRUDE
+How now, sweet queen!
 _R_QUEEN GERTRUDE
 One woe doth tread upon another's heel,
 So fast they follow; your sister's drown'd, Laertes.

@@ -19,21 +19,21 @@
         ],
         [
             "QUEEN GERTRUDE",
-            "Bestow this place on us a little while."
-        ],
-        [
-            "QUEEN GERTRUDE",
-            "Ah, my good lord, what have I seen to-night!",
+            "Bestow this place on us a little while.",
             {
                 "following_direction_line": "2"
             }
         ],
         [
-            "KING CLAUDIUS",
-            "What, Gertrude? How does Hamlet?",
+            "QUEEN GERTRUDE",
+            "Ah, my good lord, what have I seen to-night!",
             {
                 "preceding_direction_line": "2"
             }
+        ],
+        [
+            "KING CLAUDIUS",
+            "What, Gertrude? How does Hamlet?"
         ],
         [
             "QUEEN GERTRUDE",
@@ -141,11 +141,17 @@
         ],
         [
             "KING CLAUDIUS",
-            "Both countenance and excuse. Ho, Guildenstern!"
+            "Both countenance and excuse. Ho, Guildenstern!",
+            {
+                "following_direction_line": "3"
+            }
         ],
         [
             "KING CLAUDIUS",
-            "Friends both, go join you with some further aid:"
+            "Friends both, go join you with some further aid:",
+            {
+                "preceding_direction_line": "3"
+            }
         ],
         [
             "KING CLAUDIUS",
@@ -161,11 +167,17 @@
         ],
         [
             "KING CLAUDIUS",
-            "Into the chapel. I pray you, haste in this."
+            "Into the chapel. I pray you, haste in this.",
+            {
+                "following_direction_line": "4"
+            }
         ],
         [
             "KING CLAUDIUS",
-            "Come, Gertrude, we'll call up our wisest friends;"
+            "Come, Gertrude, we'll call up our wisest friends;",
+            {
+                "preceding_direction_line": "4"
+            }
         ],
         [
             "KING CLAUDIUS",
@@ -179,7 +191,7 @@
             "KING CLAUDIUS",
             "My soul is full of discord and dismay.",
             {
-                "following_direction_line": "3"
+                "following_direction_line": "5"
             }
         ]
     ],
@@ -197,7 +209,17 @@
         [
             "_DIRECTION",
             "D3",
-            "Re-enter ROSENCRANTZ and GUILDENSTERN. Exeunt ROSENCRANTZ and GUILDENSTERN. Exeunt"
+            "Re-enter ROSENCRANTZ and GUILDENSTERN"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt ROSENCRANTZ and GUILDENSTERN"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt"
         ]
     ],
     "ranges_of_roles_lines": {

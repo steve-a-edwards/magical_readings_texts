@@ -51,15 +51,15 @@ too; though, in the mean time, some necessary
 question of the play be then to be considered:
 that's villanous, and shows a most pitiful ambition
 in the fool that uses it. Go, make you ready.
-How now, my lord! I will the king hear this piece of work?
 _D_Exeunt Players
 _D_Enter POLONIUS, ROSENCRANTZ, and GUILDENSTERN
+How now, my lord! I will the king hear this piece of work?
 _R_LORD POLONIUS
 And the queen too, and that presently.
 _R_HAMLET
 Bid the players make haste.
-Will you two help to hasten them?
 _D_Exit POLONIUS
+Will you two help to hasten them?
 _R_ROSENCRANTZ
 _R_GUILDENSTERN
 We will, my lord.
@@ -125,8 +125,8 @@ I have nothing with this answer, Hamlet; these words
 are not mine.
 _R_HAMLET
 No, nor mine now.
-My lord, you played once i' the university, you say?
 _D_To POLONIUS
+My lord, you played once i' the university, you say?
 _R_LORD POLONIUS
 That did I, my lord; and was accounted a good actor.
 _R_HAMLET
@@ -327,8 +327,8 @@ anon; 'tis a knavish piece of work: but what o'
 that? your majesty and we that have free souls, it
 touches us not: let the galled jade wince, our
 withers are unwrung.
-This is one Lucianus, nephew to the king.
 _D_Enter LUCIANUS
+This is one Lucianus, nephew to the king.
 _R_OPHELIA
 You are as good as a chorus, my lord.
 _R_HAMLET
@@ -477,10 +477,10 @@ himself for your succession in Denmark?
 _R_HAMLET
 Ay, but sir, 'While the grass grows,'--the proverb
 is something musty.
+_D_Re-enter Players with recorders
 O, the recorders! let me see one. To withdraw with
 you:--why do you go about to recover the wind of me,
 as if you would drive me into a toil?
-_D_Re-enter Players with recorders
 _R_GUILDENSTERN
 O, my lord, if my duty be too bold, my love is too
 unmannerly.
@@ -516,8 +516,8 @@ you make it speak. 'Sblood, do you think I am
 easier to be played on than a pipe? Call me what
 instrument you will, though you can fret me, yet you
 cannot play upon me.
-God bless you, sir!
 _D_Enter POLONIUS
+God bless you, sir!
 _R_LORD POLONIUS
 My lord, the queen would speak with you, and
 presently.
@@ -540,7 +540,9 @@ _R_LORD POLONIUS
 I will say so.
 _R_HAMLET
 By and by is easily said.
+_D_Exit POLONIUS
 Leave me, friends.
+_D_Exeunt all but HAMLET
 Tis now the very witching time of night,
 When churchyards yawn and hell itself breathes out
 Contagion to this world: now could I drink hot blood,
@@ -553,6 +555,4 @@ I will speak daggers to her, but use none;
 My tongue and soul in this be hypocrites;
 How in my words soever she be shent,
 To give them seals never, my soul, consent!
-_D_Exit POLONIUS
-_D_Exeunt all but HAMLET
 _D_Exit

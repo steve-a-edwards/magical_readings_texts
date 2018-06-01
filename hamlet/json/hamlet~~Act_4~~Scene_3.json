@@ -47,21 +47,21 @@
         ],
         [
             "KING CLAUDIUS",
-            "Or not at all."
-        ],
-        [
-            "KING CLAUDIUS",
-            "How now! what hath befall'n?",
+            "Or not at all.",
             {
                 "following_direction_line": "2"
             }
         ],
         [
-            "ROSENCRANTZ",
-            "Where the dead body is bestow'd, my lord,",
+            "KING CLAUDIUS",
+            "How now! what hath befall'n?",
             {
                 "preceding_direction_line": "2"
             }
+        ],
+        [
+            "ROSENCRANTZ",
+            "Where the dead body is bestow'd, my lord,"
         ],
         [
             "ROSENCRANTZ",
@@ -281,11 +281,17 @@
         ],
         [
             "KING CLAUDIUS",
-            "That else leans on the affair: pray you, make haste."
+            "That else leans on the affair: pray you, make haste.",
+            {
+                "following_direction_line": "7"
+            }
         ],
         [
             "KING CLAUDIUS",
-            "And, England, if my love thou hold'st at aught--"
+            "And, England, if my love thou hold'st at aught--",
+            {
+                "preceding_direction_line": "7"
+            }
         ],
         [
             "KING CLAUDIUS",
@@ -327,7 +333,7 @@
             "KING CLAUDIUS",
             "Howe'er my haps, my joys were ne'er begun.",
             {
-                "following_direction_line": "7"
+                "following_direction_line": "8"
             }
         ]
     ],
@@ -365,7 +371,12 @@
         [
             "_DIRECTION",
             "D7",
-            "Exeunt ROSENCRANTZ and GUILDENSTERN. Exit"
+            "Exeunt ROSENCRANTZ and GUILDENSTERN"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exit"
         ]
     ],
     "ranges_of_roles_lines": {

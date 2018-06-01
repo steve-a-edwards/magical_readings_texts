@@ -15,9 +15,9 @@ A heavy summons lies like lead upon me,
 And yet I would not sleep: merciful powers,
 Restrain in me the cursed thoughts that nature
 Gives way to in repose!
+_D_Enter MACBETH, and a Servant with a torch
 Give me my sword.
 Who's there?
-_D_Enter MACBETH, and a Servant with a torch
 _R_MACBETH
 A friend.
 _R_BANQUO
@@ -58,6 +58,7 @@ _D_Exeunt BANQUO and FLEANCE
 _R_MACBETH
 Go bid thy mistress, when my drink is ready,
 She strike upon the bell. Get thee to bed.
+_D_Exit Servant
 Is this a dagger which I see before me,
 The handle toward my hand? Come, let me clutch thee.
 I have thee not, and yet I see thee still.
@@ -87,9 +88,8 @@ Thy very stones prate of my whereabout,
 And take the present horror from the time,
 Which now suits with it. Whiles I threat, he lives:
 Words to the heat of deeds too cold breath gives.
+_D_A bell rings
 I go, and it is done; the bell invites me.
 Hear it not, Duncan; for it is a knell
 That summons thee to heaven or to hell.
-_D_Exit Servant
-_D_A bell rings
 _D_Exit

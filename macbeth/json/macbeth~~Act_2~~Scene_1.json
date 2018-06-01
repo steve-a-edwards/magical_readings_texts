@@ -43,25 +43,25 @@
         ],
         [
             "BANQUO",
-            "Gives way to in repose!"
-        ],
-        [
-            "BANQUO",
-            "Give me my sword."
-        ],
-        [
-            "BANQUO",
-            "Who's there?",
+            "Gives way to in repose!",
             {
                 "following_direction_line": "2"
             }
         ],
         [
-            "MACBETH",
-            "A friend.",
+            "BANQUO",
+            "Give me my sword.",
             {
                 "preceding_direction_line": "2"
             }
+        ],
+        [
+            "BANQUO",
+            "Who's there?"
+        ],
+        [
+            "MACBETH",
+            "A friend."
         ],
         [
             "BANQUO",
@@ -175,11 +175,17 @@
         ],
         [
             "MACBETH",
-            "She strike upon the bell. Get thee to bed."
+            "She strike upon the bell. Get thee to bed.",
+            {
+                "following_direction_line": "4"
+            }
         ],
         [
             "MACBETH",
-            "Is this a dagger which I see before me,"
+            "Is this a dagger which I see before me,",
+            {
+                "preceding_direction_line": "4"
+            }
         ],
         [
             "MACBETH",
@@ -291,11 +297,17 @@
         ],
         [
             "MACBETH",
-            "Words to the heat of deeds too cold breath gives."
+            "Words to the heat of deeds too cold breath gives.",
+            {
+                "following_direction_line": "5"
+            }
         ],
         [
             "MACBETH",
-            "I go, and it is done; the bell invites me."
+            "I go, and it is done; the bell invites me.",
+            {
+                "preceding_direction_line": "5"
+            }
         ],
         [
             "MACBETH",
@@ -305,7 +317,7 @@
             "MACBETH",
             "That summons thee to heaven or to hell.",
             {
-                "following_direction_line": "4"
+                "following_direction_line": "6"
             }
         ]
     ],
@@ -328,7 +340,17 @@
         [
             "_DIRECTION",
             "D4",
-            "Exit Servant. A bell rings. Exit"
+            "Exit Servant"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "A bell rings"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exit"
         ]
     ],
     "ranges_of_roles_lines": {

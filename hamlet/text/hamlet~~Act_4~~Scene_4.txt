@@ -53,6 +53,7 @@ _R_ROSENCRANTZ
 Wilt please you go, my lord?
 _R_HAMLET
 I'll be with you straight go a little before.
+_D_Exeunt all except HAMLET
 How all occasions do inform against me,
 And spur my dull revenge! What is a man,
 If his chief good and market of his time
@@ -88,5 +89,4 @@ Whereon the numbers cannot try the cause,
 Which is not tomb enough and continent
 To hide the slain? O, from this time forth,
 My thoughts be bloody, or be nothing worth!
-_D_Exeunt all except HAMLET
 _D_Exit

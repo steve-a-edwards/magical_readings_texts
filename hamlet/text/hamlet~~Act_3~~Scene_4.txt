@@ -64,6 +64,7 @@ _R_QUEEN GERTRUDE
 As kill a king!
 _R_HAMLET
 Ay, lady, 'twas my word.
+_D_Lifts up the array and discovers POLONIUS
 Thou wretched, rash, intruding fool, farewell!
 I took thee for thy better: take thy fortune;
 Thou find'st to be too busy is some danger.
@@ -72,7 +73,6 @@ And let me wring your heart; for so I shall,
 If it be made of penetrable stuff,
 If damned custom have not brass'd it so
 That it is proof and bulwark against sense.
-_D_Lifts up the array and discovers POLONIUS
 _R_QUEEN GERTRUDE
 What have I done, that thou darest wag thy tongue
 In noise so rude against me?
@@ -154,9 +154,9 @@ _R_QUEEN GERTRUDE
 No more!
 _R_HAMLET
 A king of shreds and patches,--
+_D_Enter Ghost
 Save me, and hover o'er me with your wings,
 You heavenly guards! What would your gracious figure?
-_D_Enter Ghost
 _R_QUEEN GERTRUDE
 Alas, he's mad!
 _R_HAMLET
@@ -245,6 +245,7 @@ And either [ ] the devil, or throw him out
 With wondrous potency. Once more, good night:
 And when you are desirous to be bless'd,
 I'll blessing beg of you. For this same lord,
+_D_Pointing to POLONIUS
 I do repent: but heaven hath pleased it so,
 To punish me with this and this with me,
 That I must be their scourge and minister.
@@ -253,7 +254,6 @@ The death I gave him. So, again, good night.
 I must be cruel, only to be kind:
 Thus bad begins and worse remains behind.
 One word more, good lady.
-_D_Pointing to POLONIUS
 _R_QUEEN GERTRUDE
 What shall I do?
 _R_HAMLET

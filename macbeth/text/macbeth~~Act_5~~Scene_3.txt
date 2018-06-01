@@ -12,9 +12,9 @@ false thanes,
 And mingle with the English epicures:
 The mind I sway by and the heart I bear
 Shall never sag with doubt nor shake with fear.
+_D_Enter a Servant
 The devil damn thee black, thou cream-faced loon!
 Where got'st thou that goose look?
-_D_Enter a Servant
 _R_Servant
 There is ten thousand--
 _R_MACBETH
@@ -30,6 +30,7 @@ _R_Servant
 The English force, so please you.
 _R_MACBETH
 Take thy face hence.
+_D_Exit Servant
 Seyton!--I am sick at heart,
 When I behold--Seyton, I say!--This push
 Will cheer me ever, or disseat me now.
@@ -40,7 +41,6 @@ As honour, love, obedience, troops of friends,
 I must not look to have; but, in their stead,
 Curses, not loud but deep, mouth-honour, breath,
 Which the poor heart would fain deny, and dare not. Seyton!
-_D_Exit Servant
 _D_Enter SEYTON
 _R_SEYTON
 What is your gracious pleasure?

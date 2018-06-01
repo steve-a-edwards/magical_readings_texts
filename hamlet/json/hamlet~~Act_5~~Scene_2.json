@@ -731,25 +731,25 @@
         ],
         [
             "HAMLET",
-            "Yours, yours."
-        ],
-        [
-            "HAMLET",
-            "He does well to commend it himself; there are no"
-        ],
-        [
-            "HAMLET",
-            "tongues else for's turn.",
+            "Yours, yours.",
             {
                 "following_direction_line": "4"
             }
         ],
         [
-            "HORATIO",
-            "This lapwing runs away with the shell on his head.",
+            "HAMLET",
+            "He does well to commend it himself; there are no",
             {
                 "preceding_direction_line": "4"
             }
+        ],
+        [
+            "HAMLET",
+            "tongues else for's turn."
+        ],
+        [
+            "HORATIO",
+            "This lapwing runs away with the shell on his head."
         ],
         [
             "HAMLET",
@@ -1205,35 +1205,35 @@
         ],
         [
             "KING CLAUDIUS",
-            "Here's to thy health."
-        ],
-        [
-            "KING CLAUDIUS",
-            "Give him the cup.",
+            "Here's to thy health.",
             {
                 "following_direction_line": "11"
             }
         ],
         [
-            "HAMLET",
-            "I'll play this bout first; set it by awhile. Come.",
+            "KING CLAUDIUS",
+            "Give him the cup.",
             {
                 "preceding_direction_line": "11"
             }
         ],
         [
             "HAMLET",
-            "Another hit; what say you?",
+            "I'll play this bout first; set it by awhile. Come.",
             {
                 "following_direction_line": "12"
             }
         ],
         [
-            "LAERTES",
-            "A touch, a touch, I do confess.",
+            "HAMLET",
+            "Another hit; what say you?",
             {
                 "preceding_direction_line": "12"
             }
+        ],
+        [
+            "LAERTES",
+            "A touch, a touch, I do confess."
         ],
         [
             "KING CLAUDIUS",
@@ -1563,21 +1563,21 @@
         ],
         [
             "HAMLET",
-            "To tell my story."
-        ],
-        [
-            "HAMLET",
-            "What warlike noise is this?",
+            "To tell my story.",
             {
                 "following_direction_line": "20"
             }
         ],
         [
-            "OSRIC",
-            "Young Fortinbras, with conquest come from Poland,",
+            "HAMLET",
+            "What warlike noise is this?",
             {
                 "preceding_direction_line": "20"
             }
+        ],
+        [
+            "OSRIC",
+            "Young Fortinbras, with conquest come from Poland,"
         ],
         [
             "OSRIC",

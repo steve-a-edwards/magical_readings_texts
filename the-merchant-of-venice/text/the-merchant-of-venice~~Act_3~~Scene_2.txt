@@ -73,6 +73,7 @@ With bleared visages, come forth to view
 The issue of the exploit. Go, Hercules!
 Live thou, I live: with much, much more dismay
 I view the fight than thou that makest the fray.
+_D_Music, whilst BASSANIO comments on the caskets to himself
 SONG.
 Tell me where is fancy bred,
 Or in the heart, or in the head?
@@ -83,7 +84,6 @@ With gazing fed; and fancy dies
 In the cradle where it lies.
 Let us all ring fancy's knell
 I'll begin it,--Ding, dong, bell.
-_D_Music, whilst BASSANIO comments on the caskets to himself
 _R_ALL
 Ding, dong, bell.
 _R_BASSANIO
@@ -132,6 +132,7 @@ I feel too much thy blessing: make it less,
 For fear I surfeit.
 _R_BASSANIO
 What find I here?
+_D_Opening the leaden casket
 Fair Portia's counterfeit! What demi-god
 Hath come so near creation? Move these eyes?
 Or whether, riding on the balls of mine,
@@ -148,6 +149,7 @@ The substance of my praise doth wrong this shadow
 In underprizing it, so far this shadow
 Doth limp behind the substance. Here's the scroll,
 The continent and summary of my fortune.
+_D_Reads
 You that choose not by the view,
 Chance as fair and choose as true!
 Since this fortune falls to you,
@@ -166,8 +168,6 @@ Whether these pearls of praise be his or no;
 So, thrice fair lady, stand I, even so;
 As doubtful whether what I see be true,
 Until confirm'd, sign'd, ratified by you.
-_D_Opening the leaden casket
-_D_Reads
 _R_PORTIA
 You see me, Lord Bassanio, where I stand,
 Such as I am: though for myself alone

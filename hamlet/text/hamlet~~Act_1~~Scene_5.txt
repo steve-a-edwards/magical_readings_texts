@@ -134,10 +134,10 @@ O villain, villain, smiling, damned villain!
 My tables,--meet it is I set it down,
 That one may smile, and smile, and be a villain;
 At least I'm sure it may be so in Denmark:
+_D_Writing
 So, uncle, there you are. Now to my word;
 It is 'Adieu, adieu! remember me.'
 I have sworn 't.
-_D_Writing
 _R_MARCELLUS
 _R_HORATIO
 [Within] My lord, my lord,--
@@ -268,6 +268,7 @@ _R_Ghost
 [Beneath] Swear.
 _R_HAMLET
 Rest, rest, perturbed spirit!
+_D_They swear
 So, gentlemen,
 With all my love I do commend me to you:
 And what so poor a man as Hamlet is
@@ -277,5 +278,4 @@ And still your fingers on your lips, I pray.
 The time is out of joint: O cursed spite,
 That ever I was born to set it right!
 Nay, come, let's go together.
-_D_They swear
 _D_Exeunt

@@ -223,25 +223,25 @@
         ],
         [
             "LAERTES",
-            "I stay too long: but here my father comes."
-        ],
-        [
-            "LAERTES",
-            "A double blessing is a double grace,"
-        ],
-        [
-            "LAERTES",
-            "Occasion smiles upon a second leave.",
+            "I stay too long: but here my father comes.",
             {
                 "following_direction_line": "2"
             }
         ],
         [
-            "LORD POLONIUS",
-            "Yet here, Laertes! aboard, aboard, for shame!",
+            "LAERTES",
+            "A double blessing is a double grace,",
             {
                 "preceding_direction_line": "2"
             }
+        ],
+        [
+            "LAERTES",
+            "Occasion smiles upon a second leave."
+        ],
+        [
+            "LORD POLONIUS",
+            "Yet here, Laertes! aboard, aboard, for shame!"
         ],
         [
             "LORD POLONIUS",

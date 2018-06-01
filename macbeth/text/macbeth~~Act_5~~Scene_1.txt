@@ -22,9 +22,9 @@ You may to me: and 'tis most meet you should.
 _R_Gentlewoman
 Neither to you nor any one; having no witness to
 confirm my speech.
+_D_Enter LADY MACBETH, with a taper
 Lo you, here she comes! This is her very guise;
 and, upon my life, fast asleep. Observe her; stand close.
-_D_Enter LADY MACBETH, with a taper
 _R_Doctor
 How came she by that light?
 _R_Gentlewoman

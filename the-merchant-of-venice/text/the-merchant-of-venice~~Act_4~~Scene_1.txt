@@ -211,8 +211,8 @@ commendation.
 _R_DUKE
 You hear the learn'd Bellario, what he writes:
 And here, I take it, is the doctor come.
-Give me your hand. Come you from old Bellario?
 _D_Enter PORTIA, dressed like a doctor of laws
+Give me your hand. Come you from old Bellario?
 _R_PORTIA
 I did, my lord.
 _R_DUKE
@@ -393,8 +393,8 @@ _R_SHYLOCK
 These be the Christian husbands. I have a daughter;
 Would any of the stock of Barrabas
 Had been her husband rather than a Christian!
-We trifle time: I pray thee, pursue sentence.
 _D_Aside
+We trifle time: I pray thee, pursue sentence.
 _R_PORTIA
 A pound of that same merchant's flesh is thine:
 The court awards it, and the law doth give it.
@@ -575,12 +575,12 @@ Not as a fee: grant me two things, I pray you,
 Not to deny me, and to pardon me.
 _R_PORTIA
 You press me far, and therefore I will yield.
+_D_To ANTONIO
 Give me your gloves, I'll wear them for your sake;
+_D_To BASSANIO
 And, for your love, I'll take this ring from you:
 Do not draw back your hand; I'll take no more;
 And you in love shall not deny me this.
-_D_To ANTONIO
-_D_To BASSANIO
 _R_BASSANIO
 This ring, good sir, alas, it is a trifle!
 I will not shame myself to give you this.
@@ -615,8 +615,8 @@ _R_BASSANIO
 Go, Gratiano, run and overtake him;
 Give him the ring, and bring him, if thou canst,
 Unto Antonio's house: away! make haste.
+_D_Exit Gratiano
 Come, you and I will thither presently;
 And in the morning early will we both
 Fly toward Belmont: come, Antonio.
-_D_Exit Gratiano
 _D_Exeunt

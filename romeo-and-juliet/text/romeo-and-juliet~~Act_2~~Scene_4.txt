@@ -193,6 +193,7 @@ What hast thou found?
 _R_MERCUTIO
 No hare, sir; unless a hare, sir, in a lenten pie,
 that is something stale and hoar ere it be spent.
+_D_Sings
 An old hare hoar,
 And an old hare hoar,
 Is very good meat in lent
@@ -201,13 +202,12 @@ Is too much for a score,
 When it hoars ere it be spent.
 Romeo, will you come to your father's? we'll
 to dinner, thither.
-_D_Sings
 _R_ROMEO
 I will follow you.
 _R_MERCUTIO
 Farewell, ancient lady; farewell,
-'lady, lady, lady.'
 _D_Singing
+'lady, lady, lady.'
 _D_Exeunt MERCUTIO and BENVOLIO
 _R_Nurse
 Marry, farewell! I pray you, sir, what saucy
@@ -300,8 +300,8 @@ _R_ROMEO
 Commend me to thy lady.
 _R_Nurse
 Ay, a thousand times.
-Peter!
 _D_Exit Romeo
+Peter!
 _R_PETER
 Anon!
 _R_Nurse

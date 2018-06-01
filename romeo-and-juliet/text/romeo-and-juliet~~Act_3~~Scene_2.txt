@@ -34,9 +34,9 @@ To an impatient child that hath new robes
 And may not wear them. O, here comes my nurse,
 And she brings news; and every tongue that speaks
 But Romeo's name speaks heavenly eloquence.
+_D_Enter Nurse, with cords
 Now, nurse, what news? What hast thou there? the cords
 That Romeo bid thee fetch?
-_D_Enter Nurse, with cords
 _R_Nurse
 Ay, ay, the cords.
 _D_Throws them down

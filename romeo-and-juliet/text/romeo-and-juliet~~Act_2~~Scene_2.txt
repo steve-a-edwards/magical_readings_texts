@@ -2,6 +2,7 @@ _S_SCENE II. Capulet's orchard.
 _D_Enter ROMEO
 _R_ROMEO
 He jests at scars that never felt a wound.
+_D_JULIET appears above at a window
 But, soft! what light through yonder window breaks?
 It is the east, and Juliet is the sun.
 Arise, fair sun, and kill the envious moon,
@@ -26,7 +27,6 @@ That birds would sing and think it were not night.
 See, how she leans her cheek upon her hand!
 O, that I were a glove upon that hand,
 That I might touch that cheek!
-_D_JULIET appears above at a window
 _R_JULIET
 Ay me!
 _R_ROMEO
@@ -174,10 +174,10 @@ And yet I wish but for the thing I have:
 My bounty is as boundless as the sea,
 My love as deep; the more I give to thee,
 The more I have, for both are infinite.
+_D_Nurse calls within
 I hear some noise within; dear love, adieu!
 Anon, good nurse! Sweet Montague, be true.
 Stay but a little, I will come again.
-_D_Nurse calls within
 _D_Exit, above
 _R_ROMEO
 O blessed, blessed night! I am afeard.

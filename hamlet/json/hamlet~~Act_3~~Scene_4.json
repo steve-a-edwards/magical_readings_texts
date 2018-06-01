@@ -165,11 +165,17 @@
         ],
         [
             "HAMLET",
-            "Ay, lady, 'twas my word."
+            "Ay, lady, 'twas my word.",
+            {
+                "following_direction_line": "5"
+            }
         ],
         [
             "HAMLET",
-            "Thou wretched, rash, intruding fool, farewell!"
+            "Thou wretched, rash, intruding fool, farewell!",
+            {
+                "preceding_direction_line": "5"
+            }
         ],
         [
             "HAMLET",
@@ -197,17 +203,11 @@
         ],
         [
             "HAMLET",
-            "That it is proof and bulwark against sense.",
-            {
-                "following_direction_line": "5"
-            }
+            "That it is proof and bulwark against sense."
         ],
         [
             "QUEEN GERTRUDE",
-            "What have I done, that thou darest wag thy tongue",
-            {
-                "preceding_direction_line": "5"
-            }
+            "What have I done, that thou darest wag thy tongue"
         ],
         [
             "QUEEN GERTRUDE",
@@ -487,25 +487,25 @@
         ],
         [
             "HAMLET",
-            "A king of shreds and patches,--"
-        ],
-        [
-            "HAMLET",
-            "Save me, and hover o'er me with your wings,"
-        ],
-        [
-            "HAMLET",
-            "You heavenly guards! What would your gracious figure?",
+            "A king of shreds and patches,--",
             {
                 "following_direction_line": "6"
             }
         ],
         [
-            "QUEEN GERTRUDE",
-            "Alas, he's mad!",
+            "HAMLET",
+            "Save me, and hover o'er me with your wings,",
             {
                 "preceding_direction_line": "6"
             }
+        ],
+        [
+            "HAMLET",
+            "You heavenly guards! What would your gracious figure?"
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "Alas, he's mad!"
         ],
         [
             "HAMLET",
@@ -791,11 +791,17 @@
         ],
         [
             "HAMLET",
-            "I'll blessing beg of you. For this same lord,"
+            "I'll blessing beg of you. For this same lord,",
+            {
+                "following_direction_line": "8"
+            }
         ],
         [
             "HAMLET",
-            "I do repent: but heaven hath pleased it so,"
+            "I do repent: but heaven hath pleased it so,",
+            {
+                "preceding_direction_line": "8"
+            }
         ],
         [
             "HAMLET",
@@ -823,17 +829,11 @@
         ],
         [
             "HAMLET",
-            "One word more, good lady.",
-            {
-                "following_direction_line": "8"
-            }
+            "One word more, good lady."
         ],
         [
             "QUEEN GERTRUDE",
-            "What shall I do?",
-            {
-                "preceding_direction_line": "8"
-            }
+            "What shall I do?"
         ],
         [
             "HAMLET",

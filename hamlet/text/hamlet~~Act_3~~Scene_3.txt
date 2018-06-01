@@ -48,6 +48,7 @@ I'll call upon you ere you go to bed,
 And tell you what I know.
 _R_KING CLAUDIUS
 Thanks, dear my lord.
+_D_Exit POLONIUS
 O, my offence is rank it smells to heaven;
 It hath the primal eldest curse upon't,
 A brother's murder. Pray can I not,
@@ -85,7 +86,6 @@ Art more engaged! Help, angels! Make assay!
 Bow, stubborn knees; and, heart with strings of steel,
 Be soft as sinews of the newborn babe!
 All may be well.
-_D_Exit POLONIUS
 _D_Retires and kneels
 _D_Enter HAMLET
 _R_HAMLET

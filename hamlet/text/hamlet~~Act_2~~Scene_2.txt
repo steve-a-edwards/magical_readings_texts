@@ -72,17 +72,17 @@ Give first admittance to the ambassadors;
 My news shall be the fruit to that great feast.
 _R_KING CLAUDIUS
 Thyself do grace to them, and bring them in.
+_D_Exit POLONIUS
 He tells me, my dear Gertrude, he hath found
 The head and source of all your son's distemper.
-_D_Exit POLONIUS
 _R_QUEEN GERTRUDE
 I doubt it is no other but the main;
 His father's death, and our o'erhasty marriage.
 _R_KING CLAUDIUS
 Well, we shall sift him.
+_D_Re-enter POLONIUS, with VOLTIMAND and CORNELIUS
 Welcome, my good friends!
 Say, Voltimand, what from our brother Norway?
-_D_Re-enter POLONIUS, with VOLTIMAND and CORNELIUS
 _R_VOLTIMAND
 Most fair return of greetings and desires.
 Upon our first, he sent out to suppress
@@ -101,11 +101,11 @@ Gives him three thousand crowns in annual fee,
 And his commission to employ those soldiers,
 So levied as before, against the Polack:
 With an entreaty, herein further shown,
+_D_Giving a paper
 That it might please you to give quiet pass
 Through your dominions for this enterprise,
 On such regards of safety and allowance
 As therein are set down.
-_D_Giving a paper
 _R_KING CLAUDIUS
 It likes us well;
 And at our more consider'd time well read,
@@ -141,17 +141,18 @@ Thus it remains, and the remainder thus. Perpend.
 I have a daughter--have while she is mine--
 Who, in her duty and obedience, mark,
 Hath given me this: now gather, and surmise.
+_D_Reads
 'To the celestial and my soul's idol, the most
 beautified Ophelia,'--
 That's an ill phrase, a vile phrase; 'beautified' is
 a vile phrase: but you shall hear. Thus:
+_D_Reads
 'In her excellent white bosom, these, and c.'
-_D_Reads
-_D_Reads
 _R_QUEEN GERTRUDE
 Came this from Hamlet to her?
 _R_LORD POLONIUS
 Good madam, stay awhile; I will be faithful.
+_D_Reads
 'Doubt thou the stars are fire;
 Doubt that the sun doth move;
 Doubt truth to be a liar;
@@ -165,7 +166,6 @@ This, in obedience, hath my daughter shown me,
 And more above, hath his solicitings,
 As they fell out by time, by means and place,
 All given to mine ear.
-_D_Reads
 _R_KING CLAUDIUS
 But how hath she
 Received his love?
@@ -232,10 +232,10 @@ But, look, where sadly the poor wretch comes reading.
 _R_LORD POLONIUS
 Away, I do beseech you, both away:
 I'll board him presently.
-O, give me leave:
-How does my good Lord Hamlet?
 _D_Exeunt KING CLAUDIUS, QUEEN GERTRUDE, and Attendants
 _D_Enter HAMLET, reading
+O, give me leave:
+How does my good Lord Hamlet?
 _R_HAMLET
 Well, God-a-mercy.
 _R_LORD POLONIUS
@@ -294,13 +294,13 @@ _R_HAMLET
 Into my grave.
 _R_LORD POLONIUS
 Indeed, that is out o' the air.
+_D_Aside
 How pregnant sometimes his replies are! a happiness
 that often madness hits on, which reason and sanity
 could not so prosperously be delivered of. I will
 leave him, and suddenly contrive the means of
 meeting between him and my daughter.--My honourable
 lord, I will most humbly take my leave of you.
-_D_Aside
 _R_HAMLET
 You cannot, sir, take from me any thing that I will
 more willingly part withal: except my life, except
@@ -587,6 +587,7 @@ and then, you know,
 'It came to pass, as most like it was,'--
 the first row of the pious chanson will show you
 more; for look, where my abridgement comes.
+_D_Enter four or five Players
 You are welcome, masters; welcome, all. I am glad
 to see thee well. Welcome, good friends. O, my old
 friend! thy face is valenced since I saw thee last:
@@ -599,7 +600,6 @@ ring. Masters, you are all welcome. We'll e'en
 to't like French falconers, fly at any thing we see:
 we'll have a speech straight: come, give us a taste
 of your quality; come, a passionate speech.
-_D_Enter four or five Players
 _R_First Player
 What speech, my lord?
 _R_HAMLET
@@ -720,9 +720,9 @@ _R_LORD POLONIUS
 Come, sirs.
 _R_HAMLET
 Follow him, friends: we'll hear a play to-morrow.
+_D_Exit POLONIUS with all the Players but the First
 Dost thou hear me, old friend; can you play the
 Murder of Gonzago?
-_D_Exit POLONIUS with all the Players but the First
 _R_First Player
 Ay, my lord.
 _R_HAMLET
@@ -734,13 +734,14 @@ Ay, my lord.
 _R_HAMLET
 Very well. Follow that lord; and look you mock him
 not.
+_D_Exit First Player
 My good friends, I'll leave you till night: you are
 welcome to Elsinore.
-_D_Exit First Player
 _R_ROSENCRANTZ
 Good my lord!
 _R_HAMLET
 Ay, so, God be wi' ye;
+_D_Exeunt ROSENCRANTZ and GUILDENSTERN
 Now I am alone.
 O, what a rogue and peasant slave am I!
 Is it not monstrous that this player here,
@@ -800,5 +801,4 @@ As he is very potent with such spirits,
 Abuses me to damn me: I'll have grounds
 More relative than this: the play 's the thing
 Wherein I'll catch the conscience of the king.
-_D_Exeunt ROSENCRANTZ and GUILDENSTERN
 _D_Exit

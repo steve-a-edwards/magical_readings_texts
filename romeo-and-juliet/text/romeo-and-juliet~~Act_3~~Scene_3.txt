@@ -100,11 +100,11 @@ _D_Knocking
 _R_FRIAR LAURENCE
 Hark, how they knock! Who's there? Romeo, arise;
 Thou wilt be taken. Stay awhile! Stand up;
+_D_Knocking
 Run to my study. By and by! God's will,
 What simpleness is this! I come, I come!
+_D_Knocking
 Who knocks so hard? whence come you? what's your will?
-_D_Knocking
-_D_Knocking
 _R_Nurse
 [Within] Let me come in, and you shall know
 my errand;

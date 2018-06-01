@@ -325,29 +325,35 @@
         ],
         [
             "FRIAR LAURENCE",
-            "Thou wilt be taken. Stay awhile! Stand up;"
-        ],
-        [
-            "FRIAR LAURENCE",
-            "Run to my study. By and by! God's will,"
-        ],
-        [
-            "FRIAR LAURENCE",
-            "What simpleness is this! I come, I come!"
-        ],
-        [
-            "FRIAR LAURENCE",
-            "Who knocks so hard? whence come you? what's your will?",
+            "Thou wilt be taken. Stay awhile! Stand up;",
             {
                 "following_direction_line": "5"
             }
         ],
         [
-            "Nurse",
-            "[Within] Let me come in, and you shall know",
+            "FRIAR LAURENCE",
+            "Run to my study. By and by! God's will,",
             {
                 "preceding_direction_line": "5"
             }
+        ],
+        [
+            "FRIAR LAURENCE",
+            "What simpleness is this! I come, I come!",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "FRIAR LAURENCE",
+            "Who knocks so hard? whence come you? what's your will?",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "Nurse",
+            "[Within] Let me come in, and you shall know"
         ],
         [
             "Nurse",
@@ -361,14 +367,14 @@
             "FRIAR LAURENCE",
             "Welcome, then.",
             {
-                "following_direction_line": "6"
+                "following_direction_line": "7"
             }
         ],
         [
             "Nurse",
             "O holy friar, O, tell me, holy friar,",
             {
-                "preceding_direction_line": "6"
+                "preceding_direction_line": "7"
             }
         ],
         [
@@ -483,14 +489,14 @@
             "ROMEO",
             "The hateful mansion.",
             {
-                "following_direction_line": "7"
+                "following_direction_line": "8"
             }
         ],
         [
             "FRIAR LAURENCE",
             "Hold thy desperate hand:",
             {
-                "preceding_direction_line": "7"
+                "preceding_direction_line": "8"
             }
         ],
         [
@@ -717,14 +723,14 @@
             "Nurse",
             "Hie you, make haste, for it grows very late.",
             {
-                "following_direction_line": "8"
+                "following_direction_line": "9"
             }
         ],
         [
             "ROMEO",
             "How well my comfort is revived by this!",
             {
-                "preceding_direction_line": "8"
+                "preceding_direction_line": "9"
             }
         ],
         [
@@ -763,7 +769,7 @@
             "ROMEO",
             "It were a grief, so brief to part with thee: Farewell.",
             {
-                "following_direction_line": "9"
+                "following_direction_line": "10"
             }
         ]
     ],
@@ -791,26 +797,31 @@
         [
             "_DIRECTION",
             "D5",
-            "Knocking. Knocking"
+            "Knocking"
         ],
         [
             "_DIRECTION",
             "D6",
-            "Enter Nurse"
+            "Knocking"
         ],
         [
             "_DIRECTION",
             "D7",
-            "Drawing his sword"
+            "Enter Nurse"
         ],
         [
             "_DIRECTION",
             "D8",
-            "Exit"
+            "Drawing his sword"
         ],
         [
             "_DIRECTION",
             "D9",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
             "Exeunt"
         ]
     ],

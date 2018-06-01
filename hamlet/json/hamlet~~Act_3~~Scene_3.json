@@ -161,11 +161,17 @@
         ],
         [
             "KING CLAUDIUS",
-            "Thanks, dear my lord."
+            "Thanks, dear my lord.",
+            {
+                "following_direction_line": "3"
+            }
         ],
         [
             "KING CLAUDIUS",
-            "O, my offence is rank it smells to heaven;"
+            "O, my offence is rank it smells to heaven;",
+            {
+                "preceding_direction_line": "3"
+            }
         ],
         [
             "KING CLAUDIUS",
@@ -311,14 +317,14 @@
             "KING CLAUDIUS",
             "All may be well.",
             {
-                "following_direction_line": "3"
+                "following_direction_line": "4"
             }
         ],
         [
             "HAMLET",
             "Now might I do it pat, now he is praying;",
             {
-                "preceding_direction_line": "3"
+                "preceding_direction_line": "4"
             }
         ],
         [
@@ -413,21 +419,21 @@
             "HAMLET",
             "This physic but prolongs thy sickly days.",
             {
-                "following_direction_line": "4"
+                "following_direction_line": "5"
             }
         ],
         [
             "KING CLAUDIUS",
             "[Rising] My words fly up, my thoughts remain below:",
             {
-                "preceding_direction_line": "4"
+                "preceding_direction_line": "5"
             }
         ],
         [
             "KING CLAUDIUS",
             "Words without thoughts never to heaven go.",
             {
-                "following_direction_line": "5"
+                "following_direction_line": "6"
             }
         ]
     ],
@@ -445,16 +451,21 @@
         [
             "_DIRECTION",
             "D3",
-            "Exit POLONIUS. Retires and kneels. Enter HAMLET"
+            "Exit POLONIUS"
         ],
         [
             "_DIRECTION",
             "D4",
-            "Exit"
+            "Retires and kneels. Enter HAMLET"
         ],
         [
             "_DIRECTION",
             "D5",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
             "Exit"
         ]
     ],

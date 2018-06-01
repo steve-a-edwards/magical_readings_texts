@@ -187,39 +187,39 @@
         ],
         [
             "HAMLET",
-            "in the fool that uses it. Go, make you ready."
-        ],
-        [
-            "HAMLET",
-            "How now, my lord! I will the king hear this piece of work?",
+            "in the fool that uses it. Go, make you ready.",
             {
                 "following_direction_line": "2"
             }
         ],
         [
-            "LORD POLONIUS",
-            "And the queen too, and that presently.",
+            "HAMLET",
+            "How now, my lord! I will the king hear this piece of work?",
             {
                 "preceding_direction_line": "2"
             }
         ],
         [
-            "HAMLET",
-            "Bid the players make haste."
+            "LORD POLONIUS",
+            "And the queen too, and that presently."
         ],
         [
             "HAMLET",
-            "Will you two help to hasten them?",
+            "Bid the players make haste.",
             {
                 "following_direction_line": "3"
             }
         ],
         [
-            "GUILDENSTERN",
-            "We will, my lord.",
+            "HAMLET",
+            "Will you two help to hasten them?",
             {
                 "preceding_direction_line": "3"
-            },
+            }
+        ],
+        [
+            "GUILDENSTERN",
+            "We will, my lord.",
             {
                 "following_direction_line": "4"
             }
@@ -429,21 +429,21 @@
         ],
         [
             "HAMLET",
-            "No, nor mine now."
-        ],
-        [
-            "HAMLET",
-            "My lord, you played once i' the university, you say?",
+            "No, nor mine now.",
             {
                 "following_direction_line": "7"
             }
         ],
         [
-            "LORD POLONIUS",
-            "That did I, my lord; and was accounted a good actor.",
+            "HAMLET",
+            "My lord, you played once i' the university, you say?",
             {
                 "preceding_direction_line": "7"
             }
+        ],
+        [
+            "LORD POLONIUS",
+            "That did I, my lord; and was accounted a good actor."
         ],
         [
             "HAMLET",
@@ -1037,21 +1037,21 @@
         ],
         [
             "HAMLET",
-            "withers are unwrung."
-        ],
-        [
-            "HAMLET",
-            "This is one Lucianus, nephew to the king.",
+            "withers are unwrung.",
             {
                 "following_direction_line": "15"
             }
         ],
         [
-            "OPHELIA",
-            "You are as good as a chorus, my lord.",
+            "HAMLET",
+            "This is one Lucianus, nephew to the king.",
             {
                 "preceding_direction_line": "15"
             }
+        ],
+        [
+            "OPHELIA",
+            "You are as good as a chorus, my lord."
         ],
         [
             "HAMLET",
@@ -1449,11 +1449,17 @@
         ],
         [
             "HAMLET",
-            "is something musty."
+            "is something musty.",
+            {
+                "following_direction_line": "19"
+            }
         ],
         [
             "HAMLET",
-            "O, the recorders! let me see one. To withdraw with"
+            "O, the recorders! let me see one. To withdraw with",
+            {
+                "preceding_direction_line": "19"
+            }
         ],
         [
             "HAMLET",
@@ -1461,17 +1467,11 @@
         ],
         [
             "HAMLET",
-            "as if you would drive me into a toil?",
-            {
-                "following_direction_line": "19"
-            }
+            "as if you would drive me into a toil?"
         ],
         [
             "GUILDENSTERN",
-            "O, my lord, if my duty be too bold, my love is too",
-            {
-                "preceding_direction_line": "19"
-            }
+            "O, my lord, if my duty be too bold, my love is too"
         ],
         [
             "GUILDENSTERN",
@@ -1567,21 +1567,21 @@
         ],
         [
             "HAMLET",
-            "cannot play upon me."
-        ],
-        [
-            "HAMLET",
-            "God bless you, sir!",
+            "cannot play upon me.",
             {
                 "following_direction_line": "20"
             }
         ],
         [
-            "LORD POLONIUS",
-            "My lord, the queen would speak with you, and",
+            "HAMLET",
+            "God bless you, sir!",
             {
                 "preceding_direction_line": "20"
             }
+        ],
+        [
+            "LORD POLONIUS",
+            "My lord, the queen would speak with you, and"
         ],
         [
             "LORD POLONIUS",
@@ -1625,15 +1625,27 @@
         ],
         [
             "HAMLET",
-            "By and by is easily said."
+            "By and by is easily said.",
+            {
+                "following_direction_line": "21"
+            }
         ],
         [
             "HAMLET",
-            "Leave me, friends."
+            "Leave me, friends.",
+            {
+                "preceding_direction_line": "21"
+            },
+            {
+                "following_direction_line": "22"
+            }
         ],
         [
             "HAMLET",
-            "Tis now the very witching time of night,"
+            "Tis now the very witching time of night,",
+            {
+                "preceding_direction_line": "22"
+            }
         ],
         [
             "HAMLET",
@@ -1679,7 +1691,7 @@
             "HAMLET",
             "To give them seals never, my soul, consent!",
             {
-                "following_direction_line": "21"
+                "following_direction_line": "23"
             }
         ]
     ],
@@ -1787,7 +1799,17 @@
         [
             "_DIRECTION",
             "D21",
-            "Exit POLONIUS. Exeunt all but HAMLET. Exit"
+            "Exit POLONIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D22",
+            "Exeunt all but HAMLET"
+        ],
+        [
+            "_DIRECTION",
+            "D23",
+            "Exit"
         ]
     ],
     "ranges_of_roles_lines": {

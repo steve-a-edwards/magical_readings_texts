@@ -169,12 +169,12 @@ Have overthrown him.
 _R_MACBETH
 [Aside] Glamis, and thane of Cawdor!
 The greatest is behind.
+_D_To ROSS and ANGUS
 Thanks for your pains.
+_D_To BANQUO
 Do you not hope your children shall be kings,
 When those that gave the thane of Cawdor to me
 Promised no less to them?
-_D_To ROSS and ANGUS
-_D_To BANQUO
 _R_BANQUO
 That trusted home
 Might yet enkindle you unto the crown,
@@ -188,6 +188,7 @@ _R_MACBETH
 [Aside] Two truths are told,
 As happy prologues to the swelling act
 Of the imperial theme.--I thank you, gentlemen.
+_D_Aside
 Cannot be ill, cannot be good: if ill,
 Why hath it given me earnest of success,
 Commencing in a truth? I am thane of Cawdor:
@@ -200,7 +201,6 @@ My thought, whose murder yet is but fantastical,
 Shakes so my single state of man that function
 Is smother'd in surmise, and nothing is
 But what is not.
-_D_Aside
 _R_BANQUO
 Look, how our partner's rapt.
 _R_MACBETH

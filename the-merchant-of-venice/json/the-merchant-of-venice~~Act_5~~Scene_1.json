@@ -261,11 +261,17 @@
         ],
         [
             "LORENZO",
-            "And bring your music forth into the air."
+            "And bring your music forth into the air.",
+            {
+                "following_direction_line": "5"
+            }
         ],
         [
             "LORENZO",
-            "How sweet the moonlight sleeps upon this bank!"
+            "How sweet the moonlight sleeps upon this bank!",
+            {
+                "preceding_direction_line": "5"
+            }
         ],
         [
             "LORENZO",
@@ -309,11 +315,17 @@
         ],
         [
             "LORENZO",
-            "Doth grossly close it in, we cannot hear it."
+            "Doth grossly close it in, we cannot hear it.",
+            {
+                "following_direction_line": "6"
+            }
         ],
         [
             "LORENZO",
-            "Come, ho! and wake Diana with a hymn!"
+            "Come, ho! and wake Diana with a hymn!",
+            {
+                "preceding_direction_line": "6"
+            }
         ],
         [
             "LORENZO",
@@ -323,14 +335,14 @@
             "LORENZO",
             "And draw her home with music.",
             {
-                "following_direction_line": "5"
+                "following_direction_line": "7"
             }
         ],
         [
             "JESSICA",
             "I am never merry when I hear sweet music.",
             {
-                "preceding_direction_line": "5"
+                "preceding_direction_line": "7"
             }
         ],
         [
@@ -409,14 +421,14 @@
             "LORENZO",
             "Let no such man be trusted. Mark the music.",
             {
-                "following_direction_line": "6"
+                "following_direction_line": "8"
             }
         ],
         [
             "PORTIA",
             "That light we see is burning in my hall.",
             {
-                "preceding_direction_line": "6"
+                "preceding_direction_line": "8"
             }
         ],
         [
@@ -503,14 +515,14 @@
             "PORTIA",
             "And would not be awaked.",
             {
-                "following_direction_line": "7"
+                "following_direction_line": "9"
             }
         ],
         [
             "LORENZO",
             "That is the voice,",
             {
-                "preceding_direction_line": "7"
+                "preceding_direction_line": "9"
             }
         ],
         [
@@ -569,14 +581,14 @@
             "PORTIA",
             "Nor you, Lorenzo; Jessica, nor you.",
             {
-                "following_direction_line": "8"
+                "following_direction_line": "10"
             }
         ],
         [
             "LORENZO",
             "Your husband is at hand; I hear his trumpet:",
             {
-                "preceding_direction_line": "8"
+                "preceding_direction_line": "10"
             }
         ],
         [
@@ -595,14 +607,14 @@
             "PORTIA",
             "Such as the day is when the sun is hid.",
             {
-                "following_direction_line": "9"
+                "following_direction_line": "11"
             }
         ],
         [
             "BASSANIO",
             "We should hold day with the Antipodes,",
             {
-                "preceding_direction_line": "9"
+                "preceding_direction_line": "11"
             }
         ],
         [
@@ -1357,7 +1369,7 @@
             "GRATIANO",
             "So sore as keeping safe Nerissa's ring.",
             {
-                "following_direction_line": "10"
+                "following_direction_line": "12"
             }
         ]
     ],
@@ -1385,31 +1397,41 @@
         [
             "_DIRECTION",
             "D5",
-            "Exit Stephano. Enter Musicians. Music"
+            "Exit Stephano"
         ],
         [
             "_DIRECTION",
             "D6",
-            "Enter PORTIA and NERISSA"
+            "Enter Musicians"
         ],
         [
             "_DIRECTION",
             "D7",
-            "Music ceases"
+            "Music"
         ],
         [
             "_DIRECTION",
             "D8",
-            "A tucket sounds"
+            "Enter PORTIA and NERISSA"
         ],
         [
             "_DIRECTION",
             "D9",
-            "Enter BASSANIO, ANTONIO, GRATIANO, and their followers"
+            "Music ceases"
         ],
         [
             "_DIRECTION",
             "D10",
+            "A tucket sounds"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "Enter BASSANIO, ANTONIO, GRATIANO, and their followers"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
             "Exeunt"
         ]
     ],

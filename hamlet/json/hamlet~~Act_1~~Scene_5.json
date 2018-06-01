@@ -465,11 +465,17 @@
         ],
         [
             "HAMLET",
-            "At least I'm sure it may be so in Denmark:"
+            "At least I'm sure it may be so in Denmark:",
+            {
+                "following_direction_line": "3"
+            }
         ],
         [
             "HAMLET",
-            "So, uncle, there you are. Now to my word;"
+            "So, uncle, there you are. Now to my word;",
+            {
+                "preceding_direction_line": "3"
+            }
         ],
         [
             "HAMLET",
@@ -477,17 +483,11 @@
         ],
         [
             "HAMLET",
-            "I have sworn 't.",
-            {
-                "following_direction_line": "3"
-            }
+            "I have sworn 't."
         ],
         [
             "HORATIO",
-            "[Within] My lord, my lord,--",
-            {
-                "preceding_direction_line": "3"
-            }
+            "[Within] My lord, my lord,--"
         ],
         [
             "MARCELLUS",
@@ -821,11 +821,17 @@
         ],
         [
             "HAMLET",
-            "Rest, rest, perturbed spirit!"
+            "Rest, rest, perturbed spirit!",
+            {
+                "following_direction_line": "5"
+            }
         ],
         [
             "HAMLET",
-            "So, gentlemen,"
+            "So, gentlemen,",
+            {
+                "preceding_direction_line": "5"
+            }
         ],
         [
             "HAMLET",
@@ -859,7 +865,7 @@
             "HAMLET",
             "Nay, come, let's go together.",
             {
-                "following_direction_line": "5"
+                "following_direction_line": "6"
             }
         ]
     ],
@@ -887,7 +893,12 @@
         [
             "_DIRECTION",
             "D5",
-            "They swear. Exeunt"
+            "They swear"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exeunt"
         ]
     ],
     "ranges_of_roles_lines": {

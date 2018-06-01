@@ -61,21 +61,21 @@
         ],
         [
             "MACBETH",
-            "The table round."
-        ],
-        [
-            "MACBETH",
-            "There's blood on thy face.",
+            "The table round.",
             {
                 "following_direction_line": "3"
             }
         ],
         [
-            "First Murderer",
-            "'Tis Banquo's then.",
+            "MACBETH",
+            "There's blood on thy face.",
             {
                 "preceding_direction_line": "3"
             }
+        ],
+        [
+            "First Murderer",
+            "'Tis Banquo's then."
         ],
         [
             "MACBETH",
@@ -539,25 +539,25 @@
         ],
         [
             "MACBETH",
-            "Unreal mockery, hence!"
-        ],
-        [
-            "MACBETH",
-            "Why, so: being gone,"
-        ],
-        [
-            "MACBETH",
-            "I am a man again. Pray you, sit still.",
+            "Unreal mockery, hence!",
             {
                 "following_direction_line": "8"
             }
         ],
         [
-            "LADY MACBETH",
-            "You have displaced the mirth, broke the good meeting,",
+            "MACBETH",
+            "Why, so: being gone,",
             {
                 "preceding_direction_line": "8"
             }
+        ],
+        [
+            "MACBETH",
+            "I am a man again. Pray you, sit still."
+        ],
+        [
+            "LADY MACBETH",
+            "You have displaced the mirth, broke the good meeting,"
         ],
         [
             "LADY MACBETH",

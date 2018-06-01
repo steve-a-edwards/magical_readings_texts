@@ -109,11 +109,17 @@
         ],
         [
             "CAPULET",
-            "A hall, a hall! give room! and foot it, girls."
+            "A hall, a hall! give room! and foot it, girls.",
+            {
+                "following_direction_line": "3"
+            }
         ],
         [
             "CAPULET",
-            "More light, you knaves; and turn the tables up,"
+            "More light, you knaves; and turn the tables up,",
+            {
+                "preceding_direction_line": "3"
+            }
         ],
         [
             "CAPULET",
@@ -137,17 +143,11 @@
         ],
         [
             "CAPULET",
-            "Were in a mask?",
-            {
-                "following_direction_line": "3"
-            }
+            "Were in a mask?"
         ],
         [
             "Second Capulet",
-            "By'r lady, thirty years.",
-            {
-                "preceding_direction_line": "3"
-            }
+            "By'r lady, thirty years."
         ],
         [
             "CAPULET",

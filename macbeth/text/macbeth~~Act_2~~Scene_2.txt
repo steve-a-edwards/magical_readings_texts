@@ -19,8 +19,8 @@ And 'tis not done. The attempt and not the deed
 Confounds us. Hark! I laid their daggers ready;
 He could not miss 'em. Had he not resembled
 My father as he slept, I had done't.
-My husband!
 _D_Enter MACBETH
+My husband!
 _R_MACBETH
 I have done the deed. Didst thou not hear a noise?
 _R_LADY MACBETH
@@ -111,19 +111,19 @@ _D_Re-enter LADY MACBETH
 _R_LADY MACBETH
 My hands are of your colour; but I shame
 To wear a heart so white.
+_D_Knocking within
 I hear a knocking
 At the south entry: retire we to our chamber;
 A little water clears us of this deed:
 How easy is it, then! Your constancy
 Hath left you unattended.
+_D_Knocking within
 Hark! more knocking.
 Get on your nightgown, lest occasion call us,
 And show us to be watchers. Be not lost
 So poorly in your thoughts.
-_D_Knocking within
-_D_Knocking within
 _R_MACBETH
 To know my deed, 'twere best not know myself.
-Wake Duncan with thy knocking! I would thou couldst!
 _D_Knocking within
+Wake Duncan with thy knocking! I would thou couldst!
 _D_Exeunt

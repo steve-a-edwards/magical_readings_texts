@@ -135,27 +135,33 @@
         ],
         [
             "HECATE",
-            "Is mortals' chiefest enemy."
+            "Is mortals' chiefest enemy.",
+            {
+                "following_direction_line": "2"
+            }
         ],
         [
             "HECATE",
-            "Hark! I am call'd; my little spirit, see,"
+            "Hark! I am call'd; my little spirit, see,",
+            {
+                "preceding_direction_line": "2"
+            }
         ],
         [
             "HECATE",
             "Sits in a foggy cloud, and stays for me.",
             {
-                "following_direction_line": "2"
+                "following_direction_line": "3"
             }
         ],
         [
             "First Witch",
             "Come, let's make haste; she'll soon be back again.",
             {
-                "preceding_direction_line": "2"
+                "preceding_direction_line": "3"
             },
             {
-                "following_direction_line": "3"
+                "following_direction_line": "4"
             }
         ]
     ],
@@ -168,11 +174,16 @@
         [
             "_DIRECTION",
             "D2",
-            "Music and a song within: 'Come away, come away,' and c. Exit"
+            "Music and a song within: 'Come away, come away,' and c"
         ],
         [
             "_DIRECTION",
             "D3",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
             "Exeunt"
         ]
     ],

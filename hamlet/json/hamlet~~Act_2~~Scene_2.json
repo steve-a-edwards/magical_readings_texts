@@ -233,25 +233,25 @@
         ],
         [
             "KING CLAUDIUS",
-            "Thyself do grace to them, and bring them in."
-        ],
-        [
-            "KING CLAUDIUS",
-            "He tells me, my dear Gertrude, he hath found"
-        ],
-        [
-            "KING CLAUDIUS",
-            "The head and source of all your son's distemper.",
+            "Thyself do grace to them, and bring them in.",
             {
                 "following_direction_line": "3"
             }
         ],
         [
-            "QUEEN GERTRUDE",
-            "I doubt it is no other but the main;",
+            "KING CLAUDIUS",
+            "He tells me, my dear Gertrude, he hath found",
             {
                 "preceding_direction_line": "3"
             }
+        ],
+        [
+            "KING CLAUDIUS",
+            "The head and source of all your son's distemper."
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "I doubt it is no other but the main;"
         ],
         [
             "QUEEN GERTRUDE",
@@ -259,25 +259,25 @@
         ],
         [
             "KING CLAUDIUS",
-            "Well, we shall sift him."
-        ],
-        [
-            "KING CLAUDIUS",
-            "Welcome, my good friends!"
-        ],
-        [
-            "KING CLAUDIUS",
-            "Say, Voltimand, what from our brother Norway?",
+            "Well, we shall sift him.",
             {
                 "following_direction_line": "4"
             }
         ],
         [
-            "VOLTIMAND",
-            "Most fair return of greetings and desires.",
+            "KING CLAUDIUS",
+            "Welcome, my good friends!",
             {
                 "preceding_direction_line": "4"
             }
+        ],
+        [
+            "KING CLAUDIUS",
+            "Say, Voltimand, what from our brother Norway?"
+        ],
+        [
+            "VOLTIMAND",
+            "Most fair return of greetings and desires."
         ],
         [
             "VOLTIMAND",
@@ -341,11 +341,17 @@
         ],
         [
             "VOLTIMAND",
-            "With an entreaty, herein further shown,"
+            "With an entreaty, herein further shown,",
+            {
+                "following_direction_line": "5"
+            }
         ],
         [
             "VOLTIMAND",
-            "That it might please you to give quiet pass"
+            "That it might please you to give quiet pass",
+            {
+                "preceding_direction_line": "5"
+            }
         ],
         [
             "VOLTIMAND",
@@ -357,17 +363,11 @@
         ],
         [
             "VOLTIMAND",
-            "As therein are set down.",
-            {
-                "following_direction_line": "5"
-            }
+            "As therein are set down."
         ],
         [
             "KING CLAUDIUS",
-            "It likes us well;",
-            {
-                "preceding_direction_line": "5"
-            }
+            "It likes us well;"
         ],
         [
             "KING CLAUDIUS",
@@ -489,11 +489,17 @@
         ],
         [
             "LORD POLONIUS",
-            "Hath given me this: now gather, and surmise."
+            "Hath given me this: now gather, and surmise.",
+            {
+                "following_direction_line": "7"
+            }
         ],
         [
             "LORD POLONIUS",
-            "'To the celestial and my soul's idol, the most"
+            "'To the celestial and my soul's idol, the most",
+            {
+                "preceding_direction_line": "7"
+            }
         ],
         [
             "LORD POLONIUS",
@@ -505,29 +511,35 @@
         ],
         [
             "LORD POLONIUS",
-            "a vile phrase: but you shall hear. Thus:"
+            "a vile phrase: but you shall hear. Thus:",
+            {
+                "following_direction_line": "8"
+            }
         ],
         [
             "LORD POLONIUS",
             "'In her excellent white bosom, these, and c.'",
             {
-                "following_direction_line": "7"
+                "preceding_direction_line": "8"
             }
         ],
         [
             "QUEEN GERTRUDE",
-            "Came this from Hamlet to her?",
+            "Came this from Hamlet to her?"
+        ],
+        [
+            "LORD POLONIUS",
+            "Good madam, stay awhile; I will be faithful.",
             {
-                "preceding_direction_line": "7"
+                "following_direction_line": "9"
             }
         ],
         [
             "LORD POLONIUS",
-            "Good madam, stay awhile; I will be faithful."
-        ],
-        [
-            "LORD POLONIUS",
-            "'Doubt thou the stars are fire;"
+            "'Doubt thou the stars are fire;",
+            {
+                "preceding_direction_line": "9"
+            }
         ],
         [
             "LORD POLONIUS",
@@ -575,17 +587,11 @@
         ],
         [
             "LORD POLONIUS",
-            "All given to mine ear.",
-            {
-                "following_direction_line": "8"
-            }
+            "All given to mine ear."
         ],
         [
             "KING CLAUDIUS",
-            "But how hath she",
-            {
-                "preceding_direction_line": "8"
-            }
+            "But how hath she"
         ],
         [
             "KING CLAUDIUS",
@@ -781,25 +787,25 @@
         ],
         [
             "LORD POLONIUS",
-            "I'll board him presently."
-        ],
-        [
-            "LORD POLONIUS",
-            "O, give me leave:"
-        ],
-        [
-            "LORD POLONIUS",
-            "How does my good Lord Hamlet?",
+            "I'll board him presently.",
             {
-                "following_direction_line": "9"
+                "following_direction_line": "10"
             }
+        ],
+        [
+            "LORD POLONIUS",
+            "O, give me leave:",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "LORD POLONIUS",
+            "How does my good Lord Hamlet?"
         ],
         [
             "HAMLET",
-            "Well, God-a-mercy.",
-            {
-                "preceding_direction_line": "9"
-            }
+            "Well, God-a-mercy."
         ],
         [
             "LORD POLONIUS",
@@ -947,11 +953,17 @@
         ],
         [
             "LORD POLONIUS",
-            "Indeed, that is out o' the air."
+            "Indeed, that is out o' the air.",
+            {
+                "following_direction_line": "11"
+            }
         ],
         [
             "LORD POLONIUS",
-            "How pregnant sometimes his replies are! a happiness"
+            "How pregnant sometimes his replies are! a happiness",
+            {
+                "preceding_direction_line": "11"
+            }
         ],
         [
             "LORD POLONIUS",
@@ -971,17 +983,11 @@
         ],
         [
             "LORD POLONIUS",
-            "lord, I will most humbly take my leave of you.",
-            {
-                "following_direction_line": "10"
-            }
+            "lord, I will most humbly take my leave of you."
         ],
         [
             "HAMLET",
-            "You cannot, sir, take from me any thing that I will",
-            {
-                "preceding_direction_line": "10"
-            }
+            "You cannot, sir, take from me any thing that I will"
         ],
         [
             "HAMLET",
@@ -999,28 +1005,28 @@
             "HAMLET",
             "These tedious old fools!",
             {
-                "following_direction_line": "11"
+                "following_direction_line": "12"
             }
         ],
         [
             "LORD POLONIUS",
             "You go to seek the Lord Hamlet; there he is.",
             {
-                "preceding_direction_line": "11"
+                "preceding_direction_line": "12"
             }
         ],
         [
             "ROSENCRANTZ",
             "[To POLONIUS] God save you, sir!",
             {
-                "following_direction_line": "12"
+                "following_direction_line": "13"
             }
         ],
         [
             "GUILDENSTERN",
             "My honoured lord!",
             {
-                "preceding_direction_line": "12"
+                "preceding_direction_line": "13"
             }
         ],
         [
@@ -1579,14 +1585,14 @@
             "HAMLET",
             "natural, if philosophy could find it out.",
             {
-                "following_direction_line": "13"
+                "following_direction_line": "14"
             }
         ],
         [
             "GUILDENSTERN",
             "There are the players.",
             {
-                "preceding_direction_line": "13"
+                "preceding_direction_line": "14"
             }
         ],
         [
@@ -1629,14 +1635,14 @@
             "HAMLET",
             "southerly I know a hawk from a handsaw.",
             {
-                "following_direction_line": "14"
+                "following_direction_line": "15"
             }
         ],
         [
             "LORD POLONIUS",
             "Well be with you, gentlemen!",
             {
-                "preceding_direction_line": "14"
+                "preceding_direction_line": "15"
             }
         ],
         [
@@ -1793,11 +1799,17 @@
         ],
         [
             "HAMLET",
-            "more; for look, where my abridgement comes."
+            "more; for look, where my abridgement comes.",
+            {
+                "following_direction_line": "16"
+            }
         ],
         [
             "HAMLET",
-            "You are welcome, masters; welcome, all. I am glad"
+            "You are welcome, masters; welcome, all. I am glad",
+            {
+                "preceding_direction_line": "16"
+            }
         ],
         [
             "HAMLET",
@@ -1841,17 +1853,11 @@
         ],
         [
             "HAMLET",
-            "of your quality; come, a passionate speech.",
-            {
-                "following_direction_line": "15"
-            }
+            "of your quality; come, a passionate speech."
         ],
         [
             "First Player",
-            "What speech, my lord?",
-            {
-                "preceding_direction_line": "15"
-            }
+            "What speech, my lord?"
         ],
         [
             "HAMLET",
@@ -2263,25 +2269,25 @@
         ],
         [
             "HAMLET",
-            "Follow him, friends: we'll hear a play to-morrow."
-        ],
-        [
-            "HAMLET",
-            "Dost thou hear me, old friend; can you play the"
-        ],
-        [
-            "HAMLET",
-            "Murder of Gonzago?",
+            "Follow him, friends: we'll hear a play to-morrow.",
             {
-                "following_direction_line": "16"
+                "following_direction_line": "17"
             }
+        ],
+        [
+            "HAMLET",
+            "Dost thou hear me, old friend; can you play the",
+            {
+                "preceding_direction_line": "17"
+            }
+        ],
+        [
+            "HAMLET",
+            "Murder of Gonzago?"
         ],
         [
             "First Player",
-            "Ay, my lord.",
-            {
-                "preceding_direction_line": "16"
-            }
+            "Ay, my lord."
         ],
         [
             "HAMLET",
@@ -2305,33 +2311,39 @@
         ],
         [
             "HAMLET",
-            "not."
-        ],
-        [
-            "HAMLET",
-            "My good friends, I'll leave you till night: you are"
-        ],
-        [
-            "HAMLET",
-            "welcome to Elsinore.",
+            "not.",
             {
-                "following_direction_line": "17"
+                "following_direction_line": "18"
             }
+        ],
+        [
+            "HAMLET",
+            "My good friends, I'll leave you till night: you are",
+            {
+                "preceding_direction_line": "18"
+            }
+        ],
+        [
+            "HAMLET",
+            "welcome to Elsinore."
         ],
         [
             "ROSENCRANTZ",
-            "Good my lord!",
+            "Good my lord!"
+        ],
+        [
+            "HAMLET",
+            "Ay, so, God be wi' ye;",
             {
-                "preceding_direction_line": "17"
+                "following_direction_line": "19"
             }
         ],
         [
             "HAMLET",
-            "Ay, so, God be wi' ye;"
-        ],
-        [
-            "HAMLET",
-            "Now I am alone."
+            "Now I am alone.",
+            {
+                "preceding_direction_line": "19"
+            }
         ],
         [
             "HAMLET",
@@ -2565,7 +2577,7 @@
             "HAMLET",
             "Wherein I'll catch the conscience of the king.",
             {
-                "following_direction_line": "18"
+                "following_direction_line": "20"
             }
         ]
     ],
@@ -2603,7 +2615,7 @@
         [
             "_DIRECTION",
             "D7",
-            "Reads. Reads"
+            "Reads"
         ],
         [
             "_DIRECTION",
@@ -2613,52 +2625,62 @@
         [
             "_DIRECTION",
             "D9",
-            "Exeunt KING CLAUDIUS, QUEEN GERTRUDE, and Attendants. Enter HAMLET, reading"
+            "Reads"
         ],
         [
             "_DIRECTION",
             "D10",
-            "Aside"
+            "Exeunt KING CLAUDIUS, QUEEN GERTRUDE, and Attendants. Enter HAMLET, reading"
         ],
         [
             "_DIRECTION",
             "D11",
-            "Enter ROSENCRANTZ and GUILDENSTERN"
+            "Aside"
         ],
         [
             "_DIRECTION",
             "D12",
-            "Exit POLONIUS"
+            "Enter ROSENCRANTZ and GUILDENSTERN"
         ],
         [
             "_DIRECTION",
             "D13",
-            "Flourish of trumpets within"
+            "Exit POLONIUS"
         ],
         [
             "_DIRECTION",
             "D14",
-            "Enter POLONIUS"
+            "Flourish of trumpets within"
         ],
         [
             "_DIRECTION",
             "D15",
-            "Enter four or five Players"
+            "Enter POLONIUS"
         ],
         [
             "_DIRECTION",
             "D16",
-            "Exit POLONIUS with all the Players but the First"
+            "Enter four or five Players"
         ],
         [
             "_DIRECTION",
             "D17",
-            "Exit First Player"
+            "Exit POLONIUS with all the Players but the First"
         ],
         [
             "_DIRECTION",
             "D18",
-            "Exeunt ROSENCRANTZ and GUILDENSTERN. Exit"
+            "Exit First Player"
+        ],
+        [
+            "_DIRECTION",
+            "D19",
+            "Exeunt ROSENCRANTZ and GUILDENSTERN"
+        ],
+        [
+            "_DIRECTION",
+            "D20",
+            "Exit"
         ]
     ],
     "ranges_of_roles_lines": {

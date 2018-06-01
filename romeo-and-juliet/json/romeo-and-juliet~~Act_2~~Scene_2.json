@@ -7,11 +7,17 @@
             "He jests at scars that never felt a wound.",
             {
                 "preceding_direction_line": "1"
+            },
+            {
+                "following_direction_line": "2"
             }
         ],
         [
             "ROMEO",
-            "But, soft! what light through yonder window breaks?"
+            "But, soft! what light through yonder window breaks?",
+            {
+                "preceding_direction_line": "2"
+            }
         ],
         [
             "ROMEO",
@@ -103,17 +109,11 @@
         ],
         [
             "ROMEO",
-            "That I might touch that cheek!",
-            {
-                "following_direction_line": "2"
-            }
+            "That I might touch that cheek!"
         ],
         [
             "JULIET",
-            "Ay me!",
-            {
-                "preceding_direction_line": "2"
-            }
+            "Ay me!"
         ],
         [
             "ROMEO",
@@ -573,11 +573,17 @@
         ],
         [
             "JULIET",
-            "The more I have, for both are infinite."
+            "The more I have, for both are infinite.",
+            {
+                "following_direction_line": "3"
+            }
         ],
         [
             "JULIET",
-            "I hear some noise within; dear love, adieu!"
+            "I hear some noise within; dear love, adieu!",
+            {
+                "preceding_direction_line": "3"
+            }
         ],
         [
             "JULIET",
@@ -587,14 +593,14 @@
             "JULIET",
             "Stay but a little, I will come again.",
             {
-                "following_direction_line": "3"
+                "following_direction_line": "4"
             }
         ],
         [
             "ROMEO",
             "O blessed, blessed night! I am afeard.",
             {
-                "preceding_direction_line": "3"
+                "preceding_direction_line": "4"
             }
         ],
         [
@@ -605,14 +611,14 @@
             "ROMEO",
             "Too flattering-sweet to be substantial.",
             {
-                "following_direction_line": "4"
+                "following_direction_line": "5"
             }
         ],
         [
             "JULIET",
             "Three words, dear Romeo, and good night indeed.",
             {
-                "preceding_direction_line": "4"
+                "preceding_direction_line": "5"
             }
         ],
         [
@@ -675,14 +681,14 @@
             "JULIET",
             "A thousand times good night!",
             {
-                "following_direction_line": "5"
+                "following_direction_line": "6"
             }
         ],
         [
             "ROMEO",
             "A thousand times the worse, to want thy light.",
             {
-                "preceding_direction_line": "5"
+                "preceding_direction_line": "6"
             }
         ],
         [
@@ -697,14 +703,14 @@
             "ROMEO",
             "But love from love, toward school with heavy looks.",
             {
-                "following_direction_line": "6"
+                "following_direction_line": "7"
             }
         ],
         [
             "JULIET",
             "Hist! Romeo, hist! O, for a falconer's voice,",
             {
-                "preceding_direction_line": "6"
+                "preceding_direction_line": "7"
             }
         ],
         [
@@ -835,14 +841,14 @@
             "JULIET",
             "That I shall say good night till it be morrow.",
             {
-                "following_direction_line": "7"
+                "following_direction_line": "8"
             }
         ],
         [
             "ROMEO",
             "Sleep dwell upon thine eyes, peace in thy breast!",
             {
-                "preceding_direction_line": "7"
+                "preceding_direction_line": "8"
             }
         ],
         [
@@ -857,7 +863,7 @@
             "ROMEO",
             "His help to crave, and my dear hap to tell.",
             {
-                "following_direction_line": "8"
+                "following_direction_line": "9"
             }
         ]
     ],
@@ -875,31 +881,36 @@
         [
             "_DIRECTION",
             "D3",
-            "Nurse calls within. Exit, above"
+            "Nurse calls within"
         ],
         [
             "_DIRECTION",
             "D4",
-            "Re-enter JULIET, above"
-        ],
-        [
-            "_DIRECTION",
-            "D5",
             "Exit, above"
         ],
         [
             "_DIRECTION",
+            "D5",
+            "Re-enter JULIET, above"
+        ],
+        [
+            "_DIRECTION",
             "D6",
-            "Retiring. Re-enter JULIET, above"
+            "Exit, above"
         ],
         [
             "_DIRECTION",
             "D7",
-            "Exit above"
+            "Retiring. Re-enter JULIET, above"
         ],
         [
             "_DIRECTION",
             "D8",
+            "Exit above"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
             "Exit"
         ]
     ],

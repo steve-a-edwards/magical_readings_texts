@@ -122,8 +122,8 @@ Is often laudable, to do good sometime
 Accounted dangerous folly: why then, alas,
 Do I put up that womanly defence,
 To say I have done no harm?
-What are these faces?
 _D_Enter Murderers
+What are these faces?
 _R_First Murderer
 Where is your husband?
 _R_LADY MACDUFF
@@ -135,8 +135,8 @@ _R_Son
 Thou liest, thou shag-hair'd villain!
 _R_First Murderer
 What, you egg!
-Young fry of treachery!
 _D_Stabbing him
+Young fry of treachery!
 _R_Son
 He has kill'd me, mother:
 Run away, I pray you!

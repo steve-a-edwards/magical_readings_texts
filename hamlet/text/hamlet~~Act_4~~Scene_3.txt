@@ -12,8 +12,8 @@ This sudden sending him away must seem
 Deliberate pause: diseases desperate grown
 By desperate appliance are relieved,
 Or not at all.
-How now! what hath befall'n?
 _D_Enter ROSENCRANTZ
+How now! what hath befall'n?
 _R_ROSENCRANTZ
 Where the dead body is bestow'd, my lord,
 We cannot get from him.
@@ -94,6 +94,7 @@ Follow him at foot; tempt him with speed aboard;
 Delay it not; I'll have him hence to-night:
 Away! for every thing is seal'd and done
 That else leans on the affair: pray you, make haste.
+_D_Exeunt ROSENCRANTZ and GUILDENSTERN
 And, England, if my love thou hold'st at aught--
 As my great power thereof may give thee sense,
 Since yet thy cicatrice looks raw and red
@@ -105,5 +106,4 @@ The present death of Hamlet. Do it, England;
 For like the hectic in my blood he rages,
 And thou must cure me: till I know 'tis done,
 Howe'er my haps, my joys were ne'er begun.
-_D_Exeunt ROSENCRANTZ and GUILDENSTERN
 _D_Exit

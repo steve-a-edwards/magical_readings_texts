@@ -73,6 +73,7 @@ To offend, and judge, are distinct offices
 And of opposed natures.
 _R_ARRAGON
 What is here?
+_D_Reads
 The fire seven times tried this:
 Seven times tried that judgment is,
 That did never choose amiss.
@@ -89,7 +90,6 @@ With one fool's head I came to woo,
 But I go away with two.
 Sweet, adieu. I'll keep my oath,
 Patiently to bear my wroth.
-_D_Reads
 _D_Exeunt Arragon and train
 _R_PORTIA
 Thus hath the candle singed the moth.

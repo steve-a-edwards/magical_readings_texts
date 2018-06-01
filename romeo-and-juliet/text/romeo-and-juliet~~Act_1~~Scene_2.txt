@@ -39,11 +39,11 @@ And like her most whose merit most shall be:
 Which on more view, of many mine being one
 May stand in number, though in reckoning none,
 Come, go with me.
+_D_To Servant, giving a paper
 Go, sirrah, trudge about
 Through fair Verona; find those persons out
 Whose names are written there, and to them say,
 My house and welcome on their pleasure stay.
-_D_To Servant, giving a paper
 _D_Exeunt CAPULET and PARIS
 _R_Servant
 Find them out whose names are written here! It is
@@ -86,6 +86,7 @@ _R_Servant
 Ye say honestly: rest you merry!
 _R_ROMEO
 Stay, fellow; I can read.
+_D_Reads
 'Signior Martino and his wife and daughters;
 County Anselme and his beauteous sisters; the lady
 widow of Vitravio; Signior Placentio and his lovely
@@ -94,7 +95,6 @@ uncle Capulet, his wife and daughters; my fair niece
 Rosaline; Livia; Signior Valentio and his cousin
 Tybalt, Lucio and the lively Helena.' A fair
 assembly: whither should they come?
-_D_Reads
 _R_Servant
 Up.
 _R_ROMEO

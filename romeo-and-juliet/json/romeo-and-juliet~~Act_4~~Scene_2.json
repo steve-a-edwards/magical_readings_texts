@@ -7,21 +7,21 @@
             "So many guests invite as here are writ.",
             {
                 "preceding_direction_line": "1"
+            },
+            {
+                "following_direction_line": "2"
             }
         ],
         [
             "CAPULET",
             "Sirrah, go hire me twenty cunning cooks.",
             {
-                "following_direction_line": "2"
+                "preceding_direction_line": "2"
             }
         ],
         [
             "Second Servant",
-            "You shall have none ill, sir; for I'll try if they",
-            {
-                "preceding_direction_line": "2"
-            }
+            "You shall have none ill, sir; for I'll try if they"
         ],
         [
             "Second Servant",
@@ -45,25 +45,25 @@
         ],
         [
             "CAPULET",
-            "Go, be gone."
-        ],
-        [
-            "CAPULET",
-            "We shall be much unfurnished for this time."
-        ],
-        [
-            "CAPULET",
-            "What, is my daughter gone to Friar Laurence?",
+            "Go, be gone.",
             {
                 "following_direction_line": "3"
             }
         ],
         [
-            "Nurse",
-            "Ay, forsooth.",
+            "CAPULET",
+            "We shall be much unfurnished for this time.",
             {
                 "preceding_direction_line": "3"
             }
+        ],
+        [
+            "CAPULET",
+            "What, is my daughter gone to Friar Laurence?"
+        ],
+        [
+            "Nurse",
+            "Ay, forsooth."
         ],
         [
             "CAPULET",

@@ -138,8 +138,8 @@ the pantry, and every thing in extremity. I must
 hence to wait; I beseech you, follow straight.
 _R_LADY CAPULET
 We follow thee.
-Juliet, the county stays.
 _D_Exit Servant
+Juliet, the county stays.
 _R_Nurse
 Go, girl, seek happy nights to happy days.
 _D_Exeunt

@@ -31,21 +31,21 @@
         ],
         [
             "MACBETH",
-            "And beat them backward home."
-        ],
-        [
-            "MACBETH",
-            "What is that noise?",
+            "And beat them backward home.",
             {
                 "following_direction_line": "2"
             }
         ],
         [
-            "SEYTON",
-            "It is the cry of women, my good lord.",
+            "MACBETH",
+            "What is that noise?",
             {
                 "preceding_direction_line": "2"
-            },
+            }
+        ],
+        [
+            "SEYTON",
+            "It is the cry of women, my good lord.",
             {
                 "following_direction_line": "3"
             }
@@ -79,21 +79,21 @@
         ],
         [
             "MACBETH",
-            "Cannot once start me."
-        ],
-        [
-            "MACBETH",
-            "Wherefore was that cry?",
+            "Cannot once start me.",
             {
                 "following_direction_line": "4"
             }
         ],
         [
-            "SEYTON",
-            "The queen, my lord, is dead.",
+            "MACBETH",
+            "Wherefore was that cry?",
             {
                 "preceding_direction_line": "4"
             }
+        ],
+        [
+            "SEYTON",
+            "The queen, my lord, is dead."
         ],
         [
             "MACBETH",
@@ -141,21 +141,21 @@
         ],
         [
             "MACBETH",
-            "Signifying nothing."
-        ],
-        [
-            "MACBETH",
-            "Thou comest to use thy tongue; thy story quickly.",
+            "Signifying nothing.",
             {
                 "following_direction_line": "5"
             }
         ],
         [
-            "Messenger",
-            "Gracious my lord,",
+            "MACBETH",
+            "Thou comest to use thy tongue; thy story quickly.",
             {
                 "preceding_direction_line": "5"
             }
+        ],
+        [
+            "Messenger",
+            "Gracious my lord,"
         ],
         [
             "Messenger",

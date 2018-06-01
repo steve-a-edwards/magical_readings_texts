@@ -8,8 +8,8 @@ Till famine and the ague eat them up:
 Were they not forced with those that should be ours,
 We might have met them dareful, beard to beard,
 And beat them backward home.
-What is that noise?
 _D_A cry of women within
+What is that noise?
 _R_SEYTON
 It is the cry of women, my good lord.
 _D_Exit
@@ -21,8 +21,8 @@ Would at a dismal treatise rouse and stir
 As life were in't: I have supp'd full with horrors;
 Direness, familiar to my slaughterous thoughts
 Cannot once start me.
-Wherefore was that cry?
 _D_Re-enter SEYTON
+Wherefore was that cry?
 _R_SEYTON
 The queen, my lord, is dead.
 _R_MACBETH
@@ -38,8 +38,8 @@ That struts and frets his hour upon the stage
 And then is heard no more: it is a tale
 Told by an idiot, full of sound and fury,
 Signifying nothing.
-Thou comest to use thy tongue; thy story quickly.
 _D_Enter a Messenger
+Thou comest to use thy tongue; thy story quickly.
 _R_Messenger
 Gracious my lord,
 I should report that which I say I saw,

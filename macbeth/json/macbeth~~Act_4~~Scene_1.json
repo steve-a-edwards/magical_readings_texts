@@ -421,11 +421,17 @@
         ],
         [
             "MACBETH",
-            "And sleep in spite of thunder."
+            "And sleep in spite of thunder.",
+            {
+                "following_direction_line": "9"
+            }
         ],
         [
             "MACBETH",
-            "What is this"
+            "What is this",
+            {
+                "preceding_direction_line": "9"
+            }
         ],
         [
             "MACBETH",
@@ -437,17 +443,11 @@
         ],
         [
             "MACBETH",
-            "And top of sovereignty?",
-            {
-                "following_direction_line": "9"
-            }
+            "And top of sovereignty?"
         ],
         [
             "ALL",
-            "Listen, but speak not to't.",
-            {
-                "preceding_direction_line": "9"
-            }
+            "Listen, but speak not to't."
         ],
         [
             "Third Apparition",
@@ -613,21 +613,21 @@
         ],
         [
             "MACBETH",
-            "And points at them for his."
-        ],
-        [
-            "MACBETH",
-            "What, is this so?",
+            "And points at them for his.",
             {
                 "following_direction_line": "13"
             }
         ],
         [
-            "First Witch",
-            "Ay, sir, all this is so: but why",
+            "MACBETH",
+            "What, is this so?",
             {
                 "preceding_direction_line": "13"
             }
+        ],
+        [
+            "First Witch",
+            "Ay, sir, all this is so: but why"
         ],
         [
             "First Witch",

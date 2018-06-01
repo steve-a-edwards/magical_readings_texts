@@ -56,8 +56,8 @@ But I am faint, my gashes cry for help.
 _R_DUNCAN
 So well thy words become thee as thy wounds;
 They smack of honour both. Go get him surgeons.
-Who comes here?
 _D_Exit Sergeant, attended
+Who comes here?
 _D_Enter ROSS
 _R_MALCOLM
 The worthy thane of Ross.

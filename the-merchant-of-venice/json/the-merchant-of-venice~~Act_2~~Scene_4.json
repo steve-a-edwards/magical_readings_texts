@@ -39,21 +39,21 @@
         ],
         [
             "LORENZO",
-            "To furnish us."
-        ],
-        [
-            "LORENZO",
-            "Friend Launcelot, what's the news?",
+            "To furnish us.",
             {
                 "following_direction_line": "2"
             }
         ],
         [
-            "LAUNCELOT",
-            "An it shall please you to break up",
+            "LORENZO",
+            "Friend Launcelot, what's the news?",
             {
                 "preceding_direction_line": "2"
             }
+        ],
+        [
+            "LAUNCELOT",
+            "An it shall please you to break up"
         ],
         [
             "LAUNCELOT",
@@ -101,25 +101,25 @@
         ],
         [
             "LORENZO",
-            "Go, gentlemen,"
-        ],
-        [
-            "LORENZO",
-            "Will you prepare you for this masque tonight?"
-        ],
-        [
-            "LORENZO",
-            "I am provided of a torch-bearer.",
+            "Go, gentlemen,",
             {
                 "following_direction_line": "3"
             }
         ],
         [
-            "SALANIO",
-            "Ay, marry, I'll be gone about it straight.",
+            "LORENZO",
+            "Will you prepare you for this masque tonight?",
             {
                 "preceding_direction_line": "3"
             }
+        ],
+        [
+            "LORENZO",
+            "I am provided of a torch-bearer."
+        ],
+        [
+            "SALANIO",
+            "Ay, marry, I'll be gone about it straight."
         ],
         [
             "SALANIO",

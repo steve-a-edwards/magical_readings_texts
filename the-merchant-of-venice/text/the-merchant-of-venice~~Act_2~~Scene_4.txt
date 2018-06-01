@@ -14,8 +14,8 @@ And better in my mind not undertook.
 _R_LORENZO
 'Tis now but four o'clock: we have two hours
 To furnish us.
-Friend Launcelot, what's the news?
 _D_Enter LAUNCELOT, with a letter
+Friend Launcelot, what's the news?
 _R_LAUNCELOT
 An it shall please you to break up
 this, it shall seem to signify.
@@ -36,9 +36,9 @@ _R_LORENZO
 Hold here, take this: tell gentle Jessica
 I will not fail her; speak it privately.
 Go, gentlemen,
+_D_Exit Launcelot
 Will you prepare you for this masque tonight?
 I am provided of a torch-bearer.
-_D_Exit Launcelot
 _R_SALANIO
 Ay, marry, I'll be gone about it straight.
 _R_SALANIO

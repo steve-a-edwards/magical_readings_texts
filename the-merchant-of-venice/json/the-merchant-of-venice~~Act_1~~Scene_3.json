@@ -229,25 +229,25 @@
         ],
         [
             "SHYLOCK",
-            "Do you desire?"
-        ],
-        [
-            "SHYLOCK",
-            "Rest you fair, good signior;"
-        ],
-        [
-            "SHYLOCK",
-            "Your worship was the last man in our mouths.",
+            "Do you desire?",
             {
                 "following_direction_line": "3"
             }
         ],
         [
-            "ANTONIO",
-            "Shylock, although I neither lend nor borrow",
+            "SHYLOCK",
+            "Rest you fair, good signior;",
             {
                 "preceding_direction_line": "3"
             }
+        ],
+        [
+            "SHYLOCK",
+            "Your worship was the last man in our mouths."
+        ],
+        [
+            "ANTONIO",
+            "Shylock, although I neither lend nor borrow"
         ],
         [
             "ANTONIO",
@@ -731,21 +731,21 @@
         ],
         [
             "ANTONIO",
-            "Hie thee, gentle Jew."
-        ],
-        [
-            "ANTONIO",
-            "The Hebrew will turn Christian: he grows kind.",
+            "Hie thee, gentle Jew.",
             {
                 "following_direction_line": "4"
             }
         ],
         [
-            "BASSANIO",
-            "I like not fair terms and a villain's mind.",
+            "ANTONIO",
+            "The Hebrew will turn Christian: he grows kind.",
             {
                 "preceding_direction_line": "4"
             }
+        ],
+        [
+            "BASSANIO",
+            "I like not fair terms and a villain's mind."
         ],
         [
             "ANTONIO",

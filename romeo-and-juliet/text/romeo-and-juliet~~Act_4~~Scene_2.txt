@@ -2,8 +2,8 @@ _S_SCENE II. Hall in Capulet's house.
 _D_Enter CAPULET, LADY CAPULET, Nurse, and two Servingmen
 _R_CAPULET
 So many guests invite as here are writ.
-Sirrah, go hire me twenty cunning cooks.
 _D_Exit First Servant
+Sirrah, go hire me twenty cunning cooks.
 _R_Second Servant
 You shall have none ill, sir; for I'll try if they
 can lick their fingers.
@@ -15,9 +15,9 @@ own fingers: therefore he that cannot lick his
 fingers goes not with me.
 _R_CAPULET
 Go, be gone.
+_D_Exit Second Servant
 We shall be much unfurnished for this time.
 What, is my daughter gone to Friar Laurence?
-_D_Exit Second Servant
 _R_Nurse
 Ay, forsooth.
 _R_CAPULET

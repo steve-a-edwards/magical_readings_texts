@@ -75,25 +75,25 @@
         ],
         [
             "JULIET",
-            "O God, she comes!"
-        ],
-        [
-            "JULIET",
-            "O honey nurse, what news?"
-        ],
-        [
-            "JULIET",
-            "Hast thou met with him? Send thy man away.",
+            "O God, she comes!",
             {
                 "following_direction_line": "2"
             }
         ],
         [
-            "Nurse",
-            "Peter, stay at the gate.",
+            "JULIET",
+            "O honey nurse, what news?",
             {
                 "preceding_direction_line": "2"
-            },
+            }
+        ],
+        [
+            "JULIET",
+            "Hast thou met with him? Send thy man away."
+        ],
+        [
+            "Nurse",
+            "Peter, stay at the gate.",
             {
                 "following_direction_line": "3"
             }

@@ -167,11 +167,17 @@
         ],
         [
             "KING CLAUDIUS",
-            "We doubt it nothing: heartily farewell."
+            "We doubt it nothing: heartily farewell.",
+            {
+                "following_direction_line": "2"
+            }
         ],
         [
             "KING CLAUDIUS",
-            "And now, Laertes, what's the news with you?"
+            "And now, Laertes, what's the news with you?",
+            {
+                "preceding_direction_line": "2"
+            }
         ],
         [
             "KING CLAUDIUS",
@@ -203,17 +209,11 @@
         ],
         [
             "KING CLAUDIUS",
-            "What wouldst thou have, Laertes?",
-            {
-                "following_direction_line": "2"
-            }
+            "What wouldst thou have, Laertes?"
         ],
         [
             "LAERTES",
-            "My dread lord,",
-            {
-                "preceding_direction_line": "2"
-            }
+            "My dread lord,"
         ],
         [
             "LAERTES",
@@ -1101,11 +1101,17 @@
         ],
         [
             "HAMLET",
-            "Your loves, as mine to you: farewell."
+            "Your loves, as mine to you: farewell.",
+            {
+                "following_direction_line": "5"
+            }
         ],
         [
             "HAMLET",
-            "My father's spirit in arms! all is not well;"
+            "My father's spirit in arms! all is not well;",
+            {
+                "preceding_direction_line": "5"
+            }
         ],
         [
             "HAMLET",
@@ -1119,7 +1125,7 @@
             "HAMLET",
             "Though all the earth o'erwhelm them, to men's eyes.",
             {
-                "following_direction_line": "5"
+                "following_direction_line": "6"
             }
         ]
     ],
@@ -1147,7 +1153,12 @@
         [
             "_DIRECTION",
             "D5",
-            "Exeunt all but HAMLET. Exit"
+            "Exeunt all but HAMLET"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exit"
         ]
     ],
     "ranges_of_roles_lines": {

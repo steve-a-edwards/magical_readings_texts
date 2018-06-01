@@ -257,24 +257,30 @@
         ],
         [
             "LORENZO",
-            "Shall she be placed in my constant soul."
+            "Shall she be placed in my constant soul.",
+            {
+                "following_direction_line": "5"
+            }
         ],
         [
             "LORENZO",
-            "What, art thou come? On, gentlemen; away!"
+            "What, art thou come? On, gentlemen; away!",
+            {
+                "preceding_direction_line": "5"
+            }
         ],
         [
             "LORENZO",
             "Our masquing mates by this time for us stay.",
             {
-                "following_direction_line": "5"
+                "following_direction_line": "6"
             }
         ],
         [
             "ANTONIO",
             "Who's there?",
             {
-                "preceding_direction_line": "5"
+                "preceding_direction_line": "6"
             }
         ],
         [
@@ -309,7 +315,7 @@
             "GRATIANO",
             "Than to be under sail and gone to-night.",
             {
-                "following_direction_line": "6"
+                "following_direction_line": "7"
             }
         ]
     ],
@@ -337,11 +343,16 @@
         [
             "_DIRECTION",
             "D5",
-            "Enter JESSICA, below. Exit with Jessica and Salarino. Enter ANTONIO"
+            "Enter JESSICA, below"
         ],
         [
             "_DIRECTION",
             "D6",
+            "Exit with Jessica and Salarino. Enter ANTONIO"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
             "Exeunt"
         ]
     ],

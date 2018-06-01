@@ -269,11 +269,17 @@
         ],
         [
             "MOROCCO",
-            "There is a written scroll! I'll read the writing."
+            "There is a written scroll! I'll read the writing.",
+            {
+                "following_direction_line": "3"
+            }
         ],
         [
             "MOROCCO",
-            "All that glitters is not gold;"
+            "All that glitters is not gold;",
+            {
+                "preceding_direction_line": "3"
+            }
         ],
         [
             "MOROCCO",
@@ -323,21 +329,21 @@
             "MOROCCO",
             "To take a tedious leave: thus losers part.",
             {
-                "following_direction_line": "3"
+                "following_direction_line": "4"
             }
         ],
         [
             "PORTIA",
             "A gentle riddance. Draw the curtains, go.",
             {
-                "preceding_direction_line": "3"
+                "preceding_direction_line": "4"
             }
         ],
         [
             "PORTIA",
             "Let all of his complexion choose me so.",
             {
-                "following_direction_line": "4"
+                "following_direction_line": "5"
             }
         ]
     ],
@@ -355,11 +361,16 @@
         [
             "_DIRECTION",
             "D3",
-            "Reads. Exit with his train. Flourish of cornets"
+            "Reads"
         ],
         [
             "_DIRECTION",
             "D4",
+            "Exit with his train. Flourish of cornets"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
             "Exeunt"
         ]
     ],

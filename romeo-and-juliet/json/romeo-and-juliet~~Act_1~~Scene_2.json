@@ -139,11 +139,17 @@
         ],
         [
             "CAPULET",
-            "Come, go with me."
+            "Come, go with me.",
+            {
+                "following_direction_line": "2"
+            }
         ],
         [
             "CAPULET",
-            "Go, sirrah, trudge about"
+            "Go, sirrah, trudge about",
+            {
+                "preceding_direction_line": "2"
+            }
         ],
         [
             "CAPULET",
@@ -157,14 +163,14 @@
             "CAPULET",
             "My house and welcome on their pleasure stay.",
             {
-                "following_direction_line": "2"
+                "following_direction_line": "3"
             }
         ],
         [
             "Servant",
             "Find them out whose names are written here! It is",
             {
-                "preceding_direction_line": "2"
+                "preceding_direction_line": "3"
             }
         ],
         [
@@ -191,14 +197,14 @@
             "Servant",
             "person hath here writ. I must to the learned.--In good time.",
             {
-                "following_direction_line": "3"
+                "following_direction_line": "4"
             }
         ],
         [
             "BENVOLIO",
             "Tut, man, one fire burns out another's burning,",
             {
-                "preceding_direction_line": "3"
+                "preceding_direction_line": "4"
             }
         ],
         [
@@ -275,11 +281,17 @@
         ],
         [
             "ROMEO",
-            "Stay, fellow; I can read."
+            "Stay, fellow; I can read.",
+            {
+                "following_direction_line": "5"
+            }
         ],
         [
             "ROMEO",
-            "'Signior Martino and his wife and daughters;"
+            "'Signior Martino and his wife and daughters;",
+            {
+                "preceding_direction_line": "5"
+            }
         ],
         [
             "ROMEO",
@@ -307,17 +319,11 @@
         ],
         [
             "ROMEO",
-            "assembly: whither should they come?",
-            {
-                "following_direction_line": "4"
-            }
+            "assembly: whither should they come?"
         ],
         [
             "Servant",
-            "Up.",
-            {
-                "preceding_direction_line": "4"
-            }
+            "Up."
         ],
         [
             "ROMEO",
@@ -355,14 +361,14 @@
             "Servant",
             "Rest you merry!",
             {
-                "following_direction_line": "5"
+                "following_direction_line": "6"
             }
         ],
         [
             "BENVOLIO",
             "At this same ancient feast of Capulet's",
             {
-                "preceding_direction_line": "5"
+                "preceding_direction_line": "6"
             }
         ],
         [
@@ -441,7 +447,7 @@
             "ROMEO",
             "But to rejoice in splendor of mine own.",
             {
-                "following_direction_line": "6"
+                "following_direction_line": "7"
             }
         ]
     ],
@@ -454,26 +460,31 @@
         [
             "_DIRECTION",
             "D2",
-            "To Servant, giving a paper. Exeunt CAPULET and PARIS"
+            "To Servant, giving a paper"
         ],
         [
             "_DIRECTION",
             "D3",
-            "Enter BENVOLIO and ROMEO"
+            "Exeunt CAPULET and PARIS"
         ],
         [
             "_DIRECTION",
             "D4",
-            "Reads"
+            "Enter BENVOLIO and ROMEO"
         ],
         [
             "_DIRECTION",
             "D5",
-            "Exit"
+            "Reads"
         ],
         [
             "_DIRECTION",
             "D6",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
             "Exeunt"
         ]
     ],

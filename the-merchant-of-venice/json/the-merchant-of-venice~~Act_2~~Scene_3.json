@@ -63,11 +63,17 @@
         ],
         [
             "JESSICA",
-            "Farewell, good Launcelot."
+            "Farewell, good Launcelot.",
+            {
+                "following_direction_line": "2"
+            }
         ],
         [
             "JESSICA",
-            "Alack, what heinous sin is it in me"
+            "Alack, what heinous sin is it in me",
+            {
+                "preceding_direction_line": "2"
+            }
         ],
         [
             "JESSICA",
@@ -89,7 +95,7 @@
             "JESSICA",
             "Become a Christian and thy loving wife.",
             {
-                "following_direction_line": "2"
+                "following_direction_line": "3"
             }
         ]
     ],
@@ -102,7 +108,12 @@
         [
             "_DIRECTION",
             "D2",
-            "Exit Launcelot. Exit"
+            "Exit Launcelot"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit"
         ]
     ],
     "ranges_of_roles_lines": {

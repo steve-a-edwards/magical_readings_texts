@@ -67,21 +67,21 @@
         ],
         [
             "LADY MACBETH",
-            "My father as he slept, I had done't."
-        ],
-        [
-            "LADY MACBETH",
-            "My husband!",
+            "My father as he slept, I had done't.",
             {
                 "following_direction_line": "2"
             }
         ],
         [
-            "MACBETH",
-            "I have done the deed. Didst thou not hear a noise?",
+            "LADY MACBETH",
+            "My husband!",
             {
                 "preceding_direction_line": "2"
             }
+        ],
+        [
+            "MACBETH",
+            "I have done the deed. Didst thou not hear a noise?"
         ],
         [
             "LADY MACBETH",
@@ -347,11 +347,17 @@
         ],
         [
             "LADY MACBETH",
-            "To wear a heart so white."
+            "To wear a heart so white.",
+            {
+                "following_direction_line": "6"
+            }
         ],
         [
             "LADY MACBETH",
-            "I hear a knocking"
+            "I hear a knocking",
+            {
+                "preceding_direction_line": "6"
+            }
         ],
         [
             "LADY MACBETH",
@@ -367,11 +373,17 @@
         ],
         [
             "LADY MACBETH",
-            "Hath left you unattended."
+            "Hath left you unattended.",
+            {
+                "following_direction_line": "7"
+            }
         ],
         [
             "LADY MACBETH",
-            "Hark! more knocking."
+            "Hark! more knocking.",
+            {
+                "preceding_direction_line": "7"
+            }
         ],
         [
             "LADY MACBETH",
@@ -383,23 +395,23 @@
         ],
         [
             "LADY MACBETH",
-            "So poorly in your thoughts.",
-            {
-                "following_direction_line": "6"
-            }
+            "So poorly in your thoughts."
         ],
         [
             "MACBETH",
             "To know my deed, 'twere best not know myself.",
             {
-                "preceding_direction_line": "6"
+                "following_direction_line": "8"
             }
         ],
         [
             "MACBETH",
             "Wake Duncan with thy knocking! I would thou couldst!",
             {
-                "following_direction_line": "7"
+                "preceding_direction_line": "8"
+            },
+            {
+                "following_direction_line": "9"
             }
         ]
     ],
@@ -432,12 +444,22 @@
         [
             "_DIRECTION",
             "D6",
-            "Knocking within. Knocking within"
+            "Knocking within"
         ],
         [
             "_DIRECTION",
             "D7",
-            "Knocking within. Exeunt"
+            "Knocking within"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Knocking within"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Exeunt"
         ]
     ],
     "ranges_of_roles_lines": {

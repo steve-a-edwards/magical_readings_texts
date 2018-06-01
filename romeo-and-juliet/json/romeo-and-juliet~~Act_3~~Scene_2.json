@@ -135,25 +135,25 @@
         ],
         [
             "JULIET",
-            "But Romeo's name speaks heavenly eloquence."
-        ],
-        [
-            "JULIET",
-            "Now, nurse, what news? What hast thou there? the cords"
-        ],
-        [
-            "JULIET",
-            "That Romeo bid thee fetch?",
+            "But Romeo's name speaks heavenly eloquence.",
             {
                 "following_direction_line": "2"
             }
         ],
         [
-            "Nurse",
-            "Ay, ay, the cords.",
+            "JULIET",
+            "Now, nurse, what news? What hast thou there? the cords",
             {
                 "preceding_direction_line": "2"
-            },
+            }
+        ],
+        [
+            "JULIET",
+            "That Romeo bid thee fetch?"
+        ],
+        [
+            "Nurse",
+            "Ay, ay, the cords.",
             {
                 "following_direction_line": "3"
             }

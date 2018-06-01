@@ -52,6 +52,7 @@ I wish your ladyship all heart's content.
 _R_PORTIA
 I thank you for your wish, and am well pleased
 To wish it back on you: fare you well Jessica.
+_D_Exeunt JESSICA and LORENZO
 Now, Balthasar,
 As I have ever found thee honest-true,
 So let me find thee still. Take this same letter,
@@ -63,7 +64,6 @@ Bring them, I pray thee, with imagined speed
 Unto the tranect, to the common ferry
 Which trades to Venice. Waste no time in words,
 But get thee gone: I shall be there before thee.
-_D_Exeunt JESSICA and LORENZO
 _R_BALTHASAR
 Madam, I go with all convenient speed.
 _D_Exit

@@ -177,11 +177,17 @@
         ],
         [
             "MACBETH",
-            "And so I do commend you to their backs. Farewell."
+            "And so I do commend you to their backs. Farewell.",
+            {
+                "following_direction_line": "3"
+            }
         ],
         [
             "MACBETH",
-            "Let every man be master of his time"
+            "Let every man be master of his time",
+            {
+                "preceding_direction_line": "3"
+            }
         ],
         [
             "MACBETH",
@@ -193,33 +199,39 @@
         ],
         [
             "MACBETH",
-            "Till supper-time alone: while then, God be with you!"
-        ],
-        [
-            "MACBETH",
-            "Sirrah, a word with you: attend those men"
-        ],
-        [
-            "MACBETH",
-            "Our pleasure?",
+            "Till supper-time alone: while then, God be with you!",
             {
-                "following_direction_line": "3"
+                "following_direction_line": "4"
             }
+        ],
+        [
+            "MACBETH",
+            "Sirrah, a word with you: attend those men",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "MACBETH",
+            "Our pleasure?"
         ],
         [
             "ATTENDANT",
-            "They are, my lord, without the palace gate.",
+            "They are, my lord, without the palace gate."
+        ],
+        [
+            "MACBETH",
+            "Bring them before us.",
             {
-                "preceding_direction_line": "3"
+                "following_direction_line": "5"
             }
         ],
         [
             "MACBETH",
-            "Bring them before us."
-        ],
-        [
-            "MACBETH",
-            "To be thus is nothing;"
+            "To be thus is nothing;",
+            {
+                "preceding_direction_line": "5"
+            }
         ],
         [
             "MACBETH",
@@ -315,25 +327,31 @@
         ],
         [
             "MACBETH",
-            "And champion me to the utterance! Who's there!"
+            "And champion me to the utterance! Who's there!",
+            {
+                "following_direction_line": "6"
+            }
         ],
         [
             "MACBETH",
-            "Now go to the door, and stay there till we call."
+            "Now go to the door, and stay there till we call.",
+            {
+                "preceding_direction_line": "6"
+            },
+            {
+                "following_direction_line": "7"
+            }
         ],
         [
             "MACBETH",
             "Was it not yesterday we spoke together?",
             {
-                "following_direction_line": "4"
+                "preceding_direction_line": "7"
             }
         ],
         [
             "First Murderer",
-            "It was, so please your highness.",
-            {
-                "preceding_direction_line": "4"
-            }
+            "It was, so please your highness."
         ],
         [
             "MACBETH",
@@ -637,17 +655,23 @@
         ],
         [
             "MACBETH",
-            "I'll call upon you straight: abide within."
+            "I'll call upon you straight: abide within.",
+            {
+                "following_direction_line": "8"
+            }
         ],
         [
             "MACBETH",
-            "It is concluded. Banquo, thy soul's flight,"
+            "It is concluded. Banquo, thy soul's flight,",
+            {
+                "preceding_direction_line": "8"
+            }
         ],
         [
             "MACBETH",
             "If it find heaven, must find it out to-night.",
             {
-                "following_direction_line": "5"
+                "following_direction_line": "9"
             }
         ]
     ],
@@ -665,17 +689,37 @@
         [
             "_DIRECTION",
             "D3",
-            "Exit BANQUO. Exeunt all but MACBETH, and an attendant"
+            "Exit BANQUO"
         ],
         [
             "_DIRECTION",
             "D4",
-            "Exit Attendant. Re-enter Attendant, with two Murderers. Exit Attendant"
+            "Exeunt all but MACBETH, and an attendant"
         ],
         [
             "_DIRECTION",
             "D5",
-            "Exeunt Murderers. Exit"
+            "Exit Attendant"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Re-enter Attendant, with two Murderers"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exit Attendant"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exeunt Murderers"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Exit"
         ]
     ],
     "ranges_of_roles_lines": {

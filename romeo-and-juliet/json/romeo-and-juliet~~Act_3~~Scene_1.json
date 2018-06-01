@@ -303,21 +303,21 @@
         ],
         [
             "MERCUTIO",
-            "Alla stoccata carries it away."
-        ],
-        [
-            "MERCUTIO",
-            "Tybalt, you rat-catcher, will you walk?",
+            "Alla stoccata carries it away.",
             {
                 "following_direction_line": "4"
             }
         ],
         [
-            "TYBALT",
-            "What wouldst thou have with me?",
+            "MERCUTIO",
+            "Tybalt, you rat-catcher, will you walk?",
             {
                 "preceding_direction_line": "4"
             }
+        ],
+        [
+            "TYBALT",
+            "What wouldst thou have with me?"
         ],
         [
             "MERCUTIO",
@@ -557,11 +557,17 @@
         ],
         [
             "ROMEO",
-            "And fire-eyed fury be my conduct now!"
+            "And fire-eyed fury be my conduct now!",
+            {
+                "following_direction_line": "11"
+            }
         ],
         [
             "ROMEO",
-            "Now, Tybalt, take the villain back again,"
+            "Now, Tybalt, take the villain back again,",
+            {
+                "preceding_direction_line": "11"
+            }
         ],
         [
             "ROMEO",
@@ -577,17 +583,11 @@
         ],
         [
             "ROMEO",
-            "Either thou, or I, or both, must go with him.",
-            {
-                "following_direction_line": "11"
-            }
+            "Either thou, or I, or both, must go with him."
         ],
         [
             "TYBALT",
-            "Thou, wretched boy, that didst consort him here,",
-            {
-                "preceding_direction_line": "11"
-            }
+            "Thou, wretched boy, that didst consort him here,"
         ],
         [
             "TYBALT",

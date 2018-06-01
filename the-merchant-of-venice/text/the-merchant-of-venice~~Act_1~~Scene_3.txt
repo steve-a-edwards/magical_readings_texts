@@ -75,9 +75,9 @@ Of full three thousand ducats. What of that?
 Tubal, a wealthy Hebrew of my tribe,
 Will furnish me. But soft! how many months
 Do you desire?
+_D_To ANTONIO
 Rest you fair, good signior;
 Your worship was the last man in our mouths.
-_D_To ANTONIO
 _R_ANTONIO
 Shylock, although I neither lend nor borrow
 By taking nor by giving of excess,
@@ -225,8 +225,8 @@ Of an unthrifty knave, and presently
 I will be with you.
 _R_ANTONIO
 Hie thee, gentle Jew.
-The Hebrew will turn Christian: he grows kind.
 _D_Exit Shylock
+The Hebrew will turn Christian: he grows kind.
 _R_BASSANIO
 I like not fair terms and a villain's mind.
 _R_ANTONIO

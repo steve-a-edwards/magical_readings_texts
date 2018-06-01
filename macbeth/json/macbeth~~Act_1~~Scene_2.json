@@ -195,20 +195,26 @@
         ],
         [
             "DUNCAN",
-            "They smack of honour both. Go get him surgeons."
+            "They smack of honour both. Go get him surgeons.",
+            {
+                "following_direction_line": "2"
+            }
         ],
         [
             "DUNCAN",
             "Who comes here?",
             {
-                "following_direction_line": "2"
+                "preceding_direction_line": "2"
+            },
+            {
+                "following_direction_line": "3"
             }
         ],
         [
             "MALCOLM",
             "The worthy thane of Ross.",
             {
-                "preceding_direction_line": "2"
+                "preceding_direction_line": "3"
             }
         ],
         [
@@ -315,7 +321,7 @@
             "DUNCAN",
             "What he hath lost noble Macbeth hath won.",
             {
-                "following_direction_line": "3"
+                "following_direction_line": "4"
             }
         ]
     ],
@@ -328,11 +334,16 @@
         [
             "_DIRECTION",
             "D2",
-            "Exit Sergeant, attended. Enter ROSS"
+            "Exit Sergeant, attended"
         ],
         [
             "_DIRECTION",
             "D3",
+            "Enter ROSS"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
             "Exeunt"
         ]
     ],

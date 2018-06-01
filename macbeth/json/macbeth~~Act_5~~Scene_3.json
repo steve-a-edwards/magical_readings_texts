@@ -47,25 +47,25 @@
         ],
         [
             "MACBETH",
-            "Shall never sag with doubt nor shake with fear."
-        ],
-        [
-            "MACBETH",
-            "The devil damn thee black, thou cream-faced loon!"
-        ],
-        [
-            "MACBETH",
-            "Where got'st thou that goose look?",
+            "Shall never sag with doubt nor shake with fear.",
             {
                 "following_direction_line": "2"
             }
         ],
         [
-            "Servant",
-            "There is ten thousand--",
+            "MACBETH",
+            "The devil damn thee black, thou cream-faced loon!",
             {
                 "preceding_direction_line": "2"
             }
+        ],
+        [
+            "MACBETH",
+            "Where got'st thou that goose look?"
+        ],
+        [
+            "Servant",
+            "There is ten thousand--"
         ],
         [
             "MACBETH",
@@ -97,11 +97,17 @@
         ],
         [
             "MACBETH",
-            "Take thy face hence."
+            "Take thy face hence.",
+            {
+                "following_direction_line": "3"
+            }
         ],
         [
             "MACBETH",
-            "Seyton!--I am sick at heart,"
+            "Seyton!--I am sick at heart,",
+            {
+                "preceding_direction_line": "3"
+            }
         ],
         [
             "MACBETH",
@@ -139,14 +145,14 @@
             "MACBETH",
             "Which the poor heart would fain deny, and dare not. Seyton!",
             {
-                "following_direction_line": "3"
+                "following_direction_line": "4"
             }
         ],
         [
             "SEYTON",
             "What is your gracious pleasure?",
             {
-                "preceding_direction_line": "3"
+                "preceding_direction_line": "4"
             }
         ],
         [
@@ -301,7 +307,7 @@
             "Doctor",
             "Profit again should hardly draw me here.",
             {
-                "following_direction_line": "4"
+                "following_direction_line": "5"
             }
         ]
     ],
@@ -319,11 +325,16 @@
         [
             "_DIRECTION",
             "D3",
-            "Exit Servant. Enter SEYTON"
+            "Exit Servant"
         ],
         [
             "_DIRECTION",
             "D4",
+            "Enter SEYTON"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
             "Exeunt"
         ]
     ],

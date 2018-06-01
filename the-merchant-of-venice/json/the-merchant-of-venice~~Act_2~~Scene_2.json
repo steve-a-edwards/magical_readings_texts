@@ -193,25 +193,25 @@
         ],
         [
             "LAUNCELOT",
-            "Talk you of young Master Launcelot?"
-        ],
-        [
-            "LAUNCELOT",
-            "Mark me now; now will I raise the waters. Talk you"
-        ],
-        [
-            "LAUNCELOT",
-            "of young Master Launcelot?",
+            "Talk you of young Master Launcelot?",
             {
                 "following_direction_line": "3"
             }
         ],
         [
-            "GOBBO",
-            "No master, sir, but a poor man's son: his father,",
+            "LAUNCELOT",
+            "Mark me now; now will I raise the waters. Talk you",
             {
                 "preceding_direction_line": "3"
             }
+        ],
+        [
+            "LAUNCELOT",
+            "of young Master Launcelot?"
+        ],
+        [
+            "GOBBO",
+            "No master, sir, but a poor man's son: his father,"
         ],
         [
             "GOBBO",

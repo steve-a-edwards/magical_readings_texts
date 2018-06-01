@@ -47,11 +47,17 @@
         ],
         [
             "Nurse",
-            "He'll fright you up, i' faith. Will it not be?"
+            "He'll fright you up, i' faith. Will it not be?",
+            {
+                "following_direction_line": "2"
+            }
         ],
         [
             "Nurse",
-            "What, dress'd! and in your clothes! and down again!"
+            "What, dress'd! and in your clothes! and down again!",
+            {
+                "preceding_direction_line": "2"
+            }
         ],
         [
             "Nurse",
@@ -69,14 +75,14 @@
             "Nurse",
             "Some aqua vitae, ho! My lord! my lady!",
             {
-                "following_direction_line": "2"
+                "following_direction_line": "3"
             }
         ],
         [
             "LADY CAPULET",
             "What noise is here?",
             {
-                "preceding_direction_line": "2"
+                "preceding_direction_line": "3"
             }
         ],
         [
@@ -103,14 +109,14 @@
             "LADY CAPULET",
             "Help, help! Call help.",
             {
-                "following_direction_line": "3"
+                "following_direction_line": "4"
             }
         ],
         [
             "CAPULET",
             "For shame, bring Juliet forth; her lord is come.",
             {
-                "preceding_direction_line": "3"
+                "preceding_direction_line": "4"
             }
         ],
         [
@@ -157,14 +163,14 @@
             "CAPULET",
             "Ties up my tongue, and will not let me speak.",
             {
-                "following_direction_line": "4"
+                "following_direction_line": "5"
             }
         ],
         [
             "FRIAR LAURENCE",
             "Come, is the bride ready to go to church?",
             {
-                "preceding_direction_line": "4"
+                "preceding_direction_line": "5"
             }
         ],
         [
@@ -415,14 +421,14 @@
             "FRIAR LAURENCE",
             "Move them no more by crossing their high will.",
             {
-                "following_direction_line": "5"
+                "following_direction_line": "6"
             }
         ],
         [
             "First Musician",
             "Faith, we may put up our pipes, and be gone.",
             {
-                "preceding_direction_line": "5"
+                "preceding_direction_line": "6"
             }
         ],
         [
@@ -433,24 +439,24 @@
             "Nurse",
             "For, well you know, this is a pitiful case.",
             {
-                "following_direction_line": "6"
+                "following_direction_line": "7"
             }
         ],
         [
             "First Musician",
             "Ay, by my troth, the case may be amended.",
             {
-                "preceding_direction_line": "6"
+                "preceding_direction_line": "7"
             },
             {
-                "following_direction_line": "7"
+                "following_direction_line": "8"
             }
         ],
         [
             "PETER",
             "Musicians, O, musicians, 'Heart's ease, Heart's",
             {
-                "preceding_direction_line": "7"
+                "preceding_direction_line": "8"
             }
         ],
         [
@@ -597,14 +603,14 @@
             "PETER",
             "With speedy help doth lend redress.'",
             {
-                "following_direction_line": "8"
+                "following_direction_line": "9"
             }
         ],
         [
             "First Musician",
             "What a pestilent knave is this same!",
             {
-                "preceding_direction_line": "8"
+                "preceding_direction_line": "9"
             }
         ],
         [
@@ -615,7 +621,7 @@
             "Second Musician",
             "mourners, and stay dinner.",
             {
-                "following_direction_line": "9"
+                "following_direction_line": "10"
             }
         ]
     ],
@@ -628,41 +634,46 @@
         [
             "_DIRECTION",
             "D2",
-            "Undraws the curtains. Enter LADY CAPULET"
+            "Undraws the curtains"
         ],
         [
             "_DIRECTION",
             "D3",
-            "Enter CAPULET"
+            "Enter LADY CAPULET"
         ],
         [
             "_DIRECTION",
             "D4",
-            "Enter FRIAR LAURENCE and PARIS, with Musicians"
+            "Enter CAPULET"
         ],
         [
             "_DIRECTION",
             "D5",
-            "Exeunt CAPULET, LADY CAPULET, PARIS, and FRIAR LAURENCE"
+            "Enter FRIAR LAURENCE and PARIS, with Musicians"
         ],
         [
             "_DIRECTION",
             "D6",
-            "Exit"
+            "Exeunt CAPULET, LADY CAPULET, PARIS, and FRIAR LAURENCE"
         ],
         [
             "_DIRECTION",
             "D7",
-            "Enter PETER"
-        ],
-        [
-            "_DIRECTION",
-            "D8",
             "Exit"
         ],
         [
             "_DIRECTION",
+            "D8",
+            "Enter PETER"
+        ],
+        [
+            "_DIRECTION",
             "D9",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
             "Exeunt"
         ]
     ],

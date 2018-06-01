@@ -108,9 +108,9 @@ _R_REYNALDO
 Well, my lord.
 _R_LORD POLONIUS
 Farewell!
-How now, Ophelia! what's the matter?
 _D_Exit REYNALDO
 _D_Enter OPHELIA
+How now, Ophelia! what's the matter?
 _R_OPHELIA
 O, my lord, my lord, I have been so affrighted!
 _R_LORD POLONIUS

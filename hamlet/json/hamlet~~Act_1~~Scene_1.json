@@ -583,11 +583,17 @@
         ],
         [
             "HORATIO",
-            "But soft, behold! lo, where it comes again!"
+            "But soft, behold! lo, where it comes again!",
+            {
+                "following_direction_line": "6"
+            }
         ],
         [
             "HORATIO",
-            "I'll cross it, though it blast me. Stay, illusion!"
+            "I'll cross it, though it blast me. Stay, illusion!",
+            {
+                "preceding_direction_line": "6"
+            }
         ],
         [
             "HORATIO",
@@ -607,11 +613,17 @@
         ],
         [
             "HORATIO",
-            "Speak to me:"
+            "Speak to me:",
+            {
+                "following_direction_line": "7"
+            }
         ],
         [
             "HORATIO",
-            "If thou art privy to thy country's fate,"
+            "If thou art privy to thy country's fate,",
+            {
+                "preceding_direction_line": "7"
+            }
         ],
         [
             "HORATIO",
@@ -631,17 +643,11 @@
         ],
         [
             "HORATIO",
-            "Speak of it: stay, and speak! Stop it, Marcellus.",
-            {
-                "following_direction_line": "6"
-            }
+            "Speak of it: stay, and speak! Stop it, Marcellus."
         ],
         [
             "MARCELLUS",
-            "Shall I strike at it with my partisan?",
-            {
-                "preceding_direction_line": "6"
-            }
+            "Shall I strike at it with my partisan?"
         ],
         [
             "HORATIO",
@@ -657,11 +663,17 @@
         ],
         [
             "MARCELLUS",
-            "'Tis gone!"
+            "'Tis gone!",
+            {
+                "following_direction_line": "8"
+            }
         ],
         [
             "MARCELLUS",
-            "We do it wrong, being so majestical,"
+            "We do it wrong, being so majestical,",
+            {
+                "preceding_direction_line": "8"
+            }
         ],
         [
             "MARCELLUS",
@@ -673,17 +685,11 @@
         ],
         [
             "MARCELLUS",
-            "And our vain blows malicious mockery.",
-            {
-                "following_direction_line": "7"
-            }
+            "And our vain blows malicious mockery."
         ],
         [
             "BERNARDO",
-            "It was about to speak, when the cock crew.",
-            {
-                "preceding_direction_line": "7"
-            }
+            "It was about to speak, when the cock crew."
         ],
         [
             "HORATIO",
@@ -797,7 +803,7 @@
             "MARCELLUS",
             "Where we shall find him most conveniently.",
             {
-                "following_direction_line": "8"
+                "following_direction_line": "9"
             }
         ]
     ],
@@ -830,16 +836,21 @@
         [
             "_DIRECTION",
             "D6",
-            "Re-enter Ghost. Cock crows"
+            "Re-enter Ghost"
         ],
         [
             "_DIRECTION",
             "D7",
-            "Exit Ghost"
+            "Cock crows"
         ],
         [
             "_DIRECTION",
             "D8",
+            "Exit Ghost"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
             "Exeunt"
         ]
     ],

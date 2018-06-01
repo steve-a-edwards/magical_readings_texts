@@ -63,11 +63,17 @@
         ],
         [
             "FRIAR LAURENCE",
-            "Too swift arrives as tardy as too slow."
+            "Too swift arrives as tardy as too slow.",
+            {
+                "following_direction_line": "2"
+            }
         ],
         [
             "FRIAR LAURENCE",
-            "Here comes the lady: O, so light a foot"
+            "Here comes the lady: O, so light a foot",
+            {
+                "preceding_direction_line": "2"
+            }
         ],
         [
             "FRIAR LAURENCE",
@@ -83,17 +89,11 @@
         ],
         [
             "FRIAR LAURENCE",
-            "And yet not fall; so light is vanity.",
-            {
-                "following_direction_line": "2"
-            }
+            "And yet not fall; so light is vanity."
         ],
         [
             "JULIET",
-            "Good even to my ghostly confessor.",
-            {
-                "preceding_direction_line": "2"
-            }
+            "Good even to my ghostly confessor."
         ],
         [
             "FRIAR LAURENCE",

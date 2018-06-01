@@ -253,11 +253,17 @@
         ],
         [
             "First Clown",
-            "stoup of liquor."
+            "stoup of liquor.",
+            {
+                "following_direction_line": "3"
+            }
         ],
         [
             "First Clown",
-            "In youth, when I did love, did love,"
+            "In youth, when I did love, did love,",
+            {
+                "preceding_direction_line": "3"
+            }
         ],
         [
             "First Clown",
@@ -269,17 +275,11 @@
         ],
         [
             "First Clown",
-            "O, methought, there was nothing meet.",
-            {
-                "following_direction_line": "3"
-            }
+            "O, methought, there was nothing meet."
         ],
         [
             "HAMLET",
-            "Has this fellow no feeling of his business, that he",
-            {
-                "preceding_direction_line": "3"
-            }
+            "Has this fellow no feeling of his business, that he"
         ],
         [
             "HAMLET",
@@ -503,25 +503,25 @@
         ],
         [
             "First Clown",
-            "Mine, sir."
-        ],
-        [
-            "First Clown",
-            "O, a pit of clay for to be made"
-        ],
-        [
-            "First Clown",
-            "For such a guest is meet.",
+            "Mine, sir.",
             {
                 "following_direction_line": "6"
             }
         ],
         [
-            "HAMLET",
-            "I think it be thine, indeed; for thou liest in't.",
+            "First Clown",
+            "O, a pit of clay for to be made",
             {
                 "preceding_direction_line": "6"
             }
+        ],
+        [
+            "First Clown",
+            "For such a guest is meet."
+        ],
+        [
+            "HAMLET",
+            "I think it be thine, indeed; for thou liest in't."
         ],
         [
             "First Clown",
@@ -753,11 +753,17 @@
         ],
         [
             "HAMLET",
-            "Let me see."
+            "Let me see.",
+            {
+                "following_direction_line": "7"
+            }
         ],
         [
             "HAMLET",
-            "Alas, poor Yorick! I knew him, Horatio: a fellow"
+            "Alas, poor Yorick! I knew him, Horatio: a fellow",
+            {
+                "preceding_direction_line": "7"
+            }
         ],
         [
             "HAMLET",
@@ -805,17 +811,11 @@
         ],
         [
             "HAMLET",
-            "me one thing.",
-            {
-                "following_direction_line": "7"
-            }
+            "me one thing."
         ],
         [
             "HORATIO",
-            "What's that, my lord?",
-            {
-                "preceding_direction_line": "7"
-            }
+            "What's that, my lord?"
         ],
         [
             "HAMLET",
@@ -901,11 +901,17 @@
         ],
         [
             "HAMLET",
-            "But soft! but soft! aside: here comes the king."
+            "But soft! but soft! aside: here comes the king.",
+            {
+                "following_direction_line": "9"
+            }
         ],
         [
             "HAMLET",
-            "The queen, the courtiers: who is this they follow?"
+            "The queen, the courtiers: who is this they follow?",
+            {
+                "preceding_direction_line": "9"
+            }
         ],
         [
             "HAMLET",
@@ -923,14 +929,14 @@
             "HAMLET",
             "Couch we awhile, and mark.",
             {
-                "following_direction_line": "9"
+                "following_direction_line": "10"
             }
         ],
         [
             "LAERTES",
             "What ceremony else?",
             {
-                "preceding_direction_line": "9"
+                "preceding_direction_line": "10"
             }
         ],
         [
@@ -1027,11 +1033,17 @@
         ],
         [
             "QUEEN GERTRUDE",
-            "Sweets to the sweet: farewell!"
+            "Sweets to the sweet: farewell!",
+            {
+                "following_direction_line": "11"
+            }
         ],
         [
             "QUEEN GERTRUDE",
-            "I hoped thou shouldst have been my Hamlet's wife;"
+            "I hoped thou shouldst have been my Hamlet's wife;",
+            {
+                "preceding_direction_line": "11"
+            }
         ],
         [
             "QUEEN GERTRUDE",
@@ -1039,17 +1051,11 @@
         ],
         [
             "QUEEN GERTRUDE",
-            "And not have strew'd thy grave.",
-            {
-                "following_direction_line": "10"
-            }
+            "And not have strew'd thy grave."
         ],
         [
             "LAERTES",
-            "O, treble woe",
-            {
-                "preceding_direction_line": "10"
-            }
+            "O, treble woe"
         ],
         [
             "LAERTES",
@@ -1065,11 +1071,17 @@
         ],
         [
             "LAERTES",
-            "Till I have caught her once more in mine arms:"
+            "Till I have caught her once more in mine arms:",
+            {
+                "following_direction_line": "12"
+            }
         ],
         [
             "LAERTES",
-            "Now pile your dust upon the quick and dead,"
+            "Now pile your dust upon the quick and dead,",
+            {
+                "preceding_direction_line": "12"
+            }
         ],
         [
             "LAERTES",
@@ -1081,17 +1093,11 @@
         ],
         [
             "LAERTES",
-            "Of blue Olympus.",
-            {
-                "following_direction_line": "11"
-            }
+            "Of blue Olympus."
         ],
         [
             "HAMLET",
-            "[Advancing] What is he whose grief",
-            {
-                "preceding_direction_line": "11"
-            }
+            "[Advancing] What is he whose grief"
         ],
         [
             "HAMLET",
@@ -1109,24 +1115,24 @@
             "HAMLET",
             "Hamlet the Dane.",
             {
-                "following_direction_line": "12"
+                "following_direction_line": "13"
             }
         ],
         [
             "LAERTES",
             "The devil take thy soul!",
             {
-                "preceding_direction_line": "12"
+                "preceding_direction_line": "13"
             },
             {
-                "following_direction_line": "13"
+                "following_direction_line": "14"
             }
         ],
         [
             "HAMLET",
             "Thou pray'st not well.",
             {
-                "preceding_direction_line": "13"
+                "preceding_direction_line": "14"
             }
         ],
         [
@@ -1161,14 +1167,14 @@
             "HORATIO",
             "Good my lord, be quiet.",
             {
-                "following_direction_line": "14"
+                "following_direction_line": "15"
             }
         ],
         [
             "HAMLET",
             "Why I will fight with him upon this theme",
             {
-                "preceding_direction_line": "14"
+                "preceding_direction_line": "15"
             }
         ],
         [
@@ -1283,19 +1289,25 @@
             "HAMLET",
             "The cat will mew and dog will have his day.",
             {
-                "following_direction_line": "15"
+                "following_direction_line": "16"
             }
         ],
         [
             "KING CLAUDIUS",
             "I pray you, good Horatio, wait upon him.",
             {
-                "preceding_direction_line": "15"
+                "preceding_direction_line": "16"
+            },
+            {
+                "following_direction_line": "17"
             }
         ],
         [
             "KING CLAUDIUS",
-            "Strengthen your patience in our last night's speech;"
+            "Strengthen your patience in our last night's speech;",
+            {
+                "preceding_direction_line": "17"
+            }
         ],
         [
             "KING CLAUDIUS",
@@ -1317,7 +1329,7 @@
             "KING CLAUDIUS",
             "Till then, in patience our proceeding be.",
             {
-                "following_direction_line": "16"
+                "following_direction_line": "18"
             }
         ]
     ],
@@ -1365,17 +1377,17 @@
         [
             "_DIRECTION",
             "D9",
-            "Enter Priest, and c. in procession; the Corpse of OPHELIA, LAERTES and Mourners following; KING CLAUDIUS, QUEEN GERTRUDE, their trains, and c. Retiring with HORATIO"
+            "Enter Priest, and c. in procession; the Corpse of OPHELIA, LAERTES and Mourners following; KING CLAUDIUS, QUEEN GERTRUDE, their trains, and c"
         ],
         [
             "_DIRECTION",
             "D10",
-            "Scattering flowers"
+            "Retiring with HORATIO"
         ],
         [
             "_DIRECTION",
             "D11",
-            "Leaps into the grave"
+            "Scattering flowers"
         ],
         [
             "_DIRECTION",
@@ -1385,22 +1397,32 @@
         [
             "_DIRECTION",
             "D13",
-            "Grappling with him"
+            "Leaps into the grave"
         ],
         [
             "_DIRECTION",
             "D14",
-            "The Attendants part them, and they come out of the grave"
+            "Grappling with him"
         ],
         [
             "_DIRECTION",
             "D15",
-            "Exit"
+            "The Attendants part them, and they come out of the grave"
         ],
         [
             "_DIRECTION",
             "D16",
-            "Exit HORATIO. To LAERTES. Exeunt"
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D17",
+            "Exit HORATIO. To LAERTES"
+        ],
+        [
+            "_DIRECTION",
+            "D18",
+            "Exeunt"
         ]
     ],
     "ranges_of_roles_lines": {

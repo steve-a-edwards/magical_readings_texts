@@ -23,16 +23,16 @@ But I will watch you from such watching now.
 _D_Exeunt LADY CAPULET and Nurse
 _R_CAPULET
 A jealous hood, a jealous hood!
+_D_Enter three or four Servingmen, with spits, logs, and baskets
 Now, fellow,
 What's there?
-_D_Enter three or four Servingmen, with spits, logs, and baskets
 _R_First Servant
 Things for the cook, sir; but I know not what.
 _R_CAPULET
 Make haste, make haste.
+_D_Exit First Servant
 Sirrah, fetch drier logs:
 Call Peter, he will show thee where they are.
-_D_Exit First Servant
 _R_Second Servant
 I have a head, sir, that will find out logs,
 And never trouble Peter for the matter.
@@ -42,11 +42,11 @@ Mass, and well said; a merry whoreson, ha!
 Thou shalt be logger-head. Good faith, 'tis day:
 The county will be here with music straight,
 For so he said he would: I hear him near.
+_D_Music within
 Nurse! Wife! What, ho! What, nurse, I say!
+_D_Re-enter Nurse
 Go waken Juliet, go and trim her up;
 I'll go and chat with Paris: hie, make haste,
 Make haste; the bridegroom he is come already:
 Make haste, I say.
-_D_Music within
-_D_Re-enter Nurse
 _D_Exeunt

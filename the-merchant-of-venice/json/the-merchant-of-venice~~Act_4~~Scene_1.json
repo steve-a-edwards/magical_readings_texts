@@ -705,21 +705,21 @@
         ],
         [
             "DUKE",
-            "And here, I take it, is the doctor come."
-        ],
-        [
-            "DUKE",
-            "Give me your hand. Come you from old Bellario?",
+            "And here, I take it, is the doctor come.",
             {
                 "following_direction_line": "5"
             }
         ],
         [
-            "PORTIA",
-            "I did, my lord.",
+            "DUKE",
+            "Give me your hand. Come you from old Bellario?",
             {
                 "preceding_direction_line": "5"
             }
+        ],
+        [
+            "PORTIA",
+            "I did, my lord."
         ],
         [
             "DUKE",
@@ -1259,21 +1259,21 @@
         ],
         [
             "SHYLOCK",
-            "Had been her husband rather than a Christian!"
-        ],
-        [
-            "SHYLOCK",
-            "We trifle time: I pray thee, pursue sentence.",
+            "Had been her husband rather than a Christian!",
             {
                 "following_direction_line": "6"
             }
         ],
         [
-            "PORTIA",
-            "A pound of that same merchant's flesh is thine:",
+            "SHYLOCK",
+            "We trifle time: I pray thee, pursue sentence.",
             {
                 "preceding_direction_line": "6"
             }
+        ],
+        [
+            "PORTIA",
+            "A pound of that same merchant's flesh is thine:"
         ],
         [
             "PORTIA",
@@ -1809,15 +1809,27 @@
         ],
         [
             "PORTIA",
-            "You press me far, and therefore I will yield."
+            "You press me far, and therefore I will yield.",
+            {
+                "following_direction_line": "9"
+            }
         ],
         [
             "PORTIA",
-            "Give me your gloves, I'll wear them for your sake;"
+            "Give me your gloves, I'll wear them for your sake;",
+            {
+                "preceding_direction_line": "9"
+            },
+            {
+                "following_direction_line": "10"
+            }
         ],
         [
             "PORTIA",
-            "And, for your love, I'll take this ring from you:"
+            "And, for your love, I'll take this ring from you:",
+            {
+                "preceding_direction_line": "10"
+            }
         ],
         [
             "PORTIA",
@@ -1825,17 +1837,11 @@
         ],
         [
             "PORTIA",
-            "And you in love shall not deny me this.",
-            {
-                "following_direction_line": "9"
-            }
+            "And you in love shall not deny me this."
         ],
         [
             "BASSANIO",
-            "This ring, good sir, alas, it is a trifle!",
-            {
-                "preceding_direction_line": "9"
-            }
+            "This ring, good sir, alas, it is a trifle!"
         ],
         [
             "BASSANIO",
@@ -1909,14 +1915,14 @@
             "PORTIA",
             "For giving it to me. Well, peace be with you!",
             {
-                "following_direction_line": "10"
+                "following_direction_line": "11"
             }
         ],
         [
             "ANTONIO",
             "My Lord Bassanio, let him have the ring:",
             {
-                "preceding_direction_line": "10"
+                "preceding_direction_line": "11"
             }
         ],
         [
@@ -1937,11 +1943,17 @@
         ],
         [
             "BASSANIO",
-            "Unto Antonio's house: away! make haste."
+            "Unto Antonio's house: away! make haste.",
+            {
+                "following_direction_line": "12"
+            }
         ],
         [
             "BASSANIO",
-            "Come, you and I will thither presently;"
+            "Come, you and I will thither presently;",
+            {
+                "preceding_direction_line": "12"
+            }
         ],
         [
             "BASSANIO",
@@ -1951,7 +1963,7 @@
             "BASSANIO",
             "Fly toward Belmont: come, Antonio.",
             {
-                "following_direction_line": "11"
+                "following_direction_line": "13"
             }
         ]
     ],
@@ -1999,17 +2011,27 @@
         [
             "_DIRECTION",
             "D9",
-            "To ANTONIO. To BASSANIO"
+            "To ANTONIO"
         ],
         [
             "_DIRECTION",
             "D10",
-            "Exeunt Portia and Nerissa"
+            "To BASSANIO"
         ],
         [
             "_DIRECTION",
             "D11",
-            "Exit Gratiano. Exeunt"
+            "Exeunt Portia and Nerissa"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Exit Gratiano"
+        ],
+        [
+            "_DIRECTION",
+            "D13",
+            "Exeunt"
         ]
     ],
     "ranges_of_roles_lines": {

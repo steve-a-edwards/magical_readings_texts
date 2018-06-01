@@ -519,11 +519,17 @@
         ],
         [
             "MERCUTIO",
-            "that is something stale and hoar ere it be spent."
+            "that is something stale and hoar ere it be spent.",
+            {
+                "following_direction_line": "4"
+            }
         ],
         [
             "MERCUTIO",
-            "An old hare hoar,"
+            "An old hare hoar,",
+            {
+                "preceding_direction_line": "4"
+            }
         ],
         [
             "MERCUTIO",
@@ -551,34 +557,34 @@
         ],
         [
             "MERCUTIO",
-            "to dinner, thither.",
-            {
-                "following_direction_line": "4"
-            }
+            "to dinner, thither."
         ],
         [
             "ROMEO",
-            "I will follow you.",
-            {
-                "preceding_direction_line": "4"
-            }
+            "I will follow you."
         ],
         [
             "MERCUTIO",
-            "Farewell, ancient lady; farewell,"
+            "Farewell, ancient lady; farewell,",
+            {
+                "following_direction_line": "5"
+            }
         ],
         [
             "MERCUTIO",
             "'lady, lady, lady.'",
             {
-                "following_direction_line": "5"
+                "preceding_direction_line": "5"
+            },
+            {
+                "following_direction_line": "6"
             }
         ],
         [
             "Nurse",
             "Marry, farewell! I pray you, sir, what saucy",
             {
-                "preceding_direction_line": "5"
+                "preceding_direction_line": "6"
             }
         ],
         [
@@ -847,27 +853,27 @@
         ],
         [
             "Nurse",
-            "Ay, a thousand times."
+            "Ay, a thousand times.",
+            {
+                "following_direction_line": "7"
+            }
         ],
         [
             "Nurse",
             "Peter!",
             {
-                "following_direction_line": "6"
+                "preceding_direction_line": "7"
             }
         ],
         [
             "PETER",
-            "Anon!",
-            {
-                "preceding_direction_line": "6"
-            }
+            "Anon!"
         ],
         [
             "Nurse",
             "Peter, take my fan, and go before and apace.",
             {
-                "following_direction_line": "7"
+                "following_direction_line": "8"
             }
         ]
     ],
@@ -895,16 +901,21 @@
         [
             "_DIRECTION",
             "D5",
-            "Singing. Exeunt MERCUTIO and BENVOLIO"
+            "Singing"
         ],
         [
             "_DIRECTION",
             "D6",
-            "Exit Romeo"
+            "Exeunt MERCUTIO and BENVOLIO"
         ],
         [
             "_DIRECTION",
             "D7",
+            "Exit Romeo"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
             "Exeunt"
         ]
     ],

@@ -15,24 +15,30 @@
         ],
         [
             "HORATIO",
-            "Let them come in."
+            "Let them come in.",
+            {
+                "following_direction_line": "2"
+            }
         ],
         [
             "HORATIO",
-            "I do not know from what part of the world"
+            "I do not know from what part of the world",
+            {
+                "preceding_direction_line": "2"
+            }
         ],
         [
             "HORATIO",
             "I should be greeted, if not from Lord Hamlet.",
             {
-                "following_direction_line": "2"
+                "following_direction_line": "3"
             }
         ],
         [
             "First Sailor",
             "God bless you, sir.",
             {
-                "preceding_direction_line": "2"
+                "preceding_direction_line": "3"
             }
         ],
         [
@@ -143,7 +149,7 @@
             "HORATIO",
             "To him from whom you brought them.",
             {
-                "following_direction_line": "3"
+                "following_direction_line": "4"
             }
         ]
     ],
@@ -156,11 +162,16 @@
         [
             "_DIRECTION",
             "D2",
-            "Exit Servant. Enter Sailors"
+            "Exit Servant"
         ],
         [
             "_DIRECTION",
             "D3",
+            "Enter Sailors"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
             "Exeunt"
         ]
     ],

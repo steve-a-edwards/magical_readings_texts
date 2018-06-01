@@ -19,8 +19,8 @@ See, they encounter thee with their hearts' thanks.
 Both sides are even: here I'll sit i' the midst:
 Be large in mirth; anon we'll drink a measure
 The table round.
-There's blood on thy face.
 _D_Approaching the door
+There's blood on thy face.
 _R_First Murderer
 'Tis Banquo's then.
 _R_MACBETH
@@ -171,9 +171,9 @@ And dare me to the desert with thy sword;
 If trembling I inhabit then, protest me
 The baby of a girl. Hence, horrible shadow!
 Unreal mockery, hence!
+_D_GHOST OF BANQUO vanishes
 Why, so: being gone,
 I am a man again. Pray you, sit still.
-_D_GHOST OF BANQUO vanishes
 _R_LADY MACBETH
 You have displaced the mirth, broke the good meeting,
 With most admired disorder.

@@ -263,11 +263,17 @@
         ],
         [
             "ARRAGON",
-            "What is here?"
+            "What is here?",
+            {
+                "following_direction_line": "4"
+            }
         ],
         [
             "ARRAGON",
-            "The fire seven times tried this:"
+            "The fire seven times tried this:",
+            {
+                "preceding_direction_line": "4"
+            }
         ],
         [
             "ARRAGON",
@@ -329,14 +335,14 @@
             "ARRAGON",
             "Patiently to bear my wroth.",
             {
-                "following_direction_line": "4"
+                "following_direction_line": "5"
             }
         ],
         [
             "PORTIA",
             "Thus hath the candle singed the moth.",
             {
-                "preceding_direction_line": "4"
+                "preceding_direction_line": "5"
             }
         ],
         [
@@ -359,14 +365,14 @@
             "PORTIA",
             "Come, draw the curtain, Nerissa.",
             {
-                "following_direction_line": "5"
+                "following_direction_line": "6"
             }
         ],
         [
             "Servant",
             "Where is my lady?",
             {
-                "preceding_direction_line": "5"
+                "preceding_direction_line": "6"
             }
         ],
         [
@@ -437,7 +443,7 @@
             "NERISSA",
             "Bassanio, lord Love, if thy will it be!",
             {
-                "following_direction_line": "6"
+                "following_direction_line": "7"
             }
         ]
     ],
@@ -460,16 +466,21 @@
         [
             "_DIRECTION",
             "D4",
-            "Reads. Exeunt Arragon and train"
+            "Reads"
         ],
         [
             "_DIRECTION",
             "D5",
-            "Enter a Servant"
+            "Exeunt Arragon and train"
         ],
         [
             "_DIRECTION",
             "D6",
+            "Enter a Servant"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
             "Exeunt"
         ]
     ],

@@ -15,11 +15,17 @@
         ],
         [
             "Porter",
-            "old turning the key."
+            "old turning the key.",
+            {
+                "following_direction_line": "2"
+            }
         ],
         [
             "Porter",
-            "Knock,"
+            "Knock,",
+            {
+                "preceding_direction_line": "2"
+            }
         ],
         [
             "Porter",
@@ -39,11 +45,17 @@
         ],
         [
             "Porter",
-            "you'll sweat for't."
+            "you'll sweat for't.",
+            {
+                "following_direction_line": "3"
+            }
         ],
         [
             "Porter",
-            "Knock,"
+            "Knock,",
+            {
+                "preceding_direction_line": "3"
+            }
         ],
         [
             "Porter",
@@ -67,11 +79,17 @@
         ],
         [
             "Porter",
-            "in, equivocator."
+            "in, equivocator.",
+            {
+                "following_direction_line": "4"
+            }
         ],
         [
             "Porter",
-            "Knock,"
+            "Knock,",
+            {
+                "preceding_direction_line": "4"
+            }
         ],
         [
             "Porter",
@@ -87,11 +105,17 @@
         ],
         [
             "Porter",
-            "roast your goose."
+            "roast your goose.",
+            {
+                "following_direction_line": "5"
+            }
         ],
         [
             "Porter",
-            "Knock,"
+            "Knock,",
+            {
+                "preceding_direction_line": "5"
+            }
         ],
         [
             "Porter",
@@ -111,20 +135,26 @@
         ],
         [
             "Porter",
-            "way to the everlasting bonfire."
+            "way to the everlasting bonfire.",
+            {
+                "following_direction_line": "6"
+            }
         ],
         [
             "Porter",
             "Anon, anon! I pray you, remember the porter.",
             {
-                "following_direction_line": "2"
+                "preceding_direction_line": "6"
+            },
+            {
+                "following_direction_line": "7"
             }
         ],
         [
             "MACDUFF",
             "Was it so late, friend, ere you went to bed,",
             {
-                "preceding_direction_line": "2"
+                "preceding_direction_line": "7"
             }
         ],
         [
@@ -213,21 +243,21 @@
         ],
         [
             "MACDUFF",
-            "Is thy master stirring?"
+            "Is thy master stirring?",
+            {
+                "following_direction_line": "8"
+            }
         ],
         [
             "MACDUFF",
             "Our knocking has awaked him; here he comes.",
             {
-                "following_direction_line": "3"
+                "preceding_direction_line": "8"
             }
         ],
         [
             "LENNOX",
-            "Good morrow, noble sir.",
-            {
-                "preceding_direction_line": "3"
-            }
+            "Good morrow, noble sir."
         ],
         [
             "MACBETH",
@@ -277,14 +307,14 @@
             "MACDUFF",
             "For 'tis my limited service.",
             {
-                "following_direction_line": "4"
+                "following_direction_line": "9"
             }
         ],
         [
             "LENNOX",
             "Goes the king hence to-day?",
             {
-                "preceding_direction_line": "4"
+                "preceding_direction_line": "9"
             }
         ],
         [
@@ -335,14 +365,14 @@
             "LENNOX",
             "A fellow to it.",
             {
-                "following_direction_line": "5"
+                "following_direction_line": "10"
             }
         ],
         [
             "MACDUFF",
             "O horror, horror, horror! Tongue nor heart",
             {
-                "preceding_direction_line": "5"
+                "preceding_direction_line": "10"
             }
         ],
         [
@@ -387,11 +417,17 @@
         ],
         [
             "MACDUFF",
-            "See, and then speak yourselves."
+            "See, and then speak yourselves.",
+            {
+                "following_direction_line": "11"
+            }
         ],
         [
             "MACDUFF",
-            "Awake, awake!"
+            "Awake, awake!",
+            {
+                "preceding_direction_line": "11"
+            }
         ],
         [
             "MACDUFF",
@@ -421,14 +457,14 @@
             "MACDUFF",
             "To countenance this horror! Ring the bell.",
             {
-                "following_direction_line": "6"
+                "following_direction_line": "12"
             }
         ],
         [
             "LADY MACBETH",
             "What's the business,",
             {
-                "preceding_direction_line": "6"
+                "preceding_direction_line": "12"
             }
         ],
         [
@@ -453,25 +489,25 @@
         ],
         [
             "MACDUFF",
-            "Would murder as it fell."
-        ],
-        [
-            "MACDUFF",
-            "O Banquo, Banquo,"
-        ],
-        [
-            "MACDUFF",
-            "Our royal master 's murder'd!",
+            "Would murder as it fell.",
             {
-                "following_direction_line": "7"
+                "following_direction_line": "13"
             }
+        ],
+        [
+            "MACDUFF",
+            "O Banquo, Banquo,",
+            {
+                "preceding_direction_line": "13"
+            }
+        ],
+        [
+            "MACDUFF",
+            "Our royal master 's murder'd!"
         ],
         [
             "LADY MACBETH",
-            "Woe, alas!",
-            {
-                "preceding_direction_line": "7"
-            }
+            "Woe, alas!"
         ],
         [
             "LADY MACBETH",
@@ -489,14 +525,14 @@
             "BANQUO",
             "And say it is not so.",
             {
-                "following_direction_line": "8"
+                "following_direction_line": "14"
             }
         ],
         [
             "MACBETH",
             "Had I but died an hour before this chance,",
             {
-                "preceding_direction_line": "8"
+                "preceding_direction_line": "14"
             }
         ],
         [
@@ -519,14 +555,14 @@
             "MACBETH",
             "Is left this vault to brag of.",
             {
-                "following_direction_line": "9"
+                "following_direction_line": "15"
             }
         ],
         [
             "DONALBAIN",
             "What is amiss?",
             {
-                "preceding_direction_line": "9"
+                "preceding_direction_line": "15"
             }
         ],
         [
@@ -675,11 +711,17 @@
         ],
         [
             "BANQUO",
-            "Look to the lady:"
+            "Look to the lady:",
+            {
+                "following_direction_line": "16"
+            }
         ],
         [
             "BANQUO",
-            "And when we have our naked frailties hid,"
+            "And when we have our naked frailties hid,",
+            {
+                "preceding_direction_line": "16"
+            }
         ],
         [
             "BANQUO",
@@ -703,17 +745,11 @@
         ],
         [
             "BANQUO",
-            "Of treasonous malice.",
-            {
-                "following_direction_line": "10"
-            }
+            "Of treasonous malice."
         ],
         [
             "MACDUFF",
-            "And so do I.",
-            {
-                "preceding_direction_line": "10"
-            }
+            "And so do I."
         ],
         [
             "ALL",
@@ -731,14 +767,14 @@
             "ALL",
             "Well contented.",
             {
-                "following_direction_line": "11"
+                "following_direction_line": "17"
             }
         ],
         [
             "MALCOLM",
             "What will you do? Let's not consort with them:",
             {
-                "preceding_direction_line": "11"
+                "preceding_direction_line": "17"
             }
         ],
         [
@@ -789,7 +825,7 @@
             "MALCOLM",
             "Which steals itself, when there's no mercy left.",
             {
-                "following_direction_line": "12"
+                "following_direction_line": "18"
             }
         ]
     ],
@@ -802,56 +838,86 @@
         [
             "_DIRECTION",
             "D2",
-            "Knocking within. Knocking within. Knocking within. Knocking within. Knocking within. Opens the gate. Enter MACDUFF and LENNOX"
+            "Knocking within"
         ],
         [
             "_DIRECTION",
             "D3",
-            "Enter MACBETH"
+            "Knocking within"
         ],
         [
             "_DIRECTION",
             "D4",
-            "Exit"
+            "Knocking within"
         ],
         [
             "_DIRECTION",
             "D5",
-            "Re-enter MACDUFF"
+            "Knocking within"
         ],
         [
             "_DIRECTION",
             "D6",
-            "Exeunt MACBETH and LENNOX. Bell rings. Enter LADY MACBETH"
+            "Knocking within"
         ],
         [
             "_DIRECTION",
             "D7",
-            "Enter BANQUO"
+            "Opens the gate. Enter MACDUFF and LENNOX"
         ],
         [
             "_DIRECTION",
             "D8",
-            "Re-enter MACBETH and LENNOX, with ROSS"
+            "Enter MACBETH"
         ],
         [
             "_DIRECTION",
             "D9",
-            "Enter MALCOLM and DONALBAIN"
+            "Exit"
         ],
         [
             "_DIRECTION",
             "D10",
-            "LADY MACBETH is carried out"
+            "Re-enter MACDUFF"
         ],
         [
             "_DIRECTION",
             "D11",
-            "Exeunt all but Malcolm and Donalbain."
+            "Exeunt MACBETH and LENNOX"
         ],
         [
             "_DIRECTION",
             "D12",
+            "Bell rings. Enter LADY MACBETH"
+        ],
+        [
+            "_DIRECTION",
+            "D13",
+            "Enter BANQUO"
+        ],
+        [
+            "_DIRECTION",
+            "D14",
+            "Re-enter MACBETH and LENNOX, with ROSS"
+        ],
+        [
+            "_DIRECTION",
+            "D15",
+            "Enter MALCOLM and DONALBAIN"
+        ],
+        [
+            "_DIRECTION",
+            "D16",
+            "LADY MACBETH is carried out"
+        ],
+        [
+            "_DIRECTION",
+            "D17",
+            "Exeunt all but Malcolm and Donalbain."
+        ],
+        [
+            "_DIRECTION",
+            "D18",
             "Exeunt"
         ]
     ],

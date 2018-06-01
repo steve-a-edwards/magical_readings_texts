@@ -45,11 +45,17 @@
         ],
         [
             "LADY MACBETH",
-            "Than by destruction dwell in doubtful joy."
+            "Than by destruction dwell in doubtful joy.",
+            {
+                "following_direction_line": "3"
+            }
         ],
         [
             "LADY MACBETH",
-            "How now, my lord! why do you keep alone,"
+            "How now, my lord! why do you keep alone,",
+            {
+                "preceding_direction_line": "3"
+            }
         ],
         [
             "LADY MACBETH",
@@ -65,17 +71,11 @@
         ],
         [
             "LADY MACBETH",
-            "Should be without regard: what's done is done.",
-            {
-                "following_direction_line": "3"
-            }
+            "Should be without regard: what's done is done."
         ],
         [
             "MACBETH",
-            "We have scotch'd the snake, not kill'd it:",
-            {
-                "preceding_direction_line": "3"
-            }
+            "We have scotch'd the snake, not kill'd it:"
         ],
         [
             "MACBETH",

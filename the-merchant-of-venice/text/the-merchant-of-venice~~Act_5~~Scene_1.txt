@@ -86,6 +86,7 @@ And yet no matter: why should we go in?
 My friend Stephano, signify, I pray you,
 Within the house, your mistress is at hand;
 And bring your music forth into the air.
+_D_Exit Stephano
 How sweet the moonlight sleeps upon this bank!
 Here will we sit and let the sounds of music
 Creep in our ears: soft stillness and the night
@@ -98,11 +99,10 @@ Still quiring to the young-eyed cherubins;
 Such harmony is in immortal souls;
 But whilst this muddy vesture of decay
 Doth grossly close it in, we cannot hear it.
+_D_Enter Musicians
 Come, ho! and wake Diana with a hymn!
 With sweetest touches pierce your mistress' ear,
 And draw her home with music.
-_D_Exit Stephano
-_D_Enter Musicians
 _D_Music
 _R_JESSICA
 I am never merry when I hear sweet music.

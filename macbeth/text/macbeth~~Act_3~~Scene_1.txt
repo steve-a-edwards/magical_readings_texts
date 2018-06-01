@@ -57,18 +57,19 @@ Ay, my good lord: our time does call upon 's.
 _R_MACBETH
 I wish your horses swift and sure of foot;
 And so I do commend you to their backs. Farewell.
+_D_Exit BANQUO
 Let every man be master of his time
 Till seven at night: to make society
 The sweeter welcome, we will keep ourself
 Till supper-time alone: while then, God be with you!
+_D_Exeunt all but MACBETH, and an attendant
 Sirrah, a word with you: attend those men
 Our pleasure?
-_D_Exit BANQUO
-_D_Exeunt all but MACBETH, and an attendant
 _R_ATTENDANT
 They are, my lord, without the palace gate.
 _R_MACBETH
 Bring them before us.
+_D_Exit Attendant
 To be thus is nothing;
 But to be safely thus.--Our fears in Banquo
 Stick deep; and in his royalty of nature
@@ -94,11 +95,10 @@ Given to the common enemy of man,
 To make them kings, the seed of Banquo kings!
 Rather than so, come fate into the list.
 And champion me to the utterance! Who's there!
-Now go to the door, and stay there till we call.
-Was it not yesterday we spoke together?
-_D_Exit Attendant
 _D_Re-enter Attendant, with two Murderers
+Now go to the door, and stay there till we call.
 _D_Exit Attendant
+Was it not yesterday we spoke together?
 _R_First Murderer
 It was, so please your highness.
 _R_MACBETH
@@ -192,7 +192,7 @@ _R_Both Murderers
 We are resolved, my lord.
 _R_MACBETH
 I'll call upon you straight: abide within.
+_D_Exeunt Murderers
 It is concluded. Banquo, thy soul's flight,
 If it find heaven, must find it out to-night.
-_D_Exeunt Murderers
 _D_Exit

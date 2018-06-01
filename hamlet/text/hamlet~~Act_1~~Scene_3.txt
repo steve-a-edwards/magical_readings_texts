@@ -62,9 +62,9 @@ And recks not his own rede.
 _R_LAERTES
 O, fear me not.
 I stay too long: but here my father comes.
+_D_Enter POLONIUS
 A double blessing is a double grace,
 Occasion smiles upon a second leave.
-_D_Enter POLONIUS
 _R_LORD POLONIUS
 Yet here, Laertes! aboard, aboard, for shame!
 The wind sits in the shoulder of your sail,

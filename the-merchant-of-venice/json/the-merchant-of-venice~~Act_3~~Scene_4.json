@@ -183,11 +183,17 @@
         ],
         [
             "PORTIA",
-            "To wish it back on you: fare you well Jessica."
+            "To wish it back on you: fare you well Jessica.",
+            {
+                "following_direction_line": "2"
+            }
         ],
         [
             "PORTIA",
-            "Now, Balthasar,"
+            "Now, Balthasar,",
+            {
+                "preceding_direction_line": "2"
+            }
         ],
         [
             "PORTIA",
@@ -227,17 +233,11 @@
         ],
         [
             "PORTIA",
-            "But get thee gone: I shall be there before thee.",
-            {
-                "following_direction_line": "2"
-            }
+            "But get thee gone: I shall be there before thee."
         ],
         [
             "BALTHASAR",
             "Madam, I go with all convenient speed.",
-            {
-                "preceding_direction_line": "2"
-            },
             {
                 "following_direction_line": "3"
             }

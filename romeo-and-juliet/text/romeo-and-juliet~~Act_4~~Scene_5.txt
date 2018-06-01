@@ -12,12 +12,12 @@ Marry, and amen, how sound is she asleep!
 I must needs wake her. Madam, madam, madam!
 Ay, let the county take you in your bed;
 He'll fright you up, i' faith. Will it not be?
+_D_Undraws the curtains
 What, dress'd! and in your clothes! and down again!
 I must needs wake you; Lady! lady! lady!
 Alas, alas! Help, help! my lady's dead!
 O, well-a-day, that ever I was born!
 Some aqua vitae, ho! My lord! my lady!
-_D_Undraws the curtains
 _D_Enter LADY CAPULET
 _R_LADY CAPULET
 What noise is here?

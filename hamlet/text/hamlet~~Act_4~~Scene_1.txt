@@ -6,8 +6,8 @@ You must translate: 'tis fit we understand them.
 Where is your son?
 _R_QUEEN GERTRUDE
 Bestow this place on us a little while.
-Ah, my good lord, what have I seen to-night!
 _D_Exeunt ROSENCRANTZ and GUILDENSTERN
+Ah, my good lord, what have I seen to-night!
 _R_KING CLAUDIUS
 What, Gertrude? How does Hamlet?
 _R_QUEEN GERTRUDE
@@ -41,15 +41,15 @@ The sun no sooner shall the mountains touch,
 But we will ship him hence: and this vile deed
 We must, with all our majesty and skill,
 Both countenance and excuse. Ho, Guildenstern!
+_D_Re-enter ROSENCRANTZ and GUILDENSTERN
 Friends both, go join you with some further aid:
 Hamlet in madness hath Polonius slain,
 And from his mother's closet hath he dragg'd him:
 Go seek him out; speak fair, and bring the body
 Into the chapel. I pray you, haste in this.
+_D_Exeunt ROSENCRANTZ and GUILDENSTERN
 Come, Gertrude, we'll call up our wisest friends;
 And let them know, both what we mean to do,
 And what's untimely done. O, come away!
 My soul is full of discord and dismay.
-_D_Re-enter ROSENCRANTZ and GUILDENSTERN
-_D_Exeunt ROSENCRANTZ and GUILDENSTERN
 _D_Exeunt

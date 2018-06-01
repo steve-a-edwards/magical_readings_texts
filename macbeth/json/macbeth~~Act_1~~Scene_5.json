@@ -123,21 +123,21 @@
         ],
         [
             "LADY MACBETH",
-            "To have thee crown'd withal."
-        ],
-        [
-            "LADY MACBETH",
-            "What is your tidings?",
+            "To have thee crown'd withal.",
             {
                 "following_direction_line": "2"
             }
         ],
         [
-            "Messenger",
-            "The king comes here to-night.",
+            "LADY MACBETH",
+            "What is your tidings?",
             {
                 "preceding_direction_line": "2"
             }
+        ],
+        [
+            "Messenger",
+            "The king comes here to-night."
         ],
         [
             "LADY MACBETH",
@@ -173,11 +173,17 @@
         ],
         [
             "LADY MACBETH",
-            "He brings great news."
+            "He brings great news.",
+            {
+                "following_direction_line": "3"
+            }
         ],
         [
             "LADY MACBETH",
-            "The raven himself is hoarse"
+            "The raven himself is hoarse",
+            {
+                "preceding_direction_line": "3"
+            }
         ],
         [
             "LADY MACBETH",
@@ -241,11 +247,17 @@
         ],
         [
             "LADY MACBETH",
-            "To cry 'Hold, hold!'"
+            "To cry 'Hold, hold!'",
+            {
+                "following_direction_line": "4"
+            }
         ],
         [
             "LADY MACBETH",
-            "Great Glamis! worthy Cawdor!"
+            "Great Glamis! worthy Cawdor!",
+            {
+                "preceding_direction_line": "4"
+            }
         ],
         [
             "LADY MACBETH",
@@ -261,17 +273,11 @@
         ],
         [
             "LADY MACBETH",
-            "The future in the instant.",
-            {
-                "following_direction_line": "3"
-            }
+            "The future in the instant."
         ],
         [
             "MACBETH",
-            "My dearest love,",
-            {
-                "preceding_direction_line": "3"
-            }
+            "My dearest love,"
         ],
         [
             "MACBETH",
@@ -345,7 +351,7 @@
             "LADY MACBETH",
             "Leave all the rest to me.",
             {
-                "following_direction_line": "4"
+                "following_direction_line": "5"
             }
         ]
     ],
@@ -363,11 +369,16 @@
         [
             "_DIRECTION",
             "D3",
-            "Exit Messenger. Enter MACBETH"
+            "Exit Messenger"
         ],
         [
             "_DIRECTION",
             "D4",
+            "Enter MACBETH"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
             "Exeunt"
         ]
     ],

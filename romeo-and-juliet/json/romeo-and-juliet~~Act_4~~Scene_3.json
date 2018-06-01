@@ -111,11 +111,17 @@
         ],
         [
             "JULIET",
-            "No, no: this shall forbid it: lie thou there."
+            "No, no: this shall forbid it: lie thou there.",
+            {
+                "following_direction_line": "4"
+            }
         ],
         [
             "JULIET",
-            "What if it be a poison, which the friar"
+            "What if it be a poison, which the friar",
+            {
+                "preceding_direction_line": "4"
+            }
         ],
         [
             "JULIET",
@@ -253,7 +259,7 @@
             "JULIET",
             "Romeo, I come! this do I drink to thee.",
             {
-                "following_direction_line": "4"
+                "following_direction_line": "5"
             }
         ]
     ],
@@ -276,7 +282,12 @@
         [
             "_DIRECTION",
             "D4",
-            "Laying down her dagger. She falls upon her bed, within the curtains"
+            "Laying down her dagger"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "She falls upon her bed, within the curtains"
         ]
     ],
     "ranges_of_roles_lines": {

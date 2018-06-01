@@ -4,12 +4,14 @@ _R_Porter
 Here's a knocking indeed! If a
 man were porter of hell-gate, he should have
 old turning the key.
+_D_Knocking within
 Knock,
 knock, knock! Who's there, i' the name of
 Beelzebub? Here's a farmer, that hanged
 himself on the expectation of plenty: come in
 time; have napkins enow about you; here
 you'll sweat for't.
+_D_Knocking within
 Knock,
 knock! Who's there, in the other devil's
 name? Faith, here's an equivocator, that could
@@ -17,23 +19,21 @@ swear in both the scales against either scale;
 who committed treason enough for God's sake,
 yet could not equivocate to heaven: O, come
 in, equivocator.
+_D_Knocking within
 Knock,
 knock, knock! Who's there? Faith, here's an
 English tailor come hither, for stealing out of
 a French hose: come in, tailor; here you may
 roast your goose.
+_D_Knocking within
 Knock,
 knock; never at quiet! What are you? But
 this place is too cold for hell. I'll devil-porter
 it no further: I had thought to have let in
 some of all professions that go the primrose
 way to the everlasting bonfire.
+_D_Knocking within
 Anon, anon! I pray you, remember the porter.
-_D_Knocking within
-_D_Knocking within
-_D_Knocking within
-_D_Knocking within
-_D_Knocking within
 _D_Opens the gate
 _D_Enter MACDUFF and LENNOX
 _R_MACDUFF
@@ -66,8 +66,8 @@ up my legs sometime, yet I made a shift to cast
 him.
 _R_MACDUFF
 Is thy master stirring?
-Our knocking has awaked him; here he comes.
 _D_Enter MACBETH
+Our knocking has awaked him; here he comes.
 _R_LENNOX
 Good morrow, noble sir.
 _R_MACBETH
@@ -129,6 +129,7 @@ _R_MACDUFF
 Approach the chamber, and destroy your sight
 With a new Gorgon: do not bid me speak;
 See, and then speak yourselves.
+_D_Exeunt MACBETH and LENNOX
 Awake, awake!
 Ring the alarum-bell. Murder and treason!
 Banquo and Donalbain! Malcolm! awake!
@@ -137,7 +138,6 @@ And look on death itself! up, up, and see
 The great doom's image! Malcolm! Banquo!
 As from your graves rise up, and walk like sprites,
 To countenance this horror! Ring the bell.
-_D_Exeunt MACBETH and LENNOX
 _D_Bell rings
 _D_Enter LADY MACBETH
 _R_LADY MACBETH
@@ -149,9 +149,9 @@ O gentle lady,
 'Tis not for you to hear what I can speak:
 The repetition, in a woman's ear,
 Would murder as it fell.
+_D_Enter BANQUO
 O Banquo, Banquo,
 Our royal master 's murder'd!
-_D_Enter BANQUO
 _R_LADY MACBETH
 Woe, alas!
 What, in our house?
@@ -220,6 +220,7 @@ _R_MALCOLM
 Upon the foot of motion.
 _R_BANQUO
 Look to the lady:
+_D_LADY MACBETH is carried out
 And when we have our naked frailties hid,
 That suffer in exposure, let us meet,
 And question this most bloody piece of work,
@@ -227,7 +228,6 @@ To know it further. Fears and scruples shake us:
 In the great hand of God I stand; and thence
 Against the undivulged pretence I fight
 Of treasonous malice.
-_D_LADY MACBETH is carried out
 _R_MACDUFF
 And so do I.
 _R_ALL

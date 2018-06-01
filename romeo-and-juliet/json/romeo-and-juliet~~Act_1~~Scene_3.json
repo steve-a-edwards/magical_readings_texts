@@ -447,21 +447,21 @@
         ],
         [
             "LADY CAPULET",
-            "We follow thee."
-        ],
-        [
-            "LADY CAPULET",
-            "Juliet, the county stays.",
+            "We follow thee.",
             {
                 "following_direction_line": "4"
             }
         ],
         [
-            "Nurse",
-            "Go, girl, seek happy nights to happy days.",
+            "LADY CAPULET",
+            "Juliet, the county stays.",
             {
                 "preceding_direction_line": "4"
-            },
+            }
+        ],
+        [
+            "Nurse",
+            "Go, girl, seek happy nights to happy days.",
             {
                 "following_direction_line": "5"
             }

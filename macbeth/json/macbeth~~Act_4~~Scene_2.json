@@ -357,21 +357,21 @@
         ],
         [
             "LADY MACDUFF",
-            "To say I have done no harm?"
-        ],
-        [
-            "LADY MACDUFF",
-            "What are these faces?",
+            "To say I have done no harm?",
             {
                 "following_direction_line": "5"
             }
         ],
         [
-            "First Murderer",
-            "Where is your husband?",
+            "LADY MACDUFF",
+            "What are these faces?",
             {
                 "preceding_direction_line": "5"
             }
+        ],
+        [
+            "First Murderer",
+            "Where is your husband?"
         ],
         [
             "LADY MACDUFF",
@@ -391,21 +391,21 @@
         ],
         [
             "First Murderer",
-            "What, you egg!"
-        ],
-        [
-            "First Murderer",
-            "Young fry of treachery!",
+            "What, you egg!",
             {
                 "following_direction_line": "6"
             }
         ],
         [
-            "Son",
-            "He has kill'd me, mother:",
+            "First Murderer",
+            "Young fry of treachery!",
             {
                 "preceding_direction_line": "6"
             }
+        ],
+        [
+            "Son",
+            "He has kill'd me, mother:"
         ],
         [
             "Son",

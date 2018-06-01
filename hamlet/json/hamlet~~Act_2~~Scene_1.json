@@ -327,21 +327,21 @@
         ],
         [
             "LORD POLONIUS",
-            "Farewell!"
-        ],
-        [
-            "LORD POLONIUS",
-            "How now, Ophelia! what's the matter?",
+            "Farewell!",
             {
                 "following_direction_line": "2"
             }
         ],
         [
-            "OPHELIA",
-            "O, my lord, my lord, I have been so affrighted!",
+            "LORD POLONIUS",
+            "How now, Ophelia! what's the matter?",
             {
                 "preceding_direction_line": "2"
             }
+        ],
+        [
+            "OPHELIA",
+            "O, my lord, my lord, I have been so affrighted!"
         ],
         [
             "LORD POLONIUS",

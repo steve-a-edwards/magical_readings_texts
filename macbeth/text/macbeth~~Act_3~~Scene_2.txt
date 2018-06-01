@@ -15,12 +15,12 @@ Nought's had, all's spent,
 Where our desire is got without content:
 'Tis safer to be that which we destroy
 Than by destruction dwell in doubtful joy.
+_D_Enter MACBETH
 How now, my lord! why do you keep alone,
 Of sorriest fancies your companions making,
 Using those thoughts which should indeed have died
 With them they think on? Things without all remedy
 Should be without regard: what's done is done.
-_D_Enter MACBETH
 _R_MACBETH
 We have scotch'd the snake, not kill'd it:
 She'll close and be herself, whilst our poor malice

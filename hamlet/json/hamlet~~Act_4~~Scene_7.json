@@ -151,21 +151,21 @@
         ],
         [
             "KING CLAUDIUS",
-            "And that, I hope, will teach you to imagine--"
-        ],
-        [
-            "KING CLAUDIUS",
-            "How now! what news?",
+            "And that, I hope, will teach you to imagine--",
             {
                 "following_direction_line": "2"
             }
         ],
         [
-            "Messenger",
-            "Letters, my lord, from Hamlet:",
+            "KING CLAUDIUS",
+            "How now! what news?",
             {
                 "preceding_direction_line": "2"
             }
+        ],
+        [
+            "Messenger",
+            "Letters, my lord, from Hamlet:"
         ],
         [
             "Messenger",
@@ -189,11 +189,17 @@
         ],
         [
             "KING CLAUDIUS",
-            "Laertes, you shall hear them. Leave us."
+            "Laertes, you shall hear them. Leave us.",
+            {
+                "following_direction_line": "3"
+            }
         ],
         [
             "KING CLAUDIUS",
-            "'High and mighty, You shall know I am set naked on"
+            "'High and mighty, You shall know I am set naked on",
+            {
+                "preceding_direction_line": "3"
+            }
         ],
         [
             "KING CLAUDIUS",
@@ -217,17 +223,11 @@
         ],
         [
             "KING CLAUDIUS",
-            "Or is it some abuse, and no such thing?",
-            {
-                "following_direction_line": "3"
-            }
+            "Or is it some abuse, and no such thing?"
         ],
         [
             "LAERTES",
-            "Know you the hand?",
-            {
-                "preceding_direction_line": "3"
-            }
+            "Know you the hand?"
         ],
         [
             "KING CLAUDIUS",
@@ -719,21 +719,21 @@
         ],
         [
             "KING CLAUDIUS",
-            "Our purpose may hold there."
-        ],
-        [
-            "KING CLAUDIUS",
-            "How now, sweet queen!",
+            "Our purpose may hold there.",
             {
                 "following_direction_line": "4"
             }
         ],
         [
-            "QUEEN GERTRUDE",
-            "One woe doth tread upon another's heel,",
+            "KING CLAUDIUS",
+            "How now, sweet queen!",
             {
                 "preceding_direction_line": "4"
             }
+        ],
+        [
+            "QUEEN GERTRUDE",
+            "One woe doth tread upon another's heel,"
         ],
         [
             "QUEEN GERTRUDE",

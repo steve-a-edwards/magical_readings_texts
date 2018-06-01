@@ -115,21 +115,21 @@
         ],
         [
             "MACBETH",
-            "And falls on the other."
-        ],
-        [
-            "MACBETH",
-            "How now! what news?",
+            "And falls on the other.",
             {
                 "following_direction_line": "2"
             }
         ],
         [
-            "LADY MACBETH",
-            "He has almost supp'd: why have you left the chamber?",
+            "MACBETH",
+            "How now! what news?",
             {
                 "preceding_direction_line": "2"
             }
+        ],
+        [
+            "LADY MACBETH",
+            "He has almost supp'd: why have you left the chamber?"
         ],
         [
             "MACBETH",

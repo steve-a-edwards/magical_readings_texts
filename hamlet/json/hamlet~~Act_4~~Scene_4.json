@@ -147,11 +147,17 @@
         ],
         [
             "HAMLET",
-            "I'll be with you straight go a little before."
+            "I'll be with you straight go a little before.",
+            {
+                "following_direction_line": "4"
+            }
         ],
         [
             "HAMLET",
-            "How all occasions do inform against me,"
+            "How all occasions do inform against me,",
+            {
+                "preceding_direction_line": "4"
+            }
         ],
         [
             "HAMLET",
@@ -289,7 +295,7 @@
             "HAMLET",
             "My thoughts be bloody, or be nothing worth!",
             {
-                "following_direction_line": "4"
+                "following_direction_line": "5"
             }
         ]
     ],
@@ -312,7 +318,12 @@
         [
             "_DIRECTION",
             "D4",
-            "Exeunt all except HAMLET. Exit"
+            "Exeunt all except HAMLET"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exit"
         ]
     ],
     "ranges_of_roles_lines": {

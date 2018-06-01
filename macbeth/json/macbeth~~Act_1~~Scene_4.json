@@ -67,11 +67,17 @@
         ],
         [
             "DUNCAN",
-            "An absolute trust."
+            "An absolute trust.",
+            {
+                "following_direction_line": "2"
+            }
         ],
         [
             "DUNCAN",
-            "O worthiest cousin!"
+            "O worthiest cousin!",
+            {
+                "preceding_direction_line": "2"
+            }
         ],
         [
             "DUNCAN",
@@ -99,17 +105,11 @@
         ],
         [
             "DUNCAN",
-            "More is thy due than more than all can pay.",
-            {
-                "following_direction_line": "2"
-            }
+            "More is thy due than more than all can pay."
         ],
         [
             "MACBETH",
-            "The service and the loyalty I owe,",
-            {
-                "preceding_direction_line": "2"
-            }
+            "The service and the loyalty I owe,"
         ],
         [
             "MACBETH",

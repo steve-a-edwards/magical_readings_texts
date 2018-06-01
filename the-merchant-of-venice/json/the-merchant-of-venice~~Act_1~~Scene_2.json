@@ -463,21 +463,21 @@
         ],
         [
             "PORTIA",
-            "thy praise."
-        ],
-        [
-            "PORTIA",
-            "How now! what news?",
+            "thy praise.",
             {
                 "following_direction_line": "2"
             }
         ],
         [
-            "Servant",
-            "The four strangers seek for you, madam, to take",
+            "PORTIA",
+            "How now! what news?",
             {
                 "preceding_direction_line": "2"
             }
+        ],
+        [
+            "Servant",
+            "The four strangers seek for you, madam, to take"
         ],
         [
             "Servant",

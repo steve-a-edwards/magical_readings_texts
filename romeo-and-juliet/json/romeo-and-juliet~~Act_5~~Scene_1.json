@@ -51,11 +51,17 @@
         ],
         [
             "ROMEO",
-            "When but love's shadows are so rich in joy!"
+            "When but love's shadows are so rich in joy!",
+            {
+                "following_direction_line": "2"
+            }
         ],
         [
             "ROMEO",
-            "News from Verona!--How now, Balthasar!"
+            "News from Verona!--How now, Balthasar!",
+            {
+                "preceding_direction_line": "2"
+            }
         ],
         [
             "ROMEO",
@@ -71,17 +77,11 @@
         ],
         [
             "ROMEO",
-            "For nothing can be ill, if she be well.",
-            {
-                "following_direction_line": "2"
-            }
+            "For nothing can be ill, if she be well."
         ],
         [
             "BALTHASAR",
-            "Then she is well, and nothing can be ill:",
-            {
-                "preceding_direction_line": "2"
-            }
+            "Then she is well, and nothing can be ill:"
         ],
         [
             "BALTHASAR",
@@ -153,11 +153,17 @@
         ],
         [
             "ROMEO",
-            "And hire those horses; I'll be with thee straight."
+            "And hire those horses; I'll be with thee straight.",
+            {
+                "following_direction_line": "3"
+            }
         ],
         [
             "ROMEO",
-            "Well, Juliet, I will lie with thee to-night."
+            "Well, Juliet, I will lie with thee to-night.",
+            {
+                "preceding_direction_line": "3"
+            }
         ],
         [
             "ROMEO",
@@ -251,14 +257,14 @@
             "ROMEO",
             "What, ho! apothecary!",
             {
-                "following_direction_line": "3"
+                "following_direction_line": "4"
             }
         ],
         [
             "Apothecary",
             "Who calls so loud?",
             {
-                "preceding_direction_line": "3"
+                "preceding_direction_line": "4"
             }
         ],
         [
@@ -377,7 +383,7 @@
             "ROMEO",
             "To Juliet's grave; for there must I use thee.",
             {
-                "following_direction_line": "4"
+                "following_direction_line": "5"
             }
         ]
     ],
@@ -395,11 +401,16 @@
         [
             "_DIRECTION",
             "D3",
-            "Exit BALTHASAR. Enter Apothecary"
+            "Exit BALTHASAR"
         ],
         [
             "_DIRECTION",
             "D4",
+            "Enter Apothecary"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
             "Exeunt"
         ]
     ],

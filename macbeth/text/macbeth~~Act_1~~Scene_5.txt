@@ -31,8 +31,8 @@ And chastise with the valour of my tongue
 All that impedes thee from the golden round,
 Which fate and metaphysical aid doth seem
 To have thee crown'd withal.
-What is your tidings?
 _D_Enter a Messenger
+What is your tidings?
 _R_Messenger
 The king comes here to-night.
 _R_LADY MACBETH
@@ -47,6 +47,7 @@ Than would make up his message.
 _R_LADY MACBETH
 Give him tending;
 He brings great news.
+_D_Exit Messenger
 The raven himself is hoarse
 That croaks the fatal entrance of Duncan
 Under my battlements. Come, you spirits
@@ -64,13 +65,12 @@ And pall thee in the dunnest smoke of hell,
 That my keen knife see not the wound it makes,
 Nor heaven peep through the blanket of the dark,
 To cry 'Hold, hold!'
+_D_Enter MACBETH
 Great Glamis! worthy Cawdor!
 Greater than both, by the all-hail hereafter!
 Thy letters have transported me beyond
 This ignorant present, and I feel now
 The future in the instant.
-_D_Exit Messenger
-_D_Enter MACBETH
 _R_MACBETH
 My dearest love,
 Duncan comes here to-night.

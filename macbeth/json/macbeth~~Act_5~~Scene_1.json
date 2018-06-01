@@ -67,25 +67,25 @@
         ],
         [
             "Gentlewoman",
-            "confirm my speech."
-        ],
-        [
-            "Gentlewoman",
-            "Lo you, here she comes! This is her very guise;"
-        ],
-        [
-            "Gentlewoman",
-            "and, upon my life, fast asleep. Observe her; stand close.",
+            "confirm my speech.",
             {
                 "following_direction_line": "2"
             }
         ],
         [
-            "Doctor",
-            "How came she by that light?",
+            "Gentlewoman",
+            "Lo you, here she comes! This is her very guise;",
             {
                 "preceding_direction_line": "2"
             }
+        ],
+        [
+            "Gentlewoman",
+            "and, upon my life, fast asleep. Observe her; stand close."
+        ],
+        [
+            "Doctor",
+            "How came she by that light?"
         ],
         [
             "Gentlewoman",

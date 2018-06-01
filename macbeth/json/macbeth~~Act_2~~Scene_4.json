@@ -95,21 +95,21 @@
         ],
         [
             "ROSS",
-            "That look'd upon't. Here comes the good Macduff."
-        ],
-        [
-            "ROSS",
-            "How goes the world, sir, now?",
+            "That look'd upon't. Here comes the good Macduff.",
             {
                 "following_direction_line": "2"
             }
         ],
         [
-            "MACDUFF",
-            "Why, see you not?",
+            "ROSS",
+            "How goes the world, sir, now?",
             {
                 "preceding_direction_line": "2"
             }
+        ],
+        [
+            "MACDUFF",
+            "Why, see you not?"
         ],
         [
             "ROSS",

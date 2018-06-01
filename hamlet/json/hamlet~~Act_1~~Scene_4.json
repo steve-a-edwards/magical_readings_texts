@@ -31,21 +31,21 @@
         ],
         [
             "HORATIO",
-            "Wherein the spirit held his wont to walk."
-        ],
-        [
-            "HORATIO",
-            "What does this mean, my lord?",
+            "Wherein the spirit held his wont to walk.",
             {
                 "following_direction_line": "2"
             }
         ],
         [
-            "HAMLET",
-            "The king doth wake to-night and takes his rouse,",
+            "HORATIO",
+            "What does this mean, my lord?",
             {
                 "preceding_direction_line": "2"
             }
+        ],
+        [
+            "HAMLET",
+            "The king doth wake to-night and takes his rouse,"
         ],
         [
             "HAMLET",

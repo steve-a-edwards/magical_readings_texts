@@ -65,25 +65,25 @@
         ],
         [
             "NERISSA",
-            "Sir, I would speak with you."
-        ],
-        [
-            "NERISSA",
-            "I'll see if I can get my husband's ring,"
-        ],
-        [
-            "NERISSA",
-            "Which I did make him swear to keep for ever.",
+            "Sir, I would speak with you.",
             {
                 "following_direction_line": "3"
             }
         ],
         [
-            "PORTIA",
-            "[Aside to NERISSA] Thou mayst, I warrant.",
+            "NERISSA",
+            "I'll see if I can get my husband's ring,",
             {
                 "preceding_direction_line": "3"
             }
+        ],
+        [
+            "NERISSA",
+            "Which I did make him swear to keep for ever."
+        ],
+        [
+            "PORTIA",
+            "[Aside to NERISSA] Thou mayst, I warrant."
         ],
         [
             "PORTIA",
@@ -95,21 +95,21 @@
         ],
         [
             "PORTIA",
-            "But we'll outface them, and outswear them too."
-        ],
-        [
-            "PORTIA",
-            "Away! make haste: thou knowist where I will tarry.",
+            "But we'll outface them, and outswear them too.",
             {
                 "following_direction_line": "4"
             }
         ],
         [
-            "NERISSA",
-            "Come, good sir, will you show me to this house?",
+            "PORTIA",
+            "Away! make haste: thou knowist where I will tarry.",
             {
                 "preceding_direction_line": "4"
-            },
+            }
+        ],
+        [
+            "NERISSA",
+            "Come, good sir, will you show me to this house?",
             {
                 "following_direction_line": "5"
             }

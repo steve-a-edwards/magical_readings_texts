@@ -75,11 +75,17 @@
         ],
         [
             "QUEEN GERTRUDE",
-            "Let her come in."
+            "Let her come in.",
+            {
+                "following_direction_line": "2"
+            }
         ],
         [
             "QUEEN GERTRUDE",
-            "To my sick soul, as sin's true nature is,"
+            "To my sick soul, as sin's true nature is,",
+            {
+                "preceding_direction_line": "2"
+            }
         ],
         [
             "QUEEN GERTRUDE",
@@ -93,14 +99,14 @@
             "QUEEN GERTRUDE",
             "It spills itself in fearing to be spilt.",
             {
-                "following_direction_line": "2"
+                "following_direction_line": "3"
             }
         ],
         [
             "OPHELIA",
             "Where is the beauteous majesty of Denmark?",
             {
-                "preceding_direction_line": "2"
+                "preceding_direction_line": "3"
             }
         ],
         [
@@ -133,11 +139,17 @@
         ],
         [
             "OPHELIA",
-            "Say you? nay, pray you, mark."
+            "Say you? nay, pray you, mark.",
+            {
+                "following_direction_line": "4"
+            }
         ],
         [
             "OPHELIA",
-            "He is dead and gone, lady,"
+            "He is dead and gone, lady,",
+            {
+                "preceding_direction_line": "4"
+            }
         ],
         [
             "OPHELIA",
@@ -149,34 +161,34 @@
         ],
         [
             "OPHELIA",
-            "At his heels a stone.",
-            {
-                "following_direction_line": "3"
-            }
+            "At his heels a stone."
         ],
         [
             "QUEEN GERTRUDE",
-            "Nay, but, Ophelia,--",
-            {
-                "preceding_direction_line": "3"
-            }
+            "Nay, but, Ophelia,--"
         ],
         [
             "OPHELIA",
-            "Pray you, mark."
+            "Pray you, mark.",
+            {
+                "following_direction_line": "5"
+            }
         ],
         [
             "OPHELIA",
             "White his shroud as the mountain snow,--",
             {
-                "following_direction_line": "4"
+                "preceding_direction_line": "5"
+            },
+            {
+                "following_direction_line": "6"
             }
         ],
         [
             "QUEEN GERTRUDE",
             "Alas, look here, my lord.",
             {
-                "preceding_direction_line": "4"
+                "preceding_direction_line": "6"
             }
         ],
         [
@@ -221,11 +233,17 @@
         ],
         [
             "OPHELIA",
-            "ask you what it means, say you this:"
+            "ask you what it means, say you this:",
+            {
+                "following_direction_line": "7"
+            }
         ],
         [
             "OPHELIA",
-            "To-morrow is Saint Valentine's day,"
+            "To-morrow is Saint Valentine's day,",
+            {
+                "preceding_direction_line": "7"
+            }
         ],
         [
             "OPHELIA",
@@ -253,25 +271,25 @@
         ],
         [
             "OPHELIA",
-            "Never departed more.",
-            {
-                "following_direction_line": "5"
-            }
+            "Never departed more."
         ],
         [
             "KING CLAUDIUS",
-            "Pretty Ophelia!",
+            "Pretty Ophelia!"
+        ],
+        [
+            "OPHELIA",
+            "Indeed, la, without an oath, I'll make an end on't:",
             {
-                "preceding_direction_line": "5"
+                "following_direction_line": "8"
             }
         ],
         [
             "OPHELIA",
-            "Indeed, la, without an oath, I'll make an end on't:"
-        ],
-        [
-            "OPHELIA",
-            "By Gis and by Saint Charity,"
+            "By Gis and by Saint Charity,",
+            {
+                "preceding_direction_line": "8"
+            }
         ],
         [
             "OPHELIA",
@@ -299,17 +317,11 @@
         ],
         [
             "OPHELIA",
-            "An thou hadst not come to my bed.",
-            {
-                "following_direction_line": "6"
-            }
+            "An thou hadst not come to my bed."
         ],
         [
             "KING CLAUDIUS",
-            "How long hath she been thus?",
-            {
-                "preceding_direction_line": "6"
-            }
+            "How long hath she been thus?"
         ],
         [
             "OPHELIA",
@@ -335,23 +347,29 @@
             "OPHELIA",
             "good night, good night.",
             {
-                "following_direction_line": "7"
+                "following_direction_line": "9"
             }
         ],
         [
             "KING CLAUDIUS",
             "Follow her close; give her good watch,",
             {
-                "preceding_direction_line": "7"
+                "preceding_direction_line": "9"
             }
         ],
         [
             "KING CLAUDIUS",
-            "I pray you."
+            "I pray you.",
+            {
+                "following_direction_line": "10"
+            }
         ],
         [
             "KING CLAUDIUS",
-            "O, this is the poison of deep grief; it springs"
+            "O, this is the poison of deep grief; it springs",
+            {
+                "preceding_direction_line": "10"
+            }
         ],
         [
             "KING CLAUDIUS",
@@ -433,33 +451,33 @@
             "KING CLAUDIUS",
             "Gives me superfluous death.",
             {
-                "following_direction_line": "8"
+                "following_direction_line": "11"
             }
         ],
         [
             "QUEEN GERTRUDE",
             "Alack, what noise is this?",
             {
-                "preceding_direction_line": "8"
+                "preceding_direction_line": "11"
             }
         ],
         [
             "KING CLAUDIUS",
-            "Where are my Switzers? Let them guard the door."
+            "Where are my Switzers? Let them guard the door.",
+            {
+                "following_direction_line": "12"
+            }
         ],
         [
             "KING CLAUDIUS",
             "What is the matter?",
             {
-                "following_direction_line": "9"
+                "preceding_direction_line": "12"
             }
         ],
         [
             "Gentleman",
-            "Save yourself, my lord:",
-            {
-                "preceding_direction_line": "9"
-            }
+            "Save yourself, my lord:"
         ],
         [
             "Gentleman",
@@ -513,14 +531,14 @@
             "KING CLAUDIUS",
             "The doors are broke.",
             {
-                "following_direction_line": "10"
+                "following_direction_line": "13"
             }
         ],
         [
             "LAERTES",
             "Where is this king? Sirs, stand you all without.",
             {
-                "preceding_direction_line": "10"
+                "preceding_direction_line": "13"
             }
         ],
         [
@@ -535,14 +553,14 @@
             "Danes",
             "We will, we will.",
             {
-                "following_direction_line": "11"
+                "following_direction_line": "14"
             }
         ],
         [
             "LAERTES",
             "I thank you: keep the door. O thou vile king,",
             {
-                "preceding_direction_line": "11"
+                "preceding_direction_line": "14"
             }
         ],
         [
@@ -731,11 +749,17 @@
         ],
         [
             "LAERTES",
-            "How now! what noise is that?"
+            "How now! what noise is that?",
+            {
+                "following_direction_line": "15"
+            }
         ],
         [
             "LAERTES",
-            "O heat, dry up my brains! tears seven times salt,"
+            "O heat, dry up my brains! tears seven times salt,",
+            {
+                "preceding_direction_line": "15"
+            }
         ],
         [
             "LAERTES",
@@ -771,17 +795,11 @@
         ],
         [
             "LAERTES",
-            "After the thing it loves.",
-            {
-                "following_direction_line": "12"
-            }
+            "After the thing it loves."
         ],
         [
             "OPHELIA",
-            "[Sings]",
-            {
-                "preceding_direction_line": "12"
-            }
+            "[Sings]"
         ],
         [
             "OPHELIA",
@@ -865,21 +883,21 @@
         ],
         [
             "OPHELIA",
-            "died: they say he made a good end,--"
+            "died: they say he made a good end,--",
+            {
+                "following_direction_line": "16"
+            }
         ],
         [
             "OPHELIA",
             "For bonny sweet Robin is all my joy.",
             {
-                "following_direction_line": "13"
+                "preceding_direction_line": "16"
             }
         ],
         [
             "LAERTES",
-            "Thought and affliction, passion, hell itself,",
-            {
-                "preceding_direction_line": "13"
-            }
+            "Thought and affliction, passion, hell itself,"
         ],
         [
             "LAERTES",
@@ -933,14 +951,14 @@
             "OPHELIA",
             "And of all Christian souls, I pray God. God be wi' ye.",
             {
-                "following_direction_line": "14"
+                "following_direction_line": "17"
             }
         ],
         [
             "LAERTES",
             "Do you see this, O God?",
             {
-                "preceding_direction_line": "14"
+                "preceding_direction_line": "17"
             }
         ],
         [
@@ -1023,7 +1041,7 @@
             "KING CLAUDIUS",
             "I pray you, go with me.",
             {
-                "following_direction_line": "15"
+                "following_direction_line": "18"
             }
         ]
     ],
@@ -1036,17 +1054,17 @@
         [
             "_DIRECTION",
             "D2",
-            "Exit HORATIO. Re-enter HORATIO, with OPHELIA"
+            "Exit HORATIO"
         ],
         [
             "_DIRECTION",
             "D3",
-            "Sings"
+            "Re-enter HORATIO, with OPHELIA"
         ],
         [
             "_DIRECTION",
             "D4",
-            "Sings. Enter KING CLAUDIUS"
+            "Sings"
         ],
         [
             "_DIRECTION",
@@ -1056,51 +1074,66 @@
         [
             "_DIRECTION",
             "D6",
-            "Sings"
+            "Enter KING CLAUDIUS"
         ],
         [
             "_DIRECTION",
             "D7",
-            "Exit"
-        ],
-        [
-            "_DIRECTION",
-            "D8",
-            "Exit HORATIO. A noise within"
-        ],
-        [
-            "_DIRECTION",
-            "D9",
-            "Enter another Gentleman"
-        ],
-        [
-            "_DIRECTION",
-            "D10",
-            "Noise within. Enter LAERTES, armed; Danes following"
-        ],
-        [
-            "_DIRECTION",
-            "D11",
-            "They retire without the door"
-        ],
-        [
-            "_DIRECTION",
-            "D12",
-            "Re-enter OPHELIA"
-        ],
-        [
-            "_DIRECTION",
-            "D13",
             "Sings"
         ],
         [
             "_DIRECTION",
-            "D14",
+            "D8",
+            "Sings"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
             "Exit"
         ],
         [
             "_DIRECTION",
+            "D10",
+            "Exit HORATIO"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "A noise within"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Enter another Gentleman"
+        ],
+        [
+            "_DIRECTION",
+            "D13",
+            "Noise within. Enter LAERTES, armed; Danes following"
+        ],
+        [
+            "_DIRECTION",
+            "D14",
+            "They retire without the door"
+        ],
+        [
+            "_DIRECTION",
             "D15",
+            "Re-enter OPHELIA"
+        ],
+        [
+            "_DIRECTION",
+            "D16",
+            "Sings"
+        ],
+        [
+            "_DIRECTION",
+            "D17",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D18",
             "Exeunt"
         ]
     ],

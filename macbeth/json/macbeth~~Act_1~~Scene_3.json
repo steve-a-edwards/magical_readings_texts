@@ -523,15 +523,27 @@
         ],
         [
             "MACBETH",
-            "The greatest is behind."
+            "The greatest is behind.",
+            {
+                "following_direction_line": "6"
+            }
         ],
         [
             "MACBETH",
-            "Thanks for your pains."
+            "Thanks for your pains.",
+            {
+                "preceding_direction_line": "6"
+            },
+            {
+                "following_direction_line": "7"
+            }
         ],
         [
             "MACBETH",
-            "Do you not hope your children shall be kings,"
+            "Do you not hope your children shall be kings,",
+            {
+                "preceding_direction_line": "7"
+            }
         ],
         [
             "MACBETH",
@@ -539,17 +551,11 @@
         ],
         [
             "MACBETH",
-            "Promised no less to them?",
-            {
-                "following_direction_line": "6"
-            }
+            "Promised no less to them?"
         ],
         [
             "BANQUO",
-            "That trusted home",
-            {
-                "preceding_direction_line": "6"
-            }
+            "That trusted home"
         ],
         [
             "BANQUO",
@@ -589,11 +595,17 @@
         ],
         [
             "MACBETH",
-            "Of the imperial theme.--I thank you, gentlemen."
+            "Of the imperial theme.--I thank you, gentlemen.",
+            {
+                "following_direction_line": "8"
+            }
         ],
         [
             "MACBETH",
-            "Cannot be ill, cannot be good: if ill,"
+            "Cannot be ill, cannot be good: if ill,",
+            {
+                "preceding_direction_line": "8"
+            }
         ],
         [
             "MACBETH",
@@ -637,17 +649,11 @@
         ],
         [
             "MACBETH",
-            "But what is not.",
-            {
-                "following_direction_line": "7"
-            }
+            "But what is not."
         ],
         [
             "BANQUO",
-            "Look, how our partner's rapt.",
-            {
-                "preceding_direction_line": "7"
-            }
+            "Look, how our partner's rapt."
         ],
         [
             "MACBETH",
@@ -717,7 +723,7 @@
             "MACBETH",
             "Till then, enough. Come, friends.",
             {
-                "following_direction_line": "8"
+                "following_direction_line": "9"
             }
         ]
     ],
@@ -750,16 +756,21 @@
         [
             "_DIRECTION",
             "D6",
-            "To ROSS and ANGUS. To BANQUO"
+            "To ROSS and ANGUS"
         ],
         [
             "_DIRECTION",
             "D7",
-            "Aside"
+            "To BANQUO"
         ],
         [
             "_DIRECTION",
             "D8",
+            "Aside"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
             "Exeunt"
         ]
     ],

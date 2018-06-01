@@ -20,16 +20,16 @@ _R_GRATIANO
 That will I do.
 _R_NERISSA
 Sir, I would speak with you.
+_D_Aside to PORTIA
 I'll see if I can get my husband's ring,
 Which I did make him swear to keep for ever.
-_D_Aside to PORTIA
 _R_PORTIA
 [Aside to NERISSA] Thou mayst, I warrant.
 We shall have old swearing
 That they did give the rings away to men;
 But we'll outface them, and outswear them too.
-Away! make haste: thou knowist where I will tarry.
 _D_Aloud
+Away! make haste: thou knowist where I will tarry.
 _R_NERISSA
 Come, good sir, will you show me to this house?
 _D_Exeunt

@@ -215,11 +215,17 @@
         ],
         [
             "LORD POLONIUS",
-            "We will bestow ourselves."
+            "We will bestow ourselves.",
+            {
+                "following_direction_line": "4"
+            }
         ],
         [
             "LORD POLONIUS",
-            "Read on this book;"
+            "Read on this book;",
+            {
+                "preceding_direction_line": "4"
+            }
         ],
         [
             "LORD POLONIUS",
@@ -239,17 +245,11 @@
         ],
         [
             "LORD POLONIUS",
-            "The devil himself.",
-            {
-                "following_direction_line": "4"
-            }
+            "The devil himself."
         ],
         [
             "KING CLAUDIUS",
-            "[Aside] O, 'tis too true!",
-            {
-                "preceding_direction_line": "4"
-            }
+            "[Aside] O, 'tis too true!"
         ],
         [
             "KING CLAUDIUS",
