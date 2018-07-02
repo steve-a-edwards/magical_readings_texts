@@ -1,0 +1,120 @@
+{
+    "scene_id": "king lear~~Act_5~~Scene_2",
+    "work_number": "12",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "EDGAR",
+            "Here, father, take the shadow of this tree",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "EDGAR",
+            "For your good host; pray that the right may thrive:"
+        ],
+        [
+            "EDGAR",
+            "If ever I return to you again,"
+        ],
+        [
+            "EDGAR",
+            "I'll bring you comfort."
+        ],
+        [
+            "GLOUCESTER",
+            "Grace go with you, sir!",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "EDGAR",
+            "Away, old man; give me thy hand; away!",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "EDGAR",
+            "King Lear hath lost, he and his daughter ta'en:"
+        ],
+        [
+            "EDGAR",
+            "Give me thy hand; come on."
+        ],
+        [
+            "GLOUCESTER",
+            "No farther, sir; a man may rot even here."
+        ],
+        [
+            "EDGAR",
+            "What, in ill thoughts again? Men must endure"
+        ],
+        [
+            "EDGAR",
+            "Their going hence, even as their coming hither;"
+        ],
+        [
+            "EDGAR",
+            "Ripeness is all: come on."
+        ],
+        [
+            "GLOUCESTER",
+            "And that's true too.",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Alarum within. Enter, with drum and colours, KING LEAR, CORDELIA, and Soldiers, over the stage; and exeunt. Enter EDGAR and GLOUCESTER"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit EDGAR. Alarum and retreat within. Re-enter EDGAR"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "EDGAR": [
+            [
+                "1",
+                "4"
+            ],
+            [
+                "6",
+                "8"
+            ],
+            [
+                "10",
+                "12"
+            ]
+        ],
+        "GLOUCESTER": [
+            [
+                "5",
+                "5"
+            ],
+            [
+                "9",
+                "9"
+            ],
+            [
+                "13",
+                "13"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "A field between the two camps."
+}

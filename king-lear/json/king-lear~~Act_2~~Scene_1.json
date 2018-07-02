@@ -1,0 +1,861 @@
+{
+    "scene_id": "king lear~~Act_2~~Scene_1",
+    "work_number": "12",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "EDMUND",
+            "Save thee, Curan.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "CURAN",
+            "And you, sir. I have been with your father, and"
+        ],
+        [
+            "CURAN",
+            "given him notice that the Duke of Cornwall and Regan"
+        ],
+        [
+            "CURAN",
+            "his duchess will be here with him this night."
+        ],
+        [
+            "EDMUND",
+            "How comes that?"
+        ],
+        [
+            "CURAN",
+            "Nay, I know not. You have heard of the news abroad;"
+        ],
+        [
+            "CURAN",
+            "I mean the whispered ones, for they are yet but"
+        ],
+        [
+            "CURAN",
+            "ear-kissing arguments?"
+        ],
+        [
+            "EDMUND",
+            "Not I pray you, what are they?"
+        ],
+        [
+            "CURAN",
+            "Have you heard of no likely wars toward, 'twixt the"
+        ],
+        [
+            "CURAN",
+            "Dukes of Cornwall and Albany?"
+        ],
+        [
+            "EDMUND",
+            "Not a word."
+        ],
+        [
+            "CURAN",
+            "You may do, then, in time. Fare you well, sir.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "EDMUND",
+            "The duke be here to-night? The better! best!",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "EDMUND",
+            "This weaves itself perforce into my business."
+        ],
+        [
+            "EDMUND",
+            "My father hath set guard to take my brother;"
+        ],
+        [
+            "EDMUND",
+            "And I have one thing, of a queasy question,"
+        ],
+        [
+            "EDMUND",
+            "Which I must act: briefness and fortune, work!"
+        ],
+        [
+            "EDMUND",
+            "Brother, a word; descend: brother, I say!",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "EDMUND",
+            "My father watches: O sir, fly this place;",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "EDMUND",
+            "Intelligence is given where you are hid;"
+        ],
+        [
+            "EDMUND",
+            "You have now the good advantage of the night:"
+        ],
+        [
+            "EDMUND",
+            "Have you not spoken 'gainst the Duke of Cornwall?"
+        ],
+        [
+            "EDMUND",
+            "He's coming hither: now, i' the night, i' the haste,"
+        ],
+        [
+            "EDMUND",
+            "And Regan with him: have you nothing said"
+        ],
+        [
+            "EDMUND",
+            "Upon his party 'gainst the Duke of Albany?"
+        ],
+        [
+            "EDMUND",
+            "Advise yourself."
+        ],
+        [
+            "EDGAR",
+            "I am sure on't, not a word."
+        ],
+        [
+            "EDMUND",
+            "I hear my father coming: pardon me:"
+        ],
+        [
+            "EDMUND",
+            "In cunning I must draw my sword upon you"
+        ],
+        [
+            "EDMUND",
+            "Draw; seem to defend yourself; now quit you well."
+        ],
+        [
+            "EDMUND",
+            "Yield: come before my father. Light, ho, here!"
+        ],
+        [
+            "EDMUND",
+            "Fly, brother. Torches, torches! So, farewell.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "EDMUND",
+            "Some blood drawn on me would beget opinion.",
+            {
+                "preceding_direction_line": "4"
+            },
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "EDMUND",
+            "Of my more fierce endeavour: I have seen drunkards",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "EDMUND",
+            "Do more than this in sport. Father, father!"
+        ],
+        [
+            "EDMUND",
+            "Stop, stop! No help?",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "GLOUCESTER",
+            "Now, Edmund, where's the villain?",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "EDMUND",
+            "Here stood he in the dark, his sharp sword out,"
+        ],
+        [
+            "EDMUND",
+            "Mumbling of wicked charms, conjuring the moon"
+        ],
+        [
+            "EDMUND",
+            "To stand auspicious mistress,--"
+        ],
+        [
+            "GLOUCESTER",
+            "But where is he?"
+        ],
+        [
+            "EDMUND",
+            "Look, sir, I bleed."
+        ],
+        [
+            "GLOUCESTER",
+            "Where is the villain, Edmund?"
+        ],
+        [
+            "EDMUND",
+            "Fled this way, sir. When by no means he could--"
+        ],
+        [
+            "GLOUCESTER",
+            "Pursue him, ho! Go after.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "GLOUCESTER",
+            "By no means what?",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "EDMUND",
+            "Persuade me to the murder of your lordship;"
+        ],
+        [
+            "EDMUND",
+            "But that I told him, the revenging gods"
+        ],
+        [
+            "EDMUND",
+            "'Gainst parricides did all their thunders bend;"
+        ],
+        [
+            "EDMUND",
+            "Spoke, with how manifold and strong a bond"
+        ],
+        [
+            "EDMUND",
+            "The child was bound to the father; sir, in fine,"
+        ],
+        [
+            "EDMUND",
+            "Seeing how loathly opposite I stood"
+        ],
+        [
+            "EDMUND",
+            "To his unnatural purpose, in fell motion,"
+        ],
+        [
+            "EDMUND",
+            "With his prepared sword, he charges home"
+        ],
+        [
+            "EDMUND",
+            "My unprovided body, lanced mine arm:"
+        ],
+        [
+            "EDMUND",
+            "But when he saw my best alarum'd spirits,"
+        ],
+        [
+            "EDMUND",
+            "Bold in the quarrel's right, roused to the encounter,"
+        ],
+        [
+            "EDMUND",
+            "Or whether gasted by the noise I made,"
+        ],
+        [
+            "EDMUND",
+            "Full suddenly he fled."
+        ],
+        [
+            "GLOUCESTER",
+            "Let him fly far:"
+        ],
+        [
+            "GLOUCESTER",
+            "Not in this land shall he remain uncaught;"
+        ],
+        [
+            "GLOUCESTER",
+            "And found--dispatch. The noble duke my master,"
+        ],
+        [
+            "GLOUCESTER",
+            "My worthy arch and patron, comes to-night:"
+        ],
+        [
+            "GLOUCESTER",
+            "By his authority I will proclaim it,"
+        ],
+        [
+            "GLOUCESTER",
+            "That he which finds him shall deserve our thanks,"
+        ],
+        [
+            "GLOUCESTER",
+            "Bringing the murderous coward to the stake;"
+        ],
+        [
+            "GLOUCESTER",
+            "He that conceals him, death."
+        ],
+        [
+            "EDMUND",
+            "When I dissuaded him from his intent,"
+        ],
+        [
+            "EDMUND",
+            "And found him pight to do it, with curst speech"
+        ],
+        [
+            "EDMUND",
+            "I threaten'd to discover him: he replied,"
+        ],
+        [
+            "EDMUND",
+            "'Thou unpossessing bastard! dost thou think,"
+        ],
+        [
+            "EDMUND",
+            "If I would stand against thee, would the reposal"
+        ],
+        [
+            "EDMUND",
+            "Of any trust, virtue, or worth in thee"
+        ],
+        [
+            "EDMUND",
+            "Make thy words faith'd? No: what I should deny,--"
+        ],
+        [
+            "EDMUND",
+            "As this I would: ay, though thou didst produce"
+        ],
+        [
+            "EDMUND",
+            "My very character,--I'ld turn it all"
+        ],
+        [
+            "EDMUND",
+            "To thy suggestion, plot, and damned practise:"
+        ],
+        [
+            "EDMUND",
+            "And thou must make a dullard of the world,"
+        ],
+        [
+            "EDMUND",
+            "If they not thought the profits of my death"
+        ],
+        [
+            "EDMUND",
+            "Were very pregnant and potential spurs"
+        ],
+        [
+            "EDMUND",
+            "To make thee seek it.'"
+        ],
+        [
+            "GLOUCESTER",
+            "Strong and fasten'd villain"
+        ],
+        [
+            "GLOUCESTER",
+            "Would he deny his letter? I never got him.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "GLOUCESTER",
+            "Hark, the duke's trumpets! I know not why he comes.",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "GLOUCESTER",
+            "All ports I'll bar; the villain shall not 'scape;"
+        ],
+        [
+            "GLOUCESTER",
+            "The duke must grant me that: besides, his picture"
+        ],
+        [
+            "GLOUCESTER",
+            "I will send far and near, that all the kingdom"
+        ],
+        [
+            "GLOUCESTER",
+            "May have the due note of him; and of my land,"
+        ],
+        [
+            "GLOUCESTER",
+            "Loyal and natural boy, I'll work the means"
+        ],
+        [
+            "GLOUCESTER",
+            "To make thee capable.",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "CORNWALL",
+            "How now, my noble friend! since I came hither,",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "CORNWALL",
+            "Which I can call but now, I have heard strange news."
+        ],
+        [
+            "REGAN",
+            "If it be true, all vengeance comes too short"
+        ],
+        [
+            "REGAN",
+            "Which can pursue the offender. How dost, my lord?"
+        ],
+        [
+            "GLOUCESTER",
+            "O, madam, my old heart is crack'd, it's crack'd!"
+        ],
+        [
+            "REGAN",
+            "What, did my father's godson seek your life?"
+        ],
+        [
+            "REGAN",
+            "He whom my father named? your Edgar?"
+        ],
+        [
+            "GLOUCESTER",
+            "O, lady, lady, shame would have it hid!"
+        ],
+        [
+            "REGAN",
+            "Was he not companion with the riotous knights"
+        ],
+        [
+            "REGAN",
+            "That tend upon my father?"
+        ],
+        [
+            "GLOUCESTER",
+            "I know not, madam: 'tis too bad, too bad."
+        ],
+        [
+            "EDMUND",
+            "Yes, madam, he was of that consort."
+        ],
+        [
+            "REGAN",
+            "No marvel, then, though he were ill affected:"
+        ],
+        [
+            "REGAN",
+            "'Tis they have put him on the old man's death,"
+        ],
+        [
+            "REGAN",
+            "To have the expense and waste of his revenues."
+        ],
+        [
+            "REGAN",
+            "I have this present evening from my sister"
+        ],
+        [
+            "REGAN",
+            "Been well inform'd of them; and with such cautions,"
+        ],
+        [
+            "REGAN",
+            "That if they come to sojourn at my house,"
+        ],
+        [
+            "REGAN",
+            "I'll not be there."
+        ],
+        [
+            "CORNWALL",
+            "Nor I, assure thee, Regan."
+        ],
+        [
+            "CORNWALL",
+            "Edmund, I hear that you have shown your father"
+        ],
+        [
+            "CORNWALL",
+            "A child-like office."
+        ],
+        [
+            "EDMUND",
+            "'Twas my duty, sir."
+        ],
+        [
+            "GLOUCESTER",
+            "He did bewray his practise; and received"
+        ],
+        [
+            "GLOUCESTER",
+            "This hurt you see, striving to apprehend him."
+        ],
+        [
+            "CORNWALL",
+            "Is he pursued?"
+        ],
+        [
+            "GLOUCESTER",
+            "Ay, my good lord."
+        ],
+        [
+            "CORNWALL",
+            "If he be taken, he shall never more"
+        ],
+        [
+            "CORNWALL",
+            "Be fear'd of doing harm: make your own purpose,"
+        ],
+        [
+            "CORNWALL",
+            "How in my strength you please. For you, Edmund,"
+        ],
+        [
+            "CORNWALL",
+            "Whose virtue and obedience doth this instant"
+        ],
+        [
+            "CORNWALL",
+            "So much commend itself, you shall be ours:"
+        ],
+        [
+            "CORNWALL",
+            "Natures of such deep trust we shall much need;"
+        ],
+        [
+            "CORNWALL",
+            "You we first seize on."
+        ],
+        [
+            "EDMUND",
+            "I shall serve you, sir,"
+        ],
+        [
+            "EDMUND",
+            "Truly, however else."
+        ],
+        [
+            "GLOUCESTER",
+            "For him I thank your grace."
+        ],
+        [
+            "CORNWALL",
+            "You know not why we came to visit you,--"
+        ],
+        [
+            "REGAN",
+            "Thus out of season, threading dark-eyed night:"
+        ],
+        [
+            "REGAN",
+            "Occasions, noble Gloucester, of some poise,"
+        ],
+        [
+            "REGAN",
+            "Wherein we must have use of your advice:"
+        ],
+        [
+            "REGAN",
+            "Our father he hath writ, so hath our sister,"
+        ],
+        [
+            "REGAN",
+            "Of differences, which I least thought it fit"
+        ],
+        [
+            "REGAN",
+            "To answer from our home; the several messengers"
+        ],
+        [
+            "REGAN",
+            "From hence attend dispatch. Our good old friend,"
+        ],
+        [
+            "REGAN",
+            "Lay comforts to your bosom; and bestow"
+        ],
+        [
+            "REGAN",
+            "Your needful counsel to our business,"
+        ],
+        [
+            "REGAN",
+            "Which craves the instant use."
+        ],
+        [
+            "GLOUCESTER",
+            "I serve you, madam:"
+        ],
+        [
+            "GLOUCESTER",
+            "Your graces are right welcome.",
+            {
+                "following_direction_line": "10"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter EDMUND, and CURAN meets him"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter EDGAR"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit EDGAR"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Wounds his arm"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Enter GLOUCESTER, and Servants with torches"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exeunt some Servants"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Tucket within"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Enter CORNWALL, REGAN, and Attendants"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "EDMUND": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "5",
+                "5"
+            ],
+            [
+                "9",
+                "9"
+            ],
+            [
+                "12",
+                "12"
+            ],
+            [
+                "14",
+                "27"
+            ],
+            [
+                "29",
+                "37"
+            ],
+            [
+                "39",
+                "41"
+            ],
+            [
+                "43",
+                "43"
+            ],
+            [
+                "45",
+                "45"
+            ],
+            [
+                "48",
+                "60"
+            ],
+            [
+                "69",
+                "82"
+            ],
+            [
+                "103",
+                "103"
+            ],
+            [
+                "114",
+                "114"
+            ],
+            [
+                "126",
+                "127"
+            ]
+        ],
+        "CURAN": [
+            [
+                "2",
+                "4"
+            ],
+            [
+                "6",
+                "8"
+            ],
+            [
+                "10",
+                "11"
+            ],
+            [
+                "13",
+                "13"
+            ]
+        ],
+        "EDGAR": [
+            [
+                "28",
+                "28"
+            ]
+        ],
+        "GLOUCESTER": [
+            [
+                "38",
+                "38"
+            ],
+            [
+                "42",
+                "42"
+            ],
+            [
+                "44",
+                "44"
+            ],
+            [
+                "46",
+                "47"
+            ],
+            [
+                "61",
+                "68"
+            ],
+            [
+                "83",
+                "91"
+            ],
+            [
+                "96",
+                "96"
+            ],
+            [
+                "99",
+                "99"
+            ],
+            [
+                "102",
+                "102"
+            ],
+            [
+                "115",
+                "116"
+            ],
+            [
+                "118",
+                "118"
+            ],
+            [
+                "128",
+                "128"
+            ],
+            [
+                "140",
+                "141"
+            ]
+        ],
+        "CORNWALL": [
+            [
+                "92",
+                "93"
+            ],
+            [
+                "111",
+                "113"
+            ],
+            [
+                "117",
+                "117"
+            ],
+            [
+                "119",
+                "125"
+            ],
+            [
+                "129",
+                "129"
+            ]
+        ],
+        "REGAN": [
+            [
+                "94",
+                "95"
+            ],
+            [
+                "97",
+                "98"
+            ],
+            [
+                "100",
+                "101"
+            ],
+            [
+                "104",
+                "110"
+            ],
+            [
+                "130",
+                "139"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "GLOUCESTER's castle."
+}

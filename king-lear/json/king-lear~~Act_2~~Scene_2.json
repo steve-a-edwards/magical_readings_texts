@@ -1,0 +1,1082 @@
+{
+    "scene_id": "king lear~~Act_2~~Scene_2",
+    "work_number": "12",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "OSWALD",
+            "Good dawning to thee, friend: art of this house?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "KENT",
+            "Ay."
+        ],
+        [
+            "OSWALD",
+            "Where may we set our horses?"
+        ],
+        [
+            "KENT",
+            "I' the mire."
+        ],
+        [
+            "OSWALD",
+            "Prithee, if thou lovest me, tell me."
+        ],
+        [
+            "KENT",
+            "I love thee not."
+        ],
+        [
+            "OSWALD",
+            "Why, then, I care not for thee."
+        ],
+        [
+            "KENT",
+            "If I had thee in Lipsbury pinfold, I would make thee"
+        ],
+        [
+            "KENT",
+            "care for me."
+        ],
+        [
+            "OSWALD",
+            "Why dost thou use me thus? I know thee not."
+        ],
+        [
+            "KENT",
+            "Fellow, I know thee."
+        ],
+        [
+            "OSWALD",
+            "What dost thou know me for?"
+        ],
+        [
+            "KENT",
+            "A knave; a rascal; an eater of broken meats; a"
+        ],
+        [
+            "KENT",
+            "base, proud, shallow, beggarly, three-suited,"
+        ],
+        [
+            "KENT",
+            "hundred-pound, filthy, worsted-stocking knave; a"
+        ],
+        [
+            "KENT",
+            "lily-livered, action-taking knave, a whoreson,"
+        ],
+        [
+            "KENT",
+            "glass-gazing, super-serviceable finical rogue;"
+        ],
+        [
+            "KENT",
+            "one-trunk-inheriting slave; one that wouldst be a"
+        ],
+        [
+            "KENT",
+            "bawd, in way of good service, and art nothing but"
+        ],
+        [
+            "KENT",
+            "the composition of a knave, beggar, coward, pandar,"
+        ],
+        [
+            "KENT",
+            "and the son and heir of a mongrel bitch: one whom I"
+        ],
+        [
+            "KENT",
+            "will beat into clamorous whining, if thou deniest"
+        ],
+        [
+            "KENT",
+            "the least syllable of thy addition."
+        ],
+        [
+            "OSWALD",
+            "Why, what a monstrous fellow art thou, thus to rail"
+        ],
+        [
+            "OSWALD",
+            "on one that is neither known of thee nor knows thee!"
+        ],
+        [
+            "KENT",
+            "What a brazen-faced varlet art thou, to deny thou"
+        ],
+        [
+            "KENT",
+            "knowest me! Is it two days ago since I tripped up"
+        ],
+        [
+            "KENT",
+            "thy heels, and beat thee before the king? Draw, you"
+        ],
+        [
+            "KENT",
+            "rogue: for, though it be night, yet the moon"
+        ],
+        [
+            "KENT",
+            "shines; I'll make a sop o' the moonshine of you:"
+        ],
+        [
+            "KENT",
+            "draw, you whoreson cullionly barber-monger, draw.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "OSWALD",
+            "Away! I have nothing to do with thee.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "KENT",
+            "Draw, you rascal: you come with letters against the"
+        ],
+        [
+            "KENT",
+            "king; and take vanity the puppet's part against the"
+        ],
+        [
+            "KENT",
+            "royalty of her father: draw, you rogue, or I'll so"
+        ],
+        [
+            "KENT",
+            "carbonado your shanks: draw, you rascal; come your ways."
+        ],
+        [
+            "OSWALD",
+            "Help, ho! murder! help!"
+        ],
+        [
+            "KENT",
+            "Strike, you slave; stand, rogue, stand; you neat"
+        ],
+        [
+            "KENT",
+            "slave, strike.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "OSWALD",
+            "Help, ho! murder! murder!",
+            {
+                "preceding_direction_line": "3"
+            },
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "EDMUND",
+            "How now! What's the matter?",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "KENT",
+            "With you, goodman boy, an you please: come, I'll"
+        ],
+        [
+            "KENT",
+            "flesh ye; come on, young master."
+        ],
+        [
+            "GLOUCESTER",
+            "Weapons! arms! What 's the matter here?"
+        ],
+        [
+            "CORNWALL",
+            "Keep peace, upon your lives:"
+        ],
+        [
+            "CORNWALL",
+            "He dies that strikes again. What is the matter?"
+        ],
+        [
+            "REGAN",
+            "The messengers from our sister and the king."
+        ],
+        [
+            "CORNWALL",
+            "What is your difference? speak."
+        ],
+        [
+            "OSWALD",
+            "I am scarce in breath, my lord."
+        ],
+        [
+            "KENT",
+            "No marvel, you have so bestirred your valour. You"
+        ],
+        [
+            "KENT",
+            "cowardly rascal, nature disclaims in thee: a"
+        ],
+        [
+            "KENT",
+            "tailor made thee."
+        ],
+        [
+            "CORNWALL",
+            "Thou art a strange fellow: a tailor make a man?"
+        ],
+        [
+            "KENT",
+            "Ay, a tailor, sir: a stone-cutter or painter could"
+        ],
+        [
+            "KENT",
+            "not have made him so ill, though he had been but two"
+        ],
+        [
+            "KENT",
+            "hours at the trade."
+        ],
+        [
+            "CORNWALL",
+            "Speak yet, how grew your quarrel?"
+        ],
+        [
+            "OSWALD",
+            "This ancient ruffian, sir, whose life I have spared"
+        ],
+        [
+            "OSWALD",
+            "at suit of his gray beard,--"
+        ],
+        [
+            "KENT",
+            "Thou whoreson zed! thou unnecessary letter! My"
+        ],
+        [
+            "KENT",
+            "lord, if you will give me leave, I will tread this"
+        ],
+        [
+            "KENT",
+            "unbolted villain into mortar, and daub the wall of"
+        ],
+        [
+            "KENT",
+            "a jakes with him. Spare my gray beard, you wagtail?"
+        ],
+        [
+            "CORNWALL",
+            "Peace, sirrah!"
+        ],
+        [
+            "CORNWALL",
+            "You beastly knave, know you no reverence?"
+        ],
+        [
+            "KENT",
+            "Yes, sir; but anger hath a privilege."
+        ],
+        [
+            "CORNWALL",
+            "Why art thou angry?"
+        ],
+        [
+            "KENT",
+            "That such a slave as this should wear a sword,"
+        ],
+        [
+            "KENT",
+            "Who wears no honesty. Such smiling rogues as these,"
+        ],
+        [
+            "KENT",
+            "Like rats, oft bite the holy cords a-twain"
+        ],
+        [
+            "KENT",
+            "Which are too intrinse t' unloose; smooth every passion"
+        ],
+        [
+            "KENT",
+            "That in the natures of their lords rebel;"
+        ],
+        [
+            "KENT",
+            "Bring oil to fire, snow to their colder moods;"
+        ],
+        [
+            "KENT",
+            "Renege, affirm, and turn their halcyon beaks"
+        ],
+        [
+            "KENT",
+            "With every gale and vary of their masters,"
+        ],
+        [
+            "KENT",
+            "Knowing nought, like dogs, but following."
+        ],
+        [
+            "KENT",
+            "A plague upon your epileptic visage!"
+        ],
+        [
+            "KENT",
+            "Smile you my speeches, as I were a fool?"
+        ],
+        [
+            "KENT",
+            "Goose, if I had you upon Sarum plain,"
+        ],
+        [
+            "KENT",
+            "I'ld drive ye cackling home to Camelot."
+        ],
+        [
+            "CORNWALL",
+            "Why, art thou mad, old fellow?"
+        ],
+        [
+            "GLOUCESTER",
+            "How fell you out? say that."
+        ],
+        [
+            "KENT",
+            "No contraries hold more antipathy"
+        ],
+        [
+            "KENT",
+            "Than I and such a knave."
+        ],
+        [
+            "CORNWALL",
+            "Why dost thou call him a knave? What's his offence?"
+        ],
+        [
+            "KENT",
+            "His countenance likes me not."
+        ],
+        [
+            "CORNWALL",
+            "No more, perchance, does mine, nor his, nor hers."
+        ],
+        [
+            "KENT",
+            "Sir, 'tis my occupation to be plain:"
+        ],
+        [
+            "KENT",
+            "I have seen better faces in my time"
+        ],
+        [
+            "KENT",
+            "Than stands on any shoulder that I see"
+        ],
+        [
+            "KENT",
+            "Before me at this instant."
+        ],
+        [
+            "CORNWALL",
+            "This is some fellow,"
+        ],
+        [
+            "CORNWALL",
+            "Who, having been praised for bluntness, doth affect"
+        ],
+        [
+            "CORNWALL",
+            "A saucy roughness, and constrains the garb"
+        ],
+        [
+            "CORNWALL",
+            "Quite from his nature: he cannot flatter, he,"
+        ],
+        [
+            "CORNWALL",
+            "An honest mind and plain, he must speak truth!"
+        ],
+        [
+            "CORNWALL",
+            "An they will take it, so; if not, he's plain."
+        ],
+        [
+            "CORNWALL",
+            "These kind of knaves I know, which in this plainness"
+        ],
+        [
+            "CORNWALL",
+            "Harbour more craft and more corrupter ends"
+        ],
+        [
+            "CORNWALL",
+            "Than twenty silly ducking observants"
+        ],
+        [
+            "CORNWALL",
+            "That stretch their duties nicely."
+        ],
+        [
+            "KENT",
+            "Sir, in good sooth, in sincere verity,"
+        ],
+        [
+            "KENT",
+            "Under the allowance of your great aspect,"
+        ],
+        [
+            "KENT",
+            "Whose influence, like the wreath of radiant fire"
+        ],
+        [
+            "KENT",
+            "On flickering Phoebus' front,--"
+        ],
+        [
+            "CORNWALL",
+            "What mean'st by this?"
+        ],
+        [
+            "KENT",
+            "To go out of my dialect, which you"
+        ],
+        [
+            "KENT",
+            "discommend so much. I know, sir, I am no"
+        ],
+        [
+            "KENT",
+            "flatterer: he that beguiled you in a plain"
+        ],
+        [
+            "KENT",
+            "accent was a plain knave; which for my part"
+        ],
+        [
+            "KENT",
+            "I will not be, though I should win your displeasure"
+        ],
+        [
+            "KENT",
+            "to entreat me to 't."
+        ],
+        [
+            "CORNWALL",
+            "What was the offence you gave him?"
+        ],
+        [
+            "OSWALD",
+            "I never gave him any:"
+        ],
+        [
+            "OSWALD",
+            "It pleased the king his master very late"
+        ],
+        [
+            "OSWALD",
+            "To strike at me, upon his misconstruction;"
+        ],
+        [
+            "OSWALD",
+            "When he, conjunct and flattering his displeasure,"
+        ],
+        [
+            "OSWALD",
+            "Tripp'd me behind; being down, insulted, rail'd,"
+        ],
+        [
+            "OSWALD",
+            "And put upon him such a deal of man,"
+        ],
+        [
+            "OSWALD",
+            "That worthied him, got praises of the king"
+        ],
+        [
+            "OSWALD",
+            "For him attempting who was self-subdued;"
+        ],
+        [
+            "OSWALD",
+            "And, in the fleshment of this dread exploit,"
+        ],
+        [
+            "OSWALD",
+            "Drew on me here again."
+        ],
+        [
+            "KENT",
+            "None of these rogues and cowards"
+        ],
+        [
+            "KENT",
+            "But Ajax is their fool."
+        ],
+        [
+            "CORNWALL",
+            "Fetch forth the stocks!"
+        ],
+        [
+            "CORNWALL",
+            "You stubborn ancient knave, you reverend braggart,"
+        ],
+        [
+            "CORNWALL",
+            "We'll teach you--"
+        ],
+        [
+            "KENT",
+            "Sir, I am too old to learn:"
+        ],
+        [
+            "KENT",
+            "Call not your stocks for me: I serve the king;"
+        ],
+        [
+            "KENT",
+            "On whose employment I was sent to you:"
+        ],
+        [
+            "KENT",
+            "You shall do small respect, show too bold malice"
+        ],
+        [
+            "KENT",
+            "Against the grace and person of my master,"
+        ],
+        [
+            "KENT",
+            "Stocking his messenger."
+        ],
+        [
+            "CORNWALL",
+            "Fetch forth the stocks! As I have life and honour,"
+        ],
+        [
+            "CORNWALL",
+            "There shall he sit till noon."
+        ],
+        [
+            "REGAN",
+            "Till noon! till night, my lord; and all night too."
+        ],
+        [
+            "KENT",
+            "Why, madam, if I were your father's dog,"
+        ],
+        [
+            "KENT",
+            "You should not use me so."
+        ],
+        [
+            "REGAN",
+            "Sir, being his knave, I will."
+        ],
+        [
+            "CORNWALL",
+            "This is a fellow of the self-same colour"
+        ],
+        [
+            "CORNWALL",
+            "Our sister speaks of. Come, bring away the stocks!",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "GLOUCESTER",
+            "Let me beseech your grace not to do so:",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "GLOUCESTER",
+            "His fault is much, and the good king his master"
+        ],
+        [
+            "GLOUCESTER",
+            "Will cheque him for 't: your purposed low correction"
+        ],
+        [
+            "GLOUCESTER",
+            "Is such as basest and contemned'st wretches"
+        ],
+        [
+            "GLOUCESTER",
+            "For pilferings and most common trespasses"
+        ],
+        [
+            "GLOUCESTER",
+            "Are punish'd with: the king must take it ill,"
+        ],
+        [
+            "GLOUCESTER",
+            "That he's so slightly valued in his messenger,"
+        ],
+        [
+            "GLOUCESTER",
+            "Should have him thus restrain'd."
+        ],
+        [
+            "CORNWALL",
+            "I'll answer that."
+        ],
+        [
+            "REGAN",
+            "My sister may receive it much more worse,"
+        ],
+        [
+            "REGAN",
+            "To have her gentleman abused, assaulted,"
+        ],
+        [
+            "REGAN",
+            "For following her affairs. Put in his legs.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "REGAN",
+            "Come, my good lord, away.",
+            {
+                "preceding_direction_line": "6"
+            },
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "GLOUCESTER",
+            "I am sorry for thee, friend; 'tis the duke's pleasure,",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "GLOUCESTER",
+            "Whose disposition, all the world well knows,"
+        ],
+        [
+            "GLOUCESTER",
+            "Will not be rubb'd nor stopp'd: I'll entreat for thee."
+        ],
+        [
+            "KENT",
+            "Pray, do not, sir: I have watched and travell'd hard;"
+        ],
+        [
+            "KENT",
+            "Some time I shall sleep out, the rest I'll whistle."
+        ],
+        [
+            "KENT",
+            "A good man's fortune may grow out at heels:"
+        ],
+        [
+            "KENT",
+            "Give you good morrow!"
+        ],
+        [
+            "GLOUCESTER",
+            "The duke's to blame in this; 'twill be ill taken.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "KENT",
+            "Good king, that must approve the common saw,",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "KENT",
+            "Thou out of heaven's benediction comest"
+        ],
+        [
+            "KENT",
+            "To the warm sun!"
+        ],
+        [
+            "KENT",
+            "Approach, thou beacon to this under globe,"
+        ],
+        [
+            "KENT",
+            "That by thy comfortable beams I may"
+        ],
+        [
+            "KENT",
+            "Peruse this letter! Nothing almost sees miracles"
+        ],
+        [
+            "KENT",
+            "But misery: I know 'tis from Cordelia,"
+        ],
+        [
+            "KENT",
+            "Who hath most fortunately been inform'd"
+        ],
+        [
+            "KENT",
+            "Of my obscured course; and shall find time"
+        ],
+        [
+            "KENT",
+            "From this enormous state, seeking to give"
+        ],
+        [
+            "KENT",
+            "Losses their remedies. All weary and o'erwatch'd,"
+        ],
+        [
+            "KENT",
+            "Take vantage, heavy eyes, not to behold"
+        ],
+        [
+            "KENT",
+            "This shameful lodging."
+        ],
+        [
+            "KENT",
+            "Fortune, good night: smile once more: turn thy wheel!",
+            {
+                "following_direction_line": "9"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter KENT and OSWALD, severally"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Drawing his sword"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Beating him"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter EDMUND, with his rapier drawn, CORNWALL, REGAN, GLOUCESTER, and Servants"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Stocks brought out"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "KENT is put in the stocks"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exeunt all but GLOUCESTER and KENT"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Sleeps"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "OSWALD": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "3"
+            ],
+            [
+                "5",
+                "5"
+            ],
+            [
+                "7",
+                "7"
+            ],
+            [
+                "10",
+                "10"
+            ],
+            [
+                "12",
+                "12"
+            ],
+            [
+                "24",
+                "25"
+            ],
+            [
+                "32",
+                "32"
+            ],
+            [
+                "37",
+                "37"
+            ],
+            [
+                "40",
+                "40"
+            ],
+            [
+                "49",
+                "49"
+            ],
+            [
+                "58",
+                "59"
+            ],
+            [
+                "114",
+                "123"
+            ]
+        ],
+        "KENT": [
+            [
+                "2",
+                "2"
+            ],
+            [
+                "4",
+                "4"
+            ],
+            [
+                "6",
+                "6"
+            ],
+            [
+                "8",
+                "9"
+            ],
+            [
+                "11",
+                "11"
+            ],
+            [
+                "13",
+                "23"
+            ],
+            [
+                "26",
+                "31"
+            ],
+            [
+                "33",
+                "36"
+            ],
+            [
+                "38",
+                "39"
+            ],
+            [
+                "42",
+                "43"
+            ],
+            [
+                "50",
+                "52"
+            ],
+            [
+                "54",
+                "56"
+            ],
+            [
+                "60",
+                "63"
+            ],
+            [
+                "66",
+                "66"
+            ],
+            [
+                "68",
+                "80"
+            ],
+            [
+                "83",
+                "84"
+            ],
+            [
+                "86",
+                "86"
+            ],
+            [
+                "88",
+                "91"
+            ],
+            [
+                "102",
+                "105"
+            ],
+            [
+                "107",
+                "112"
+            ],
+            [
+                "124",
+                "125"
+            ],
+            [
+                "129",
+                "134"
+            ],
+            [
+                "138",
+                "139"
+            ],
+            [
+                "159",
+                "162"
+            ],
+            [
+                "164",
+                "177"
+            ]
+        ],
+        "EDMUND": [
+            [
+                "41",
+                "41"
+            ]
+        ],
+        "GLOUCESTER": [
+            [
+                "44",
+                "44"
+            ],
+            [
+                "82",
+                "82"
+            ],
+            [
+                "143",
+                "150"
+            ],
+            [
+                "156",
+                "158"
+            ],
+            [
+                "163",
+                "163"
+            ]
+        ],
+        "CORNWALL": [
+            [
+                "45",
+                "46"
+            ],
+            [
+                "48",
+                "48"
+            ],
+            [
+                "53",
+                "53"
+            ],
+            [
+                "57",
+                "57"
+            ],
+            [
+                "64",
+                "65"
+            ],
+            [
+                "67",
+                "67"
+            ],
+            [
+                "81",
+                "81"
+            ],
+            [
+                "85",
+                "85"
+            ],
+            [
+                "87",
+                "87"
+            ],
+            [
+                "92",
+                "101"
+            ],
+            [
+                "106",
+                "106"
+            ],
+            [
+                "113",
+                "113"
+            ],
+            [
+                "126",
+                "128"
+            ],
+            [
+                "135",
+                "136"
+            ],
+            [
+                "141",
+                "142"
+            ],
+            [
+                "151",
+                "151"
+            ]
+        ],
+        "REGAN": [
+            [
+                "47",
+                "47"
+            ],
+            [
+                "137",
+                "137"
+            ],
+            [
+                "140",
+                "140"
+            ],
+            [
+                "152",
+                "155"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "Before Gloucester's castle."
+}

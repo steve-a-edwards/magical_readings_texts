@@ -1,0 +1,761 @@
+{
+    "scene_id": "king lear~~Act_3~~Scene_6",
+    "work_number": "12",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "GLOUCESTER",
+            "Here is better than the open air; take it",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "GLOUCESTER",
+            "thankfully. I will piece out the comfort with what"
+        ],
+        [
+            "GLOUCESTER",
+            "addition I can: I will not be long from you."
+        ],
+        [
+            "KENT",
+            "All the power of his wits have given way to his"
+        ],
+        [
+            "KENT",
+            "impatience: the gods reward your kindness!",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "EDGAR",
+            "Frateretto calls me; and tells me",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "EDGAR",
+            "Nero is an angler in the lake of darkness."
+        ],
+        [
+            "EDGAR",
+            "Pray, innocent, and beware the foul fiend."
+        ],
+        [
+            "Fool",
+            "Prithee, nuncle, tell me whether a madman be a"
+        ],
+        [
+            "Fool",
+            "gentleman or a yeoman?"
+        ],
+        [
+            "KING LEAR",
+            "A king, a king!"
+        ],
+        [
+            "Fool",
+            "No, he's a yeoman that has a gentleman to his son;"
+        ],
+        [
+            "Fool",
+            "for he's a mad yeoman that sees his son a gentleman"
+        ],
+        [
+            "Fool",
+            "before him."
+        ],
+        [
+            "KING LEAR",
+            "To have a thousand with red burning spits"
+        ],
+        [
+            "KING LEAR",
+            "Come hissing in upon 'em,--"
+        ],
+        [
+            "EDGAR",
+            "The foul fiend bites my back."
+        ],
+        [
+            "Fool",
+            "He's mad that trusts in the tameness of a wolf, a"
+        ],
+        [
+            "Fool",
+            "horse's health, a boy's love, or a whore's oath."
+        ],
+        [
+            "KING LEAR",
+            "It shall be done; I will arraign them straight.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "KING LEAR",
+            "Come, sit thou here, most learned justicer;",
+            {
+                "preceding_direction_line": "3"
+            },
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "KING LEAR",
+            "Thou, sapient sir, sit here. Now, you she foxes!",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "EDGAR",
+            "Look, where he stands and glares!"
+        ],
+        [
+            "EDGAR",
+            "Wantest thou eyes at trial, madam?"
+        ],
+        [
+            "EDGAR",
+            "Come o'er the bourn, Bessy, to me,--"
+        ],
+        [
+            "Fool",
+            "Her boat hath a leak,"
+        ],
+        [
+            "Fool",
+            "And she must not speak"
+        ],
+        [
+            "Fool",
+            "Why she dares not come over to thee."
+        ],
+        [
+            "EDGAR",
+            "The foul fiend haunts poor Tom in the voice of a"
+        ],
+        [
+            "EDGAR",
+            "nightingale. Hopdance cries in Tom's belly for two"
+        ],
+        [
+            "EDGAR",
+            "white herring. Croak not, black angel; I have no"
+        ],
+        [
+            "EDGAR",
+            "food for thee."
+        ],
+        [
+            "KENT",
+            "How do you, sir? Stand you not so amazed:"
+        ],
+        [
+            "KENT",
+            "Will you lie down and rest upon the cushions?"
+        ],
+        [
+            "KING LEAR",
+            "I'll see their trial first. Bring in the evidence.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "KING LEAR",
+            "Thou robed man of justice, take thy place;",
+            {
+                "preceding_direction_line": "5"
+            },
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "KING LEAR",
+            "And thou, his yoke-fellow of equity,",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "KING LEAR",
+            "Bench by his side:",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "KING LEAR",
+            "you are o' the commission,",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "KING LEAR",
+            "Sit you too."
+        ],
+        [
+            "EDGAR",
+            "Let us deal justly."
+        ],
+        [
+            "EDGAR",
+            "Sleepest or wakest thou, jolly shepherd?"
+        ],
+        [
+            "EDGAR",
+            "Thy sheep be in the corn;"
+        ],
+        [
+            "EDGAR",
+            "And for one blast of thy minikin mouth,"
+        ],
+        [
+            "EDGAR",
+            "Thy sheep shall take no harm."
+        ],
+        [
+            "EDGAR",
+            "Pur! the cat is gray."
+        ],
+        [
+            "KING LEAR",
+            "Arraign her first; 'tis Goneril. I here take my"
+        ],
+        [
+            "KING LEAR",
+            "oath before this honourable assembly, she kicked the"
+        ],
+        [
+            "KING LEAR",
+            "poor king her father."
+        ],
+        [
+            "Fool",
+            "Come hither, mistress. Is your name Goneril?"
+        ],
+        [
+            "KING LEAR",
+            "She cannot deny it."
+        ],
+        [
+            "Fool",
+            "Cry you mercy, I took you for a joint-stool."
+        ],
+        [
+            "KING LEAR",
+            "And here's another, whose warp'd looks proclaim"
+        ],
+        [
+            "KING LEAR",
+            "What store her heart is made on. Stop her there!"
+        ],
+        [
+            "KING LEAR",
+            "Arms, arms, sword, fire! Corruption in the place!"
+        ],
+        [
+            "KING LEAR",
+            "False justicer, why hast thou let her 'scape?"
+        ],
+        [
+            "EDGAR",
+            "Bless thy five wits!"
+        ],
+        [
+            "KENT",
+            "O pity! Sir, where is the patience now,"
+        ],
+        [
+            "KENT",
+            "That thou so oft have boasted to retain?"
+        ],
+        [
+            "EDGAR",
+            "[Aside] My tears begin to take his part so much,"
+        ],
+        [
+            "EDGAR",
+            "They'll mar my counterfeiting."
+        ],
+        [
+            "KING LEAR",
+            "The little dogs and all, Tray, Blanch, and"
+        ],
+        [
+            "KING LEAR",
+            "Sweet-heart, see, they bark at me."
+        ],
+        [
+            "EDGAR",
+            "Tom will throw his head at them. Avaunt, you curs!"
+        ],
+        [
+            "EDGAR",
+            "Be thy mouth or black or white,"
+        ],
+        [
+            "EDGAR",
+            "Tooth that poisons if it bite;"
+        ],
+        [
+            "EDGAR",
+            "Mastiff, grey-hound, mongrel grim,"
+        ],
+        [
+            "EDGAR",
+            "Hound or spaniel, brach or lym,"
+        ],
+        [
+            "EDGAR",
+            "Or bobtail tike or trundle-tail,"
+        ],
+        [
+            "EDGAR",
+            "Tom will make them weep and wail:"
+        ],
+        [
+            "EDGAR",
+            "For, with throwing thus my head,"
+        ],
+        [
+            "EDGAR",
+            "Dogs leap the hatch, and all are fled."
+        ],
+        [
+            "EDGAR",
+            "Do de, de, de. Sessa! Come, march to wakes and"
+        ],
+        [
+            "EDGAR",
+            "fairs and market-towns. Poor Tom, thy horn is dry."
+        ],
+        [
+            "KING LEAR",
+            "Then let them anatomize Regan; see what breeds"
+        ],
+        [
+            "KING LEAR",
+            "about her heart. Is there any cause in nature that"
+        ],
+        [
+            "KING LEAR",
+            "makes these hard hearts?",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "KING LEAR",
+            "You, sir, I entertain for one of my hundred; only I",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "KING LEAR",
+            "do not like the fashion of your garments: you will"
+        ],
+        [
+            "KING LEAR",
+            "say they are Persian attire: but let them be changed."
+        ],
+        [
+            "KENT",
+            "Now, good my lord, lie here and rest awhile."
+        ],
+        [
+            "KING LEAR",
+            "Make no noise, make no noise; draw the curtains:"
+        ],
+        [
+            "KING LEAR",
+            "so, so, so. We'll go to supper i' he morning. So, so, so."
+        ],
+        [
+            "Fool",
+            "And I'll go to bed at noon.",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "GLOUCESTER",
+            "Come hither, friend: where is the king my master?",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "KENT",
+            "Here, sir; but trouble him not, his wits are gone."
+        ],
+        [
+            "GLOUCESTER",
+            "Good friend, I prithee, take him in thy arms;"
+        ],
+        [
+            "GLOUCESTER",
+            "I have o'erheard a plot of death upon him:"
+        ],
+        [
+            "GLOUCESTER",
+            "There is a litter ready; lay him in 't,"
+        ],
+        [
+            "GLOUCESTER",
+            "And drive towards Dover, friend, where thou shalt meet"
+        ],
+        [
+            "GLOUCESTER",
+            "Both welcome and protection. Take up thy master:"
+        ],
+        [
+            "GLOUCESTER",
+            "If thou shouldst dally half an hour, his life,"
+        ],
+        [
+            "GLOUCESTER",
+            "With thine, and all that offer to defend him,"
+        ],
+        [
+            "GLOUCESTER",
+            "Stand in assured loss: take up, take up;"
+        ],
+        [
+            "GLOUCESTER",
+            "And follow me, that will to some provision"
+        ],
+        [
+            "GLOUCESTER",
+            "Give thee quick conduct."
+        ],
+        [
+            "KENT",
+            "Oppressed nature sleeps:"
+        ],
+        [
+            "KENT",
+            "This rest might yet have balm'd thy broken senses,"
+        ],
+        [
+            "KENT",
+            "Which, if convenience will not allow,"
+        ],
+        [
+            "KENT",
+            "Stand in hard cure.",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "KENT",
+            "Come, help to bear thy master;",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "KENT",
+            "Thou must not stay behind."
+        ],
+        [
+            "GLOUCESTER",
+            "Come, come, away.",
+            {
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "EDGAR",
+            "When we our betters see bearing our woes,",
+            {
+                "preceding_direction_line": "11"
+            }
+        ],
+        [
+            "EDGAR",
+            "We scarcely think our miseries our foes."
+        ],
+        [
+            "EDGAR",
+            "Who alone suffers suffers most i' the mind,"
+        ],
+        [
+            "EDGAR",
+            "Leaving free things and happy shows behind:"
+        ],
+        [
+            "EDGAR",
+            "But then the mind much sufferance doth o'er skip,"
+        ],
+        [
+            "EDGAR",
+            "When grief hath mates, and bearing fellowship."
+        ],
+        [
+            "EDGAR",
+            "How light and portable my pain seems now,"
+        ],
+        [
+            "EDGAR",
+            "When that which makes me bend makes the king bow,"
+        ],
+        [
+            "EDGAR",
+            "He childed as I father'd! Tom, away!"
+        ],
+        [
+            "EDGAR",
+            "Mark the high noises; and thyself bewray,"
+        ],
+        [
+            "EDGAR",
+            "When false opinion, whose wrong thought defiles thee,"
+        ],
+        [
+            "EDGAR",
+            "In thy just proof, repeals and reconciles thee."
+        ],
+        [
+            "EDGAR",
+            "What will hap more to-night, safe 'scape the king!"
+        ],
+        [
+            "EDGAR",
+            "Lurk, lurk.",
+            {
+                "following_direction_line": "12"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter GLOUCESTER, KING LEAR, KENT, Fool, and EDGAR"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit GLOUCESTER"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "To EDGAR"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "To the Fool"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "To EDGAR"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "To the Fool"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "To KENT"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "To EDGAR"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Re-enter GLOUCESTER"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "To the Fool"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "Exeunt all but EDGAR"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "GLOUCESTER": [
+            [
+                "1",
+                "3"
+            ],
+            [
+                "85",
+                "85"
+            ],
+            [
+                "87",
+                "96"
+            ],
+            [
+                "103",
+                "103"
+            ]
+        ],
+        "KENT": [
+            [
+                "4",
+                "5"
+            ],
+            [
+                "33",
+                "34"
+            ],
+            [
+                "58",
+                "59"
+            ],
+            [
+                "81",
+                "81"
+            ],
+            [
+                "86",
+                "86"
+            ],
+            [
+                "97",
+                "102"
+            ]
+        ],
+        "EDGAR": [
+            [
+                "6",
+                "8"
+            ],
+            [
+                "17",
+                "17"
+            ],
+            [
+                "23",
+                "25"
+            ],
+            [
+                "29",
+                "32"
+            ],
+            [
+                "41",
+                "46"
+            ],
+            [
+                "57",
+                "57"
+            ],
+            [
+                "60",
+                "61"
+            ],
+            [
+                "64",
+                "74"
+            ],
+            [
+                "104",
+                "117"
+            ]
+        ],
+        "Fool": [
+            [
+                "9",
+                "10"
+            ],
+            [
+                "12",
+                "14"
+            ],
+            [
+                "18",
+                "19"
+            ],
+            [
+                "26",
+                "28"
+            ],
+            [
+                "50",
+                "50"
+            ],
+            [
+                "52",
+                "52"
+            ],
+            [
+                "84",
+                "84"
+            ]
+        ],
+        "KING LEAR": [
+            [
+                "11",
+                "11"
+            ],
+            [
+                "15",
+                "16"
+            ],
+            [
+                "20",
+                "22"
+            ],
+            [
+                "35",
+                "40"
+            ],
+            [
+                "47",
+                "49"
+            ],
+            [
+                "51",
+                "51"
+            ],
+            [
+                "53",
+                "56"
+            ],
+            [
+                "62",
+                "63"
+            ],
+            [
+                "75",
+                "80"
+            ],
+            [
+                "82",
+                "83"
+            ]
+        ]
+    },
+    "scene_name": "SCENE VI",
+    "scene_description": "A chamber in a farmhouse adjoining the castle."
+}

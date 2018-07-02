@@ -1,0 +1,160 @@
+{
+    "scene_id": "king lear~~Act_3~~Scene_3",
+    "work_number": "12",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "GLOUCESTER",
+            "Alack, alack, Edmund, I like not this unnatural",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "GLOUCESTER",
+            "dealing. When I desire their leave that I might"
+        ],
+        [
+            "GLOUCESTER",
+            "pity him, they took from me the use of mine own"
+        ],
+        [
+            "GLOUCESTER",
+            "house; charged me, on pain of their perpetual"
+        ],
+        [
+            "GLOUCESTER",
+            "displeasure, neither to speak of him, entreat for"
+        ],
+        [
+            "GLOUCESTER",
+            "him, nor any way sustain him."
+        ],
+        [
+            "EDMUND",
+            "Most savage and unnatural!"
+        ],
+        [
+            "GLOUCESTER",
+            "Go to; say you nothing. There's a division betwixt"
+        ],
+        [
+            "GLOUCESTER",
+            "the dukes; and a worse matter than that: I have"
+        ],
+        [
+            "GLOUCESTER",
+            "received a letter this night; 'tis dangerous to be"
+        ],
+        [
+            "GLOUCESTER",
+            "spoken; I have locked the letter in my closet:"
+        ],
+        [
+            "GLOUCESTER",
+            "these injuries the king now bears will be revenged"
+        ],
+        [
+            "GLOUCESTER",
+            "home; there's part of a power already footed: we"
+        ],
+        [
+            "GLOUCESTER",
+            "must incline to the king. I will seek him, and"
+        ],
+        [
+            "GLOUCESTER",
+            "privily relieve him: go you and maintain talk with"
+        ],
+        [
+            "GLOUCESTER",
+            "the duke, that my charity be not of him perceived:"
+        ],
+        [
+            "GLOUCESTER",
+            "if he ask for me. I am ill, and gone to bed."
+        ],
+        [
+            "GLOUCESTER",
+            "Though I die for it, as no less is threatened me,"
+        ],
+        [
+            "GLOUCESTER",
+            "the king my old master must be relieved. There is"
+        ],
+        [
+            "GLOUCESTER",
+            "some strange thing toward, Edmund; pray you, be careful.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "EDMUND",
+            "This courtesy, forbid thee, shall the duke",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "EDMUND",
+            "Instantly know; and of that letter too:"
+        ],
+        [
+            "EDMUND",
+            "This seems a fair deserving, and must draw me"
+        ],
+        [
+            "EDMUND",
+            "That which my father loses; no less than all:"
+        ],
+        [
+            "EDMUND",
+            "The younger rises when the old doth fall.",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter GLOUCESTER and EDMUND"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "GLOUCESTER": [
+            [
+                "1",
+                "6"
+            ],
+            [
+                "8",
+                "20"
+            ]
+        ],
+        "EDMUND": [
+            [
+                "7",
+                "7"
+            ],
+            [
+                "21",
+                "25"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "Gloucester's castle."
+}

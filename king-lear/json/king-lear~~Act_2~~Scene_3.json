@@ -1,0 +1,119 @@
+{
+    "scene_id": "king lear~~Act_2~~Scene_3",
+    "work_number": "12",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "EDGAR",
+            "I heard myself proclaim'd;",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "EDGAR",
+            "And by the happy hollow of a tree"
+        ],
+        [
+            "EDGAR",
+            "Escaped the hunt. No port is free; no place,"
+        ],
+        [
+            "EDGAR",
+            "That guard, and most unusual vigilance,"
+        ],
+        [
+            "EDGAR",
+            "Does not attend my taking. Whiles I may 'scape,"
+        ],
+        [
+            "EDGAR",
+            "I will preserve myself: and am bethought"
+        ],
+        [
+            "EDGAR",
+            "To take the basest and most poorest shape"
+        ],
+        [
+            "EDGAR",
+            "That ever penury, in contempt of man,"
+        ],
+        [
+            "EDGAR",
+            "Brought near to beast: my face I'll grime with filth;"
+        ],
+        [
+            "EDGAR",
+            "Blanket my loins: elf all my hair in knots;"
+        ],
+        [
+            "EDGAR",
+            "And with presented nakedness out-face"
+        ],
+        [
+            "EDGAR",
+            "The winds and persecutions of the sky."
+        ],
+        [
+            "EDGAR",
+            "The country gives me proof and precedent"
+        ],
+        [
+            "EDGAR",
+            "Of Bedlam beggars, who, with roaring voices,"
+        ],
+        [
+            "EDGAR",
+            "Strike in their numb'd and mortified bare arms"
+        ],
+        [
+            "EDGAR",
+            "Pins, wooden pricks, nails, sprigs of rosemary;"
+        ],
+        [
+            "EDGAR",
+            "And with this horrible object, from low farms,"
+        ],
+        [
+            "EDGAR",
+            "Poor pelting villages, sheep-cotes, and mills,"
+        ],
+        [
+            "EDGAR",
+            "Sometime with lunatic bans, sometime with prayers,"
+        ],
+        [
+            "EDGAR",
+            "Enforce their charity. Poor Turlygod! poor Tom!"
+        ],
+        [
+            "EDGAR",
+            "That's something yet: Edgar I nothing am.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter EDGAR"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "EDGAR": [
+            [
+                "1",
+                "21"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "A wood."
+}

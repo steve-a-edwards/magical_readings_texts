@@ -1,0 +1,367 @@
+{
+    "scene_id": "king lear~~Act_1~~Scene_5",
+    "work_number": "12",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "KING LEAR",
+            "Go you before to Gloucester with these letters.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "KING LEAR",
+            "Acquaint my daughter no further with any thing you"
+        ],
+        [
+            "KING LEAR",
+            "know than comes from her demand out of the letter."
+        ],
+        [
+            "KING LEAR",
+            "If your diligence be not speedy, I shall be there afore you."
+        ],
+        [
+            "KENT",
+            "I will not sleep, my lord, till I have delivered"
+        ],
+        [
+            "KENT",
+            "your letter.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "Fool",
+            "If a man's brains were in's heels, were't not in",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "Fool",
+            "danger of kibes?"
+        ],
+        [
+            "KING LEAR",
+            "Ay, boy."
+        ],
+        [
+            "Fool",
+            "Then, I prithee, be merry; thy wit shall ne'er go"
+        ],
+        [
+            "Fool",
+            "slip-shod."
+        ],
+        [
+            "KING LEAR",
+            "Ha, ha, ha!"
+        ],
+        [
+            "Fool",
+            "Shalt see thy other daughter will use thee kindly;"
+        ],
+        [
+            "Fool",
+            "for though she's as like this as a crab's like an"
+        ],
+        [
+            "Fool",
+            "apple, yet I can tell what I can tell."
+        ],
+        [
+            "KING LEAR",
+            "Why, what canst thou tell, my boy?"
+        ],
+        [
+            "Fool",
+            "She will taste as like this as a crab does to a"
+        ],
+        [
+            "Fool",
+            "crab. Thou canst tell why one's nose stands i'"
+        ],
+        [
+            "Fool",
+            "the middle on's face?"
+        ],
+        [
+            "KING LEAR",
+            "No."
+        ],
+        [
+            "Fool",
+            "Why, to keep one's eyes of either side's nose; that"
+        ],
+        [
+            "Fool",
+            "what a man cannot smell out, he may spy into."
+        ],
+        [
+            "KING LEAR",
+            "I did her wrong--"
+        ],
+        [
+            "Fool",
+            "Canst tell how an oyster makes his shell?"
+        ],
+        [
+            "KING LEAR",
+            "No."
+        ],
+        [
+            "Fool",
+            "Nor I neither; but I can tell why a snail has a house."
+        ],
+        [
+            "KING LEAR",
+            "Why?"
+        ],
+        [
+            "Fool",
+            "Why, to put his head in; not to give it away to his"
+        ],
+        [
+            "Fool",
+            "daughters, and leave his horns without a case."
+        ],
+        [
+            "KING LEAR",
+            "I will forget my nature. So kind a father! Be my"
+        ],
+        [
+            "KING LEAR",
+            "horses ready?"
+        ],
+        [
+            "Fool",
+            "Thy asses are gone about 'em. The reason why the"
+        ],
+        [
+            "Fool",
+            "seven stars are no more than seven is a pretty reason."
+        ],
+        [
+            "KING LEAR",
+            "Because they are not eight?"
+        ],
+        [
+            "Fool",
+            "Yes, indeed: thou wouldst make a good fool."
+        ],
+        [
+            "KING LEAR",
+            "To take 't again perforce! Monster ingratitude!"
+        ],
+        [
+            "Fool",
+            "If thou wert my fool, nuncle, I'ld have thee beaten"
+        ],
+        [
+            "Fool",
+            "for being old before thy time."
+        ],
+        [
+            "KING LEAR",
+            "How's that?"
+        ],
+        [
+            "Fool",
+            "Thou shouldst not have been old till thou hadst"
+        ],
+        [
+            "Fool",
+            "been wise."
+        ],
+        [
+            "KING LEAR",
+            "O, let me not be mad, not mad, sweet heaven"
+        ],
+        [
+            "KING LEAR",
+            "Keep me in temper: I would not be mad!",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "KING LEAR",
+            "How now! are the horses ready?",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "Gentleman",
+            "Ready, my lord."
+        ],
+        [
+            "KING LEAR",
+            "Come, boy."
+        ],
+        [
+            "Fool",
+            "She that's a maid now, and laughs at my departure,"
+        ],
+        [
+            "Fool",
+            "Shall not be a maid long, unless things be cut shorter.",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter KING LEAR, KENT, and Fool"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter Gentleman"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "KING LEAR": [
+            [
+                "1",
+                "4"
+            ],
+            [
+                "9",
+                "9"
+            ],
+            [
+                "12",
+                "12"
+            ],
+            [
+                "16",
+                "16"
+            ],
+            [
+                "20",
+                "20"
+            ],
+            [
+                "23",
+                "23"
+            ],
+            [
+                "25",
+                "25"
+            ],
+            [
+                "27",
+                "27"
+            ],
+            [
+                "30",
+                "31"
+            ],
+            [
+                "34",
+                "34"
+            ],
+            [
+                "36",
+                "36"
+            ],
+            [
+                "39",
+                "39"
+            ],
+            [
+                "42",
+                "44"
+            ],
+            [
+                "46",
+                "46"
+            ]
+        ],
+        "KENT": [
+            [
+                "5",
+                "6"
+            ]
+        ],
+        "Fool": [
+            [
+                "7",
+                "8"
+            ],
+            [
+                "10",
+                "11"
+            ],
+            [
+                "13",
+                "15"
+            ],
+            [
+                "17",
+                "19"
+            ],
+            [
+                "21",
+                "22"
+            ],
+            [
+                "24",
+                "24"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "28",
+                "29"
+            ],
+            [
+                "32",
+                "33"
+            ],
+            [
+                "35",
+                "35"
+            ],
+            [
+                "37",
+                "38"
+            ],
+            [
+                "40",
+                "41"
+            ],
+            [
+                "47",
+                "48"
+            ]
+        ],
+        "Gentleman": [
+            [
+                "45",
+                "45"
+            ]
+        ]
+    },
+    "scene_name": "SCENE V",
+    "scene_description": "Court before the same."
+}

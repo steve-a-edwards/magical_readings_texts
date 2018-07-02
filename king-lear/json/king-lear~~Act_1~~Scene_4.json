@@ -1,0 +1,2206 @@
+{
+    "scene_id": "king lear~~Act_1~~Scene_4",
+    "work_number": "12",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "KENT",
+            "If but as well I other accents borrow,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "KENT",
+            "That can my speech defuse, my good intent"
+        ],
+        [
+            "KENT",
+            "May carry through itself to that full issue"
+        ],
+        [
+            "KENT",
+            "For which I razed my likeness. Now, banish'd Kent,"
+        ],
+        [
+            "KENT",
+            "If thou canst serve where thou dost stand condemn'd,"
+        ],
+        [
+            "KENT",
+            "So may it come, thy master, whom thou lovest,"
+        ],
+        [
+            "KENT",
+            "Shall find thee full of labours.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "KING LEAR",
+            "Let me not stay a jot for dinner; go get it ready.",
+            {
+                "preceding_direction_line": "2"
+            },
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "KING LEAR",
+            "How now! what art thou?",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "KENT",
+            "A man, sir."
+        ],
+        [
+            "KING LEAR",
+            "What dost thou profess? what wouldst thou with us?"
+        ],
+        [
+            "KENT",
+            "I do profess to be no less than I seem; to serve"
+        ],
+        [
+            "KENT",
+            "him truly that will put me in trust: to love him"
+        ],
+        [
+            "KENT",
+            "that is honest; to converse with him that is wise,"
+        ],
+        [
+            "KENT",
+            "and says little; to fear judgment; to fight when I"
+        ],
+        [
+            "KENT",
+            "cannot choose; and to eat no fish."
+        ],
+        [
+            "KING LEAR",
+            "What art thou?"
+        ],
+        [
+            "KENT",
+            "A very honest-hearted fellow, and as poor as the king."
+        ],
+        [
+            "KING LEAR",
+            "If thou be as poor for a subject as he is for a"
+        ],
+        [
+            "KING LEAR",
+            "king, thou art poor enough. What wouldst thou?"
+        ],
+        [
+            "KENT",
+            "Service."
+        ],
+        [
+            "KING LEAR",
+            "Who wouldst thou serve?"
+        ],
+        [
+            "KENT",
+            "You."
+        ],
+        [
+            "KING LEAR",
+            "Dost thou know me, fellow?"
+        ],
+        [
+            "KENT",
+            "No, sir; but you have that in your countenance"
+        ],
+        [
+            "KENT",
+            "which I would fain call master."
+        ],
+        [
+            "KING LEAR",
+            "What's that?"
+        ],
+        [
+            "KENT",
+            "Authority."
+        ],
+        [
+            "KING LEAR",
+            "What services canst thou do?"
+        ],
+        [
+            "KENT",
+            "I can keep honest counsel, ride, run, mar a curious"
+        ],
+        [
+            "KENT",
+            "tale in telling it, and deliver a plain message"
+        ],
+        [
+            "KENT",
+            "bluntly: that which ordinary men are fit for, I am"
+        ],
+        [
+            "KENT",
+            "qualified in; and the best of me is diligence."
+        ],
+        [
+            "KING LEAR",
+            "How old art thou?"
+        ],
+        [
+            "KENT",
+            "Not so young, sir, to love a woman for singing, nor"
+        ],
+        [
+            "KENT",
+            "so old to dote on her for any thing: I have years"
+        ],
+        [
+            "KENT",
+            "on my back forty eight."
+        ],
+        [
+            "KING LEAR",
+            "Follow me; thou shalt serve me: if I like thee no"
+        ],
+        [
+            "KING LEAR",
+            "worse after dinner, I will not part from thee yet."
+        ],
+        [
+            "KING LEAR",
+            "Dinner, ho, dinner! Where's my knave? my fool?"
+        ],
+        [
+            "KING LEAR",
+            "Go you, and call my fool hither.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "KING LEAR",
+            "You, you, sirrah, where's my daughter?",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "OSWALD",
+            "So please you,--",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "KING LEAR",
+            "What says the fellow there? Call the clotpoll back.",
+            {
+                "preceding_direction_line": "5"
+            },
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "KING LEAR",
+            "Where's my fool, ho? I think the world's asleep.",
+            {
+                "preceding_direction_line": "6"
+            },
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "KING LEAR",
+            "How now! where's that mongrel?",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "Knight",
+            "He says, my lord, your daughter is not well."
+        ],
+        [
+            "KING LEAR",
+            "Why came not the slave back to me when I called him."
+        ],
+        [
+            "Knight",
+            "Sir, he answered me in the roundest manner, he would"
+        ],
+        [
+            "Knight",
+            "not."
+        ],
+        [
+            "KING LEAR",
+            "He would not!"
+        ],
+        [
+            "Knight",
+            "My lord, I know not what the matter is; but, to my"
+        ],
+        [
+            "Knight",
+            "judgment, your highness is not entertained with that"
+        ],
+        [
+            "Knight",
+            "ceremonious affection as you were wont; there's a"
+        ],
+        [
+            "Knight",
+            "great abatement of kindness appears as well in the"
+        ],
+        [
+            "Knight",
+            "general dependants as in the duke himself also and"
+        ],
+        [
+            "Knight",
+            "your daughter."
+        ],
+        [
+            "KING LEAR",
+            "Ha! sayest thou so?"
+        ],
+        [
+            "Knight",
+            "I beseech you, pardon me, my lord, if I be mistaken;"
+        ],
+        [
+            "Knight",
+            "for my duty cannot be silent when I think your"
+        ],
+        [
+            "Knight",
+            "highness wronged."
+        ],
+        [
+            "KING LEAR",
+            "Thou but rememberest me of mine own conception: I"
+        ],
+        [
+            "KING LEAR",
+            "have perceived a most faint neglect of late; which I"
+        ],
+        [
+            "KING LEAR",
+            "have rather blamed as mine own jealous curiosity"
+        ],
+        [
+            "KING LEAR",
+            "than as a very pretence and purpose of unkindness:"
+        ],
+        [
+            "KING LEAR",
+            "I will look further into't. But where's my fool? I"
+        ],
+        [
+            "KING LEAR",
+            "have not seen him this two days."
+        ],
+        [
+            "Knight",
+            "Since my young lady's going into France, sir, the"
+        ],
+        [
+            "Knight",
+            "fool hath much pined away."
+        ],
+        [
+            "KING LEAR",
+            "No more of that; I have noted it well. Go you, and"
+        ],
+        [
+            "KING LEAR",
+            "tell my daughter I would speak with her.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "KING LEAR",
+            "Go you, call hither my fool.",
+            {
+                "preceding_direction_line": "8"
+            },
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "KING LEAR",
+            "O, you sir, you, come you hither, sir: who am I,",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "KING LEAR",
+            "sir?"
+        ],
+        [
+            "OSWALD",
+            "My lady's father."
+        ],
+        [
+            "KING LEAR",
+            "'My lady's father'! my lord's knave: your"
+        ],
+        [
+            "KING LEAR",
+            "whoreson dog! you slave! you cur!"
+        ],
+        [
+            "OSWALD",
+            "I am none of these, my lord; I beseech your pardon."
+        ],
+        [
+            "KING LEAR",
+            "Do you bandy looks with me, you rascal?",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "OSWALD",
+            "I'll not be struck, my lord.",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "KENT",
+            "Nor tripped neither, you base football player.",
+            {
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "KING LEAR",
+            "I thank thee, fellow; thou servest me, and I'll",
+            {
+                "preceding_direction_line": "11"
+            }
+        ],
+        [
+            "KING LEAR",
+            "love thee."
+        ],
+        [
+            "KENT",
+            "Come, sir, arise, away! I'll teach you differences:"
+        ],
+        [
+            "KENT",
+            "away, away! if you will measure your lubber's"
+        ],
+        [
+            "KENT",
+            "length again, tarry: but away! go to; have you"
+        ],
+        [
+            "KENT",
+            "wisdom? so.",
+            {
+                "following_direction_line": "12"
+            }
+        ],
+        [
+            "KING LEAR",
+            "Now, my friendly knave, I thank thee: there's",
+            {
+                "preceding_direction_line": "12"
+            }
+        ],
+        [
+            "KING LEAR",
+            "earnest of thy service.",
+            {
+                "following_direction_line": "13"
+            }
+        ],
+        [
+            "Fool",
+            "Let me hire him too: here's my coxcomb.",
+            {
+                "preceding_direction_line": "13"
+            },
+            {
+                "following_direction_line": "14"
+            }
+        ],
+        [
+            "KING LEAR",
+            "How now, my pretty knave! how dost thou?",
+            {
+                "preceding_direction_line": "14"
+            }
+        ],
+        [
+            "Fool",
+            "Sirrah, you were best take my coxcomb."
+        ],
+        [
+            "KENT",
+            "Why, fool?"
+        ],
+        [
+            "Fool",
+            "Why, for taking one's part that's out of favour:"
+        ],
+        [
+            "Fool",
+            "nay, an thou canst not smile as the wind sits,"
+        ],
+        [
+            "Fool",
+            "thou'lt catch cold shortly: there, take my coxcomb:"
+        ],
+        [
+            "Fool",
+            "why, this fellow has banished two on's daughters,"
+        ],
+        [
+            "Fool",
+            "and did the third a blessing against his will; if"
+        ],
+        [
+            "Fool",
+            "thou follow him, thou must needs wear my coxcomb."
+        ],
+        [
+            "Fool",
+            "How now, nuncle! Would I had two coxcombs and two daughters!"
+        ],
+        [
+            "KING LEAR",
+            "Why, my boy?"
+        ],
+        [
+            "Fool",
+            "If I gave them all my living, I'ld keep my coxcombs"
+        ],
+        [
+            "Fool",
+            "myself. There's mine; beg another of thy daughters."
+        ],
+        [
+            "KING LEAR",
+            "Take heed, sirrah; the whip."
+        ],
+        [
+            "Fool",
+            "Truth's a dog must to kennel; he must be whipped"
+        ],
+        [
+            "Fool",
+            "out, when Lady the brach may stand by the fire and stink."
+        ],
+        [
+            "KING LEAR",
+            "A pestilent gall to me!"
+        ],
+        [
+            "Fool",
+            "Sirrah, I'll teach thee a speech."
+        ],
+        [
+            "KING LEAR",
+            "Do."
+        ],
+        [
+            "Fool",
+            "Mark it, nuncle:"
+        ],
+        [
+            "Fool",
+            "Have more than thou showest,"
+        ],
+        [
+            "Fool",
+            "Speak less than thou knowest,"
+        ],
+        [
+            "Fool",
+            "Lend less than thou owest,"
+        ],
+        [
+            "Fool",
+            "Ride more than thou goest,"
+        ],
+        [
+            "Fool",
+            "Learn more than thou trowest,"
+        ],
+        [
+            "Fool",
+            "Set less than thou throwest;"
+        ],
+        [
+            "Fool",
+            "Leave thy drink and thy whore,"
+        ],
+        [
+            "Fool",
+            "And keep in-a-door,"
+        ],
+        [
+            "Fool",
+            "And thou shalt have more"
+        ],
+        [
+            "Fool",
+            "Than two tens to a score."
+        ],
+        [
+            "KENT",
+            "This is nothing, fool."
+        ],
+        [
+            "Fool",
+            "Then 'tis like the breath of an unfee'd lawyer; you"
+        ],
+        [
+            "Fool",
+            "gave me nothing for't. Can you make no use of"
+        ],
+        [
+            "Fool",
+            "nothing, nuncle?"
+        ],
+        [
+            "KING LEAR",
+            "Why, no, boy; nothing can be made out of nothing."
+        ],
+        [
+            "Fool",
+            "[To KENT] Prithee, tell him, so much the rent of"
+        ],
+        [
+            "Fool",
+            "his land comes to: he will not believe a fool."
+        ],
+        [
+            "KING LEAR",
+            "A bitter fool!"
+        ],
+        [
+            "Fool",
+            "Dost thou know the difference, my boy, between a"
+        ],
+        [
+            "Fool",
+            "bitter fool and a sweet fool?"
+        ],
+        [
+            "KING LEAR",
+            "No, lad; teach me."
+        ],
+        [
+            "Fool",
+            "That lord that counsell'd thee"
+        ],
+        [
+            "Fool",
+            "To give away thy land,"
+        ],
+        [
+            "Fool",
+            "Come place him here by me,"
+        ],
+        [
+            "Fool",
+            "Do thou for him stand:"
+        ],
+        [
+            "Fool",
+            "The sweet and bitter fool"
+        ],
+        [
+            "Fool",
+            "Will presently appear;"
+        ],
+        [
+            "Fool",
+            "The one in motley here,"
+        ],
+        [
+            "Fool",
+            "The other found out there."
+        ],
+        [
+            "KING LEAR",
+            "Dost thou call me fool, boy?"
+        ],
+        [
+            "Fool",
+            "All thy other titles thou hast given away; that"
+        ],
+        [
+            "Fool",
+            "thou wast born with."
+        ],
+        [
+            "KENT",
+            "This is not altogether fool, my lord."
+        ],
+        [
+            "Fool",
+            "No, faith, lords and great men will not let me; if"
+        ],
+        [
+            "Fool",
+            "I had a monopoly out, they would have part on't:"
+        ],
+        [
+            "Fool",
+            "and ladies too, they will not let me have all fool"
+        ],
+        [
+            "Fool",
+            "to myself; they'll be snatching. Give me an egg,"
+        ],
+        [
+            "Fool",
+            "nuncle, and I'll give thee two crowns."
+        ],
+        [
+            "KING LEAR",
+            "What two crowns shall they be?"
+        ],
+        [
+            "Fool",
+            "Why, after I have cut the egg i' the middle, and eat"
+        ],
+        [
+            "Fool",
+            "up the meat, the two crowns of the egg. When thou"
+        ],
+        [
+            "Fool",
+            "clovest thy crown i' the middle, and gavest away"
+        ],
+        [
+            "Fool",
+            "both parts, thou borest thy ass on thy back o'er"
+        ],
+        [
+            "Fool",
+            "the dirt: thou hadst little wit in thy bald crown,"
+        ],
+        [
+            "Fool",
+            "when thou gavest thy golden one away. If I speak"
+        ],
+        [
+            "Fool",
+            "like myself in this, let him be whipped that first"
+        ],
+        [
+            "Fool",
+            "finds it so.",
+            {
+                "following_direction_line": "15"
+            }
+        ],
+        [
+            "Fool",
+            "Fools had ne'er less wit in a year;",
+            {
+                "preceding_direction_line": "15"
+            }
+        ],
+        [
+            "Fool",
+            "For wise men are grown foppish,"
+        ],
+        [
+            "Fool",
+            "They know not how their wits to wear,"
+        ],
+        [
+            "Fool",
+            "Their manners are so apish."
+        ],
+        [
+            "KING LEAR",
+            "When were you wont to be so full of songs, sirrah?"
+        ],
+        [
+            "Fool",
+            "I have used it, nuncle, ever since thou madest thy"
+        ],
+        [
+            "Fool",
+            "daughters thy mothers: for when thou gavest them"
+        ],
+        [
+            "Fool",
+            "the rod, and put'st down thine own breeches,",
+            {
+                "following_direction_line": "16"
+            }
+        ],
+        [
+            "Fool",
+            "Then they for sudden joy did weep,",
+            {
+                "preceding_direction_line": "16"
+            }
+        ],
+        [
+            "Fool",
+            "And I for sorrow sung,"
+        ],
+        [
+            "Fool",
+            "That such a king should play bo-peep,"
+        ],
+        [
+            "Fool",
+            "And go the fools among."
+        ],
+        [
+            "Fool",
+            "Prithee, nuncle, keep a schoolmaster that can teach"
+        ],
+        [
+            "Fool",
+            "thy fool to lie: I would fain learn to lie."
+        ],
+        [
+            "KING LEAR",
+            "An you lie, sirrah, we'll have you whipped."
+        ],
+        [
+            "Fool",
+            "I marvel what kin thou and thy daughters are:"
+        ],
+        [
+            "Fool",
+            "they'll have me whipped for speaking true, thou'lt"
+        ],
+        [
+            "Fool",
+            "have me whipped for lying; and sometimes I am"
+        ],
+        [
+            "Fool",
+            "whipped for holding my peace. I had rather be any"
+        ],
+        [
+            "Fool",
+            "kind o' thing than a fool: and yet I would not be"
+        ],
+        [
+            "Fool",
+            "thee, nuncle; thou hast pared thy wit o' both sides,"
+        ],
+        [
+            "Fool",
+            "and left nothing i' the middle: here comes one o'"
+        ],
+        [
+            "Fool",
+            "the parings.",
+            {
+                "following_direction_line": "17"
+            }
+        ],
+        [
+            "KING LEAR",
+            "How now, daughter! what makes that frontlet on?",
+            {
+                "preceding_direction_line": "17"
+            }
+        ],
+        [
+            "KING LEAR",
+            "Methinks you are too much of late i' the frown."
+        ],
+        [
+            "Fool",
+            "Thou wast a pretty fellow when thou hadst no need to"
+        ],
+        [
+            "Fool",
+            "care for her frowning; now thou art an O without a"
+        ],
+        [
+            "Fool",
+            "figure: I am better than thou art now; I am a fool,"
+        ],
+        [
+            "Fool",
+            "thou art nothing.",
+            {
+                "following_direction_line": "18"
+            }
+        ],
+        [
+            "Fool",
+            "Yes, forsooth, I will hold my tongue; so your face",
+            {
+                "preceding_direction_line": "18"
+            }
+        ],
+        [
+            "Fool",
+            "bids me, though you say nothing. Mum, mum,"
+        ],
+        [
+            "Fool",
+            "He that keeps nor crust nor crum,"
+        ],
+        [
+            "Fool",
+            "Weary of all, shall want some.",
+            {
+                "following_direction_line": "19"
+            }
+        ],
+        [
+            "Fool",
+            "That's a shealed peascod.",
+            {
+                "preceding_direction_line": "19"
+            }
+        ],
+        [
+            "GONERIL",
+            "Not only, sir, this your all-licensed fool,"
+        ],
+        [
+            "GONERIL",
+            "But other of your insolent retinue"
+        ],
+        [
+            "GONERIL",
+            "Do hourly carp and quarrel; breaking forth"
+        ],
+        [
+            "GONERIL",
+            "In rank and not-to-be endured riots. Sir,"
+        ],
+        [
+            "GONERIL",
+            "I had thought, by making this well known unto you,"
+        ],
+        [
+            "GONERIL",
+            "To have found a safe redress; but now grow fearful,"
+        ],
+        [
+            "GONERIL",
+            "By what yourself too late have spoke and done."
+        ],
+        [
+            "GONERIL",
+            "That you protect this course, and put it on"
+        ],
+        [
+            "GONERIL",
+            "By your allowance; which if you should, the fault"
+        ],
+        [
+            "GONERIL",
+            "Would not 'scape censure, nor the redresses sleep,"
+        ],
+        [
+            "GONERIL",
+            "Which, in the tender of a wholesome weal,"
+        ],
+        [
+            "GONERIL",
+            "Might in their working do you that offence,"
+        ],
+        [
+            "GONERIL",
+            "Which else were shame, that then necessity"
+        ],
+        [
+            "GONERIL",
+            "Will call discreet proceeding."
+        ],
+        [
+            "Fool",
+            "For, you trow, nuncle,"
+        ],
+        [
+            "Fool",
+            "The hedge-sparrow fed the cuckoo so long,"
+        ],
+        [
+            "Fool",
+            "That it's had it head bit off by it young."
+        ],
+        [
+            "Fool",
+            "So, out went the candle, and we were left darkling."
+        ],
+        [
+            "KING LEAR",
+            "Are you our daughter?"
+        ],
+        [
+            "GONERIL",
+            "Come, sir,"
+        ],
+        [
+            "GONERIL",
+            "I would you would make use of that good wisdom,"
+        ],
+        [
+            "GONERIL",
+            "Whereof I know you are fraught; and put away"
+        ],
+        [
+            "GONERIL",
+            "These dispositions, that of late transform you"
+        ],
+        [
+            "GONERIL",
+            "From what you rightly are."
+        ],
+        [
+            "Fool",
+            "May not an ass know when the cart"
+        ],
+        [
+            "Fool",
+            "draws the horse? Whoop, Jug! I love thee."
+        ],
+        [
+            "KING LEAR",
+            "Doth any here know me? This is not Lear:"
+        ],
+        [
+            "KING LEAR",
+            "Doth Lear walk thus? speak thus? Where are his eyes?"
+        ],
+        [
+            "KING LEAR",
+            "Either his notion weakens, his discernings"
+        ],
+        [
+            "KING LEAR",
+            "Are lethargied--Ha! waking? 'tis not so."
+        ],
+        [
+            "KING LEAR",
+            "Who is it that can tell me who I am?"
+        ],
+        [
+            "Fool",
+            "Lear's shadow."
+        ],
+        [
+            "KING LEAR",
+            "I would learn that; for, by the"
+        ],
+        [
+            "KING LEAR",
+            "marks of sovereignty, knowledge, and reason,"
+        ],
+        [
+            "KING LEAR",
+            "I should be false persuaded I had daughters."
+        ],
+        [
+            "Fool",
+            "Which they will make an obedient father."
+        ],
+        [
+            "KING LEAR",
+            "Your name, fair gentlewoman?"
+        ],
+        [
+            "GONERIL",
+            "This admiration, sir, is much o' the savour"
+        ],
+        [
+            "GONERIL",
+            "Of other your new pranks. I do beseech you"
+        ],
+        [
+            "GONERIL",
+            "To understand my purposes aright:"
+        ],
+        [
+            "GONERIL",
+            "As you are old and reverend, you should be wise."
+        ],
+        [
+            "GONERIL",
+            "Here do you keep a hundred knights and squires;"
+        ],
+        [
+            "GONERIL",
+            "Men so disorder'd, so debosh'd and bold,"
+        ],
+        [
+            "GONERIL",
+            "That this our court, infected with their manners,"
+        ],
+        [
+            "GONERIL",
+            "Shows like a riotous inn: epicurism and lust"
+        ],
+        [
+            "GONERIL",
+            "Make it more like a tavern or a brothel"
+        ],
+        [
+            "GONERIL",
+            "Than a graced palace. The shame itself doth speak"
+        ],
+        [
+            "GONERIL",
+            "For instant remedy: be then desired"
+        ],
+        [
+            "GONERIL",
+            "By her, that else will take the thing she begs,"
+        ],
+        [
+            "GONERIL",
+            "A little to disquantity your train;"
+        ],
+        [
+            "GONERIL",
+            "And the remainder, that shall still depend,"
+        ],
+        [
+            "GONERIL",
+            "To be such men as may besort your age,"
+        ],
+        [
+            "GONERIL",
+            "And know themselves and you."
+        ],
+        [
+            "KING LEAR",
+            "Darkness and devils!"
+        ],
+        [
+            "KING LEAR",
+            "Saddle my horses; call my train together:"
+        ],
+        [
+            "KING LEAR",
+            "Degenerate bastard! I'll not trouble thee."
+        ],
+        [
+            "KING LEAR",
+            "Yet have I left a daughter."
+        ],
+        [
+            "GONERIL",
+            "You strike my people; and your disorder'd rabble"
+        ],
+        [
+            "GONERIL",
+            "Make servants of their betters.",
+            {
+                "following_direction_line": "20"
+            }
+        ],
+        [
+            "KING LEAR",
+            "Woe, that too late repents,--",
+            {
+                "preceding_direction_line": "20"
+            },
+            {
+                "following_direction_line": "21"
+            }
+        ],
+        [
+            "KING LEAR",
+            "O, sir, are you come?",
+            {
+                "preceding_direction_line": "21"
+            }
+        ],
+        [
+            "KING LEAR",
+            "Is it your will? Speak, sir. Prepare my horses."
+        ],
+        [
+            "KING LEAR",
+            "Ingratitude, thou marble-hearted fiend,"
+        ],
+        [
+            "KING LEAR",
+            "More hideous when thou show'st thee in a child"
+        ],
+        [
+            "KING LEAR",
+            "Than the sea-monster!"
+        ],
+        [
+            "ALBANY",
+            "Pray, sir, be patient."
+        ],
+        [
+            "KING LEAR",
+            "[To GONERIL] Detested kite! thou liest."
+        ],
+        [
+            "KING LEAR",
+            "My train are men of choice and rarest parts,"
+        ],
+        [
+            "KING LEAR",
+            "That all particulars of duty know,"
+        ],
+        [
+            "KING LEAR",
+            "And in the most exact regard support"
+        ],
+        [
+            "KING LEAR",
+            "The worships of their name. O most small fault,"
+        ],
+        [
+            "KING LEAR",
+            "How ugly didst thou in Cordelia show!"
+        ],
+        [
+            "KING LEAR",
+            "That, like an engine, wrench'd my frame of nature"
+        ],
+        [
+            "KING LEAR",
+            "From the fix'd place; drew from heart all love,"
+        ],
+        [
+            "KING LEAR",
+            "And added to the gall. O Lear, Lear, Lear!"
+        ],
+        [
+            "KING LEAR",
+            "Beat at this gate, that let thy folly in,",
+            {
+                "following_direction_line": "22"
+            }
+        ],
+        [
+            "KING LEAR",
+            "And thy dear judgment out! Go, go, my people.",
+            {
+                "preceding_direction_line": "22"
+            }
+        ],
+        [
+            "ALBANY",
+            "My lord, I am guiltless, as I am ignorant"
+        ],
+        [
+            "ALBANY",
+            "Of what hath moved you."
+        ],
+        [
+            "KING LEAR",
+            "It may be so, my lord."
+        ],
+        [
+            "KING LEAR",
+            "Hear, nature, hear; dear goddess, hear!"
+        ],
+        [
+            "KING LEAR",
+            "Suspend thy purpose, if thou didst intend"
+        ],
+        [
+            "KING LEAR",
+            "To make this creature fruitful!"
+        ],
+        [
+            "KING LEAR",
+            "Into her womb convey sterility!"
+        ],
+        [
+            "KING LEAR",
+            "Dry up in her the organs of increase;"
+        ],
+        [
+            "KING LEAR",
+            "And from her derogate body never spring"
+        ],
+        [
+            "KING LEAR",
+            "A babe to honour her! If she must teem,"
+        ],
+        [
+            "KING LEAR",
+            "Create her child of spleen; that it may live,"
+        ],
+        [
+            "KING LEAR",
+            "And be a thwart disnatured torment to her!"
+        ],
+        [
+            "KING LEAR",
+            "Let it stamp wrinkles in her brow of youth;"
+        ],
+        [
+            "KING LEAR",
+            "With cadent tears fret channels in her cheeks;"
+        ],
+        [
+            "KING LEAR",
+            "Turn all her mother's pains and benefits"
+        ],
+        [
+            "KING LEAR",
+            "To laughter and contempt; that she may feel"
+        ],
+        [
+            "KING LEAR",
+            "How sharper than a serpent's tooth it is"
+        ],
+        [
+            "KING LEAR",
+            "To have a thankless child! Away, away!",
+            {
+                "following_direction_line": "23"
+            }
+        ],
+        [
+            "ALBANY",
+            "Now, gods that we adore, whereof comes this?",
+            {
+                "preceding_direction_line": "23"
+            }
+        ],
+        [
+            "GONERIL",
+            "Never afflict yourself to know the cause;"
+        ],
+        [
+            "GONERIL",
+            "But let his disposition have that scope"
+        ],
+        [
+            "GONERIL",
+            "That dotage gives it.",
+            {
+                "following_direction_line": "24"
+            }
+        ],
+        [
+            "KING LEAR",
+            "What, fifty of my followers at a clap!",
+            {
+                "preceding_direction_line": "24"
+            }
+        ],
+        [
+            "KING LEAR",
+            "Within a fortnight!"
+        ],
+        [
+            "ALBANY",
+            "What's the matter, sir?"
+        ],
+        [
+            "KING LEAR",
+            "I'll tell thee:",
+            {
+                "following_direction_line": "25"
+            }
+        ],
+        [
+            "KING LEAR",
+            "Life and death! I am ashamed",
+            {
+                "preceding_direction_line": "25"
+            }
+        ],
+        [
+            "KING LEAR",
+            "That thou hast power to shake my manhood thus;"
+        ],
+        [
+            "KING LEAR",
+            "That these hot tears, which break from me perforce,"
+        ],
+        [
+            "KING LEAR",
+            "Should make thee worth them. Blasts and fogs upon thee!"
+        ],
+        [
+            "KING LEAR",
+            "The untented woundings of a father's curse"
+        ],
+        [
+            "KING LEAR",
+            "Pierce every sense about thee! Old fond eyes,"
+        ],
+        [
+            "KING LEAR",
+            "Beweep this cause again, I'll pluck ye out,"
+        ],
+        [
+            "KING LEAR",
+            "And cast you, with the waters that you lose,"
+        ],
+        [
+            "KING LEAR",
+            "To temper clay. Yea, it is come to this?"
+        ],
+        [
+            "KING LEAR",
+            "Let is be so: yet have I left a daughter,"
+        ],
+        [
+            "KING LEAR",
+            "Who, I am sure, is kind and comfortable:"
+        ],
+        [
+            "KING LEAR",
+            "When she shall hear this of thee, with her nails"
+        ],
+        [
+            "KING LEAR",
+            "She'll flay thy wolvish visage. Thou shalt find"
+        ],
+        [
+            "KING LEAR",
+            "That I'll resume the shape which thou dost think"
+        ],
+        [
+            "KING LEAR",
+            "I have cast off for ever: thou shalt,"
+        ],
+        [
+            "KING LEAR",
+            "I warrant thee.",
+            {
+                "following_direction_line": "26"
+            }
+        ],
+        [
+            "GONERIL",
+            "Do you mark that, my lord?",
+            {
+                "preceding_direction_line": "26"
+            }
+        ],
+        [
+            "ALBANY",
+            "I cannot be so partial, Goneril,"
+        ],
+        [
+            "ALBANY",
+            "To the great love I bear you,--"
+        ],
+        [
+            "GONERIL",
+            "Pray you, content. What, Oswald, ho!",
+            {
+                "following_direction_line": "27"
+            }
+        ],
+        [
+            "GONERIL",
+            "You, sir, more knave than fool, after your master.",
+            {
+                "preceding_direction_line": "27"
+            }
+        ],
+        [
+            "Fool",
+            "Nuncle Lear, nuncle Lear, tarry and take the fool"
+        ],
+        [
+            "Fool",
+            "with thee."
+        ],
+        [
+            "Fool",
+            "A fox, when one has caught her,"
+        ],
+        [
+            "Fool",
+            "And such a daughter,"
+        ],
+        [
+            "Fool",
+            "Should sure to the slaughter,"
+        ],
+        [
+            "Fool",
+            "If my cap would buy a halter:"
+        ],
+        [
+            "Fool",
+            "So the fool follows after.",
+            {
+                "following_direction_line": "28"
+            }
+        ],
+        [
+            "GONERIL",
+            "This man hath had good counsel:--a hundred knights!",
+            {
+                "preceding_direction_line": "28"
+            }
+        ],
+        [
+            "GONERIL",
+            "'Tis politic and safe to let him keep"
+        ],
+        [
+            "GONERIL",
+            "At point a hundred knights: yes, that, on every dream,"
+        ],
+        [
+            "GONERIL",
+            "Each buzz, each fancy, each complaint, dislike,"
+        ],
+        [
+            "GONERIL",
+            "He may enguard his dotage with their powers,"
+        ],
+        [
+            "GONERIL",
+            "And hold our lives in mercy. Oswald, I say!"
+        ],
+        [
+            "ALBANY",
+            "Well, you may fear too far."
+        ],
+        [
+            "GONERIL",
+            "Safer than trust too far:"
+        ],
+        [
+            "GONERIL",
+            "Let me still take away the harms I fear,"
+        ],
+        [
+            "GONERIL",
+            "Not fear still to be taken: I know his heart."
+        ],
+        [
+            "GONERIL",
+            "What he hath utter'd I have writ my sister"
+        ],
+        [
+            "GONERIL",
+            "If she sustain him and his hundred knights"
+        ],
+        [
+            "GONERIL",
+            "When I have show'd the unfitness,--",
+            {
+                "following_direction_line": "29"
+            }
+        ],
+        [
+            "GONERIL",
+            "How now, Oswald!",
+            {
+                "preceding_direction_line": "29"
+            }
+        ],
+        [
+            "GONERIL",
+            "What, have you writ that letter to my sister?"
+        ],
+        [
+            "OSWALD",
+            "Yes, madam."
+        ],
+        [
+            "GONERIL",
+            "Take you some company, and away to horse:"
+        ],
+        [
+            "GONERIL",
+            "Inform her full of my particular fear;"
+        ],
+        [
+            "GONERIL",
+            "And thereto add such reasons of your own"
+        ],
+        [
+            "GONERIL",
+            "As may compact it more. Get you gone;"
+        ],
+        [
+            "GONERIL",
+            "And hasten your return.",
+            {
+                "following_direction_line": "30"
+            }
+        ],
+        [
+            "GONERIL",
+            "No, no, my lord,",
+            {
+                "preceding_direction_line": "30"
+            }
+        ],
+        [
+            "GONERIL",
+            "This milky gentleness and course of yours"
+        ],
+        [
+            "GONERIL",
+            "Though I condemn not, yet, under pardon,"
+        ],
+        [
+            "GONERIL",
+            "You are much more attask'd for want of wisdom"
+        ],
+        [
+            "GONERIL",
+            "Than praised for harmful mildness."
+        ],
+        [
+            "ALBANY",
+            "How far your eyes may pierce I can not tell:"
+        ],
+        [
+            "ALBANY",
+            "Striving to better, oft we mar what's well."
+        ],
+        [
+            "GONERIL",
+            "Nay, then--"
+        ],
+        [
+            "ALBANY",
+            "Well, well; the event.",
+            {
+                "following_direction_line": "31"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter KENT, disguised"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Horns within. Enter KING LEAR, Knights, and Attendants"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit an Attendant"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit an Attendant. Enter OSWALD"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exit a Knight"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Re-enter Knight"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exit an Attendant"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Exit an Attendant. Re-enter OSWALD"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Striking him"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "Tripping up his heels"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Pushes OSWALD out"
+        ],
+        [
+            "_DIRECTION",
+            "D13",
+            "Giving KENT money. Enter Fool"
+        ],
+        [
+            "_DIRECTION",
+            "D14",
+            "Offering KENT his cap"
+        ],
+        [
+            "_DIRECTION",
+            "D15",
+            "Singing"
+        ],
+        [
+            "_DIRECTION",
+            "D16",
+            "Singing"
+        ],
+        [
+            "_DIRECTION",
+            "D17",
+            "Enter GONERIL"
+        ],
+        [
+            "_DIRECTION",
+            "D18",
+            "To GONERIL"
+        ],
+        [
+            "_DIRECTION",
+            "D19",
+            "Pointing to KING LEAR"
+        ],
+        [
+            "_DIRECTION",
+            "D20",
+            "Enter ALBANY"
+        ],
+        [
+            "_DIRECTION",
+            "D21",
+            "To ALBANY"
+        ],
+        [
+            "_DIRECTION",
+            "D22",
+            "Striking his head"
+        ],
+        [
+            "_DIRECTION",
+            "D23",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D24",
+            "Re-enter KING LEAR"
+        ],
+        [
+            "_DIRECTION",
+            "D25",
+            "To GONERIL"
+        ],
+        [
+            "_DIRECTION",
+            "D26",
+            "Exeunt KING LEAR, KENT, and Attendants"
+        ],
+        [
+            "_DIRECTION",
+            "D27",
+            "To the Fool"
+        ],
+        [
+            "_DIRECTION",
+            "D28",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D29",
+            "Re-enter OSWALD"
+        ],
+        [
+            "_DIRECTION",
+            "D30",
+            "Exit OSWALD"
+        ],
+        [
+            "_DIRECTION",
+            "D31",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "KENT": [
+            [
+                "1",
+                "7"
+            ],
+            [
+                "10",
+                "10"
+            ],
+            [
+                "12",
+                "16"
+            ],
+            [
+                "18",
+                "18"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "23",
+                "23"
+            ],
+            [
+                "25",
+                "26"
+            ],
+            [
+                "28",
+                "28"
+            ],
+            [
+                "30",
+                "33"
+            ],
+            [
+                "35",
+                "37"
+            ],
+            [
+                "81",
+                "81"
+            ],
+            [
+                "84",
+                "87"
+            ],
+            [
+                "93",
+                "93"
+            ],
+            [
+                "121",
+                "121"
+            ],
+            [
+                "143",
+                "143"
+            ]
+        ],
+        "KING LEAR": [
+            [
+                "8",
+                "9"
+            ],
+            [
+                "11",
+                "11"
+            ],
+            [
+                "17",
+                "17"
+            ],
+            [
+                "19",
+                "20"
+            ],
+            [
+                "22",
+                "22"
+            ],
+            [
+                "24",
+                "24"
+            ],
+            [
+                "27",
+                "27"
+            ],
+            [
+                "29",
+                "29"
+            ],
+            [
+                "34",
+                "34"
+            ],
+            [
+                "38",
+                "42"
+            ],
+            [
+                "44",
+                "46"
+            ],
+            [
+                "48",
+                "48"
+            ],
+            [
+                "51",
+                "51"
+            ],
+            [
+                "58",
+                "58"
+            ],
+            [
+                "62",
+                "67"
+            ],
+            [
+                "70",
+                "74"
+            ],
+            [
+                "76",
+                "77"
+            ],
+            [
+                "79",
+                "79"
+            ],
+            [
+                "82",
+                "83"
+            ],
+            [
+                "88",
+                "89"
+            ],
+            [
+                "91",
+                "91"
+            ],
+            [
+                "101",
+                "101"
+            ],
+            [
+                "104",
+                "104"
+            ],
+            [
+                "107",
+                "107"
+            ],
+            [
+                "109",
+                "109"
+            ],
+            [
+                "125",
+                "125"
+            ],
+            [
+                "128",
+                "128"
+            ],
+            [
+                "131",
+                "131"
+            ],
+            [
+                "140",
+                "140"
+            ],
+            [
+                "149",
+                "149"
+            ],
+            [
+                "162",
+                "162"
+            ],
+            [
+                "172",
+                "172"
+            ],
+            [
+                "181",
+                "182"
+            ],
+            [
+                "210",
+                "210"
+            ],
+            [
+                "218",
+                "222"
+            ],
+            [
+                "224",
+                "226"
+            ],
+            [
+                "228",
+                "228"
+            ],
+            [
+                "245",
+                "248"
+            ],
+            [
+                "251",
+                "256"
+            ],
+            [
+                "258",
+                "268"
+            ],
+            [
+                "271",
+                "286"
+            ],
+            [
+                "291",
+                "292"
+            ],
+            [
+                "294",
+                "310"
+            ]
+        ],
+        "OSWALD": [
+            [
+                "43",
+                "43"
+            ],
+            [
+                "75",
+                "75"
+            ],
+            [
+                "78",
+                "78"
+            ],
+            [
+                "80",
+                "80"
+            ],
+            [
+                "338",
+                "338"
+            ]
+        ],
+        "Knight": [
+            [
+                "47",
+                "47"
+            ],
+            [
+                "49",
+                "50"
+            ],
+            [
+                "52",
+                "57"
+            ],
+            [
+                "59",
+                "61"
+            ],
+            [
+                "68",
+                "69"
+            ]
+        ],
+        "Fool": [
+            [
+                "90",
+                "90"
+            ],
+            [
+                "92",
+                "92"
+            ],
+            [
+                "94",
+                "100"
+            ],
+            [
+                "102",
+                "103"
+            ],
+            [
+                "105",
+                "106"
+            ],
+            [
+                "108",
+                "108"
+            ],
+            [
+                "110",
+                "120"
+            ],
+            [
+                "122",
+                "124"
+            ],
+            [
+                "126",
+                "127"
+            ],
+            [
+                "129",
+                "130"
+            ],
+            [
+                "132",
+                "139"
+            ],
+            [
+                "141",
+                "142"
+            ],
+            [
+                "144",
+                "148"
+            ],
+            [
+                "150",
+                "161"
+            ],
+            [
+                "163",
+                "171"
+            ],
+            [
+                "173",
+                "180"
+            ],
+            [
+                "183",
+                "191"
+            ],
+            [
+                "206",
+                "209"
+            ],
+            [
+                "216",
+                "217"
+            ],
+            [
+                "223",
+                "223"
+            ],
+            [
+                "227",
+                "227"
+            ],
+            [
+                "316",
+                "322"
+            ]
+        ],
+        "GONERIL": [
+            [
+                "192",
+                "205"
+            ],
+            [
+                "211",
+                "215"
+            ],
+            [
+                "229",
+                "244"
+            ],
+            [
+                "249",
+                "250"
+            ],
+            [
+                "288",
+                "290"
+            ],
+            [
+                "311",
+                "311"
+            ],
+            [
+                "314",
+                "315"
+            ],
+            [
+                "323",
+                "328"
+            ],
+            [
+                "330",
+                "337"
+            ],
+            [
+                "339",
+                "348"
+            ],
+            [
+                "351",
+                "351"
+            ]
+        ],
+        "ALBANY": [
+            [
+                "257",
+                "257"
+            ],
+            [
+                "269",
+                "270"
+            ],
+            [
+                "287",
+                "287"
+            ],
+            [
+                "293",
+                "293"
+            ],
+            [
+                "312",
+                "313"
+            ],
+            [
+                "329",
+                "329"
+            ],
+            [
+                "349",
+                "350"
+            ],
+            [
+                "352",
+                "352"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IV",
+    "scene_description": "A hall in the same."
+}

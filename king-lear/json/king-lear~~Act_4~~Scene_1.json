@@ -1,0 +1,548 @@
+{
+    "scene_id": "king lear~~Act_4~~Scene_1",
+    "work_number": "12",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "EDGAR",
+            "Yet better thus, and known to be contemn'd,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "EDGAR",
+            "Than still contemn'd and flatter'd. To be worst,"
+        ],
+        [
+            "EDGAR",
+            "The lowest and most dejected thing of fortune,"
+        ],
+        [
+            "EDGAR",
+            "Stands still in esperance, lives not in fear:"
+        ],
+        [
+            "EDGAR",
+            "The lamentable change is from the best;"
+        ],
+        [
+            "EDGAR",
+            "The worst returns to laughter. Welcome, then,"
+        ],
+        [
+            "EDGAR",
+            "Thou unsubstantial air that I embrace!"
+        ],
+        [
+            "EDGAR",
+            "The wretch that thou hast blown unto the worst"
+        ],
+        [
+            "EDGAR",
+            "Owes nothing to thy blasts. But who comes here?",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "EDGAR",
+            "My father, poorly led? World, world, O world!",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "EDGAR",
+            "But that thy strange mutations make us hate thee,"
+        ],
+        [
+            "EDGAR",
+            "Lie would not yield to age."
+        ],
+        [
+            "Old Man",
+            "O, my good lord, I have been your tenant, and"
+        ],
+        [
+            "Old Man",
+            "your father's tenant, these fourscore years."
+        ],
+        [
+            "GLOUCESTER",
+            "Away, get thee away; good friend, be gone:"
+        ],
+        [
+            "GLOUCESTER",
+            "Thy comforts can do me no good at all;"
+        ],
+        [
+            "GLOUCESTER",
+            "Thee they may hurt."
+        ],
+        [
+            "Old Man",
+            "Alack, sir, you cannot see your way."
+        ],
+        [
+            "GLOUCESTER",
+            "I have no way, and therefore want no eyes;"
+        ],
+        [
+            "GLOUCESTER",
+            "I stumbled when I saw: full oft 'tis seen,"
+        ],
+        [
+            "GLOUCESTER",
+            "Our means secure us, and our mere defects"
+        ],
+        [
+            "GLOUCESTER",
+            "Prove our commodities. O dear son Edgar,"
+        ],
+        [
+            "GLOUCESTER",
+            "The food of thy abused father's wrath!"
+        ],
+        [
+            "GLOUCESTER",
+            "Might I but live to see thee in my touch,"
+        ],
+        [
+            "GLOUCESTER",
+            "I'ld say I had eyes again!"
+        ],
+        [
+            "Old Man",
+            "How now! Who's there?"
+        ],
+        [
+            "EDGAR",
+            "[Aside] O gods! Who is't can say 'I am at"
+        ],
+        [
+            "EDGAR",
+            "the worst'?"
+        ],
+        [
+            "EDGAR",
+            "I am worse than e'er I was."
+        ],
+        [
+            "Old Man",
+            "'Tis poor mad Tom."
+        ],
+        [
+            "EDGAR",
+            "[Aside] And worse I may be yet: the worst is not"
+        ],
+        [
+            "EDGAR",
+            "So long as we can say 'This is the worst.'"
+        ],
+        [
+            "Old Man",
+            "Fellow, where goest?"
+        ],
+        [
+            "GLOUCESTER",
+            "Is it a beggar-man?"
+        ],
+        [
+            "Old Man",
+            "Madman and beggar too."
+        ],
+        [
+            "GLOUCESTER",
+            "He has some reason, else he could not beg."
+        ],
+        [
+            "GLOUCESTER",
+            "I' the last night's storm I such a fellow saw;"
+        ],
+        [
+            "GLOUCESTER",
+            "Which made me think a man a worm: my son"
+        ],
+        [
+            "GLOUCESTER",
+            "Came then into my mind; and yet my mind"
+        ],
+        [
+            "GLOUCESTER",
+            "Was then scarce friends with him: I have heard"
+        ],
+        [
+            "GLOUCESTER",
+            "more since."
+        ],
+        [
+            "GLOUCESTER",
+            "As flies to wanton boys, are we to the gods."
+        ],
+        [
+            "GLOUCESTER",
+            "They kill us for their sport."
+        ],
+        [
+            "EDGAR",
+            "[Aside] How should this be?"
+        ],
+        [
+            "EDGAR",
+            "Bad is the trade that must play fool to sorrow,"
+        ],
+        [
+            "EDGAR",
+            "Angering itself and others.--Bless thee, master!"
+        ],
+        [
+            "GLOUCESTER",
+            "Is that the naked fellow?"
+        ],
+        [
+            "Old Man",
+            "Ay, my lord."
+        ],
+        [
+            "GLOUCESTER",
+            "Then, prithee, get thee gone: if, for my sake,"
+        ],
+        [
+            "GLOUCESTER",
+            "Thou wilt o'ertake us, hence a mile or twain,"
+        ],
+        [
+            "GLOUCESTER",
+            "I' the way toward Dover, do it for ancient love;"
+        ],
+        [
+            "GLOUCESTER",
+            "And bring some covering for this naked soul,"
+        ],
+        [
+            "GLOUCESTER",
+            "Who I'll entreat to lead me."
+        ],
+        [
+            "Old Man",
+            "Alack, sir, he is mad."
+        ],
+        [
+            "GLOUCESTER",
+            "'Tis the times' plague, when madmen lead the blind."
+        ],
+        [
+            "GLOUCESTER",
+            "Do as I bid thee, or rather do thy pleasure;"
+        ],
+        [
+            "GLOUCESTER",
+            "Above the rest, be gone."
+        ],
+        [
+            "Old Man",
+            "I'll bring him the best 'parel that I have,"
+        ],
+        [
+            "Old Man",
+            "Come on't what will.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "GLOUCESTER",
+            "Sirrah, naked fellow,--",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "EDGAR",
+            "Poor Tom's a-cold.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "EDGAR",
+            "I cannot daub it further.",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "GLOUCESTER",
+            "Come hither, fellow."
+        ],
+        [
+            "EDGAR",
+            "[Aside] And yet I must.--Bless thy sweet eyes, they bleed."
+        ],
+        [
+            "GLOUCESTER",
+            "Know'st thou the way to Dover?"
+        ],
+        [
+            "EDGAR",
+            "Both stile and gate, horse-way and foot-path. Poor"
+        ],
+        [
+            "EDGAR",
+            "Tom hath been scared out of his good wits: bless"
+        ],
+        [
+            "EDGAR",
+            "thee, good man's son, from the foul fiend! five"
+        ],
+        [
+            "EDGAR",
+            "fiends have been in poor Tom at once; of lust, as"
+        ],
+        [
+            "EDGAR",
+            "Obidicut; Hobbididence, prince of dumbness; Mahu, of"
+        ],
+        [
+            "EDGAR",
+            "stealing; Modo, of murder; Flibbertigibbet, of"
+        ],
+        [
+            "EDGAR",
+            "mopping and mowing, who since possesses chambermaids"
+        ],
+        [
+            "EDGAR",
+            "and waiting-women. So, bless thee, master!"
+        ],
+        [
+            "GLOUCESTER",
+            "Here, take this purse, thou whom the heavens' plagues"
+        ],
+        [
+            "GLOUCESTER",
+            "Have humbled to all strokes: that I am wretched"
+        ],
+        [
+            "GLOUCESTER",
+            "Makes thee the happier: heavens, deal so still!"
+        ],
+        [
+            "GLOUCESTER",
+            "Let the superfluous and lust-dieted man,"
+        ],
+        [
+            "GLOUCESTER",
+            "That slaves your ordinance, that will not see"
+        ],
+        [
+            "GLOUCESTER",
+            "Because he doth not feel, feel your power quickly;"
+        ],
+        [
+            "GLOUCESTER",
+            "So distribution should undo excess,"
+        ],
+        [
+            "GLOUCESTER",
+            "And each man have enough. Dost thou know Dover?"
+        ],
+        [
+            "EDGAR",
+            "Ay, master."
+        ],
+        [
+            "GLOUCESTER",
+            "There is a cliff, whose high and bending head"
+        ],
+        [
+            "GLOUCESTER",
+            "Looks fearfully in the confined deep:"
+        ],
+        [
+            "GLOUCESTER",
+            "Bring me but to the very brim of it,"
+        ],
+        [
+            "GLOUCESTER",
+            "And I'll repair the misery thou dost bear"
+        ],
+        [
+            "GLOUCESTER",
+            "With something rich about me: from that place"
+        ],
+        [
+            "GLOUCESTER",
+            "I shall no leading need."
+        ],
+        [
+            "EDGAR",
+            "Give me thy arm:"
+        ],
+        [
+            "EDGAR",
+            "Poor Tom shall lead thee.",
+            {
+                "following_direction_line": "5"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter EDGAR"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter GLOUCESTER, led by an Old Man"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Aside"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "EDGAR": [
+            [
+                "1",
+                "12"
+            ],
+            [
+                "27",
+                "29"
+            ],
+            [
+                "31",
+                "32"
+            ],
+            [
+                "44",
+                "46"
+            ],
+            [
+                "61",
+                "62"
+            ],
+            [
+                "64",
+                "64"
+            ],
+            [
+                "66",
+                "73"
+            ],
+            [
+                "82",
+                "82"
+            ],
+            [
+                "89",
+                "90"
+            ]
+        ],
+        "Old Man": [
+            [
+                "13",
+                "14"
+            ],
+            [
+                "18",
+                "18"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "30",
+                "30"
+            ],
+            [
+                "33",
+                "33"
+            ],
+            [
+                "35",
+                "35"
+            ],
+            [
+                "48",
+                "48"
+            ],
+            [
+                "54",
+                "54"
+            ],
+            [
+                "58",
+                "59"
+            ]
+        ],
+        "GLOUCESTER": [
+            [
+                "15",
+                "17"
+            ],
+            [
+                "19",
+                "25"
+            ],
+            [
+                "34",
+                "34"
+            ],
+            [
+                "36",
+                "43"
+            ],
+            [
+                "47",
+                "47"
+            ],
+            [
+                "49",
+                "53"
+            ],
+            [
+                "55",
+                "57"
+            ],
+            [
+                "60",
+                "60"
+            ],
+            [
+                "63",
+                "63"
+            ],
+            [
+                "65",
+                "65"
+            ],
+            [
+                "74",
+                "81"
+            ],
+            [
+                "83",
+                "88"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "The heath."
+}

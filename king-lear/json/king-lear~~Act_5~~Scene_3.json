@@ -1,0 +1,2340 @@
+{
+    "scene_id": "king lear~~Act_5~~Scene_3",
+    "work_number": "12",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "EDMUND",
+            "Some officers take them away: good guard,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "EDMUND",
+            "Until their greater pleasures first be known"
+        ],
+        [
+            "EDMUND",
+            "That are to censure them."
+        ],
+        [
+            "CORDELIA",
+            "We are not the first"
+        ],
+        [
+            "CORDELIA",
+            "Who, with best meaning, have incurr'd the worst."
+        ],
+        [
+            "CORDELIA",
+            "For thee, oppressed king, am I cast down;"
+        ],
+        [
+            "CORDELIA",
+            "Myself could else out-frown false fortune's frown."
+        ],
+        [
+            "CORDELIA",
+            "Shall we not see these daughters and these sisters?"
+        ],
+        [
+            "KING LEAR",
+            "No, no, no, no! Come, let's away to prison:"
+        ],
+        [
+            "KING LEAR",
+            "We two alone will sing like birds i' the cage:"
+        ],
+        [
+            "KING LEAR",
+            "When thou dost ask me blessing, I'll kneel down,"
+        ],
+        [
+            "KING LEAR",
+            "And ask of thee forgiveness: so we'll live,"
+        ],
+        [
+            "KING LEAR",
+            "And pray, and sing, and tell old tales, and laugh"
+        ],
+        [
+            "KING LEAR",
+            "At gilded butterflies, and hear poor rogues"
+        ],
+        [
+            "KING LEAR",
+            "Talk of court news; and we'll talk with them too,"
+        ],
+        [
+            "KING LEAR",
+            "Who loses and who wins; who's in, who's out;"
+        ],
+        [
+            "KING LEAR",
+            "And take upon's the mystery of things,"
+        ],
+        [
+            "KING LEAR",
+            "As if we were God's spies: and we'll wear out,"
+        ],
+        [
+            "KING LEAR",
+            "In a wall'd prison, packs and sects of great ones,"
+        ],
+        [
+            "KING LEAR",
+            "That ebb and flow by the moon."
+        ],
+        [
+            "EDMUND",
+            "Take them away."
+        ],
+        [
+            "KING LEAR",
+            "Upon such sacrifices, my Cordelia,"
+        ],
+        [
+            "KING LEAR",
+            "The gods themselves throw incense. Have I caught thee?"
+        ],
+        [
+            "KING LEAR",
+            "He that parts us shall bring a brand from heaven,"
+        ],
+        [
+            "KING LEAR",
+            "And fire us hence like foxes. Wipe thine eyes;"
+        ],
+        [
+            "KING LEAR",
+            "The good-years shall devour them, flesh and fell,"
+        ],
+        [
+            "KING LEAR",
+            "Ere they shall make us weep: we'll see 'em starve"
+        ],
+        [
+            "KING LEAR",
+            "first. Come.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "EDMUND",
+            "Come hither, captain; hark.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "EDMUND",
+            "Take thou this note;",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "EDMUND",
+            "go follow them to prison:",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "EDMUND",
+            "One step I have advanced thee; if thou dost"
+        ],
+        [
+            "EDMUND",
+            "As this instructs thee, thou dost make thy way"
+        ],
+        [
+            "EDMUND",
+            "To noble fortunes: know thou this, that men"
+        ],
+        [
+            "EDMUND",
+            "Are as the time is: to be tender-minded"
+        ],
+        [
+            "EDMUND",
+            "Does not become a sword: thy great employment"
+        ],
+        [
+            "EDMUND",
+            "Will not bear question; either say thou'lt do 't,"
+        ],
+        [
+            "EDMUND",
+            "Or thrive by other means."
+        ],
+        [
+            "Captain",
+            "I'll do 't, my lord."
+        ],
+        [
+            "EDMUND",
+            "About it; and write happy when thou hast done."
+        ],
+        [
+            "EDMUND",
+            "Mark, I say, instantly; and carry it so"
+        ],
+        [
+            "EDMUND",
+            "As I have set it down."
+        ],
+        [
+            "Captain",
+            "I cannot draw a cart, nor eat dried oats;"
+        ],
+        [
+            "Captain",
+            "If it be man's work, I'll do 't.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "ALBANY",
+            "Sir, you have shown to-day your valiant strain,",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "ALBANY",
+            "And fortune led you well: you have the captives"
+        ],
+        [
+            "ALBANY",
+            "That were the opposites of this day's strife:"
+        ],
+        [
+            "ALBANY",
+            "We do require them of you, so to use them"
+        ],
+        [
+            "ALBANY",
+            "As we shall find their merits and our safety"
+        ],
+        [
+            "ALBANY",
+            "May equally determine."
+        ],
+        [
+            "EDMUND",
+            "Sir, I thought it fit"
+        ],
+        [
+            "EDMUND",
+            "To send the old and miserable king"
+        ],
+        [
+            "EDMUND",
+            "To some retention and appointed guard;"
+        ],
+        [
+            "EDMUND",
+            "Whose age has charms in it, whose title more,"
+        ],
+        [
+            "EDMUND",
+            "To pluck the common bosom on his side,"
+        ],
+        [
+            "EDMUND",
+            "An turn our impress'd lances in our eyes"
+        ],
+        [
+            "EDMUND",
+            "Which do command them. With him I sent the queen;"
+        ],
+        [
+            "EDMUND",
+            "My reason all the same; and they are ready"
+        ],
+        [
+            "EDMUND",
+            "To-morrow, or at further space, to appear"
+        ],
+        [
+            "EDMUND",
+            "Where you shall hold your session. At this time"
+        ],
+        [
+            "EDMUND",
+            "We sweat and bleed: the friend hath lost his friend;"
+        ],
+        [
+            "EDMUND",
+            "And the best quarrels, in the heat, are cursed"
+        ],
+        [
+            "EDMUND",
+            "By those that feel their sharpness:"
+        ],
+        [
+            "EDMUND",
+            "The question of Cordelia and her father"
+        ],
+        [
+            "EDMUND",
+            "Requires a fitter place."
+        ],
+        [
+            "ALBANY",
+            "Sir, by your patience,"
+        ],
+        [
+            "ALBANY",
+            "I hold you but a subject of this war,"
+        ],
+        [
+            "ALBANY",
+            "Not as a brother."
+        ],
+        [
+            "REGAN",
+            "That's as we list to grace him."
+        ],
+        [
+            "REGAN",
+            "Methinks our pleasure might have been demanded,"
+        ],
+        [
+            "REGAN",
+            "Ere you had spoke so far. He led our powers;"
+        ],
+        [
+            "REGAN",
+            "Bore the commission of my place and person;"
+        ],
+        [
+            "REGAN",
+            "The which immediacy may well stand up,"
+        ],
+        [
+            "REGAN",
+            "And call itself your brother."
+        ],
+        [
+            "GONERIL",
+            "Not so hot:"
+        ],
+        [
+            "GONERIL",
+            "In his own grace he doth exalt himself,"
+        ],
+        [
+            "GONERIL",
+            "More than in your addition."
+        ],
+        [
+            "REGAN",
+            "In my rights,"
+        ],
+        [
+            "REGAN",
+            "By me invested, he compeers the best."
+        ],
+        [
+            "GONERIL",
+            "That were the most, if he should husband you."
+        ],
+        [
+            "REGAN",
+            "Jesters do oft prove prophets."
+        ],
+        [
+            "GONERIL",
+            "Holla, holla!"
+        ],
+        [
+            "GONERIL",
+            "That eye that told you so look'd but a-squint."
+        ],
+        [
+            "REGAN",
+            "Lady, I am not well; else I should answer"
+        ],
+        [
+            "REGAN",
+            "From a full-flowing stomach. General,"
+        ],
+        [
+            "REGAN",
+            "Take thou my soldiers, prisoners, patrimony;"
+        ],
+        [
+            "REGAN",
+            "Dispose of them, of me; the walls are thine:"
+        ],
+        [
+            "REGAN",
+            "Witness the world, that I create thee here"
+        ],
+        [
+            "REGAN",
+            "My lord and master."
+        ],
+        [
+            "GONERIL",
+            "Mean you to enjoy him?"
+        ],
+        [
+            "ALBANY",
+            "The let-alone lies not in your good will."
+        ],
+        [
+            "EDMUND",
+            "Nor in thine, lord."
+        ],
+        [
+            "ALBANY",
+            "Half-blooded fellow, yes."
+        ],
+        [
+            "REGAN",
+            "[To EDMUND] Let the drum strike, and prove my title thine."
+        ],
+        [
+            "ALBANY",
+            "Stay yet; hear reason. Edmund, I arrest thee"
+        ],
+        [
+            "ALBANY",
+            "On capital treason; and, in thine attaint,"
+        ],
+        [
+            "ALBANY",
+            "This gilded serpent",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "ALBANY",
+            "For your claim, fair sister,",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "ALBANY",
+            "I bar it in the interest of my wife:"
+        ],
+        [
+            "ALBANY",
+            "'Tis she is sub-contracted to this lord,"
+        ],
+        [
+            "ALBANY",
+            "And I, her husband, contradict your bans."
+        ],
+        [
+            "ALBANY",
+            "If you will marry, make your loves to me,"
+        ],
+        [
+            "ALBANY",
+            "My lady is bespoke."
+        ],
+        [
+            "GONERIL",
+            "An interlude!"
+        ],
+        [
+            "ALBANY",
+            "Thou art arm'd, Gloucester: let the trumpet sound:"
+        ],
+        [
+            "ALBANY",
+            "If none appear to prove upon thy head"
+        ],
+        [
+            "ALBANY",
+            "Thy heinous, manifest, and many treasons,"
+        ],
+        [
+            "ALBANY",
+            "There is my pledge;",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "ALBANY",
+            "I'll prove it on thy heart,",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "ALBANY",
+            "Ere I taste bread, thou art in nothing less"
+        ],
+        [
+            "ALBANY",
+            "Than I have here proclaim'd thee."
+        ],
+        [
+            "REGAN",
+            "Sick, O, sick!"
+        ],
+        [
+            "GONERIL",
+            "[Aside] If not, I'll ne'er trust medicine."
+        ],
+        [
+            "EDMUND",
+            "There's my exchange:",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "EDMUND",
+            "what in the world he is",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "EDMUND",
+            "That names me traitor, villain-like he lies:"
+        ],
+        [
+            "EDMUND",
+            "Call by thy trumpet: he that dares approach,"
+        ],
+        [
+            "EDMUND",
+            "On him, on you, who not? I will maintain"
+        ],
+        [
+            "EDMUND",
+            "My truth and honour firmly."
+        ],
+        [
+            "ALBANY",
+            "A herald, ho!"
+        ],
+        [
+            "EDMUND",
+            "A herald, ho, a herald!"
+        ],
+        [
+            "ALBANY",
+            "Trust to thy single virtue; for thy soldiers,"
+        ],
+        [
+            "ALBANY",
+            "All levied in my name, have in my name"
+        ],
+        [
+            "ALBANY",
+            "Took their discharge."
+        ],
+        [
+            "REGAN",
+            "My sickness grows upon me."
+        ],
+        [
+            "ALBANY",
+            "She is not well; convey her to my tent.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "ALBANY",
+            "Come hither, herald,--Let the trumpet sound,",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "ALBANY",
+            "And read out this."
+        ],
+        [
+            "Captain",
+            "Sound, trumpet!",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "Herald",
+            "[Reads] 'If any man of quality or degree within",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "Herald",
+            "the lists of the army will maintain upon Edmund,"
+        ],
+        [
+            "Herald",
+            "supposed Earl of Gloucester, that he is a manifold"
+        ],
+        [
+            "Herald",
+            "traitor, let him appear by the third sound of the"
+        ],
+        [
+            "Herald",
+            "trumpet: he is bold in his defence.'"
+        ],
+        [
+            "EDMUND",
+            "Sound!",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "Herald",
+            "Again!",
+            {
+                "preceding_direction_line": "10"
+            },
+            {
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "Herald",
+            "Again!",
+            {
+                "preceding_direction_line": "11"
+            },
+            {
+                "following_direction_line": "12"
+            }
+        ],
+        [
+            "ALBANY",
+            "Ask him his purposes, why he appears",
+            {
+                "preceding_direction_line": "12"
+            }
+        ],
+        [
+            "ALBANY",
+            "Upon this call o' the trumpet."
+        ],
+        [
+            "Herald",
+            "What are you?"
+        ],
+        [
+            "Herald",
+            "Your name, your quality? and why you answer"
+        ],
+        [
+            "Herald",
+            "This present summons?"
+        ],
+        [
+            "EDGAR",
+            "Know, my name is lost;"
+        ],
+        [
+            "EDGAR",
+            "By treason's tooth bare-gnawn and canker-bit:"
+        ],
+        [
+            "EDGAR",
+            "Yet am I noble as the adversary"
+        ],
+        [
+            "EDGAR",
+            "I come to cope."
+        ],
+        [
+            "ALBANY",
+            "Which is that adversary?"
+        ],
+        [
+            "EDGAR",
+            "What's he that speaks for Edmund Earl of Gloucester?"
+        ],
+        [
+            "EDMUND",
+            "Himself: what say'st thou to him?"
+        ],
+        [
+            "EDGAR",
+            "Draw thy sword,"
+        ],
+        [
+            "EDGAR",
+            "That, if my speech offend a noble heart,"
+        ],
+        [
+            "EDGAR",
+            "Thy arm may do thee justice: here is mine."
+        ],
+        [
+            "EDGAR",
+            "Behold, it is the privilege of mine honours,"
+        ],
+        [
+            "EDGAR",
+            "My oath, and my profession: I protest,"
+        ],
+        [
+            "EDGAR",
+            "Maugre thy strength, youth, place, and eminence,"
+        ],
+        [
+            "EDGAR",
+            "Despite thy victor sword and fire-new fortune,"
+        ],
+        [
+            "EDGAR",
+            "Thy valour and thy heart, thou art a traitor;"
+        ],
+        [
+            "EDGAR",
+            "False to thy gods, thy brother, and thy father;"
+        ],
+        [
+            "EDGAR",
+            "Conspirant 'gainst this high-illustrious prince;"
+        ],
+        [
+            "EDGAR",
+            "And, from the extremest upward of thy head"
+        ],
+        [
+            "EDGAR",
+            "To the descent and dust below thy foot,"
+        ],
+        [
+            "EDGAR",
+            "A most toad-spotted traitor. Say thou 'No,'"
+        ],
+        [
+            "EDGAR",
+            "This sword, this arm, and my best spirits, are bent"
+        ],
+        [
+            "EDGAR",
+            "To prove upon thy heart, whereto I speak,"
+        ],
+        [
+            "EDGAR",
+            "Thou liest."
+        ],
+        [
+            "EDMUND",
+            "In wisdom I should ask thy name;"
+        ],
+        [
+            "EDMUND",
+            "But, since thy outside looks so fair and warlike,"
+        ],
+        [
+            "EDMUND",
+            "And that thy tongue some say of breeding breathes,"
+        ],
+        [
+            "EDMUND",
+            "What safe and nicely I might well delay"
+        ],
+        [
+            "EDMUND",
+            "By rule of knighthood, I disdain and spurn:"
+        ],
+        [
+            "EDMUND",
+            "Back do I toss these treasons to thy head;"
+        ],
+        [
+            "EDMUND",
+            "With the hell-hated lie o'erwhelm thy heart;"
+        ],
+        [
+            "EDMUND",
+            "Which, for they yet glance by and scarcely bruise,"
+        ],
+        [
+            "EDMUND",
+            "This sword of mine shall give them instant way,"
+        ],
+        [
+            "EDMUND",
+            "Where they shall rest for ever. Trumpets, speak!",
+            {
+                "following_direction_line": "13"
+            }
+        ],
+        [
+            "ALBANY",
+            "Save him, save him!",
+            {
+                "preceding_direction_line": "13"
+            }
+        ],
+        [
+            "GONERIL",
+            "This is practise, Gloucester:"
+        ],
+        [
+            "GONERIL",
+            "By the law of arms thou wast not bound to answer"
+        ],
+        [
+            "GONERIL",
+            "An unknown opposite; thou art not vanquish'd,"
+        ],
+        [
+            "GONERIL",
+            "But cozen'd and beguiled."
+        ],
+        [
+            "ALBANY",
+            "Shut your mouth, dame,"
+        ],
+        [
+            "ALBANY",
+            "Or with this paper shall I stop it: Hold, sir:"
+        ],
+        [
+            "ALBANY",
+            "Thou worse than any name, read thine own evil:"
+        ],
+        [
+            "ALBANY",
+            "No tearing, lady: I perceive you know it.",
+            {
+                "following_direction_line": "14"
+            }
+        ],
+        [
+            "GONERIL",
+            "Say, if I do, the laws are mine, not thine:",
+            {
+                "preceding_direction_line": "14"
+            }
+        ],
+        [
+            "GONERIL",
+            "Who can arraign me for't."
+        ],
+        [
+            "ALBANY",
+            "Most monstrous! oh!"
+        ],
+        [
+            "ALBANY",
+            "Know'st thou this paper?"
+        ],
+        [
+            "GONERIL",
+            "Ask me not what I know.",
+            {
+                "following_direction_line": "15"
+            }
+        ],
+        [
+            "ALBANY",
+            "Go after her: she's desperate; govern her.",
+            {
+                "preceding_direction_line": "15"
+            }
+        ],
+        [
+            "EDMUND",
+            "What you have charged me with, that have I done;"
+        ],
+        [
+            "EDMUND",
+            "And more, much more; the time will bring it out:"
+        ],
+        [
+            "EDMUND",
+            "'Tis past, and so am I. But what art thou"
+        ],
+        [
+            "EDMUND",
+            "That hast this fortune on me? If thou'rt noble,"
+        ],
+        [
+            "EDMUND",
+            "I do forgive thee."
+        ],
+        [
+            "EDGAR",
+            "Let's exchange charity."
+        ],
+        [
+            "EDGAR",
+            "I am no less in blood than thou art, Edmund;"
+        ],
+        [
+            "EDGAR",
+            "If more, the more thou hast wrong'd me."
+        ],
+        [
+            "EDGAR",
+            "My name is Edgar, and thy father's son."
+        ],
+        [
+            "EDGAR",
+            "The gods are just, and of our pleasant vices"
+        ],
+        [
+            "EDGAR",
+            "Make instruments to plague us:"
+        ],
+        [
+            "EDGAR",
+            "The dark and vicious place where thee he got"
+        ],
+        [
+            "EDGAR",
+            "Cost him his eyes."
+        ],
+        [
+            "EDMUND",
+            "Thou hast spoken right, 'tis true;"
+        ],
+        [
+            "EDMUND",
+            "The wheel is come full circle: I am here."
+        ],
+        [
+            "ALBANY",
+            "Methought thy very gait did prophesy"
+        ],
+        [
+            "ALBANY",
+            "A royal nobleness: I must embrace thee:"
+        ],
+        [
+            "ALBANY",
+            "Let sorrow split my heart, if ever I"
+        ],
+        [
+            "ALBANY",
+            "Did hate thee or thy father!"
+        ],
+        [
+            "EDGAR",
+            "Worthy prince, I know't."
+        ],
+        [
+            "ALBANY",
+            "Where have you hid yourself?"
+        ],
+        [
+            "ALBANY",
+            "How have you known the miseries of your father?"
+        ],
+        [
+            "EDGAR",
+            "By nursing them, my lord. List a brief tale;"
+        ],
+        [
+            "EDGAR",
+            "And when 'tis told, O, that my heart would burst!"
+        ],
+        [
+            "EDGAR",
+            "The bloody proclamation to escape,"
+        ],
+        [
+            "EDGAR",
+            "That follow'd me so near,--O, our lives' sweetness!"
+        ],
+        [
+            "EDGAR",
+            "That we the pain of death would hourly die"
+        ],
+        [
+            "EDGAR",
+            "Rather than die at once!--taught me to shift"
+        ],
+        [
+            "EDGAR",
+            "Into a madman's rags; to assume a semblance"
+        ],
+        [
+            "EDGAR",
+            "That very dogs disdain'd: and in this habit"
+        ],
+        [
+            "EDGAR",
+            "Met I my father with his bleeding rings,"
+        ],
+        [
+            "EDGAR",
+            "Their precious stones new lost: became his guide,"
+        ],
+        [
+            "EDGAR",
+            "Led him, begg'd for him, saved him from despair;"
+        ],
+        [
+            "EDGAR",
+            "Never,--O fault!--reveal'd myself unto him,"
+        ],
+        [
+            "EDGAR",
+            "Until some half-hour past, when I was arm'd:"
+        ],
+        [
+            "EDGAR",
+            "Not sure, though hoping, of this good success,"
+        ],
+        [
+            "EDGAR",
+            "I ask'd his blessing, and from first to last"
+        ],
+        [
+            "EDGAR",
+            "Told him my pilgrimage: but his flaw'd heart,"
+        ],
+        [
+            "EDGAR",
+            "Alack, too weak the conflict to support!"
+        ],
+        [
+            "EDGAR",
+            "'Twixt two extremes of passion, joy and grief,"
+        ],
+        [
+            "EDGAR",
+            "Burst smilingly."
+        ],
+        [
+            "EDMUND",
+            "This speech of yours hath moved me,"
+        ],
+        [
+            "EDMUND",
+            "And shall perchance do good: but speak you on;"
+        ],
+        [
+            "EDMUND",
+            "You look as you had something more to say."
+        ],
+        [
+            "ALBANY",
+            "If there be more, more woeful, hold it in;"
+        ],
+        [
+            "ALBANY",
+            "For I am almost ready to dissolve,"
+        ],
+        [
+            "ALBANY",
+            "Hearing of this."
+        ],
+        [
+            "EDGAR",
+            "This would have seem'd a period"
+        ],
+        [
+            "EDGAR",
+            "To such as love not sorrow; but another,"
+        ],
+        [
+            "EDGAR",
+            "To amplify too much, would make much more,"
+        ],
+        [
+            "EDGAR",
+            "And top extremity."
+        ],
+        [
+            "EDGAR",
+            "Whilst I was big in clamour came there in a man,"
+        ],
+        [
+            "EDGAR",
+            "Who, having seen me in my worst estate,"
+        ],
+        [
+            "EDGAR",
+            "Shunn'd my abhorr'd society; but then, finding"
+        ],
+        [
+            "EDGAR",
+            "Who 'twas that so endured, with his strong arms"
+        ],
+        [
+            "EDGAR",
+            "He fastened on my neck, and bellow'd out"
+        ],
+        [
+            "EDGAR",
+            "As he'ld burst heaven; threw him on my father;"
+        ],
+        [
+            "EDGAR",
+            "Told the most piteous tale of Lear and him"
+        ],
+        [
+            "EDGAR",
+            "That ever ear received: which in recounting"
+        ],
+        [
+            "EDGAR",
+            "His grief grew puissant and the strings of life"
+        ],
+        [
+            "EDGAR",
+            "Began to crack: twice then the trumpets sounded,"
+        ],
+        [
+            "EDGAR",
+            "And there I left him tranced."
+        ],
+        [
+            "ALBANY",
+            "But who was this?"
+        ],
+        [
+            "EDGAR",
+            "Kent, sir, the banish'd Kent; who in disguise"
+        ],
+        [
+            "EDGAR",
+            "Follow'd his enemy king, and did him service"
+        ],
+        [
+            "EDGAR",
+            "Improper for a slave.",
+            {
+                "following_direction_line": "16"
+            }
+        ],
+        [
+            "Gentleman",
+            "Help, help, O, help!",
+            {
+                "preceding_direction_line": "16"
+            }
+        ],
+        [
+            "EDGAR",
+            "What kind of help?"
+        ],
+        [
+            "ALBANY",
+            "Speak, man."
+        ],
+        [
+            "EDGAR",
+            "What means that bloody knife?"
+        ],
+        [
+            "Gentleman",
+            "'Tis hot, it smokes;"
+        ],
+        [
+            "Gentleman",
+            "It came even from the heart of--O, she's dead!"
+        ],
+        [
+            "ALBANY",
+            "Who dead? speak, man."
+        ],
+        [
+            "Gentleman",
+            "Your lady, sir, your lady: and her sister"
+        ],
+        [
+            "Gentleman",
+            "By her is poisoned; she hath confess'd it."
+        ],
+        [
+            "EDMUND",
+            "I was contracted to them both: all three"
+        ],
+        [
+            "EDMUND",
+            "Now marry in an instant."
+        ],
+        [
+            "EDGAR",
+            "Here comes Kent."
+        ],
+        [
+            "ALBANY",
+            "Produce their bodies, be they alive or dead:"
+        ],
+        [
+            "ALBANY",
+            "This judgment of the heavens, that makes us tremble,"
+        ],
+        [
+            "ALBANY",
+            "Touches us not with pity.",
+            {
+                "following_direction_line": "17"
+            }
+        ],
+        [
+            "ALBANY",
+            "O, is this he?",
+            {
+                "preceding_direction_line": "17"
+            }
+        ],
+        [
+            "ALBANY",
+            "The time will not allow the compliment"
+        ],
+        [
+            "ALBANY",
+            "Which very manners urges."
+        ],
+        [
+            "KENT",
+            "I am come"
+        ],
+        [
+            "KENT",
+            "To bid my king and master aye good night:"
+        ],
+        [
+            "KENT",
+            "Is he not here?"
+        ],
+        [
+            "ALBANY",
+            "Great thing of us forgot!"
+        ],
+        [
+            "ALBANY",
+            "Speak, Edmund, where's the king? and where's Cordelia?"
+        ],
+        [
+            "ALBANY",
+            "See'st thou this object, Kent?",
+            {
+                "following_direction_line": "18"
+            }
+        ],
+        [
+            "KENT",
+            "Alack, why thus?",
+            {
+                "preceding_direction_line": "18"
+            }
+        ],
+        [
+            "EDMUND",
+            "Yet Edmund was beloved:"
+        ],
+        [
+            "EDMUND",
+            "The one the other poison'd for my sake,"
+        ],
+        [
+            "EDMUND",
+            "And after slew herself."
+        ],
+        [
+            "ALBANY",
+            "Even so. Cover their faces."
+        ],
+        [
+            "EDMUND",
+            "I pant for life: some good I mean to do,"
+        ],
+        [
+            "EDMUND",
+            "Despite of mine own nature. Quickly send,"
+        ],
+        [
+            "EDMUND",
+            "Be brief in it, to the castle; for my writ"
+        ],
+        [
+            "EDMUND",
+            "Is on the life of Lear and on Cordelia:"
+        ],
+        [
+            "EDMUND",
+            "Nay, send in time."
+        ],
+        [
+            "ALBANY",
+            "Run, run, O, run!"
+        ],
+        [
+            "EDGAR",
+            "To who, my lord? Who hath the office? send"
+        ],
+        [
+            "EDGAR",
+            "Thy token of reprieve."
+        ],
+        [
+            "EDMUND",
+            "Well thought on: take my sword,"
+        ],
+        [
+            "EDMUND",
+            "Give it the captain."
+        ],
+        [
+            "ALBANY",
+            "Haste thee, for thy life.",
+            {
+                "following_direction_line": "19"
+            }
+        ],
+        [
+            "EDMUND",
+            "He hath commission from thy wife and me",
+            {
+                "preceding_direction_line": "19"
+            }
+        ],
+        [
+            "EDMUND",
+            "To hang Cordelia in the prison, and"
+        ],
+        [
+            "EDMUND",
+            "To lay the blame upon her own despair,"
+        ],
+        [
+            "EDMUND",
+            "That she fordid herself."
+        ],
+        [
+            "ALBANY",
+            "The gods defend her! Bear him hence awhile.",
+            {
+                "following_direction_line": "20"
+            }
+        ],
+        [
+            "KING LEAR",
+            "Howl, howl, howl, howl! O, you are men of stones:",
+            {
+                "preceding_direction_line": "20"
+            }
+        ],
+        [
+            "KING LEAR",
+            "Had I your tongues and eyes, I'ld use them so"
+        ],
+        [
+            "KING LEAR",
+            "That heaven's vault should crack. She's gone for ever!"
+        ],
+        [
+            "KING LEAR",
+            "I know when one is dead, and when one lives;"
+        ],
+        [
+            "KING LEAR",
+            "She's dead as earth. Lend me a looking-glass;"
+        ],
+        [
+            "KING LEAR",
+            "If that her breath will mist or stain the stone,"
+        ],
+        [
+            "KING LEAR",
+            "Why, then she lives."
+        ],
+        [
+            "KENT",
+            "Is this the promised end"
+        ],
+        [
+            "EDGAR",
+            "Or image of that horror?"
+        ],
+        [
+            "ALBANY",
+            "Fall, and cease!"
+        ],
+        [
+            "KING LEAR",
+            "This feather stirs; she lives! if it be so,"
+        ],
+        [
+            "KING LEAR",
+            "It is a chance which does redeem all sorrows"
+        ],
+        [
+            "KING LEAR",
+            "That ever I have felt."
+        ],
+        [
+            "KENT",
+            "[Kneeling] O my good master!"
+        ],
+        [
+            "KING LEAR",
+            "Prithee, away."
+        ],
+        [
+            "EDGAR",
+            "'Tis noble Kent, your friend."
+        ],
+        [
+            "KING LEAR",
+            "A plague upon you, murderers, traitors all!"
+        ],
+        [
+            "KING LEAR",
+            "I might have saved her; now she's gone for ever!"
+        ],
+        [
+            "KING LEAR",
+            "Cordelia, Cordelia! stay a little. Ha!"
+        ],
+        [
+            "KING LEAR",
+            "What is't thou say'st? Her voice was ever soft,"
+        ],
+        [
+            "KING LEAR",
+            "Gentle, and low, an excellent thing in woman."
+        ],
+        [
+            "KING LEAR",
+            "I kill'd the slave that was a-hanging thee."
+        ],
+        [
+            "Captain",
+            "'Tis true, my lords, he did."
+        ],
+        [
+            "KING LEAR",
+            "Did I not, fellow?"
+        ],
+        [
+            "KING LEAR",
+            "I have seen the day, with my good biting falchion"
+        ],
+        [
+            "KING LEAR",
+            "I would have made them skip: I am old now,"
+        ],
+        [
+            "KING LEAR",
+            "And these same crosses spoil me. Who are you?"
+        ],
+        [
+            "KING LEAR",
+            "Mine eyes are not o' the best: I'll tell you straight."
+        ],
+        [
+            "KENT",
+            "If fortune brag of two she loved and hated,"
+        ],
+        [
+            "KENT",
+            "One of them we behold."
+        ],
+        [
+            "KING LEAR",
+            "This is a dull sight. Are you not Kent?"
+        ],
+        [
+            "KENT",
+            "The same,"
+        ],
+        [
+            "KENT",
+            "Your servant Kent: Where is your servant Caius?"
+        ],
+        [
+            "KING LEAR",
+            "He's a good fellow, I can tell you that;"
+        ],
+        [
+            "KING LEAR",
+            "He'll strike, and quickly too: he's dead and rotten."
+        ],
+        [
+            "KENT",
+            "No, my good lord; I am the very man,--"
+        ],
+        [
+            "KING LEAR",
+            "I'll see that straight."
+        ],
+        [
+            "KENT",
+            "That, from your first of difference and decay,"
+        ],
+        [
+            "KENT",
+            "Have follow'd your sad steps."
+        ],
+        [
+            "KING LEAR",
+            "You are welcome hither."
+        ],
+        [
+            "KENT",
+            "Nor no man else: all's cheerless, dark, and deadly."
+        ],
+        [
+            "KENT",
+            "Your eldest daughters have fordone them selves,"
+        ],
+        [
+            "KENT",
+            "And desperately are dead."
+        ],
+        [
+            "KING LEAR",
+            "Ay, so I think."
+        ],
+        [
+            "ALBANY",
+            "He knows not what he says: and vain it is"
+        ],
+        [
+            "ALBANY",
+            "That we present us to him."
+        ],
+        [
+            "EDGAR",
+            "Very bootless.",
+            {
+                "following_direction_line": "21"
+            }
+        ],
+        [
+            "Captain",
+            "Edmund is dead, my lord.",
+            {
+                "preceding_direction_line": "21"
+            }
+        ],
+        [
+            "ALBANY",
+            "That's but a trifle here."
+        ],
+        [
+            "ALBANY",
+            "You lords and noble friends, know our intent."
+        ],
+        [
+            "ALBANY",
+            "What comfort to this great decay may come"
+        ],
+        [
+            "ALBANY",
+            "Shall be applied: for us we will resign,"
+        ],
+        [
+            "ALBANY",
+            "During the life of this old majesty,"
+        ],
+        [
+            "ALBANY",
+            "To him our absolute power:",
+            {
+                "following_direction_line": "22"
+            }
+        ],
+        [
+            "ALBANY",
+            "you, to your rights:",
+            {
+                "preceding_direction_line": "22"
+            }
+        ],
+        [
+            "ALBANY",
+            "With boot, and such addition as your honours"
+        ],
+        [
+            "ALBANY",
+            "Have more than merited. All friends shall taste"
+        ],
+        [
+            "ALBANY",
+            "The wages of their virtue, and all foes"
+        ],
+        [
+            "ALBANY",
+            "The cup of their deservings. O, see, see!"
+        ],
+        [
+            "KING LEAR",
+            "And my poor fool is hang'd! No, no, no life!"
+        ],
+        [
+            "KING LEAR",
+            "Why should a dog, a horse, a rat, have life,"
+        ],
+        [
+            "KING LEAR",
+            "And thou no breath at all? Thou'lt come no more,"
+        ],
+        [
+            "KING LEAR",
+            "Never, never, never, never, never!"
+        ],
+        [
+            "KING LEAR",
+            "Pray you, undo this button: thank you, sir."
+        ],
+        [
+            "KING LEAR",
+            "Do you see this? Look on her, look, her lips,"
+        ],
+        [
+            "KING LEAR",
+            "Look there, look there!",
+            {
+                "following_direction_line": "23"
+            }
+        ],
+        [
+            "EDGAR",
+            "He faints! My lord, my lord!",
+            {
+                "preceding_direction_line": "23"
+            }
+        ],
+        [
+            "KENT",
+            "Break, heart; I prithee, break!"
+        ],
+        [
+            "EDGAR",
+            "Look up, my lord."
+        ],
+        [
+            "KENT",
+            "Vex not his ghost: O, let him pass! he hates him much"
+        ],
+        [
+            "KENT",
+            "That would upon the rack of this tough world"
+        ],
+        [
+            "KENT",
+            "Stretch him out longer."
+        ],
+        [
+            "EDGAR",
+            "He is gone, indeed."
+        ],
+        [
+            "KENT",
+            "The wonder is, he hath endured so long:"
+        ],
+        [
+            "KENT",
+            "He but usurp'd his life."
+        ],
+        [
+            "ALBANY",
+            "Bear them from hence. Our present business"
+        ],
+        [
+            "ALBANY",
+            "Is general woe.",
+            {
+                "following_direction_line": "24"
+            }
+        ],
+        [
+            "ALBANY",
+            "Friends of my soul, you twain",
+            {
+                "preceding_direction_line": "24"
+            }
+        ],
+        [
+            "ALBANY",
+            "Rule in this realm, and the gored state sustain."
+        ],
+        [
+            "KENT",
+            "I have a journey, sir, shortly to go;"
+        ],
+        [
+            "KENT",
+            "My master calls me, I must not say no."
+        ],
+        [
+            "ALBANY",
+            "The weight of this sad time we must obey;"
+        ],
+        [
+            "ALBANY",
+            "Speak what we feel, not what we ought to say."
+        ],
+        [
+            "ALBANY",
+            "The oldest hath borne most: we that are young"
+        ],
+        [
+            "ALBANY",
+            "Shall never see so much, nor live so long.",
+            {
+                "following_direction_line": "25"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter, in conquest, with drum and colours, EDMUND, KING LEAR and CORDELIA, prisoners; Captain, Soldiers"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt KING LEAR and CORDELIA, guarded"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Giving a paper"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit. Flourish. Enter ALBANY, GONERIL, REGAN, another Captain, and Soldiers"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Pointing to Goneril"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Throwing down a glove"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Throwing down a glove"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exit Regan, led. Enter a Herald"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "A trumpet sounds"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "First trumpet"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "Second trumpet"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Third trumpet. Trumpet answers within. Enter EDGAR, at the third sound, armed, with a trumpet before him"
+        ],
+        [
+            "_DIRECTION",
+            "D13",
+            "Alarums. They fight. EDMUND falls"
+        ],
+        [
+            "_DIRECTION",
+            "D14",
+            "Gives the letter to EDMUND"
+        ],
+        [
+            "_DIRECTION",
+            "D15",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D16",
+            "Enter a Gentleman, with a bloody knife"
+        ],
+        [
+            "_DIRECTION",
+            "D17",
+            "Exit Gentleman. Enter KENT"
+        ],
+        [
+            "_DIRECTION",
+            "D18",
+            "The bodies of GONERIL and REGAN are brought in"
+        ],
+        [
+            "_DIRECTION",
+            "D19",
+            "Exit EDGAR"
+        ],
+        [
+            "_DIRECTION",
+            "D20",
+            "EDMUND is borne off. Re-enter KING LEAR, with CORDELIA dead in his arms; EDGAR, Captain, and others following"
+        ],
+        [
+            "_DIRECTION",
+            "D21",
+            "Enter a Captain"
+        ],
+        [
+            "_DIRECTION",
+            "D22",
+            "To EDGAR and KENT"
+        ],
+        [
+            "_DIRECTION",
+            "D23",
+            "Dies"
+        ],
+        [
+            "_DIRECTION",
+            "D24",
+            "To KENT and EDGAR"
+        ],
+        [
+            "_DIRECTION",
+            "D25",
+            "Exeunt, with a dead march"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "EDMUND": [
+            [
+                "1",
+                "3"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "29",
+                "38"
+            ],
+            [
+                "40",
+                "42"
+            ],
+            [
+                "51",
+                "65"
+            ],
+            [
+                "92",
+                "92"
+            ],
+            [
+                "114",
+                "119"
+            ],
+            [
+                "121",
+                "121"
+            ],
+            [
+                "135",
+                "135"
+            ],
+            [
+                "149",
+                "149"
+            ],
+            [
+                "166",
+                "175"
+            ],
+            [
+                "191",
+                "195"
+            ],
+            [
+                "204",
+                "205"
+            ],
+            [
+                "232",
+                "234"
+            ],
+            [
+                "266",
+                "267"
+            ],
+            [
+                "282",
+                "284"
+            ],
+            [
+                "286",
+                "290"
+            ],
+            [
+                "294",
+                "295"
+            ],
+            [
+                "297",
+                "300"
+            ]
+        ],
+        "CORDELIA": [
+            [
+                "4",
+                "8"
+            ]
+        ],
+        "KING LEAR": [
+            [
+                "9",
+                "20"
+            ],
+            [
+                "22",
+                "28"
+            ],
+            [
+                "302",
+                "308"
+            ],
+            [
+                "312",
+                "314"
+            ],
+            [
+                "316",
+                "316"
+            ],
+            [
+                "318",
+                "323"
+            ],
+            [
+                "325",
+                "329"
+            ],
+            [
+                "332",
+                "332"
+            ],
+            [
+                "335",
+                "336"
+            ],
+            [
+                "338",
+                "338"
+            ],
+            [
+                "341",
+                "341"
+            ],
+            [
+                "345",
+                "345"
+            ],
+            [
+                "361",
+                "367"
+            ]
+        ],
+        "Captain": [
+            [
+                "39",
+                "39"
+            ],
+            [
+                "43",
+                "44"
+            ],
+            [
+                "129",
+                "129"
+            ],
+            [
+                "324",
+                "324"
+            ],
+            [
+                "349",
+                "349"
+            ]
+        ],
+        "ALBANY": [
+            [
+                "45",
+                "50"
+            ],
+            [
+                "66",
+                "68"
+            ],
+            [
+                "91",
+                "91"
+            ],
+            [
+                "93",
+                "93"
+            ],
+            [
+                "95",
+                "103"
+            ],
+            [
+                "105",
+                "111"
+            ],
+            [
+                "120",
+                "120"
+            ],
+            [
+                "122",
+                "124"
+            ],
+            [
+                "126",
+                "128"
+            ],
+            [
+                "138",
+                "139"
+            ],
+            [
+                "147",
+                "147"
+            ],
+            [
+                "176",
+                "176"
+            ],
+            [
+                "181",
+                "184"
+            ],
+            [
+                "187",
+                "188"
+            ],
+            [
+                "190",
+                "190"
+            ],
+            [
+                "206",
+                "209"
+            ],
+            [
+                "211",
+                "212"
+            ],
+            [
+                "235",
+                "237"
+            ],
+            [
+                "253",
+                "253"
+            ],
+            [
+                "259",
+                "259"
+            ],
+            [
+                "263",
+                "263"
+            ],
+            [
+                "269",
+                "274"
+            ],
+            [
+                "278",
+                "280"
+            ],
+            [
+                "285",
+                "285"
+            ],
+            [
+                "291",
+                "291"
+            ],
+            [
+                "296",
+                "296"
+            ],
+            [
+                "301",
+                "301"
+            ],
+            [
+                "311",
+                "311"
+            ],
+            [
+                "346",
+                "347"
+            ],
+            [
+                "350",
+                "360"
+            ],
+            [
+                "377",
+                "380"
+            ],
+            [
+                "383",
+                "386"
+            ]
+        ],
+        "REGAN": [
+            [
+                "69",
+                "74"
+            ],
+            [
+                "78",
+                "79"
+            ],
+            [
+                "81",
+                "81"
+            ],
+            [
+                "84",
+                "89"
+            ],
+            [
+                "94",
+                "94"
+            ],
+            [
+                "112",
+                "112"
+            ],
+            [
+                "125",
+                "125"
+            ]
+        ],
+        "GONERIL": [
+            [
+                "75",
+                "77"
+            ],
+            [
+                "80",
+                "80"
+            ],
+            [
+                "82",
+                "83"
+            ],
+            [
+                "90",
+                "90"
+            ],
+            [
+                "104",
+                "104"
+            ],
+            [
+                "113",
+                "113"
+            ],
+            [
+                "177",
+                "180"
+            ],
+            [
+                "185",
+                "186"
+            ],
+            [
+                "189",
+                "189"
+            ]
+        ],
+        "Herald": [
+            [
+                "130",
+                "134"
+            ],
+            [
+                "136",
+                "137"
+            ],
+            [
+                "140",
+                "142"
+            ]
+        ],
+        "EDGAR": [
+            [
+                "143",
+                "146"
+            ],
+            [
+                "148",
+                "148"
+            ],
+            [
+                "150",
+                "165"
+            ],
+            [
+                "196",
+                "203"
+            ],
+            [
+                "210",
+                "210"
+            ],
+            [
+                "213",
+                "231"
+            ],
+            [
+                "238",
+                "252"
+            ],
+            [
+                "254",
+                "256"
+            ],
+            [
+                "258",
+                "258"
+            ],
+            [
+                "260",
+                "260"
+            ],
+            [
+                "268",
+                "268"
+            ],
+            [
+                "292",
+                "293"
+            ],
+            [
+                "310",
+                "310"
+            ],
+            [
+                "317",
+                "317"
+            ],
+            [
+                "348",
+                "348"
+            ],
+            [
+                "368",
+                "368"
+            ],
+            [
+                "370",
+                "370"
+            ],
+            [
+                "374",
+                "374"
+            ]
+        ],
+        "Gentleman": [
+            [
+                "257",
+                "257"
+            ],
+            [
+                "261",
+                "262"
+            ],
+            [
+                "264",
+                "265"
+            ]
+        ],
+        "KENT": [
+            [
+                "275",
+                "277"
+            ],
+            [
+                "281",
+                "281"
+            ],
+            [
+                "309",
+                "309"
+            ],
+            [
+                "315",
+                "315"
+            ],
+            [
+                "330",
+                "331"
+            ],
+            [
+                "333",
+                "334"
+            ],
+            [
+                "337",
+                "337"
+            ],
+            [
+                "339",
+                "340"
+            ],
+            [
+                "342",
+                "344"
+            ],
+            [
+                "369",
+                "369"
+            ],
+            [
+                "371",
+                "373"
+            ],
+            [
+                "375",
+                "376"
+            ],
+            [
+                "381",
+                "382"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "The British camp near Dover."
+}

@@ -1,0 +1,513 @@
+{
+    "scene_id": "king lear~~Act_3~~Scene_2",
+    "work_number": "12",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "KING LEAR",
+            "Blow, winds, and crack your cheeks! rage! blow!",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "KING LEAR",
+            "You cataracts and hurricanoes, spout"
+        ],
+        [
+            "KING LEAR",
+            "Till you have drench'd our steeples, drown'd the cocks!"
+        ],
+        [
+            "KING LEAR",
+            "You sulphurous and thought-executing fires,"
+        ],
+        [
+            "KING LEAR",
+            "Vaunt-couriers to oak-cleaving thunderbolts,"
+        ],
+        [
+            "KING LEAR",
+            "Singe my white head! And thou, all-shaking thunder,"
+        ],
+        [
+            "KING LEAR",
+            "Smite flat the thick rotundity o' the world!"
+        ],
+        [
+            "KING LEAR",
+            "Crack nature's moulds, an germens spill at once,"
+        ],
+        [
+            "KING LEAR",
+            "That make ingrateful man!"
+        ],
+        [
+            "Fool",
+            "O nuncle, court holy-water in a dry"
+        ],
+        [
+            "Fool",
+            "house is better than this rain-water out o' door."
+        ],
+        [
+            "Fool",
+            "Good nuncle, in, and ask thy daughters' blessing:"
+        ],
+        [
+            "Fool",
+            "here's a night pities neither wise man nor fool."
+        ],
+        [
+            "KING LEAR",
+            "Rumble thy bellyful! Spit, fire! spout, rain!"
+        ],
+        [
+            "KING LEAR",
+            "Nor rain, wind, thunder, fire, are my daughters:"
+        ],
+        [
+            "KING LEAR",
+            "I tax not you, you elements, with unkindness;"
+        ],
+        [
+            "KING LEAR",
+            "I never gave you kingdom, call'd you children,"
+        ],
+        [
+            "KING LEAR",
+            "You owe me no subscription: then let fall"
+        ],
+        [
+            "KING LEAR",
+            "Your horrible pleasure: here I stand, your slave,"
+        ],
+        [
+            "KING LEAR",
+            "A poor, infirm, weak, and despised old man:"
+        ],
+        [
+            "KING LEAR",
+            "But yet I call you servile ministers,"
+        ],
+        [
+            "KING LEAR",
+            "That have with two pernicious daughters join'd"
+        ],
+        [
+            "KING LEAR",
+            "Your high engender'd battles 'gainst a head"
+        ],
+        [
+            "KING LEAR",
+            "So old and white as this. O! O! 'tis foul!"
+        ],
+        [
+            "Fool",
+            "He that has a house to put's head in has a good"
+        ],
+        [
+            "Fool",
+            "head-piece."
+        ],
+        [
+            "Fool",
+            "The cod-piece that will house"
+        ],
+        [
+            "Fool",
+            "Before the head has any,"
+        ],
+        [
+            "Fool",
+            "The head and he shall louse;"
+        ],
+        [
+            "Fool",
+            "So beggars marry many."
+        ],
+        [
+            "Fool",
+            "The man that makes his toe"
+        ],
+        [
+            "Fool",
+            "What he his heart should make"
+        ],
+        [
+            "Fool",
+            "Shall of a corn cry woe,"
+        ],
+        [
+            "Fool",
+            "And turn his sleep to wake."
+        ],
+        [
+            "Fool",
+            "For there was never yet fair woman but she made"
+        ],
+        [
+            "Fool",
+            "mouths in a glass."
+        ],
+        [
+            "KING LEAR",
+            "No, I will be the pattern of all patience;"
+        ],
+        [
+            "KING LEAR",
+            "I will say nothing.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "KENT",
+            "Who's there?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "Fool",
+            "Marry, here's grace and a cod-piece; that's a wise"
+        ],
+        [
+            "Fool",
+            "man and a fool."
+        ],
+        [
+            "KENT",
+            "Alas, sir, are you here? things that love night"
+        ],
+        [
+            "KENT",
+            "Love not such nights as these; the wrathful skies"
+        ],
+        [
+            "KENT",
+            "Gallow the very wanderers of the dark,"
+        ],
+        [
+            "KENT",
+            "And make them keep their caves: since I was man,"
+        ],
+        [
+            "KENT",
+            "Such sheets of fire, such bursts of horrid thunder,"
+        ],
+        [
+            "KENT",
+            "Such groans of roaring wind and rain, I never"
+        ],
+        [
+            "KENT",
+            "Remember to have heard: man's nature cannot carry"
+        ],
+        [
+            "KENT",
+            "The affliction nor the fear."
+        ],
+        [
+            "KING LEAR",
+            "Let the great gods,"
+        ],
+        [
+            "KING LEAR",
+            "That keep this dreadful pother o'er our heads,"
+        ],
+        [
+            "KING LEAR",
+            "Find out their enemies now. Tremble, thou wretch,"
+        ],
+        [
+            "KING LEAR",
+            "That hast within thee undivulged crimes,"
+        ],
+        [
+            "KING LEAR",
+            "Unwhipp'd of justice: hide thee, thou bloody hand;"
+        ],
+        [
+            "KING LEAR",
+            "Thou perjured, and thou simular man of virtue"
+        ],
+        [
+            "KING LEAR",
+            "That art incestuous: caitiff, to pieces shake,"
+        ],
+        [
+            "KING LEAR",
+            "That under covert and convenient seeming"
+        ],
+        [
+            "KING LEAR",
+            "Hast practised on man's life: close pent-up guilts,"
+        ],
+        [
+            "KING LEAR",
+            "Rive your concealing continents, and cry"
+        ],
+        [
+            "KING LEAR",
+            "These dreadful summoners grace. I am a man"
+        ],
+        [
+            "KING LEAR",
+            "More sinn'd against than sinning."
+        ],
+        [
+            "KENT",
+            "Alack, bare-headed!"
+        ],
+        [
+            "KENT",
+            "Gracious my lord, hard by here is a hovel;"
+        ],
+        [
+            "KENT",
+            "Some friendship will it lend you 'gainst the tempest:"
+        ],
+        [
+            "KENT",
+            "Repose you there; while I to this hard house--"
+        ],
+        [
+            "KENT",
+            "More harder than the stones whereof 'tis raised;"
+        ],
+        [
+            "KENT",
+            "Which even but now, demanding after you,"
+        ],
+        [
+            "KENT",
+            "Denied me to come in--return, and force"
+        ],
+        [
+            "KENT",
+            "Their scanted courtesy."
+        ],
+        [
+            "KING LEAR",
+            "My wits begin to turn."
+        ],
+        [
+            "KING LEAR",
+            "Come on, my boy: how dost, my boy? art cold?"
+        ],
+        [
+            "KING LEAR",
+            "I am cold myself. Where is this straw, my fellow?"
+        ],
+        [
+            "KING LEAR",
+            "The art of our necessities is strange,"
+        ],
+        [
+            "KING LEAR",
+            "That can make vile things precious. Come,"
+        ],
+        [
+            "KING LEAR",
+            "your hovel."
+        ],
+        [
+            "KING LEAR",
+            "Poor fool and knave, I have one part in my heart"
+        ],
+        [
+            "KING LEAR",
+            "That's sorry yet for thee."
+        ],
+        [
+            "Fool",
+            "[Singing]"
+        ],
+        [
+            "Fool",
+            "He that has and a little tiny wit--"
+        ],
+        [
+            "Fool",
+            "With hey, ho, the wind and the rain,--"
+        ],
+        [
+            "Fool",
+            "Must make content with his fortunes fit,"
+        ],
+        [
+            "Fool",
+            "For the rain it raineth every day."
+        ],
+        [
+            "KING LEAR",
+            "True, my good boy. Come, bring us to this hovel.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "Fool",
+            "This is a brave night to cool a courtezan.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "Fool",
+            "I'll speak a prophecy ere I go:"
+        ],
+        [
+            "Fool",
+            "When priests are more in word than matter;"
+        ],
+        [
+            "Fool",
+            "When brewers mar their malt with water;"
+        ],
+        [
+            "Fool",
+            "When nobles are their tailors' tutors;"
+        ],
+        [
+            "Fool",
+            "No heretics burn'd, but wenches' suitors;"
+        ],
+        [
+            "Fool",
+            "When every case in law is right;"
+        ],
+        [
+            "Fool",
+            "No squire in debt, nor no poor knight;"
+        ],
+        [
+            "Fool",
+            "When slanders do not live in tongues;"
+        ],
+        [
+            "Fool",
+            "Nor cutpurses come not to throngs;"
+        ],
+        [
+            "Fool",
+            "When usurers tell their gold i' the field;"
+        ],
+        [
+            "Fool",
+            "And bawds and whores do churches build;"
+        ],
+        [
+            "Fool",
+            "Then shall the realm of Albion"
+        ],
+        [
+            "Fool",
+            "Come to great confusion:"
+        ],
+        [
+            "Fool",
+            "Then comes the time, who lives to see't,"
+        ],
+        [
+            "Fool",
+            "That going shall be used with feet."
+        ],
+        [
+            "Fool",
+            "This prophecy Merlin shall make; for I live before his time.",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter KING LEAR and Fool"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter KENT"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt KING LEAR and KENT"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "KING LEAR": [
+            [
+                "1",
+                "9"
+            ],
+            [
+                "14",
+                "24"
+            ],
+            [
+                "37",
+                "38"
+            ],
+            [
+                "50",
+                "61"
+            ],
+            [
+                "70",
+                "77"
+            ],
+            [
+                "83",
+                "83"
+            ]
+        ],
+        "Fool": [
+            [
+                "10",
+                "13"
+            ],
+            [
+                "25",
+                "36"
+            ],
+            [
+                "40",
+                "41"
+            ],
+            [
+                "78",
+                "82"
+            ],
+            [
+                "84",
+                "100"
+            ]
+        ],
+        "KENT": [
+            [
+                "39",
+                "39"
+            ],
+            [
+                "42",
+                "49"
+            ],
+            [
+                "62",
+                "69"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "Another part of the heath. Storm still."
+}

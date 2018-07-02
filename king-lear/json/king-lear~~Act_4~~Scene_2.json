@@ -1,0 +1,665 @@
+{
+    "scene_id": "king lear~~Act_4~~Scene_2",
+    "work_number": "12",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "GONERIL",
+            "Welcome, my lord: I marvel our mild husband",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "GONERIL",
+            "Not met us on the way.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "GONERIL",
+            "Now, where's your master'?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "OSWALD",
+            "Madam, within; but never man so changed."
+        ],
+        [
+            "OSWALD",
+            "I told him of the army that was landed;"
+        ],
+        [
+            "OSWALD",
+            "He smiled at it: I told him you were coming:"
+        ],
+        [
+            "OSWALD",
+            "His answer was 'The worse:' of Gloucester's treachery,"
+        ],
+        [
+            "OSWALD",
+            "And of the loyal service of his son,"
+        ],
+        [
+            "OSWALD",
+            "When I inform'd him, then he call'd me sot,"
+        ],
+        [
+            "OSWALD",
+            "And told me I had turn'd the wrong side out:"
+        ],
+        [
+            "OSWALD",
+            "What most he should dislike seems pleasant to him;"
+        ],
+        [
+            "OSWALD",
+            "What like, offensive."
+        ],
+        [
+            "GONERIL",
+            "[To EDMUND] Then shall you go no further."
+        ],
+        [
+            "GONERIL",
+            "It is the cowish terror of his spirit,"
+        ],
+        [
+            "GONERIL",
+            "That dares not undertake: he'll not feel wrongs"
+        ],
+        [
+            "GONERIL",
+            "Which tie him to an answer. Our wishes on the way"
+        ],
+        [
+            "GONERIL",
+            "May prove effects. Back, Edmund, to my brother;"
+        ],
+        [
+            "GONERIL",
+            "Hasten his musters and conduct his powers:"
+        ],
+        [
+            "GONERIL",
+            "I must change arms at home, and give the distaff"
+        ],
+        [
+            "GONERIL",
+            "Into my husband's hands. This trusty servant"
+        ],
+        [
+            "GONERIL",
+            "Shall pass between us: ere long you are like to hear,"
+        ],
+        [
+            "GONERIL",
+            "If you dare venture in your own behalf,"
+        ],
+        [
+            "GONERIL",
+            "A mistress's command. Wear this; spare speech;",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "GONERIL",
+            "Decline your head: this kiss, if it durst speak,",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "GONERIL",
+            "Would stretch thy spirits up into the air:"
+        ],
+        [
+            "GONERIL",
+            "Conceive, and fare thee well."
+        ],
+        [
+            "EDMUND",
+            "Yours in the ranks of death."
+        ],
+        [
+            "GONERIL",
+            "My most dear Gloucester!",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "GONERIL",
+            "O, the difference of man and man!",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "GONERIL",
+            "To thee a woman's services are due:"
+        ],
+        [
+            "GONERIL",
+            "My fool usurps my body."
+        ],
+        [
+            "OSWALD",
+            "Madam, here comes my lord.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "GONERIL",
+            "I have been worth the whistle.",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "ALBANY",
+            "O Goneril!"
+        ],
+        [
+            "ALBANY",
+            "You are not worth the dust which the rude wind"
+        ],
+        [
+            "ALBANY",
+            "Blows in your face. I fear your disposition:"
+        ],
+        [
+            "ALBANY",
+            "That nature, which contemns its origin,"
+        ],
+        [
+            "ALBANY",
+            "Cannot be border'd certain in itself;"
+        ],
+        [
+            "ALBANY",
+            "She that herself will sliver and disbranch"
+        ],
+        [
+            "ALBANY",
+            "From her material sap, perforce must wither"
+        ],
+        [
+            "ALBANY",
+            "And come to deadly use."
+        ],
+        [
+            "GONERIL",
+            "No more; the text is foolish."
+        ],
+        [
+            "ALBANY",
+            "Wisdom and goodness to the vile seem vile:"
+        ],
+        [
+            "ALBANY",
+            "Filths savour but themselves. What have you done?"
+        ],
+        [
+            "ALBANY",
+            "Tigers, not daughters, what have you perform'd?"
+        ],
+        [
+            "ALBANY",
+            "A father, and a gracious aged man,"
+        ],
+        [
+            "ALBANY",
+            "Whose reverence even the head-lugg'd bear would lick,"
+        ],
+        [
+            "ALBANY",
+            "Most barbarous, most degenerate! have you madded."
+        ],
+        [
+            "ALBANY",
+            "Could my good brother suffer you to do it?"
+        ],
+        [
+            "ALBANY",
+            "A man, a prince, by him so benefited!"
+        ],
+        [
+            "ALBANY",
+            "If that the heavens do not their visible spirits"
+        ],
+        [
+            "ALBANY",
+            "Send quickly down to tame these vile offences,"
+        ],
+        [
+            "ALBANY",
+            "It will come,"
+        ],
+        [
+            "ALBANY",
+            "Humanity must perforce prey on itself,"
+        ],
+        [
+            "ALBANY",
+            "Like monsters of the deep."
+        ],
+        [
+            "GONERIL",
+            "Milk-liver'd man!"
+        ],
+        [
+            "GONERIL",
+            "That bear'st a cheek for blows, a head for wrongs;"
+        ],
+        [
+            "GONERIL",
+            "Who hast not in thy brows an eye discerning"
+        ],
+        [
+            "GONERIL",
+            "Thine honour from thy suffering; that not know'st"
+        ],
+        [
+            "GONERIL",
+            "Fools do those villains pity who are punish'd"
+        ],
+        [
+            "GONERIL",
+            "Ere they have done their mischief. Where's thy drum?"
+        ],
+        [
+            "GONERIL",
+            "France spreads his banners in our noiseless land;"
+        ],
+        [
+            "GONERIL",
+            "With plumed helm thy slayer begins threats;"
+        ],
+        [
+            "GONERIL",
+            "Whiles thou, a moral fool, sit'st still, and criest"
+        ],
+        [
+            "GONERIL",
+            "'Alack, why does he so?'"
+        ],
+        [
+            "ALBANY",
+            "See thyself, devil!"
+        ],
+        [
+            "ALBANY",
+            "Proper deformity seems not in the fiend"
+        ],
+        [
+            "ALBANY",
+            "So horrid as in woman."
+        ],
+        [
+            "GONERIL",
+            "O vain fool!"
+        ],
+        [
+            "ALBANY",
+            "Thou changed and self-cover'd thing, for shame,"
+        ],
+        [
+            "ALBANY",
+            "Be-monster not thy feature. Were't my fitness"
+        ],
+        [
+            "ALBANY",
+            "To let these hands obey my blood,"
+        ],
+        [
+            "ALBANY",
+            "They are apt enough to dislocate and tear"
+        ],
+        [
+            "ALBANY",
+            "Thy flesh and bones: howe'er thou art a fiend,"
+        ],
+        [
+            "ALBANY",
+            "A woman's shape doth shield thee."
+        ],
+        [
+            "GONERIL",
+            "Marry, your manhood now--",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "ALBANY",
+            "What news?",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "Messenger",
+            "O, my good lord, the Duke of Cornwall's dead:"
+        ],
+        [
+            "Messenger",
+            "Slain by his servant, going to put out"
+        ],
+        [
+            "Messenger",
+            "The other eye of Gloucester."
+        ],
+        [
+            "ALBANY",
+            "Gloucester's eye!"
+        ],
+        [
+            "Messenger",
+            "A servant that he bred, thrill'd with remorse,"
+        ],
+        [
+            "Messenger",
+            "Opposed against the act, bending his sword"
+        ],
+        [
+            "Messenger",
+            "To his great master; who, thereat enraged,"
+        ],
+        [
+            "Messenger",
+            "Flew on him, and amongst them fell'd him dead;"
+        ],
+        [
+            "Messenger",
+            "But not without that harmful stroke, which since"
+        ],
+        [
+            "Messenger",
+            "Hath pluck'd him after."
+        ],
+        [
+            "ALBANY",
+            "This shows you are above,"
+        ],
+        [
+            "ALBANY",
+            "You justicers, that these our nether crimes"
+        ],
+        [
+            "ALBANY",
+            "So speedily can venge! But, O poor Gloucester!"
+        ],
+        [
+            "ALBANY",
+            "Lost he his other eye?"
+        ],
+        [
+            "Messenger",
+            "Both, both, my lord."
+        ],
+        [
+            "Messenger",
+            "This letter, madam, craves a speedy answer;"
+        ],
+        [
+            "Messenger",
+            "'Tis from your sister."
+        ],
+        [
+            "GONERIL",
+            "[Aside] One way I like this well;"
+        ],
+        [
+            "GONERIL",
+            "But being widow, and my Gloucester with her,"
+        ],
+        [
+            "GONERIL",
+            "May all the building in my fancy pluck"
+        ],
+        [
+            "GONERIL",
+            "Upon my hateful life: another way,"
+        ],
+        [
+            "GONERIL",
+            "The news is not so tart.--I'll read, and answer.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "ALBANY",
+            "Where was his son when they did take his eyes?",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "Messenger",
+            "Come with my lady hither."
+        ],
+        [
+            "ALBANY",
+            "He is not here."
+        ],
+        [
+            "Messenger",
+            "No, my good lord; I met him back again."
+        ],
+        [
+            "ALBANY",
+            "Knows he the wickedness?"
+        ],
+        [
+            "Messenger",
+            "Ay, my good lord; 'twas he inform'd against him;"
+        ],
+        [
+            "Messenger",
+            "And quit the house on purpose, that their punishment"
+        ],
+        [
+            "Messenger",
+            "Might have the freer course."
+        ],
+        [
+            "ALBANY",
+            "Gloucester, I live"
+        ],
+        [
+            "ALBANY",
+            "To thank thee for the love thou show'dst the king,"
+        ],
+        [
+            "ALBANY",
+            "And to revenge thine eyes. Come hither, friend:"
+        ],
+        [
+            "ALBANY",
+            "Tell me what more thou know'st.",
+            {
+                "following_direction_line": "8"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter GONERIL and EDMUND"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter OSWALD"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Giving a favour"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit EDMUND"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exit. Enter ALBANY"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Enter a Messenger"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "GONERIL": [
+            [
+                "1",
+                "3"
+            ],
+            [
+                "13",
+                "26"
+            ],
+            [
+                "28",
+                "31"
+            ],
+            [
+                "33",
+                "33"
+            ],
+            [
+                "42",
+                "42"
+            ],
+            [
+                "56",
+                "65"
+            ],
+            [
+                "69",
+                "69"
+            ],
+            [
+                "76",
+                "76"
+            ],
+            [
+                "95",
+                "99"
+            ]
+        ],
+        "OSWALD": [
+            [
+                "4",
+                "12"
+            ],
+            [
+                "32",
+                "32"
+            ]
+        ],
+        "EDMUND": [
+            [
+                "27",
+                "27"
+            ]
+        ],
+        "ALBANY": [
+            [
+                "34",
+                "41"
+            ],
+            [
+                "43",
+                "55"
+            ],
+            [
+                "66",
+                "68"
+            ],
+            [
+                "70",
+                "75"
+            ],
+            [
+                "77",
+                "77"
+            ],
+            [
+                "81",
+                "81"
+            ],
+            [
+                "88",
+                "91"
+            ],
+            [
+                "100",
+                "100"
+            ],
+            [
+                "102",
+                "102"
+            ],
+            [
+                "104",
+                "104"
+            ],
+            [
+                "108",
+                "111"
+            ]
+        ],
+        "Messenger": [
+            [
+                "78",
+                "80"
+            ],
+            [
+                "82",
+                "87"
+            ],
+            [
+                "92",
+                "94"
+            ],
+            [
+                "101",
+                "101"
+            ],
+            [
+                "103",
+                "103"
+            ],
+            [
+                "105",
+                "107"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "Before ALBANY's palace."
+}

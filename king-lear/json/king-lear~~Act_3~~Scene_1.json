@@ -1,0 +1,309 @@
+{
+    "scene_id": "king lear~~Act_3~~Scene_1",
+    "work_number": "12",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "KENT",
+            "Who's there, besides foul weather?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "Gentleman",
+            "One minded like the weather, most unquietly."
+        ],
+        [
+            "KENT",
+            "I know you. Where's the king?"
+        ],
+        [
+            "Gentleman",
+            "Contending with the fretful element:"
+        ],
+        [
+            "Gentleman",
+            "Bids the winds blow the earth into the sea,"
+        ],
+        [
+            "Gentleman",
+            "Or swell the curled water 'bove the main,"
+        ],
+        [
+            "Gentleman",
+            "That things might change or cease; tears his white hair,"
+        ],
+        [
+            "Gentleman",
+            "Which the impetuous blasts, with eyeless rage,"
+        ],
+        [
+            "Gentleman",
+            "Catch in their fury, and make nothing of;"
+        ],
+        [
+            "Gentleman",
+            "Strives in his little world of man to out-scorn"
+        ],
+        [
+            "Gentleman",
+            "The to-and-fro-conflicting wind and rain."
+        ],
+        [
+            "Gentleman",
+            "This night, wherein the cub-drawn bear would couch,"
+        ],
+        [
+            "Gentleman",
+            "The lion and the belly-pinched wolf"
+        ],
+        [
+            "Gentleman",
+            "Keep their fur dry, unbonneted he runs,"
+        ],
+        [
+            "Gentleman",
+            "And bids what will take all."
+        ],
+        [
+            "KENT",
+            "But who is with him?"
+        ],
+        [
+            "Gentleman",
+            "None but the fool; who labours to out-jest"
+        ],
+        [
+            "Gentleman",
+            "His heart-struck injuries."
+        ],
+        [
+            "KENT",
+            "Sir, I do know you;"
+        ],
+        [
+            "KENT",
+            "And dare, upon the warrant of my note,"
+        ],
+        [
+            "KENT",
+            "Commend a dear thing to you. There is division,"
+        ],
+        [
+            "KENT",
+            "Although as yet the face of it be cover'd"
+        ],
+        [
+            "KENT",
+            "With mutual cunning, 'twixt Albany and Cornwall;"
+        ],
+        [
+            "KENT",
+            "Who have--as who have not, that their great stars"
+        ],
+        [
+            "KENT",
+            "Throned and set high?--servants, who seem no less,"
+        ],
+        [
+            "KENT",
+            "Which are to France the spies and speculations"
+        ],
+        [
+            "KENT",
+            "Intelligent of our state; what hath been seen,"
+        ],
+        [
+            "KENT",
+            "Either in snuffs and packings of the dukes,"
+        ],
+        [
+            "KENT",
+            "Or the hard rein which both of them have borne"
+        ],
+        [
+            "KENT",
+            "Against the old kind king; or something deeper,"
+        ],
+        [
+            "KENT",
+            "Whereof perchance these are but furnishings;"
+        ],
+        [
+            "KENT",
+            "But, true it is, from France there comes a power"
+        ],
+        [
+            "KENT",
+            "Into this scatter'd kingdom; who already,"
+        ],
+        [
+            "KENT",
+            "Wise in our negligence, have secret feet"
+        ],
+        [
+            "KENT",
+            "In some of our best ports, and are at point"
+        ],
+        [
+            "KENT",
+            "To show their open banner. Now to you:"
+        ],
+        [
+            "KENT",
+            "If on my credit you dare build so far"
+        ],
+        [
+            "KENT",
+            "To make your speed to Dover, you shall find"
+        ],
+        [
+            "KENT",
+            "Some that will thank you, making just report"
+        ],
+        [
+            "KENT",
+            "Of how unnatural and bemadding sorrow"
+        ],
+        [
+            "KENT",
+            "The king hath cause to plain."
+        ],
+        [
+            "KENT",
+            "I am a gentleman of blood and breeding;"
+        ],
+        [
+            "KENT",
+            "And, from some knowledge and assurance, offer"
+        ],
+        [
+            "KENT",
+            "This office to you."
+        ],
+        [
+            "Gentleman",
+            "I will talk further with you."
+        ],
+        [
+            "KENT",
+            "No, do not."
+        ],
+        [
+            "KENT",
+            "For confirmation that I am much more"
+        ],
+        [
+            "KENT",
+            "Than my out-wall, open this purse, and take"
+        ],
+        [
+            "KENT",
+            "What it contains. If you shall see Cordelia,--"
+        ],
+        [
+            "KENT",
+            "As fear not but you shall,--show her this ring;"
+        ],
+        [
+            "KENT",
+            "And she will tell you who your fellow is"
+        ],
+        [
+            "KENT",
+            "That yet you do not know. Fie on this storm!"
+        ],
+        [
+            "KENT",
+            "I will go seek the king."
+        ],
+        [
+            "Gentleman",
+            "Give me your hand: have you no more to say?"
+        ],
+        [
+            "KENT",
+            "Few words, but, to effect, more than all yet;"
+        ],
+        [
+            "KENT",
+            "That, when we have found the king,--in which your pain"
+        ],
+        [
+            "KENT",
+            "That way, I'll this,--he that first lights on him"
+        ],
+        [
+            "KENT",
+            "Holla the other.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Storm still. Enter KENT and a Gentleman, meeting"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt severally"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "KENT": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "3"
+            ],
+            [
+                "16",
+                "16"
+            ],
+            [
+                "19",
+                "44"
+            ],
+            [
+                "46",
+                "53"
+            ],
+            [
+                "55",
+                "58"
+            ]
+        ],
+        "Gentleman": [
+            [
+                "2",
+                "2"
+            ],
+            [
+                "4",
+                "15"
+            ],
+            [
+                "17",
+                "18"
+            ],
+            [
+                "45",
+                "45"
+            ],
+            [
+                "54",
+                "54"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "A heath."
+}

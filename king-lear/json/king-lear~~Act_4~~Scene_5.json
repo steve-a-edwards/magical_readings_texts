@@ -1,0 +1,289 @@
+{
+    "scene_id": "king lear~~Act_4~~Scene_5",
+    "work_number": "12",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "REGAN",
+            "But are my brother's powers set forth?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "OSWALD",
+            "Ay, madam."
+        ],
+        [
+            "REGAN",
+            "Himself in person there?"
+        ],
+        [
+            "OSWALD",
+            "Madam, with much ado:"
+        ],
+        [
+            "OSWALD",
+            "Your sister is the better soldier."
+        ],
+        [
+            "REGAN",
+            "Lord Edmund spake not with your lord at home?"
+        ],
+        [
+            "OSWALD",
+            "No, madam."
+        ],
+        [
+            "REGAN",
+            "What might import my sister's letter to him?"
+        ],
+        [
+            "OSWALD",
+            "I know not, lady."
+        ],
+        [
+            "REGAN",
+            "'Faith, he is posted hence on serious matter."
+        ],
+        [
+            "REGAN",
+            "It was great ignorance, Gloucester's eyes being out,"
+        ],
+        [
+            "REGAN",
+            "To let him live: where he arrives he moves"
+        ],
+        [
+            "REGAN",
+            "All hearts against us: Edmund, I think, is gone,"
+        ],
+        [
+            "REGAN",
+            "In pity of his misery, to dispatch"
+        ],
+        [
+            "REGAN",
+            "His nighted life: moreover, to descry"
+        ],
+        [
+            "REGAN",
+            "The strength o' the enemy."
+        ],
+        [
+            "OSWALD",
+            "I must needs after him, madam, with my letter."
+        ],
+        [
+            "REGAN",
+            "Our troops set forth to-morrow: stay with us;"
+        ],
+        [
+            "REGAN",
+            "The ways are dangerous."
+        ],
+        [
+            "OSWALD",
+            "I may not, madam:"
+        ],
+        [
+            "OSWALD",
+            "My lady charged my duty in this business."
+        ],
+        [
+            "REGAN",
+            "Why should she write to Edmund? Might not you"
+        ],
+        [
+            "REGAN",
+            "Transport her purposes by word? Belike,"
+        ],
+        [
+            "REGAN",
+            "Something--I know not what: I'll love thee much,"
+        ],
+        [
+            "REGAN",
+            "Let me unseal the letter."
+        ],
+        [
+            "OSWALD",
+            "Madam, I had rather--"
+        ],
+        [
+            "REGAN",
+            "I know your lady does not love her husband;"
+        ],
+        [
+            "REGAN",
+            "I am sure of that: and at her late being here"
+        ],
+        [
+            "REGAN",
+            "She gave strange oeillades and most speaking looks"
+        ],
+        [
+            "REGAN",
+            "To noble Edmund. I know you are of her bosom."
+        ],
+        [
+            "OSWALD",
+            "I, madam?"
+        ],
+        [
+            "REGAN",
+            "I speak in understanding; you are; I know't:"
+        ],
+        [
+            "REGAN",
+            "Therefore I do advise you, take this note:"
+        ],
+        [
+            "REGAN",
+            "My lord is dead; Edmund and I have talk'd;"
+        ],
+        [
+            "REGAN",
+            "And more convenient is he for my hand"
+        ],
+        [
+            "REGAN",
+            "Than for your lady's: you may gather more."
+        ],
+        [
+            "REGAN",
+            "If you do find him, pray you, give him this;"
+        ],
+        [
+            "REGAN",
+            "And when your mistress hears thus much from you,"
+        ],
+        [
+            "REGAN",
+            "I pray, desire her call her wisdom to her."
+        ],
+        [
+            "REGAN",
+            "So, fare you well."
+        ],
+        [
+            "REGAN",
+            "If you do chance to hear of that blind traitor,"
+        ],
+        [
+            "REGAN",
+            "Preferment falls on him that cuts him off."
+        ],
+        [
+            "OSWALD",
+            "Would I could meet him, madam! I should show"
+        ],
+        [
+            "OSWALD",
+            "What party I do follow."
+        ],
+        [
+            "REGAN",
+            "Fare thee well.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter REGAN and OSWALD"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "REGAN": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "3"
+            ],
+            [
+                "6",
+                "6"
+            ],
+            [
+                "8",
+                "8"
+            ],
+            [
+                "10",
+                "16"
+            ],
+            [
+                "18",
+                "19"
+            ],
+            [
+                "22",
+                "25"
+            ],
+            [
+                "27",
+                "30"
+            ],
+            [
+                "32",
+                "42"
+            ],
+            [
+                "45",
+                "45"
+            ]
+        ],
+        "OSWALD": [
+            [
+                "2",
+                "2"
+            ],
+            [
+                "4",
+                "5"
+            ],
+            [
+                "7",
+                "7"
+            ],
+            [
+                "9",
+                "9"
+            ],
+            [
+                "17",
+                "17"
+            ],
+            [
+                "20",
+                "21"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "31",
+                "31"
+            ],
+            [
+                "43",
+                "44"
+            ]
+        ]
+    },
+    "scene_name": "SCENE V",
+    "scene_description": "Gloucester's castle."
+}

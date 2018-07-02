@@ -1,0 +1,365 @@
+{
+    "scene_id": "king lear~~Act_4~~Scene_3",
+    "work_number": "12",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "KENT",
+            "Why the King of France is so suddenly gone back",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "KENT",
+            "know you the reason?"
+        ],
+        [
+            "Gentleman",
+            "Something he left imperfect in the"
+        ],
+        [
+            "Gentleman",
+            "state, which since his coming forth is thought"
+        ],
+        [
+            "Gentleman",
+            "of; which imports to the kingdom so much"
+        ],
+        [
+            "Gentleman",
+            "fear and danger, that his personal return was"
+        ],
+        [
+            "Gentleman",
+            "most required and necessary."
+        ],
+        [
+            "KENT",
+            "Who hath he left behind him general?"
+        ],
+        [
+            "Gentleman",
+            "The Marshal of France, Monsieur La Far."
+        ],
+        [
+            "KENT",
+            "Did your letters pierce the queen to any"
+        ],
+        [
+            "KENT",
+            "demonstration of grief?"
+        ],
+        [
+            "Gentleman",
+            "Ay, sir; she took them, read them in my presence;"
+        ],
+        [
+            "Gentleman",
+            "And now and then an ample tear trill'd down"
+        ],
+        [
+            "Gentleman",
+            "Her delicate cheek: it seem'd she was a queen"
+        ],
+        [
+            "Gentleman",
+            "Over her passion; who, most rebel-like,"
+        ],
+        [
+            "Gentleman",
+            "Sought to be king o'er her."
+        ],
+        [
+            "KENT",
+            "O, then it moved her."
+        ],
+        [
+            "Gentleman",
+            "Not to a rage: patience and sorrow strove"
+        ],
+        [
+            "Gentleman",
+            "Who should express her goodliest. You have seen"
+        ],
+        [
+            "Gentleman",
+            "Sunshine and rain at once: her smiles and tears"
+        ],
+        [
+            "Gentleman",
+            "Were like a better way: those happy smilets,"
+        ],
+        [
+            "Gentleman",
+            "That play'd on her ripe lip, seem'd not to know"
+        ],
+        [
+            "Gentleman",
+            "What guests were in her eyes; which parted thence,"
+        ],
+        [
+            "Gentleman",
+            "As pearls from diamonds dropp'd. In brief,"
+        ],
+        [
+            "Gentleman",
+            "Sorrow would be a rarity most beloved,"
+        ],
+        [
+            "Gentleman",
+            "If all could so become it."
+        ],
+        [
+            "KENT",
+            "Made she no verbal question?"
+        ],
+        [
+            "Gentleman",
+            "'Faith, once or twice she heaved the name of 'father'"
+        ],
+        [
+            "Gentleman",
+            "Pantingly forth, as if it press'd her heart:"
+        ],
+        [
+            "Gentleman",
+            "Cried 'Sisters! sisters! Shame of ladies! sisters!"
+        ],
+        [
+            "Gentleman",
+            "Kent! father! sisters! What, i' the storm? i' the night?"
+        ],
+        [
+            "Gentleman",
+            "Let pity not be believed!' There she shook"
+        ],
+        [
+            "Gentleman",
+            "The holy water from her heavenly eyes,"
+        ],
+        [
+            "Gentleman",
+            "And clamour moisten'd: then away she started"
+        ],
+        [
+            "Gentleman",
+            "To deal with grief alone."
+        ],
+        [
+            "KENT",
+            "It is the stars,"
+        ],
+        [
+            "KENT",
+            "The stars above us, govern our conditions;"
+        ],
+        [
+            "KENT",
+            "Else one self mate and mate could not beget"
+        ],
+        [
+            "KENT",
+            "Such different issues. You spoke not with her since?"
+        ],
+        [
+            "Gentleman",
+            "No."
+        ],
+        [
+            "KENT",
+            "Was this before the king return'd?"
+        ],
+        [
+            "Gentleman",
+            "No, since."
+        ],
+        [
+            "KENT",
+            "Well, sir, the poor distressed Lear's i' the town;"
+        ],
+        [
+            "KENT",
+            "Who sometime, in his better tune, remembers"
+        ],
+        [
+            "KENT",
+            "What we are come about, and by no means"
+        ],
+        [
+            "KENT",
+            "Will yield to see his daughter."
+        ],
+        [
+            "Gentleman",
+            "Why, good sir?"
+        ],
+        [
+            "KENT",
+            "A sovereign shame so elbows him: his own unkindness,"
+        ],
+        [
+            "KENT",
+            "That stripp'd her from his benediction, turn'd her"
+        ],
+        [
+            "KENT",
+            "To foreign casualties, gave her dear rights"
+        ],
+        [
+            "KENT",
+            "To his dog-hearted daughters, these things sting"
+        ],
+        [
+            "KENT",
+            "His mind so venomously, that burning shame"
+        ],
+        [
+            "KENT",
+            "Detains him from Cordelia."
+        ],
+        [
+            "Gentleman",
+            "Alack, poor gentleman!"
+        ],
+        [
+            "KENT",
+            "Of Albany's and Cornwall's powers you heard not?"
+        ],
+        [
+            "Gentleman",
+            "'Tis so, they are afoot."
+        ],
+        [
+            "KENT",
+            "Well, sir, I'll bring you to our master Lear,"
+        ],
+        [
+            "KENT",
+            "And leave you to attend him: some dear cause"
+        ],
+        [
+            "KENT",
+            "Will in concealment wrap me up awhile;"
+        ],
+        [
+            "KENT",
+            "When I am known aright, you shall not grieve"
+        ],
+        [
+            "KENT",
+            "Lending me this acquaintance. I pray you, go"
+        ],
+        [
+            "KENT",
+            "Along with me.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter KENT and a Gentleman"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "KENT": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "8",
+                "8"
+            ],
+            [
+                "10",
+                "11"
+            ],
+            [
+                "17",
+                "17"
+            ],
+            [
+                "27",
+                "27"
+            ],
+            [
+                "36",
+                "39"
+            ],
+            [
+                "41",
+                "41"
+            ],
+            [
+                "43",
+                "46"
+            ],
+            [
+                "48",
+                "53"
+            ],
+            [
+                "55",
+                "55"
+            ],
+            [
+                "57",
+                "62"
+            ]
+        ],
+        "Gentleman": [
+            [
+                "3",
+                "7"
+            ],
+            [
+                "9",
+                "9"
+            ],
+            [
+                "12",
+                "16"
+            ],
+            [
+                "18",
+                "26"
+            ],
+            [
+                "28",
+                "35"
+            ],
+            [
+                "40",
+                "40"
+            ],
+            [
+                "42",
+                "42"
+            ],
+            [
+                "47",
+                "47"
+            ],
+            [
+                "54",
+                "54"
+            ],
+            [
+                "56",
+                "56"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "The French camp near Dover."
+}

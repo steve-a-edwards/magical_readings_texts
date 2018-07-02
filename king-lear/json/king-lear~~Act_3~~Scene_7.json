@@ -1,0 +1,861 @@
+{
+    "scene_id": "king lear~~Act_3~~Scene_7",
+    "work_number": "12",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "CORNWALL",
+            "Post speedily to my lord your husband; show him",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "CORNWALL",
+            "this letter: the army of France is landed. Seek"
+        ],
+        [
+            "CORNWALL",
+            "out the villain Gloucester.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "REGAN",
+            "Hang him instantly.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "GONERIL",
+            "Pluck out his eyes."
+        ],
+        [
+            "CORNWALL",
+            "Leave him to my displeasure. Edmund, keep you our"
+        ],
+        [
+            "CORNWALL",
+            "sister company: the revenges we are bound to take"
+        ],
+        [
+            "CORNWALL",
+            "upon your traitorous father are not fit for your"
+        ],
+        [
+            "CORNWALL",
+            "beholding. Advise the duke, where you are going, to"
+        ],
+        [
+            "CORNWALL",
+            "a most festinate preparation: we are bound to the"
+        ],
+        [
+            "CORNWALL",
+            "like. Our posts shall be swift and intelligent"
+        ],
+        [
+            "CORNWALL",
+            "betwixt us. Farewell, dear sister: farewell, my"
+        ],
+        [
+            "CORNWALL",
+            "lord of Gloucester.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "CORNWALL",
+            "How now! where's the king?",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "OSWALD",
+            "My lord of Gloucester hath convey'd him hence:"
+        ],
+        [
+            "OSWALD",
+            "Some five or six and thirty of his knights,"
+        ],
+        [
+            "OSWALD",
+            "Hot questrists after him, met him at gate;"
+        ],
+        [
+            "OSWALD",
+            "Who, with some other of the lords dependants,"
+        ],
+        [
+            "OSWALD",
+            "Are gone with him towards Dover; where they boast"
+        ],
+        [
+            "OSWALD",
+            "To have well-armed friends."
+        ],
+        [
+            "CORNWALL",
+            "Get horses for your mistress."
+        ],
+        [
+            "GONERIL",
+            "Farewell, sweet lord, and sister."
+        ],
+        [
+            "CORNWALL",
+            "Edmund, farewell.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "CORNWALL",
+            "Go seek the traitor Gloucester,",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "CORNWALL",
+            "Pinion him like a thief, bring him before us.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "CORNWALL",
+            "Though well we may not pass upon his life",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "CORNWALL",
+            "Without the form of justice, yet our power"
+        ],
+        [
+            "CORNWALL",
+            "Shall do a courtesy to our wrath, which men"
+        ],
+        [
+            "CORNWALL",
+            "May blame, but not control. Who's there? the traitor?",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "REGAN",
+            "Ingrateful fox! 'tis he.",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "CORNWALL",
+            "Bind fast his corky arms."
+        ],
+        [
+            "GLOUCESTER",
+            "What mean your graces? Good my friends, consider"
+        ],
+        [
+            "GLOUCESTER",
+            "You are my guests: do me no foul play, friends."
+        ],
+        [
+            "CORNWALL",
+            "Bind him, I say.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "REGAN",
+            "Hard, hard. O filthy traitor!",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "GLOUCESTER",
+            "Unmerciful lady as you are, I'm none."
+        ],
+        [
+            "CORNWALL",
+            "To this chair bind him. Villain, thou shalt find--",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "GLOUCESTER",
+            "By the kind gods, 'tis most ignobly done",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "GLOUCESTER",
+            "To pluck me by the beard."
+        ],
+        [
+            "REGAN",
+            "So white, and such a traitor!"
+        ],
+        [
+            "GLOUCESTER",
+            "Naughty lady,"
+        ],
+        [
+            "GLOUCESTER",
+            "These hairs, which thou dost ravish from my chin,"
+        ],
+        [
+            "GLOUCESTER",
+            "Will quicken, and accuse thee: I am your host:"
+        ],
+        [
+            "GLOUCESTER",
+            "With robbers' hands my hospitable favours"
+        ],
+        [
+            "GLOUCESTER",
+            "You should not ruffle thus. What will you do?"
+        ],
+        [
+            "CORNWALL",
+            "Come, sir, what letters had you late from France?"
+        ],
+        [
+            "REGAN",
+            "Be simple answerer, for we know the truth."
+        ],
+        [
+            "CORNWALL",
+            "And what confederacy have you with the traitors"
+        ],
+        [
+            "CORNWALL",
+            "Late footed in the kingdom?"
+        ],
+        [
+            "REGAN",
+            "To whose hands have you sent the lunatic king? Speak."
+        ],
+        [
+            "GLOUCESTER",
+            "I have a letter guessingly set down,"
+        ],
+        [
+            "GLOUCESTER",
+            "Which came from one that's of a neutral heart,"
+        ],
+        [
+            "GLOUCESTER",
+            "And not from one opposed."
+        ],
+        [
+            "CORNWALL",
+            "Cunning."
+        ],
+        [
+            "REGAN",
+            "And false."
+        ],
+        [
+            "CORNWALL",
+            "Where hast thou sent the king?"
+        ],
+        [
+            "GLOUCESTER",
+            "To Dover."
+        ],
+        [
+            "REGAN",
+            "Wherefore to Dover? Wast thou not charged at peril--"
+        ],
+        [
+            "CORNWALL",
+            "Wherefore to Dover? Let him first answer that."
+        ],
+        [
+            "GLOUCESTER",
+            "I am tied to the stake, and I must stand the course."
+        ],
+        [
+            "REGAN",
+            "Wherefore to Dover, sir?"
+        ],
+        [
+            "GLOUCESTER",
+            "Because I would not see thy cruel nails"
+        ],
+        [
+            "GLOUCESTER",
+            "Pluck out his poor old eyes; nor thy fierce sister"
+        ],
+        [
+            "GLOUCESTER",
+            "In his anointed flesh stick boarish fangs."
+        ],
+        [
+            "GLOUCESTER",
+            "The sea, with such a storm as his bare head"
+        ],
+        [
+            "GLOUCESTER",
+            "In hell-black night endured, would have buoy'd up,"
+        ],
+        [
+            "GLOUCESTER",
+            "And quench'd the stelled fires:"
+        ],
+        [
+            "GLOUCESTER",
+            "Yet, poor old heart, he holp the heavens to rain."
+        ],
+        [
+            "GLOUCESTER",
+            "If wolves had at thy gate howl'd that stern time,"
+        ],
+        [
+            "GLOUCESTER",
+            "Thou shouldst have said 'Good porter, turn the key,'"
+        ],
+        [
+            "GLOUCESTER",
+            "All cruels else subscribed: but I shall see"
+        ],
+        [
+            "GLOUCESTER",
+            "The winged vengeance overtake such children."
+        ],
+        [
+            "CORNWALL",
+            "See't shalt thou never. Fellows, hold the chair."
+        ],
+        [
+            "CORNWALL",
+            "Upon these eyes of thine I'll set my foot."
+        ],
+        [
+            "GLOUCESTER",
+            "He that will think to live till he be old,"
+        ],
+        [
+            "GLOUCESTER",
+            "Give me some help! O cruel! O you gods!"
+        ],
+        [
+            "REGAN",
+            "One side will mock another; the other too."
+        ],
+        [
+            "CORNWALL",
+            "If you see vengeance,--"
+        ],
+        [
+            "First Servant",
+            "Hold your hand, my lord:"
+        ],
+        [
+            "First Servant",
+            "I have served you ever since I was a child;"
+        ],
+        [
+            "First Servant",
+            "But better service have I never done you"
+        ],
+        [
+            "First Servant",
+            "Than now to bid you hold."
+        ],
+        [
+            "REGAN",
+            "How now, you dog!"
+        ],
+        [
+            "First Servant",
+            "If you did wear a beard upon your chin,"
+        ],
+        [
+            "First Servant",
+            "I'd shake it on this quarrel. What do you mean?"
+        ],
+        [
+            "CORNWALL",
+            "My villain!",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "First Servant",
+            "Nay, then, come on, and take the chance of anger.",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "REGAN",
+            "Give me thy sword. A peasant stand up thus!",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "First Servant",
+            "O, I am slain! My lord, you have one eye left",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "First Servant",
+            "To see some mischief on him. O!",
+            {
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "CORNWALL",
+            "Lest it see more, prevent it. Out, vile jelly!",
+            {
+                "preceding_direction_line": "11"
+            }
+        ],
+        [
+            "CORNWALL",
+            "Where is thy lustre now?"
+        ],
+        [
+            "GLOUCESTER",
+            "All dark and comfortless. Where's my son Edmund?"
+        ],
+        [
+            "GLOUCESTER",
+            "Edmund, enkindle all the sparks of nature,"
+        ],
+        [
+            "GLOUCESTER",
+            "To quit this horrid act."
+        ],
+        [
+            "REGAN",
+            "Out, treacherous villain!"
+        ],
+        [
+            "REGAN",
+            "Thou call'st on him that hates thee: it was he"
+        ],
+        [
+            "REGAN",
+            "That made the overture of thy treasons to us;"
+        ],
+        [
+            "REGAN",
+            "Who is too good to pity thee."
+        ],
+        [
+            "GLOUCESTER",
+            "O my follies! then Edgar was abused."
+        ],
+        [
+            "GLOUCESTER",
+            "Kind gods, forgive me that, and prosper him!"
+        ],
+        [
+            "REGAN",
+            "Go thrust him out at gates, and let him smell"
+        ],
+        [
+            "REGAN",
+            "His way to Dover.",
+            {
+                "following_direction_line": "12"
+            }
+        ],
+        [
+            "REGAN",
+            "How is't, my lord? how look you?",
+            {
+                "preceding_direction_line": "12"
+            }
+        ],
+        [
+            "CORNWALL",
+            "I have received a hurt: follow me, lady."
+        ],
+        [
+            "CORNWALL",
+            "Turn out that eyeless villain; throw this slave"
+        ],
+        [
+            "CORNWALL",
+            "Upon the dunghill. Regan, I bleed apace:"
+        ],
+        [
+            "CORNWALL",
+            "Untimely comes this hurt: give me your arm.",
+            {
+                "following_direction_line": "13"
+            }
+        ],
+        [
+            "Second Servant",
+            "I'll never care what wickedness I do,",
+            {
+                "preceding_direction_line": "13"
+            }
+        ],
+        [
+            "Second Servant",
+            "If this man come to good."
+        ],
+        [
+            "Third Servant",
+            "If she live long,"
+        ],
+        [
+            "Third Servant",
+            "And in the end meet the old course of death,"
+        ],
+        [
+            "Third Servant",
+            "Women will all turn monsters."
+        ],
+        [
+            "Second Servant",
+            "Let's follow the old earl, and get the Bedlam"
+        ],
+        [
+            "Second Servant",
+            "To lead him where he would: his roguish madness"
+        ],
+        [
+            "Second Servant",
+            "Allows itself to any thing."
+        ],
+        [
+            "Third Servant",
+            "Go thou: I'll fetch some flax and whites of eggs"
+        ],
+        [
+            "Third Servant",
+            "To apply to his bleeding face. Now, heaven help him!",
+            {
+                "following_direction_line": "14"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter CORNWALL, REGAN, GONERIL, EDMUND, and Servants"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt some of the Servants"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter OSWALD"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt GONERIL, EDMUND, and OSWALD"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt other Servants"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Enter GLOUCESTER, brought in by two or three"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Servants bind him"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "REGAN plucks his beard"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "They draw and fight"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Takes a sword, and runs at him behind"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "Dies"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Exit one with GLOUCESTER"
+        ],
+        [
+            "_DIRECTION",
+            "D13",
+            "Exit CORNWALL, led by REGAN"
+        ],
+        [
+            "_DIRECTION",
+            "D14",
+            "Exeunt severally"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "CORNWALL": [
+            [
+                "1",
+                "3"
+            ],
+            [
+                "6",
+                "14"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "23",
+                "29"
+            ],
+            [
+                "31",
+                "31"
+            ],
+            [
+                "34",
+                "34"
+            ],
+            [
+                "37",
+                "37"
+            ],
+            [
+                "46",
+                "46"
+            ],
+            [
+                "48",
+                "49"
+            ],
+            [
+                "54",
+                "54"
+            ],
+            [
+                "56",
+                "56"
+            ],
+            [
+                "59",
+                "59"
+            ],
+            [
+                "73",
+                "74"
+            ],
+            [
+                "78",
+                "78"
+            ],
+            [
+                "86",
+                "86"
+            ],
+            [
+                "91",
+                "92"
+            ],
+            [
+                "105",
+                "108"
+            ]
+        ],
+        "REGAN": [
+            [
+                "4",
+                "4"
+            ],
+            [
+                "30",
+                "30"
+            ],
+            [
+                "35",
+                "35"
+            ],
+            [
+                "40",
+                "40"
+            ],
+            [
+                "47",
+                "47"
+            ],
+            [
+                "50",
+                "50"
+            ],
+            [
+                "55",
+                "55"
+            ],
+            [
+                "58",
+                "58"
+            ],
+            [
+                "61",
+                "61"
+            ],
+            [
+                "77",
+                "77"
+            ],
+            [
+                "83",
+                "83"
+            ],
+            [
+                "88",
+                "88"
+            ],
+            [
+                "96",
+                "99"
+            ],
+            [
+                "102",
+                "104"
+            ]
+        ],
+        "GONERIL": [
+            [
+                "5",
+                "5"
+            ],
+            [
+                "22",
+                "22"
+            ]
+        ],
+        "OSWALD": [
+            [
+                "15",
+                "20"
+            ]
+        ],
+        "GLOUCESTER": [
+            [
+                "32",
+                "33"
+            ],
+            [
+                "36",
+                "36"
+            ],
+            [
+                "38",
+                "39"
+            ],
+            [
+                "41",
+                "45"
+            ],
+            [
+                "51",
+                "53"
+            ],
+            [
+                "57",
+                "57"
+            ],
+            [
+                "60",
+                "60"
+            ],
+            [
+                "62",
+                "72"
+            ],
+            [
+                "75",
+                "76"
+            ],
+            [
+                "93",
+                "95"
+            ],
+            [
+                "100",
+                "101"
+            ]
+        ],
+        "First Servant": [
+            [
+                "79",
+                "82"
+            ],
+            [
+                "84",
+                "85"
+            ],
+            [
+                "87",
+                "87"
+            ],
+            [
+                "89",
+                "90"
+            ]
+        ],
+        "Second Servant": [
+            [
+                "109",
+                "110"
+            ],
+            [
+                "114",
+                "116"
+            ]
+        ],
+        "Third Servant": [
+            [
+                "111",
+                "113"
+            ],
+            [
+                "117",
+                "118"
+            ]
+        ]
+    },
+    "scene_name": "SCENE VII",
+    "scene_description": "Gloucester's castle."
+}

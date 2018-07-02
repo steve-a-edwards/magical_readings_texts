@@ -1,0 +1,169 @@
+{
+    "scene_id": "king lear~~Act_3~~Scene_5",
+    "work_number": "12",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "CORNWALL",
+            "I will have my revenge ere I depart his house.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "EDMUND",
+            "How, my lord, I may be censured, that nature thus"
+        ],
+        [
+            "EDMUND",
+            "gives way to loyalty, something fears me to think"
+        ],
+        [
+            "EDMUND",
+            "of."
+        ],
+        [
+            "CORNWALL",
+            "I now perceive, it was not altogether your"
+        ],
+        [
+            "CORNWALL",
+            "brother's evil disposition made him seek his death;"
+        ],
+        [
+            "CORNWALL",
+            "but a provoking merit, set a-work by a reprovable"
+        ],
+        [
+            "CORNWALL",
+            "badness in himself."
+        ],
+        [
+            "EDMUND",
+            "How malicious is my fortune, that I must repent to"
+        ],
+        [
+            "EDMUND",
+            "be just! This is the letter he spoke of, which"
+        ],
+        [
+            "EDMUND",
+            "approves him an intelligent party to the advantages"
+        ],
+        [
+            "EDMUND",
+            "of France: O heavens! that this treason were not,"
+        ],
+        [
+            "EDMUND",
+            "or not I the detector!"
+        ],
+        [
+            "CORNWALL",
+            "o with me to the duchess."
+        ],
+        [
+            "EDMUND",
+            "If the matter of this paper be certain, you have"
+        ],
+        [
+            "EDMUND",
+            "mighty business in hand."
+        ],
+        [
+            "CORNWALL",
+            "True or false, it hath made thee earl of"
+        ],
+        [
+            "CORNWALL",
+            "Gloucester. Seek out where thy father is, that he"
+        ],
+        [
+            "CORNWALL",
+            "may be ready for our apprehension."
+        ],
+        [
+            "EDMUND",
+            "[Aside] If I find him comforting the king, it will"
+        ],
+        [
+            "EDMUND",
+            "stuff his suspicion more fully.--I will persevere in"
+        ],
+        [
+            "EDMUND",
+            "my course of loyalty, though the conflict be sore"
+        ],
+        [
+            "EDMUND",
+            "between that and my blood."
+        ],
+        [
+            "CORNWALL",
+            "I will lay trust upon thee; and thou shalt find a"
+        ],
+        [
+            "CORNWALL",
+            "dearer father in my love.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter CORNWALL and EDMUND"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "CORNWALL": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "5",
+                "8"
+            ],
+            [
+                "14",
+                "14"
+            ],
+            [
+                "17",
+                "19"
+            ],
+            [
+                "24",
+                "25"
+            ]
+        ],
+        "EDMUND": [
+            [
+                "2",
+                "4"
+            ],
+            [
+                "9",
+                "13"
+            ],
+            [
+                "15",
+                "16"
+            ],
+            [
+                "20",
+                "23"
+            ]
+        ]
+    },
+    "scene_name": "SCENE V",
+    "scene_description": "Gloucester's castle."
+}

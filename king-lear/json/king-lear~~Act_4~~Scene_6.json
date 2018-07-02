@@ -1,0 +1,1788 @@
+{
+    "scene_id": "king lear~~Act_4~~Scene_6",
+    "work_number": "12",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "GLOUCESTER",
+            "When shall we come to the top of that same hill?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "EDGAR",
+            "You do climb up it now: look, how we labour."
+        ],
+        [
+            "GLOUCESTER",
+            "Methinks the ground is even."
+        ],
+        [
+            "EDGAR",
+            "Horrible steep."
+        ],
+        [
+            "EDGAR",
+            "Hark, do you hear the sea?"
+        ],
+        [
+            "GLOUCESTER",
+            "No, truly."
+        ],
+        [
+            "EDGAR",
+            "Why, then, your other senses grow imperfect"
+        ],
+        [
+            "EDGAR",
+            "By your eyes' anguish."
+        ],
+        [
+            "GLOUCESTER",
+            "So may it be, indeed:"
+        ],
+        [
+            "GLOUCESTER",
+            "Methinks thy voice is alter'd; and thou speak'st"
+        ],
+        [
+            "GLOUCESTER",
+            "In better phrase and matter than thou didst."
+        ],
+        [
+            "EDGAR",
+            "You're much deceived: in nothing am I changed"
+        ],
+        [
+            "EDGAR",
+            "But in my garments."
+        ],
+        [
+            "GLOUCESTER",
+            "Methinks you're better spoken."
+        ],
+        [
+            "EDGAR",
+            "Come on, sir; here's the place: stand still. How fearful"
+        ],
+        [
+            "EDGAR",
+            "And dizzy 'tis, to cast one's eyes so low!"
+        ],
+        [
+            "EDGAR",
+            "The crows and choughs that wing the midway air"
+        ],
+        [
+            "EDGAR",
+            "Show scarce so gross as beetles: half way down"
+        ],
+        [
+            "EDGAR",
+            "Hangs one that gathers samphire, dreadful trade!"
+        ],
+        [
+            "EDGAR",
+            "Methinks he seems no bigger than his head:"
+        ],
+        [
+            "EDGAR",
+            "The fishermen, that walk upon the beach,"
+        ],
+        [
+            "EDGAR",
+            "Appear like mice; and yond tall anchoring bark,"
+        ],
+        [
+            "EDGAR",
+            "Diminish'd to her cock; her cock, a buoy"
+        ],
+        [
+            "EDGAR",
+            "Almost too small for sight: the murmuring surge,"
+        ],
+        [
+            "EDGAR",
+            "That on the unnumber'd idle pebbles chafes,"
+        ],
+        [
+            "EDGAR",
+            "Cannot be heard so high. I'll look no more;"
+        ],
+        [
+            "EDGAR",
+            "Lest my brain turn, and the deficient sight"
+        ],
+        [
+            "EDGAR",
+            "Topple down headlong."
+        ],
+        [
+            "GLOUCESTER",
+            "Set me where you stand."
+        ],
+        [
+            "EDGAR",
+            "Give me your hand: you are now within a foot"
+        ],
+        [
+            "EDGAR",
+            "Of the extreme verge: for all beneath the moon"
+        ],
+        [
+            "EDGAR",
+            "Would I not leap upright."
+        ],
+        [
+            "GLOUCESTER",
+            "Let go my hand."
+        ],
+        [
+            "GLOUCESTER",
+            "Here, friend, 's another purse; in it a jewel"
+        ],
+        [
+            "GLOUCESTER",
+            "Well worth a poor man's taking: fairies and gods"
+        ],
+        [
+            "GLOUCESTER",
+            "Prosper it with thee! Go thou farther off;"
+        ],
+        [
+            "GLOUCESTER",
+            "Bid me farewell, and let me hear thee going."
+        ],
+        [
+            "EDGAR",
+            "Now fare you well, good sir."
+        ],
+        [
+            "GLOUCESTER",
+            "With all my heart."
+        ],
+        [
+            "EDGAR",
+            "Why I do trifle thus with his despair"
+        ],
+        [
+            "EDGAR",
+            "Is done to cure it."
+        ],
+        [
+            "GLOUCESTER",
+            "[Kneeling] O you mighty gods!"
+        ],
+        [
+            "GLOUCESTER",
+            "This world I do renounce, and, in your sights,"
+        ],
+        [
+            "GLOUCESTER",
+            "Shake patiently my great affliction off:"
+        ],
+        [
+            "GLOUCESTER",
+            "If I could bear it longer, and not fall"
+        ],
+        [
+            "GLOUCESTER",
+            "To quarrel with your great opposeless wills,"
+        ],
+        [
+            "GLOUCESTER",
+            "My snuff and loathed part of nature should"
+        ],
+        [
+            "GLOUCESTER",
+            "Burn itself out. If Edgar live, O, bless him!"
+        ],
+        [
+            "GLOUCESTER",
+            "Now, fellow, fare thee well.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "EDGAR",
+            "Gone, sir: farewell.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "EDGAR",
+            "And yet I know not how conceit may rob"
+        ],
+        [
+            "EDGAR",
+            "The treasury of life, when life itself"
+        ],
+        [
+            "EDGAR",
+            "Yields to the theft: had he been where he thought,"
+        ],
+        [
+            "EDGAR",
+            "By this, had thought been past. Alive or dead?"
+        ],
+        [
+            "EDGAR",
+            "Ho, you sir! friend! Hear you, sir! speak!"
+        ],
+        [
+            "EDGAR",
+            "Thus might he pass indeed: yet he revives."
+        ],
+        [
+            "EDGAR",
+            "What are you, sir?"
+        ],
+        [
+            "GLOUCESTER",
+            "Away, and let me die."
+        ],
+        [
+            "EDGAR",
+            "Hadst thou been aught but gossamer, feathers, air,"
+        ],
+        [
+            "EDGAR",
+            "So many fathom down precipitating,"
+        ],
+        [
+            "EDGAR",
+            "Thou'dst shiver'd like an egg: but thou dost breathe;"
+        ],
+        [
+            "EDGAR",
+            "Hast heavy substance; bleed'st not; speak'st; art sound."
+        ],
+        [
+            "EDGAR",
+            "Ten masts at each make not the altitude"
+        ],
+        [
+            "EDGAR",
+            "Which thou hast perpendicularly fell:"
+        ],
+        [
+            "EDGAR",
+            "Thy life's a miracle. Speak yet again."
+        ],
+        [
+            "GLOUCESTER",
+            "But have I fall'n, or no?"
+        ],
+        [
+            "EDGAR",
+            "From the dread summit of this chalky bourn."
+        ],
+        [
+            "EDGAR",
+            "Look up a-height; the shrill-gorged lark so far"
+        ],
+        [
+            "EDGAR",
+            "Cannot be seen or heard: do but look up."
+        ],
+        [
+            "GLOUCESTER",
+            "Alack, I have no eyes."
+        ],
+        [
+            "GLOUCESTER",
+            "Is wretchedness deprived that benefit,"
+        ],
+        [
+            "GLOUCESTER",
+            "To end itself by death? 'Twas yet some comfort,"
+        ],
+        [
+            "GLOUCESTER",
+            "When misery could beguile the tyrant's rage,"
+        ],
+        [
+            "GLOUCESTER",
+            "And frustrate his proud will."
+        ],
+        [
+            "EDGAR",
+            "Give me your arm:"
+        ],
+        [
+            "EDGAR",
+            "Up: so. How is 't? Feel you your legs? You stand."
+        ],
+        [
+            "GLOUCESTER",
+            "Too well, too well."
+        ],
+        [
+            "EDGAR",
+            "This is above all strangeness."
+        ],
+        [
+            "EDGAR",
+            "Upon the crown o' the cliff, what thing was that"
+        ],
+        [
+            "EDGAR",
+            "Which parted from you?"
+        ],
+        [
+            "GLOUCESTER",
+            "A poor unfortunate beggar."
+        ],
+        [
+            "EDGAR",
+            "As I stood here below, methought his eyes"
+        ],
+        [
+            "EDGAR",
+            "Were two full moons; he had a thousand noses,"
+        ],
+        [
+            "EDGAR",
+            "Horns whelk'd and waved like the enridged sea:"
+        ],
+        [
+            "EDGAR",
+            "It was some fiend; therefore, thou happy father,"
+        ],
+        [
+            "EDGAR",
+            "Think that the clearest gods, who make them honours"
+        ],
+        [
+            "EDGAR",
+            "Of men's impossibilities, have preserved thee."
+        ],
+        [
+            "GLOUCESTER",
+            "I do remember now: henceforth I'll bear"
+        ],
+        [
+            "GLOUCESTER",
+            "Affliction till it do cry out itself"
+        ],
+        [
+            "GLOUCESTER",
+            "'Enough, enough,' and die. That thing you speak of,"
+        ],
+        [
+            "GLOUCESTER",
+            "I took it for a man; often 'twould say"
+        ],
+        [
+            "GLOUCESTER",
+            "'The fiend, the fiend:' he led me to that place."
+        ],
+        [
+            "EDGAR",
+            "Bear free and patient thoughts. But who comes here?",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "EDGAR",
+            "The safer sense will ne'er accommodate",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "EDGAR",
+            "His master thus."
+        ],
+        [
+            "KING LEAR",
+            "No, they cannot touch me for coining; I am the"
+        ],
+        [
+            "KING LEAR",
+            "king himself."
+        ],
+        [
+            "EDGAR",
+            "O thou side-piercing sight!"
+        ],
+        [
+            "KING LEAR",
+            "Nature's above art in that respect. There's your"
+        ],
+        [
+            "KING LEAR",
+            "press-money. That fellow handles his bow like a"
+        ],
+        [
+            "KING LEAR",
+            "crow-keeper: draw me a clothier's yard. Look,"
+        ],
+        [
+            "KING LEAR",
+            "look, a mouse! Peace, peace; this piece of toasted"
+        ],
+        [
+            "KING LEAR",
+            "cheese will do 't. There's my gauntlet; I'll prove"
+        ],
+        [
+            "KING LEAR",
+            "it on a giant. Bring up the brown bills. O, well"
+        ],
+        [
+            "KING LEAR",
+            "flown, bird! i' the clout, i' the clout: hewgh!"
+        ],
+        [
+            "KING LEAR",
+            "Give the word."
+        ],
+        [
+            "EDGAR",
+            "Sweet marjoram."
+        ],
+        [
+            "KING LEAR",
+            "Pass."
+        ],
+        [
+            "GLOUCESTER",
+            "I know that voice."
+        ],
+        [
+            "KING LEAR",
+            "Ha! Goneril, with a white beard! They flattered"
+        ],
+        [
+            "KING LEAR",
+            "me like a dog; and told me I had white hairs in my"
+        ],
+        [
+            "KING LEAR",
+            "beard ere the black ones were there. To say 'ay'"
+        ],
+        [
+            "KING LEAR",
+            "and 'no' to every thing that I said!--'Ay' and 'no'"
+        ],
+        [
+            "KING LEAR",
+            "too was no good divinity. When the rain came to"
+        ],
+        [
+            "KING LEAR",
+            "wet me once, and the wind to make me chatter; when"
+        ],
+        [
+            "KING LEAR",
+            "the thunder would not peace at my bidding; there I"
+        ],
+        [
+            "KING LEAR",
+            "found 'em, there I smelt 'em out. Go to, they are"
+        ],
+        [
+            "KING LEAR",
+            "not men o' their words: they told me I was every"
+        ],
+        [
+            "KING LEAR",
+            "thing; 'tis a lie, I am not ague-proof."
+        ],
+        [
+            "GLOUCESTER",
+            "The trick of that voice I do well remember:"
+        ],
+        [
+            "GLOUCESTER",
+            "Is 't not the king?"
+        ],
+        [
+            "KING LEAR",
+            "Ay, every inch a king:"
+        ],
+        [
+            "KING LEAR",
+            "When I do stare, see how the subject quakes."
+        ],
+        [
+            "KING LEAR",
+            "I pardon that man's life. What was thy cause? Adultery?"
+        ],
+        [
+            "KING LEAR",
+            "Thou shalt not die: die for adultery! No:"
+        ],
+        [
+            "KING LEAR",
+            "The wren goes to 't, and the small gilded fly"
+        ],
+        [
+            "KING LEAR",
+            "Does lecher in my sight."
+        ],
+        [
+            "KING LEAR",
+            "Let copulation thrive; for Gloucester's bastard son"
+        ],
+        [
+            "KING LEAR",
+            "Was kinder to his father than my daughters"
+        ],
+        [
+            "KING LEAR",
+            "Got 'tween the lawful sheets."
+        ],
+        [
+            "KING LEAR",
+            "To 't, luxury, pell-mell! for I lack soldiers."
+        ],
+        [
+            "KING LEAR",
+            "Behold yond simpering dame,"
+        ],
+        [
+            "KING LEAR",
+            "Whose face between her forks presages snow;"
+        ],
+        [
+            "KING LEAR",
+            "That minces virtue, and does shake the head"
+        ],
+        [
+            "KING LEAR",
+            "To hear of pleasure's name;"
+        ],
+        [
+            "KING LEAR",
+            "The fitchew, nor the soiled horse, goes to 't"
+        ],
+        [
+            "KING LEAR",
+            "With a more riotous appetite."
+        ],
+        [
+            "KING LEAR",
+            "Down from the waist they are Centaurs,"
+        ],
+        [
+            "KING LEAR",
+            "Though women all above:"
+        ],
+        [
+            "KING LEAR",
+            "But to the girdle do the gods inherit,"
+        ],
+        [
+            "KING LEAR",
+            "Beneath is all the fiends';"
+        ],
+        [
+            "KING LEAR",
+            "There's hell, there's darkness, there's the"
+        ],
+        [
+            "KING LEAR",
+            "sulphurous pit,"
+        ],
+        [
+            "KING LEAR",
+            "Burning, scalding, stench, consumption; fie,"
+        ],
+        [
+            "KING LEAR",
+            "fie, fie! pah, pah! Give me an ounce of civet,"
+        ],
+        [
+            "KING LEAR",
+            "good apothecary, to sweeten my imagination:"
+        ],
+        [
+            "KING LEAR",
+            "there's money for thee."
+        ],
+        [
+            "GLOUCESTER",
+            "O, let me kiss that hand!"
+        ],
+        [
+            "KING LEAR",
+            "Let me wipe it first; it smells of mortality."
+        ],
+        [
+            "GLOUCESTER",
+            "O ruin'd piece of nature! This great world"
+        ],
+        [
+            "GLOUCESTER",
+            "Shall so wear out to nought. Dost thou know me?"
+        ],
+        [
+            "KING LEAR",
+            "I remember thine eyes well enough. Dost thou squiny"
+        ],
+        [
+            "KING LEAR",
+            "at me? No, do thy worst, blind Cupid! I'll not"
+        ],
+        [
+            "KING LEAR",
+            "love. Read thou this challenge; mark but the"
+        ],
+        [
+            "KING LEAR",
+            "penning of it."
+        ],
+        [
+            "GLOUCESTER",
+            "Were all the letters suns, I could not see one."
+        ],
+        [
+            "EDGAR",
+            "I would not take this from report; it is,"
+        ],
+        [
+            "EDGAR",
+            "And my heart breaks at it."
+        ],
+        [
+            "KING LEAR",
+            "Read."
+        ],
+        [
+            "GLOUCESTER",
+            "What, with the case of eyes?"
+        ],
+        [
+            "KING LEAR",
+            "O, ho, are you there with me? No eyes in your"
+        ],
+        [
+            "KING LEAR",
+            "head, nor no money in your purse? Your eyes are in"
+        ],
+        [
+            "KING LEAR",
+            "a heavy case, your purse in a light; yet you see how"
+        ],
+        [
+            "KING LEAR",
+            "this world goes."
+        ],
+        [
+            "GLOUCESTER",
+            "I see it feelingly."
+        ],
+        [
+            "KING LEAR",
+            "What, art mad? A man may see how this world goes"
+        ],
+        [
+            "KING LEAR",
+            "with no eyes. Look with thine ears: see how yond"
+        ],
+        [
+            "KING LEAR",
+            "justice rails upon yond simple thief. Hark, in"
+        ],
+        [
+            "KING LEAR",
+            "thine ear: change places; and, handy-dandy, which"
+        ],
+        [
+            "KING LEAR",
+            "is the justice, which is the thief? Thou hast seen"
+        ],
+        [
+            "KING LEAR",
+            "a farmer's dog bark at a beggar?"
+        ],
+        [
+            "GLOUCESTER",
+            "Ay, sir."
+        ],
+        [
+            "KING LEAR",
+            "And the creature run from the cur? There thou"
+        ],
+        [
+            "KING LEAR",
+            "mightst behold the great image of authority: a"
+        ],
+        [
+            "KING LEAR",
+            "dog's obeyed in office."
+        ],
+        [
+            "KING LEAR",
+            "Thou rascal beadle, hold thy bloody hand!"
+        ],
+        [
+            "KING LEAR",
+            "Why dost thou lash that whore? Strip thine own back;"
+        ],
+        [
+            "KING LEAR",
+            "Thou hotly lust'st to use her in that kind"
+        ],
+        [
+            "KING LEAR",
+            "For which thou whipp'st her. The usurer hangs the cozener."
+        ],
+        [
+            "KING LEAR",
+            "Through tatter'd clothes small vices do appear;"
+        ],
+        [
+            "KING LEAR",
+            "Robes and furr'd gowns hide all. Plate sin with gold,"
+        ],
+        [
+            "KING LEAR",
+            "And the strong lance of justice hurtless breaks:"
+        ],
+        [
+            "KING LEAR",
+            "Arm it in rags, a pigmy's straw does pierce it."
+        ],
+        [
+            "KING LEAR",
+            "None does offend, none, I say, none; I'll able 'em:"
+        ],
+        [
+            "KING LEAR",
+            "Take that of me, my friend, who have the power"
+        ],
+        [
+            "KING LEAR",
+            "To seal the accuser's lips. Get thee glass eyes;"
+        ],
+        [
+            "KING LEAR",
+            "And like a scurvy politician, seem"
+        ],
+        [
+            "KING LEAR",
+            "To see the things thou dost not. Now, now, now, now:"
+        ],
+        [
+            "KING LEAR",
+            "Pull off my boots: harder, harder: so."
+        ],
+        [
+            "EDGAR",
+            "O, matter and impertinency mix'd! Reason in madness!"
+        ],
+        [
+            "KING LEAR",
+            "If thou wilt weep my fortunes, take my eyes."
+        ],
+        [
+            "KING LEAR",
+            "I know thee well enough; thy name is Gloucester:"
+        ],
+        [
+            "KING LEAR",
+            "Thou must be patient; we came crying hither:"
+        ],
+        [
+            "KING LEAR",
+            "Thou know'st, the first time that we smell the air,"
+        ],
+        [
+            "KING LEAR",
+            "We wawl and cry. I will preach to thee: mark."
+        ],
+        [
+            "GLOUCESTER",
+            "Alack, alack the day!"
+        ],
+        [
+            "KING LEAR",
+            "When we are born, we cry that we are come"
+        ],
+        [
+            "KING LEAR",
+            "To this great stage of fools: this a good block;"
+        ],
+        [
+            "KING LEAR",
+            "It were a delicate stratagem, to shoe"
+        ],
+        [
+            "KING LEAR",
+            "A troop of horse with felt: I'll put 't in proof;"
+        ],
+        [
+            "KING LEAR",
+            "And when I have stol'n upon these sons-in-law,"
+        ],
+        [
+            "KING LEAR",
+            "Then, kill, kill, kill, kill, kill, kill!",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "Gentleman",
+            "O, here he is: lay hand upon him. Sir,",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "Gentleman",
+            "Your most dear daughter--"
+        ],
+        [
+            "KING LEAR",
+            "No rescue? What, a prisoner? I am even"
+        ],
+        [
+            "KING LEAR",
+            "The natural fool of fortune. Use me well;"
+        ],
+        [
+            "KING LEAR",
+            "You shall have ransom. Let me have surgeons;"
+        ],
+        [
+            "KING LEAR",
+            "I am cut to the brains."
+        ],
+        [
+            "Gentleman",
+            "You shall have any thing."
+        ],
+        [
+            "KING LEAR",
+            "No seconds? all myself?"
+        ],
+        [
+            "KING LEAR",
+            "Why, this would make a man a man of salt,"
+        ],
+        [
+            "KING LEAR",
+            "To use his eyes for garden water-pots,"
+        ],
+        [
+            "KING LEAR",
+            "Ay, and laying autumn's dust."
+        ],
+        [
+            "Gentleman",
+            "Good sir,--"
+        ],
+        [
+            "KING LEAR",
+            "I will die bravely, like a bridegroom. What!"
+        ],
+        [
+            "KING LEAR",
+            "I will be jovial: come, come; I am a king,"
+        ],
+        [
+            "KING LEAR",
+            "My masters, know you that."
+        ],
+        [
+            "Gentleman",
+            "You are a royal one, and we obey you."
+        ],
+        [
+            "KING LEAR",
+            "Then there's life in't. Nay, if you get it, you"
+        ],
+        [
+            "KING LEAR",
+            "shall get it with running. Sa, sa, sa, sa.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "Gentleman",
+            "A sight most pitiful in the meanest wretch,",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "Gentleman",
+            "Past speaking of in a king! Thou hast one daughter,"
+        ],
+        [
+            "Gentleman",
+            "Who redeems nature from the general curse"
+        ],
+        [
+            "Gentleman",
+            "Which twain have brought her to."
+        ],
+        [
+            "EDGAR",
+            "Hail, gentle sir."
+        ],
+        [
+            "Gentleman",
+            "Sir, speed you: what's your will?"
+        ],
+        [
+            "EDGAR",
+            "Do you hear aught, sir, of a battle toward?"
+        ],
+        [
+            "Gentleman",
+            "Most sure and vulgar: every one hears that,"
+        ],
+        [
+            "Gentleman",
+            "Which can distinguish sound."
+        ],
+        [
+            "EDGAR",
+            "But, by your favour,"
+        ],
+        [
+            "EDGAR",
+            "How near's the other army?"
+        ],
+        [
+            "Gentleman",
+            "Near and on speedy foot; the main descry"
+        ],
+        [
+            "Gentleman",
+            "Stands on the hourly thought."
+        ],
+        [
+            "EDGAR",
+            "I thank you, sir: that's all."
+        ],
+        [
+            "Gentleman",
+            "Though that the queen on special cause is here,"
+        ],
+        [
+            "Gentleman",
+            "Her army is moved on."
+        ],
+        [
+            "EDGAR",
+            "I thank you, sir.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "GLOUCESTER",
+            "You ever-gentle gods, take my breath from me:",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "GLOUCESTER",
+            "Let not my worser spirit tempt me again"
+        ],
+        [
+            "GLOUCESTER",
+            "To die before you please!"
+        ],
+        [
+            "EDGAR",
+            "Well pray you, father."
+        ],
+        [
+            "GLOUCESTER",
+            "Now, good sir, what are you?"
+        ],
+        [
+            "EDGAR",
+            "A most poor man, made tame to fortune's blows;"
+        ],
+        [
+            "EDGAR",
+            "Who, by the art of known and feeling sorrows,"
+        ],
+        [
+            "EDGAR",
+            "Am pregnant to good pity. Give me your hand,"
+        ],
+        [
+            "EDGAR",
+            "I'll lead you to some biding."
+        ],
+        [
+            "GLOUCESTER",
+            "Hearty thanks:"
+        ],
+        [
+            "GLOUCESTER",
+            "The bounty and the benison of heaven"
+        ],
+        [
+            "GLOUCESTER",
+            "To boot, and boot!",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "OSWALD",
+            "A proclaim'd prize! Most happy!",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "OSWALD",
+            "That eyeless head of thine was first framed flesh"
+        ],
+        [
+            "OSWALD",
+            "To raise my fortunes. Thou old unhappy traitor,"
+        ],
+        [
+            "OSWALD",
+            "Briefly thyself remember: the sword is out"
+        ],
+        [
+            "OSWALD",
+            "That must destroy thee."
+        ],
+        [
+            "GLOUCESTER",
+            "Now let thy friendly hand"
+        ],
+        [
+            "GLOUCESTER",
+            "Put strength enough to't.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "OSWALD",
+            "Wherefore, bold peasant,",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "OSWALD",
+            "Darest thou support a publish'd traitor? Hence;"
+        ],
+        [
+            "OSWALD",
+            "Lest that the infection of his fortune take"
+        ],
+        [
+            "OSWALD",
+            "Like hold on thee. Let go his arm."
+        ],
+        [
+            "EDGAR",
+            "Ch'ill not let go, zir, without vurther 'casion."
+        ],
+        [
+            "OSWALD",
+            "Let go, slave, or thou diest!"
+        ],
+        [
+            "EDGAR",
+            "Good gentleman, go your gait, and let poor volk"
+        ],
+        [
+            "EDGAR",
+            "pass. An chud ha' bin zwaggered out of my life,"
+        ],
+        [
+            "EDGAR",
+            "'twould not ha' bin zo long as 'tis by a vortnight."
+        ],
+        [
+            "EDGAR",
+            "Nay, come not near th' old man; keep out, che vor"
+        ],
+        [
+            "EDGAR",
+            "ye, or ise try whether your costard or my ballow be"
+        ],
+        [
+            "EDGAR",
+            "the harder: ch'ill be plain with you."
+        ],
+        [
+            "OSWALD",
+            "Out, dunghill!"
+        ],
+        [
+            "EDGAR",
+            "Ch'ill pick your teeth, zir: come; no matter vor"
+        ],
+        [
+            "EDGAR",
+            "your foins.",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "OSWALD",
+            "Slave, thou hast slain me: villain, take my purse:",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "OSWALD",
+            "If ever thou wilt thrive, bury my body;"
+        ],
+        [
+            "OSWALD",
+            "And give the letters which thou find'st about me"
+        ],
+        [
+            "OSWALD",
+            "To Edmund earl of Gloucester; seek him out"
+        ],
+        [
+            "OSWALD",
+            "Upon the British party: O, untimely death!",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "EDGAR",
+            "I know thee well: a serviceable villain;",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "EDGAR",
+            "As duteous to the vices of thy mistress"
+        ],
+        [
+            "EDGAR",
+            "As badness would desire."
+        ],
+        [
+            "GLOUCESTER",
+            "What, is he dead?"
+        ],
+        [
+            "EDGAR",
+            "Sit you down, father; rest you"
+        ],
+        [
+            "EDGAR",
+            "Let's see these pockets: the letters that he speaks of"
+        ],
+        [
+            "EDGAR",
+            "May be my friends. He's dead; I am only sorry"
+        ],
+        [
+            "EDGAR",
+            "He had no other death's-man. Let us see:"
+        ],
+        [
+            "EDGAR",
+            "Leave, gentle wax; and, manners, blame us not:"
+        ],
+        [
+            "EDGAR",
+            "To know our enemies' minds, we'ld rip their hearts;"
+        ],
+        [
+            "EDGAR",
+            "Their papers, is more lawful.",
+            {
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "EDGAR",
+            "'Let our reciprocal vows be remembered. You have",
+            {
+                "preceding_direction_line": "11"
+            }
+        ],
+        [
+            "EDGAR",
+            "many opportunities to cut him off: if your will"
+        ],
+        [
+            "EDGAR",
+            "want not, time and place will be fruitfully offered."
+        ],
+        [
+            "EDGAR",
+            "There is nothing done, if he return the conqueror:"
+        ],
+        [
+            "EDGAR",
+            "then am I the prisoner, and his bed my goal; from"
+        ],
+        [
+            "EDGAR",
+            "the loathed warmth whereof deliver me, and supply"
+        ],
+        [
+            "EDGAR",
+            "the place for your labour."
+        ],
+        [
+            "EDGAR",
+            "'Your--wife, so I would say--"
+        ],
+        [
+            "EDGAR",
+            "'Affectionate servant,"
+        ],
+        [
+            "EDGAR",
+            "'GONERIL.'"
+        ],
+        [
+            "EDGAR",
+            "O undistinguish'd space of woman's will!"
+        ],
+        [
+            "EDGAR",
+            "A plot upon her virtuous husband's life;"
+        ],
+        [
+            "EDGAR",
+            "And the exchange my brother! Here, in the sands,"
+        ],
+        [
+            "EDGAR",
+            "Thee I'll rake up, the post unsanctified"
+        ],
+        [
+            "EDGAR",
+            "Of murderous lechers: and in the mature time"
+        ],
+        [
+            "EDGAR",
+            "With this ungracious paper strike the sight"
+        ],
+        [
+            "EDGAR",
+            "Of the death practised duke: for him 'tis well"
+        ],
+        [
+            "EDGAR",
+            "That of thy death and business I can tell."
+        ],
+        [
+            "GLOUCESTER",
+            "The king is mad: how stiff is my vile sense,"
+        ],
+        [
+            "GLOUCESTER",
+            "That I stand up, and have ingenious feeling"
+        ],
+        [
+            "GLOUCESTER",
+            "Of my huge sorrows! Better I were distract:"
+        ],
+        [
+            "GLOUCESTER",
+            "So should my thoughts be sever'd from my griefs,"
+        ],
+        [
+            "GLOUCESTER",
+            "And woes by wrong imaginations lose"
+        ],
+        [
+            "GLOUCESTER",
+            "The knowledge of themselves."
+        ],
+        [
+            "EDGAR",
+            "Give me your hand:",
+            {
+                "following_direction_line": "12"
+            }
+        ],
+        [
+            "EDGAR",
+            "Far off, methinks, I hear the beaten drum:",
+            {
+                "preceding_direction_line": "12"
+            }
+        ],
+        [
+            "EDGAR",
+            "Come, father, I'll bestow you with a friend.",
+            {
+                "following_direction_line": "13"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter GLOUCESTER, and EDGAR dressed like a peasant"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "He falls forward"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter KING LEAR, fantastically dressed with wild flowers"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter a Gentleman, with Attendants"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exit running; Attendants follow"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exit Gentleman"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Enter OSWALD"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "EDGAR interposes"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "They fight, and EDGAR knocks him down"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Dies"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "Reads"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Drum afar off"
+        ],
+        [
+            "_DIRECTION",
+            "D13",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "GLOUCESTER": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "3"
+            ],
+            [
+                "6",
+                "6"
+            ],
+            [
+                "9",
+                "11"
+            ],
+            [
+                "14",
+                "14"
+            ],
+            [
+                "29",
+                "29"
+            ],
+            [
+                "33",
+                "37"
+            ],
+            [
+                "39",
+                "39"
+            ],
+            [
+                "42",
+                "49"
+            ],
+            [
+                "58",
+                "58"
+            ],
+            [
+                "66",
+                "66"
+            ],
+            [
+                "70",
+                "74"
+            ],
+            [
+                "77",
+                "77"
+            ],
+            [
+                "81",
+                "81"
+            ],
+            [
+                "88",
+                "92"
+            ],
+            [
+                "109",
+                "109"
+            ],
+            [
+                "120",
+                "121"
+            ],
+            [
+                "148",
+                "148"
+            ],
+            [
+                "150",
+                "151"
+            ],
+            [
+                "156",
+                "156"
+            ],
+            [
+                "160",
+                "160"
+            ],
+            [
+                "165",
+                "165"
+            ],
+            [
+                "172",
+                "172"
+            ],
+            [
+                "196",
+                "196"
+            ],
+            [
+                "238",
+                "240"
+            ],
+            [
+                "242",
+                "242"
+            ],
+            [
+                "247",
+                "249"
+            ],
+            [
+                "255",
+                "256"
+            ],
+            [
+                "280",
+                "280"
+            ],
+            [
+                "306",
+                "311"
+            ]
+        ],
+        "EDGAR": [
+            [
+                "2",
+                "2"
+            ],
+            [
+                "4",
+                "5"
+            ],
+            [
+                "7",
+                "8"
+            ],
+            [
+                "12",
+                "13"
+            ],
+            [
+                "15",
+                "28"
+            ],
+            [
+                "30",
+                "32"
+            ],
+            [
+                "38",
+                "38"
+            ],
+            [
+                "40",
+                "41"
+            ],
+            [
+                "50",
+                "57"
+            ],
+            [
+                "59",
+                "65"
+            ],
+            [
+                "67",
+                "69"
+            ],
+            [
+                "75",
+                "76"
+            ],
+            [
+                "78",
+                "80"
+            ],
+            [
+                "82",
+                "87"
+            ],
+            [
+                "93",
+                "95"
+            ],
+            [
+                "98",
+                "98"
+            ],
+            [
+                "107",
+                "107"
+            ],
+            [
+                "157",
+                "158"
+            ],
+            [
+                "190",
+                "190"
+            ],
+            [
+                "225",
+                "225"
+            ],
+            [
+                "227",
+                "227"
+            ],
+            [
+                "230",
+                "231"
+            ],
+            [
+                "234",
+                "234"
+            ],
+            [
+                "237",
+                "237"
+            ],
+            [
+                "241",
+                "241"
+            ],
+            [
+                "243",
+                "246"
+            ],
+            [
+                "261",
+                "261"
+            ],
+            [
+                "263",
+                "268"
+            ],
+            [
+                "270",
+                "271"
+            ],
+            [
+                "277",
+                "279"
+            ],
+            [
+                "281",
+                "305"
+            ],
+            [
+                "312",
+                "314"
+            ]
+        ],
+        "KING LEAR": [
+            [
+                "96",
+                "97"
+            ],
+            [
+                "99",
+                "106"
+            ],
+            [
+                "108",
+                "108"
+            ],
+            [
+                "110",
+                "119"
+            ],
+            [
+                "122",
+                "147"
+            ],
+            [
+                "149",
+                "149"
+            ],
+            [
+                "152",
+                "155"
+            ],
+            [
+                "159",
+                "159"
+            ],
+            [
+                "161",
+                "164"
+            ],
+            [
+                "166",
+                "171"
+            ],
+            [
+                "173",
+                "189"
+            ],
+            [
+                "191",
+                "195"
+            ],
+            [
+                "197",
+                "202"
+            ],
+            [
+                "205",
+                "208"
+            ],
+            [
+                "210",
+                "213"
+            ],
+            [
+                "215",
+                "217"
+            ],
+            [
+                "219",
+                "220"
+            ]
+        ],
+        "Gentleman": [
+            [
+                "203",
+                "204"
+            ],
+            [
+                "209",
+                "209"
+            ],
+            [
+                "214",
+                "214"
+            ],
+            [
+                "218",
+                "218"
+            ],
+            [
+                "221",
+                "224"
+            ],
+            [
+                "226",
+                "226"
+            ],
+            [
+                "228",
+                "229"
+            ],
+            [
+                "232",
+                "233"
+            ],
+            [
+                "235",
+                "236"
+            ]
+        ],
+        "OSWALD": [
+            [
+                "250",
+                "254"
+            ],
+            [
+                "257",
+                "260"
+            ],
+            [
+                "262",
+                "262"
+            ],
+            [
+                "269",
+                "269"
+            ],
+            [
+                "272",
+                "276"
+            ]
+        ]
+    },
+    "scene_name": "SCENE VI",
+    "scene_description": "Fields near Dover."
+}
