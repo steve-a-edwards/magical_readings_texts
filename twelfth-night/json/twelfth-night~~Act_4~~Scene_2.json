@@ -1,0 +1,798 @@
+{
+    "scene_id": "twelfth night~~Act_4~~Scene_2",
+    "work_number": "6",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "MARIA",
+            "Nay, I prithee, put on this gown and this beard;",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "MARIA",
+            "make him believe thou art Sir Topas the curate: do"
+        ],
+        [
+            "MARIA",
+            "it quickly; I'll call Sir Toby the whilst.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "Clown",
+            "Well, I'll put it on, and I will dissemble myself",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "Clown",
+            "in't; and I would I were the first that ever"
+        ],
+        [
+            "Clown",
+            "dissembled in such a gown. I am not tall enough to"
+        ],
+        [
+            "Clown",
+            "become the function well, nor lean enough to be"
+        ],
+        [
+            "Clown",
+            "thought a good student; but to be said an honest man"
+        ],
+        [
+            "Clown",
+            "and a good housekeeper goes as fairly as to say a"
+        ],
+        [
+            "Clown",
+            "careful man and a great scholar. The competitors enter.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Jove bless thee, master Parson.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "Clown",
+            "Bonos dies, Sir Toby: for, as the old hermit of"
+        ],
+        [
+            "Clown",
+            "Prague, that never saw pen and ink, very wittily"
+        ],
+        [
+            "Clown",
+            "said to a niece of King Gorboduc, 'That that is is;'"
+        ],
+        [
+            "Clown",
+            "so I, being Master Parson, am Master Parson; for,"
+        ],
+        [
+            "Clown",
+            "what is 'that' but 'that,' and 'is' but 'is'?"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "To him, Sir Topas."
+        ],
+        [
+            "Clown",
+            "What, ho, I say! peace in this prison!"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "The knave counterfeits well; a good knave."
+        ],
+        [
+            "MALVOLIO",
+            "[Within] Who calls there?"
+        ],
+        [
+            "Clown",
+            "Sir Topas the curate, who comes to visit Malvolio"
+        ],
+        [
+            "Clown",
+            "the lunatic."
+        ],
+        [
+            "MALVOLIO",
+            "Sir Topas, Sir Topas, good Sir Topas, go to my lady."
+        ],
+        [
+            "Clown",
+            "Out, hyperbolical fiend! how vexest thou this man!"
+        ],
+        [
+            "Clown",
+            "talkest thou nothing but of ladies?"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Well said, Master Parson."
+        ],
+        [
+            "MALVOLIO",
+            "Sir Topas, never was man thus wronged: good Sir"
+        ],
+        [
+            "MALVOLIO",
+            "Topas, do not think I am mad: they have laid me"
+        ],
+        [
+            "MALVOLIO",
+            "here in hideous darkness."
+        ],
+        [
+            "Clown",
+            "Fie, thou dishonest Satan! I call thee by the most"
+        ],
+        [
+            "Clown",
+            "modest terms; for I am one of those gentle ones"
+        ],
+        [
+            "Clown",
+            "that will use the devil himself with courtesy:"
+        ],
+        [
+            "Clown",
+            "sayest thou that house is dark?"
+        ],
+        [
+            "MALVOLIO",
+            "As hell, Sir Topas."
+        ],
+        [
+            "Clown",
+            "Why it hath bay windows transparent as barricadoes,"
+        ],
+        [
+            "Clown",
+            "and the clearstores toward the south north are as"
+        ],
+        [
+            "Clown",
+            "lustrous as ebony; and yet complainest thou of"
+        ],
+        [
+            "Clown",
+            "obstruction?"
+        ],
+        [
+            "MALVOLIO",
+            "I am not mad, Sir Topas: I say to you, this house is dark."
+        ],
+        [
+            "Clown",
+            "Madman, thou errest: I say, there is no darkness"
+        ],
+        [
+            "Clown",
+            "but ignorance; in which thou art more puzzled than"
+        ],
+        [
+            "Clown",
+            "the Egyptians in their fog."
+        ],
+        [
+            "MALVOLIO",
+            "I say, this house is as dark as ignorance, though"
+        ],
+        [
+            "MALVOLIO",
+            "ignorance were as dark as hell; and I say, there"
+        ],
+        [
+            "MALVOLIO",
+            "was never man thus abused. I am no more mad than you"
+        ],
+        [
+            "MALVOLIO",
+            "are: make the trial of it in any constant question."
+        ],
+        [
+            "Clown",
+            "What is the opinion of Pythagoras concerning wild fowl?"
+        ],
+        [
+            "MALVOLIO",
+            "That the soul of our grandam might haply inhabit a bird."
+        ],
+        [
+            "Clown",
+            "What thinkest thou of his opinion?"
+        ],
+        [
+            "MALVOLIO",
+            "I think nobly of the soul, and no way approve his opinion."
+        ],
+        [
+            "Clown",
+            "Fare thee well. Remain thou still in darkness:"
+        ],
+        [
+            "Clown",
+            "thou shalt hold the opinion of Pythagoras ere I will"
+        ],
+        [
+            "Clown",
+            "allow of thy wits, and fear to kill a woodcock, lest"
+        ],
+        [
+            "Clown",
+            "thou dispossess the soul of thy grandam. Fare thee well."
+        ],
+        [
+            "MALVOLIO",
+            "Sir Topas, Sir Topas!"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "My most exquisite Sir Topas!"
+        ],
+        [
+            "Clown",
+            "Nay, I am for all waters."
+        ],
+        [
+            "MARIA",
+            "Thou mightst have done this without thy beard and"
+        ],
+        [
+            "MARIA",
+            "gown: he sees thee not."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "To him in thine own voice, and bring me word how"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "thou findest him: I would we were well rid of this"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "knavery. If he may be conveniently delivered, I"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "would he were, for I am now so far in offence with"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "my niece that I cannot pursue with any safety this"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "sport to the upshot. Come by and by to my chamber.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "Clown",
+            "[Singing]",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "Clown",
+            "'Hey, Robin, jolly Robin,"
+        ],
+        [
+            "Clown",
+            "Tell me how thy lady does.'"
+        ],
+        [
+            "MALVOLIO",
+            "Fool!"
+        ],
+        [
+            "Clown",
+            "'My lady is unkind, perdy.'"
+        ],
+        [
+            "MALVOLIO",
+            "Fool!"
+        ],
+        [
+            "Clown",
+            "'Alas, why is she so?'"
+        ],
+        [
+            "MALVOLIO",
+            "Fool, I say!"
+        ],
+        [
+            "Clown",
+            "'She loves another'--Who calls, ha?"
+        ],
+        [
+            "MALVOLIO",
+            "Good fool, as ever thou wilt deserve well at my"
+        ],
+        [
+            "MALVOLIO",
+            "hand, help me to a candle, and pen, ink and paper:"
+        ],
+        [
+            "MALVOLIO",
+            "as I am a gentleman, I will live to be thankful to"
+        ],
+        [
+            "MALVOLIO",
+            "thee for't."
+        ],
+        [
+            "Clown",
+            "Master Malvolio?"
+        ],
+        [
+            "MALVOLIO",
+            "Ay, good fool."
+        ],
+        [
+            "Clown",
+            "Alas, sir, how fell you besides your five wits?"
+        ],
+        [
+            "MALVOLIO",
+            "Fool, there was never a man so notoriously abused: I"
+        ],
+        [
+            "MALVOLIO",
+            "am as well in my wits, fool, as thou art."
+        ],
+        [
+            "Clown",
+            "But as well? then you are mad indeed, if you be no"
+        ],
+        [
+            "Clown",
+            "better in your wits than a fool."
+        ],
+        [
+            "MALVOLIO",
+            "They have here propertied me; keep me in darkness,"
+        ],
+        [
+            "MALVOLIO",
+            "send ministers to me, asses, and do all they can to"
+        ],
+        [
+            "MALVOLIO",
+            "face me out of my wits."
+        ],
+        [
+            "Clown",
+            "Advise you what you say; the minister is here."
+        ],
+        [
+            "Clown",
+            "Malvolio, Malvolio, thy wits the heavens restore!"
+        ],
+        [
+            "Clown",
+            "endeavour thyself to sleep, and leave thy vain"
+        ],
+        [
+            "Clown",
+            "bibble babble."
+        ],
+        [
+            "MALVOLIO",
+            "Sir Topas!"
+        ],
+        [
+            "Clown",
+            "Maintain no words with him, good fellow. Who, I,"
+        ],
+        [
+            "Clown",
+            "sir? not I, sir. God be wi' you, good Sir Topas."
+        ],
+        [
+            "Clown",
+            "Merry, amen. I will, sir, I will."
+        ],
+        [
+            "MALVOLIO",
+            "Fool, fool, fool, I say!"
+        ],
+        [
+            "Clown",
+            "Alas, sir, be patient. What say you sir? I am"
+        ],
+        [
+            "Clown",
+            "shent for speaking to you."
+        ],
+        [
+            "MALVOLIO",
+            "Good fool, help me to some light and some paper: I"
+        ],
+        [
+            "MALVOLIO",
+            "tell thee, I am as well in my wits as any man in Illyria."
+        ],
+        [
+            "Clown",
+            "Well-a-day that you were, sir"
+        ],
+        [
+            "MALVOLIO",
+            "By this hand, I am. Good fool, some ink, paper and"
+        ],
+        [
+            "MALVOLIO",
+            "light; and convey what I will set down to my lady:"
+        ],
+        [
+            "MALVOLIO",
+            "it shall advantage thee more than ever the bearing"
+        ],
+        [
+            "MALVOLIO",
+            "of letter did."
+        ],
+        [
+            "Clown",
+            "I will help you to't. But tell me true, are you"
+        ],
+        [
+            "Clown",
+            "not mad indeed? or do you but counterfeit?"
+        ],
+        [
+            "MALVOLIO",
+            "Believe me, I am not; I tell thee true."
+        ],
+        [
+            "Clown",
+            "Nay, I'll ne'er believe a madman till I see his"
+        ],
+        [
+            "Clown",
+            "brains. I will fetch you light and paper and ink."
+        ],
+        [
+            "MALVOLIO",
+            "Fool, I'll requite it in the highest degree: I"
+        ],
+        [
+            "MALVOLIO",
+            "prithee, be gone."
+        ],
+        [
+            "Clown",
+            "[Singing]"
+        ],
+        [
+            "Clown",
+            "I am gone, sir,"
+        ],
+        [
+            "Clown",
+            "And anon, sir,"
+        ],
+        [
+            "Clown",
+            "I'll be with you again,"
+        ],
+        [
+            "Clown",
+            "In a trice,"
+        ],
+        [
+            "Clown",
+            "Like to the old Vice,"
+        ],
+        [
+            "Clown",
+            "Your need to sustain;"
+        ],
+        [
+            "Clown",
+            "Who, with dagger of lath,"
+        ],
+        [
+            "Clown",
+            "In his rage and his wrath,"
+        ],
+        [
+            "Clown",
+            "Cries, ah, ha! to the devil:"
+        ],
+        [
+            "Clown",
+            "Like a mad lad,"
+        ],
+        [
+            "Clown",
+            "Pare thy nails, dad;"
+        ],
+        [
+            "Clown",
+            "Adieu, good man devil.",
+            {
+                "following_direction_line": "5"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter MARIA and Clown"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter SIR TOBY BELCH and MARIA"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt SIR TOBY BELCH and MARIA"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "MARIA": [
+            [
+                "1",
+                "3"
+            ],
+            [
+                "58",
+                "59"
+            ]
+        ],
+        "Clown": [
+            [
+                "4",
+                "10"
+            ],
+            [
+                "12",
+                "16"
+            ],
+            [
+                "18",
+                "18"
+            ],
+            [
+                "21",
+                "22"
+            ],
+            [
+                "24",
+                "25"
+            ],
+            [
+                "30",
+                "33"
+            ],
+            [
+                "35",
+                "38"
+            ],
+            [
+                "40",
+                "42"
+            ],
+            [
+                "47",
+                "47"
+            ],
+            [
+                "49",
+                "49"
+            ],
+            [
+                "51",
+                "54"
+            ],
+            [
+                "57",
+                "57"
+            ],
+            [
+                "66",
+                "68"
+            ],
+            [
+                "70",
+                "70"
+            ],
+            [
+                "72",
+                "72"
+            ],
+            [
+                "74",
+                "74"
+            ],
+            [
+                "79",
+                "79"
+            ],
+            [
+                "81",
+                "81"
+            ],
+            [
+                "84",
+                "85"
+            ],
+            [
+                "89",
+                "92"
+            ],
+            [
+                "94",
+                "96"
+            ],
+            [
+                "98",
+                "99"
+            ],
+            [
+                "102",
+                "102"
+            ],
+            [
+                "107",
+                "108"
+            ],
+            [
+                "110",
+                "111"
+            ],
+            [
+                "114",
+                "126"
+            ]
+        ],
+        "SIR TOBY BELCH": [
+            [
+                "11",
+                "11"
+            ],
+            [
+                "17",
+                "17"
+            ],
+            [
+                "19",
+                "19"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "56",
+                "56"
+            ],
+            [
+                "60",
+                "65"
+            ]
+        ],
+        "MALVOLIO": [
+            [
+                "20",
+                "20"
+            ],
+            [
+                "23",
+                "23"
+            ],
+            [
+                "27",
+                "29"
+            ],
+            [
+                "34",
+                "34"
+            ],
+            [
+                "39",
+                "39"
+            ],
+            [
+                "43",
+                "46"
+            ],
+            [
+                "48",
+                "48"
+            ],
+            [
+                "50",
+                "50"
+            ],
+            [
+                "55",
+                "55"
+            ],
+            [
+                "69",
+                "69"
+            ],
+            [
+                "71",
+                "71"
+            ],
+            [
+                "73",
+                "73"
+            ],
+            [
+                "75",
+                "78"
+            ],
+            [
+                "80",
+                "80"
+            ],
+            [
+                "82",
+                "83"
+            ],
+            [
+                "86",
+                "88"
+            ],
+            [
+                "93",
+                "93"
+            ],
+            [
+                "97",
+                "97"
+            ],
+            [
+                "100",
+                "101"
+            ],
+            [
+                "103",
+                "106"
+            ],
+            [
+                "109",
+                "109"
+            ],
+            [
+                "112",
+                "113"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "OLIVIA's house."
+}

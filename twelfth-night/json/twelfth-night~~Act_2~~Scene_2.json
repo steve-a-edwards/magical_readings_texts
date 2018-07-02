@@ -1,0 +1,228 @@
+{
+    "scene_id": "twelfth night~~Act_2~~Scene_2",
+    "work_number": "6",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "MALVOLIO",
+            "Were not you even now with the Countess Olivia?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "VIOLA",
+            "Even now, sir; on a moderate pace I have since"
+        ],
+        [
+            "VIOLA",
+            "arrived but hither."
+        ],
+        [
+            "MALVOLIO",
+            "She returns this ring to you, sir: you might have"
+        ],
+        [
+            "MALVOLIO",
+            "saved me my pains, to have taken it away yourself."
+        ],
+        [
+            "MALVOLIO",
+            "She adds, moreover, that you should put your lord"
+        ],
+        [
+            "MALVOLIO",
+            "into a desperate assurance she will none of him:"
+        ],
+        [
+            "MALVOLIO",
+            "and one thing more, that you be never so hardy to"
+        ],
+        [
+            "MALVOLIO",
+            "come again in his affairs, unless it be to report"
+        ],
+        [
+            "MALVOLIO",
+            "your lord's taking of this. Receive it so."
+        ],
+        [
+            "VIOLA",
+            "She took the ring of me: I'll none of it."
+        ],
+        [
+            "MALVOLIO",
+            "Come, sir, you peevishly threw it to her; and her"
+        ],
+        [
+            "MALVOLIO",
+            "will is, it should be so returned: if it be worth"
+        ],
+        [
+            "MALVOLIO",
+            "stooping for, there it lies in your eye; if not, be"
+        ],
+        [
+            "MALVOLIO",
+            "it his that finds it.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "VIOLA",
+            "I left no ring with her: what means this lady?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "VIOLA",
+            "Fortune forbid my outside have not charm'd her!"
+        ],
+        [
+            "VIOLA",
+            "She made good view of me; indeed, so much,"
+        ],
+        [
+            "VIOLA",
+            "That sure methought her eyes had lost her tongue,"
+        ],
+        [
+            "VIOLA",
+            "For she did speak in starts distractedly."
+        ],
+        [
+            "VIOLA",
+            "She loves me, sure; the cunning of her passion"
+        ],
+        [
+            "VIOLA",
+            "Invites me in this churlish messenger."
+        ],
+        [
+            "VIOLA",
+            "None of my lord's ring! why, he sent her none."
+        ],
+        [
+            "VIOLA",
+            "I am the man: if it be so, as 'tis,"
+        ],
+        [
+            "VIOLA",
+            "Poor lady, she were better love a dream."
+        ],
+        [
+            "VIOLA",
+            "Disguise, I see, thou art a wickedness,"
+        ],
+        [
+            "VIOLA",
+            "Wherein the pregnant enemy does much."
+        ],
+        [
+            "VIOLA",
+            "How easy is it for the proper-false"
+        ],
+        [
+            "VIOLA",
+            "In women's waxen hearts to set their forms!"
+        ],
+        [
+            "VIOLA",
+            "Alas, our frailty is the cause, not we!"
+        ],
+        [
+            "VIOLA",
+            "For such as we are made of, such we be."
+        ],
+        [
+            "VIOLA",
+            "How will this fadge? my master loves her dearly;"
+        ],
+        [
+            "VIOLA",
+            "And I, poor monster, fond as much on him;"
+        ],
+        [
+            "VIOLA",
+            "And she, mistaken, seems to dote on me."
+        ],
+        [
+            "VIOLA",
+            "What will become of this? As I am man,"
+        ],
+        [
+            "VIOLA",
+            "My state is desperate for my master's love;"
+        ],
+        [
+            "VIOLA",
+            "As I am woman,--now alas the day!--"
+        ],
+        [
+            "VIOLA",
+            "What thriftless sighs shall poor Olivia breathe!"
+        ],
+        [
+            "VIOLA",
+            "O time! thou must untangle this, not I;"
+        ],
+        [
+            "VIOLA",
+            "It is too hard a knot for me to untie!",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter VIOLA, MALVOLIO following"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "MALVOLIO": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "4",
+                "10"
+            ],
+            [
+                "12",
+                "15"
+            ]
+        ],
+        "VIOLA": [
+            [
+                "2",
+                "3"
+            ],
+            [
+                "11",
+                "11"
+            ],
+            [
+                "16",
+                "40"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "A street."
+}

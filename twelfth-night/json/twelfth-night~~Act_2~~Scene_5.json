@@ -1,0 +1,1247 @@
+{
+    "scene_id": "twelfth night~~Act_2~~Scene_5",
+    "work_number": "6",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "SIR TOBY BELCH",
+            "Come thy ways, Signior Fabian.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "FABIAN",
+            "Nay, I'll come: if I lose a scruple of this sport,"
+        ],
+        [
+            "FABIAN",
+            "let me be boiled to death with melancholy."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Wouldst thou not be glad to have the niggardly"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "rascally sheep-biter come by some notable shame?"
+        ],
+        [
+            "FABIAN",
+            "I would exult, man: you know, he brought me out o'"
+        ],
+        [
+            "FABIAN",
+            "favour with my lady about a bear-baiting here."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "To anger him we'll have the bear again; and we will"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "fool him black and blue: shall we not, Sir Andrew?"
+        ],
+        [
+            "SIR ANDREW",
+            "An we do not, it is pity of our lives."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Here comes the little villain.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "How now, my metal of India!",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "MARIA",
+            "Get ye all three into the box-tree: Malvolio's"
+        ],
+        [
+            "MARIA",
+            "coming down this walk: he has been yonder i' the"
+        ],
+        [
+            "MARIA",
+            "sun practising behavior to his own shadow this half"
+        ],
+        [
+            "MARIA",
+            "hour: observe him, for the love of mockery; for I"
+        ],
+        [
+            "MARIA",
+            "know this letter will make a contemplative idiot of"
+        ],
+        [
+            "MARIA",
+            "him. Close, in the name of jesting! Lie thou there,",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "MARIA",
+            "for here comes the trout that must be caught with tickling.",
+            {
+                "preceding_direction_line": "3"
+            },
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "MALVOLIO",
+            "'Tis but fortune; all is fortune. Maria once told",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "MALVOLIO",
+            "me she did affect me: and I have heard herself come"
+        ],
+        [
+            "MALVOLIO",
+            "thus near, that, should she fancy, it should be one"
+        ],
+        [
+            "MALVOLIO",
+            "of my complexion. Besides, she uses me with a more"
+        ],
+        [
+            "MALVOLIO",
+            "exalted respect than any one else that follows her."
+        ],
+        [
+            "MALVOLIO",
+            "What should I think on't?"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Here's an overweening rogue!"
+        ],
+        [
+            "FABIAN",
+            "O, peace! Contemplation makes a rare turkey-cock"
+        ],
+        [
+            "FABIAN",
+            "of him: how he jets under his advanced plumes!"
+        ],
+        [
+            "SIR ANDREW",
+            "'Slight, I could so beat the rogue!"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Peace, I say."
+        ],
+        [
+            "MALVOLIO",
+            "To be Count Malvolio!"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Ah, rogue!"
+        ],
+        [
+            "SIR ANDREW",
+            "Pistol him, pistol him."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Peace, peace!"
+        ],
+        [
+            "MALVOLIO",
+            "There is example for't; the lady of the Strachy"
+        ],
+        [
+            "MALVOLIO",
+            "married the yeoman of the wardrobe."
+        ],
+        [
+            "SIR ANDREW",
+            "Fie on him, Jezebel!"
+        ],
+        [
+            "FABIAN",
+            "O, peace! now he's deeply in: look how"
+        ],
+        [
+            "FABIAN",
+            "imagination blows him."
+        ],
+        [
+            "MALVOLIO",
+            "Having been three months married to her, sitting in"
+        ],
+        [
+            "MALVOLIO",
+            "my state,--"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "O, for a stone-bow, to hit him in the eye!"
+        ],
+        [
+            "MALVOLIO",
+            "Calling my officers about me, in my branched velvet"
+        ],
+        [
+            "MALVOLIO",
+            "gown; having come from a day-bed, where I have left"
+        ],
+        [
+            "MALVOLIO",
+            "Olivia sleeping,--"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Fire and brimstone!"
+        ],
+        [
+            "FABIAN",
+            "O, peace, peace!"
+        ],
+        [
+            "MALVOLIO",
+            "And then to have the humour of state; and after a"
+        ],
+        [
+            "MALVOLIO",
+            "demure travel of regard, telling them I know my"
+        ],
+        [
+            "MALVOLIO",
+            "place as I would they should do theirs, to for my"
+        ],
+        [
+            "MALVOLIO",
+            "kinsman Toby,--"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Bolts and shackles!"
+        ],
+        [
+            "FABIAN",
+            "O peace, peace, peace! now, now."
+        ],
+        [
+            "MALVOLIO",
+            "Seven of my people, with an obedient start, make"
+        ],
+        [
+            "MALVOLIO",
+            "out for him: I frown the while; and perchance wind"
+        ],
+        [
+            "MALVOLIO",
+            "up watch, or play with my--some rich jewel. Toby"
+        ],
+        [
+            "MALVOLIO",
+            "approaches; courtesies there to me,--"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Shall this fellow live?"
+        ],
+        [
+            "FABIAN",
+            "Though our silence be drawn from us with cars, yet peace."
+        ],
+        [
+            "MALVOLIO",
+            "I extend my hand to him thus, quenching my familiar"
+        ],
+        [
+            "MALVOLIO",
+            "smile with an austere regard of control,--"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "And does not Toby take you a blow o' the lips then?"
+        ],
+        [
+            "MALVOLIO",
+            "Saying, 'Cousin Toby, my fortunes having cast me on"
+        ],
+        [
+            "MALVOLIO",
+            "your niece give me this prerogative of speech,'--"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "What, what?"
+        ],
+        [
+            "MALVOLIO",
+            "'You must amend your drunkenness.'"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Out, scab!"
+        ],
+        [
+            "FABIAN",
+            "Nay, patience, or we break the sinews of our plot."
+        ],
+        [
+            "MALVOLIO",
+            "'Besides, you waste the treasure of your time with"
+        ],
+        [
+            "MALVOLIO",
+            "a foolish knight,'--"
+        ],
+        [
+            "SIR ANDREW",
+            "That's me, I warrant you."
+        ],
+        [
+            "MALVOLIO",
+            "'One Sir Andrew,'--"
+        ],
+        [
+            "SIR ANDREW",
+            "I knew 'twas I; for many do call me fool."
+        ],
+        [
+            "MALVOLIO",
+            "What employment have we here?",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "FABIAN",
+            "Now is the woodcock near the gin.",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "O, peace! and the spirit of humour intimate reading"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "aloud to him!"
+        ],
+        [
+            "MALVOLIO",
+            "By my life, this is my lady's hand these be her"
+        ],
+        [
+            "MALVOLIO",
+            "very C's, her U's and her T's and thus makes she her"
+        ],
+        [
+            "MALVOLIO",
+            "great P's. It is, in contempt of question, her hand."
+        ],
+        [
+            "SIR ANDREW",
+            "Her C's, her U's and her T's: why that?"
+        ],
+        [
+            "MALVOLIO",
+            "[Reads] 'To the unknown beloved, this, and my good"
+        ],
+        [
+            "MALVOLIO",
+            "wishes:'--her very phrases! By your leave, wax."
+        ],
+        [
+            "MALVOLIO",
+            "Soft! and the impressure her Lucrece, with which she"
+        ],
+        [
+            "MALVOLIO",
+            "uses to seal: 'tis my lady. To whom should this be?"
+        ],
+        [
+            "FABIAN",
+            "This wins him, liver and all."
+        ],
+        [
+            "MALVOLIO",
+            "[Reads]"
+        ],
+        [
+            "MALVOLIO",
+            "Jove knows I love: But who?"
+        ],
+        [
+            "MALVOLIO",
+            "Lips, do not move;"
+        ],
+        [
+            "MALVOLIO",
+            "No man must know."
+        ],
+        [
+            "MALVOLIO",
+            "'No man must know.' What follows? the numbers"
+        ],
+        [
+            "MALVOLIO",
+            "altered! 'No man must know:' if this should be"
+        ],
+        [
+            "MALVOLIO",
+            "thee, Malvolio?"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Marry, hang thee, brock!"
+        ],
+        [
+            "MALVOLIO",
+            "[Reads]"
+        ],
+        [
+            "MALVOLIO",
+            "I may command where I adore;"
+        ],
+        [
+            "MALVOLIO",
+            "But silence, like a Lucrece knife,"
+        ],
+        [
+            "MALVOLIO",
+            "With bloodless stroke my heart doth gore:"
+        ],
+        [
+            "MALVOLIO",
+            "M, O, A, I, doth sway my life."
+        ],
+        [
+            "FABIAN",
+            "A fustian riddle!"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Excellent wench, say I."
+        ],
+        [
+            "MALVOLIO",
+            "'M, O, A, I, doth sway my life.' Nay, but first, let"
+        ],
+        [
+            "MALVOLIO",
+            "me see, let me see, let me see."
+        ],
+        [
+            "FABIAN",
+            "What dish o' poison has she dressed him!"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "And with what wing the staniel cheques at it!"
+        ],
+        [
+            "MALVOLIO",
+            "'I may command where I adore.' Why, she may command"
+        ],
+        [
+            "MALVOLIO",
+            "me: I serve her; she is my lady. Why, this is"
+        ],
+        [
+            "MALVOLIO",
+            "evident to any formal capacity; there is no"
+        ],
+        [
+            "MALVOLIO",
+            "obstruction in this: and the end,--what should"
+        ],
+        [
+            "MALVOLIO",
+            "that alphabetical position portend? If I could make"
+        ],
+        [
+            "MALVOLIO",
+            "that resemble something in me,--Softly! M, O, A,"
+        ],
+        [
+            "MALVOLIO",
+            "I,--"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "O, ay, make up that: he is now at a cold scent."
+        ],
+        [
+            "FABIAN",
+            "Sowter will cry upon't for all this, though it be as"
+        ],
+        [
+            "FABIAN",
+            "rank as a fox."
+        ],
+        [
+            "MALVOLIO",
+            "M,--Malvolio; M,--why, that begins my name."
+        ],
+        [
+            "FABIAN",
+            "Did not I say he would work it out? the cur is"
+        ],
+        [
+            "FABIAN",
+            "excellent at faults."
+        ],
+        [
+            "MALVOLIO",
+            "M,--but then there is no consonancy in the sequel;"
+        ],
+        [
+            "MALVOLIO",
+            "that suffers under probation A should follow but O does."
+        ],
+        [
+            "FABIAN",
+            "And O shall end, I hope."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Ay, or I'll cudgel him, and make him cry O!"
+        ],
+        [
+            "MALVOLIO",
+            "And then I comes behind."
+        ],
+        [
+            "FABIAN",
+            "Ay, an you had any eye behind you, you might see"
+        ],
+        [
+            "FABIAN",
+            "more detraction at your heels than fortunes before"
+        ],
+        [
+            "FABIAN",
+            "you."
+        ],
+        [
+            "MALVOLIO",
+            "M, O, A, I; this simulation is not as the former: and"
+        ],
+        [
+            "MALVOLIO",
+            "yet, to crush this a little, it would bow to me, for"
+        ],
+        [
+            "MALVOLIO",
+            "every one of these letters are in my name. Soft!"
+        ],
+        [
+            "MALVOLIO",
+            "here follows prose.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "MALVOLIO",
+            "'If this fall into thy hand, revolve. In my stars I",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "MALVOLIO",
+            "am above thee; but be not afraid of greatness: some"
+        ],
+        [
+            "MALVOLIO",
+            "are born great, some achieve greatness, and some"
+        ],
+        [
+            "MALVOLIO",
+            "have greatness thrust upon 'em. Thy Fates open"
+        ],
+        [
+            "MALVOLIO",
+            "their hands; let thy blood and spirit embrace them;"
+        ],
+        [
+            "MALVOLIO",
+            "and, to inure thyself to what thou art like to be,"
+        ],
+        [
+            "MALVOLIO",
+            "cast thy humble slough and appear fresh. Be"
+        ],
+        [
+            "MALVOLIO",
+            "opposite with a kinsman, surly with servants; let"
+        ],
+        [
+            "MALVOLIO",
+            "thy tongue tang arguments of state; put thyself into"
+        ],
+        [
+            "MALVOLIO",
+            "the trick of singularity: she thus advises thee"
+        ],
+        [
+            "MALVOLIO",
+            "that sighs for thee. Remember who commended thy"
+        ],
+        [
+            "MALVOLIO",
+            "yellow stockings, and wished to see thee ever"
+        ],
+        [
+            "MALVOLIO",
+            "cross-gartered: I say, remember. Go to, thou art"
+        ],
+        [
+            "MALVOLIO",
+            "made, if thou desirest to be so; if not, let me see"
+        ],
+        [
+            "MALVOLIO",
+            "thee a steward still, the fellow of servants, and"
+        ],
+        [
+            "MALVOLIO",
+            "not worthy to touch Fortune's fingers. Farewell."
+        ],
+        [
+            "MALVOLIO",
+            "She that would alter services with thee,"
+        ],
+        [
+            "MALVOLIO",
+            "THE FORTUNATE-UNHAPPY.'"
+        ],
+        [
+            "MALVOLIO",
+            "Daylight and champaign discovers not more: this is"
+        ],
+        [
+            "MALVOLIO",
+            "open. I will be proud, I will read politic authors,"
+        ],
+        [
+            "MALVOLIO",
+            "I will baffle Sir Toby, I will wash off gross"
+        ],
+        [
+            "MALVOLIO",
+            "acquaintance, I will be point-devise the very man."
+        ],
+        [
+            "MALVOLIO",
+            "I do not now fool myself, to let imagination jade"
+        ],
+        [
+            "MALVOLIO",
+            "me; for every reason excites to this, that my lady"
+        ],
+        [
+            "MALVOLIO",
+            "loves me. She did commend my yellow stockings of"
+        ],
+        [
+            "MALVOLIO",
+            "late, she did praise my leg being cross-gartered;"
+        ],
+        [
+            "MALVOLIO",
+            "and in this she manifests herself to my love, and"
+        ],
+        [
+            "MALVOLIO",
+            "with a kind of injunction drives me to these habits"
+        ],
+        [
+            "MALVOLIO",
+            "of her liking. I thank my stars I am happy. I will"
+        ],
+        [
+            "MALVOLIO",
+            "be strange, stout, in yellow stockings, and"
+        ],
+        [
+            "MALVOLIO",
+            "cross-gartered, even with the swiftness of putting"
+        ],
+        [
+            "MALVOLIO",
+            "on. Jove and my stars be praised! Here is yet a"
+        ],
+        [
+            "MALVOLIO",
+            "postscript.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "MALVOLIO",
+            "'Thou canst not choose but know who I am. If thou",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "MALVOLIO",
+            "entertainest my love, let it appear in thy smiling;"
+        ],
+        [
+            "MALVOLIO",
+            "thy smiles become thee well; therefore in my"
+        ],
+        [
+            "MALVOLIO",
+            "presence still smile, dear my sweet, I prithee.'"
+        ],
+        [
+            "MALVOLIO",
+            "Jove, I thank thee: I will smile; I will do"
+        ],
+        [
+            "MALVOLIO",
+            "everything that thou wilt have me.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "FABIAN",
+            "I will not give my part of this sport for a pension",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "FABIAN",
+            "of thousands to be paid from the Sophy."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "I could marry this wench for this device."
+        ],
+        [
+            "SIR ANDREW",
+            "So could I too."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "And ask no other dowry with her but such another jest."
+        ],
+        [
+            "SIR ANDREW",
+            "Nor I neither."
+        ],
+        [
+            "FABIAN",
+            "Here comes my noble gull-catcher.",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Wilt thou set thy foot o' my neck?",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "SIR ANDREW",
+            "Or o' mine either?"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Shall I play my freedom at traytrip, and become thy"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "bond-slave?"
+        ],
+        [
+            "SIR ANDREW",
+            "I' faith, or I either?"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Why, thou hast put him in such a dream, that when"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "the image of it leaves him he must run mad."
+        ],
+        [
+            "MARIA",
+            "Nay, but say true; does it work upon him?"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Like aqua-vitae with a midwife."
+        ],
+        [
+            "MARIA",
+            "If you will then see the fruits of the sport, mark"
+        ],
+        [
+            "MARIA",
+            "his first approach before my lady: he will come to"
+        ],
+        [
+            "MARIA",
+            "her in yellow stockings, and 'tis a colour she"
+        ],
+        [
+            "MARIA",
+            "abhors, and cross-gartered, a fashion she detests;"
+        ],
+        [
+            "MARIA",
+            "and he will smile upon her, which will now be so"
+        ],
+        [
+            "MARIA",
+            "unsuitable to her disposition, being addicted to a"
+        ],
+        [
+            "MARIA",
+            "melancholy as she is, that it cannot but turn him"
+        ],
+        [
+            "MARIA",
+            "into a notable contempt. If you will see it, follow"
+        ],
+        [
+            "MARIA",
+            "me."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "To the gates of Tartar, thou most excellent devil of wit!"
+        ],
+        [
+            "SIR ANDREW",
+            "I'll make one too.",
+            {
+                "following_direction_line": "10"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter SIR TOBY BELCH, SIR ANDREW, and FABIAN"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter MARIA"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Throws down a letter"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit. Enter MALVOLIO"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Taking up the letter"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Reads"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Reads"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Re-enter MARIA"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "SIR TOBY BELCH": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "4",
+                "5"
+            ],
+            [
+                "8",
+                "9"
+            ],
+            [
+                "11",
+                "12"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "30",
+                "30"
+            ],
+            [
+                "32",
+                "32"
+            ],
+            [
+                "34",
+                "34"
+            ],
+            [
+                "42",
+                "42"
+            ],
+            [
+                "46",
+                "46"
+            ],
+            [
+                "52",
+                "52"
+            ],
+            [
+                "58",
+                "58"
+            ],
+            [
+                "62",
+                "62"
+            ],
+            [
+                "65",
+                "65"
+            ],
+            [
+                "67",
+                "67"
+            ],
+            [
+                "76",
+                "77"
+            ],
+            [
+                "94",
+                "94"
+            ],
+            [
+                "101",
+                "101"
+            ],
+            [
+                "105",
+                "105"
+            ],
+            [
+                "113",
+                "113"
+            ],
+            [
+                "122",
+                "122"
+            ],
+            [
+                "172",
+                "172"
+            ],
+            [
+                "174",
+                "174"
+            ],
+            [
+                "177",
+                "177"
+            ],
+            [
+                "179",
+                "180"
+            ],
+            [
+                "182",
+                "183"
+            ],
+            [
+                "185",
+                "185"
+            ],
+            [
+                "195",
+                "195"
+            ]
+        ],
+        "FABIAN": [
+            [
+                "2",
+                "3"
+            ],
+            [
+                "6",
+                "7"
+            ],
+            [
+                "27",
+                "28"
+            ],
+            [
+                "38",
+                "39"
+            ],
+            [
+                "47",
+                "47"
+            ],
+            [
+                "53",
+                "53"
+            ],
+            [
+                "59",
+                "59"
+            ],
+            [
+                "68",
+                "68"
+            ],
+            [
+                "75",
+                "75"
+            ],
+            [
+                "86",
+                "86"
+            ],
+            [
+                "100",
+                "100"
+            ],
+            [
+                "104",
+                "104"
+            ],
+            [
+                "114",
+                "115"
+            ],
+            [
+                "117",
+                "118"
+            ],
+            [
+                "121",
+                "121"
+            ],
+            [
+                "124",
+                "126"
+            ],
+            [
+                "170",
+                "171"
+            ],
+            [
+                "176",
+                "176"
+            ]
+        ],
+        "SIR ANDREW": [
+            [
+                "10",
+                "10"
+            ],
+            [
+                "29",
+                "29"
+            ],
+            [
+                "33",
+                "33"
+            ],
+            [
+                "37",
+                "37"
+            ],
+            [
+                "71",
+                "71"
+            ],
+            [
+                "73",
+                "73"
+            ],
+            [
+                "81",
+                "81"
+            ],
+            [
+                "173",
+                "173"
+            ],
+            [
+                "175",
+                "175"
+            ],
+            [
+                "178",
+                "178"
+            ],
+            [
+                "181",
+                "181"
+            ],
+            [
+                "196",
+                "196"
+            ]
+        ],
+        "MARIA": [
+            [
+                "13",
+                "19"
+            ],
+            [
+                "184",
+                "184"
+            ],
+            [
+                "186",
+                "194"
+            ]
+        ],
+        "MALVOLIO": [
+            [
+                "20",
+                "25"
+            ],
+            [
+                "31",
+                "31"
+            ],
+            [
+                "35",
+                "36"
+            ],
+            [
+                "40",
+                "41"
+            ],
+            [
+                "43",
+                "45"
+            ],
+            [
+                "48",
+                "51"
+            ],
+            [
+                "54",
+                "57"
+            ],
+            [
+                "60",
+                "61"
+            ],
+            [
+                "63",
+                "64"
+            ],
+            [
+                "66",
+                "66"
+            ],
+            [
+                "69",
+                "70"
+            ],
+            [
+                "72",
+                "72"
+            ],
+            [
+                "74",
+                "74"
+            ],
+            [
+                "78",
+                "80"
+            ],
+            [
+                "82",
+                "85"
+            ],
+            [
+                "87",
+                "93"
+            ],
+            [
+                "95",
+                "99"
+            ],
+            [
+                "102",
+                "103"
+            ],
+            [
+                "106",
+                "112"
+            ],
+            [
+                "116",
+                "116"
+            ],
+            [
+                "119",
+                "120"
+            ],
+            [
+                "123",
+                "123"
+            ],
+            [
+                "127",
+                "169"
+            ]
+        ]
+    },
+    "scene_name": "SCENE V",
+    "scene_description": "OLIVIA's garden."
+}

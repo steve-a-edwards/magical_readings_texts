@@ -1,0 +1,252 @@
+{
+    "scene_id": "twelfth night~~Act_2~~Scene_1",
+    "work_number": "6",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "ANTONIO",
+            "Will you stay no longer? nor will you not that I go with you?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "SEBASTIAN",
+            "By your patience, no. My stars shine darkly over"
+        ],
+        [
+            "SEBASTIAN",
+            "me: the malignancy of my fate might perhaps"
+        ],
+        [
+            "SEBASTIAN",
+            "distemper yours; therefore I shall crave of you your"
+        ],
+        [
+            "SEBASTIAN",
+            "leave that I may bear my evils alone: it were a bad"
+        ],
+        [
+            "SEBASTIAN",
+            "recompense for your love, to lay any of them on you."
+        ],
+        [
+            "SEBASTIAN",
+            "ANTONIO: Let me yet know of you whither you are bound."
+        ],
+        [
+            "SEBASTIAN",
+            "No, sooth, sir: my determinate voyage is mere"
+        ],
+        [
+            "SEBASTIAN",
+            "extravagancy. But I perceive in you so excellent a"
+        ],
+        [
+            "SEBASTIAN",
+            "touch of modesty, that you will not extort from me"
+        ],
+        [
+            "SEBASTIAN",
+            "what I am willing to keep in; therefore it charges"
+        ],
+        [
+            "SEBASTIAN",
+            "me in manners the rather to express myself. You"
+        ],
+        [
+            "SEBASTIAN",
+            "must know of me then, Antonio, my name is Sebastian,"
+        ],
+        [
+            "SEBASTIAN",
+            "which I called Roderigo. My father was that"
+        ],
+        [
+            "SEBASTIAN",
+            "Sebastian of Messaline, whom I know you have heard"
+        ],
+        [
+            "SEBASTIAN",
+            "of. He left behind him myself and a sister, both"
+        ],
+        [
+            "SEBASTIAN",
+            "born in an hour: if the heavens had been pleased,"
+        ],
+        [
+            "SEBASTIAN",
+            "would we had so ended! but you, sir, altered that;"
+        ],
+        [
+            "SEBASTIAN",
+            "for some hour before you took me from the breach of"
+        ],
+        [
+            "SEBASTIAN",
+            "the sea was my sister drowned."
+        ],
+        [
+            "ANTONIO",
+            "Alas the day!"
+        ],
+        [
+            "SEBASTIAN",
+            "A lady, sir, though it was said she much resembled"
+        ],
+        [
+            "SEBASTIAN",
+            "me, was yet of many accounted beautiful: but,"
+        ],
+        [
+            "SEBASTIAN",
+            "though I could not with such estimable wonder"
+        ],
+        [
+            "SEBASTIAN",
+            "overfar believe that, yet thus far I will boldly"
+        ],
+        [
+            "SEBASTIAN",
+            "publish her; she bore a mind that envy could not but"
+        ],
+        [
+            "SEBASTIAN",
+            "call fair. She is drowned already, sir, with salt"
+        ],
+        [
+            "SEBASTIAN",
+            "water, though I seem to drown her remembrance again with more."
+        ],
+        [
+            "ANTONIO",
+            "Pardon me, sir, your bad entertainment."
+        ],
+        [
+            "SEBASTIAN",
+            "O good Antonio, forgive me your trouble."
+        ],
+        [
+            "ANTONIO",
+            "If you will not murder me for my love, let me be"
+        ],
+        [
+            "ANTONIO",
+            "your servant."
+        ],
+        [
+            "SEBASTIAN",
+            "If you will not undo what you have done, that is,"
+        ],
+        [
+            "SEBASTIAN",
+            "kill him whom you have recovered, desire it not."
+        ],
+        [
+            "SEBASTIAN",
+            "Fare ye well at once: my bosom is full of kindness,"
+        ],
+        [
+            "SEBASTIAN",
+            "and I am yet so near the manners of my mother, that"
+        ],
+        [
+            "SEBASTIAN",
+            "upon the least occasion more mine eyes will tell"
+        ],
+        [
+            "SEBASTIAN",
+            "tales of me. I am bound to the Count Orsino's court: farewell.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "ANTONIO",
+            "The gentleness of all the gods go with thee!",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "ANTONIO",
+            "I have many enemies in Orsino's court,"
+        ],
+        [
+            "ANTONIO",
+            "Else would I very shortly see thee there."
+        ],
+        [
+            "ANTONIO",
+            "But, come what may, I do adore thee so,"
+        ],
+        [
+            "ANTONIO",
+            "That danger shall seem sport, and I will go.",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter ANTONIO and SEBASTIAN"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "ANTONIO": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "29",
+                "29"
+            ],
+            [
+                "31",
+                "32"
+            ],
+            [
+                "39",
+                "43"
+            ]
+        ],
+        "SEBASTIAN": [
+            [
+                "2",
+                "20"
+            ],
+            [
+                "22",
+                "28"
+            ],
+            [
+                "30",
+                "30"
+            ],
+            [
+                "33",
+                "38"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "The sea-coast."
+}

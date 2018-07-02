@@ -1,0 +1,435 @@
+_S_SCENE V. OLIVIA'S house.
+_D_Enter MARIA and Clown
+_R_MARIA
+Nay, either tell me where thou hast been, or I will
+not open my lips so wide as a bristle may enter in
+way of thy excuse: my lady will hang thee for thy absence.
+_R_Clown
+Let her hang me: he that is well hanged in this
+world needs to fear no colours.
+_R_MARIA
+Make that good.
+_R_Clown
+He shall see none to fear.
+_R_MARIA
+A good lenten answer: I can tell thee where that
+saying was born, of 'I fear no colours.'
+_R_Clown
+Where, good Mistress Mary?
+_R_MARIA
+In the wars; and that may you be bold to say in your foolery.
+_R_Clown
+Well, God give them wisdom that have it; and those
+that are fools, let them use their talents.
+_R_MARIA
+Yet you will be hanged for being so long absent; or,
+to be turned away, is not that as good as a hanging to you?
+_R_Clown
+Many a good hanging prevents a bad marriage; and,
+for turning away, let summer bear it out.
+_R_MARIA
+You are resolute, then?
+_R_Clown
+Not so, neither; but I am resolved on two points.
+_R_MARIA
+That if one break, the other will hold; or, if both
+break, your gaskins fall.
+_R_Clown
+Apt, in good faith; very apt. Well, go thy way; if
+Sir Toby would leave drinking, thou wert as witty a
+piece of Eve's flesh as any in Illyria.
+_R_MARIA
+Peace, you rogue, no more o' that. Here comes my
+lady: make your excuse wisely, you were best.
+_D_Exit
+_R_Clown
+Wit, an't be thy will, put me into good fooling!
+Those wits, that think they have thee, do very oft
+prove fools; and I, that am sure I lack thee, may
+pass for a wise man: for what says Quinapalus?
+'Better a witty fool, than a foolish wit.'
+_D_Enter OLIVIA with MALVOLIO
+God bless thee, lady!
+_R_OLIVIA
+Take the fool away.
+_R_Clown
+Do you not hear, fellows? Take away the lady.
+_R_OLIVIA
+Go to, you're a dry fool; I'll no more of you:
+besides, you grow dishonest.
+_R_Clown
+Two faults, madonna, that drink and good counsel
+will amend: for give the dry fool drink, then is
+the fool not dry: bid the dishonest man mend
+himself; if he mend, he is no longer dishonest; if
+he cannot, let the botcher mend him. Any thing
+that's mended is but patched: virtue that
+transgresses is but patched with sin; and sin that
+amends is but patched with virtue. If that this
+simple syllogism will serve, so; if it will not,
+what remedy? As there is no true cuckold but
+calamity, so beauty's a flower. The lady bade take
+away the fool; therefore, I say again, take her away.
+_R_OLIVIA
+Sir, I bade them take away you.
+_R_Clown
+Misprision in the highest degree! Lady, cucullus non
+facit monachum; that's as much to say as I wear not
+motley in my brain. Good madonna, give me leave to
+prove you a fool.
+_R_OLIVIA
+Can you do it?
+_R_Clown
+Dexterously, good madonna.
+_R_OLIVIA
+Make your proof.
+_R_Clown
+I must catechise you for it, madonna: good my mouse
+of virtue, answer me.
+_R_OLIVIA
+Well, sir, for want of other idleness, I'll bide your proof.
+_R_Clown
+Good madonna, why mournest thou?
+_R_OLIVIA
+Good fool, for my brother's death.
+_R_Clown
+I think his soul is in hell, madonna.
+_R_OLIVIA
+I know his soul is in heaven, fool.
+_R_Clown
+The more fool, madonna, to mourn for your brother's
+soul being in heaven. Take away the fool, gentlemen.
+_R_OLIVIA
+What think you of this fool, Malvolio? doth he not mend?
+_R_MALVOLIO
+Yes, and shall do till the pangs of death shake him:
+infirmity, that decays the wise, doth ever make the
+better fool.
+_R_Clown
+God send you, sir, a speedy infirmity, for the
+better increasing your folly! Sir Toby will be
+sworn that I am no fox; but he will not pass his
+word for two pence that you are no fool.
+_R_OLIVIA
+How say you to that, Malvolio?
+_R_MALVOLIO
+I marvel your ladyship takes delight in such a
+barren rascal: I saw him put down the other day
+with an ordinary fool that has no more brain
+than a stone. Look you now, he's out of his guard
+already; unless you laugh and minister occasion to
+him, he is gagged. I protest, I take these wise men,
+that crow so at these set kind of fools, no better
+than the fools' zanies.
+_R_OLIVIA
+Oh, you are sick of self-love, Malvolio, and taste
+with a distempered appetite. To be generous,
+guiltless and of free disposition, is to take those
+things for bird-bolts that you deem cannon-bullets:
+there is no slander in an allowed fool, though he do
+nothing but rail; nor no railing in a known discreet
+man, though he do nothing but reprove.
+_R_Clown
+Now Mercury endue thee with leasing, for thou
+speakest well of fools!
+_D_Re-enter MARIA
+_R_MARIA
+Madam, there is at the gate a young gentleman much
+desires to speak with you.
+_R_OLIVIA
+From the Count Orsino, is it?
+_R_MARIA
+I know not, madam: 'tis a fair young man, and well attended.
+_R_OLIVIA
+Who of my people hold him in delay?
+_R_MARIA
+Sir Toby, madam, your kinsman.
+_R_OLIVIA
+Fetch him off, I pray you; he speaks nothing but
+madman: fie on him!
+_D_Exit MARIA
+Go you, Malvolio: if it be a suit from the count, I
+am sick, or not at home; what you will, to dismiss it.
+_D_Exit MALVOLIO
+Now you see, sir, how your fooling grows old, and
+people dislike it.
+_R_Clown
+Thou hast spoke for us, madonna, as if thy eldest
+son should be a fool; whose skull Jove cram with
+brains! for,--here he comes,--one of thy kin has a
+most weak pia mater.
+_D_Enter SIR TOBY BELCH
+_R_OLIVIA
+By mine honour, half drunk. What is he at the gate, cousin?
+_R_SIR TOBY BELCH
+A gentleman.
+_R_OLIVIA
+A gentleman! what gentleman?
+_R_SIR TOBY BELCH
+'Tis a gentle man here--a plague o' these
+pickle-herring! How now, sot!
+_R_Clown
+Good Sir Toby!
+_R_OLIVIA
+Cousin, cousin, how have you come so early by this lethargy?
+_R_SIR TOBY BELCH
+Lechery! I defy lechery. There's one at the gate.
+_R_OLIVIA
+Ay, marry, what is he?
+_R_SIR TOBY BELCH
+Let him be the devil, an he will, I care not: give
+me faith, say I. Well, it's all one.
+_D_Exit
+_R_OLIVIA
+What's a drunken man like, fool?
+_R_Clown
+Like a drowned man, a fool and a mad man: one
+draught above heat makes him a fool; the second mads
+him; and a third drowns him.
+_R_OLIVIA
+Go thou and seek the crowner, and let him sit o' my
+coz; for he's in the third degree of drink, he's
+drowned: go, look after him.
+_R_Clown
+He is but mad yet, madonna; and the fool shall look
+to the madman.
+_D_Exit
+_D_Re-enter MALVOLIO
+_R_MALVOLIO
+Madam, yond young fellow swears he will speak with
+you. I told him you were sick; he takes on him to
+understand so much, and therefore comes to speak
+with you. I told him you were asleep; he seems to
+have a foreknowledge of that too, and therefore
+comes to speak with you. What is to be said to him,
+lady? he's fortified against any denial.
+_R_OLIVIA
+Tell him he shall not speak with me.
+_R_MALVOLIO
+Has been told so; and he says, he'll stand at your
+door like a sheriff's post, and be the supporter to
+a bench, but he'll speak with you.
+_R_OLIVIA
+What kind o' man is he?
+_R_MALVOLIO
+Why, of mankind.
+_R_OLIVIA
+What manner of man?
+_R_MALVOLIO
+Of very ill manner; he'll speak with you, will you or no.
+_R_OLIVIA
+Of what personage and years is he?
+_R_MALVOLIO
+Not yet old enough for a man, nor young enough for
+a boy; as a squash is before 'tis a peascod, or a
+cooling when 'tis almost an apple: 'tis with him
+in standing water, between boy and man. He is very
+well-favoured and he speaks very shrewishly; one
+would think his mother's milk were scarce out of him.
+_R_OLIVIA
+Let him approach: call in my gentlewoman.
+_R_MALVOLIO
+Gentlewoman, my lady calls.
+_D_Exit
+_D_Re-enter MARIA
+_R_OLIVIA
+Give me my veil: come, throw it o'er my face.
+We'll once more hear Orsino's embassy.
+_D_Enter VIOLA, and Attendants
+_R_VIOLA
+The honourable lady of the house, which is she?
+_R_OLIVIA
+Speak to me; I shall answer for her.
+Your will?
+_R_VIOLA
+Most radiant, exquisite and unmatchable beauty,--I
+pray you, tell me if this be the lady of the house,
+for I never saw her: I would be loath to cast away
+my speech, for besides that it is excellently well
+penned, I have taken great pains to con it. Good
+beauties, let me sustain no scorn; I am very
+comptible, even to the least sinister usage.
+_R_OLIVIA
+Whence came you, sir?
+_R_VIOLA
+I can say little more than I have studied, and that
+question's out of my part. Good gentle one, give me
+modest assurance if you be the lady of the house,
+that I may proceed in my speech.
+_R_OLIVIA
+Are you a comedian?
+_R_VIOLA
+No, my profound heart: and yet, by the very fangs
+of malice I swear, I am not that I play. Are you
+the lady of the house?
+_R_OLIVIA
+If I do not usurp myself, I am.
+_R_VIOLA
+Most certain, if you are she, you do usurp
+yourself; for what is yours to bestow is not yours
+to reserve. But this is from my commission: I will
+on with my speech in your praise, and then show you
+the heart of my message.
+_R_OLIVIA
+Come to what is important in't: I forgive you the praise.
+_R_VIOLA
+Alas, I took great pains to study it, and 'tis poetical.
+_R_OLIVIA
+It is the more like to be feigned: I pray you,
+keep it in. I heard you were saucy at my gates,
+and allowed your approach rather to wonder at you
+than to hear you. If you be not mad, be gone; if
+you have reason, be brief: 'tis not that time of
+moon with me to make one in so skipping a dialogue.
+_R_MARIA
+Will you hoist sail, sir? here lies your way.
+_R_VIOLA
+No, good swabber; I am to hull here a little
+longer. Some mollification for your giant, sweet
+lady. Tell me your mind: I am a messenger.
+_R_OLIVIA
+Sure, you have some hideous matter to deliver, when
+the courtesy of it is so fearful. Speak your office.
+_R_VIOLA
+It alone concerns your ear. I bring no overture of
+war, no taxation of homage: I hold the olive in my
+hand; my words are as fun of peace as matter.
+_R_OLIVIA
+Yet you began rudely. What are you? what would you?
+_R_VIOLA
+The rudeness that hath appeared in me have I
+learned from my entertainment. What I am, and what I
+would, are as secret as maidenhead; to your ears,
+divinity, to any other's, profanation.
+_R_OLIVIA
+Give us the place alone: we will hear this divinity.
+_D_Exeunt MARIA and Attendants
+Now, sir, what is your text?
+_R_VIOLA
+Most sweet lady,--
+_R_OLIVIA
+A comfortable doctrine, and much may be said of it.
+Where lies your text?
+_R_VIOLA
+In Orsino's bosom.
+_R_OLIVIA
+In his bosom! In what chapter of his bosom?
+_R_VIOLA
+To answer by the method, in the first of his heart.
+_R_OLIVIA
+O, I have read it: it is heresy. Have you no more to say?
+_R_VIOLA
+Good madam, let me see your face.
+_R_OLIVIA
+Have you any commission from your lord to negotiate
+with my face? You are now out of your text: but
+we will draw the curtain and show you the picture.
+Look you, sir, such a one I was this present: is't
+not well done?
+_D_Unveiling
+_R_VIOLA
+Excellently done, if God did all.
+_R_OLIVIA
+'Tis in grain, sir; 'twill endure wind and weather.
+_R_VIOLA
+'Tis beauty truly blent, whose red and white
+Nature's own sweet and cunning hand laid on:
+Lady, you are the cruell'st she alive,
+If you will lead these graces to the grave
+And leave the world no copy.
+_R_OLIVIA
+O, sir, I will not be so hard-hearted; I will give
+out divers schedules of my beauty: it shall be
+inventoried, and every particle and utensil
+labelled to my will: as, item, two lips,
+indifferent red; item, two grey eyes, with lids to
+them; item, one neck, one chin, and so forth. Were
+you sent hither to praise me?
+_R_VIOLA
+I see you what you are, you are too proud;
+But, if you were the devil, you are fair.
+My lord and master loves you: O, such love
+Could be but recompensed, though you were crown'd
+The nonpareil of beauty!
+_R_OLIVIA
+How does he love me?
+_R_VIOLA
+With adorations, fertile tears,
+With groans that thunder love, with sighs of fire.
+_R_OLIVIA
+Your lord does know my mind; I cannot love him:
+Yet I suppose him virtuous, know him noble,
+Of great estate, of fresh and stainless youth;
+In voices well divulged, free, learn'd and valiant;
+And in dimension and the shape of nature
+A gracious person: but yet I cannot love him;
+He might have took his answer long ago.
+_R_VIOLA
+If I did love you in my master's flame,
+With such a suffering, such a deadly life,
+In your denial I would find no sense;
+I would not understand it.
+_R_OLIVIA
+Why, what would you?
+_R_VIOLA
+Make me a willow cabin at your gate,
+And call upon my soul within the house;
+Write loyal cantons of contemned love
+And sing them loud even in the dead of night;
+Halloo your name to the reverberate hills
+And make the babbling gossip of the air
+Cry out 'Olivia!' O, You should not rest
+Between the elements of air and earth,
+But you should pity me!
+_R_OLIVIA
+You might do much.
+What is your parentage?
+_R_VIOLA
+Above my fortunes, yet my state is well:
+I am a gentleman.
+_R_OLIVIA
+Get you to your lord;
+I cannot love him: let him send no more;
+Unless, perchance, you come to me again,
+To tell me how he takes it. Fare you well:
+I thank you for your pains: spend this for me.
+_R_VIOLA
+I am no fee'd post, lady; keep your purse:
+My master, not myself, lacks recompense.
+Love make his heart of flint that you shall love;
+And let your fervor, like my master's, be
+Placed in contempt! Farewell, fair cruelty.
+_D_Exit
+_R_OLIVIA
+'What is your parentage?'
+'Above my fortunes, yet my state is well:
+I am a gentleman.' I'll be sworn thou art;
+Thy tongue, thy face, thy limbs, actions and spirit,
+Do give thee five-fold blazon: not too fast:
+soft, soft!
+Unless the master were the man. How now!
+Even so quickly may one catch the plague?
+Methinks I feel this youth's perfections
+With an invisible and subtle stealth
+To creep in at mine eyes. Well, let it be.
+What ho, Malvolio!
+_D_Re-enter MALVOLIO
+_R_MALVOLIO
+Here, madam, at your service.
+_R_OLIVIA
+Run after that same peevish messenger,
+The county's man: he left this ring behind him,
+Would I or not: tell him I'll none of it.
+Desire him not to flatter with his lord,
+Nor hold him up with hopes; I am not for him:
+If that the youth will come this way to-morrow,
+I'll give him reasons for't: hie thee, Malvolio.
+_R_MALVOLIO
+Madam, I will.
+_D_Exit
+_R_OLIVIA
+I do I know not what, and fear to find
+Mine eye too great a flatterer for my mind.
+Fate, show thy force: ourselves we do not owe;
+What is decreed must be, and be this so.
+_D_Exit

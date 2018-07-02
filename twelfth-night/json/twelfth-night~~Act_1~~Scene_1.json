@@ -1,0 +1,246 @@
+{
+    "scene_id": "twelfth night~~Act_1~~Scene_1",
+    "work_number": "6",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "DUKE ORSINO",
+            "If music be the food of love, play on;",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "DUKE ORSINO",
+            "Give me excess of it, that, surfeiting,"
+        ],
+        [
+            "DUKE ORSINO",
+            "The appetite may sicken, and so die."
+        ],
+        [
+            "DUKE ORSINO",
+            "That strain again! it had a dying fall:"
+        ],
+        [
+            "DUKE ORSINO",
+            "O, it came o'er my ear like the sweet sound,"
+        ],
+        [
+            "DUKE ORSINO",
+            "That breathes upon a bank of violets,"
+        ],
+        [
+            "DUKE ORSINO",
+            "Stealing and giving odour! Enough; no more:"
+        ],
+        [
+            "DUKE ORSINO",
+            "'Tis not so sweet now as it was before."
+        ],
+        [
+            "DUKE ORSINO",
+            "O spirit of love! how quick and fresh art thou,"
+        ],
+        [
+            "DUKE ORSINO",
+            "That, notwithstanding thy capacity"
+        ],
+        [
+            "DUKE ORSINO",
+            "Receiveth as the sea, nought enters there,"
+        ],
+        [
+            "DUKE ORSINO",
+            "Of what validity and pitch soe'er,"
+        ],
+        [
+            "DUKE ORSINO",
+            "But falls into abatement and low price,"
+        ],
+        [
+            "DUKE ORSINO",
+            "Even in a minute: so full of shapes is fancy"
+        ],
+        [
+            "DUKE ORSINO",
+            "That it alone is high fantastical."
+        ],
+        [
+            "CURIO",
+            "Will you go hunt, my lord?"
+        ],
+        [
+            "DUKE ORSINO",
+            "What, Curio?"
+        ],
+        [
+            "CURIO",
+            "The hart."
+        ],
+        [
+            "DUKE ORSINO",
+            "Why, so I do, the noblest that I have:"
+        ],
+        [
+            "DUKE ORSINO",
+            "O, when mine eyes did see Olivia first,"
+        ],
+        [
+            "DUKE ORSINO",
+            "Methought she purged the air of pestilence!"
+        ],
+        [
+            "DUKE ORSINO",
+            "That instant was I turn'd into a hart;"
+        ],
+        [
+            "DUKE ORSINO",
+            "And my desires, like fell and cruel hounds,"
+        ],
+        [
+            "DUKE ORSINO",
+            "E'er since pursue me.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "DUKE ORSINO",
+            "How now! what news from her?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "VALENTINE",
+            "So please my lord, I might not be admitted;"
+        ],
+        [
+            "VALENTINE",
+            "But from her handmaid do return this answer:"
+        ],
+        [
+            "VALENTINE",
+            "The element itself, till seven years' heat,"
+        ],
+        [
+            "VALENTINE",
+            "Shall not behold her face at ample view;"
+        ],
+        [
+            "VALENTINE",
+            "But, like a cloistress, she will veiled walk"
+        ],
+        [
+            "VALENTINE",
+            "And water once a day her chamber round"
+        ],
+        [
+            "VALENTINE",
+            "With eye-offending brine: all this to season"
+        ],
+        [
+            "VALENTINE",
+            "A brother's dead love, which she would keep fresh"
+        ],
+        [
+            "VALENTINE",
+            "And lasting in her sad remembrance."
+        ],
+        [
+            "DUKE ORSINO",
+            "O, she that hath a heart of that fine frame"
+        ],
+        [
+            "DUKE ORSINO",
+            "To pay this debt of love but to a brother,"
+        ],
+        [
+            "DUKE ORSINO",
+            "How will she love, when the rich golden shaft"
+        ],
+        [
+            "DUKE ORSINO",
+            "Hath kill'd the flock of all affections else"
+        ],
+        [
+            "DUKE ORSINO",
+            "That live in her; when liver, brain and heart,"
+        ],
+        [
+            "DUKE ORSINO",
+            "These sovereign thrones, are all supplied, and fill'd"
+        ],
+        [
+            "DUKE ORSINO",
+            "Her sweet perfections with one self king!"
+        ],
+        [
+            "DUKE ORSINO",
+            "Away before me to sweet beds of flowers:"
+        ],
+        [
+            "DUKE ORSINO",
+            "Love-thoughts lie rich when canopied with bowers.",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter DUKE ORSINO, CURIO, and other Lords; Musicians attending"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter VALENTINE"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "DUKE ORSINO": [
+            [
+                "1",
+                "15"
+            ],
+            [
+                "17",
+                "17"
+            ],
+            [
+                "19",
+                "25"
+            ],
+            [
+                "35",
+                "43"
+            ]
+        ],
+        "CURIO": [
+            [
+                "16",
+                "16"
+            ],
+            [
+                "18",
+                "18"
+            ]
+        ],
+        "VALENTINE": [
+            [
+                "26",
+                "34"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "DUKE ORSINO's palace."
+}

@@ -1,0 +1,2429 @@
+{
+    "scene_id": "twelfth night~~Act_3~~Scene_4",
+    "work_number": "6",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "OLIVIA",
+            "I have sent after him: he says he'll come;",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "OLIVIA",
+            "How shall I feast him? what bestow of him?"
+        ],
+        [
+            "OLIVIA",
+            "For youth is bought more oft than begg'd or borrow'd."
+        ],
+        [
+            "OLIVIA",
+            "I speak too loud."
+        ],
+        [
+            "OLIVIA",
+            "Where is Malvolio? he is sad and civil,"
+        ],
+        [
+            "OLIVIA",
+            "And suits well for a servant with my fortunes:"
+        ],
+        [
+            "OLIVIA",
+            "Where is Malvolio?"
+        ],
+        [
+            "MARIA",
+            "He's coming, madam; but in very strange manner. He"
+        ],
+        [
+            "MARIA",
+            "is, sure, possessed, madam."
+        ],
+        [
+            "OLIVIA",
+            "Why, what's the matter? does he rave?"
+        ],
+        [
+            "MARIA",
+            "No. madam, he does nothing but smile: your"
+        ],
+        [
+            "MARIA",
+            "ladyship were best to have some guard about you, if"
+        ],
+        [
+            "MARIA",
+            "he come; for, sure, the man is tainted in's wits."
+        ],
+        [
+            "OLIVIA",
+            "Go call him hither.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "OLIVIA",
+            "I am as mad as he,",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "OLIVIA",
+            "If sad and merry madness equal be.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "OLIVIA",
+            "How now, Malvolio!",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "MALVOLIO",
+            "Sweet lady, ho, ho."
+        ],
+        [
+            "OLIVIA",
+            "Smilest thou?"
+        ],
+        [
+            "OLIVIA",
+            "I sent for thee upon a sad occasion."
+        ],
+        [
+            "MALVOLIO",
+            "Sad, lady! I could be sad: this does make some"
+        ],
+        [
+            "MALVOLIO",
+            "obstruction in the blood, this cross-gartering; but"
+        ],
+        [
+            "MALVOLIO",
+            "what of that? if it please the eye of one, it is"
+        ],
+        [
+            "MALVOLIO",
+            "with me as the very true sonnet is, 'Please one, and"
+        ],
+        [
+            "MALVOLIO",
+            "please all.'"
+        ],
+        [
+            "OLIVIA",
+            "Why, how dost thou, man? what is the matter with thee?"
+        ],
+        [
+            "MALVOLIO",
+            "Not black in my mind, though yellow in my legs. It"
+        ],
+        [
+            "MALVOLIO",
+            "did come to his hands, and commands shall be"
+        ],
+        [
+            "MALVOLIO",
+            "executed: I think we do know the sweet Roman hand."
+        ],
+        [
+            "OLIVIA",
+            "Wilt thou go to bed, Malvolio?"
+        ],
+        [
+            "MALVOLIO",
+            "To bed! ay, sweet-heart, and I'll come to thee."
+        ],
+        [
+            "OLIVIA",
+            "God comfort thee! Why dost thou smile so and kiss"
+        ],
+        [
+            "OLIVIA",
+            "thy hand so oft?"
+        ],
+        [
+            "MARIA",
+            "How do you, Malvolio?"
+        ],
+        [
+            "MALVOLIO",
+            "At your request! yes; nightingales answer daws."
+        ],
+        [
+            "MARIA",
+            "Why appear you with this ridiculous boldness before my lady?"
+        ],
+        [
+            "MALVOLIO",
+            "'Be not afraid of greatness:' 'twas well writ."
+        ],
+        [
+            "OLIVIA",
+            "What meanest thou by that, Malvolio?"
+        ],
+        [
+            "MALVOLIO",
+            "'Some are born great,'--"
+        ],
+        [
+            "OLIVIA",
+            "Ha!"
+        ],
+        [
+            "MALVOLIO",
+            "'Some achieve greatness,'--"
+        ],
+        [
+            "OLIVIA",
+            "What sayest thou?"
+        ],
+        [
+            "MALVOLIO",
+            "'And some have greatness thrust upon them.'"
+        ],
+        [
+            "OLIVIA",
+            "Heaven restore thee!"
+        ],
+        [
+            "MALVOLIO",
+            "'Remember who commended thy yellow stocking s,'--"
+        ],
+        [
+            "OLIVIA",
+            "Thy yellow stockings!"
+        ],
+        [
+            "MALVOLIO",
+            "'And wished to see thee cross-gartered.'"
+        ],
+        [
+            "OLIVIA",
+            "Cross-gartered!"
+        ],
+        [
+            "MALVOLIO",
+            "'Go to thou art made, if thou desirest to be so;'--"
+        ],
+        [
+            "OLIVIA",
+            "Am I made?"
+        ],
+        [
+            "MALVOLIO",
+            "'If not, let me see thee a servant still.'"
+        ],
+        [
+            "OLIVIA",
+            "Why, this is very midsummer madness.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "Servant",
+            "Madam, the young gentleman of the Count Orsino's is",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "Servant",
+            "returned: I could hardly entreat him back: he"
+        ],
+        [
+            "Servant",
+            "attends your ladyship's pleasure."
+        ],
+        [
+            "OLIVIA",
+            "I'll come to him.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "OLIVIA",
+            "Good Maria, let this fellow be looked to. Where's",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "OLIVIA",
+            "my cousin Toby? Let some of my people have a special"
+        ],
+        [
+            "OLIVIA",
+            "care of him: I would not have him miscarry for the"
+        ],
+        [
+            "OLIVIA",
+            "half of my dowry.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "MALVOLIO",
+            "O, ho! do you come near me now? no worse man than",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "MALVOLIO",
+            "Sir Toby to look to me! This concurs directly with"
+        ],
+        [
+            "MALVOLIO",
+            "the letter: she sends him on purpose, that I may"
+        ],
+        [
+            "MALVOLIO",
+            "appear stubborn to him; for she incites me to that"
+        ],
+        [
+            "MALVOLIO",
+            "in the letter. 'Cast thy humble slough,' says she;"
+        ],
+        [
+            "MALVOLIO",
+            "'be opposite with a kinsman, surly with servants;"
+        ],
+        [
+            "MALVOLIO",
+            "let thy tongue tang with arguments of state; put"
+        ],
+        [
+            "MALVOLIO",
+            "thyself into the trick of singularity;' and"
+        ],
+        [
+            "MALVOLIO",
+            "consequently sets down the manner how; as, a sad"
+        ],
+        [
+            "MALVOLIO",
+            "face, a reverend carriage, a slow tongue, in the"
+        ],
+        [
+            "MALVOLIO",
+            "habit of some sir of note, and so forth. I have"
+        ],
+        [
+            "MALVOLIO",
+            "limed her; but it is Jove's doing, and Jove make me"
+        ],
+        [
+            "MALVOLIO",
+            "thankful! And when she went away now, 'Let this"
+        ],
+        [
+            "MALVOLIO",
+            "fellow be looked to:' fellow! not Malvolio, nor"
+        ],
+        [
+            "MALVOLIO",
+            "after my degree, but fellow. Why, every thing"
+        ],
+        [
+            "MALVOLIO",
+            "adheres together, that no dram of a scruple, no"
+        ],
+        [
+            "MALVOLIO",
+            "scruple of a scruple, no obstacle, no incredulous"
+        ],
+        [
+            "MALVOLIO",
+            "or unsafe circumstance--What can be said? Nothing"
+        ],
+        [
+            "MALVOLIO",
+            "that can be can come between me and the full"
+        ],
+        [
+            "MALVOLIO",
+            "prospect of my hopes. Well, Jove, not I, is the"
+        ],
+        [
+            "MALVOLIO",
+            "doer of this, and he is to be thanked.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Which way is he, in the name of sanctity? If all",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "the devils of hell be drawn in little, and Legion"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "himself possessed him, yet I'll speak to him."
+        ],
+        [
+            "FABIAN",
+            "Here he is, here he is. How is't with you, sir?"
+        ],
+        [
+            "FABIAN",
+            "how is't with you, man?"
+        ],
+        [
+            "MALVOLIO",
+            "Go off; I discard you: let me enjoy my private: go"
+        ],
+        [
+            "MALVOLIO",
+            "off."
+        ],
+        [
+            "MARIA",
+            "Lo, how hollow the fiend speaks within him! did not"
+        ],
+        [
+            "MARIA",
+            "I tell you? Sir Toby, my lady prays you to have a"
+        ],
+        [
+            "MARIA",
+            "care of him."
+        ],
+        [
+            "MALVOLIO",
+            "Ah, ha! does she so?"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Go to, go to; peace, peace; we must deal gently"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "with him: let me alone. How do you, Malvolio? how"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "is't with you? What, man! defy the devil:"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "consider, he's an enemy to mankind."
+        ],
+        [
+            "MALVOLIO",
+            "Do you know what you say?"
+        ],
+        [
+            "MARIA",
+            "La you, an you speak ill of the devil, how he takes"
+        ],
+        [
+            "MARIA",
+            "it at heart! Pray God, he be not bewitched!"
+        ],
+        [
+            "FABIAN",
+            "Carry his water to the wise woman."
+        ],
+        [
+            "MARIA",
+            "Marry, and it shall be done to-morrow morning, if I"
+        ],
+        [
+            "MARIA",
+            "live. My lady would not lose him for more than I'll say."
+        ],
+        [
+            "MALVOLIO",
+            "How now, mistress!"
+        ],
+        [
+            "MARIA",
+            "O Lord!"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Prithee, hold thy peace; this is not the way: do"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "you not see you move him? let me alone with him."
+        ],
+        [
+            "FABIAN",
+            "No way but gentleness; gently, gently: the fiend is"
+        ],
+        [
+            "FABIAN",
+            "rough, and will not be roughly used."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Why, how now, my bawcock! how dost thou, chuck?"
+        ],
+        [
+            "MALVOLIO",
+            "Sir!"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Ay, Biddy, come with me. What, man! 'tis not for"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "gravity to play at cherry-pit with Satan: hang"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "him, foul collier!"
+        ],
+        [
+            "MARIA",
+            "Get him to say his prayers, good Sir Toby, get him to pray."
+        ],
+        [
+            "MALVOLIO",
+            "My prayers, minx!"
+        ],
+        [
+            "MARIA",
+            "No, I warrant you, he will not hear of godliness."
+        ],
+        [
+            "MALVOLIO",
+            "Go, hang yourselves all! you are idle shallow"
+        ],
+        [
+            "MALVOLIO",
+            "things: I am not of your element: you shall know"
+        ],
+        [
+            "MALVOLIO",
+            "more hereafter.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Is't possible?",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "FABIAN",
+            "If this were played upon a stage now, I could"
+        ],
+        [
+            "FABIAN",
+            "condemn it as an improbable fiction."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "His very genius hath taken the infection of the device, man."
+        ],
+        [
+            "MARIA",
+            "Nay, pursue him now, lest the device take air and taint."
+        ],
+        [
+            "FABIAN",
+            "Why, we shall make him mad indeed."
+        ],
+        [
+            "MARIA",
+            "The house will be the quieter."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Come, we'll have him in a dark room and bound. My"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "niece is already in the belief that he's mad: we"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "may carry it thus, for our pleasure and his penance,"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "till our very pastime, tired out of breath, prompt"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "us to have mercy on him: at which time we will"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "bring the device to the bar and crown thee for a"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "finder of madmen. But see, but see.",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "FABIAN",
+            "More matter for a May morning.",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "SIR ANDREW",
+            "Here's the challenge, read it: warrant there's"
+        ],
+        [
+            "SIR ANDREW",
+            "vinegar and pepper in't."
+        ],
+        [
+            "FABIAN",
+            "Is't so saucy?"
+        ],
+        [
+            "SIR ANDREW",
+            "Ay, is't, I warrant him: do but read."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Give me.",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "'Youth, whatsoever thou art, thou art but a scurvy fellow.'",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "FABIAN",
+            "Good, and valiant."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "[Reads] 'Wonder not, nor admire not in thy mind,"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "why I do call thee so, for I will show thee no reason for't.'"
+        ],
+        [
+            "FABIAN",
+            "A good note; that keeps you from the blow of the law."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "[Reads] 'Thou comest to the lady Olivia, and in my"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "sight she uses thee kindly: but thou liest in thy"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "throat; that is not the matter I challenge thee for.'"
+        ],
+        [
+            "FABIAN",
+            "Very brief, and to exceeding good sense--less."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "[Reads] 'I will waylay thee going home; where if it"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "be thy chance to kill me,'--"
+        ],
+        [
+            "FABIAN",
+            "Good."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "[Reads] 'Thou killest me like a rogue and a villain.'"
+        ],
+        [
+            "FABIAN",
+            "Still you keep o' the windy side of the law: good."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "[Reads] 'Fare thee well; and God have mercy upon"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "one of our souls! He may have mercy upon mine; but"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "my hope is better, and so look to thyself. Thy"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "friend, as thou usest him, and thy sworn enemy,"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "ANDREW AGUECHEEK."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "If this letter move him not, his legs cannot:"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "I'll give't him."
+        ],
+        [
+            "MARIA",
+            "You may have very fit occasion for't: he is now in"
+        ],
+        [
+            "MARIA",
+            "some commerce with my lady, and will by and by depart."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Go, Sir Andrew: scout me for him at the corner the"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "orchard like a bum-baily: so soon as ever thou seest"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "him, draw; and, as thou drawest swear horrible; for"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "it comes to pass oft that a terrible oath, with a"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "swaggering accent sharply twanged off, gives manhood"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "more approbation than ever proof itself would have"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "earned him. Away!"
+        ],
+        [
+            "SIR ANDREW",
+            "Nay, let me alone for swearing.",
+            {
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Now will not I deliver his letter: for the behavior",
+            {
+                "preceding_direction_line": "11"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "of the young gentleman gives him out to be of good"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "capacity and breeding; his employment between his"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "lord and my niece confirms no less: therefore this"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "letter, being so excellently ignorant, will breed no"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "terror in the youth: he will find it comes from a"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "clodpole. But, sir, I will deliver his challenge by"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "word of mouth; set upon Aguecheek a notable report"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "of valour; and drive the gentleman, as I know his"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "youth will aptly receive it, into a most hideous"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "opinion of his rage, skill, fury and impetuosity."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "This will so fright them both that they will kill"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "one another by the look, like cockatrices.",
+            {
+                "following_direction_line": "12"
+            }
+        ],
+        [
+            "FABIAN",
+            "Here he comes with your niece: give them way till",
+            {
+                "preceding_direction_line": "12"
+            }
+        ],
+        [
+            "FABIAN",
+            "he take leave, and presently after him."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "I will meditate the while upon some horrid message"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "for a challenge.",
+            {
+                "following_direction_line": "13"
+            }
+        ],
+        [
+            "OLIVIA",
+            "I have said too much unto a heart of stone",
+            {
+                "preceding_direction_line": "13"
+            }
+        ],
+        [
+            "OLIVIA",
+            "And laid mine honour too unchary out:"
+        ],
+        [
+            "OLIVIA",
+            "There's something in me that reproves my fault;"
+        ],
+        [
+            "OLIVIA",
+            "But such a headstrong potent fault it is,"
+        ],
+        [
+            "OLIVIA",
+            "That it but mocks reproof."
+        ],
+        [
+            "VIOLA",
+            "With the same 'havior that your passion bears"
+        ],
+        [
+            "VIOLA",
+            "Goes on my master's grief."
+        ],
+        [
+            "OLIVIA",
+            "Here, wear this jewel for me, 'tis my picture;"
+        ],
+        [
+            "OLIVIA",
+            "Refuse it not; it hath no tongue to vex you;"
+        ],
+        [
+            "OLIVIA",
+            "And I beseech you come again to-morrow."
+        ],
+        [
+            "OLIVIA",
+            "What shall you ask of me that I'll deny,"
+        ],
+        [
+            "OLIVIA",
+            "That honour saved may upon asking give?"
+        ],
+        [
+            "VIOLA",
+            "Nothing but this; your true love for my master."
+        ],
+        [
+            "OLIVIA",
+            "How with mine honour may I give him that"
+        ],
+        [
+            "OLIVIA",
+            "Which I have given to you?"
+        ],
+        [
+            "VIOLA",
+            "I will acquit you."
+        ],
+        [
+            "OLIVIA",
+            "Well, come again to-morrow: fare thee well:"
+        ],
+        [
+            "OLIVIA",
+            "A fiend like thee might bear my soul to hell.",
+            {
+                "following_direction_line": "14"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Gentleman, God save thee.",
+            {
+                "preceding_direction_line": "14"
+            }
+        ],
+        [
+            "VIOLA",
+            "And you, sir."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "That defence thou hast, betake thee to't: of what"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "nature the wrongs are thou hast done him, I know"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "not; but thy intercepter, full of despite, bloody as"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "the hunter, attends thee at the orchard-end:"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "dismount thy tuck, be yare in thy preparation, for"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "thy assailant is quick, skilful and deadly."
+        ],
+        [
+            "VIOLA",
+            "You mistake, sir; I am sure no man hath any quarrel"
+        ],
+        [
+            "VIOLA",
+            "to me: my remembrance is very free and clear from"
+        ],
+        [
+            "VIOLA",
+            "any image of offence done to any man."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "You'll find it otherwise, I assure you: therefore,"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "if you hold your life at any price, betake you to"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "your guard; for your opposite hath in him what"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "youth, strength, skill and wrath can furnish man withal."
+        ],
+        [
+            "VIOLA",
+            "I pray you, sir, what is he?"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "He is knight, dubbed with unhatched rapier and on"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "carpet consideration; but he is a devil in private"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "brawl: souls and bodies hath he divorced three; and"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "his incensement at this moment is so implacable,"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "that satisfaction can be none but by pangs of death"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "and sepulchre. Hob, nob, is his word; give't or take't."
+        ],
+        [
+            "VIOLA",
+            "I will return again into the house and desire some"
+        ],
+        [
+            "VIOLA",
+            "conduct of the lady. I am no fighter. I have heard"
+        ],
+        [
+            "VIOLA",
+            "of some kind of men that put quarrels purposely on"
+        ],
+        [
+            "VIOLA",
+            "others, to taste their valour: belike this is a man"
+        ],
+        [
+            "VIOLA",
+            "of that quirk."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Sir, no; his indignation derives itself out of a"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "very competent injury: therefore, get you on and"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "give him his desire. Back you shall not to the"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "house, unless you undertake that with me which with"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "as much safety you might answer him: therefore, on,"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "or strip your sword stark naked; for meddle you"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "must, that's certain, or forswear to wear iron about you."
+        ],
+        [
+            "VIOLA",
+            "This is as uncivil as strange. I beseech you, do me"
+        ],
+        [
+            "VIOLA",
+            "this courteous office, as to know of the knight what"
+        ],
+        [
+            "VIOLA",
+            "my offence to him is: it is something of my"
+        ],
+        [
+            "VIOLA",
+            "negligence, nothing of my purpose."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "I will do so. Signior Fabian, stay you by this"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "gentleman till my return.",
+            {
+                "following_direction_line": "15"
+            }
+        ],
+        [
+            "VIOLA",
+            "Pray you, sir, do you know of this matter?",
+            {
+                "preceding_direction_line": "15"
+            }
+        ],
+        [
+            "FABIAN",
+            "I know the knight is incensed against you, even to a"
+        ],
+        [
+            "FABIAN",
+            "mortal arbitrement; but nothing of the circumstance more."
+        ],
+        [
+            "VIOLA",
+            "I beseech you, what manner of man is he?"
+        ],
+        [
+            "FABIAN",
+            "Nothing of that wonderful promise, to read him by"
+        ],
+        [
+            "FABIAN",
+            "his form, as you are like to find him in the proof"
+        ],
+        [
+            "FABIAN",
+            "of his valour. He is, indeed, sir, the most skilful,"
+        ],
+        [
+            "FABIAN",
+            "bloody and fatal opposite that you could possibly"
+        ],
+        [
+            "FABIAN",
+            "have found in any part of Illyria. Will you walk"
+        ],
+        [
+            "FABIAN",
+            "towards him? I will make your peace with him if I"
+        ],
+        [
+            "FABIAN",
+            "can."
+        ],
+        [
+            "VIOLA",
+            "I shall be much bound to you for't: I am one that"
+        ],
+        [
+            "VIOLA",
+            "had rather go with sir priest than sir knight: I"
+        ],
+        [
+            "VIOLA",
+            "care not who knows so much of my mettle.",
+            {
+                "following_direction_line": "16"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Why, man, he's a very devil; I have not seen such a",
+            {
+                "preceding_direction_line": "16"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "firago. I had a pass with him, rapier, scabbard and"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "all, and he gives me the stuck in with such a mortal"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "motion, that it is inevitable; and on the answer, he"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "pays you as surely as your feet hit the ground they"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "step on. They say he has been fencer to the Sophy."
+        ],
+        [
+            "SIR ANDREW",
+            "Pox on't, I'll not meddle with him."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Ay, but he will not now be pacified: Fabian can"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "scarce hold him yonder."
+        ],
+        [
+            "SIR ANDREW",
+            "Plague on't, an I thought he had been valiant and so"
+        ],
+        [
+            "SIR ANDREW",
+            "cunning in fence, I'ld have seen him damned ere I'ld"
+        ],
+        [
+            "SIR ANDREW",
+            "have challenged him. Let him let the matter slip,"
+        ],
+        [
+            "SIR ANDREW",
+            "and I'll give him my horse, grey Capilet."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "I'll make the motion: stand here, make a good show"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "on't: this shall end without the perdition of souls.",
+            {
+                "following_direction_line": "17"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Marry, I'll ride your horse as well as I ride you.",
+            {
+                "preceding_direction_line": "17"
+            },
+            {
+                "following_direction_line": "18"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "I have his horse to take up the quarrel:",
+            {
+                "preceding_direction_line": "18"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "I have persuaded him the youth's a devil."
+        ],
+        [
+            "FABIAN",
+            "He is as horribly conceited of him; and pants and"
+        ],
+        [
+            "FABIAN",
+            "looks pale, as if a bear were at his heels."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "[To VIOLA] There's no remedy, sir; he will fight"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "with you for's oath sake: marry, he hath better"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "bethought him of his quarrel, and he finds that now"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "scarce to be worth talking of: therefore draw, for"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "the supportance of his vow; he protests he will not hurt you."
+        ],
+        [
+            "VIOLA",
+            "[Aside] Pray God defend me! A little thing would"
+        ],
+        [
+            "VIOLA",
+            "make me tell them how much I lack of a man."
+        ],
+        [
+            "FABIAN",
+            "Give ground, if you see him furious."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Come, Sir Andrew, there's no remedy; the gentleman"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "will, for his honour's sake, have one bout with you;"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "he cannot by the duello avoid it: but he has"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "promised me, as he is a gentleman and a soldier, he"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "will not hurt you. Come on; to't."
+        ],
+        [
+            "SIR ANDREW",
+            "Pray God, he keep his oath!"
+        ],
+        [
+            "VIOLA",
+            "I do assure you, 'tis against my will.",
+            {
+                "following_direction_line": "19"
+            }
+        ],
+        [
+            "ANTONIO",
+            "Put up your sword. If this young gentleman",
+            {
+                "preceding_direction_line": "19"
+            }
+        ],
+        [
+            "ANTONIO",
+            "Have done offence, I take the fault on me:"
+        ],
+        [
+            "ANTONIO",
+            "If you offend him, I for him defy you."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "You, sir! why, what are you?"
+        ],
+        [
+            "ANTONIO",
+            "One, sir, that for his love dares yet do more"
+        ],
+        [
+            "ANTONIO",
+            "Than you have heard him brag to you he will."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Nay, if you be an undertaker, I am for you.",
+            {
+                "following_direction_line": "20"
+            }
+        ],
+        [
+            "FABIAN",
+            "O good Sir Toby, hold! here come the officers.",
+            {
+                "preceding_direction_line": "20"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "I'll be with you anon."
+        ],
+        [
+            "VIOLA",
+            "Pray, sir, put your sword up, if you please."
+        ],
+        [
+            "SIR ANDREW",
+            "Marry, will I, sir; and, for that I promised you,"
+        ],
+        [
+            "SIR ANDREW",
+            "I'll be as good as my word: he will bear you easily"
+        ],
+        [
+            "SIR ANDREW",
+            "and reins well."
+        ],
+        [
+            "First Officer",
+            "This is the man; do thy office."
+        ],
+        [
+            "Second Officer",
+            "Antonio, I arrest thee at the suit of Count Orsino."
+        ],
+        [
+            "ANTONIO",
+            "You do mistake me, sir."
+        ],
+        [
+            "First Officer",
+            "No, sir, no jot; I know your favour well,"
+        ],
+        [
+            "First Officer",
+            "Though now you have no sea-cap on your head."
+        ],
+        [
+            "First Officer",
+            "Take him away: he knows I know him well."
+        ],
+        [
+            "ANTONIO",
+            "I must obey.",
+            {
+                "following_direction_line": "21"
+            }
+        ],
+        [
+            "ANTONIO",
+            "This comes with seeking you:",
+            {
+                "preceding_direction_line": "21"
+            }
+        ],
+        [
+            "ANTONIO",
+            "But there's no remedy; I shall answer it."
+        ],
+        [
+            "ANTONIO",
+            "What will you do, now my necessity"
+        ],
+        [
+            "ANTONIO",
+            "Makes me to ask you for my purse? It grieves me"
+        ],
+        [
+            "ANTONIO",
+            "Much more for what I cannot do for you"
+        ],
+        [
+            "ANTONIO",
+            "Than what befalls myself. You stand amazed;"
+        ],
+        [
+            "ANTONIO",
+            "But be of comfort."
+        ],
+        [
+            "Second Officer",
+            "Come, sir, away."
+        ],
+        [
+            "ANTONIO",
+            "I must entreat of you some of that money."
+        ],
+        [
+            "VIOLA",
+            "What money, sir?"
+        ],
+        [
+            "VIOLA",
+            "For the fair kindness you have show'd me here,"
+        ],
+        [
+            "VIOLA",
+            "And, part, being prompted by your present trouble,"
+        ],
+        [
+            "VIOLA",
+            "Out of my lean and low ability"
+        ],
+        [
+            "VIOLA",
+            "I'll lend you something: my having is not much;"
+        ],
+        [
+            "VIOLA",
+            "I'll make division of my present with you:"
+        ],
+        [
+            "VIOLA",
+            "Hold, there's half my coffer."
+        ],
+        [
+            "ANTONIO",
+            "Will you deny me now?"
+        ],
+        [
+            "ANTONIO",
+            "Is't possible that my deserts to you"
+        ],
+        [
+            "ANTONIO",
+            "Can lack persuasion? Do not tempt my misery,"
+        ],
+        [
+            "ANTONIO",
+            "Lest that it make me so unsound a man"
+        ],
+        [
+            "ANTONIO",
+            "As to upbraid you with those kindnesses"
+        ],
+        [
+            "ANTONIO",
+            "That I have done for you."
+        ],
+        [
+            "VIOLA",
+            "I know of none;"
+        ],
+        [
+            "VIOLA",
+            "Nor know I you by voice or any feature:"
+        ],
+        [
+            "VIOLA",
+            "I hate ingratitude more in a man"
+        ],
+        [
+            "VIOLA",
+            "Than lying, vainness, babbling, drunkenness,"
+        ],
+        [
+            "VIOLA",
+            "Or any taint of vice whose strong corruption"
+        ],
+        [
+            "VIOLA",
+            "Inhabits our frail blood."
+        ],
+        [
+            "ANTONIO",
+            "O heavens themselves!"
+        ],
+        [
+            "Second Officer",
+            "Come, sir, I pray you, go."
+        ],
+        [
+            "ANTONIO",
+            "Let me speak a little. This youth that you see here"
+        ],
+        [
+            "ANTONIO",
+            "I snatch'd one half out of the jaws of death,"
+        ],
+        [
+            "ANTONIO",
+            "Relieved him with such sanctity of love,"
+        ],
+        [
+            "ANTONIO",
+            "And to his image, which methought did promise"
+        ],
+        [
+            "ANTONIO",
+            "Most venerable worth, did I devotion."
+        ],
+        [
+            "First Officer",
+            "What's that to us? The time goes by: away!"
+        ],
+        [
+            "ANTONIO",
+            "But O how vile an idol proves this god"
+        ],
+        [
+            "ANTONIO",
+            "Thou hast, Sebastian, done good feature shame."
+        ],
+        [
+            "ANTONIO",
+            "In nature there's no blemish but the mind;"
+        ],
+        [
+            "ANTONIO",
+            "None can be call'd deform'd but the unkind:"
+        ],
+        [
+            "ANTONIO",
+            "Virtue is beauty, but the beauteous evil"
+        ],
+        [
+            "ANTONIO",
+            "Are empty trunks o'erflourish'd by the devil."
+        ],
+        [
+            "First Officer",
+            "The man grows mad: away with him! Come, come, sir."
+        ],
+        [
+            "ANTONIO",
+            "Lead me on.",
+            {
+                "following_direction_line": "22"
+            }
+        ],
+        [
+            "VIOLA",
+            "Methinks his words do from such passion fly,",
+            {
+                "preceding_direction_line": "22"
+            }
+        ],
+        [
+            "VIOLA",
+            "That he believes himself: so do not I."
+        ],
+        [
+            "VIOLA",
+            "Prove true, imagination, O, prove true,"
+        ],
+        [
+            "VIOLA",
+            "That I, dear brother, be now ta'en for you!"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Come hither, knight; come hither, Fabian: we'll"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "whisper o'er a couplet or two of most sage saws."
+        ],
+        [
+            "VIOLA",
+            "He named Sebastian: I my brother know"
+        ],
+        [
+            "VIOLA",
+            "Yet living in my glass; even such and so"
+        ],
+        [
+            "VIOLA",
+            "In favour was my brother, and he went"
+        ],
+        [
+            "VIOLA",
+            "Still in this fashion, colour, ornament,"
+        ],
+        [
+            "VIOLA",
+            "For him I imitate: O, if it prove,"
+        ],
+        [
+            "VIOLA",
+            "Tempests are kind and salt waves fresh in love.",
+            {
+                "following_direction_line": "23"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "A very dishonest paltry boy, and more a coward than",
+            {
+                "preceding_direction_line": "23"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "a hare: his dishonesty appears in leaving his"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "friend here in necessity and denying him; and for"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "his cowardship, ask Fabian."
+        ],
+        [
+            "FABIAN",
+            "A coward, a most devout coward, religious in it."
+        ],
+        [
+            "SIR ANDREW",
+            "'Slid, I'll after him again and beat him."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Do; cuff him soundly, but never draw thy sword."
+        ],
+        [
+            "SIR ANDREW",
+            "An I do not,--"
+        ],
+        [
+            "FABIAN",
+            "Come, let's see the event."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "I dare lay any money 'twill be nothing yet.",
+            {
+                "following_direction_line": "24"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter OLIVIA and MARIA"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit MARIA"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Re-enter MARIA, with MALVOLIO"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter Servant"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exit Servant"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exeunt OLIVIA and MARIA"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Re-enter MARIA, with SIR TOBY BELCH and FABIAN"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Enter SIR ANDREW"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Reads"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Re-enter OLIVIA, with VIOLA"
+        ],
+        [
+            "_DIRECTION",
+            "D13",
+            "Exeunt SIR TOBY BELCH, FABIAN, and MARIA"
+        ],
+        [
+            "_DIRECTION",
+            "D14",
+            "Exit. Re-enter SIR TOBY BELCH and FABIAN"
+        ],
+        [
+            "_DIRECTION",
+            "D15",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D16",
+            "Exeunt. Re-enter SIR TOBY BELCH, with SIR ANDREW"
+        ],
+        [
+            "_DIRECTION",
+            "D17",
+            "Aside"
+        ],
+        [
+            "_DIRECTION",
+            "D18",
+            "Re-enter FABIAN and VIOLA. To FABIAN"
+        ],
+        [
+            "_DIRECTION",
+            "D19",
+            "They draw. Enter ANTONIO"
+        ],
+        [
+            "_DIRECTION",
+            "D20",
+            "They draw. Enter Officers"
+        ],
+        [
+            "_DIRECTION",
+            "D21",
+            "To VIOLA"
+        ],
+        [
+            "_DIRECTION",
+            "D22",
+            "Exit with Officers"
+        ],
+        [
+            "_DIRECTION",
+            "D23",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D24",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "OLIVIA": [
+            [
+                "1",
+                "7"
+            ],
+            [
+                "10",
+                "10"
+            ],
+            [
+                "14",
+                "17"
+            ],
+            [
+                "19",
+                "20"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "30",
+                "30"
+            ],
+            [
+                "32",
+                "33"
+            ],
+            [
+                "38",
+                "38"
+            ],
+            [
+                "40",
+                "40"
+            ],
+            [
+                "42",
+                "42"
+            ],
+            [
+                "44",
+                "44"
+            ],
+            [
+                "46",
+                "46"
+            ],
+            [
+                "48",
+                "48"
+            ],
+            [
+                "50",
+                "50"
+            ],
+            [
+                "52",
+                "52"
+            ],
+            [
+                "56",
+                "60"
+            ],
+            [
+                "188",
+                "192"
+            ],
+            [
+                "195",
+                "199"
+            ],
+            [
+                "201",
+                "202"
+            ],
+            [
+                "204",
+                "205"
+            ]
+        ],
+        "MARIA": [
+            [
+                "8",
+                "9"
+            ],
+            [
+                "11",
+                "13"
+            ],
+            [
+                "34",
+                "34"
+            ],
+            [
+                "36",
+                "36"
+            ],
+            [
+                "89",
+                "91"
+            ],
+            [
+                "98",
+                "99"
+            ],
+            [
+                "101",
+                "102"
+            ],
+            [
+                "104",
+                "104"
+            ],
+            [
+                "114",
+                "114"
+            ],
+            [
+                "116",
+                "116"
+            ],
+            [
+                "124",
+                "124"
+            ],
+            [
+                "126",
+                "126"
+            ],
+            [
+                "161",
+                "162"
+            ]
+        ],
+        "MALVOLIO": [
+            [
+                "18",
+                "18"
+            ],
+            [
+                "21",
+                "25"
+            ],
+            [
+                "27",
+                "29"
+            ],
+            [
+                "31",
+                "31"
+            ],
+            [
+                "35",
+                "35"
+            ],
+            [
+                "37",
+                "37"
+            ],
+            [
+                "39",
+                "39"
+            ],
+            [
+                "41",
+                "41"
+            ],
+            [
+                "43",
+                "43"
+            ],
+            [
+                "45",
+                "45"
+            ],
+            [
+                "47",
+                "47"
+            ],
+            [
+                "49",
+                "49"
+            ],
+            [
+                "51",
+                "51"
+            ],
+            [
+                "61",
+                "81"
+            ],
+            [
+                "87",
+                "88"
+            ],
+            [
+                "92",
+                "92"
+            ],
+            [
+                "97",
+                "97"
+            ],
+            [
+                "103",
+                "103"
+            ],
+            [
+                "110",
+                "110"
+            ],
+            [
+                "115",
+                "115"
+            ],
+            [
+                "117",
+                "119"
+            ]
+        ],
+        "Servant": [
+            [
+                "53",
+                "55"
+            ]
+        ],
+        "SIR TOBY BELCH": [
+            [
+                "82",
+                "84"
+            ],
+            [
+                "93",
+                "96"
+            ],
+            [
+                "105",
+                "106"
+            ],
+            [
+                "109",
+                "109"
+            ],
+            [
+                "111",
+                "113"
+            ],
+            [
+                "120",
+                "120"
+            ],
+            [
+                "123",
+                "123"
+            ],
+            [
+                "127",
+                "133"
+            ],
+            [
+                "139",
+                "140"
+            ],
+            [
+                "142",
+                "143"
+            ],
+            [
+                "145",
+                "147"
+            ],
+            [
+                "149",
+                "150"
+            ],
+            [
+                "152",
+                "152"
+            ],
+            [
+                "154",
+                "160"
+            ],
+            [
+                "163",
+                "169"
+            ],
+            [
+                "171",
+                "183"
+            ],
+            [
+                "186",
+                "187"
+            ],
+            [
+                "206",
+                "206"
+            ],
+            [
+                "208",
+                "213"
+            ],
+            [
+                "217",
+                "220"
+            ],
+            [
+                "222",
+                "227"
+            ],
+            [
+                "233",
+                "239"
+            ],
+            [
+                "244",
+                "245"
+            ],
+            [
+                "260",
+                "265"
+            ],
+            [
+                "267",
+                "268"
+            ],
+            [
+                "273",
+                "277"
+            ],
+            [
+                "280",
+                "284"
+            ],
+            [
+                "288",
+                "292"
+            ],
+            [
+                "298",
+                "298"
+            ],
+            [
+                "301",
+                "301"
+            ],
+            [
+                "303",
+                "303"
+            ],
+            [
+                "363",
+                "364"
+            ],
+            [
+                "371",
+                "374"
+            ],
+            [
+                "377",
+                "377"
+            ],
+            [
+                "380",
+                "380"
+            ]
+        ],
+        "FABIAN": [
+            [
+                "85",
+                "86"
+            ],
+            [
+                "100",
+                "100"
+            ],
+            [
+                "107",
+                "108"
+            ],
+            [
+                "121",
+                "122"
+            ],
+            [
+                "125",
+                "125"
+            ],
+            [
+                "134",
+                "134"
+            ],
+            [
+                "137",
+                "137"
+            ],
+            [
+                "141",
+                "141"
+            ],
+            [
+                "144",
+                "144"
+            ],
+            [
+                "148",
+                "148"
+            ],
+            [
+                "151",
+                "151"
+            ],
+            [
+                "153",
+                "153"
+            ],
+            [
+                "184",
+                "185"
+            ],
+            [
+                "247",
+                "248"
+            ],
+            [
+                "250",
+                "256"
+            ],
+            [
+                "278",
+                "279"
+            ],
+            [
+                "287",
+                "287"
+            ],
+            [
+                "302",
+                "302"
+            ],
+            [
+                "375",
+                "375"
+            ],
+            [
+                "379",
+                "379"
+            ]
+        ],
+        "SIR ANDREW": [
+            [
+                "135",
+                "136"
+            ],
+            [
+                "138",
+                "138"
+            ],
+            [
+                "170",
+                "170"
+            ],
+            [
+                "266",
+                "266"
+            ],
+            [
+                "269",
+                "272"
+            ],
+            [
+                "293",
+                "293"
+            ],
+            [
+                "305",
+                "307"
+            ],
+            [
+                "376",
+                "376"
+            ],
+            [
+                "378",
+                "378"
+            ]
+        ],
+        "VIOLA": [
+            [
+                "193",
+                "194"
+            ],
+            [
+                "200",
+                "200"
+            ],
+            [
+                "203",
+                "203"
+            ],
+            [
+                "207",
+                "207"
+            ],
+            [
+                "214",
+                "216"
+            ],
+            [
+                "221",
+                "221"
+            ],
+            [
+                "228",
+                "232"
+            ],
+            [
+                "240",
+                "243"
+            ],
+            [
+                "246",
+                "246"
+            ],
+            [
+                "249",
+                "249"
+            ],
+            [
+                "257",
+                "259"
+            ],
+            [
+                "285",
+                "286"
+            ],
+            [
+                "294",
+                "294"
+            ],
+            [
+                "304",
+                "304"
+            ],
+            [
+                "324",
+                "330"
+            ],
+            [
+                "337",
+                "342"
+            ],
+            [
+                "359",
+                "362"
+            ],
+            [
+                "365",
+                "370"
+            ]
+        ],
+        "ANTONIO": [
+            [
+                "295",
+                "297"
+            ],
+            [
+                "299",
+                "300"
+            ],
+            [
+                "310",
+                "310"
+            ],
+            [
+                "314",
+                "321"
+            ],
+            [
+                "323",
+                "323"
+            ],
+            [
+                "331",
+                "336"
+            ],
+            [
+                "343",
+                "343"
+            ],
+            [
+                "345",
+                "349"
+            ],
+            [
+                "351",
+                "356"
+            ],
+            [
+                "358",
+                "358"
+            ]
+        ],
+        "First Officer": [
+            [
+                "308",
+                "308"
+            ],
+            [
+                "311",
+                "313"
+            ],
+            [
+                "350",
+                "350"
+            ],
+            [
+                "357",
+                "357"
+            ]
+        ],
+        "Second Officer": [
+            [
+                "309",
+                "309"
+            ],
+            [
+                "322",
+                "322"
+            ],
+            [
+                "344",
+                "344"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IV",
+    "scene_description": "OLIVIA's garden."
+}

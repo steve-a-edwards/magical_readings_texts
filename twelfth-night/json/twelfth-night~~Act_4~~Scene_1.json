@@ -1,0 +1,427 @@
+{
+    "scene_id": "twelfth night~~Act_4~~Scene_1",
+    "work_number": "6",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "Clown",
+            "Will you make me believe that I am not sent for you?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "SEBASTIAN",
+            "Go to, go to, thou art a foolish fellow:"
+        ],
+        [
+            "SEBASTIAN",
+            "Let me be clear of thee."
+        ],
+        [
+            "Clown",
+            "Well held out, i' faith! No, I do not know you; nor"
+        ],
+        [
+            "Clown",
+            "I am not sent to you by my lady, to bid you come"
+        ],
+        [
+            "Clown",
+            "speak with her; nor your name is not Master Cesario;"
+        ],
+        [
+            "Clown",
+            "nor this is not my nose neither. Nothing that is so is so."
+        ],
+        [
+            "SEBASTIAN",
+            "I prithee, vent thy folly somewhere else: Thou"
+        ],
+        [
+            "SEBASTIAN",
+            "know'st not me."
+        ],
+        [
+            "Clown",
+            "Vent my folly! he has heard that word of some"
+        ],
+        [
+            "Clown",
+            "great man and now applies it to a fool. Vent my"
+        ],
+        [
+            "Clown",
+            "folly! I am afraid this great lubber, the world,"
+        ],
+        [
+            "Clown",
+            "will prove a cockney. I prithee now, ungird thy"
+        ],
+        [
+            "Clown",
+            "strangeness and tell me what I shall vent to my"
+        ],
+        [
+            "Clown",
+            "lady: shall I vent to her that thou art coming?"
+        ],
+        [
+            "SEBASTIAN",
+            "I prithee, foolish Greek, depart from me: There's"
+        ],
+        [
+            "SEBASTIAN",
+            "money for thee: if you tarry longer, I shall give"
+        ],
+        [
+            "SEBASTIAN",
+            "worse payment."
+        ],
+        [
+            "Clown",
+            "By my troth, thou hast an open hand. These wise men"
+        ],
+        [
+            "Clown",
+            "that give fools money get themselves a good"
+        ],
+        [
+            "Clown",
+            "report--after fourteen years' purchase.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "SIR ANDREW",
+            "Now, sir, have I met you again? there's for you.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "SEBASTIAN",
+            "Why, there's for thee, and there, and there. Are all"
+        ],
+        [
+            "SEBASTIAN",
+            "the people mad?"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Hold, sir, or I'll throw your dagger o'er the house."
+        ],
+        [
+            "Clown",
+            "This will I tell my lady straight: I would not be"
+        ],
+        [
+            "Clown",
+            "in some of your coats for two pence.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Come on, sir; hold.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "SIR ANDREW",
+            "Nay, let him alone: I'll go another way to work"
+        ],
+        [
+            "SIR ANDREW",
+            "with him; I'll have an action of battery against"
+        ],
+        [
+            "SIR ANDREW",
+            "him, if there be any law in Illyria: though I"
+        ],
+        [
+            "SIR ANDREW",
+            "struck him first, yet it's no matter for that."
+        ],
+        [
+            "SEBASTIAN",
+            "Let go thy hand."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Come, sir, I will not let you go. Come, my young"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "soldier, put up your iron: you are well fleshed; come on."
+        ],
+        [
+            "SEBASTIAN",
+            "I will be free from thee. What wouldst thou now? If"
+        ],
+        [
+            "SEBASTIAN",
+            "thou darest tempt me further, draw thy sword."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "What, what? Nay, then I must have an ounce or two"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "of this malapert blood from you.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "OLIVIA",
+            "Hold, Toby; on thy life I charge thee, hold!",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Madam!"
+        ],
+        [
+            "OLIVIA",
+            "Will it be ever thus? Ungracious wretch,"
+        ],
+        [
+            "OLIVIA",
+            "Fit for the mountains and the barbarous caves,"
+        ],
+        [
+            "OLIVIA",
+            "Where manners ne'er were preach'd! out of my sight!"
+        ],
+        [
+            "OLIVIA",
+            "Be not offended, dear Cesario."
+        ],
+        [
+            "OLIVIA",
+            "Rudesby, be gone!",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "OLIVIA",
+            "I prithee, gentle friend,",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "OLIVIA",
+            "Let thy fair wisdom, not thy passion, sway"
+        ],
+        [
+            "OLIVIA",
+            "In this uncivil and thou unjust extent"
+        ],
+        [
+            "OLIVIA",
+            "Against thy peace. Go with me to my house,"
+        ],
+        [
+            "OLIVIA",
+            "And hear thou there how many fruitless pranks"
+        ],
+        [
+            "OLIVIA",
+            "This ruffian hath botch'd up, that thou thereby"
+        ],
+        [
+            "OLIVIA",
+            "Mayst smile at this: thou shalt not choose but go:"
+        ],
+        [
+            "OLIVIA",
+            "Do not deny. Beshrew his soul for me,"
+        ],
+        [
+            "OLIVIA",
+            "He started one poor heart of mine in thee."
+        ],
+        [
+            "SEBASTIAN",
+            "What relish is in this? how runs the stream?"
+        ],
+        [
+            "SEBASTIAN",
+            "Or I am mad, or else this is a dream:"
+        ],
+        [
+            "SEBASTIAN",
+            "Let fancy still my sense in Lethe steep;"
+        ],
+        [
+            "SEBASTIAN",
+            "If it be thus to dream, still let me sleep!"
+        ],
+        [
+            "OLIVIA",
+            "Nay, come, I prithee; would thou'ldst be ruled by me!"
+        ],
+        [
+            "SEBASTIAN",
+            "Madam, I will."
+        ],
+        [
+            "OLIVIA",
+            "O, say so, and so be!",
+            {
+                "following_direction_line": "6"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter SEBASTIAN and Clown"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter SIR ANDREW, SIR TOBY BELCH, and FABIAN"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter OLIVIA"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt SIR TOBY BELCH, SIR ANDREW, and FABIAN"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "Clown": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "4",
+                "7"
+            ],
+            [
+                "10",
+                "15"
+            ],
+            [
+                "19",
+                "21"
+            ],
+            [
+                "26",
+                "27"
+            ]
+        ],
+        "SEBASTIAN": [
+            [
+                "2",
+                "3"
+            ],
+            [
+                "8",
+                "9"
+            ],
+            [
+                "16",
+                "18"
+            ],
+            [
+                "23",
+                "24"
+            ],
+            [
+                "33",
+                "33"
+            ],
+            [
+                "36",
+                "37"
+            ],
+            [
+                "56",
+                "59"
+            ],
+            [
+                "61",
+                "61"
+            ]
+        ],
+        "SIR ANDREW": [
+            [
+                "22",
+                "22"
+            ],
+            [
+                "29",
+                "32"
+            ]
+        ],
+        "SIR TOBY BELCH": [
+            [
+                "25",
+                "25"
+            ],
+            [
+                "28",
+                "28"
+            ],
+            [
+                "34",
+                "35"
+            ],
+            [
+                "38",
+                "39"
+            ],
+            [
+                "41",
+                "41"
+            ]
+        ],
+        "OLIVIA": [
+            [
+                "40",
+                "40"
+            ],
+            [
+                "42",
+                "55"
+            ],
+            [
+                "60",
+                "60"
+            ],
+            [
+                "62",
+                "62"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "Before OLIVIA's house."
+}

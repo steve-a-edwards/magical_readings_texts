@@ -1,0 +1,1477 @@
+{
+  "direction_lines": [
+    [
+      "_DIRECTION",
+      "D1",
+      "Enter BENEDICK"
+    ],
+    [
+      "_DIRECTION",
+      "D2",
+      "Enter Boy"
+    ],
+    [
+      "_DIRECTION",
+      "D3",
+      "Exit Boy"
+    ],
+    [
+      "_DIRECTION",
+      "D4",
+      "Withdraws. Enter DON PEDRO, CLAUDIO, and LEONATO"
+    ],
+    [
+      "_DIRECTION",
+      "D5",
+      "Enter BALTHASAR with Music"
+    ],
+    [
+      "_DIRECTION",
+      "D6",
+      "Air"
+    ],
+    [
+      "_DIRECTION",
+      "D7",
+      "The Song"
+    ],
+    [
+      "_DIRECTION",
+      "D8",
+      "Exit BALTHASAR"
+    ],
+    [
+      "_DIRECTION",
+      "D9",
+      "Exeunt DON PEDRO, CLAUDIO, and LEONATO. Coming forward"
+    ],
+    [
+      "_DIRECTION",
+      "D10",
+      "Enter BEATRICE"
+    ],
+    [
+      "_DIRECTION",
+      "D11",
+      "Exit"
+    ],
+    [
+      "_DIRECTION",
+      "D12",
+      "Exit"
+    ]
+  ],
+  "ranges_of_roles_lines": {
+    "BALTHASAR": [
+      [
+        "43",
+        "44"
+      ],
+      [
+        "48",
+        "51"
+      ],
+      [
+        "55",
+        "56"
+      ],
+      [
+        "63",
+        "78"
+      ],
+      [
+        "80",
+        "80"
+      ],
+      [
+        "90",
+        "90"
+      ]
+    ],
+    "BEATRICE": [
+      [
+        "235",
+        "235"
+      ],
+      [
+        "237",
+        "239"
+      ],
+      [
+        "241",
+        "243"
+      ]
+    ],
+    "BENEDICK": [
+      [
+        "1",
+        "1"
+      ],
+      [
+        "3",
+        "4"
+      ],
+      [
+        "6",
+        "35"
+      ],
+      [
+        "59",
+        "62"
+      ],
+      [
+        "82",
+        "86"
+      ],
+      [
+        "100",
+        "100"
+      ],
+      [
+        "119",
+        "121"
+      ],
+      [
+        "208",
+        "234"
+      ],
+      [
+        "236",
+        "236"
+      ],
+      [
+        "240",
+        "240"
+      ],
+      [
+        "244",
+        "250"
+      ]
+    ],
+    "Boy": [
+      [
+        "2",
+        "2"
+      ],
+      [
+        "5",
+        "5"
+      ]
+    ],
+    "CLAUDIO": [
+      [
+        "37",
+        "38"
+      ],
+      [
+        "40",
+        "41"
+      ],
+      [
+        "95",
+        "96"
+      ],
+      [
+        "105",
+        "105"
+      ],
+      [
+        "110",
+        "110"
+      ],
+      [
+        "113",
+        "113"
+      ],
+      [
+        "122",
+        "122"
+      ],
+      [
+        "125",
+        "127"
+      ],
+      [
+        "132",
+        "133"
+      ],
+      [
+        "136",
+        "136"
+      ],
+      [
+        "143",
+        "145"
+      ],
+      [
+        "152",
+        "153"
+      ],
+      [
+        "157",
+        "157"
+      ],
+      [
+        "168",
+        "172"
+      ],
+      [
+        "176",
+        "176"
+      ],
+      [
+        "178",
+        "178"
+      ],
+      [
+        "180",
+        "180"
+      ],
+      [
+        "192",
+        "193"
+      ],
+      [
+        "200",
+        "201"
+      ]
+    ],
+    "DON PEDRO": [
+      [
+        "36",
+        "36"
+      ],
+      [
+        "39",
+        "39"
+      ],
+      [
+        "42",
+        "42"
+      ],
+      [
+        "45",
+        "47"
+      ],
+      [
+        "52",
+        "54"
+      ],
+      [
+        "57",
+        "58"
+      ],
+      [
+        "79",
+        "79"
+      ],
+      [
+        "81",
+        "81"
+      ],
+      [
+        "87",
+        "89"
+      ],
+      [
+        "91",
+        "94"
+      ],
+      [
+        "104",
+        "104"
+      ],
+      [
+        "109",
+        "109"
+      ],
+      [
+        "114",
+        "116"
+      ],
+      [
+        "123",
+        "123"
+      ],
+      [
+        "150",
+        "151"
+      ],
+      [
+        "154",
+        "156"
+      ],
+      [
+        "158",
+        "158"
+      ],
+      [
+        "163",
+        "166"
+      ],
+      [
+        "173",
+        "175"
+      ],
+      [
+        "177",
+        "177"
+      ],
+      [
+        "179",
+        "179"
+      ],
+      [
+        "181",
+        "184"
+      ],
+      [
+        "188",
+        "191"
+      ],
+      [
+        "195",
+        "198"
+      ],
+      [
+        "202",
+        "207"
+      ]
+    ],
+    "LEONATO": [
+      [
+        "97",
+        "99"
+      ],
+      [
+        "101",
+        "103"
+      ],
+      [
+        "106",
+        "108"
+      ],
+      [
+        "111",
+        "112"
+      ],
+      [
+        "117",
+        "118"
+      ],
+      [
+        "124",
+        "124"
+      ],
+      [
+        "128",
+        "131"
+      ],
+      [
+        "134",
+        "135"
+      ],
+      [
+        "137",
+        "142"
+      ],
+      [
+        "146",
+        "149"
+      ],
+      [
+        "159",
+        "162"
+      ],
+      [
+        "167",
+        "167"
+      ],
+      [
+        "185",
+        "187"
+      ],
+      [
+        "194",
+        "194"
+      ],
+      [
+        "199",
+        "199"
+      ]
+    ]
+  },
+  "role_lines": [
+    [
+      "BENEDICK",
+      "Boy!",
+      {
+        "preceding_direction_line": "1"
+      },
+      {
+        "following_direction_line": "2"
+      }
+    ],
+    [
+      "Boy",
+      "Signior?",
+      {
+        "preceding_direction_line": "2"
+      }
+    ],
+    [
+      "BENEDICK",
+      "In my chamber-window lies a book: bring it hither"
+    ],
+    [
+      "BENEDICK",
+      "to me in the orchard."
+    ],
+    [
+      "Boy",
+      "I am here already, sir."
+    ],
+    [
+      "BENEDICK",
+      "I know that; but I would have thee hence, and here again.",
+      {
+        "following_direction_line": "3"
+      }
+    ],
+    [
+      "BENEDICK",
+      "I do much wonder that one man, seeing how much",
+      {
+        "preceding_direction_line": "3"
+      }
+    ],
+    [
+      "BENEDICK",
+      "another man is a fool when he dedicates his"
+    ],
+    [
+      "BENEDICK",
+      "behaviors to love, will, after he hath laughed at"
+    ],
+    [
+      "BENEDICK",
+      "such shallow follies in others, become the argument"
+    ],
+    [
+      "BENEDICK",
+      "of his own scorn by failing in love: and such a man"
+    ],
+    [
+      "BENEDICK",
+      "is Claudio. I have known when there was no music"
+    ],
+    [
+      "BENEDICK",
+      "with him but the drum and the fife; and now had he"
+    ],
+    [
+      "BENEDICK",
+      "rather hear the tabour and the pipe: I have known"
+    ],
+    [
+      "BENEDICK",
+      "when he would have walked ten mile a-foot to see a"
+    ],
+    [
+      "BENEDICK",
+      "good armour; and now will he lie ten nights awake,"
+    ],
+    [
+      "BENEDICK",
+      "carving the fashion of a new doublet. He was wont to"
+    ],
+    [
+      "BENEDICK",
+      "speak plain and to the purpose, like an honest man"
+    ],
+    [
+      "BENEDICK",
+      "and a soldier; and now is he turned orthography; his"
+    ],
+    [
+      "BENEDICK",
+      "words are a very fantastical banquet, just so many"
+    ],
+    [
+      "BENEDICK",
+      "strange dishes. May I be so converted and see with"
+    ],
+    [
+      "BENEDICK",
+      "these eyes? I cannot tell; I think not: I will not"
+    ],
+    [
+      "BENEDICK",
+      "be sworn, but love may transform me to an oyster; but"
+    ],
+    [
+      "BENEDICK",
+      "I'll take my oath on it, till he have made an oyster"
+    ],
+    [
+      "BENEDICK",
+      "of me, he shall never make me such a fool. One woman"
+    ],
+    [
+      "BENEDICK",
+      "is fair, yet I am well; another is wise, yet I am"
+    ],
+    [
+      "BENEDICK",
+      "well; another virtuous, yet I am well; but till all"
+    ],
+    [
+      "BENEDICK",
+      "graces be in one woman, one woman shall not come in"
+    ],
+    [
+      "BENEDICK",
+      "my grace. Rich she shall be, that's certain; wise,"
+    ],
+    [
+      "BENEDICK",
+      "or I'll none; virtuous, or I'll never cheapen her;"
+    ],
+    [
+      "BENEDICK",
+      "fair, or I'll never look on her; mild, or come not"
+    ],
+    [
+      "BENEDICK",
+      "near me; noble, or not I for an angel; of good"
+    ],
+    [
+      "BENEDICK",
+      "discourse, an excellent musician, and her hair shall"
+    ],
+    [
+      "BENEDICK",
+      "be of what colour it please God. Ha! the prince and"
+    ],
+    [
+      "BENEDICK",
+      "Monsieur Love! I will hide me in the arbour.",
+      {
+        "following_direction_line": "4"
+      }
+    ],
+    [
+      "DON PEDRO",
+      "Come, shall we hear this music?",
+      {
+        "preceding_direction_line": "4"
+      }
+    ],
+    [
+      "CLAUDIO",
+      "Yea, my good lord. How still the evening is,"
+    ],
+    [
+      "CLAUDIO",
+      "As hush'd on purpose to grace harmony!"
+    ],
+    [
+      "DON PEDRO",
+      "See you where Benedick hath hid himself?"
+    ],
+    [
+      "CLAUDIO",
+      "O, very well, my lord: the music ended,"
+    ],
+    [
+      "CLAUDIO",
+      "We'll fit the kid-fox with a pennyworth.",
+      {
+        "following_direction_line": "5"
+      }
+    ],
+    [
+      "DON PEDRO",
+      "Come, Balthasar, we'll hear that song again.",
+      {
+        "preceding_direction_line": "5"
+      }
+    ],
+    [
+      "BALTHASAR",
+      "O, good my lord, tax not so bad a voice"
+    ],
+    [
+      "BALTHASAR",
+      "To slander music any more than once."
+    ],
+    [
+      "DON PEDRO",
+      "It is the witness still of excellency"
+    ],
+    [
+      "DON PEDRO",
+      "To put a strange face on his own perfection."
+    ],
+    [
+      "DON PEDRO",
+      "I pray thee, sing, and let me woo no more."
+    ],
+    [
+      "BALTHASAR",
+      "Because you talk of wooing, I will sing;"
+    ],
+    [
+      "BALTHASAR",
+      "Since many a wooer doth commence his suit"
+    ],
+    [
+      "BALTHASAR",
+      "To her he thinks not worthy, yet he wooes,"
+    ],
+    [
+      "BALTHASAR",
+      "Yet will he swear he loves."
+    ],
+    [
+      "DON PEDRO",
+      "Now, pray thee, come;"
+    ],
+    [
+      "DON PEDRO",
+      "Or, if thou wilt hold longer argument,"
+    ],
+    [
+      "DON PEDRO",
+      "Do it in notes."
+    ],
+    [
+      "BALTHASAR",
+      "Note this before my notes;"
+    ],
+    [
+      "BALTHASAR",
+      "There's not a note of mine that's worth the noting."
+    ],
+    [
+      "DON PEDRO",
+      "Why, these are very crotchets that he speaks;"
+    ],
+    [
+      "DON PEDRO",
+      "Note, notes, forsooth, and nothing.",
+      {
+        "following_direction_line": "6"
+      }
+    ],
+    [
+      "BENEDICK",
+      "Now, divine air! now is his soul ravished! Is it",
+      {
+        "preceding_direction_line": "6"
+      }
+    ],
+    [
+      "BENEDICK",
+      "not strange that sheeps' guts should hale souls out"
+    ],
+    [
+      "BENEDICK",
+      "of men's bodies? Well, a horn for my money, when"
+    ],
+    [
+      "BENEDICK",
+      "all's done.",
+      {
+        "following_direction_line": "7"
+      }
+    ],
+    [
+      "BALTHASAR",
+      "Sigh no more, ladies, sigh no more,",
+      {
+        "preceding_direction_line": "7"
+      }
+    ],
+    [
+      "BALTHASAR",
+      "Men were deceivers ever,"
+    ],
+    [
+      "BALTHASAR",
+      "One foot in sea and one on shore,"
+    ],
+    [
+      "BALTHASAR",
+      "To one thing constant never:"
+    ],
+    [
+      "BALTHASAR",
+      "Then sigh not so, but let them go,"
+    ],
+    [
+      "BALTHASAR",
+      "And be you blithe and bonny,"
+    ],
+    [
+      "BALTHASAR",
+      "Converting all your sounds of woe"
+    ],
+    [
+      "BALTHASAR",
+      "Into Hey nonny, nonny."
+    ],
+    [
+      "BALTHASAR",
+      "Sing no more ditties, sing no moe,"
+    ],
+    [
+      "BALTHASAR",
+      "Of dumps so dull and heavy;"
+    ],
+    [
+      "BALTHASAR",
+      "The fraud of men was ever so,"
+    ],
+    [
+      "BALTHASAR",
+      "Since summer first was leafy:"
+    ],
+    [
+      "BALTHASAR",
+      "Then sigh not so, but let them go"
+    ],
+    [
+      "BALTHASAR",
+      " And be you blithe and bonny,"
+    ],
+    [
+      "BALTHASAR",
+      " Converting all your sounds of woe"
+    ],
+    [
+      "BALTHASAR",
+      " Into Hey, nonny nonny."
+    ],
+    [
+      "DON PEDRO",
+      "By my troth, a good song."
+    ],
+    [
+      "BALTHASAR",
+      "And an ill singer, my lord."
+    ],
+    [
+      "DON PEDRO",
+      "Ha, no, no, faith; thou singest well enough for a shift."
+    ],
+    [
+      "BENEDICK",
+      "An he had been a dog that should have howled thus,"
+    ],
+    [
+      "BENEDICK",
+      "they would have hanged him: and I pray God his bad"
+    ],
+    [
+      "BENEDICK",
+      "voice bode no mischief. I had as lief have heard the"
+    ],
+    [
+      "BENEDICK",
+      "night-raven, come what plague could have come after"
+    ],
+    [
+      "BENEDICK",
+      "it."
+    ],
+    [
+      "DON PEDRO",
+      "Yea, marry, dost thou hear, Balthasar? I pray thee,"
+    ],
+    [
+      "DON PEDRO",
+      "get us some excellent music; for to-morrow night we"
+    ],
+    [
+      "DON PEDRO",
+      "would have it at the Lady Hero's chamber-window."
+    ],
+    [
+      "BALTHASAR",
+      "The best I can, my lord."
+    ],
+    [
+      "DON PEDRO",
+      "Do so: farewell.",
+      {
+        "following_direction_line": "8"
+      }
+    ],
+    [
+      "DON PEDRO",
+      "Come hither, Leonato. What was it you told me of",
+      {
+        "preceding_direction_line": "8"
+      }
+    ],
+    [
+      "DON PEDRO",
+      "to-day, that your niece Beatrice was in love with"
+    ],
+    [
+      "DON PEDRO",
+      "Signior Benedick?"
+    ],
+    [
+      "CLAUDIO",
+      "O, ay: stalk on. stalk on; the fowl sits. I did"
+    ],
+    [
+      "CLAUDIO",
+      "never think that lady would have loved any man."
+    ],
+    [
+      "LEONATO",
+      "No, nor I neither; but most wonderful that she"
+    ],
+    [
+      "LEONATO",
+      "should so dote on Signior Benedick, whom she hath in"
+    ],
+    [
+      "LEONATO",
+      "all outward behaviors seemed ever to abhor."
+    ],
+    [
+      "BENEDICK",
+      "Is't possible? Sits the wind in that corner?"
+    ],
+    [
+      "LEONATO",
+      "By my troth, my lord, I cannot tell what to think"
+    ],
+    [
+      "LEONATO",
+      "of it but that she loves him with an enraged"
+    ],
+    [
+      "LEONATO",
+      "affection: it is past the infinite of thought."
+    ],
+    [
+      "DON PEDRO",
+      "May be she doth but counterfeit."
+    ],
+    [
+      "CLAUDIO",
+      "Faith, like enough."
+    ],
+    [
+      "LEONATO",
+      "O God, counterfeit! There was never counterfeit of"
+    ],
+    [
+      "LEONATO",
+      "passion came so near the life of passion as she"
+    ],
+    [
+      "LEONATO",
+      "discovers it."
+    ],
+    [
+      "DON PEDRO",
+      "Why, what effects of passion shows she?"
+    ],
+    [
+      "CLAUDIO",
+      "Bait the hook well; this fish will bite."
+    ],
+    [
+      "LEONATO",
+      "What effects, my lord? She will sit you, you heard"
+    ],
+    [
+      "LEONATO",
+      "my daughter tell you how."
+    ],
+    [
+      "CLAUDIO",
+      "She did, indeed."
+    ],
+    [
+      "DON PEDRO",
+      "How, how, pray you? You amaze me: I would have I"
+    ],
+    [
+      "DON PEDRO",
+      "thought her spirit had been invincible against all"
+    ],
+    [
+      "DON PEDRO",
+      "assaults of affection."
+    ],
+    [
+      "LEONATO",
+      "I would have sworn it had, my lord; especially"
+    ],
+    [
+      "LEONATO",
+      "against Benedick."
+    ],
+    [
+      "BENEDICK",
+      "I should think this a gull, but that the"
+    ],
+    [
+      "BENEDICK",
+      "white-bearded fellow speaks it: knavery cannot,"
+    ],
+    [
+      "BENEDICK",
+      "sure, hide himself in such reverence."
+    ],
+    [
+      "CLAUDIO",
+      "He hath ta'en the infection: hold it up."
+    ],
+    [
+      "DON PEDRO",
+      "Hath she made her affection known to Benedick?"
+    ],
+    [
+      "LEONATO",
+      "No; and swears she never will: that's her torment."
+    ],
+    [
+      "CLAUDIO",
+      "'Tis true, indeed; so your daughter says: 'Shall"
+    ],
+    [
+      "CLAUDIO",
+      "I,' says she, 'that have so oft encountered him"
+    ],
+    [
+      "CLAUDIO",
+      "with scorn, write to him that I love him?'"
+    ],
+    [
+      "LEONATO",
+      "This says she now when she is beginning to write to"
+    ],
+    [
+      "LEONATO",
+      "him; for she'll be up twenty times a night, and"
+    ],
+    [
+      "LEONATO",
+      "there will she sit in her smock till she have writ a"
+    ],
+    [
+      "LEONATO",
+      "sheet of paper: my daughter tells us all."
+    ],
+    [
+      "CLAUDIO",
+      "Now you talk of a sheet of paper, I remember a"
+    ],
+    [
+      "CLAUDIO",
+      "pretty jest your daughter told us of."
+    ],
+    [
+      "LEONATO",
+      "O, when she had writ it and was reading it over, she"
+    ],
+    [
+      "LEONATO",
+      "found Benedick and Beatrice between the sheet?"
+    ],
+    [
+      "CLAUDIO",
+      "That."
+    ],
+    [
+      "LEONATO",
+      "O, she tore the letter into a thousand halfpence;"
+    ],
+    [
+      "LEONATO",
+      "railed at herself, that she should be so immodest"
+    ],
+    [
+      "LEONATO",
+      "to write to one that she knew would flout her; 'I"
+    ],
+    [
+      "LEONATO",
+      "measure him,' says she, 'by my own spirit; for I"
+    ],
+    [
+      "LEONATO",
+      "should flout him, if he writ to me; yea, though I"
+    ],
+    [
+      "LEONATO",
+      "love him, I should.'"
+    ],
+    [
+      "CLAUDIO",
+      "Then down upon her knees she falls, weeps, sobs,"
+    ],
+    [
+      "CLAUDIO",
+      "beats her heart, tears her hair, prays, curses; 'O"
+    ],
+    [
+      "CLAUDIO",
+      "sweet Benedick! God give me patience!'"
+    ],
+    [
+      "LEONATO",
+      "She doth indeed; my daughter says so: and the"
+    ],
+    [
+      "LEONATO",
+      "ecstasy hath so much overborne her that my daughter"
+    ],
+    [
+      "LEONATO",
+      "is sometime afeared she will do a desperate outrage"
+    ],
+    [
+      "LEONATO",
+      "to herself: it is very true."
+    ],
+    [
+      "DON PEDRO",
+      "It were good that Benedick knew of it by some"
+    ],
+    [
+      "DON PEDRO",
+      "other, if she will not discover it."
+    ],
+    [
+      "CLAUDIO",
+      "To what end? He would make but a sport of it and"
+    ],
+    [
+      "CLAUDIO",
+      "torment the poor lady worse."
+    ],
+    [
+      "DON PEDRO",
+      "An he should, it were an alms to hang him. She's an"
+    ],
+    [
+      "DON PEDRO",
+      "excellent sweet lady; and, out of all suspicion,"
+    ],
+    [
+      "DON PEDRO",
+      "she is virtuous."
+    ],
+    [
+      "CLAUDIO",
+      "And she is exceeding wise."
+    ],
+    [
+      "DON PEDRO",
+      "In every thing but in loving Benedick."
+    ],
+    [
+      "LEONATO",
+      "O, my lord, wisdom and blood combating in so tender"
+    ],
+    [
+      "LEONATO",
+      "a body, we have ten proofs to one that blood hath"
+    ],
+    [
+      "LEONATO",
+      "the victory. I am sorry for her, as I have just"
+    ],
+    [
+      "LEONATO",
+      "cause, being her uncle and her guardian."
+    ],
+    [
+      "DON PEDRO",
+      "I would she had bestowed this dotage on me: I would"
+    ],
+    [
+      "DON PEDRO",
+      "have daffed all other respects and made her half"
+    ],
+    [
+      "DON PEDRO",
+      "myself. I pray you, tell Benedick of it, and hear"
+    ],
+    [
+      "DON PEDRO",
+      "what a' will say."
+    ],
+    [
+      "LEONATO",
+      "Were it good, think you?"
+    ],
+    [
+      "CLAUDIO",
+      "Hero thinks surely she will die; for she says she"
+    ],
+    [
+      "CLAUDIO",
+      "will die, if he love her not, and she will die, ere"
+    ],
+    [
+      "CLAUDIO",
+      "she make her love known, and she will die, if he woo"
+    ],
+    [
+      "CLAUDIO",
+      "her, rather than she will bate one breath of her"
+    ],
+    [
+      "CLAUDIO",
+      "accustomed crossness."
+    ],
+    [
+      "DON PEDRO",
+      "She doth well: if she should make tender of her"
+    ],
+    [
+      "DON PEDRO",
+      "love, 'tis very possible he'll scorn it; for the"
+    ],
+    [
+      "DON PEDRO",
+      "man, as you know all, hath a contemptible spirit."
+    ],
+    [
+      "CLAUDIO",
+      "He is a very proper man."
+    ],
+    [
+      "DON PEDRO",
+      "He hath indeed a good outward happiness."
+    ],
+    [
+      "CLAUDIO",
+      "Before God! and, in my mind, very wise."
+    ],
+    [
+      "DON PEDRO",
+      "He doth indeed show some sparks that are like wit."
+    ],
+    [
+      "CLAUDIO",
+      "And I take him to be valiant."
+    ],
+    [
+      "DON PEDRO",
+      "As Hector, I assure you: and in the managing of"
+    ],
+    [
+      "DON PEDRO",
+      "quarrels you may say he is wise; for either he"
+    ],
+    [
+      "DON PEDRO",
+      "avoids them with great discretion, or undertakes"
+    ],
+    [
+      "DON PEDRO",
+      "them with a most Christian-like fear."
+    ],
+    [
+      "LEONATO",
+      "If he do fear God, a' must necessarily keep peace:"
+    ],
+    [
+      "LEONATO",
+      "if he break the peace, he ought to enter into a"
+    ],
+    [
+      "LEONATO",
+      "quarrel with fear and trembling."
+    ],
+    [
+      "DON PEDRO",
+      "And so will he do; for the man doth fear God,"
+    ],
+    [
+      "DON PEDRO",
+      "howsoever it seems not in him by some large jests"
+    ],
+    [
+      "DON PEDRO",
+      "he will make. Well I am sorry for your niece. Shall"
+    ],
+    [
+      "DON PEDRO",
+      "we go seek Benedick, and tell him of her love?"
+    ],
+    [
+      "CLAUDIO",
+      "Never tell him, my lord: let her wear it out with"
+    ],
+    [
+      "CLAUDIO",
+      "good counsel."
+    ],
+    [
+      "LEONATO",
+      "Nay, that's impossible: she may wear her heart out first."
+    ],
+    [
+      "DON PEDRO",
+      "Well, we will hear further of it by your daughter:"
+    ],
+    [
+      "DON PEDRO",
+      "let it cool the while. I love Benedick well; and I"
+    ],
+    [
+      "DON PEDRO",
+      "could wish he would modestly examine himself, to see"
+    ],
+    [
+      "DON PEDRO",
+      "how much he is unworthy so good a lady."
+    ],
+    [
+      "LEONATO",
+      "My lord, will you walk? dinner is ready."
+    ],
+    [
+      "CLAUDIO",
+      "If he do not dote on her upon this, I will never"
+    ],
+    [
+      "CLAUDIO",
+      "trust my expectation."
+    ],
+    [
+      "DON PEDRO",
+      "Let there be the same net spread for her; and that"
+    ],
+    [
+      "DON PEDRO",
+      "must your daughter and her gentlewomen carry. The"
+    ],
+    [
+      "DON PEDRO",
+      "sport will be, when they hold one an opinion of"
+    ],
+    [
+      "DON PEDRO",
+      "another's dotage, and no such matter: that's the"
+    ],
+    [
+      "DON PEDRO",
+      "scene that I would see, which will be merely a"
+    ],
+    [
+      "DON PEDRO",
+      "dumb-show. Let us send her to call him in to dinner.",
+      {
+        "following_direction_line": "9"
+      }
+    ],
+    [
+      "BENEDICK",
+      "This can be no trick: the",
+      {
+        "preceding_direction_line": "9"
+      }
+    ],
+    [
+      "BENEDICK",
+      "conference was sadly borne. They have the truth of"
+    ],
+    [
+      "BENEDICK",
+      "this from Hero. They seem to pity the lady: it"
+    ],
+    [
+      "BENEDICK",
+      "seems her affections have their full bent. Love me!"
+    ],
+    [
+      "BENEDICK",
+      "why, it must be requited. I hear how I am censured:"
+    ],
+    [
+      "BENEDICK",
+      "they say I will bear myself proudly, if I perceive"
+    ],
+    [
+      "BENEDICK",
+      "the love come from her; they say too that she will"
+    ],
+    [
+      "BENEDICK",
+      "rather die than give any sign of affection. I did"
+    ],
+    [
+      "BENEDICK",
+      "never think to marry: I must not seem proud: happy"
+    ],
+    [
+      "BENEDICK",
+      "are they that hear their detractions and can put"
+    ],
+    [
+      "BENEDICK",
+      "them to mending. They say the lady is fair; 'tis a"
+    ],
+    [
+      "BENEDICK",
+      "truth, I can bear them witness; and virtuous; 'tis"
+    ],
+    [
+      "BENEDICK",
+      "so, I cannot reprove it; and wise, but for loving"
+    ],
+    [
+      "BENEDICK",
+      "me; by my troth, it is no addition to her wit, nor"
+    ],
+    [
+      "BENEDICK",
+      "no great argument of her folly, for I will be"
+    ],
+    [
+      "BENEDICK",
+      "horribly in love with her. I may chance have some"
+    ],
+    [
+      "BENEDICK",
+      "odd quirks and remnants of wit broken on me,"
+    ],
+    [
+      "BENEDICK",
+      "because I have railed so long against marriage: but"
+    ],
+    [
+      "BENEDICK",
+      "doth not the appetite alter? a man loves the meat"
+    ],
+    [
+      "BENEDICK",
+      "in his youth that he cannot endure in his age."
+    ],
+    [
+      "BENEDICK",
+      "Shall quips and sentences and these paper bullets of"
+    ],
+    [
+      "BENEDICK",
+      "the brain awe a man from the career of his humour?"
+    ],
+    [
+      "BENEDICK",
+      "No, the world must be peopled. When I said I would"
+    ],
+    [
+      "BENEDICK",
+      "die a bachelor, I did not think I should live till I"
+    ],
+    [
+      "BENEDICK",
+      "were married. Here comes Beatrice. By this day!"
+    ],
+    [
+      "BENEDICK",
+      "she's a fair lady: I do spy some marks of love in"
+    ],
+    [
+      "BENEDICK",
+      "her.",
+      {
+        "following_direction_line": "10"
+      }
+    ],
+    [
+      "BEATRICE",
+      "Against my will I am sent to bid you come in to dinner.",
+      {
+        "preceding_direction_line": "10"
+      }
+    ],
+    [
+      "BENEDICK",
+      "Fair Beatrice, I thank you for your pains."
+    ],
+    [
+      "BEATRICE",
+      "I took no more pains for those thanks than you take"
+    ],
+    [
+      "BEATRICE",
+      "pains to thank me: if it had been painful, I would"
+    ],
+    [
+      "BEATRICE",
+      "not have come."
+    ],
+    [
+      "BENEDICK",
+      "You take pleasure then in the message?"
+    ],
+    [
+      "BEATRICE",
+      "Yea, just so much as you may take upon a knife's"
+    ],
+    [
+      "BEATRICE",
+      "point and choke a daw withal. You have no stomach,"
+    ],
+    [
+      "BEATRICE",
+      "signior: fare you well.",
+      {
+        "following_direction_line": "11"
+      }
+    ],
+    [
+      "BENEDICK",
+      "Ha! 'Against my will I am sent to bid you come in",
+      {
+        "preceding_direction_line": "11"
+      }
+    ],
+    [
+      "BENEDICK",
+      "to dinner;' there's a double meaning in that 'I took"
+    ],
+    [
+      "BENEDICK",
+      "no more pains for those thanks than you took pains"
+    ],
+    [
+      "BENEDICK",
+      "to thank me.' that's as much as to say, Any pains"
+    ],
+    [
+      "BENEDICK",
+      "that I take for you is as easy as thanks. If I do"
+    ],
+    [
+      "BENEDICK",
+      "not take pity of her, I am a villain; if I do not"
+    ],
+    [
+      "BENEDICK",
+      "love her, I am a Jew. I will go get her picture.",
+      {
+        "following_direction_line": "12"
+      }
+    ]
+  ],
+  "scene_description": "LEONATO'S orchard.",
+  "scene_id": "much ado about nothing~~Act_2~~Scene_3",
+  "scene_name": "SCENE III",
+  "work_number": "7",
+  "work_type": "PlayScene"
+}

@@ -1,0 +1,829 @@
+{
+    "scene_id": "twelfth night~~Act_1~~Scene_3",
+    "work_number": "6",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "SIR TOBY BELCH",
+            "What a plague means my niece, to take the death of",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "her brother thus? I am sure care's an enemy to life."
+        ],
+        [
+            "MARIA",
+            "By my troth, Sir Toby, you must come in earlier o'"
+        ],
+        [
+            "MARIA",
+            "nights: your cousin, my lady, takes great"
+        ],
+        [
+            "MARIA",
+            "exceptions to your ill hours."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Why, let her except, before excepted."
+        ],
+        [
+            "MARIA",
+            "Ay, but you must confine yourself within the modest"
+        ],
+        [
+            "MARIA",
+            "limits of order."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Confine! I'll confine myself no finer than I am:"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "these clothes are good enough to drink in; and so be"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "these boots too: an they be not, let them hang"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "themselves in their own straps."
+        ],
+        [
+            "MARIA",
+            "That quaffing and drinking will undo you: I heard"
+        ],
+        [
+            "MARIA",
+            "my lady talk of it yesterday; and of a foolish"
+        ],
+        [
+            "MARIA",
+            "knight that you brought in one night here to be her wooer."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Who, Sir Andrew Aguecheek?"
+        ],
+        [
+            "MARIA",
+            "Ay, he."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "He's as tall a man as any's in Illyria."
+        ],
+        [
+            "MARIA",
+            "What's that to the purpose?"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Why, he has three thousand ducats a year."
+        ],
+        [
+            "MARIA",
+            "Ay, but he'll have but a year in all these ducats:"
+        ],
+        [
+            "MARIA",
+            "he's a very fool and a prodigal."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Fie, that you'll say so! he plays o' the"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "viol-de-gamboys, and speaks three or four languages"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "word for word without book, and hath all the good"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "gifts of nature."
+        ],
+        [
+            "MARIA",
+            "He hath indeed, almost natural: for besides that"
+        ],
+        [
+            "MARIA",
+            "he's a fool, he's a great quarreller: and but that"
+        ],
+        [
+            "MARIA",
+            "he hath the gift of a coward to allay the gust he"
+        ],
+        [
+            "MARIA",
+            "hath in quarrelling, 'tis thought among the prudent"
+        ],
+        [
+            "MARIA",
+            "he would quickly have the gift of a grave."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "By this hand, they are scoundrels and subtractors"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "that say so of him. Who are they?"
+        ],
+        [
+            "MARIA",
+            "They that add, moreover, he's drunk nightly in your company."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "With drinking healths to my niece: I'll drink to"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "her as long as there is a passage in my throat and"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "drink in Illyria: he's a coward and a coystrill"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "that will not drink to my niece till his brains turn"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "o' the toe like a parish-top. What, wench!"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Castiliano vulgo! for here comes Sir Andrew Agueface.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "SIR ANDREW",
+            "Sir Toby Belch! how now, Sir Toby Belch!",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Sweet Sir Andrew!"
+        ],
+        [
+            "SIR ANDREW",
+            "Bless you, fair shrew."
+        ],
+        [
+            "MARIA",
+            "And you too, sir."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Accost, Sir Andrew, accost."
+        ],
+        [
+            "SIR ANDREW",
+            "What's that?"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "My niece's chambermaid."
+        ],
+        [
+            "SIR ANDREW",
+            "Good Mistress Accost, I desire better acquaintance."
+        ],
+        [
+            "MARIA",
+            "My name is Mary, sir."
+        ],
+        [
+            "SIR ANDREW",
+            "Good Mistress Mary Accost,--"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "You mistake, knight; 'accost' is front her, board"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "her, woo her, assail her."
+        ],
+        [
+            "SIR ANDREW",
+            "By my troth, I would not undertake her in this"
+        ],
+        [
+            "SIR ANDREW",
+            "company. Is that the meaning of 'accost'?"
+        ],
+        [
+            "MARIA",
+            "Fare you well, gentlemen."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "An thou let part so, Sir Andrew, would thou mightst"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "never draw sword again."
+        ],
+        [
+            "SIR ANDREW",
+            "An you part so, mistress, I would I might never"
+        ],
+        [
+            "SIR ANDREW",
+            "draw sword again. Fair lady, do you think you have"
+        ],
+        [
+            "SIR ANDREW",
+            "fools in hand?"
+        ],
+        [
+            "MARIA",
+            "Sir, I have not you by the hand."
+        ],
+        [
+            "SIR ANDREW",
+            "Marry, but you shall have; and here's my hand."
+        ],
+        [
+            "MARIA",
+            "Now, sir, 'thought is free:' I pray you, bring"
+        ],
+        [
+            "MARIA",
+            "your hand to the buttery-bar and let it drink."
+        ],
+        [
+            "SIR ANDREW",
+            "Wherefore, sweet-heart? what's your metaphor?"
+        ],
+        [
+            "MARIA",
+            "It's dry, sir."
+        ],
+        [
+            "SIR ANDREW",
+            "Why, I think so: I am not such an ass but I can"
+        ],
+        [
+            "SIR ANDREW",
+            "keep my hand dry. But what's your jest?"
+        ],
+        [
+            "MARIA",
+            "A dry jest, sir."
+        ],
+        [
+            "SIR ANDREW",
+            "Are you full of them?"
+        ],
+        [
+            "MARIA",
+            "Ay, sir, I have them at my fingers' ends: marry,"
+        ],
+        [
+            "MARIA",
+            "now I let go your hand, I am barren.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "O knight thou lackest a cup of canary: when did I",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "see thee so put down?"
+        ],
+        [
+            "SIR ANDREW",
+            "Never in your life, I think; unless you see canary"
+        ],
+        [
+            "SIR ANDREW",
+            "put me down. Methinks sometimes I have no more wit"
+        ],
+        [
+            "SIR ANDREW",
+            "than a Christian or an ordinary man has: but I am a"
+        ],
+        [
+            "SIR ANDREW",
+            "great eater of beef and I believe that does harm to my wit."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "No question."
+        ],
+        [
+            "SIR ANDREW",
+            "An I thought that, I'ld forswear it. I'll ride home"
+        ],
+        [
+            "SIR ANDREW",
+            "to-morrow, Sir Toby."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Pourquoi, my dear knight?"
+        ],
+        [
+            "SIR ANDREW",
+            "What is 'Pourquoi'? do or not do? I would I had"
+        ],
+        [
+            "SIR ANDREW",
+            "bestowed that time in the tongues that I have in"
+        ],
+        [
+            "SIR ANDREW",
+            "fencing, dancing and bear-baiting: O, had I but"
+        ],
+        [
+            "SIR ANDREW",
+            "followed the arts!"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Then hadst thou had an excellent head of hair."
+        ],
+        [
+            "SIR ANDREW",
+            "Why, would that have mended my hair?"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Past question; for thou seest it will not curl by nature."
+        ],
+        [
+            "SIR ANDREW",
+            "But it becomes me well enough, does't not?"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Excellent; it hangs like flax on a distaff; and I"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "hope to see a housewife take thee between her legs"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "and spin it off."
+        ],
+        [
+            "SIR ANDREW",
+            "Faith, I'll home to-morrow, Sir Toby: your niece"
+        ],
+        [
+            "SIR ANDREW",
+            "will not be seen; or if she be, it's four to one"
+        ],
+        [
+            "SIR ANDREW",
+            "she'll none of me: the count himself here hard by woos her."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "She'll none o' the count: she'll not match above"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "her degree, neither in estate, years, nor wit; I"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "have heard her swear't. Tut, there's life in't,"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "man."
+        ],
+        [
+            "SIR ANDREW",
+            "I'll stay a month longer. I am a fellow o' the"
+        ],
+        [
+            "SIR ANDREW",
+            "strangest mind i' the world; I delight in masques"
+        ],
+        [
+            "SIR ANDREW",
+            "and revels sometimes altogether."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Art thou good at these kickshawses, knight?"
+        ],
+        [
+            "SIR ANDREW",
+            "As any man in Illyria, whatsoever he be, under the"
+        ],
+        [
+            "SIR ANDREW",
+            "degree of my betters; and yet I will not compare"
+        ],
+        [
+            "SIR ANDREW",
+            "with an old man."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "What is thy excellence in a galliard, knight?"
+        ],
+        [
+            "SIR ANDREW",
+            "Faith, I can cut a caper."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "And I can cut the mutton to't."
+        ],
+        [
+            "SIR ANDREW",
+            "And I think I have the back-trick simply as strong"
+        ],
+        [
+            "SIR ANDREW",
+            "as any man in Illyria."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Wherefore are these things hid? wherefore have"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "these gifts a curtain before 'em? are they like to"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "take dust, like Mistress Mall's picture? why dost"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "thou not go to church in a galliard and come home in"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "a coranto? My very walk should be a jig; I would not"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "so much as make water but in a sink-a-pace. What"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "dost thou mean? Is it a world to hide virtues in?"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "I did think, by the excellent constitution of thy"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "leg, it was formed under the star of a galliard."
+        ],
+        [
+            "SIR ANDREW",
+            "Ay, 'tis strong, and it does indifferent well in a"
+        ],
+        [
+            "SIR ANDREW",
+            "flame-coloured stock. Shall we set about some revels?"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "What shall we do else? were we not born under Taurus?"
+        ],
+        [
+            "SIR ANDREW",
+            "Taurus! That's sides and heart."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "No, sir; it is legs and thighs. Let me see the"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "caper; ha! higher: ha, ha! excellent!",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter SIR TOBY BELCH and MARIA"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter SIR ANDREW"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "SIR TOBY BELCH": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "6",
+                "6"
+            ],
+            [
+                "9",
+                "12"
+            ],
+            [
+                "16",
+                "16"
+            ],
+            [
+                "18",
+                "18"
+            ],
+            [
+                "20",
+                "20"
+            ],
+            [
+                "23",
+                "26"
+            ],
+            [
+                "32",
+                "33"
+            ],
+            [
+                "35",
+                "40"
+            ],
+            [
+                "42",
+                "42"
+            ],
+            [
+                "45",
+                "45"
+            ],
+            [
+                "47",
+                "47"
+            ],
+            [
+                "51",
+                "52"
+            ],
+            [
+                "56",
+                "57"
+            ],
+            [
+                "73",
+                "74"
+            ],
+            [
+                "79",
+                "79"
+            ],
+            [
+                "82",
+                "82"
+            ],
+            [
+                "87",
+                "87"
+            ],
+            [
+                "89",
+                "89"
+            ],
+            [
+                "91",
+                "93"
+            ],
+            [
+                "97",
+                "100"
+            ],
+            [
+                "104",
+                "104"
+            ],
+            [
+                "108",
+                "108"
+            ],
+            [
+                "110",
+                "110"
+            ],
+            [
+                "113",
+                "121"
+            ],
+            [
+                "124",
+                "124"
+            ],
+            [
+                "126",
+                "127"
+            ]
+        ],
+        "MARIA": [
+            [
+                "3",
+                "5"
+            ],
+            [
+                "7",
+                "8"
+            ],
+            [
+                "13",
+                "15"
+            ],
+            [
+                "17",
+                "17"
+            ],
+            [
+                "19",
+                "19"
+            ],
+            [
+                "21",
+                "22"
+            ],
+            [
+                "27",
+                "31"
+            ],
+            [
+                "34",
+                "34"
+            ],
+            [
+                "44",
+                "44"
+            ],
+            [
+                "49",
+                "49"
+            ],
+            [
+                "55",
+                "55"
+            ],
+            [
+                "61",
+                "61"
+            ],
+            [
+                "63",
+                "64"
+            ],
+            [
+                "66",
+                "66"
+            ],
+            [
+                "69",
+                "69"
+            ],
+            [
+                "71",
+                "72"
+            ]
+        ],
+        "SIR ANDREW": [
+            [
+                "41",
+                "41"
+            ],
+            [
+                "43",
+                "43"
+            ],
+            [
+                "46",
+                "46"
+            ],
+            [
+                "48",
+                "48"
+            ],
+            [
+                "50",
+                "50"
+            ],
+            [
+                "53",
+                "54"
+            ],
+            [
+                "58",
+                "60"
+            ],
+            [
+                "62",
+                "62"
+            ],
+            [
+                "65",
+                "65"
+            ],
+            [
+                "67",
+                "68"
+            ],
+            [
+                "70",
+                "70"
+            ],
+            [
+                "75",
+                "78"
+            ],
+            [
+                "80",
+                "81"
+            ],
+            [
+                "83",
+                "86"
+            ],
+            [
+                "88",
+                "88"
+            ],
+            [
+                "90",
+                "90"
+            ],
+            [
+                "94",
+                "96"
+            ],
+            [
+                "101",
+                "103"
+            ],
+            [
+                "105",
+                "107"
+            ],
+            [
+                "109",
+                "109"
+            ],
+            [
+                "111",
+                "112"
+            ],
+            [
+                "122",
+                "123"
+            ],
+            [
+                "125",
+                "125"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "OLIVIA'S house."
+}

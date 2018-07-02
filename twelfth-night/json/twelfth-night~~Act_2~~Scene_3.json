@@ -1,0 +1,1165 @@
+{
+    "scene_id": "twelfth night~~Act_2~~Scene_3",
+    "work_number": "6",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "SIR TOBY BELCH",
+            "Approach, Sir Andrew: not to be abed after",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "midnight is to be up betimes; and 'diluculo"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "surgere,' thou know'st,--"
+        ],
+        [
+            "SIR ANDREW",
+            "Nay, my troth, I know not: but I know, to be up"
+        ],
+        [
+            "SIR ANDREW",
+            "late is to be up late."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "A false conclusion: I hate it as an unfilled can."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "To be up after midnight and to go to bed then, is"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "early: so that to go to bed after midnight is to go"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "to bed betimes. Does not our life consist of the"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "four elements?"
+        ],
+        [
+            "SIR ANDREW",
+            "Faith, so they say; but I think it rather consists"
+        ],
+        [
+            "SIR ANDREW",
+            "of eating and drinking."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Thou'rt a scholar; let us therefore eat and drink."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Marian, I say! a stoup of wine!",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "SIR ANDREW",
+            "Here comes the fool, i' faith.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "Clown",
+            "How now, my hearts! did you never see the picture"
+        ],
+        [
+            "Clown",
+            "of 'we three'?"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Welcome, ass. Now let's have a catch."
+        ],
+        [
+            "SIR ANDREW",
+            "By my troth, the fool has an excellent breast. I"
+        ],
+        [
+            "SIR ANDREW",
+            "had rather than forty shillings I had such a leg,"
+        ],
+        [
+            "SIR ANDREW",
+            "and so sweet a breath to sing, as the fool has. In"
+        ],
+        [
+            "SIR ANDREW",
+            "sooth, thou wast in very gracious fooling last"
+        ],
+        [
+            "SIR ANDREW",
+            "night, when thou spokest of Pigrogromitus, of the"
+        ],
+        [
+            "SIR ANDREW",
+            "Vapians passing the equinoctial of Queubus: 'twas"
+        ],
+        [
+            "SIR ANDREW",
+            "very good, i' faith. I sent thee sixpence for thy"
+        ],
+        [
+            "SIR ANDREW",
+            "leman: hadst it?"
+        ],
+        [
+            "Clown",
+            "I did impeticos thy gratillity; for Malvolio's nose"
+        ],
+        [
+            "Clown",
+            "is no whipstock: my lady has a white hand, and the"
+        ],
+        [
+            "Clown",
+            "Myrmidons are no bottle-ale houses."
+        ],
+        [
+            "SIR ANDREW",
+            "Excellent! why, this is the best fooling, when all"
+        ],
+        [
+            "SIR ANDREW",
+            "is done. Now, a song."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Come on; there is sixpence for you: let's have a song."
+        ],
+        [
+            "SIR ANDREW",
+            "There's a testril of me too: if one knight give a--"
+        ],
+        [
+            "Clown",
+            "Would you have a love-song, or a song of good life?"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "A love-song, a love-song."
+        ],
+        [
+            "SIR ANDREW",
+            "Ay, ay: I care not for good life."
+        ],
+        [
+            "Clown",
+            "[Sings]"
+        ],
+        [
+            "Clown",
+            "O mistress mine, where are you roaming?"
+        ],
+        [
+            "Clown",
+            "O, stay and hear; your true love's coming,"
+        ],
+        [
+            "Clown",
+            "That can sing both high and low:"
+        ],
+        [
+            "Clown",
+            "Trip no further, pretty sweeting;"
+        ],
+        [
+            "Clown",
+            "Journeys end in lovers meeting,"
+        ],
+        [
+            "Clown",
+            "Every wise man's son doth know."
+        ],
+        [
+            "SIR ANDREW",
+            "Excellent good, i' faith."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Good, good."
+        ],
+        [
+            "Clown",
+            "[Sings]"
+        ],
+        [
+            "Clown",
+            "What is love? 'tis not hereafter;"
+        ],
+        [
+            "Clown",
+            "Present mirth hath present laughter;"
+        ],
+        [
+            "Clown",
+            "What's to come is still unsure:"
+        ],
+        [
+            "Clown",
+            "In delay there lies no plenty;"
+        ],
+        [
+            "Clown",
+            "Then come kiss me, sweet and twenty,"
+        ],
+        [
+            "Clown",
+            "Youth's a stuff will not endure."
+        ],
+        [
+            "SIR ANDREW",
+            "A mellifluous voice, as I am true knight."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "A contagious breath."
+        ],
+        [
+            "SIR ANDREW",
+            "Very sweet and contagious, i' faith."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "To hear by the nose, it is dulcet in contagion."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "But shall we make the welkin dance indeed? shall we"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "rouse the night-owl in a catch that will draw three"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "souls out of one weaver? shall we do that?"
+        ],
+        [
+            "SIR ANDREW",
+            "An you love me, let's do't: I am dog at a catch."
+        ],
+        [
+            "Clown",
+            "By'r lady, sir, and some dogs will catch well."
+        ],
+        [
+            "SIR ANDREW",
+            "Most certain. Let our catch be, 'Thou knave.'"
+        ],
+        [
+            "Clown",
+            "'Hold thy peace, thou knave,' knight? I shall be"
+        ],
+        [
+            "Clown",
+            "constrained in't to call thee knave, knight."
+        ],
+        [
+            "SIR ANDREW",
+            "'Tis not the first time I have constrained one to"
+        ],
+        [
+            "SIR ANDREW",
+            "call me knave. Begin, fool: it begins 'Hold thy peace.'"
+        ],
+        [
+            "Clown",
+            "I shall never begin if I hold my peace."
+        ],
+        [
+            "SIR ANDREW",
+            "Good, i' faith. Come, begin.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "MARIA",
+            "What a caterwauling do you keep here! If my lady",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "MARIA",
+            "have not called up her steward Malvolio and bid him"
+        ],
+        [
+            "MARIA",
+            "turn you out of doors, never trust me."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "My lady's a Cataian, we are politicians, Malvolio's"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "a Peg-a-Ramsey, and 'Three merry men be we.' Am not"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "I consanguineous? am I not of her blood?"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Tillyvally. Lady!",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "'There dwelt a man in Babylon, lady, lady!'",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "Clown",
+            "Beshrew me, the knight's in admirable fooling."
+        ],
+        [
+            "SIR ANDREW",
+            "Ay, he does well enough if he be disposed, and so do"
+        ],
+        [
+            "SIR ANDREW",
+            "I too: he does it with a better grace, but I do it"
+        ],
+        [
+            "SIR ANDREW",
+            "more natural."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "[Sings] 'O, the twelfth day of December,'--"
+        ],
+        [
+            "MARIA",
+            "For the love o' God, peace!",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "MALVOLIO",
+            "My masters, are you mad? or what are you? Have ye",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "MALVOLIO",
+            "no wit, manners, nor honesty, but to gabble like"
+        ],
+        [
+            "MALVOLIO",
+            "tinkers at this time of night? Do ye make an"
+        ],
+        [
+            "MALVOLIO",
+            "alehouse of my lady's house, that ye squeak out your"
+        ],
+        [
+            "MALVOLIO",
+            "coziers' catches without any mitigation or remorse"
+        ],
+        [
+            "MALVOLIO",
+            "of voice? Is there no respect of place, persons, nor"
+        ],
+        [
+            "MALVOLIO",
+            "time in you?"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "We did keep time, sir, in our catches. Sneck up!"
+        ],
+        [
+            "MALVOLIO",
+            "Sir Toby, I must be round with you. My lady bade me"
+        ],
+        [
+            "MALVOLIO",
+            "tell you, that, though she harbours you as her"
+        ],
+        [
+            "MALVOLIO",
+            "kinsman, she's nothing allied to your disorders. If"
+        ],
+        [
+            "MALVOLIO",
+            "you can separate yourself and your misdemeanors, you"
+        ],
+        [
+            "MALVOLIO",
+            "are welcome to the house; if not, an it would please"
+        ],
+        [
+            "MALVOLIO",
+            "you to take leave of her, she is very willing to bid"
+        ],
+        [
+            "MALVOLIO",
+            "you farewell."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "'Farewell, dear heart, since I must needs be gone.'"
+        ],
+        [
+            "MARIA",
+            "Nay, good Sir Toby."
+        ],
+        [
+            "Clown",
+            "'His eyes do show his days are almost done.'"
+        ],
+        [
+            "MALVOLIO",
+            "Is't even so?"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "'But I will never die.'"
+        ],
+        [
+            "Clown",
+            "Sir Toby, there you lie."
+        ],
+        [
+            "MALVOLIO",
+            "This is much credit to you."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "'Shall I bid him go?'"
+        ],
+        [
+            "Clown",
+            "'What an if you do?'"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "'Shall I bid him go, and spare not?'"
+        ],
+        [
+            "Clown",
+            "'O no, no, no, no, you dare not.'"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Out o' tune, sir: ye lie. Art any more than a"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "steward? Dost thou think, because thou art"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "virtuous, there shall be no more cakes and ale?"
+        ],
+        [
+            "Clown",
+            "Yes, by Saint Anne, and ginger shall be hot i' the"
+        ],
+        [
+            "Clown",
+            "mouth too."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Thou'rt i' the right. Go, sir, rub your chain with"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "crumbs. A stoup of wine, Maria!"
+        ],
+        [
+            "MALVOLIO",
+            "Mistress Mary, if you prized my lady's favour at any"
+        ],
+        [
+            "MALVOLIO",
+            "thing more than contempt, you would not give means"
+        ],
+        [
+            "MALVOLIO",
+            "for this uncivil rule: she shall know of it, by this hand.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "MARIA",
+            "Go shake your ears.",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "SIR ANDREW",
+            "'Twere as good a deed as to drink when a man's"
+        ],
+        [
+            "SIR ANDREW",
+            "a-hungry, to challenge him the field, and then to"
+        ],
+        [
+            "SIR ANDREW",
+            "break promise with him and make a fool of him."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Do't, knight: I'll write thee a challenge: or I'll"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "deliver thy indignation to him by word of mouth."
+        ],
+        [
+            "MARIA",
+            "Sweet Sir Toby, be patient for tonight: since the"
+        ],
+        [
+            "MARIA",
+            "youth of the count's was today with thy lady, she is"
+        ],
+        [
+            "MARIA",
+            "much out of quiet. For Monsieur Malvolio, let me"
+        ],
+        [
+            "MARIA",
+            "alone with him: if I do not gull him into a"
+        ],
+        [
+            "MARIA",
+            "nayword, and make him a common recreation, do not"
+        ],
+        [
+            "MARIA",
+            "think I have wit enough to lie straight in my bed:"
+        ],
+        [
+            "MARIA",
+            "I know I can do it."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Possess us, possess us; tell us something of him."
+        ],
+        [
+            "MARIA",
+            "Marry, sir, sometimes he is a kind of puritan."
+        ],
+        [
+            "SIR ANDREW",
+            "O, if I thought that I'ld beat him like a dog!"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "What, for being a puritan? thy exquisite reason,"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "dear knight?"
+        ],
+        [
+            "SIR ANDREW",
+            "I have no exquisite reason for't, but I have reason"
+        ],
+        [
+            "SIR ANDREW",
+            "good enough."
+        ],
+        [
+            "MARIA",
+            "The devil a puritan that he is, or any thing"
+        ],
+        [
+            "MARIA",
+            "constantly, but a time-pleaser; an affectioned ass,"
+        ],
+        [
+            "MARIA",
+            "that cons state without book and utters it by great"
+        ],
+        [
+            "MARIA",
+            "swarths: the best persuaded of himself, so"
+        ],
+        [
+            "MARIA",
+            "crammed, as he thinks, with excellencies, that it is"
+        ],
+        [
+            "MARIA",
+            "his grounds of faith that all that look on him love"
+        ],
+        [
+            "MARIA",
+            "him; and on that vice in him will my revenge find"
+        ],
+        [
+            "MARIA",
+            "notable cause to work."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "What wilt thou do?"
+        ],
+        [
+            "MARIA",
+            "I will drop in his way some obscure epistles of"
+        ],
+        [
+            "MARIA",
+            "love; wherein, by the colour of his beard, the shape"
+        ],
+        [
+            "MARIA",
+            "of his leg, the manner of his gait, the expressure"
+        ],
+        [
+            "MARIA",
+            "of his eye, forehead, and complexion, he shall find"
+        ],
+        [
+            "MARIA",
+            "himself most feelingly personated. I can write very"
+        ],
+        [
+            "MARIA",
+            "like my lady your niece: on a forgotten matter we"
+        ],
+        [
+            "MARIA",
+            "can hardly make distinction of our hands."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Excellent! I smell a device."
+        ],
+        [
+            "SIR ANDREW",
+            "I have't in my nose too."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "He shall think, by the letters that thou wilt drop,"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "that they come from my niece, and that she's in"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "love with him."
+        ],
+        [
+            "MARIA",
+            "My purpose is, indeed, a horse of that colour."
+        ],
+        [
+            "SIR ANDREW",
+            "And your horse now would make him an ass."
+        ],
+        [
+            "MARIA",
+            "Ass, I doubt not."
+        ],
+        [
+            "SIR ANDREW",
+            "O, 'twill be admirable!"
+        ],
+        [
+            "MARIA",
+            "Sport royal, I warrant you: I know my physic will"
+        ],
+        [
+            "MARIA",
+            "work with him. I will plant you two, and let the"
+        ],
+        [
+            "MARIA",
+            "fool make a third, where he shall find the letter:"
+        ],
+        [
+            "MARIA",
+            "observe his construction of it. For this night, to"
+        ],
+        [
+            "MARIA",
+            "bed, and dream on the event. Farewell.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Good night, Penthesilea.",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "SIR ANDREW",
+            "Before me, she's a good wench."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "She's a beagle, true-bred, and one that adores me:"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "what o' that?"
+        ],
+        [
+            "SIR ANDREW",
+            "I was adored once too."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Let's to bed, knight. Thou hadst need send for"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "more money."
+        ],
+        [
+            "SIR ANDREW",
+            "If I cannot recover your niece, I am a foul way out."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Send for money, knight: if thou hast her not i'"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "the end, call me cut."
+        ],
+        [
+            "SIR ANDREW",
+            "If I do not, never trust me, take it how you will."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Come, come, I'll go burn some sack; 'tis too late"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "to go to bed now: come, knight; come, knight.",
+            {
+                "following_direction_line": "8"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter SIR TOBY BELCH and SIR ANDREW"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter Clown"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Catch sung. Enter MARIA"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Sings"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Enter MALVOLIO"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "SIR TOBY BELCH": [
+            [
+                "1",
+                "3"
+            ],
+            [
+                "6",
+                "10"
+            ],
+            [
+                "13",
+                "14"
+            ],
+            [
+                "18",
+                "18"
+            ],
+            [
+                "32",
+                "32"
+            ],
+            [
+                "35",
+                "35"
+            ],
+            [
+                "45",
+                "45"
+            ],
+            [
+                "54",
+                "54"
+            ],
+            [
+                "56",
+                "59"
+            ],
+            [
+                "72",
+                "76"
+            ],
+            [
+                "81",
+                "81"
+            ],
+            [
+                "90",
+                "90"
+            ],
+            [
+                "98",
+                "98"
+            ],
+            [
+                "102",
+                "102"
+            ],
+            [
+                "105",
+                "105"
+            ],
+            [
+                "107",
+                "107"
+            ],
+            [
+                "109",
+                "111"
+            ],
+            [
+                "114",
+                "115"
+            ],
+            [
+                "123",
+                "124"
+            ],
+            [
+                "132",
+                "132"
+            ],
+            [
+                "135",
+                "136"
+            ],
+            [
+                "147",
+                "147"
+            ],
+            [
+                "155",
+                "155"
+            ],
+            [
+                "157",
+                "159"
+            ],
+            [
+                "169",
+                "169"
+            ],
+            [
+                "171",
+                "172"
+            ],
+            [
+                "174",
+                "175"
+            ],
+            [
+                "177",
+                "178"
+            ],
+            [
+                "180",
+                "181"
+            ]
+        ],
+        "SIR ANDREW": [
+            [
+                "4",
+                "5"
+            ],
+            [
+                "11",
+                "12"
+            ],
+            [
+                "15",
+                "15"
+            ],
+            [
+                "19",
+                "26"
+            ],
+            [
+                "30",
+                "31"
+            ],
+            [
+                "33",
+                "33"
+            ],
+            [
+                "36",
+                "36"
+            ],
+            [
+                "44",
+                "44"
+            ],
+            [
+                "53",
+                "53"
+            ],
+            [
+                "55",
+                "55"
+            ],
+            [
+                "60",
+                "60"
+            ],
+            [
+                "62",
+                "62"
+            ],
+            [
+                "65",
+                "66"
+            ],
+            [
+                "68",
+                "68"
+            ],
+            [
+                "78",
+                "80"
+            ],
+            [
+                "120",
+                "122"
+            ],
+            [
+                "134",
+                "134"
+            ],
+            [
+                "137",
+                "138"
+            ],
+            [
+                "156",
+                "156"
+            ],
+            [
+                "161",
+                "161"
+            ],
+            [
+                "163",
+                "163"
+            ],
+            [
+                "170",
+                "170"
+            ],
+            [
+                "173",
+                "173"
+            ],
+            [
+                "176",
+                "176"
+            ],
+            [
+                "179",
+                "179"
+            ]
+        ],
+        "Clown": [
+            [
+                "16",
+                "17"
+            ],
+            [
+                "27",
+                "29"
+            ],
+            [
+                "34",
+                "34"
+            ],
+            [
+                "37",
+                "43"
+            ],
+            [
+                "46",
+                "52"
+            ],
+            [
+                "61",
+                "61"
+            ],
+            [
+                "63",
+                "64"
+            ],
+            [
+                "67",
+                "67"
+            ],
+            [
+                "77",
+                "77"
+            ],
+            [
+                "100",
+                "100"
+            ],
+            [
+                "103",
+                "103"
+            ],
+            [
+                "106",
+                "106"
+            ],
+            [
+                "108",
+                "108"
+            ],
+            [
+                "112",
+                "113"
+            ]
+        ],
+        "MARIA": [
+            [
+                "69",
+                "71"
+            ],
+            [
+                "82",
+                "82"
+            ],
+            [
+                "99",
+                "99"
+            ],
+            [
+                "119",
+                "119"
+            ],
+            [
+                "125",
+                "131"
+            ],
+            [
+                "133",
+                "133"
+            ],
+            [
+                "139",
+                "146"
+            ],
+            [
+                "148",
+                "154"
+            ],
+            [
+                "160",
+                "160"
+            ],
+            [
+                "162",
+                "162"
+            ],
+            [
+                "164",
+                "168"
+            ]
+        ],
+        "MALVOLIO": [
+            [
+                "83",
+                "89"
+            ],
+            [
+                "91",
+                "97"
+            ],
+            [
+                "101",
+                "101"
+            ],
+            [
+                "104",
+                "104"
+            ],
+            [
+                "116",
+                "118"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "OLIVIA's house."
+}

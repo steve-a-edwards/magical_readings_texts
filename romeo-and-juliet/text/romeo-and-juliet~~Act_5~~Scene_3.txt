@@ -27,7 +27,7 @@ What cursed foot wanders this way to-night,
 To cross my obsequies and true love's rite?
 What with a torch! muffle me, night, awhile.
 _D_Retires
-_D_Enter ROMEO and BALTHASAR, with a torch, mattock, and c
+_D_Enter ROMEO and BALTHASAR, with a torch, mattock
 _R_ROMEO
 Give me that mattock and the wrenching iron.
 Hold, take this letter; early in the morning
@@ -418,4 +418,3 @@ Some shall be pardon'd, and some punished:
 For never was a story of more woe
 Than this of Juliet and her Romeo.
 _D_Exeunt
-

@@ -51,6 +51,21 @@
       ]
     ]
   ],
+  "prosody_roles": {
+    "FRIAR LAURENCE": {
+      "pitch": "-25%",
+      "volume": "medium"
+    },
+    "JULIET": {
+      "pitch": "+20%",
+      "volume": "medium"
+    },
+    "ROMEO": {
+      "pitch": "-15%",
+      "volume": "medium"
+    }
+  },
   "work_name": "romeo and juliet",
+  "work_number": "1",
   "work_type": "Play"
 }

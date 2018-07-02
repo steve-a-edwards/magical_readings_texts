@@ -1,0 +1,772 @@
+{
+    "scene_id": "twelfth night~~Act_2~~Scene_4",
+    "work_number": "6",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "DUKE ORSINO",
+            "Give me some music. Now, good morrow, friends.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "DUKE ORSINO",
+            "Now, good Cesario, but that piece of song,"
+        ],
+        [
+            "DUKE ORSINO",
+            "That old and antique song we heard last night:"
+        ],
+        [
+            "DUKE ORSINO",
+            "Methought it did relieve my passion much,"
+        ],
+        [
+            "DUKE ORSINO",
+            "More than light airs and recollected terms"
+        ],
+        [
+            "DUKE ORSINO",
+            "Of these most brisk and giddy-paced times:"
+        ],
+        [
+            "DUKE ORSINO",
+            "Come, but one verse."
+        ],
+        [
+            "CURIO",
+            "He is not here, so please your lordship that should sing it."
+        ],
+        [
+            "DUKE ORSINO",
+            "Who was it?"
+        ],
+        [
+            "CURIO",
+            "Feste, the jester, my lord; a fool that the lady"
+        ],
+        [
+            "CURIO",
+            "Olivia's father took much delight in. He is about the house."
+        ],
+        [
+            "DUKE ORSINO",
+            "Seek him out, and play the tune the while.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "DUKE ORSINO",
+            "Come hither, boy: if ever thou shalt love,",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "DUKE ORSINO",
+            "In the sweet pangs of it remember me;"
+        ],
+        [
+            "DUKE ORSINO",
+            "For such as I am all true lovers are,"
+        ],
+        [
+            "DUKE ORSINO",
+            "Unstaid and skittish in all motions else,"
+        ],
+        [
+            "DUKE ORSINO",
+            "Save in the constant image of the creature"
+        ],
+        [
+            "DUKE ORSINO",
+            "That is beloved. How dost thou like this tune?"
+        ],
+        [
+            "VIOLA",
+            "It gives a very echo to the seat"
+        ],
+        [
+            "VIOLA",
+            "Where Love is throned."
+        ],
+        [
+            "DUKE ORSINO",
+            "Thou dost speak masterly:"
+        ],
+        [
+            "DUKE ORSINO",
+            "My life upon't, young though thou art, thine eye"
+        ],
+        [
+            "DUKE ORSINO",
+            "Hath stay'd upon some favour that it loves:"
+        ],
+        [
+            "DUKE ORSINO",
+            "Hath it not, boy?"
+        ],
+        [
+            "VIOLA",
+            "A little, by your favour."
+        ],
+        [
+            "DUKE ORSINO",
+            "What kind of woman is't?"
+        ],
+        [
+            "VIOLA",
+            "Of your complexion."
+        ],
+        [
+            "DUKE ORSINO",
+            "She is not worth thee, then. What years, i' faith?"
+        ],
+        [
+            "VIOLA",
+            "About your years, my lord."
+        ],
+        [
+            "DUKE ORSINO",
+            "Too old by heaven: let still the woman take"
+        ],
+        [
+            "DUKE ORSINO",
+            "An elder than herself: so wears she to him,"
+        ],
+        [
+            "DUKE ORSINO",
+            "So sways she level in her husband's heart:"
+        ],
+        [
+            "DUKE ORSINO",
+            "For, boy, however we do praise ourselves,"
+        ],
+        [
+            "DUKE ORSINO",
+            "Our fancies are more giddy and unfirm,"
+        ],
+        [
+            "DUKE ORSINO",
+            "More longing, wavering, sooner lost and worn,"
+        ],
+        [
+            "DUKE ORSINO",
+            "Than women's are."
+        ],
+        [
+            "VIOLA",
+            "I think it well, my lord."
+        ],
+        [
+            "DUKE ORSINO",
+            "Then let thy love be younger than thyself,"
+        ],
+        [
+            "DUKE ORSINO",
+            "Or thy affection cannot hold the bent;"
+        ],
+        [
+            "DUKE ORSINO",
+            "For women are as roses, whose fair flower"
+        ],
+        [
+            "DUKE ORSINO",
+            "Being once display'd, doth fall that very hour."
+        ],
+        [
+            "VIOLA",
+            "And so they are: alas, that they are so;"
+        ],
+        [
+            "VIOLA",
+            "To die, even when they to perfection grow!",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "DUKE ORSINO",
+            "O, fellow, come, the song we had last night.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "DUKE ORSINO",
+            "Mark it, Cesario, it is old and plain;"
+        ],
+        [
+            "DUKE ORSINO",
+            "The spinsters and the knitters in the sun"
+        ],
+        [
+            "DUKE ORSINO",
+            "And the free maids that weave their thread with bones"
+        ],
+        [
+            "DUKE ORSINO",
+            "Do use to chant it: it is silly sooth,"
+        ],
+        [
+            "DUKE ORSINO",
+            "And dallies with the innocence of love,"
+        ],
+        [
+            "DUKE ORSINO",
+            "Like the old age."
+        ],
+        [
+            "Clown",
+            "Are you ready, sir?"
+        ],
+        [
+            "DUKE ORSINO",
+            "Ay; prithee, sing.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "DUKE ORSINO",
+            "SONG.",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "Clown",
+            "Come away, come away, death,"
+        ],
+        [
+            "Clown",
+            "And in sad cypress let me be laid;"
+        ],
+        [
+            "Clown",
+            "Fly away, fly away breath;"
+        ],
+        [
+            "Clown",
+            "I am slain by a fair cruel maid."
+        ],
+        [
+            "Clown",
+            "My shroud of white, stuck all with yew,"
+        ],
+        [
+            "Clown",
+            "O, prepare it!"
+        ],
+        [
+            "Clown",
+            "My part of death, no one so true"
+        ],
+        [
+            "Clown",
+            "Did share it."
+        ],
+        [
+            "Clown",
+            "Not a flower, not a flower sweet"
+        ],
+        [
+            "Clown",
+            "On my black coffin let there be strown;"
+        ],
+        [
+            "Clown",
+            "Not a friend, not a friend greet"
+        ],
+        [
+            "Clown",
+            "My poor corpse, where my bones shall be thrown:"
+        ],
+        [
+            "Clown",
+            "A thousand thousand sighs to save,"
+        ],
+        [
+            "Clown",
+            "Lay me, O, where"
+        ],
+        [
+            "Clown",
+            "Sad true lover never find my grave,"
+        ],
+        [
+            "Clown",
+            "To weep there!"
+        ],
+        [
+            "DUKE ORSINO",
+            "There's for thy pains."
+        ],
+        [
+            "Clown",
+            "No pains, sir: I take pleasure in singing, sir."
+        ],
+        [
+            "DUKE ORSINO",
+            "I'll pay thy pleasure then."
+        ],
+        [
+            "Clown",
+            "Truly, sir, and pleasure will be paid, one time or another."
+        ],
+        [
+            "DUKE ORSINO",
+            "Give me now leave to leave thee."
+        ],
+        [
+            "Clown",
+            "Now, the melancholy god protect thee; and the"
+        ],
+        [
+            "Clown",
+            "tailor make thy doublet of changeable taffeta, for"
+        ],
+        [
+            "Clown",
+            "thy mind is a very opal. I would have men of such"
+        ],
+        [
+            "Clown",
+            "constancy put to sea, that their business might be"
+        ],
+        [
+            "Clown",
+            "every thing and their intent every where; for that's"
+        ],
+        [
+            "Clown",
+            "it that always makes a good voyage of nothing. Farewell.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "DUKE ORSINO",
+            "Let all the rest give place.",
+            {
+                "preceding_direction_line": "5"
+            },
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "DUKE ORSINO",
+            "Once more, Cesario,",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "DUKE ORSINO",
+            "Get thee to yond same sovereign cruelty:"
+        ],
+        [
+            "DUKE ORSINO",
+            "Tell her, my love, more noble than the world,"
+        ],
+        [
+            "DUKE ORSINO",
+            "Prizes not quantity of dirty lands;"
+        ],
+        [
+            "DUKE ORSINO",
+            "The parts that fortune hath bestow'd upon her,"
+        ],
+        [
+            "DUKE ORSINO",
+            "Tell her, I hold as giddily as fortune;"
+        ],
+        [
+            "DUKE ORSINO",
+            "But 'tis that miracle and queen of gems"
+        ],
+        [
+            "DUKE ORSINO",
+            "That nature pranks her in attracts my soul."
+        ],
+        [
+            "VIOLA",
+            "But if she cannot love you, sir?"
+        ],
+        [
+            "DUKE ORSINO",
+            "I cannot be so answer'd."
+        ],
+        [
+            "VIOLA",
+            "Sooth, but you must."
+        ],
+        [
+            "VIOLA",
+            "Say that some lady, as perhaps there is,"
+        ],
+        [
+            "VIOLA",
+            "Hath for your love a great a pang of heart"
+        ],
+        [
+            "VIOLA",
+            "As you have for Olivia: you cannot love her;"
+        ],
+        [
+            "VIOLA",
+            "You tell her so; must she not then be answer'd?"
+        ],
+        [
+            "DUKE ORSINO",
+            "There is no woman's sides"
+        ],
+        [
+            "DUKE ORSINO",
+            "Can bide the beating of so strong a passion"
+        ],
+        [
+            "DUKE ORSINO",
+            "As love doth give my heart; no woman's heart"
+        ],
+        [
+            "DUKE ORSINO",
+            "So big, to hold so much; they lack retention"
+        ],
+        [
+            "DUKE ORSINO",
+            "Alas, their love may be call'd appetite,"
+        ],
+        [
+            "DUKE ORSINO",
+            "No motion of the liver, but the palate,"
+        ],
+        [
+            "DUKE ORSINO",
+            "That suffer surfeit, cloyment and revolt;"
+        ],
+        [
+            "DUKE ORSINO",
+            "But mine is all as hungry as the sea,"
+        ],
+        [
+            "DUKE ORSINO",
+            "And can digest as much: make no compare"
+        ],
+        [
+            "DUKE ORSINO",
+            "Between that love a woman can bear me"
+        ],
+        [
+            "DUKE ORSINO",
+            "And that I owe Olivia."
+        ],
+        [
+            "VIOLA",
+            "Ay, but I know--"
+        ],
+        [
+            "DUKE ORSINO",
+            "What dost thou know?"
+        ],
+        [
+            "VIOLA",
+            "Too well what love women to men may owe:"
+        ],
+        [
+            "VIOLA",
+            "In faith, they are as true of heart as we."
+        ],
+        [
+            "VIOLA",
+            "My father had a daughter loved a man,"
+        ],
+        [
+            "VIOLA",
+            "As it might be, perhaps, were I a woman,"
+        ],
+        [
+            "VIOLA",
+            "I should your lordship."
+        ],
+        [
+            "DUKE ORSINO",
+            "And what's her history?"
+        ],
+        [
+            "VIOLA",
+            "A blank, my lord. She never told her love,"
+        ],
+        [
+            "VIOLA",
+            "But let concealment, like a worm i' the bud,"
+        ],
+        [
+            "VIOLA",
+            "Feed on her damask cheek: she pined in thought,"
+        ],
+        [
+            "VIOLA",
+            "And with a green and yellow melancholy"
+        ],
+        [
+            "VIOLA",
+            "She sat like patience on a monument,"
+        ],
+        [
+            "VIOLA",
+            "Smiling at grief. Was not this love indeed?"
+        ],
+        [
+            "VIOLA",
+            "We men may say more, swear more: but indeed"
+        ],
+        [
+            "VIOLA",
+            "Our shows are more than will; for still we prove"
+        ],
+        [
+            "VIOLA",
+            "Much in our vows, but little in our love."
+        ],
+        [
+            "DUKE ORSINO",
+            "But died thy sister of her love, my boy?"
+        ],
+        [
+            "VIOLA",
+            "I am all the daughters of my father's house,"
+        ],
+        [
+            "VIOLA",
+            "And all the brothers too: and yet I know not."
+        ],
+        [
+            "VIOLA",
+            "Sir, shall I to this lady?"
+        ],
+        [
+            "DUKE ORSINO",
+            "Ay, that's the theme."
+        ],
+        [
+            "DUKE ORSINO",
+            "To her in haste; give her this jewel; say,"
+        ],
+        [
+            "DUKE ORSINO",
+            "My love can give no place, bide no denay.",
+            {
+                "following_direction_line": "7"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter DUKE ORSINO, VIOLA, CURIO, and others"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit CURIO. Music plays"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Re-enter CURIO and Clown"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Music"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "CURIO and Attendants retire"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "DUKE ORSINO": [
+            [
+                "1",
+                "7"
+            ],
+            [
+                "9",
+                "9"
+            ],
+            [
+                "12",
+                "18"
+            ],
+            [
+                "21",
+                "24"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "28",
+                "28"
+            ],
+            [
+                "30",
+                "36"
+            ],
+            [
+                "38",
+                "41"
+            ],
+            [
+                "44",
+                "50"
+            ],
+            [
+                "52",
+                "53"
+            ],
+            [
+                "70",
+                "70"
+            ],
+            [
+                "72",
+                "72"
+            ],
+            [
+                "74",
+                "74"
+            ],
+            [
+                "81",
+                "89"
+            ],
+            [
+                "91",
+                "91"
+            ],
+            [
+                "97",
+                "107"
+            ],
+            [
+                "109",
+                "109"
+            ],
+            [
+                "115",
+                "115"
+            ],
+            [
+                "125",
+                "125"
+            ],
+            [
+                "129",
+                "131"
+            ]
+        ],
+        "CURIO": [
+            [
+                "8",
+                "8"
+            ],
+            [
+                "10",
+                "11"
+            ]
+        ],
+        "VIOLA": [
+            [
+                "19",
+                "20"
+            ],
+            [
+                "25",
+                "25"
+            ],
+            [
+                "27",
+                "27"
+            ],
+            [
+                "29",
+                "29"
+            ],
+            [
+                "37",
+                "37"
+            ],
+            [
+                "42",
+                "43"
+            ],
+            [
+                "90",
+                "90"
+            ],
+            [
+                "92",
+                "96"
+            ],
+            [
+                "108",
+                "108"
+            ],
+            [
+                "110",
+                "114"
+            ],
+            [
+                "116",
+                "124"
+            ],
+            [
+                "126",
+                "128"
+            ]
+        ],
+        "Clown": [
+            [
+                "51",
+                "51"
+            ],
+            [
+                "54",
+                "69"
+            ],
+            [
+                "71",
+                "71"
+            ],
+            [
+                "73",
+                "73"
+            ],
+            [
+                "75",
+                "80"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IV",
+    "scene_description": "DUKE ORSINO's palace."
+}

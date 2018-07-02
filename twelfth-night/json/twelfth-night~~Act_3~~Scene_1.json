@@ -1,0 +1,1021 @@
+{
+    "scene_id": "twelfth night~~Act_3~~Scene_1",
+    "work_number": "6",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "VIOLA",
+            "Save thee, friend, and thy music: dost thou live by",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "VIOLA",
+            "thy tabour?"
+        ],
+        [
+            "Clown",
+            "No, sir, I live by the church."
+        ],
+        [
+            "VIOLA",
+            "Art thou a churchman?"
+        ],
+        [
+            "Clown",
+            "No such matter, sir: I do live by the church; for"
+        ],
+        [
+            "Clown",
+            "I do live at my house, and my house doth stand by"
+        ],
+        [
+            "Clown",
+            "the church."
+        ],
+        [
+            "VIOLA",
+            "So thou mayst say, the king lies by a beggar, if a"
+        ],
+        [
+            "VIOLA",
+            "beggar dwell near him; or, the church stands by thy"
+        ],
+        [
+            "VIOLA",
+            "tabour, if thy tabour stand by the church."
+        ],
+        [
+            "Clown",
+            "You have said, sir. To see this age! A sentence is"
+        ],
+        [
+            "Clown",
+            "but a cheveril glove to a good wit: how quickly the"
+        ],
+        [
+            "Clown",
+            "wrong side may be turned outward!"
+        ],
+        [
+            "VIOLA",
+            "Nay, that's certain; they that dally nicely with"
+        ],
+        [
+            "VIOLA",
+            "words may quickly make them wanton."
+        ],
+        [
+            "Clown",
+            "I would, therefore, my sister had had no name, sir."
+        ],
+        [
+            "VIOLA",
+            "Why, man?"
+        ],
+        [
+            "Clown",
+            "Why, sir, her name's a word; and to dally with that"
+        ],
+        [
+            "Clown",
+            "word might make my sister wanton. But indeed words"
+        ],
+        [
+            "Clown",
+            "are very rascals since bonds disgraced them."
+        ],
+        [
+            "VIOLA",
+            "Thy reason, man?"
+        ],
+        [
+            "Clown",
+            "Troth, sir, I can yield you none without words; and"
+        ],
+        [
+            "Clown",
+            "words are grown so false, I am loath to prove"
+        ],
+        [
+            "Clown",
+            "reason with them."
+        ],
+        [
+            "VIOLA",
+            "I warrant thou art a merry fellow and carest for nothing."
+        ],
+        [
+            "Clown",
+            "Not so, sir, I do care for something; but in my"
+        ],
+        [
+            "Clown",
+            "conscience, sir, I do not care for you: if that be"
+        ],
+        [
+            "Clown",
+            "to care for nothing, sir, I would it would make you invisible."
+        ],
+        [
+            "VIOLA",
+            "Art not thou the Lady Olivia's fool?"
+        ],
+        [
+            "Clown",
+            "No, indeed, sir; the Lady Olivia has no folly: she"
+        ],
+        [
+            "Clown",
+            "will keep no fool, sir, till she be married; and"
+        ],
+        [
+            "Clown",
+            "fools are as like husbands as pilchards are to"
+        ],
+        [
+            "Clown",
+            "herrings; the husband's the bigger: I am indeed not"
+        ],
+        [
+            "Clown",
+            "her fool, but her corrupter of words."
+        ],
+        [
+            "VIOLA",
+            "I saw thee late at the Count Orsino's."
+        ],
+        [
+            "Clown",
+            "Foolery, sir, does walk about the orb like the sun,"
+        ],
+        [
+            "Clown",
+            "it shines every where. I would be sorry, sir, but"
+        ],
+        [
+            "Clown",
+            "the fool should be as oft with your master as with"
+        ],
+        [
+            "Clown",
+            "my mistress: I think I saw your wisdom there."
+        ],
+        [
+            "VIOLA",
+            "Nay, an thou pass upon me, I'll no more with thee."
+        ],
+        [
+            "VIOLA",
+            "Hold, there's expenses for thee."
+        ],
+        [
+            "Clown",
+            "Now Jove, in his next commodity of hair, send thee a beard!"
+        ],
+        [
+            "VIOLA",
+            "By my troth, I'll tell thee, I am almost sick for"
+        ],
+        [
+            "VIOLA",
+            "one;",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "VIOLA",
+            "though I would not have it grow on my chin. Is thy",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "VIOLA",
+            "lady within?"
+        ],
+        [
+            "Clown",
+            "Would not a pair of these have bred, sir?"
+        ],
+        [
+            "VIOLA",
+            "Yes, being kept together and put to use."
+        ],
+        [
+            "Clown",
+            "I would play Lord Pandarus of Phrygia, sir, to bring"
+        ],
+        [
+            "Clown",
+            "a Cressida to this Troilus."
+        ],
+        [
+            "VIOLA",
+            "I understand you, sir; 'tis well begged."
+        ],
+        [
+            "Clown",
+            "The matter, I hope, is not great, sir, begging but"
+        ],
+        [
+            "Clown",
+            "a beggar: Cressida was a beggar. My lady is"
+        ],
+        [
+            "Clown",
+            "within, sir. I will construe to them whence you"
+        ],
+        [
+            "Clown",
+            "come; who you are and what you would are out of my"
+        ],
+        [
+            "Clown",
+            "welkin, I might say 'element,' but the word is over-worn.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "VIOLA",
+            "This fellow is wise enough to play the fool;",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "VIOLA",
+            "And to do that well craves a kind of wit:"
+        ],
+        [
+            "VIOLA",
+            "He must observe their mood on whom he jests,"
+        ],
+        [
+            "VIOLA",
+            "The quality of persons, and the time,"
+        ],
+        [
+            "VIOLA",
+            "And, like the haggard, cheque at every feather"
+        ],
+        [
+            "VIOLA",
+            "That comes before his eye. This is a practise"
+        ],
+        [
+            "VIOLA",
+            "As full of labour as a wise man's art"
+        ],
+        [
+            "VIOLA",
+            "For folly that he wisely shows is fit;"
+        ],
+        [
+            "VIOLA",
+            "But wise men, folly-fall'n, quite taint their wit.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Save you, gentleman.",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "VIOLA",
+            "And you, sir."
+        ],
+        [
+            "SIR ANDREW",
+            "Dieu vous garde, monsieur."
+        ],
+        [
+            "VIOLA",
+            "Et vous aussi; votre serviteur."
+        ],
+        [
+            "SIR ANDREW",
+            "I hope, sir, you are; and I am yours."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Will you encounter the house? my niece is desirous"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "you should enter, if your trade be to her."
+        ],
+        [
+            "VIOLA",
+            "I am bound to your niece, sir; I mean, she is the"
+        ],
+        [
+            "VIOLA",
+            "list of my voyage."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Taste your legs, sir; put them to motion."
+        ],
+        [
+            "VIOLA",
+            "My legs do better understand me, sir, than I"
+        ],
+        [
+            "VIOLA",
+            "understand what you mean by bidding me taste my legs."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "I mean, to go, sir, to enter."
+        ],
+        [
+            "VIOLA",
+            "I will answer you with gait and entrance. But we"
+        ],
+        [
+            "VIOLA",
+            "are prevented.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "VIOLA",
+            "Most excellent accomplished lady, the heavens rain",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "VIOLA",
+            "odours on you!"
+        ],
+        [
+            "SIR ANDREW",
+            "That youth's a rare courtier: 'Rain odours;' well."
+        ],
+        [
+            "VIOLA",
+            "My matter hath no voice, to your own most pregnant"
+        ],
+        [
+            "VIOLA",
+            "and vouchsafed ear."
+        ],
+        [
+            "SIR ANDREW",
+            "'Odours,' 'pregnant' and 'vouchsafed:' I'll get 'em"
+        ],
+        [
+            "SIR ANDREW",
+            "all three all ready."
+        ],
+        [
+            "OLIVIA",
+            "Let the garden door be shut, and leave me to my hearing.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "OLIVIA",
+            "Give me your hand, sir.",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "VIOLA",
+            "My duty, madam, and most humble service."
+        ],
+        [
+            "OLIVIA",
+            "What is your name?"
+        ],
+        [
+            "VIOLA",
+            "Cesario is your servant's name, fair princess."
+        ],
+        [
+            "OLIVIA",
+            "My servant, sir! 'Twas never merry world"
+        ],
+        [
+            "OLIVIA",
+            "Since lowly feigning was call'd compliment:"
+        ],
+        [
+            "OLIVIA",
+            "You're servant to the Count Orsino, youth."
+        ],
+        [
+            "VIOLA",
+            "And he is yours, and his must needs be yours:"
+        ],
+        [
+            "VIOLA",
+            "Your servant's servant is your servant, madam."
+        ],
+        [
+            "OLIVIA",
+            "For him, I think not on him: for his thoughts,"
+        ],
+        [
+            "OLIVIA",
+            "Would they were blanks, rather than fill'd with me!"
+        ],
+        [
+            "VIOLA",
+            "Madam, I come to whet your gentle thoughts"
+        ],
+        [
+            "VIOLA",
+            "On his behalf."
+        ],
+        [
+            "OLIVIA",
+            "O, by your leave, I pray you,"
+        ],
+        [
+            "OLIVIA",
+            "I bade you never speak again of him:"
+        ],
+        [
+            "OLIVIA",
+            "But, would you undertake another suit,"
+        ],
+        [
+            "OLIVIA",
+            "I had rather hear you to solicit that"
+        ],
+        [
+            "OLIVIA",
+            "Than music from the spheres."
+        ],
+        [
+            "VIOLA",
+            "Dear lady,--"
+        ],
+        [
+            "OLIVIA",
+            "Give me leave, beseech you. I did send,"
+        ],
+        [
+            "OLIVIA",
+            "After the last enchantment you did here,"
+        ],
+        [
+            "OLIVIA",
+            "A ring in chase of you: so did I abuse"
+        ],
+        [
+            "OLIVIA",
+            "Myself, my servant and, I fear me, you:"
+        ],
+        [
+            "OLIVIA",
+            "Under your hard construction must I sit,"
+        ],
+        [
+            "OLIVIA",
+            "To force that on you, in a shameful cunning,"
+        ],
+        [
+            "OLIVIA",
+            "Which you knew none of yours: what might you think?"
+        ],
+        [
+            "OLIVIA",
+            "Have you not set mine honour at the stake"
+        ],
+        [
+            "OLIVIA",
+            "And baited it with all the unmuzzled thoughts"
+        ],
+        [
+            "OLIVIA",
+            "That tyrannous heart can think? To one of your receiving"
+        ],
+        [
+            "OLIVIA",
+            "Enough is shown: a cypress, not a bosom,"
+        ],
+        [
+            "OLIVIA",
+            "Hideth my heart. So, let me hear you speak."
+        ],
+        [
+            "VIOLA",
+            "I pity you."
+        ],
+        [
+            "OLIVIA",
+            "That's a degree to love."
+        ],
+        [
+            "VIOLA",
+            "No, not a grize; for 'tis a vulgar proof,"
+        ],
+        [
+            "VIOLA",
+            "That very oft we pity enemies."
+        ],
+        [
+            "OLIVIA",
+            "Why, then, methinks 'tis time to smile again."
+        ],
+        [
+            "OLIVIA",
+            "O, world, how apt the poor are to be proud!"
+        ],
+        [
+            "OLIVIA",
+            "If one should be a prey, how much the better"
+        ],
+        [
+            "OLIVIA",
+            "To fall before the lion than the wolf!",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "OLIVIA",
+            "The clock upbraids me with the waste of time.",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "OLIVIA",
+            "Be not afraid, good youth, I will not have you:"
+        ],
+        [
+            "OLIVIA",
+            "And yet, when wit and youth is come to harvest,"
+        ],
+        [
+            "OLIVIA",
+            "Your were is alike to reap a proper man:"
+        ],
+        [
+            "OLIVIA",
+            "There lies your way, due west."
+        ],
+        [
+            "VIOLA",
+            "Then westward-ho! Grace and good disposition"
+        ],
+        [
+            "VIOLA",
+            "Attend your ladyship!"
+        ],
+        [
+            "VIOLA",
+            "You'll nothing, madam, to my lord by me?"
+        ],
+        [
+            "OLIVIA",
+            "Stay:"
+        ],
+        [
+            "OLIVIA",
+            "I prithee, tell me what thou thinkest of me."
+        ],
+        [
+            "VIOLA",
+            "That you do think you are not what you are."
+        ],
+        [
+            "OLIVIA",
+            "If I think so, I think the same of you."
+        ],
+        [
+            "VIOLA",
+            "Then think you right: I am not what I am."
+        ],
+        [
+            "OLIVIA",
+            "I would you were as I would have you be!"
+        ],
+        [
+            "VIOLA",
+            "Would it be better, madam, than I am?"
+        ],
+        [
+            "VIOLA",
+            "I wish it might, for now I am your fool."
+        ],
+        [
+            "OLIVIA",
+            "O, what a deal of scorn looks beautiful"
+        ],
+        [
+            "OLIVIA",
+            "In the contempt and anger of his lip!"
+        ],
+        [
+            "OLIVIA",
+            "A murderous guilt shows not itself more soon"
+        ],
+        [
+            "OLIVIA",
+            "Than love that would seem hid: love's night is noon."
+        ],
+        [
+            "OLIVIA",
+            "Cesario, by the roses of the spring,"
+        ],
+        [
+            "OLIVIA",
+            "By maidhood, honour, truth and every thing,"
+        ],
+        [
+            "OLIVIA",
+            "I love thee so, that, maugre all thy pride,"
+        ],
+        [
+            "OLIVIA",
+            "Nor wit nor reason can my passion hide."
+        ],
+        [
+            "OLIVIA",
+            "Do not extort thy reasons from this clause,"
+        ],
+        [
+            "OLIVIA",
+            "For that I woo, thou therefore hast no cause,"
+        ],
+        [
+            "OLIVIA",
+            "But rather reason thus with reason fetter,"
+        ],
+        [
+            "OLIVIA",
+            "Love sought is good, but given unsought better."
+        ],
+        [
+            "VIOLA",
+            "By innocence I swear, and by my youth"
+        ],
+        [
+            "VIOLA",
+            "I have one heart, one bosom and one truth,"
+        ],
+        [
+            "VIOLA",
+            "And that no woman has; nor never none"
+        ],
+        [
+            "VIOLA",
+            "Shall mistress be of it, save I alone."
+        ],
+        [
+            "VIOLA",
+            "And so adieu, good madam: never more"
+        ],
+        [
+            "VIOLA",
+            "Will I my master's tears to you deplore."
+        ],
+        [
+            "OLIVIA",
+            "Yet come again; for thou perhaps mayst move"
+        ],
+        [
+            "OLIVIA",
+            "That heart, which now abhors, to like his love.",
+            {
+                "following_direction_line": "8"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter VIOLA, and Clown with a tabour"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Aside"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter SIR TOBY BELCH, and SIR ANDREW"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Enter OLIVIA and MARIA"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exeunt SIR TOBY BELCH, SIR ANDREW, and MARIA"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Clock strikes"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "VIOLA": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "4",
+                "4"
+            ],
+            [
+                "8",
+                "10"
+            ],
+            [
+                "14",
+                "15"
+            ],
+            [
+                "17",
+                "17"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "25",
+                "25"
+            ],
+            [
+                "29",
+                "29"
+            ],
+            [
+                "35",
+                "35"
+            ],
+            [
+                "40",
+                "41"
+            ],
+            [
+                "43",
+                "46"
+            ],
+            [
+                "48",
+                "48"
+            ],
+            [
+                "51",
+                "51"
+            ],
+            [
+                "57",
+                "65"
+            ],
+            [
+                "67",
+                "67"
+            ],
+            [
+                "69",
+                "69"
+            ],
+            [
+                "73",
+                "74"
+            ],
+            [
+                "76",
+                "77"
+            ],
+            [
+                "79",
+                "82"
+            ],
+            [
+                "84",
+                "85"
+            ],
+            [
+                "90",
+                "90"
+            ],
+            [
+                "92",
+                "92"
+            ],
+            [
+                "96",
+                "97"
+            ],
+            [
+                "100",
+                "101"
+            ],
+            [
+                "107",
+                "107"
+            ],
+            [
+                "120",
+                "120"
+            ],
+            [
+                "122",
+                "123"
+            ],
+            [
+                "133",
+                "135"
+            ],
+            [
+                "138",
+                "138"
+            ],
+            [
+                "140",
+                "140"
+            ],
+            [
+                "142",
+                "143"
+            ],
+            [
+                "156",
+                "161"
+            ]
+        ],
+        "Clown": [
+            [
+                "3",
+                "3"
+            ],
+            [
+                "5",
+                "7"
+            ],
+            [
+                "11",
+                "13"
+            ],
+            [
+                "16",
+                "16"
+            ],
+            [
+                "18",
+                "20"
+            ],
+            [
+                "22",
+                "24"
+            ],
+            [
+                "26",
+                "28"
+            ],
+            [
+                "30",
+                "34"
+            ],
+            [
+                "36",
+                "39"
+            ],
+            [
+                "42",
+                "42"
+            ],
+            [
+                "47",
+                "47"
+            ],
+            [
+                "49",
+                "50"
+            ],
+            [
+                "52",
+                "56"
+            ]
+        ],
+        "SIR TOBY BELCH": [
+            [
+                "66",
+                "66"
+            ],
+            [
+                "71",
+                "72"
+            ],
+            [
+                "75",
+                "75"
+            ],
+            [
+                "78",
+                "78"
+            ]
+        ],
+        "SIR ANDREW": [
+            [
+                "68",
+                "68"
+            ],
+            [
+                "70",
+                "70"
+            ],
+            [
+                "83",
+                "83"
+            ],
+            [
+                "86",
+                "87"
+            ]
+        ],
+        "OLIVIA": [
+            [
+                "88",
+                "89"
+            ],
+            [
+                "91",
+                "91"
+            ],
+            [
+                "93",
+                "95"
+            ],
+            [
+                "98",
+                "99"
+            ],
+            [
+                "102",
+                "106"
+            ],
+            [
+                "108",
+                "119"
+            ],
+            [
+                "121",
+                "121"
+            ],
+            [
+                "124",
+                "132"
+            ],
+            [
+                "136",
+                "137"
+            ],
+            [
+                "139",
+                "139"
+            ],
+            [
+                "141",
+                "141"
+            ],
+            [
+                "144",
+                "155"
+            ],
+            [
+                "162",
+                "163"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "OLIVIA's garden."
+}

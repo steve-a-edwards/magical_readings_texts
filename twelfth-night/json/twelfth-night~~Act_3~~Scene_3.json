@@ -1,0 +1,305 @@
+{
+    "scene_id": "twelfth night~~Act_3~~Scene_3",
+    "work_number": "6",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "SEBASTIAN",
+            "I would not by my will have troubled you;",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "SEBASTIAN",
+            "But, since you make your pleasure of your pains,"
+        ],
+        [
+            "SEBASTIAN",
+            "I will no further chide you."
+        ],
+        [
+            "ANTONIO",
+            "I could not stay behind you: my desire,"
+        ],
+        [
+            "ANTONIO",
+            "More sharp than filed steel, did spur me forth;"
+        ],
+        [
+            "ANTONIO",
+            "And not all love to see you, though so much"
+        ],
+        [
+            "ANTONIO",
+            "As might have drawn one to a longer voyage,"
+        ],
+        [
+            "ANTONIO",
+            "But jealousy what might befall your travel,"
+        ],
+        [
+            "ANTONIO",
+            "Being skilless in these parts; which to a stranger,"
+        ],
+        [
+            "ANTONIO",
+            "Unguided and unfriended, often prove"
+        ],
+        [
+            "ANTONIO",
+            "Rough and unhospitable: my willing love,"
+        ],
+        [
+            "ANTONIO",
+            "The rather by these arguments of fear,"
+        ],
+        [
+            "ANTONIO",
+            "Set forth in your pursuit."
+        ],
+        [
+            "SEBASTIAN",
+            "My kind Antonio,"
+        ],
+        [
+            "SEBASTIAN",
+            "I can no other answer make but thanks,"
+        ],
+        [
+            "SEBASTIAN",
+            "And thanks; and ever [ ] oft good turns"
+        ],
+        [
+            "SEBASTIAN",
+            "Are shuffled off with such uncurrent pay:"
+        ],
+        [
+            "SEBASTIAN",
+            "But, were my worth as is my conscience firm,"
+        ],
+        [
+            "SEBASTIAN",
+            "You should find better dealing. What's to do?"
+        ],
+        [
+            "SEBASTIAN",
+            "Shall we go see the reliques of this town?"
+        ],
+        [
+            "ANTONIO",
+            "To-morrow, sir: best first go see your lodging."
+        ],
+        [
+            "SEBASTIAN",
+            "I am not weary, and 'tis long to night:"
+        ],
+        [
+            "SEBASTIAN",
+            "I pray you, let us satisfy our eyes"
+        ],
+        [
+            "SEBASTIAN",
+            "With the memorials and the things of fame"
+        ],
+        [
+            "SEBASTIAN",
+            "That do renown this city."
+        ],
+        [
+            "ANTONIO",
+            "Would you'ld pardon me;"
+        ],
+        [
+            "ANTONIO",
+            "I do not without danger walk these streets:"
+        ],
+        [
+            "ANTONIO",
+            "Once, in a sea-fight, 'gainst the count his galleys"
+        ],
+        [
+            "ANTONIO",
+            "I did some service; of such note indeed,"
+        ],
+        [
+            "ANTONIO",
+            "That were I ta'en here it would scarce be answer'd."
+        ],
+        [
+            "SEBASTIAN",
+            "Belike you slew great number of his people."
+        ],
+        [
+            "ANTONIO",
+            "The offence is not of such a bloody nature;"
+        ],
+        [
+            "ANTONIO",
+            "Albeit the quality of the time and quarrel"
+        ],
+        [
+            "ANTONIO",
+            "Might well have given us bloody argument."
+        ],
+        [
+            "ANTONIO",
+            "It might have since been answer'd in repaying"
+        ],
+        [
+            "ANTONIO",
+            "What we took from them; which, for traffic's sake,"
+        ],
+        [
+            "ANTONIO",
+            "Most of our city did: only myself stood out;"
+        ],
+        [
+            "ANTONIO",
+            "For which, if I be lapsed in this place,"
+        ],
+        [
+            "ANTONIO",
+            "I shall pay dear."
+        ],
+        [
+            "SEBASTIAN",
+            "Do not then walk too open."
+        ],
+        [
+            "ANTONIO",
+            "It doth not fit me. Hold, sir, here's my purse."
+        ],
+        [
+            "ANTONIO",
+            "In the south suburbs, at the Elephant,"
+        ],
+        [
+            "ANTONIO",
+            "Is best to lodge: I will bespeak our diet,"
+        ],
+        [
+            "ANTONIO",
+            "Whiles you beguile the time and feed your knowledge"
+        ],
+        [
+            "ANTONIO",
+            "With viewing of the town: there shall you have me."
+        ],
+        [
+            "SEBASTIAN",
+            "Why I your purse?"
+        ],
+        [
+            "ANTONIO",
+            "Haply your eye shall light upon some toy"
+        ],
+        [
+            "ANTONIO",
+            "You have desire to purchase; and your store,"
+        ],
+        [
+            "ANTONIO",
+            "I think, is not for idle markets, sir."
+        ],
+        [
+            "SEBASTIAN",
+            "I'll be your purse-bearer and leave you"
+        ],
+        [
+            "SEBASTIAN",
+            "For an hour."
+        ],
+        [
+            "ANTONIO",
+            "To the Elephant."
+        ],
+        [
+            "SEBASTIAN",
+            "I do remember.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter SEBASTIAN and ANTONIO"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "SEBASTIAN": [
+            [
+                "1",
+                "3"
+            ],
+            [
+                "14",
+                "20"
+            ],
+            [
+                "22",
+                "25"
+            ],
+            [
+                "31",
+                "31"
+            ],
+            [
+                "40",
+                "40"
+            ],
+            [
+                "46",
+                "46"
+            ],
+            [
+                "50",
+                "51"
+            ],
+            [
+                "53",
+                "53"
+            ]
+        ],
+        "ANTONIO": [
+            [
+                "4",
+                "13"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "26",
+                "30"
+            ],
+            [
+                "32",
+                "39"
+            ],
+            [
+                "41",
+                "45"
+            ],
+            [
+                "47",
+                "49"
+            ],
+            [
+                "52",
+                "52"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "A street."
+}

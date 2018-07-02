@@ -1,0 +1,487 @@
+{
+    "scene_id": "twelfth night~~Act_3~~Scene_2",
+    "work_number": "6",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "SIR ANDREW",
+            "No, faith, I'll not stay a jot longer.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Thy reason, dear venom, give thy reason."
+        ],
+        [
+            "FABIAN",
+            "You must needs yield your reason, Sir Andrew."
+        ],
+        [
+            "SIR ANDREW",
+            "Marry, I saw your niece do more favours to the"
+        ],
+        [
+            "SIR ANDREW",
+            "count's serving-man than ever she bestowed upon me;"
+        ],
+        [
+            "SIR ANDREW",
+            "I saw't i' the orchard."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Did she see thee the while, old boy? tell me that."
+        ],
+        [
+            "SIR ANDREW",
+            "As plain as I see you now."
+        ],
+        [
+            "FABIAN",
+            "This was a great argument of love in her toward you."
+        ],
+        [
+            "SIR ANDREW",
+            "'Slight, will you make an ass o' me?"
+        ],
+        [
+            "FABIAN",
+            "I will prove it legitimate, sir, upon the oaths of"
+        ],
+        [
+            "FABIAN",
+            "judgment and reason."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "And they have been grand-jury-men since before Noah"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "was a sailor."
+        ],
+        [
+            "FABIAN",
+            "She did show favour to the youth in your sight only"
+        ],
+        [
+            "FABIAN",
+            "to exasperate you, to awake your dormouse valour, to"
+        ],
+        [
+            "FABIAN",
+            "put fire in your heart and brimstone in your liver."
+        ],
+        [
+            "FABIAN",
+            "You should then have accosted her; and with some"
+        ],
+        [
+            "FABIAN",
+            "excellent jests, fire-new from the mint, you should"
+        ],
+        [
+            "FABIAN",
+            "have banged the youth into dumbness. This was"
+        ],
+        [
+            "FABIAN",
+            "looked for at your hand, and this was balked: the"
+        ],
+        [
+            "FABIAN",
+            "double gilt of this opportunity you let time wash"
+        ],
+        [
+            "FABIAN",
+            "off, and you are now sailed into the north of my"
+        ],
+        [
+            "FABIAN",
+            "lady's opinion; where you will hang like an icicle"
+        ],
+        [
+            "FABIAN",
+            "on a Dutchman's beard, unless you do redeem it by"
+        ],
+        [
+            "FABIAN",
+            "some laudable attempt either of valour or policy."
+        ],
+        [
+            "SIR ANDREW",
+            "An't be any way, it must be with valour; for policy"
+        ],
+        [
+            "SIR ANDREW",
+            "I hate: I had as lief be a Brownist as a"
+        ],
+        [
+            "SIR ANDREW",
+            "politician."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Why, then, build me thy fortunes upon the basis of"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "valour. Challenge me the count's youth to fight"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "with him; hurt him in eleven places: my niece shall"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "take note of it; and assure thyself, there is no"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "love-broker in the world can more prevail in man's"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "commendation with woman than report of valour."
+        ],
+        [
+            "FABIAN",
+            "There is no way but this, Sir Andrew."
+        ],
+        [
+            "SIR ANDREW",
+            "Will either of you bear me a challenge to him?"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Go, write it in a martial hand; be curst and brief;"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "it is no matter how witty, so it be eloquent and fun"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "of invention: taunt him with the licence of ink:"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "if thou thou'st him some thrice, it shall not be"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "amiss; and as many lies as will lie in thy sheet of"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "paper, although the sheet were big enough for the"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "bed of Ware in England, set 'em down: go, about it."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Let there be gall enough in thy ink, though thou"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "write with a goose-pen, no matter: about it."
+        ],
+        [
+            "SIR ANDREW",
+            "Where shall I find you?"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "We'll call thee at the cubiculo: go.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "FABIAN",
+            "This is a dear manikin to you, Sir Toby.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "I have been dear to him, lad, some two thousand"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "strong, or so."
+        ],
+        [
+            "FABIAN",
+            "We shall have a rare letter from him: but you'll"
+        ],
+        [
+            "FABIAN",
+            "not deliver't?"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Never trust me, then; and by all means stir on the"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "youth to an answer. I think oxen and wainropes"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "cannot hale them together. For Andrew, if he were"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "opened, and you find so much blood in his liver as"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "will clog the foot of a flea, I'll eat the rest of"
+        ],
+        [
+            "SIR TOBY BELCH",
+            "the anatomy."
+        ],
+        [
+            "FABIAN",
+            "And his opposite, the youth, bears in his visage no"
+        ],
+        [
+            "FABIAN",
+            "great presage of cruelty.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Look, where the youngest wren of nine comes.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "MARIA",
+            "If you desire the spleen, and will laugh yourself"
+        ],
+        [
+            "MARIA",
+            "into stitches, follow me. Yond gull Malvolio is"
+        ],
+        [
+            "MARIA",
+            "turned heathen, a very renegado; for there is no"
+        ],
+        [
+            "MARIA",
+            "Christian, that means to be saved by believing"
+        ],
+        [
+            "MARIA",
+            "rightly, can ever believe such impossible passages"
+        ],
+        [
+            "MARIA",
+            "of grossness. He's in yellow stockings."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "And cross-gartered?"
+        ],
+        [
+            "MARIA",
+            "Most villanously; like a pedant that keeps a school"
+        ],
+        [
+            "MARIA",
+            "i' the church. I have dogged him, like his"
+        ],
+        [
+            "MARIA",
+            "murderer. He does obey every point of the letter"
+        ],
+        [
+            "MARIA",
+            "that I dropped to betray him: he does smile his"
+        ],
+        [
+            "MARIA",
+            "face into more lines than is in the new map with the"
+        ],
+        [
+            "MARIA",
+            "augmentation of the Indies: you have not seen such"
+        ],
+        [
+            "MARIA",
+            "a thing as 'tis. I can hardly forbear hurling things"
+        ],
+        [
+            "MARIA",
+            "at him. I know my lady will strike him: if she do,"
+        ],
+        [
+            "MARIA",
+            "he'll smile and take't for a great favour."
+        ],
+        [
+            "SIR TOBY BELCH",
+            "Come, bring us, bring us where he is.",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter SIR TOBY BELCH, SIR ANDREW, and FABIAN"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit SIR ANDREW"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter MARIA"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "SIR ANDREW": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "4",
+                "6"
+            ],
+            [
+                "8",
+                "8"
+            ],
+            [
+                "10",
+                "10"
+            ],
+            [
+                "27",
+                "29"
+            ],
+            [
+                "37",
+                "37"
+            ],
+            [
+                "47",
+                "47"
+            ]
+        ],
+        "SIR TOBY BELCH": [
+            [
+                "2",
+                "2"
+            ],
+            [
+                "7",
+                "7"
+            ],
+            [
+                "13",
+                "14"
+            ],
+            [
+                "30",
+                "35"
+            ],
+            [
+                "38",
+                "46"
+            ],
+            [
+                "48",
+                "48"
+            ],
+            [
+                "50",
+                "51"
+            ],
+            [
+                "54",
+                "59"
+            ],
+            [
+                "62",
+                "62"
+            ],
+            [
+                "69",
+                "69"
+            ],
+            [
+                "79",
+                "79"
+            ]
+        ],
+        "FABIAN": [
+            [
+                "3",
+                "3"
+            ],
+            [
+                "9",
+                "9"
+            ],
+            [
+                "11",
+                "12"
+            ],
+            [
+                "15",
+                "26"
+            ],
+            [
+                "36",
+                "36"
+            ],
+            [
+                "49",
+                "49"
+            ],
+            [
+                "52",
+                "53"
+            ],
+            [
+                "60",
+                "61"
+            ]
+        ],
+        "MARIA": [
+            [
+                "63",
+                "68"
+            ],
+            [
+                "70",
+                "78"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "OLIVIA's house."
+}

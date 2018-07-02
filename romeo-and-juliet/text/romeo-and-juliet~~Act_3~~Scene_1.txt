@@ -199,7 +199,7 @@ O, I am fortune's fool!
 _R_BENVOLIO
 Why dost thou stay?
 _D_Exit ROMEO
-_D_Enter Citizens, and c
+_D_Enter citizens of the watch
 _R_First Citizen
 Which way ran he that kill'd Mercutio?
 Tybalt, that murderer, which way ran he?
