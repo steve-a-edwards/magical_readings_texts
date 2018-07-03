@@ -1,0 +1,799 @@
+{
+    "scene_id": "the taming of the shrew~~Act_0~~Scene_1",
+    "work_number": "8",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "SLY",
+            "I'll pheeze you, in faith.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "Hostess",
+            "A pair of stocks, you rogue!"
+        ],
+        [
+            "SLY",
+            "Ye are a baggage: the Slys are no rogues; look in"
+        ],
+        [
+            "SLY",
+            "the chronicles; we came in with Richard Conqueror."
+        ],
+        [
+            "SLY",
+            "Therefore paucas pallabris; let the world slide: sessa!"
+        ],
+        [
+            "Hostess",
+            "You will not pay for the glasses you have burst?"
+        ],
+        [
+            "SLY",
+            "No, not a denier. Go by, Jeronimy: go to thy cold"
+        ],
+        [
+            "SLY",
+            "bed, and warm thee."
+        ],
+        [
+            "Hostess",
+            "I know my remedy; I must go fetch the"
+        ],
+        [
+            "Hostess",
+            "third--borough.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "SLY",
+            "Third, or fourth, or fifth borough, I'll answer him",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "SLY",
+            "by law: I'll not budge an inch, boy: let him come,"
+        ],
+        [
+            "SLY",
+            "and kindly.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "Lord",
+            "Huntsman, I charge thee, tender well my hounds:",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "Lord",
+            "Brach Merriman, the poor cur is emboss'd;"
+        ],
+        [
+            "Lord",
+            "And couple Clowder with the deep--mouth'd brach."
+        ],
+        [
+            "Lord",
+            "Saw'st thou not, boy, how Silver made it good"
+        ],
+        [
+            "Lord",
+            "At the hedge-corner, in the coldest fault?"
+        ],
+        [
+            "Lord",
+            "I would not lose the dog for twenty pound."
+        ],
+        [
+            "First Huntsman",
+            "Why, Belman is as good as he, my lord;"
+        ],
+        [
+            "First Huntsman",
+            "He cried upon it at the merest loss"
+        ],
+        [
+            "First Huntsman",
+            "And twice to-day pick'd out the dullest scent:"
+        ],
+        [
+            "First Huntsman",
+            "Trust me, I take him for the better dog."
+        ],
+        [
+            "Lord",
+            "Thou art a fool: if Echo were as fleet,"
+        ],
+        [
+            "Lord",
+            "I would esteem him worth a dozen such."
+        ],
+        [
+            "Lord",
+            "But sup them well and look unto them all:"
+        ],
+        [
+            "Lord",
+            "To-morrow I intend to hunt again."
+        ],
+        [
+            "First Huntsman",
+            "I will, my lord."
+        ],
+        [
+            "Lord",
+            "What's here? one dead, or drunk? See, doth he breathe?"
+        ],
+        [
+            "Second Huntsman",
+            "He breathes, my lord. Were he not warm'd with ale,"
+        ],
+        [
+            "Second Huntsman",
+            "This were a bed but cold to sleep so soundly."
+        ],
+        [
+            "Lord",
+            "O monstrous beast! how like a swine he lies!"
+        ],
+        [
+            "Lord",
+            "Grim death, how foul and loathsome is thine image!"
+        ],
+        [
+            "Lord",
+            "Sirs, I will practise on this drunken man."
+        ],
+        [
+            "Lord",
+            "What think you, if he were convey'd to bed,"
+        ],
+        [
+            "Lord",
+            "Wrapp'd in sweet clothes, rings put upon his fingers,"
+        ],
+        [
+            "Lord",
+            "A most delicious banquet by his bed,"
+        ],
+        [
+            "Lord",
+            "And brave attendants near him when he wakes,"
+        ],
+        [
+            "Lord",
+            "Would not the beggar then forget himself?"
+        ],
+        [
+            "First Huntsman",
+            "Believe me, lord, I think he cannot choose."
+        ],
+        [
+            "Second Huntsman",
+            "It would seem strange unto him when he waked."
+        ],
+        [
+            "Lord",
+            "Even as a flattering dream or worthless fancy."
+        ],
+        [
+            "Lord",
+            "Then take him up and manage well the jest:"
+        ],
+        [
+            "Lord",
+            "Carry him gently to my fairest chamber"
+        ],
+        [
+            "Lord",
+            "And hang it round with all my wanton pictures:"
+        ],
+        [
+            "Lord",
+            "Balm his foul head in warm distilled waters"
+        ],
+        [
+            "Lord",
+            "And burn sweet wood to make the lodging sweet:"
+        ],
+        [
+            "Lord",
+            "Procure me music ready when he wakes,"
+        ],
+        [
+            "Lord",
+            "To make a dulcet and a heavenly sound;"
+        ],
+        [
+            "Lord",
+            "And if he chance to speak, be ready straight"
+        ],
+        [
+            "Lord",
+            "And with a low submissive reverence"
+        ],
+        [
+            "Lord",
+            "Say 'What is it your honour will command?'"
+        ],
+        [
+            "Lord",
+            "Let one attend him with a silver basin"
+        ],
+        [
+            "Lord",
+            "Full of rose-water and bestrew'd with flowers,"
+        ],
+        [
+            "Lord",
+            "Another bear the ewer, the third a diaper,"
+        ],
+        [
+            "Lord",
+            "And say 'Will't please your lordship cool your hands?'"
+        ],
+        [
+            "Lord",
+            "Some one be ready with a costly suit"
+        ],
+        [
+            "Lord",
+            "And ask him what apparel he will wear;"
+        ],
+        [
+            "Lord",
+            "Another tell him of his hounds and horse,"
+        ],
+        [
+            "Lord",
+            "And that his lady mourns at his disease:"
+        ],
+        [
+            "Lord",
+            "Persuade him that he hath been lunatic;"
+        ],
+        [
+            "Lord",
+            "And when he says he is, say that he dreams,"
+        ],
+        [
+            "Lord",
+            "For he is nothing but a mighty lord."
+        ],
+        [
+            "Lord",
+            "This do and do it kindly, gentle sirs:"
+        ],
+        [
+            "Lord",
+            "It will be pastime passing excellent,"
+        ],
+        [
+            "Lord",
+            "If it be husbanded with modesty."
+        ],
+        [
+            "First Huntsman",
+            "My lord, I warrant you we will play our part,"
+        ],
+        [
+            "First Huntsman",
+            "As he shall think by our true diligence"
+        ],
+        [
+            "First Huntsman",
+            "He is no less than what we say he is."
+        ],
+        [
+            "Lord",
+            "Take him up gently and to bed with him;"
+        ],
+        [
+            "Lord",
+            "And each one to his office when he wakes.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "Lord",
+            "Sirrah, go see what trumpet 'tis that sounds:",
+            {
+                "preceding_direction_line": "4",
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "Lord",
+            "Belike, some noble gentleman that means,",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "Lord",
+            "Travelling some journey, to repose him here.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "Lord",
+            "How now! who is it?",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "Servant",
+            "An't please your honour, players"
+        ],
+        [
+            "Servant",
+            "That offer service to your lordship."
+        ],
+        [
+            "Lord",
+            "Bid them come near.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "Lord",
+            "Now, fellows, you are welcome.",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "Players",
+            "We thank your honour."
+        ],
+        [
+            "Lord",
+            "Do you intend to stay with me tonight?"
+        ],
+        [
+            "A Player",
+            "So please your lordship to accept our duty."
+        ],
+        [
+            "Lord",
+            "With all my heart. This fellow I remember,"
+        ],
+        [
+            "Lord",
+            "Since once he play'd a farmer's eldest son:"
+        ],
+        [
+            "Lord",
+            "'Twas where you woo'd the gentlewoman so well:"
+        ],
+        [
+            "Lord",
+            "I have forgot your name; but, sure, that part"
+        ],
+        [
+            "Lord",
+            "Was aptly fitted and naturally perform'd."
+        ],
+        [
+            "A Player",
+            "I think 'twas Soto that your honour means."
+        ],
+        [
+            "Lord",
+            "'Tis very true: thou didst it excellent."
+        ],
+        [
+            "Lord",
+            "Well, you are come to me in a happy time;"
+        ],
+        [
+            "Lord",
+            "The rather for I have some sport in hand"
+        ],
+        [
+            "Lord",
+            "Wherein your cunning can assist me much."
+        ],
+        [
+            "Lord",
+            "There is a lord will hear you play to-night:"
+        ],
+        [
+            "Lord",
+            "But I am doubtful of your modesties;"
+        ],
+        [
+            "Lord",
+            "Lest over-eyeing of his odd behavior,--"
+        ],
+        [
+            "Lord",
+            "For yet his honour never heard a play--"
+        ],
+        [
+            "Lord",
+            "You break into some merry passion"
+        ],
+        [
+            "Lord",
+            "And so offend him; for I tell you, sirs,"
+        ],
+        [
+            "Lord",
+            "If you should smile he grows impatient."
+        ],
+        [
+            "A Player",
+            "Fear not, my lord: we can contain ourselves,"
+        ],
+        [
+            "A Player",
+            "Were he the veriest antic in the world."
+        ],
+        [
+            "Lord",
+            "Go, sirrah, take them to the buttery,"
+        ],
+        [
+            "Lord",
+            "And give them friendly welcome every one:"
+        ],
+        [
+            "Lord",
+            "Let them want nothing that my house affords.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "Lord",
+            "Sirrah, go you to Barthol'mew my page,",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "Lord",
+            "And see him dress'd in all suits like a lady:"
+        ],
+        [
+            "Lord",
+            "That done, conduct him to the drunkard's chamber;"
+        ],
+        [
+            "Lord",
+            "And call him 'madam,' do him obeisance."
+        ],
+        [
+            "Lord",
+            "Tell him from me, as he will win my love,"
+        ],
+        [
+            "Lord",
+            "He bear himself with honourable action,"
+        ],
+        [
+            "Lord",
+            "Such as he hath observed in noble ladies"
+        ],
+        [
+            "Lord",
+            "Unto their lords, by them accomplished:"
+        ],
+        [
+            "Lord",
+            "Such duty to the drunkard let him do"
+        ],
+        [
+            "Lord",
+            "With soft low tongue and lowly courtesy,"
+        ],
+        [
+            "Lord",
+            "And say 'What is't your honour will command,"
+        ],
+        [
+            "Lord",
+            "Wherein your lady and your humble wife"
+        ],
+        [
+            "Lord",
+            "May show her duty and make known her love?'"
+        ],
+        [
+            "Lord",
+            "And then with kind embracements, tempting kisses,"
+        ],
+        [
+            "Lord",
+            "And with declining head into his bosom,"
+        ],
+        [
+            "Lord",
+            "Bid him shed tears, as being overjoy'd"
+        ],
+        [
+            "Lord",
+            "To see her noble lord restored to health,"
+        ],
+        [
+            "Lord",
+            "Who for this seven years hath esteem'd him"
+        ],
+        [
+            "Lord",
+            "No better than a poor and loathsome beggar:"
+        ],
+        [
+            "Lord",
+            "And if the boy have not a woman's gift"
+        ],
+        [
+            "Lord",
+            "To rain a shower of commanded tears,"
+        ],
+        [
+            "Lord",
+            "An onion will do well for such a shift,"
+        ],
+        [
+            "Lord",
+            "Which in a napkin being close convey'd"
+        ],
+        [
+            "Lord",
+            "Shall in despite enforce a watery eye."
+        ],
+        [
+            "Lord",
+            "See this dispatch'd with all the haste thou canst:"
+        ],
+        [
+            "Lord",
+            "Anon I'll give thee more instructions.",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "Lord",
+            "I know the boy will well usurp the grace,",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "Lord",
+            "Voice, gait and action of a gentlewoman:"
+        ],
+        [
+            "Lord",
+            "I long to hear him call the drunkard husband,"
+        ],
+        [
+            "Lord",
+            "And how my men will stay themselves from laughter"
+        ],
+        [
+            "Lord",
+            "When they do homage to this simple peasant."
+        ],
+        [
+            "Lord",
+            "I'll in to counsel them; haply my presence"
+        ],
+        [
+            "Lord",
+            "May well abate the over-merry spleen"
+        ],
+        [
+            "Lord",
+            "Which otherwise would grow into extremes.",
+            {
+                "following_direction_line": "10"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter Hostess and SLY"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Falls asleep. Horns winded. Enter a Lord from hunting, with his train"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Some bear out SLY. A trumpet sounds"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exit Servingman"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Re-enter Servingman"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Enter Players"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exit one with the Players"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Exit a Servingman"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "SLY": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "5"
+            ],
+            [
+                "7",
+                "8"
+            ],
+            [
+                "11",
+                "13"
+            ]
+        ],
+        "Hostess": [
+            [
+                "2",
+                "2"
+            ],
+            [
+                "6",
+                "6"
+            ],
+            [
+                "9",
+                "10"
+            ]
+        ],
+        "Lord": [
+            [
+                "14",
+                "19"
+            ],
+            [
+                "24",
+                "27"
+            ],
+            [
+                "29",
+                "29"
+            ],
+            [
+                "32",
+                "39"
+            ],
+            [
+                "42",
+                "66"
+            ],
+            [
+                "70",
+                "75"
+            ],
+            [
+                "78",
+                "79"
+            ],
+            [
+                "81",
+                "81"
+            ],
+            [
+                "83",
+                "87"
+            ],
+            [
+                "89",
+                "99"
+            ],
+            [
+                "102",
+                "138"
+            ]
+        ],
+        "First Huntsman": [
+            [
+                "20",
+                "23"
+            ],
+            [
+                "28",
+                "28"
+            ],
+            [
+                "40",
+                "40"
+            ],
+            [
+                "67",
+                "69"
+            ]
+        ],
+        "Second Huntsman": [
+            [
+                "30",
+                "31"
+            ],
+            [
+                "41",
+                "41"
+            ]
+        ],
+        "Servant": [
+            [
+                "76",
+                "77"
+            ]
+        ],
+        "Players": [
+            [
+                "80",
+                "80"
+            ]
+        ],
+        "A Player": [
+            [
+                "82",
+                "82"
+            ],
+            [
+                "88",
+                "88"
+            ],
+            [
+                "100",
+                "101"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "Before an alehouse on a heath."
+}

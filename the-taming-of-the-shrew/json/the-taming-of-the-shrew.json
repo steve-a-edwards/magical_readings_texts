@@ -1,0 +1,52 @@
+{
+  "main_author": "Shakespeare",
+  "plays_scenes": [
+    [
+      "Act_0",
+      [
+        "Scene_1",
+        "Scene_2"
+      ]
+    ],
+    [
+      "Act_1",
+      [
+        "Scene_1",
+        "Scene_2"
+      ]
+    ],
+    [
+      "Act_2",
+      [
+        "Scene_1"
+      ]
+    ],
+    [
+      "Act_3",
+      [
+        "Scene_1",
+        "Scene_2"
+      ]
+    ],
+    [
+      "Act_4",
+      [
+        "Scene_1",
+        "Scene_2",
+        "Scene_3",
+        "Scene_4",
+        "Scene_5"
+      ]
+    ],
+    [
+      "Act_5",
+      [
+        "Scene_1",
+        "Scene_2"
+      ]
+    ]
+  ],
+  "work_name": "the-taming-of-the-shrew",
+  "work_number": "8",
+  "work_type": "Play"
+}

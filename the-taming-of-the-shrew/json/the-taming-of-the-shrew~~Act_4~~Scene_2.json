@@ -1,0 +1,781 @@
+{
+    "scene_id": "the taming of the shrew~~Act_4~~Scene_2",
+    "work_number": "8",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "TRANIO",
+            "Is't possible, friend Licio, that Mistress Bianca",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "TRANIO",
+            "Doth fancy any other but Lucentio?"
+        ],
+        [
+            "TRANIO",
+            "I tell you, sir, she bears me fair in hand."
+        ],
+        [
+            "HORTENSIO",
+            "Sir, to satisfy you in what I have said,"
+        ],
+        [
+            "HORTENSIO",
+            "Stand by and mark the manner of his teaching.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "LUCENTIO",
+            "Now, mistress, profit you in what you read?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "BIANCA",
+            "What, master, read you? first resolve me that."
+        ],
+        [
+            "LUCENTIO",
+            "I read that I profess, the Art to Love."
+        ],
+        [
+            "BIANCA",
+            "And may you prove, sir, master of your art!"
+        ],
+        [
+            "LUCENTIO",
+            "While you, sweet dear, prove mistress of my heart!"
+        ],
+        [
+            "HORTENSIO",
+            "Quick proceeders, marry! Now, tell me, I pray,"
+        ],
+        [
+            "HORTENSIO",
+            "You that durst swear at your mistress Bianca"
+        ],
+        [
+            "HORTENSIO",
+            "Loved none in the world so well as Lucentio."
+        ],
+        [
+            "TRANIO",
+            "O despiteful love! unconstant womankind!"
+        ],
+        [
+            "TRANIO",
+            "I tell thee, Licio, this is wonderful."
+        ],
+        [
+            "HORTENSIO",
+            "Mistake no more: I am not Licio,"
+        ],
+        [
+            "HORTENSIO",
+            "Nor a musician, as I seem to be;"
+        ],
+        [
+            "HORTENSIO",
+            "But one that scorn to live in this disguise,"
+        ],
+        [
+            "HORTENSIO",
+            "For such a one as leaves a gentleman,"
+        ],
+        [
+            "HORTENSIO",
+            "And makes a god of such a cullion:"
+        ],
+        [
+            "HORTENSIO",
+            "Know, sir, that I am call'd Hortensio."
+        ],
+        [
+            "TRANIO",
+            "Signior Hortensio, I have often heard"
+        ],
+        [
+            "TRANIO",
+            "Of your entire affection to Bianca;"
+        ],
+        [
+            "TRANIO",
+            "And since mine eyes are witness of her lightness,"
+        ],
+        [
+            "TRANIO",
+            "I will with you, if you be so contented,"
+        ],
+        [
+            "TRANIO",
+            "Forswear Bianca and her love for ever."
+        ],
+        [
+            "HORTENSIO",
+            "See, how they kiss and court! Signior Lucentio,"
+        ],
+        [
+            "HORTENSIO",
+            "Here is my hand, and here I firmly vow"
+        ],
+        [
+            "HORTENSIO",
+            "Never to woo her no more, but do forswear her,"
+        ],
+        [
+            "HORTENSIO",
+            "As one unworthy all the former favours"
+        ],
+        [
+            "HORTENSIO",
+            "That I have fondly flatter'd her withal."
+        ],
+        [
+            "TRANIO",
+            "And here I take the unfeigned oath,"
+        ],
+        [
+            "TRANIO",
+            "Never to marry with her though she would entreat:"
+        ],
+        [
+            "TRANIO",
+            "Fie on her! see, how beastly she doth court him!"
+        ],
+        [
+            "HORTENSIO",
+            "Would all the world but he had quite forsworn!"
+        ],
+        [
+            "HORTENSIO",
+            "For me, that I may surely keep mine oath,"
+        ],
+        [
+            "HORTENSIO",
+            "I will be married to a wealthy widow,"
+        ],
+        [
+            "HORTENSIO",
+            "Ere three days pass, which hath as long loved me"
+        ],
+        [
+            "HORTENSIO",
+            "As I have loved this proud disdainful haggard."
+        ],
+        [
+            "HORTENSIO",
+            "And so farewell, Signior Lucentio."
+        ],
+        [
+            "HORTENSIO",
+            "Kindness in women, not their beauteous looks,"
+        ],
+        [
+            "HORTENSIO",
+            "Shall win my love: and so I take my leave,"
+        ],
+        [
+            "HORTENSIO",
+            "In resolution as I swore before.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "TRANIO",
+            "Mistress Bianca, bless you with such grace",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "TRANIO",
+            "As 'longeth to a lover's blessed case!"
+        ],
+        [
+            "TRANIO",
+            "Nay, I have ta'en you napping, gentle love,"
+        ],
+        [
+            "TRANIO",
+            "And have forsworn you with Hortensio."
+        ],
+        [
+            "BIANCA",
+            "Tranio, you jest: but have you both forsworn me?"
+        ],
+        [
+            "TRANIO",
+            "Mistress, we have."
+        ],
+        [
+            "LUCENTIO",
+            "Then we are rid of Licio."
+        ],
+        [
+            "TRANIO",
+            "I' faith, he'll have a lusty widow now,"
+        ],
+        [
+            "TRANIO",
+            "That shall be wood and wedded in a day."
+        ],
+        [
+            "BIANCA",
+            "God give him joy!"
+        ],
+        [
+            "TRANIO",
+            "Ay, and he'll tame her."
+        ],
+        [
+            "BIANCA",
+            "He says so, Tranio."
+        ],
+        [
+            "TRANIO",
+            "Faith, he is gone unto the taming-school."
+        ],
+        [
+            "BIANCA",
+            "The taming-school! what, is there such a place?"
+        ],
+        [
+            "TRANIO",
+            "Ay, mistress, and Petruchio is the master;"
+        ],
+        [
+            "TRANIO",
+            "That teacheth tricks eleven and twenty long,"
+        ],
+        [
+            "TRANIO",
+            "To tame a shrew and charm her chattering tongue.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "BIONDELLO",
+            "O master, master, I have watch'd so long",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "BIONDELLO",
+            "That I am dog-weary: but at last I spied"
+        ],
+        [
+            "BIONDELLO",
+            "An ancient angel coming down the hill,"
+        ],
+        [
+            "BIONDELLO",
+            "Will serve the turn."
+        ],
+        [
+            "TRANIO",
+            "What is he, Biondello?"
+        ],
+        [
+            "BIONDELLO",
+            "Master, a mercatante, or a pedant,"
+        ],
+        [
+            "BIONDELLO",
+            "I know not what; but format in apparel,"
+        ],
+        [
+            "BIONDELLO",
+            "In gait and countenance surely like a father."
+        ],
+        [
+            "LUCENTIO",
+            "And what of him, Tranio?"
+        ],
+        [
+            "TRANIO",
+            "If he be credulous and trust my tale,"
+        ],
+        [
+            "TRANIO",
+            "I'll make him glad to seem Vincentio,"
+        ],
+        [
+            "TRANIO",
+            "And give assurance to Baptista Minola,"
+        ],
+        [
+            "TRANIO",
+            "As if he were the right Vincentio"
+        ],
+        [
+            "TRANIO",
+            "Take in your love, and then let me alone.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "Pedant",
+            "God save you, sir!",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "TRANIO",
+            "And you, sir! you are welcome."
+        ],
+        [
+            "TRANIO",
+            "Travel you far on, or are you at the farthest?"
+        ],
+        [
+            "Pedant",
+            "Sir, at the farthest for a week or two:"
+        ],
+        [
+            "Pedant",
+            "But then up farther, and as for as Rome;"
+        ],
+        [
+            "Pedant",
+            "And so to Tripoli, if God lend me life."
+        ],
+        [
+            "TRANIO",
+            "What countryman, I pray?"
+        ],
+        [
+            "Pedant",
+            "Of Mantua."
+        ],
+        [
+            "TRANIO",
+            "Of Mantua, sir? marry, God forbid!"
+        ],
+        [
+            "TRANIO",
+            "And come to Padua, careless of your life?"
+        ],
+        [
+            "Pedant",
+            "My life, sir! how, I pray? for that goes hard."
+        ],
+        [
+            "TRANIO",
+            "'Tis death for any one in Mantua"
+        ],
+        [
+            "TRANIO",
+            "To come to Padua. Know you not the cause?"
+        ],
+        [
+            "TRANIO",
+            "Your ships are stay'd at Venice, and the duke,"
+        ],
+        [
+            "TRANIO",
+            "For private quarrel 'twixt your duke and him,"
+        ],
+        [
+            "TRANIO",
+            "Hath publish'd and proclaim'd it openly:"
+        ],
+        [
+            "TRANIO",
+            "'Tis, marvel, but that you are but newly come,"
+        ],
+        [
+            "TRANIO",
+            "You might have heard it else proclaim'd about."
+        ],
+        [
+            "Pedant",
+            "Alas! sir, it is worse for me than so;"
+        ],
+        [
+            "Pedant",
+            "For I have bills for money by exchange"
+        ],
+        [
+            "Pedant",
+            "From Florence and must here deliver them."
+        ],
+        [
+            "TRANIO",
+            "Well, sir, to do you courtesy,"
+        ],
+        [
+            "TRANIO",
+            "This will I do, and this I will advise you:"
+        ],
+        [
+            "TRANIO",
+            "First, tell me, have you ever been at Pisa?"
+        ],
+        [
+            "Pedant",
+            "Ay, sir, in Pisa have I often been,"
+        ],
+        [
+            "Pedant",
+            "Pisa renowned for grave citizens."
+        ],
+        [
+            "TRANIO",
+            "Among them know you one Vincentio?"
+        ],
+        [
+            "Pedant",
+            "I know him not, but I have heard of him;"
+        ],
+        [
+            "Pedant",
+            "A merchant of incomparable wealth."
+        ],
+        [
+            "TRANIO",
+            "He is my father, sir; and, sooth to say,"
+        ],
+        [
+            "TRANIO",
+            "In countenance somewhat doth resemble you."
+        ],
+        [
+            "BIONDELLO",
+            "[Aside] As much as an apple doth an oyster,"
+        ],
+        [
+            "BIONDELLO",
+            "and all one."
+        ],
+        [
+            "TRANIO",
+            "To save your life in this extremity,"
+        ],
+        [
+            "TRANIO",
+            "This favour will I do you for his sake;"
+        ],
+        [
+            "TRANIO",
+            "And think it not the worst of an your fortunes"
+        ],
+        [
+            "TRANIO",
+            "That you are like to Sir Vincentio."
+        ],
+        [
+            "TRANIO",
+            "His name and credit shall you undertake,"
+        ],
+        [
+            "TRANIO",
+            "And in my house you shall be friendly lodged:"
+        ],
+        [
+            "TRANIO",
+            "Look that you take upon you as you should;"
+        ],
+        [
+            "TRANIO",
+            "You understand me, sir: so shall you stay"
+        ],
+        [
+            "TRANIO",
+            "Till you have done your business in the city:"
+        ],
+        [
+            "TRANIO",
+            "If this be courtesy, sir, accept of it."
+        ],
+        [
+            "Pedant",
+            "O sir, I do; and will repute you ever"
+        ],
+        [
+            "Pedant",
+            "The patron of my life and liberty."
+        ],
+        [
+            "TRANIO",
+            "Then go with me to make the matter good."
+        ],
+        [
+            "TRANIO",
+            "This, by the way, I let you understand;"
+        ],
+        [
+            "TRANIO",
+            "my father is here look'd for every day,"
+        ],
+        [
+            "TRANIO",
+            "To pass assurance of a dower in marriage"
+        ],
+        [
+            "TRANIO",
+            "'Twixt me and one Baptista's daughter here:"
+        ],
+        [
+            "TRANIO",
+            "In all these circumstances I'll instruct you:"
+        ],
+        [
+            "TRANIO",
+            "Go with me to clothe you as becomes you.",
+            {
+                "following_direction_line": "6"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter TRANIO and HORTENSIO"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter BIANCA and LUCENTIO"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter BIONDELLO"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt LUCENTIO and BIANCA. Enter a Pedant"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "TRANIO": [
+            [
+                "1",
+                "3"
+            ],
+            [
+                "14",
+                "15"
+            ],
+            [
+                "22",
+                "26"
+            ],
+            [
+                "32",
+                "34"
+            ],
+            [
+                "44",
+                "47"
+            ],
+            [
+                "49",
+                "49"
+            ],
+            [
+                "51",
+                "52"
+            ],
+            [
+                "54",
+                "54"
+            ],
+            [
+                "56",
+                "56"
+            ],
+            [
+                "58",
+                "60"
+            ],
+            [
+                "65",
+                "65"
+            ],
+            [
+                "70",
+                "74"
+            ],
+            [
+                "76",
+                "77"
+            ],
+            [
+                "81",
+                "81"
+            ],
+            [
+                "83",
+                "84"
+            ],
+            [
+                "86",
+                "92"
+            ],
+            [
+                "96",
+                "98"
+            ],
+            [
+                "101",
+                "101"
+            ],
+            [
+                "104",
+                "105"
+            ],
+            [
+                "108",
+                "117"
+            ],
+            [
+                "120",
+                "126"
+            ]
+        ],
+        "HORTENSIO": [
+            [
+                "4",
+                "5"
+            ],
+            [
+                "11",
+                "13"
+            ],
+            [
+                "16",
+                "21"
+            ],
+            [
+                "27",
+                "31"
+            ],
+            [
+                "35",
+                "43"
+            ]
+        ],
+        "LUCENTIO": [
+            [
+                "6",
+                "6"
+            ],
+            [
+                "8",
+                "8"
+            ],
+            [
+                "10",
+                "10"
+            ],
+            [
+                "50",
+                "50"
+            ],
+            [
+                "69",
+                "69"
+            ]
+        ],
+        "BIANCA": [
+            [
+                "7",
+                "7"
+            ],
+            [
+                "9",
+                "9"
+            ],
+            [
+                "48",
+                "48"
+            ],
+            [
+                "53",
+                "53"
+            ],
+            [
+                "55",
+                "55"
+            ],
+            [
+                "57",
+                "57"
+            ]
+        ],
+        "BIONDELLO": [
+            [
+                "61",
+                "64"
+            ],
+            [
+                "66",
+                "68"
+            ],
+            [
+                "106",
+                "107"
+            ]
+        ],
+        "Pedant": [
+            [
+                "75",
+                "75"
+            ],
+            [
+                "78",
+                "80"
+            ],
+            [
+                "82",
+                "82"
+            ],
+            [
+                "85",
+                "85"
+            ],
+            [
+                "93",
+                "95"
+            ],
+            [
+                "99",
+                "100"
+            ],
+            [
+                "102",
+                "103"
+            ],
+            [
+                "118",
+                "119"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "Padua. Before BAPTISTA'S house."
+}

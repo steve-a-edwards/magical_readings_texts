@@ -1,0 +1,1359 @@
+{
+    "scene_id": "the taming of the shrew~~Act_5~~Scene_2",
+    "work_number": "8",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "LUCENTIO",
+            "At last, though long, our jarring notes agree:",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "LUCENTIO",
+            "And time it is, when raging war is done,"
+        ],
+        [
+            "LUCENTIO",
+            "To smile at scapes and perils overblown."
+        ],
+        [
+            "LUCENTIO",
+            "My fair Bianca, bid my father welcome,"
+        ],
+        [
+            "LUCENTIO",
+            "While I with self-same kindness welcome thine."
+        ],
+        [
+            "LUCENTIO",
+            "Brother Petruchio, sister Katharina,"
+        ],
+        [
+            "LUCENTIO",
+            "And thou, Hortensio, with thy loving widow,"
+        ],
+        [
+            "LUCENTIO",
+            "Feast with the best, and welcome to my house:"
+        ],
+        [
+            "LUCENTIO",
+            "My banquet is to close our stomachs up,"
+        ],
+        [
+            "LUCENTIO",
+            "After our great good cheer. Pray you, sit down;"
+        ],
+        [
+            "LUCENTIO",
+            "For now we sit to chat as well as eat."
+        ],
+        [
+            "PETRUCHIO",
+            "Nothing but sit and sit, and eat and eat!"
+        ],
+        [
+            "BAPTISTA",
+            "Padua affords this kindness, son Petruchio."
+        ],
+        [
+            "PETRUCHIO",
+            "Padua affords nothing but what is kind."
+        ],
+        [
+            "HORTENSIO",
+            "For both our sakes, I would that word were true."
+        ],
+        [
+            "PETRUCHIO",
+            "Now, for my life, Hortensio fears his widow."
+        ],
+        [
+            "Widow",
+            "Then never trust me, if I be afeard."
+        ],
+        [
+            "PETRUCHIO",
+            "You are very sensible, and yet you miss my sense:"
+        ],
+        [
+            "PETRUCHIO",
+            "I mean, Hortensio is afeard of you."
+        ],
+        [
+            "Widow",
+            "He that is giddy thinks the world turns round."
+        ],
+        [
+            "PETRUCHIO",
+            "Roundly replied."
+        ],
+        [
+            "KATHARINA",
+            "Mistress, how mean you that?"
+        ],
+        [
+            "Widow",
+            "Thus I conceive by him."
+        ],
+        [
+            "PETRUCHIO",
+            "Conceives by me! How likes Hortensio that?"
+        ],
+        [
+            "HORTENSIO",
+            "My widow says, thus she conceives her tale."
+        ],
+        [
+            "PETRUCHIO",
+            "Very well mended. Kiss him for that, good widow."
+        ],
+        [
+            "KATHARINA",
+            "'He that is giddy thinks the world turns round:'"
+        ],
+        [
+            "KATHARINA",
+            "I pray you, tell me what you meant by that."
+        ],
+        [
+            "Widow",
+            "Your husband, being troubled with a shrew,"
+        ],
+        [
+            "Widow",
+            "Measures my husband's sorrow by his woe:"
+        ],
+        [
+            "Widow",
+            "And now you know my meaning,"
+        ],
+        [
+            "KATHARINA",
+            "A very mean meaning."
+        ],
+        [
+            "Widow",
+            "Right, I mean you."
+        ],
+        [
+            "KATHARINA",
+            "And I am mean indeed, respecting you."
+        ],
+        [
+            "PETRUCHIO",
+            "To her, Kate!"
+        ],
+        [
+            "HORTENSIO",
+            "To her, widow!"
+        ],
+        [
+            "PETRUCHIO",
+            "A hundred marks, my Kate does put her down."
+        ],
+        [
+            "HORTENSIO",
+            "That's my office."
+        ],
+        [
+            "PETRUCHIO",
+            "Spoke like an officer; ha' to thee, lad!",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "BAPTISTA",
+            "How likes Gremio these quick-witted folks?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "GREMIO",
+            "Believe me, sir, they butt together well."
+        ],
+        [
+            "BIANCA",
+            "Head, and butt! an hasty-witted body"
+        ],
+        [
+            "BIANCA",
+            "Would say your head and butt were head and horn."
+        ],
+        [
+            "VINCENTIO",
+            "Ay, mistress bride, hath that awaken'd you?"
+        ],
+        [
+            "BIANCA",
+            "Ay, but not frighted me; therefore I'll sleep again."
+        ],
+        [
+            "PETRUCHIO",
+            "Nay, that you shall not: since you have begun,"
+        ],
+        [
+            "PETRUCHIO",
+            "Have at you for a bitter jest or two!"
+        ],
+        [
+            "BIANCA",
+            "Am I your bird? I mean to shift my bush;"
+        ],
+        [
+            "BIANCA",
+            "And then pursue me as you draw your bow."
+        ],
+        [
+            "BIANCA",
+            "You are welcome all.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "She hath prevented me. Here, Signior Tranio.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "This bird you aim'd at, though you hit her not;"
+        ],
+        [
+            "PETRUCHIO",
+            "Therefore a health to all that shot and miss'd."
+        ],
+        [
+            "TRANIO",
+            "O, sir, Lucentio slipp'd me like his greyhound,"
+        ],
+        [
+            "TRANIO",
+            "Which runs himself and catches for his master."
+        ],
+        [
+            "PETRUCHIO",
+            "A good swift simile, but something currish."
+        ],
+        [
+            "TRANIO",
+            "'Tis well, sir, that you hunted for yourself:"
+        ],
+        [
+            "TRANIO",
+            "'Tis thought your deer does hold you at a bay."
+        ],
+        [
+            "BAPTISTA",
+            "O ho, Petruchio! Tranio hits you now."
+        ],
+        [
+            "LUCENTIO",
+            "I thank thee for that gird, good Tranio."
+        ],
+        [
+            "HORTENSIO",
+            "Confess, confess, hath he not hit you here?"
+        ],
+        [
+            "PETRUCHIO",
+            "A' has a little gall'd me, I confess;"
+        ],
+        [
+            "PETRUCHIO",
+            "And, as the jest did glance away from me,"
+        ],
+        [
+            "PETRUCHIO",
+            "'Tis ten to one it maim'd you two outright."
+        ],
+        [
+            "BAPTISTA",
+            "Now, in good sadness, son Petruchio,"
+        ],
+        [
+            "BAPTISTA",
+            "I think thou hast the veriest shrew of all."
+        ],
+        [
+            "PETRUCHIO",
+            "Well, I say no: and therefore for assurance"
+        ],
+        [
+            "PETRUCHIO",
+            "Let's each one send unto his wife;"
+        ],
+        [
+            "PETRUCHIO",
+            "And he whose wife is most obedient"
+        ],
+        [
+            "PETRUCHIO",
+            "To come at first when he doth send for her,"
+        ],
+        [
+            "PETRUCHIO",
+            "Shall win the wager which we will propose."
+        ],
+        [
+            "HORTENSIO",
+            "Content. What is the wager?"
+        ],
+        [
+            "LUCENTIO",
+            "Twenty crowns."
+        ],
+        [
+            "PETRUCHIO",
+            "Twenty crowns!"
+        ],
+        [
+            "PETRUCHIO",
+            "I'll venture so much of my hawk or hound,"
+        ],
+        [
+            "PETRUCHIO",
+            "But twenty times so much upon my wife."
+        ],
+        [
+            "LUCENTIO",
+            "A hundred then."
+        ],
+        [
+            "HORTENSIO",
+            "Content."
+        ],
+        [
+            "PETRUCHIO",
+            "A match! 'tis done."
+        ],
+        [
+            "HORTENSIO",
+            "Who shall begin?"
+        ],
+        [
+            "LUCENTIO",
+            "That will I."
+        ],
+        [
+            "LUCENTIO",
+            "Go, Biondello, bid your mistress come to me."
+        ],
+        [
+            "BIONDELLO",
+            "I go.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "BAPTISTA",
+            "Son, I'll be your half, Bianca comes.",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "LUCENTIO",
+            "I'll have no halves; I'll bear it all myself.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "LUCENTIO",
+            "How now! what news?",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "BIONDELLO",
+            "Sir, my mistress sends you word"
+        ],
+        [
+            "BIONDELLO",
+            "That she is busy and she cannot come."
+        ],
+        [
+            "PETRUCHIO",
+            "How! she is busy and she cannot come!"
+        ],
+        [
+            "PETRUCHIO",
+            "Is that an answer?"
+        ],
+        [
+            "GREMIO",
+            "Ay, and a kind one too:"
+        ],
+        [
+            "GREMIO",
+            "Pray God, sir, your wife send you not a worse."
+        ],
+        [
+            "PETRUCHIO",
+            "I hope better."
+        ],
+        [
+            "HORTENSIO",
+            "Sirrah Biondello, go and entreat my wife"
+        ],
+        [
+            "HORTENSIO",
+            "To come to me forthwith.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "O, ho! entreat her!",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "Nay, then she must needs come."
+        ],
+        [
+            "HORTENSIO",
+            "I am afraid, sir,"
+        ],
+        [
+            "HORTENSIO",
+            "Do what you can, yours will not be entreated.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "HORTENSIO",
+            "Now, where's my wife?",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "BIONDELLO",
+            "She says you have some goodly jest in hand:"
+        ],
+        [
+            "BIONDELLO",
+            "She will not come: she bids you come to her."
+        ],
+        [
+            "PETRUCHIO",
+            "Worse and worse; she will not come! O vile,"
+        ],
+        [
+            "PETRUCHIO",
+            "Intolerable, not to be endured!"
+        ],
+        [
+            "PETRUCHIO",
+            "Sirrah Grumio, go to your mistress;"
+        ],
+        [
+            "PETRUCHIO",
+            "Say, I command her to come to me.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "HORTENSIO",
+            "I know her answer.",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "What?"
+        ],
+        [
+            "HORTENSIO",
+            "She will not."
+        ],
+        [
+            "PETRUCHIO",
+            "The fouler fortune mine, and there an end."
+        ],
+        [
+            "BAPTISTA",
+            "Now, by my holidame, here comes Katharina!",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "KATHARINA",
+            "What is your will, sir, that you send for me?",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "Where is your sister, and Hortensio's wife?"
+        ],
+        [
+            "KATHARINA",
+            "They sit conferring by the parlor fire."
+        ],
+        [
+            "PETRUCHIO",
+            "Go fetch them hither: if they deny to come."
+        ],
+        [
+            "PETRUCHIO",
+            "Swinge me them soundly forth unto their husbands:"
+        ],
+        [
+            "PETRUCHIO",
+            "Away, I say, and bring them hither straight.",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "LUCENTIO",
+            "Here is a wonder, if you talk of a wonder.",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "HORTENSIO",
+            "And so it is: I wonder what it bodes."
+        ],
+        [
+            "PETRUCHIO",
+            "Marry, peace it bodes, and love and quiet life,"
+        ],
+        [
+            "PETRUCHIO",
+            "And awful rule and right supremacy;"
+        ],
+        [
+            "PETRUCHIO",
+            "And, to be short, what not, that's sweet and happy?"
+        ],
+        [
+            "BAPTISTA",
+            "Now, fair befal thee, good Petruchio!"
+        ],
+        [
+            "BAPTISTA",
+            "The wager thou hast won; and I will add"
+        ],
+        [
+            "BAPTISTA",
+            "Unto their losses twenty thousand crowns;"
+        ],
+        [
+            "BAPTISTA",
+            "Another dowry to another daughter,"
+        ],
+        [
+            "BAPTISTA",
+            "For she is changed, as she had never been."
+        ],
+        [
+            "PETRUCHIO",
+            "Nay, I will win my wager better yet"
+        ],
+        [
+            "PETRUCHIO",
+            "And show more sign of her obedience,"
+        ],
+        [
+            "PETRUCHIO",
+            "Her new-built virtue and obedience."
+        ],
+        [
+            "PETRUCHIO",
+            "See where she comes and brings your froward wives"
+        ],
+        [
+            "PETRUCHIO",
+            "As prisoners to her womanly persuasion.",
+            {
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "Katharina, that cap of yours becomes you not:",
+            {
+                "preceding_direction_line": "11"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "Off with that bauble, throw it under-foot."
+        ],
+        [
+            "Widow",
+            "Lord, let me never have a cause to sigh,"
+        ],
+        [
+            "Widow",
+            "Till I be brought to such a silly pass!"
+        ],
+        [
+            "BIANCA",
+            "Fie! what a foolish duty call you this?"
+        ],
+        [
+            "LUCENTIO",
+            "I would your duty were as foolish too:"
+        ],
+        [
+            "LUCENTIO",
+            "The wisdom of your duty, fair Bianca,"
+        ],
+        [
+            "LUCENTIO",
+            "Hath cost me an hundred crowns since supper-time."
+        ],
+        [
+            "BIANCA",
+            "The more fool you, for laying on my duty."
+        ],
+        [
+            "PETRUCHIO",
+            "Katharina, I charge thee, tell these headstrong women"
+        ],
+        [
+            "PETRUCHIO",
+            "What duty they do owe their lords and husbands."
+        ],
+        [
+            "Widow",
+            "Come, come, you're mocking: we will have no telling."
+        ],
+        [
+            "PETRUCHIO",
+            "Come on, I say; and first begin with her."
+        ],
+        [
+            "Widow",
+            "She shall not."
+        ],
+        [
+            "PETRUCHIO",
+            "I say she shall: and first begin with her."
+        ],
+        [
+            "KATHARINA",
+            "Fie, fie! unknit that threatening unkind brow,"
+        ],
+        [
+            "KATHARINA",
+            "And dart not scornful glances from those eyes,"
+        ],
+        [
+            "KATHARINA",
+            "To wound thy lord, thy king, thy governor:"
+        ],
+        [
+            "KATHARINA",
+            "It blots thy beauty as frosts do bite the meads,"
+        ],
+        [
+            "KATHARINA",
+            "Confounds thy fame as whirlwinds shake fair buds,"
+        ],
+        [
+            "KATHARINA",
+            "And in no sense is meet or amiable."
+        ],
+        [
+            "KATHARINA",
+            "A woman moved is like a fountain troubled,"
+        ],
+        [
+            "KATHARINA",
+            "Muddy, ill-seeming, thick, bereft of beauty;"
+        ],
+        [
+            "KATHARINA",
+            "And while it is so, none so dry or thirsty"
+        ],
+        [
+            "KATHARINA",
+            "Will deign to sip or touch one drop of it."
+        ],
+        [
+            "KATHARINA",
+            "Thy husband is thy lord, thy life, thy keeper,"
+        ],
+        [
+            "KATHARINA",
+            "Thy head, thy sovereign; one that cares for thee,"
+        ],
+        [
+            "KATHARINA",
+            "And for thy maintenance commits his body"
+        ],
+        [
+            "KATHARINA",
+            "To painful labour both by sea and land,"
+        ],
+        [
+            "KATHARINA",
+            "To watch the night in storms, the day in cold,"
+        ],
+        [
+            "KATHARINA",
+            "Whilst thou liest warm at home, secure and safe;"
+        ],
+        [
+            "KATHARINA",
+            "And craves no other tribute at thy hands"
+        ],
+        [
+            "KATHARINA",
+            "But love, fair looks and true obedience;"
+        ],
+        [
+            "KATHARINA",
+            "Too little payment for so great a debt."
+        ],
+        [
+            "KATHARINA",
+            "Such duty as the subject owes the prince"
+        ],
+        [
+            "KATHARINA",
+            "Even such a woman oweth to her husband;"
+        ],
+        [
+            "KATHARINA",
+            "And when she is froward, peevish, sullen, sour,"
+        ],
+        [
+            "KATHARINA",
+            "And not obedient to his honest will,"
+        ],
+        [
+            "KATHARINA",
+            "What is she but a foul contending rebel"
+        ],
+        [
+            "KATHARINA",
+            "And graceless traitor to her loving lord?"
+        ],
+        [
+            "KATHARINA",
+            "I am ashamed that women are so simple"
+        ],
+        [
+            "KATHARINA",
+            "To offer war where they should kneel for peace;"
+        ],
+        [
+            "KATHARINA",
+            "Or seek for rule, supremacy and sway,"
+        ],
+        [
+            "KATHARINA",
+            "When they are bound to serve, love and obey."
+        ],
+        [
+            "KATHARINA",
+            "Why are our bodies soft and weak and smooth,"
+        ],
+        [
+            "KATHARINA",
+            "Unapt to toil and trouble in the world,"
+        ],
+        [
+            "KATHARINA",
+            "But that our soft conditions and our hearts"
+        ],
+        [
+            "KATHARINA",
+            "Should well agree with our external parts?"
+        ],
+        [
+            "KATHARINA",
+            "Come, come, you froward and unable worms!"
+        ],
+        [
+            "KATHARINA",
+            "My mind hath been as big as one of yours,"
+        ],
+        [
+            "KATHARINA",
+            "My heart as great, my reason haply more,"
+        ],
+        [
+            "KATHARINA",
+            "To bandy word for word and frown for frown;"
+        ],
+        [
+            "KATHARINA",
+            "But now I see our lances are but straws,"
+        ],
+        [
+            "KATHARINA",
+            "Our strength as weak, our weakness past compare,"
+        ],
+        [
+            "KATHARINA",
+            "That seeming to be most which we indeed least are."
+        ],
+        [
+            "KATHARINA",
+            "Then vail your stomachs, for it is no boot,"
+        ],
+        [
+            "KATHARINA",
+            "And place your hands below your husband's foot:"
+        ],
+        [
+            "KATHARINA",
+            "In token of which duty, if he please,"
+        ],
+        [
+            "KATHARINA",
+            "My hand is ready; may it do him ease."
+        ],
+        [
+            "PETRUCHIO",
+            "Why, there's a wench! Come on, and kiss me, Kate."
+        ],
+        [
+            "LUCENTIO",
+            "Well, go thy ways, old lad; for thou shalt ha't."
+        ],
+        [
+            "VINCENTIO",
+            "'Tis a good hearing when children are toward."
+        ],
+        [
+            "LUCENTIO",
+            "But a harsh hearing when women are froward."
+        ],
+        [
+            "PETRUCHIO",
+            "Come, Kate, we'll to bed."
+        ],
+        [
+            "PETRUCHIO",
+            "We three are married, but you two are sped.",
+            {
+                "following_direction_line": "12"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "'Twas I won the wager, though you hit the white;",
+            {
+                "preceding_direction_line": "12"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "And, being a winner, God give you good night!",
+            {
+                "following_direction_line": "13"
+            }
+        ],
+        [
+            "HORTENSIO",
+            "Now, go thy ways; thou hast tamed a curst shrew.",
+            {
+                "preceding_direction_line": "13"
+            }
+        ],
+        [
+            "LUCENTIO",
+            "'Tis a wonder, by your leave, she will be tamed so.",
+            {
+                "following_direction_line": "14"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter BAPTISTA, VINCENTIO, GREMIO, the Pedant, LUCENTIO, BIANCA, PETRUCHIO, KATHARINA, HORTENSIO, and Widow, TRANIO, BIONDELLO, and GRUMIO the Serving-men with Tranio bringing in a banquet"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Drinks to HORTENSIO"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt BIANCA, KATHARINA, and Widow"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Re-enter BIONDELLO"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exit BIONDELLO"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Re-enter BIONDELLO"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exit GRUMIO"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Re-enter KATARINA"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Exit KATHARINA"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "Re-enter KATHARINA, with BIANCA and Widow"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "To LUCENTIO"
+        ],
+        [
+            "_DIRECTION",
+            "D13",
+            "Exeunt PETRUCHIO and KATHARINA"
+        ],
+        [
+            "_DIRECTION",
+            "D14",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "LUCENTIO": [
+            [
+                "1",
+                "11"
+            ],
+            [
+                "60",
+                "60"
+            ],
+            [
+                "73",
+                "73"
+            ],
+            [
+                "77",
+                "77"
+            ],
+            [
+                "81",
+                "82"
+            ],
+            [
+                "85",
+                "86"
+            ],
+            [
+                "118",
+                "118"
+            ],
+            [
+                "138",
+                "140"
+            ],
+            [
+                "193",
+                "193"
+            ],
+            [
+                "195",
+                "195"
+            ],
+            [
+                "201",
+                "201"
+            ]
+        ],
+        "PETRUCHIO": [
+            [
+                "12",
+                "12"
+            ],
+            [
+                "14",
+                "14"
+            ],
+            [
+                "16",
+                "16"
+            ],
+            [
+                "18",
+                "19"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "24",
+                "24"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "35",
+                "35"
+            ],
+            [
+                "37",
+                "37"
+            ],
+            [
+                "39",
+                "39"
+            ],
+            [
+                "46",
+                "47"
+            ],
+            [
+                "51",
+                "53"
+            ],
+            [
+                "56",
+                "56"
+            ],
+            [
+                "62",
+                "64"
+            ],
+            [
+                "67",
+                "71"
+            ],
+            [
+                "74",
+                "76"
+            ],
+            [
+                "79",
+                "79"
+            ],
+            [
+                "89",
+                "90"
+            ],
+            [
+                "93",
+                "93"
+            ],
+            [
+                "96",
+                "97"
+            ],
+            [
+                "103",
+                "106"
+            ],
+            [
+                "108",
+                "108"
+            ],
+            [
+                "110",
+                "110"
+            ],
+            [
+                "113",
+                "113"
+            ],
+            [
+                "115",
+                "117"
+            ],
+            [
+                "120",
+                "122"
+            ],
+            [
+                "128",
+                "134"
+            ],
+            [
+                "142",
+                "143"
+            ],
+            [
+                "145",
+                "145"
+            ],
+            [
+                "147",
+                "147"
+            ],
+            [
+                "192",
+                "192"
+            ],
+            [
+                "196",
+                "199"
+            ]
+        ],
+        "BAPTISTA": [
+            [
+                "13",
+                "13"
+            ],
+            [
+                "40",
+                "40"
+            ],
+            [
+                "59",
+                "59"
+            ],
+            [
+                "65",
+                "66"
+            ],
+            [
+                "84",
+                "84"
+            ],
+            [
+                "111",
+                "111"
+            ],
+            [
+                "123",
+                "127"
+            ]
+        ],
+        "HORTENSIO": [
+            [
+                "15",
+                "15"
+            ],
+            [
+                "25",
+                "25"
+            ],
+            [
+                "36",
+                "36"
+            ],
+            [
+                "38",
+                "38"
+            ],
+            [
+                "61",
+                "61"
+            ],
+            [
+                "72",
+                "72"
+            ],
+            [
+                "78",
+                "78"
+            ],
+            [
+                "80",
+                "80"
+            ],
+            [
+                "94",
+                "95"
+            ],
+            [
+                "98",
+                "100"
+            ],
+            [
+                "107",
+                "107"
+            ],
+            [
+                "109",
+                "109"
+            ],
+            [
+                "119",
+                "119"
+            ],
+            [
+                "200",
+                "200"
+            ]
+        ],
+        "Widow": [
+            [
+                "17",
+                "17"
+            ],
+            [
+                "20",
+                "20"
+            ],
+            [
+                "23",
+                "23"
+            ],
+            [
+                "29",
+                "31"
+            ],
+            [
+                "33",
+                "33"
+            ],
+            [
+                "135",
+                "136"
+            ],
+            [
+                "144",
+                "144"
+            ],
+            [
+                "146",
+                "146"
+            ]
+        ],
+        "KATHARINA": [
+            [
+                "22",
+                "22"
+            ],
+            [
+                "27",
+                "28"
+            ],
+            [
+                "32",
+                "32"
+            ],
+            [
+                "34",
+                "34"
+            ],
+            [
+                "112",
+                "112"
+            ],
+            [
+                "114",
+                "114"
+            ],
+            [
+                "148",
+                "191"
+            ]
+        ],
+        "GREMIO": [
+            [
+                "41",
+                "41"
+            ],
+            [
+                "91",
+                "92"
+            ]
+        ],
+        "BIANCA": [
+            [
+                "42",
+                "43"
+            ],
+            [
+                "45",
+                "45"
+            ],
+            [
+                "48",
+                "50"
+            ],
+            [
+                "137",
+                "137"
+            ],
+            [
+                "141",
+                "141"
+            ]
+        ],
+        "VINCENTIO": [
+            [
+                "44",
+                "44"
+            ],
+            [
+                "194",
+                "194"
+            ]
+        ],
+        "TRANIO": [
+            [
+                "54",
+                "55"
+            ],
+            [
+                "57",
+                "58"
+            ]
+        ],
+        "BIONDELLO": [
+            [
+                "83",
+                "83"
+            ],
+            [
+                "87",
+                "88"
+            ],
+            [
+                "101",
+                "102"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "Padua. LUCENTIO'S house."
+}

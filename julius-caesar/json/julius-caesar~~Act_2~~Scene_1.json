@@ -1,0 +1,1988 @@
+{
+    "scene_id": "julius caesar~~Act_2~~Scene_1",
+    "work_number": "11",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "BRUTUS",
+            "What, Lucius, ho!",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "BRUTUS",
+            "I cannot, by the progress of the stars,"
+        ],
+        [
+            "BRUTUS",
+            "Give guess how near to day. Lucius, I say!"
+        ],
+        [
+            "BRUTUS",
+            "I would it were my fault to sleep so soundly."
+        ],
+        [
+            "BRUTUS",
+            "When, Lucius, when? awake, I say! what, Lucius!",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "LUCIUS",
+            "Call'd you, my lord?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Get me a taper in my study, Lucius:"
+        ],
+        [
+            "BRUTUS",
+            "When it is lighted, come and call me here."
+        ],
+        [
+            "LUCIUS",
+            "I will, my lord.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "BRUTUS",
+            "It must be by his death: and for my part,",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "BRUTUS",
+            "I know no personal cause to spurn at him,"
+        ],
+        [
+            "BRUTUS",
+            "But for the general. He would be crown'd:"
+        ],
+        [
+            "BRUTUS",
+            "How that might change his nature, there's the question."
+        ],
+        [
+            "BRUTUS",
+            "It is the bright day that brings forth the adder;"
+        ],
+        [
+            "BRUTUS",
+            "And that craves wary walking. Crown him?--that;--"
+        ],
+        [
+            "BRUTUS",
+            "And then, I grant, we put a sting in him,"
+        ],
+        [
+            "BRUTUS",
+            "That at his will he may do danger with."
+        ],
+        [
+            "BRUTUS",
+            "The abuse of greatness is, when it disjoins"
+        ],
+        [
+            "BRUTUS",
+            "Remorse from power: and, to speak truth of Caesar,"
+        ],
+        [
+            "BRUTUS",
+            "I have not known when his affections sway'd"
+        ],
+        [
+            "BRUTUS",
+            "More than his reason. But 'tis a common proof,"
+        ],
+        [
+            "BRUTUS",
+            "That lowliness is young ambition's ladder,"
+        ],
+        [
+            "BRUTUS",
+            "Whereto the climber-upward turns his face;"
+        ],
+        [
+            "BRUTUS",
+            "But when he once attains the upmost round."
+        ],
+        [
+            "BRUTUS",
+            "He then unto the ladder turns his back,"
+        ],
+        [
+            "BRUTUS",
+            "Looks in the clouds, scorning the base degrees"
+        ],
+        [
+            "BRUTUS",
+            "By which he did ascend. So Caesar may."
+        ],
+        [
+            "BRUTUS",
+            "Then, lest he may, prevent. And, since the quarrel"
+        ],
+        [
+            "BRUTUS",
+            "Will bear no colour for the thing he is,"
+        ],
+        [
+            "BRUTUS",
+            "Fashion it thus; that what he is, augmented,"
+        ],
+        [
+            "BRUTUS",
+            "Would run to these and these extremities:"
+        ],
+        [
+            "BRUTUS",
+            "And therefore think him as a serpent's egg"
+        ],
+        [
+            "BRUTUS",
+            "Which, hatch'd, would, as his kind, grow mischievous,"
+        ],
+        [
+            "BRUTUS",
+            "And kill him in the shell.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "LUCIUS",
+            "The taper burneth in your closet, sir.",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "LUCIUS",
+            "Searching the window for a flint, I found"
+        ],
+        [
+            "LUCIUS",
+            "This paper, thus seal'd up; and, I am sure,"
+        ],
+        [
+            "LUCIUS",
+            "It did not lie there when I went to bed.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Get you to bed again; it is not day.",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Is not to-morrow, boy, the ides of March?"
+        ],
+        [
+            "LUCIUS",
+            "I know not, sir."
+        ],
+        [
+            "BRUTUS",
+            "Look in the calendar, and bring me word."
+        ],
+        [
+            "LUCIUS",
+            "I will, sir.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "BRUTUS",
+            "The exhalations whizzing in the air",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Give so much light that I may read by them.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "BRUTUS",
+            "'Brutus, thou sleep'st: awake, and see thyself.",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Shall Rome, etc. Speak, strike, redress!"
+        ],
+        [
+            "BRUTUS",
+            "Brutus, thou sleep'st: awake!'"
+        ],
+        [
+            "BRUTUS",
+            "Such instigations have been often dropp'd"
+        ],
+        [
+            "BRUTUS",
+            "Where I have took them up."
+        ],
+        [
+            "BRUTUS",
+            "'Shall Rome, etc.' Thus must I piece it out:"
+        ],
+        [
+            "BRUTUS",
+            "Shall Rome stand under one man's awe? What, Rome?"
+        ],
+        [
+            "BRUTUS",
+            "My ancestors did from the streets of Rome"
+        ],
+        [
+            "BRUTUS",
+            "The Tarquin drive, when he was call'd a king."
+        ],
+        [
+            "BRUTUS",
+            "'Speak, strike, redress!' Am I entreated"
+        ],
+        [
+            "BRUTUS",
+            "To speak and strike? O Rome, I make thee promise:"
+        ],
+        [
+            "BRUTUS",
+            "If the redress will follow, thou receivest"
+        ],
+        [
+            "BRUTUS",
+            "Thy full petition at the hand of Brutus!",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "LUCIUS",
+            "Sir, March is wasted fourteen days.",
+            {
+                "preceding_direction_line": "8",
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "BRUTUS",
+            "'Tis good. Go to the gate; somebody knocks.",
+            {
+                "preceding_direction_line": "9",
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Since Cassius first did whet me against Caesar,",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "BRUTUS",
+            "I have not slept."
+        ],
+        [
+            "BRUTUS",
+            "Between the acting of a dreadful thing"
+        ],
+        [
+            "BRUTUS",
+            "And the first motion, all the interim is"
+        ],
+        [
+            "BRUTUS",
+            "Like a phantasma, or a hideous dream:"
+        ],
+        [
+            "BRUTUS",
+            "The Genius and the mortal instruments"
+        ],
+        [
+            "BRUTUS",
+            "Are then in council; and the state of man,"
+        ],
+        [
+            "BRUTUS",
+            "Like to a little kingdom, suffers then"
+        ],
+        [
+            "BRUTUS",
+            "The nature of an insurrection.",
+            {
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "LUCIUS",
+            "Sir, 'tis your brother Cassius at the door,",
+            {
+                "preceding_direction_line": "11"
+            }
+        ],
+        [
+            "LUCIUS",
+            "Who doth desire to see you."
+        ],
+        [
+            "BRUTUS",
+            "Is he alone?"
+        ],
+        [
+            "LUCIUS",
+            "No, sir, there are moe with him."
+        ],
+        [
+            "BRUTUS",
+            "Do you know them?"
+        ],
+        [
+            "LUCIUS",
+            "No, sir; their hats are pluck'd about their ears,"
+        ],
+        [
+            "LUCIUS",
+            "And half their faces buried in their cloaks,"
+        ],
+        [
+            "LUCIUS",
+            "That by no means I may discover them"
+        ],
+        [
+            "LUCIUS",
+            "By any mark of favour."
+        ],
+        [
+            "BRUTUS",
+            "Let 'em enter.",
+            {
+                "following_direction_line": "12"
+            }
+        ],
+        [
+            "BRUTUS",
+            "They are the faction. O conspiracy,",
+            {
+                "preceding_direction_line": "12"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Shamest thou to show thy dangerous brow by night,"
+        ],
+        [
+            "BRUTUS",
+            "When evils are most free? O, then by day"
+        ],
+        [
+            "BRUTUS",
+            "Where wilt thou find a cavern dark enough"
+        ],
+        [
+            "BRUTUS",
+            "To mask thy monstrous visage? Seek none, conspiracy;"
+        ],
+        [
+            "BRUTUS",
+            "Hide it in smiles and affability:"
+        ],
+        [
+            "BRUTUS",
+            "For if thou path, thy native semblance on,"
+        ],
+        [
+            "BRUTUS",
+            "Not Erebus itself were dim enough"
+        ],
+        [
+            "BRUTUS",
+            "To hide thee from prevention.",
+            {
+                "following_direction_line": "13"
+            }
+        ],
+        [
+            "CASSIUS",
+            "I think we are too bold upon your rest:",
+            {
+                "preceding_direction_line": "13"
+            }
+        ],
+        [
+            "CASSIUS",
+            "Good morrow, Brutus; do we trouble you?"
+        ],
+        [
+            "BRUTUS",
+            "I have been up this hour, awake all night."
+        ],
+        [
+            "BRUTUS",
+            "Know I these men that come along with you?"
+        ],
+        [
+            "CASSIUS",
+            "Yes, every man of them, and no man here"
+        ],
+        [
+            "CASSIUS",
+            "But honours you; and every one doth wish"
+        ],
+        [
+            "CASSIUS",
+            "You had but that opinion of yourself"
+        ],
+        [
+            "CASSIUS",
+            "Which every noble Roman bears of you."
+        ],
+        [
+            "CASSIUS",
+            "This is Trebonius."
+        ],
+        [
+            "BRUTUS",
+            "He is welcome hither."
+        ],
+        [
+            "CASSIUS",
+            "This, Decius Brutus."
+        ],
+        [
+            "BRUTUS",
+            "He is welcome too."
+        ],
+        [
+            "CASSIUS",
+            "This, Casca; this, Cinna; and this, Metellus Cimber."
+        ],
+        [
+            "BRUTUS",
+            "They are all welcome."
+        ],
+        [
+            "BRUTUS",
+            "What watchful cares do interpose themselves"
+        ],
+        [
+            "BRUTUS",
+            "Betwixt your eyes and night?"
+        ],
+        [
+            "CASSIUS",
+            "Shall I entreat a word?",
+            {
+                "following_direction_line": "14"
+            }
+        ],
+        [
+            "DECIUS BRUTUS",
+            "Here lies the east: doth not the day break here?",
+            {
+                "preceding_direction_line": "14"
+            }
+        ],
+        [
+            "CASCA",
+            "No."
+        ],
+        [
+            "CINNA",
+            "O, pardon, sir, it doth; and yon gray lines"
+        ],
+        [
+            "CINNA",
+            "That fret the clouds are messengers of day."
+        ],
+        [
+            "CASCA",
+            "You shall confess that you are both deceived."
+        ],
+        [
+            "CASCA",
+            "Here, as I point my sword, the sun arises,"
+        ],
+        [
+            "CASCA",
+            "Which is a great way growing on the south,"
+        ],
+        [
+            "CASCA",
+            "Weighing the youthful season of the year."
+        ],
+        [
+            "CASCA",
+            "Some two months hence up higher toward the north"
+        ],
+        [
+            "CASCA",
+            "He first presents his fire; and the high east"
+        ],
+        [
+            "CASCA",
+            "Stands, as the Capitol, directly here."
+        ],
+        [
+            "BRUTUS",
+            "Give me your hands all over, one by one."
+        ],
+        [
+            "CASSIUS",
+            "And let us swear our resolution."
+        ],
+        [
+            "BRUTUS",
+            "No, not an oath: if not the face of men,"
+        ],
+        [
+            "BRUTUS",
+            "The sufferance of our souls, the time's abuse,--"
+        ],
+        [
+            "BRUTUS",
+            "If these be motives weak, break off betimes,"
+        ],
+        [
+            "BRUTUS",
+            "And every man hence to his idle bed;"
+        ],
+        [
+            "BRUTUS",
+            "So let high-sighted tyranny range on,"
+        ],
+        [
+            "BRUTUS",
+            "Till each man drop by lottery. But if these,"
+        ],
+        [
+            "BRUTUS",
+            "As I am sure they do, bear fire enough"
+        ],
+        [
+            "BRUTUS",
+            "To kindle cowards and to steel with valour"
+        ],
+        [
+            "BRUTUS",
+            "The melting spirits of women, then, countrymen,"
+        ],
+        [
+            "BRUTUS",
+            "What need we any spur but our own cause,"
+        ],
+        [
+            "BRUTUS",
+            "To prick us to redress? what other bond"
+        ],
+        [
+            "BRUTUS",
+            "Than secret Romans, that have spoke the word,"
+        ],
+        [
+            "BRUTUS",
+            "And will not palter? and what other oath"
+        ],
+        [
+            "BRUTUS",
+            "Than honesty to honesty engaged,"
+        ],
+        [
+            "BRUTUS",
+            "That this shall be, or we will fall for it?"
+        ],
+        [
+            "BRUTUS",
+            "Swear priests and cowards and men cautelous,"
+        ],
+        [
+            "BRUTUS",
+            "Old feeble carrions and such suffering souls"
+        ],
+        [
+            "BRUTUS",
+            "That welcome wrongs; unto bad causes swear"
+        ],
+        [
+            "BRUTUS",
+            "Such creatures as men doubt; but do not stain"
+        ],
+        [
+            "BRUTUS",
+            "The even virtue of our enterprise,"
+        ],
+        [
+            "BRUTUS",
+            "Nor the insuppressive mettle of our spirits,"
+        ],
+        [
+            "BRUTUS",
+            "To think that or our cause or our performance"
+        ],
+        [
+            "BRUTUS",
+            "Did need an oath; when every drop of blood"
+        ],
+        [
+            "BRUTUS",
+            "That every Roman bears, and nobly bears,"
+        ],
+        [
+            "BRUTUS",
+            "Is guilty of a several bastardy,"
+        ],
+        [
+            "BRUTUS",
+            "If he do break the smallest particle"
+        ],
+        [
+            "BRUTUS",
+            "Of any promise that hath pass'd from him."
+        ],
+        [
+            "CASSIUS",
+            "But what of Cicero? shall we sound him?"
+        ],
+        [
+            "CASSIUS",
+            "I think he will stand very strong with us."
+        ],
+        [
+            "CASCA",
+            "Let us not leave him out."
+        ],
+        [
+            "CINNA",
+            "No, by no means."
+        ],
+        [
+            "METELLUS CIMBER",
+            "O, let us have him, for his silver hairs"
+        ],
+        [
+            "METELLUS CIMBER",
+            "Will purchase us a good opinion"
+        ],
+        [
+            "METELLUS CIMBER",
+            "And buy men's voices to commend our deeds:"
+        ],
+        [
+            "METELLUS CIMBER",
+            "It shall be said, his judgment ruled our hands;"
+        ],
+        [
+            "METELLUS CIMBER",
+            "Our youths and wildness shall no whit appear,"
+        ],
+        [
+            "METELLUS CIMBER",
+            "But all be buried in his gravity."
+        ],
+        [
+            "BRUTUS",
+            "O, name him not: let us not break with him;"
+        ],
+        [
+            "BRUTUS",
+            "For he will never follow any thing"
+        ],
+        [
+            "BRUTUS",
+            "That other men begin."
+        ],
+        [
+            "CASSIUS",
+            "Then leave him out."
+        ],
+        [
+            "CASCA",
+            "Indeed he is not fit."
+        ],
+        [
+            "DECIUS BRUTUS",
+            "Shall no man else be touch'd but only Caesar?"
+        ],
+        [
+            "CASSIUS",
+            "Decius, well urged: I think it is not meet,"
+        ],
+        [
+            "CASSIUS",
+            "Mark Antony, so well beloved of Caesar,"
+        ],
+        [
+            "CASSIUS",
+            "Should outlive Caesar: we shall find of him"
+        ],
+        [
+            "CASSIUS",
+            "A shrewd contriver; and, you know, his means,"
+        ],
+        [
+            "CASSIUS",
+            "If he improve them, may well stretch so far"
+        ],
+        [
+            "CASSIUS",
+            "As to annoy us all: which to prevent,"
+        ],
+        [
+            "CASSIUS",
+            "Let Antony and Caesar fall together."
+        ],
+        [
+            "BRUTUS",
+            "Our course will seem too bloody, Caius Cassius,"
+        ],
+        [
+            "BRUTUS",
+            "To cut the head off and then hack the limbs,"
+        ],
+        [
+            "BRUTUS",
+            "Like wrath in death and envy afterwards;"
+        ],
+        [
+            "BRUTUS",
+            "For Antony is but a limb of Caesar:"
+        ],
+        [
+            "BRUTUS",
+            "Let us be sacrificers, but not butchers, Caius."
+        ],
+        [
+            "BRUTUS",
+            "We all stand up against the spirit of Caesar;"
+        ],
+        [
+            "BRUTUS",
+            "And in the spirit of men there is no blood:"
+        ],
+        [
+            "BRUTUS",
+            "O, that we then could come by Caesar's spirit,"
+        ],
+        [
+            "BRUTUS",
+            "And not dismember Caesar! But, alas,"
+        ],
+        [
+            "BRUTUS",
+            "Caesar must bleed for it! And, gentle friends,"
+        ],
+        [
+            "BRUTUS",
+            "Let's kill him boldly, but not wrathfully;"
+        ],
+        [
+            "BRUTUS",
+            "Let's carve him as a dish fit for the gods,"
+        ],
+        [
+            "BRUTUS",
+            "Not hew him as a carcass fit for hounds:"
+        ],
+        [
+            "BRUTUS",
+            "And let our hearts, as subtle masters do,"
+        ],
+        [
+            "BRUTUS",
+            "Stir up their servants to an act of rage,"
+        ],
+        [
+            "BRUTUS",
+            "And after seem to chide 'em. This shall make"
+        ],
+        [
+            "BRUTUS",
+            "Our purpose necessary and not envious:"
+        ],
+        [
+            "BRUTUS",
+            "Which so appearing to the common eyes,"
+        ],
+        [
+            "BRUTUS",
+            "We shall be call'd purgers, not murderers."
+        ],
+        [
+            "BRUTUS",
+            "And for Mark Antony, think not of him;"
+        ],
+        [
+            "BRUTUS",
+            "For he can do no more than Caesar's arm"
+        ],
+        [
+            "BRUTUS",
+            "When Caesar's head is off."
+        ],
+        [
+            "CASSIUS",
+            "Yet I fear him;"
+        ],
+        [
+            "CASSIUS",
+            "For in the ingrafted love he bears to Caesar--"
+        ],
+        [
+            "BRUTUS",
+            "Alas, good Cassius, do not think of him:"
+        ],
+        [
+            "BRUTUS",
+            "If he love Caesar, all that he can do"
+        ],
+        [
+            "BRUTUS",
+            "Is to himself, take thought and die for Caesar:"
+        ],
+        [
+            "BRUTUS",
+            "And that were much he should; for he is given"
+        ],
+        [
+            "BRUTUS",
+            "To sports, to wildness and much company."
+        ],
+        [
+            "TREBONIUS",
+            "There is no fear in him; let him not die;"
+        ],
+        [
+            "TREBONIUS",
+            "For he will live, and laugh at this hereafter.",
+            {
+                "following_direction_line": "15"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Peace! count the clock.",
+            {
+                "preceding_direction_line": "15"
+            }
+        ],
+        [
+            "CASSIUS",
+            "The clock hath stricken three."
+        ],
+        [
+            "TREBONIUS",
+            "'Tis time to part."
+        ],
+        [
+            "CASSIUS",
+            "But it is doubtful yet,"
+        ],
+        [
+            "CASSIUS",
+            "Whether Caesar will come forth to-day, or no;"
+        ],
+        [
+            "CASSIUS",
+            "For he is superstitious grown of late,"
+        ],
+        [
+            "CASSIUS",
+            "Quite from the main opinion he held once"
+        ],
+        [
+            "CASSIUS",
+            "Of fantasy, of dreams and ceremonies:"
+        ],
+        [
+            "CASSIUS",
+            "It may be, these apparent prodigies,"
+        ],
+        [
+            "CASSIUS",
+            "The unaccustom'd terror of this night,"
+        ],
+        [
+            "CASSIUS",
+            "And the persuasion of his augurers,"
+        ],
+        [
+            "CASSIUS",
+            "May hold him from the Capitol to-day."
+        ],
+        [
+            "DECIUS BRUTUS",
+            "Never fear that: if he be so resolved,"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "I can o'ersway him; for he loves to hear"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "That unicorns may be betray'd with trees,"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "And bears with glasses, elephants with holes,"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "Lions with toils and men with flatterers;"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "But when I tell him he hates flatterers,"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "He says he does, being then most flattered."
+        ],
+        [
+            "DECIUS BRUTUS",
+            "Let me work;"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "For I can give his humour the true bent,"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "And I will bring him to the Capitol."
+        ],
+        [
+            "CASSIUS",
+            "Nay, we will all of us be there to fetch him."
+        ],
+        [
+            "BRUTUS",
+            "By the eighth hour: is that the uttermost?"
+        ],
+        [
+            "CINNA",
+            "Be that the uttermost, and fail not then."
+        ],
+        [
+            "METELLUS CIMBER",
+            "Caius Ligarius doth bear Caesar hard,"
+        ],
+        [
+            "METELLUS CIMBER",
+            "Who rated him for speaking well of Pompey:"
+        ],
+        [
+            "METELLUS CIMBER",
+            "I wonder none of you have thought of him."
+        ],
+        [
+            "BRUTUS",
+            "Now, good Metellus, go along by him:"
+        ],
+        [
+            "BRUTUS",
+            "He loves me well, and I have given him reasons;"
+        ],
+        [
+            "BRUTUS",
+            "Send him but hither, and I'll fashion him."
+        ],
+        [
+            "CASSIUS",
+            "The morning comes upon 's: we'll leave you, Brutus."
+        ],
+        [
+            "CASSIUS",
+            "And, friends, disperse yourselves; but all remember"
+        ],
+        [
+            "CASSIUS",
+            "What you have said, and show yourselves true Romans."
+        ],
+        [
+            "BRUTUS",
+            "Good gentlemen, look fresh and merrily;"
+        ],
+        [
+            "BRUTUS",
+            "Let not our looks put on our purposes,"
+        ],
+        [
+            "BRUTUS",
+            "But bear it as our Roman actors do,"
+        ],
+        [
+            "BRUTUS",
+            "With untired spirits and formal constancy:"
+        ],
+        [
+            "BRUTUS",
+            "And so good morrow to you every one.",
+            {
+                "following_direction_line": "16"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Boy! Lucius! Fast asleep? It is no matter;",
+            {
+                "preceding_direction_line": "16"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Enjoy the honey-heavy dew of slumber:"
+        ],
+        [
+            "BRUTUS",
+            "Thou hast no figures nor no fantasies,"
+        ],
+        [
+            "BRUTUS",
+            "Which busy care draws in the brains of men;"
+        ],
+        [
+            "BRUTUS",
+            "Therefore thou sleep'st so sound.",
+            {
+                "following_direction_line": "17"
+            }
+        ],
+        [
+            "PORTIA",
+            "Brutus, my lord!",
+            {
+                "preceding_direction_line": "17"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Portia, what mean you? wherefore rise you now?"
+        ],
+        [
+            "BRUTUS",
+            "It is not for your health thus to commit"
+        ],
+        [
+            "BRUTUS",
+            "Your weak condition to the raw cold morning."
+        ],
+        [
+            "PORTIA",
+            "Nor for yours neither. You've ungently, Brutus,"
+        ],
+        [
+            "PORTIA",
+            "Stole from my bed: and yesternight, at supper,"
+        ],
+        [
+            "PORTIA",
+            "You suddenly arose, and walk'd about,"
+        ],
+        [
+            "PORTIA",
+            "Musing and sighing, with your arms across,"
+        ],
+        [
+            "PORTIA",
+            "And when I ask'd you what the matter was,"
+        ],
+        [
+            "PORTIA",
+            "You stared upon me with ungentle looks;"
+        ],
+        [
+            "PORTIA",
+            "I urged you further; then you scratch'd your head,"
+        ],
+        [
+            "PORTIA",
+            "And too impatiently stamp'd with your foot;"
+        ],
+        [
+            "PORTIA",
+            "Yet I insisted, yet you answer'd not,"
+        ],
+        [
+            "PORTIA",
+            "But, with an angry wafture of your hand,"
+        ],
+        [
+            "PORTIA",
+            "Gave sign for me to leave you: so I did;"
+        ],
+        [
+            "PORTIA",
+            "Fearing to strengthen that impatience"
+        ],
+        [
+            "PORTIA",
+            "Which seem'd too much enkindled, and withal"
+        ],
+        [
+            "PORTIA",
+            "Hoping it was but an effect of humour,"
+        ],
+        [
+            "PORTIA",
+            "Which sometime hath his hour with every man."
+        ],
+        [
+            "PORTIA",
+            "It will not let you eat, nor talk, nor sleep,"
+        ],
+        [
+            "PORTIA",
+            "And could it work so much upon your shape"
+        ],
+        [
+            "PORTIA",
+            "As it hath much prevail'd on your condition,"
+        ],
+        [
+            "PORTIA",
+            "I should not know you, Brutus. Dear my lord,"
+        ],
+        [
+            "PORTIA",
+            "Make me acquainted with your cause of grief."
+        ],
+        [
+            "BRUTUS",
+            "I am not well in health, and that is all."
+        ],
+        [
+            "PORTIA",
+            "Brutus is wise, and, were he not in health,"
+        ],
+        [
+            "PORTIA",
+            "He would embrace the means to come by it."
+        ],
+        [
+            "BRUTUS",
+            "Why, so I do. Good Portia, go to bed."
+        ],
+        [
+            "PORTIA",
+            "Is Brutus sick? and is it physical"
+        ],
+        [
+            "PORTIA",
+            "To walk unbraced and suck up the humours"
+        ],
+        [
+            "PORTIA",
+            "Of the dank morning? What, is Brutus sick,"
+        ],
+        [
+            "PORTIA",
+            "And will he steal out of his wholesome bed,"
+        ],
+        [
+            "PORTIA",
+            "To dare the vile contagion of the night"
+        ],
+        [
+            "PORTIA",
+            "And tempt the rheumy and unpurged air"
+        ],
+        [
+            "PORTIA",
+            "To add unto his sickness? No, my Brutus;"
+        ],
+        [
+            "PORTIA",
+            "You have some sick offence within your mind,"
+        ],
+        [
+            "PORTIA",
+            "Which, by the right and virtue of my place,"
+        ],
+        [
+            "PORTIA",
+            "I ought to know of: and, upon my knees,"
+        ],
+        [
+            "PORTIA",
+            "I charm you, by my once-commended beauty,"
+        ],
+        [
+            "PORTIA",
+            "By all your vows of love and that great vow"
+        ],
+        [
+            "PORTIA",
+            "Which did incorporate and make us one,"
+        ],
+        [
+            "PORTIA",
+            "That you unfold to me, yourself, your half,"
+        ],
+        [
+            "PORTIA",
+            "Why you are heavy, and what men to-night"
+        ],
+        [
+            "PORTIA",
+            "Have had to resort to you: for here have been"
+        ],
+        [
+            "PORTIA",
+            "Some six or seven, who did hide their faces"
+        ],
+        [
+            "PORTIA",
+            "Even from darkness."
+        ],
+        [
+            "BRUTUS",
+            "Kneel not, gentle Portia."
+        ],
+        [
+            "PORTIA",
+            "I should not need, if you were gentle Brutus."
+        ],
+        [
+            "PORTIA",
+            "Within the bond of marriage, tell me, Brutus,"
+        ],
+        [
+            "PORTIA",
+            "Is it excepted I should know no secrets"
+        ],
+        [
+            "PORTIA",
+            "That appertain to you? Am I yourself"
+        ],
+        [
+            "PORTIA",
+            "But, as it were, in sort or limitation,"
+        ],
+        [
+            "PORTIA",
+            "To keep with you at meals, comfort your bed,"
+        ],
+        [
+            "PORTIA",
+            "And talk to you sometimes? Dwell I but in the suburbs"
+        ],
+        [
+            "PORTIA",
+            "Of your good pleasure? If it be no more,"
+        ],
+        [
+            "PORTIA",
+            "Portia is Brutus' harlot, not his wife."
+        ],
+        [
+            "BRUTUS",
+            "You are my true and honourable wife,"
+        ],
+        [
+            "BRUTUS",
+            "As dear to me as are the ruddy drops"
+        ],
+        [
+            "BRUTUS",
+            "That visit my sad heart"
+        ],
+        [
+            "PORTIA",
+            "If this were true, then should I know this secret."
+        ],
+        [
+            "PORTIA",
+            "I grant I am a woman; but withal"
+        ],
+        [
+            "PORTIA",
+            "A woman that Lord Brutus took to wife:"
+        ],
+        [
+            "PORTIA",
+            "I grant I am a woman; but withal"
+        ],
+        [
+            "PORTIA",
+            "A woman well-reputed, Cato's daughter."
+        ],
+        [
+            "PORTIA",
+            "Think you I am no stronger than my sex,"
+        ],
+        [
+            "PORTIA",
+            "Being so father'd and so husbanded?"
+        ],
+        [
+            "PORTIA",
+            "Tell me your counsels, I will not disclose 'em:"
+        ],
+        [
+            "PORTIA",
+            "I have made strong proof of my constancy,"
+        ],
+        [
+            "PORTIA",
+            "Giving myself a voluntary wound"
+        ],
+        [
+            "PORTIA",
+            "Here, in the thigh: can I bear that with patience."
+        ],
+        [
+            "PORTIA",
+            "And not my husband's secrets?"
+        ],
+        [
+            "BRUTUS",
+            "O ye gods,"
+        ],
+        [
+            "BRUTUS",
+            "Render me worthy of this noble wife!",
+            {
+                "following_direction_line": "18"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Hark, hark! one knocks: Portia, go in awhile;",
+            {
+                "preceding_direction_line": "18"
+            }
+        ],
+        [
+            "BRUTUS",
+            "And by and by thy bosom shall partake"
+        ],
+        [
+            "BRUTUS",
+            "The secrets of my heart."
+        ],
+        [
+            "BRUTUS",
+            "All my engagements I will construe to thee,"
+        ],
+        [
+            "BRUTUS",
+            "All the charactery of my sad brows:"
+        ],
+        [
+            "BRUTUS",
+            "Leave me with haste.",
+            {
+                "following_direction_line": "19"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Lucius, who's that knocks?",
+            {
+                "preceding_direction_line": "19",
+                "following_direction_line": "20"
+            }
+        ],
+        [
+            "LUCIUS",
+            "He is a sick man that would speak with you.",
+            {
+                "preceding_direction_line": "20"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Caius Ligarius, that Metellus spake of."
+        ],
+        [
+            "BRUTUS",
+            "Boy, stand aside. Caius Ligarius! how?"
+        ],
+        [
+            "LIGARIUS",
+            "Vouchsafe good morrow from a feeble tongue."
+        ],
+        [
+            "BRUTUS",
+            "O, what a time have you chose out, brave Caius,"
+        ],
+        [
+            "BRUTUS",
+            "To wear a kerchief! Would you were not sick!"
+        ],
+        [
+            "LIGARIUS",
+            "I am not sick, if Brutus have in hand"
+        ],
+        [
+            "LIGARIUS",
+            "Any exploit worthy the name of honour."
+        ],
+        [
+            "BRUTUS",
+            "Such an exploit have I in hand, Ligarius,"
+        ],
+        [
+            "BRUTUS",
+            "Had you a healthful ear to hear of it."
+        ],
+        [
+            "LIGARIUS",
+            "By all the gods that Romans bow before,"
+        ],
+        [
+            "LIGARIUS",
+            "I here discard my sickness! Soul of Rome!"
+        ],
+        [
+            "LIGARIUS",
+            "Brave son, derived from honourable loins!"
+        ],
+        [
+            "LIGARIUS",
+            "Thou, like an exorcist, hast conjured up"
+        ],
+        [
+            "LIGARIUS",
+            "My mortified spirit. Now bid me run,"
+        ],
+        [
+            "LIGARIUS",
+            "And I will strive with things impossible;"
+        ],
+        [
+            "LIGARIUS",
+            "Yea, get the better of them. What's to do?"
+        ],
+        [
+            "BRUTUS",
+            "A piece of work that will make sick men whole."
+        ],
+        [
+            "LIGARIUS",
+            "But are not some whole that we must make sick?"
+        ],
+        [
+            "BRUTUS",
+            "That must we also. What it is, my Caius,"
+        ],
+        [
+            "BRUTUS",
+            "I shall unfold to thee, as we are going"
+        ],
+        [
+            "BRUTUS",
+            "To whom it must be done."
+        ],
+        [
+            "LIGARIUS",
+            "Set on your foot,"
+        ],
+        [
+            "LIGARIUS",
+            "And with a heart new-fired I follow you,"
+        ],
+        [
+            "LIGARIUS",
+            "To do I know not what: but it sufficeth"
+        ],
+        [
+            "LIGARIUS",
+            "That Brutus leads me on."
+        ],
+        [
+            "BRUTUS",
+            "Follow me, then.",
+            {
+                "following_direction_line": "21"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter BRUTUS"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter LUCIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Re-enter LUCIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Gives him the letter"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Opens the letter and reads"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Re-enter LUCIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Knocking within"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Exit LUCIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "Re-enter LUCIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Exit LUCIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D13",
+            "Enter the conspirators, CASSIUS, CASCA, DECIUS BRUTUS, CINNA, METELLUS CIMBER, and TREBONIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D14",
+            "BRUTUS and CASSIUS whisper"
+        ],
+        [
+            "_DIRECTION",
+            "D15",
+            "Clock strikes"
+        ],
+        [
+            "_DIRECTION",
+            "D16",
+            "Exeunt all but BRUTUS"
+        ],
+        [
+            "_DIRECTION",
+            "D17",
+            "Enter PORTIA"
+        ],
+        [
+            "_DIRECTION",
+            "D18",
+            "Knocking within"
+        ],
+        [
+            "_DIRECTION",
+            "D19",
+            "Exit PORTIA"
+        ],
+        [
+            "_DIRECTION",
+            "D20",
+            "Re-enter LUCIUS with LIGARIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D21",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "BRUTUS": [
+            [
+                "1",
+                "5"
+            ],
+            [
+                "7",
+                "8"
+            ],
+            [
+                "10",
+                "34"
+            ],
+            [
+                "39",
+                "40"
+            ],
+            [
+                "42",
+                "42"
+            ],
+            [
+                "44",
+                "58"
+            ],
+            [
+                "60",
+                "69"
+            ],
+            [
+                "72",
+                "72"
+            ],
+            [
+                "74",
+                "74"
+            ],
+            [
+                "79",
+                "88"
+            ],
+            [
+                "91",
+                "92"
+            ],
+            [
+                "98",
+                "98"
+            ],
+            [
+                "100",
+                "100"
+            ],
+            [
+                "102",
+                "104"
+            ],
+            [
+                "117",
+                "117"
+            ],
+            [
+                "119",
+                "145"
+            ],
+            [
+                "156",
+                "158"
+            ],
+            [
+                "169",
+                "190"
+            ],
+            [
+                "193",
+                "197"
+            ],
+            [
+                "200",
+                "200"
+            ],
+            [
+                "223",
+                "223"
+            ],
+            [
+                "228",
+                "230"
+            ],
+            [
+                "234",
+                "243"
+            ],
+            [
+                "245",
+                "247"
+            ],
+            [
+                "268",
+                "268"
+            ],
+            [
+                "271",
+                "271"
+            ],
+            [
+                "290",
+                "290"
+            ],
+            [
+                "300",
+                "302"
+            ],
+            [
+                "315",
+                "323"
+            ],
+            [
+                "325",
+                "326"
+            ],
+            [
+                "328",
+                "329"
+            ],
+            [
+                "332",
+                "333"
+            ],
+            [
+                "341",
+                "341"
+            ],
+            [
+                "343",
+                "345"
+            ],
+            [
+                "350",
+                "350"
+            ]
+        ],
+        "LUCIUS": [
+            [
+                "6",
+                "6"
+            ],
+            [
+                "9",
+                "9"
+            ],
+            [
+                "35",
+                "38"
+            ],
+            [
+                "41",
+                "41"
+            ],
+            [
+                "43",
+                "43"
+            ],
+            [
+                "59",
+                "59"
+            ],
+            [
+                "70",
+                "71"
+            ],
+            [
+                "73",
+                "73"
+            ],
+            [
+                "75",
+                "78"
+            ],
+            [
+                "324",
+                "324"
+            ]
+        ],
+        "CASSIUS": [
+            [
+                "89",
+                "90"
+            ],
+            [
+                "93",
+                "97"
+            ],
+            [
+                "99",
+                "99"
+            ],
+            [
+                "101",
+                "101"
+            ],
+            [
+                "105",
+                "105"
+            ],
+            [
+                "118",
+                "118"
+            ],
+            [
+                "146",
+                "147"
+            ],
+            [
+                "159",
+                "159"
+            ],
+            [
+                "162",
+                "168"
+            ],
+            [
+                "191",
+                "192"
+            ],
+            [
+                "201",
+                "201"
+            ],
+            [
+                "203",
+                "211"
+            ],
+            [
+                "222",
+                "222"
+            ],
+            [
+                "231",
+                "233"
+            ]
+        ],
+        "DECIUS BRUTUS": [
+            [
+                "106",
+                "106"
+            ],
+            [
+                "161",
+                "161"
+            ],
+            [
+                "212",
+                "221"
+            ]
+        ],
+        "CASCA": [
+            [
+                "107",
+                "107"
+            ],
+            [
+                "110",
+                "116"
+            ],
+            [
+                "148",
+                "148"
+            ],
+            [
+                "160",
+                "160"
+            ]
+        ],
+        "CINNA": [
+            [
+                "108",
+                "109"
+            ],
+            [
+                "149",
+                "149"
+            ],
+            [
+                "224",
+                "224"
+            ]
+        ],
+        "METELLUS CIMBER": [
+            [
+                "150",
+                "155"
+            ],
+            [
+                "225",
+                "227"
+            ]
+        ],
+        "TREBONIUS": [
+            [
+                "198",
+                "199"
+            ],
+            [
+                "202",
+                "202"
+            ]
+        ],
+        "PORTIA": [
+            [
+                "244",
+                "244"
+            ],
+            [
+                "248",
+                "267"
+            ],
+            [
+                "269",
+                "270"
+            ],
+            [
+                "272",
+                "289"
+            ],
+            [
+                "291",
+                "299"
+            ],
+            [
+                "303",
+                "314"
+            ]
+        ],
+        "LIGARIUS": [
+            [
+                "327",
+                "327"
+            ],
+            [
+                "330",
+                "331"
+            ],
+            [
+                "334",
+                "340"
+            ],
+            [
+                "342",
+                "342"
+            ],
+            [
+                "346",
+                "349"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "Rome. BRUTUS's orchard."
+}

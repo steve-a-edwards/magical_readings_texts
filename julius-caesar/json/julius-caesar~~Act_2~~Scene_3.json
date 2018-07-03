@@ -1,0 +1,95 @@
+{
+    "scene_id": "julius caesar~~Act_2~~Scene_3",
+    "work_number": "11",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "ARTEMIDORUS",
+            "'Caesar, beware of Brutus; take heed of Cassius;",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "ARTEMIDORUS",
+            "come not near Casca; have an eye to Cinna, trust not"
+        ],
+        [
+            "ARTEMIDORUS",
+            "Trebonius: mark well Metellus Cimber: Decius Brutus"
+        ],
+        [
+            "ARTEMIDORUS",
+            "loves thee not: thou hast wronged Caius Ligarius."
+        ],
+        [
+            "ARTEMIDORUS",
+            "There is but one mind in all these men, and it is"
+        ],
+        [
+            "ARTEMIDORUS",
+            "bent against Caesar. If thou beest not immortal,"
+        ],
+        [
+            "ARTEMIDORUS",
+            "look about you: security gives way to conspiracy."
+        ],
+        [
+            "ARTEMIDORUS",
+            "The mighty gods defend thee! Thy lover,"
+        ],
+        [
+            "ARTEMIDORUS",
+            "'ARTEMIDORUS.'"
+        ],
+        [
+            "ARTEMIDORUS",
+            "Here will I stand till Caesar pass along,"
+        ],
+        [
+            "ARTEMIDORUS",
+            "And as a suitor will I give him this."
+        ],
+        [
+            "ARTEMIDORUS",
+            "My heart laments that virtue cannot live"
+        ],
+        [
+            "ARTEMIDORUS",
+            "Out of the teeth of emulation."
+        ],
+        [
+            "ARTEMIDORUS",
+            "If thou read this, O Caesar, thou mayst live;"
+        ],
+        [
+            "ARTEMIDORUS",
+            "If not, the Fates with traitors do contrive.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter ARTEMIDORUS, reading a paper"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "ARTEMIDORUS": [
+            [
+                "1",
+                "15"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "A street near the Capitol."
+}

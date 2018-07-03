@@ -1,0 +1,1114 @@
+{
+    "scene_id": "othello~~Act_5~~Scene_1",
+    "work_number": "9",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "IAGO",
+            "Here, stand behind this bulk; straight will he come:",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "IAGO",
+            "Wear thy good rapier bare, and put it home:"
+        ],
+        [
+            "IAGO",
+            "Quick, quick; fear nothing; I'll be at thy elbow:"
+        ],
+        [
+            "IAGO",
+            "It makes us, or it mars us; think on that,"
+        ],
+        [
+            "IAGO",
+            "And fix most firm thy resolution."
+        ],
+        [
+            "RODERIGO",
+            "Be near at hand; I may miscarry in't."
+        ],
+        [
+            "IAGO",
+            "Here, at thy hand: be bold, and take thy stand.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "RODERIGO",
+            "I have no great devotion to the deed;",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "RODERIGO",
+            "And yet he hath given me satisfying reasons:"
+        ],
+        [
+            "RODERIGO",
+            "'Tis but a man gone. Forth, my sword: he dies."
+        ],
+        [
+            "IAGO",
+            "I have rubb'd this young quat almost to the sense,"
+        ],
+        [
+            "IAGO",
+            "And he grows angry. Now, whether he kill Cassio,"
+        ],
+        [
+            "IAGO",
+            "Or Cassio him, or each do kill the other,"
+        ],
+        [
+            "IAGO",
+            "Every way makes my gain: live Roderigo,"
+        ],
+        [
+            "IAGO",
+            "He calls me to a restitution large"
+        ],
+        [
+            "IAGO",
+            "Of gold and jewels that I bobb'd from him,"
+        ],
+        [
+            "IAGO",
+            "As gifts to Desdemona;"
+        ],
+        [
+            "IAGO",
+            "It must not be: if Cassio do remain,"
+        ],
+        [
+            "IAGO",
+            "He hath a daily beauty in his life"
+        ],
+        [
+            "IAGO",
+            "That makes me ugly; and, besides, the Moor"
+        ],
+        [
+            "IAGO",
+            "May unfold me to him; there stand I in much peril:"
+        ],
+        [
+            "IAGO",
+            "No, he must die. But so: I hear him coming.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "RODERIGO",
+            "I know his gait, 'tis he.--Villain, thou diest!",
+            {
+                "preceding_direction_line": "3",
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "CASSIO",
+            "That thrust had been mine enemy indeed,",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "CASSIO",
+            "But that my coat is better than thou know'st"
+        ],
+        [
+            "CASSIO",
+            "I will make proof of thine.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "RODERIGO",
+            "O, I am slain!",
+            {
+                "preceding_direction_line": "5",
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "CASSIO",
+            "I am maim'd for ever. Help, ho! murder! murder!",
+            {
+                "preceding_direction_line": "6",
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "OTHELLO",
+            "The voice of Cassio: Iago keeps his word.",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "RODERIGO",
+            "O, villain that I am!"
+        ],
+        [
+            "OTHELLO",
+            "It is even so."
+        ],
+        [
+            "CASSIO",
+            "O, help, ho! light! a surgeon!"
+        ],
+        [
+            "OTHELLO",
+            "'Tis he:--O brave Iago, honest and just,"
+        ],
+        [
+            "OTHELLO",
+            "That hast such noble sense of thy friend's wrong!"
+        ],
+        [
+            "OTHELLO",
+            "Thou teachest me. Minion, your dear lies dead,"
+        ],
+        [
+            "OTHELLO",
+            "And your unblest fate hies: strumpet, I come."
+        ],
+        [
+            "OTHELLO",
+            "Forth of my heart those charms, thine eyes, are blotted;"
+        ],
+        [
+            "OTHELLO",
+            "Thy bed, lust-stain'd, shall with lust's blood be spotted.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "CASSIO",
+            "What, ho! no watch? no passage? murder! murder!",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "GRATIANO",
+            "'Tis some mischance; the cry is very direful."
+        ],
+        [
+            "CASSIO",
+            "O, help!"
+        ],
+        [
+            "LODOVICO",
+            "Hark!"
+        ],
+        [
+            "RODERIGO",
+            "O wretched villain!"
+        ],
+        [
+            "LODOVICO",
+            "Two or three groan: it is a heavy night:"
+        ],
+        [
+            "LODOVICO",
+            "These may be counterfeits: let's think't unsafe"
+        ],
+        [
+            "LODOVICO",
+            "To come in to the cry without more help."
+        ],
+        [
+            "RODERIGO",
+            "Nobody come? then shall I bleed to death."
+        ],
+        [
+            "LODOVICO",
+            "Hark!",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "GRATIANO",
+            "Here's one comes in his shirt, with light and weapons.",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "IAGO",
+            "Who's there? whose noise is this that ones on murder?"
+        ],
+        [
+            "LODOVICO",
+            "We do not know."
+        ],
+        [
+            "IAGO",
+            "Did not you hear a cry?"
+        ],
+        [
+            "CASSIO",
+            "Here, here! for heaven's sake, help me!"
+        ],
+        [
+            "IAGO",
+            "What's the matter?"
+        ],
+        [
+            "GRATIANO",
+            "This is Othello's ancient, as I take it."
+        ],
+        [
+            "LODOVICO",
+            "The same indeed; a very valiant fellow."
+        ],
+        [
+            "IAGO",
+            "What are you here that cry so grievously?"
+        ],
+        [
+            "CASSIO",
+            "Iago? O, I am spoil'd, undone by villains!"
+        ],
+        [
+            "CASSIO",
+            "Give me some help."
+        ],
+        [
+            "IAGO",
+            "O me, lieutenant! what villains have done this?"
+        ],
+        [
+            "CASSIO",
+            "I think that one of them is hereabout,"
+        ],
+        [
+            "CASSIO",
+            "And cannot make away."
+        ],
+        [
+            "IAGO",
+            "O treacherous villains!"
+        ],
+        [
+            "IAGO",
+            "What are you there? come in, and give some help.",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "RODERIGO",
+            "O, help me here!",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "CASSIO",
+            "That's one of them."
+        ],
+        [
+            "IAGO",
+            "O murderous slave! O villain!",
+            {
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "RODERIGO",
+            "O damn'd Iago! O inhuman dog!",
+            {
+                "preceding_direction_line": "11"
+            }
+        ],
+        [
+            "IAGO",
+            "Kill men i' the dark!--Where be these bloody thieves?--"
+        ],
+        [
+            "IAGO",
+            "How silent is this town!--Ho! murder! murder!--"
+        ],
+        [
+            "IAGO",
+            "What may you be? are you of good or evil?"
+        ],
+        [
+            "LODOVICO",
+            "As you shall prove us, praise us."
+        ],
+        [
+            "IAGO",
+            "Signior Lodovico?"
+        ],
+        [
+            "LODOVICO",
+            "He, sir."
+        ],
+        [
+            "IAGO",
+            "I cry you mercy. Here's Cassio hurt by villains."
+        ],
+        [
+            "GRATIANO",
+            "Cassio!"
+        ],
+        [
+            "IAGO",
+            "How is't, brother!"
+        ],
+        [
+            "CASSIO",
+            "My leg is cut in two."
+        ],
+        [
+            "IAGO",
+            "Marry, heaven forbid!"
+        ],
+        [
+            "IAGO",
+            "Light, gentlemen; I'll bind it with my shirt.",
+            {
+                "following_direction_line": "12"
+            }
+        ],
+        [
+            "BIANCA",
+            "What is the matter, ho? who is't that cried?",
+            {
+                "preceding_direction_line": "12"
+            }
+        ],
+        [
+            "IAGO",
+            "Who is't that cried!"
+        ],
+        [
+            "BIANCA",
+            "O my dear Cassio! my sweet Cassio! O Cassio,"
+        ],
+        [
+            "BIANCA",
+            "Cassio, Cassio!"
+        ],
+        [
+            "IAGO",
+            "O notable strumpet! Cassio, may you suspect"
+        ],
+        [
+            "IAGO",
+            "Who they should be that have thus many led you?"
+        ],
+        [
+            "CASSIO",
+            "No."
+        ],
+        [
+            "GRATIANO",
+            "I am to find you thus: I have been to seek you."
+        ],
+        [
+            "IAGO",
+            "Lend me a garter. So. O, for a chair,"
+        ],
+        [
+            "IAGO",
+            "To bear him easily hence!"
+        ],
+        [
+            "BIANCA",
+            "Alas, he faints! O Cassio, Cassio, Cassio!"
+        ],
+        [
+            "IAGO",
+            "Gentlemen all, I do suspect this trash"
+        ],
+        [
+            "IAGO",
+            "To be a party in this injury."
+        ],
+        [
+            "IAGO",
+            "Patience awhile, good Cassio. Come, come;"
+        ],
+        [
+            "IAGO",
+            "Lend me a light. Know we this face or no?"
+        ],
+        [
+            "IAGO",
+            "Alas my friend and my dear countryman"
+        ],
+        [
+            "IAGO",
+            "Roderigo! no:--yes, sure: O heaven! Roderigo."
+        ],
+        [
+            "GRATIANO",
+            "What, of Venice?"
+        ],
+        [
+            "IAGO",
+            "Even he, sir; did you know him?"
+        ],
+        [
+            "GRATIANO",
+            "Know him! ay."
+        ],
+        [
+            "IAGO",
+            "Signior Gratiano? I cry you gentle pardon;"
+        ],
+        [
+            "IAGO",
+            "These bloody accidents must excuse my manners,"
+        ],
+        [
+            "IAGO",
+            "That so neglected you."
+        ],
+        [
+            "GRATIANO",
+            "I am glad to see you."
+        ],
+        [
+            "IAGO",
+            "How do you, Cassio? O, a chair, a chair!"
+        ],
+        [
+            "GRATIANO",
+            "Roderigo!"
+        ],
+        [
+            "IAGO",
+            "He, he 'tis he.",
+            {
+                "following_direction_line": "13"
+            }
+        ],
+        [
+            "IAGO",
+            "O, that's well said; the chair!",
+            {
+                "preceding_direction_line": "13"
+            }
+        ],
+        [
+            "GRATIANO",
+            "Some good man bear him carefully from hence;"
+        ],
+        [
+            "GRATIANO",
+            "I'll fetch the general's surgeon.",
+            {
+                "following_direction_line": "14"
+            }
+        ],
+        [
+            "GRATIANO",
+            "For you, mistress,",
+            {
+                "preceding_direction_line": "14"
+            }
+        ],
+        [
+            "GRATIANO",
+            "Save you your labour. He that lies slain"
+        ],
+        [
+            "GRATIANO",
+            "here, Cassio,"
+        ],
+        [
+            "GRATIANO",
+            "Was my dear friend: what malice was between you?"
+        ],
+        [
+            "CASSIO",
+            "None in the world; nor do I know the man."
+        ],
+        [
+            "IAGO",
+            "[To BIANCA] What, look you pale? O, bear him out"
+        ],
+        [
+            "IAGO",
+            "o' the air.",
+            {
+                "following_direction_line": "15"
+            }
+        ],
+        [
+            "IAGO",
+            "Stay you, good gentlemen. Look you pale, mistress?",
+            {
+                "preceding_direction_line": "15"
+            }
+        ],
+        [
+            "IAGO",
+            "Do you perceive the gastness of her eye?"
+        ],
+        [
+            "IAGO",
+            "Nay, if you stare, we shall hear more anon."
+        ],
+        [
+            "IAGO",
+            "Behold her well; I pray you, look upon her:"
+        ],
+        [
+            "IAGO",
+            "Do you see, gentlemen? nay, guiltiness will speak,"
+        ],
+        [
+            "IAGO",
+            "Though tongues were out of use.",
+            {
+                "following_direction_line": "16"
+            }
+        ],
+        [
+            "EMILIA",
+            "'Las, what's the matter? what's the matter, husband?",
+            {
+                "preceding_direction_line": "16"
+            }
+        ],
+        [
+            "IAGO",
+            "Cassio hath here been set on in the dark"
+        ],
+        [
+            "IAGO",
+            "By Roderigo and fellows that are scaped:"
+        ],
+        [
+            "IAGO",
+            "He's almost slain, and Roderigo dead."
+        ],
+        [
+            "EMILIA",
+            "Alas, good gentleman! alas, good Cassio!"
+        ],
+        [
+            "IAGO",
+            "This is the fruit of whoring. Prithee, Emilia,"
+        ],
+        [
+            "IAGO",
+            "Go know of Cassio where he supp'd to-night.",
+            {
+                "following_direction_line": "17"
+            }
+        ],
+        [
+            "IAGO",
+            "What, do you shake at that?",
+            {
+                "preceding_direction_line": "17"
+            }
+        ],
+        [
+            "BIANCA",
+            "He supp'd at my house; but I therefore shake not."
+        ],
+        [
+            "IAGO",
+            "O, did he so? I charge you, go with me."
+        ],
+        [
+            "EMILIA",
+            "Fie, fie upon thee, strumpet!"
+        ],
+        [
+            "BIANCA",
+            "I am no strumpet; but of life as honest"
+        ],
+        [
+            "BIANCA",
+            "As you that thus abuse me."
+        ],
+        [
+            "EMILIA",
+            "As I! foh! fie upon thee!"
+        ],
+        [
+            "IAGO",
+            "Kind gentlemen, let's go see poor Cassio dress'd."
+        ],
+        [
+            "IAGO",
+            "Come, mistress, you must tell's another tale."
+        ],
+        [
+            "IAGO",
+            "Emilia run you to the citadel,"
+        ],
+        [
+            "IAGO",
+            "And tell my lord and lady what hath happ'd."
+        ],
+        [
+            "IAGO",
+            "Will you go on? I pray.",
+            {
+                "following_direction_line": "18"
+            }
+        ],
+        [
+            "IAGO",
+            "This is the night",
+            {
+                "preceding_direction_line": "18"
+            }
+        ],
+        [
+            "IAGO",
+            "That either makes me or fordoes me quite.",
+            {
+                "following_direction_line": "19"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter IAGO and RODERIGO"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Retires"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter CASSIO"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Makes a pass at CASSIO"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Draws, and wounds RODERIGO"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "IAGO from behind wounds CASSIO in the leg, and exit"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Falls. Enter OTHELLO"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exit. Enter LODOVICO and GRATIANO"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Re-enter IAGO, with a light"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "To LODOVICO and GRATIANO"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "Stabs RODERIGO"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Enter BIANCA"
+        ],
+        [
+            "_DIRECTION",
+            "D13",
+            "A chair brought in"
+        ],
+        [
+            "_DIRECTION",
+            "D14",
+            "To BIANCA"
+        ],
+        [
+            "_DIRECTION",
+            "D15",
+            "CASSIO and RODERIGO are borne off"
+        ],
+        [
+            "_DIRECTION",
+            "D16",
+            "Enter EMILIA"
+        ],
+        [
+            "_DIRECTION",
+            "D17",
+            "To BIANCA"
+        ],
+        [
+            "_DIRECTION",
+            "D18",
+            "Aside"
+        ],
+        [
+            "_DIRECTION",
+            "D19",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "IAGO": [
+            [
+                "1",
+                "5"
+            ],
+            [
+                "7",
+                "7"
+            ],
+            [
+                "11",
+                "22"
+            ],
+            [
+                "50",
+                "50"
+            ],
+            [
+                "52",
+                "52"
+            ],
+            [
+                "54",
+                "54"
+            ],
+            [
+                "57",
+                "57"
+            ],
+            [
+                "60",
+                "60"
+            ],
+            [
+                "63",
+                "64"
+            ],
+            [
+                "67",
+                "67"
+            ],
+            [
+                "69",
+                "71"
+            ],
+            [
+                "73",
+                "73"
+            ],
+            [
+                "75",
+                "75"
+            ],
+            [
+                "77",
+                "77"
+            ],
+            [
+                "79",
+                "80"
+            ],
+            [
+                "82",
+                "82"
+            ],
+            [
+                "85",
+                "86"
+            ],
+            [
+                "89",
+                "90"
+            ],
+            [
+                "92",
+                "97"
+            ],
+            [
+                "99",
+                "99"
+            ],
+            [
+                "101",
+                "103"
+            ],
+            [
+                "105",
+                "105"
+            ],
+            [
+                "107",
+                "108"
+            ],
+            [
+                "116",
+                "123"
+            ],
+            [
+                "125",
+                "127"
+            ],
+            [
+                "129",
+                "131"
+            ],
+            [
+                "133",
+                "133"
+            ],
+            [
+                "138",
+                "144"
+            ]
+        ],
+        "RODERIGO": [
+            [
+                "6",
+                "6"
+            ],
+            [
+                "8",
+                "10"
+            ],
+            [
+                "23",
+                "23"
+            ],
+            [
+                "27",
+                "27"
+            ],
+            [
+                "30",
+                "30"
+            ],
+            [
+                "43",
+                "43"
+            ],
+            [
+                "47",
+                "47"
+            ],
+            [
+                "65",
+                "65"
+            ],
+            [
+                "68",
+                "68"
+            ]
+        ],
+        "CASSIO": [
+            [
+                "24",
+                "26"
+            ],
+            [
+                "28",
+                "28"
+            ],
+            [
+                "32",
+                "32"
+            ],
+            [
+                "39",
+                "39"
+            ],
+            [
+                "41",
+                "41"
+            ],
+            [
+                "53",
+                "53"
+            ],
+            [
+                "58",
+                "59"
+            ],
+            [
+                "61",
+                "62"
+            ],
+            [
+                "66",
+                "66"
+            ],
+            [
+                "78",
+                "78"
+            ],
+            [
+                "87",
+                "87"
+            ],
+            [
+                "115",
+                "115"
+            ]
+        ],
+        "OTHELLO": [
+            [
+                "29",
+                "29"
+            ],
+            [
+                "31",
+                "31"
+            ],
+            [
+                "33",
+                "38"
+            ]
+        ],
+        "GRATIANO": [
+            [
+                "40",
+                "40"
+            ],
+            [
+                "49",
+                "49"
+            ],
+            [
+                "55",
+                "55"
+            ],
+            [
+                "76",
+                "76"
+            ],
+            [
+                "88",
+                "88"
+            ],
+            [
+                "98",
+                "98"
+            ],
+            [
+                "100",
+                "100"
+            ],
+            [
+                "104",
+                "104"
+            ],
+            [
+                "106",
+                "106"
+            ],
+            [
+                "109",
+                "114"
+            ]
+        ],
+        "LODOVICO": [
+            [
+                "42",
+                "42"
+            ],
+            [
+                "44",
+                "46"
+            ],
+            [
+                "48",
+                "48"
+            ],
+            [
+                "51",
+                "51"
+            ],
+            [
+                "56",
+                "56"
+            ],
+            [
+                "72",
+                "72"
+            ],
+            [
+                "74",
+                "74"
+            ]
+        ],
+        "BIANCA": [
+            [
+                "81",
+                "81"
+            ],
+            [
+                "83",
+                "84"
+            ],
+            [
+                "91",
+                "91"
+            ],
+            [
+                "132",
+                "132"
+            ],
+            [
+                "135",
+                "136"
+            ]
+        ],
+        "EMILIA": [
+            [
+                "124",
+                "124"
+            ],
+            [
+                "128",
+                "128"
+            ],
+            [
+                "134",
+                "134"
+            ],
+            [
+                "137",
+                "137"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "Cyprus. A street."
+}

@@ -1,0 +1,333 @@
+{
+    "scene_id": "julius caesar~~Act_2~~Scene_4",
+    "work_number": "11",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "PORTIA",
+            "I prithee, boy, run to the senate-house;",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "PORTIA",
+            "Stay not to answer me, but get thee gone:"
+        ],
+        [
+            "PORTIA",
+            "Why dost thou stay?"
+        ],
+        [
+            "LUCIUS",
+            "To know my errand, madam."
+        ],
+        [
+            "PORTIA",
+            "I would have had thee there, and here again,"
+        ],
+        [
+            "PORTIA",
+            "Ere I can tell thee what thou shouldst do there."
+        ],
+        [
+            "PORTIA",
+            "O constancy, be strong upon my side,"
+        ],
+        [
+            "PORTIA",
+            "Set a huge mountain 'tween my heart and tongue!"
+        ],
+        [
+            "PORTIA",
+            "I have a man's mind, but a woman's might."
+        ],
+        [
+            "PORTIA",
+            "How hard it is for women to keep counsel!"
+        ],
+        [
+            "PORTIA",
+            "Art thou here yet?"
+        ],
+        [
+            "LUCIUS",
+            "Madam, what should I do?"
+        ],
+        [
+            "LUCIUS",
+            "Run to the Capitol, and nothing else?"
+        ],
+        [
+            "LUCIUS",
+            "And so return to you, and nothing else?"
+        ],
+        [
+            "PORTIA",
+            "Yes, bring me word, boy, if thy lord look well,"
+        ],
+        [
+            "PORTIA",
+            "For he went sickly forth: and take good note"
+        ],
+        [
+            "PORTIA",
+            "What Caesar doth, what suitors press to him."
+        ],
+        [
+            "PORTIA",
+            "Hark, boy! what noise is that?"
+        ],
+        [
+            "LUCIUS",
+            "I hear none, madam."
+        ],
+        [
+            "PORTIA",
+            "Prithee, listen well;"
+        ],
+        [
+            "PORTIA",
+            "I heard a bustling rumour, like a fray,"
+        ],
+        [
+            "PORTIA",
+            "And the wind brings it from the Capitol."
+        ],
+        [
+            "LUCIUS",
+            "Sooth, madam, I hear nothing.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "PORTIA",
+            "Come hither, fellow: which way hast thou been?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "Soothsayer",
+            "At mine own house, good lady."
+        ],
+        [
+            "PORTIA",
+            "What is't o'clock?"
+        ],
+        [
+            "Soothsayer",
+            "About the ninth hour, lady."
+        ],
+        [
+            "PORTIA",
+            "Is Caesar yet gone to the Capitol?"
+        ],
+        [
+            "Soothsayer",
+            "Madam, not yet: I go to take my stand,"
+        ],
+        [
+            "Soothsayer",
+            "To see him pass on to the Capitol."
+        ],
+        [
+            "PORTIA",
+            "Thou hast some suit to Caesar, hast thou not?"
+        ],
+        [
+            "Soothsayer",
+            "That I have, lady: if it will please Caesar"
+        ],
+        [
+            "Soothsayer",
+            "To be so good to Caesar as to hear me,"
+        ],
+        [
+            "Soothsayer",
+            "I shall beseech him to befriend himself."
+        ],
+        [
+            "PORTIA",
+            "Why, know'st thou any harm's intended towards him?"
+        ],
+        [
+            "Soothsayer",
+            "None that I know will be, much that I fear may chance."
+        ],
+        [
+            "Soothsayer",
+            "Good morrow to you. Here the street is narrow:"
+        ],
+        [
+            "Soothsayer",
+            "The throng that follows Caesar at the heels,"
+        ],
+        [
+            "Soothsayer",
+            "Of senators, of praetors, common suitors,"
+        ],
+        [
+            "Soothsayer",
+            "Will crowd a feeble man almost to death:"
+        ],
+        [
+            "Soothsayer",
+            "I'll get me to a place more void, and there"
+        ],
+        [
+            "Soothsayer",
+            "Speak to great Caesar as he comes along.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "PORTIA",
+            "I must go in. Ay me, how weak a thing",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "PORTIA",
+            "The heart of woman is! O Brutus,"
+        ],
+        [
+            "PORTIA",
+            "The heavens speed thee in thine enterprise!"
+        ],
+        [
+            "PORTIA",
+            "Sure, the boy heard me: Brutus hath a suit"
+        ],
+        [
+            "PORTIA",
+            "That Caesar will not grant. O, I grow faint."
+        ],
+        [
+            "PORTIA",
+            "Run, Lucius, and commend me to my lord;"
+        ],
+        [
+            "PORTIA",
+            "Say I am merry: come to me again,"
+        ],
+        [
+            "PORTIA",
+            "And bring me word what he doth say to thee.",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter PORTIA and LUCIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter the Soothsayer"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt severally"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "PORTIA": [
+            [
+                "1",
+                "3"
+            ],
+            [
+                "5",
+                "11"
+            ],
+            [
+                "15",
+                "18"
+            ],
+            [
+                "20",
+                "22"
+            ],
+            [
+                "24",
+                "24"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "28",
+                "28"
+            ],
+            [
+                "31",
+                "31"
+            ],
+            [
+                "35",
+                "35"
+            ],
+            [
+                "43",
+                "50"
+            ]
+        ],
+        "LUCIUS": [
+            [
+                "4",
+                "4"
+            ],
+            [
+                "12",
+                "14"
+            ],
+            [
+                "19",
+                "19"
+            ],
+            [
+                "23",
+                "23"
+            ]
+        ],
+        "Soothsayer": [
+            [
+                "25",
+                "25"
+            ],
+            [
+                "27",
+                "27"
+            ],
+            [
+                "29",
+                "30"
+            ],
+            [
+                "32",
+                "34"
+            ],
+            [
+                "36",
+                "42"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IV",
+    "scene_description": "Another part of the same street, before the house of BRUTUS."
+}

@@ -1,0 +1,1195 @@
+{
+    "scene_id": "the taming of the shrew~~Act_4~~Scene_3",
+    "work_number": "8",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "GRUMIO",
+            "No, no, forsooth; I dare not for my life.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "KATHARINA",
+            "The more my wrong, the more his spite appears:"
+        ],
+        [
+            "KATHARINA",
+            "What, did he marry me to famish me?"
+        ],
+        [
+            "KATHARINA",
+            "Beggars, that come unto my father's door,"
+        ],
+        [
+            "KATHARINA",
+            "Upon entreaty have a present aims;"
+        ],
+        [
+            "KATHARINA",
+            "If not, elsewhere they meet with charity:"
+        ],
+        [
+            "KATHARINA",
+            "But I, who never knew how to entreat,"
+        ],
+        [
+            "KATHARINA",
+            "Nor never needed that I should entreat,"
+        ],
+        [
+            "KATHARINA",
+            "Am starved for meat, giddy for lack of sleep,"
+        ],
+        [
+            "KATHARINA",
+            "With oath kept waking and with brawling fed:"
+        ],
+        [
+            "KATHARINA",
+            "And that which spites me more than all these wants,"
+        ],
+        [
+            "KATHARINA",
+            "He does it under name of perfect love;"
+        ],
+        [
+            "KATHARINA",
+            "As who should say, if I should sleep or eat,"
+        ],
+        [
+            "KATHARINA",
+            "'Twere deadly sickness or else present death."
+        ],
+        [
+            "KATHARINA",
+            "I prithee go and get me some repast;"
+        ],
+        [
+            "KATHARINA",
+            "I care not what, so it be wholesome food."
+        ],
+        [
+            "GRUMIO",
+            "What say you to a neat's foot?"
+        ],
+        [
+            "KATHARINA",
+            "'Tis passing good: I prithee let me have it."
+        ],
+        [
+            "GRUMIO",
+            "I fear it is too choleric a meat."
+        ],
+        [
+            "GRUMIO",
+            "How say you to a fat tripe finely broil'd?"
+        ],
+        [
+            "KATHARINA",
+            "I like it well: good Grumio, fetch it me."
+        ],
+        [
+            "GRUMIO",
+            "I cannot tell; I fear 'tis choleric."
+        ],
+        [
+            "GRUMIO",
+            "What say you to a piece of beef and mustard?"
+        ],
+        [
+            "KATHARINA",
+            "A dish that I do love to feed upon."
+        ],
+        [
+            "GRUMIO",
+            "Ay, but the mustard is too hot a little."
+        ],
+        [
+            "KATHARINA",
+            "Why then, the beef, and let the mustard rest."
+        ],
+        [
+            "GRUMIO",
+            "Nay then, I will not: you shall have the mustard,"
+        ],
+        [
+            "GRUMIO",
+            "Or else you get no beef of Grumio."
+        ],
+        [
+            "KATHARINA",
+            "Then both, or one, or any thing thou wilt."
+        ],
+        [
+            "GRUMIO",
+            "Why then, the mustard without the beef."
+        ],
+        [
+            "KATHARINA",
+            "Go, get thee gone, thou false deluding slave,",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "KATHARINA",
+            "That feed'st me with the very name of meat:",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "KATHARINA",
+            "Sorrow on thee and all the pack of you,"
+        ],
+        [
+            "KATHARINA",
+            "That triumph thus upon my misery!"
+        ],
+        [
+            "KATHARINA",
+            "Go, get thee gone, I say.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "How fares my Kate? What, sweeting, all amort?",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "HORTENSIO",
+            "Mistress, what cheer?"
+        ],
+        [
+            "KATHARINA",
+            "Faith, as cold as can be."
+        ],
+        [
+            "PETRUCHIO",
+            "Pluck up thy spirits; look cheerfully upon me."
+        ],
+        [
+            "PETRUCHIO",
+            "Here love; thou see'st how diligent I am"
+        ],
+        [
+            "PETRUCHIO",
+            "To dress thy meat myself and bring it thee:"
+        ],
+        [
+            "PETRUCHIO",
+            "I am sure, sweet Kate, this kindness merits thanks."
+        ],
+        [
+            "PETRUCHIO",
+            "What, not a word? Nay, then thou lovest it not;"
+        ],
+        [
+            "PETRUCHIO",
+            "And all my pains is sorted to no proof."
+        ],
+        [
+            "PETRUCHIO",
+            "Here, take away this dish."
+        ],
+        [
+            "KATHARINA",
+            "I pray you, let it stand."
+        ],
+        [
+            "PETRUCHIO",
+            "The poorest service is repaid with thanks;"
+        ],
+        [
+            "PETRUCHIO",
+            "And so shall mine, before you touch the meat."
+        ],
+        [
+            "KATHARINA",
+            "I thank you, sir."
+        ],
+        [
+            "HORTENSIO",
+            "Signior Petruchio, fie! you are to blame."
+        ],
+        [
+            "HORTENSIO",
+            "Come, mistress Kate, I'll bear you company."
+        ],
+        [
+            "PETRUCHIO",
+            "[Aside] Eat it up all, Hortensio, if thou lovest me."
+        ],
+        [
+            "PETRUCHIO",
+            "Much good do it unto thy gentle heart!"
+        ],
+        [
+            "PETRUCHIO",
+            "Kate, eat apace: and now, my honey love,"
+        ],
+        [
+            "PETRUCHIO",
+            "Will we return unto thy father's house"
+        ],
+        [
+            "PETRUCHIO",
+            "And revel it as bravely as the best,"
+        ],
+        [
+            "PETRUCHIO",
+            "With silken coats and caps and golden rings,"
+        ],
+        [
+            "PETRUCHIO",
+            "With ruffs and cuffs and fardingales and things;"
+        ],
+        [
+            "PETRUCHIO",
+            "With scarfs and fans and double change of bravery,"
+        ],
+        [
+            "PETRUCHIO",
+            "With amber bracelets, beads and all this knavery."
+        ],
+        [
+            "PETRUCHIO",
+            "What, hast thou dined? The tailor stays thy leisure,"
+        ],
+        [
+            "PETRUCHIO",
+            "To deck thy body with his ruffling treasure.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "Come, tailor, let us see these ornaments;",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "Lay forth the gown.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "What news with you, sir?",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "Haberdasher",
+            "Here is the cap your worship did bespeak."
+        ],
+        [
+            "PETRUCHIO",
+            "Why, this was moulded on a porringer;"
+        ],
+        [
+            "PETRUCHIO",
+            "A velvet dish: fie, fie! 'tis lewd and filthy:"
+        ],
+        [
+            "PETRUCHIO",
+            "Why, 'tis a cockle or a walnut-shell,"
+        ],
+        [
+            "PETRUCHIO",
+            "A knack, a toy, a trick, a baby's cap:"
+        ],
+        [
+            "PETRUCHIO",
+            "Away with it! come, let me have a bigger."
+        ],
+        [
+            "KATHARINA",
+            "I'll have no bigger: this doth fit the time,"
+        ],
+        [
+            "KATHARINA",
+            "And gentlewomen wear such caps as these"
+        ],
+        [
+            "PETRUCHIO",
+            "When you are gentle, you shall have one too,"
+        ],
+        [
+            "PETRUCHIO",
+            "And not till then."
+        ],
+        [
+            "HORTENSIO",
+            "[Aside] That will not be in haste."
+        ],
+        [
+            "KATHARINA",
+            "Why, sir, I trust I may have leave to speak;"
+        ],
+        [
+            "KATHARINA",
+            "And speak I will; I am no child, no babe:"
+        ],
+        [
+            "KATHARINA",
+            "Your betters have endured me say my mind,"
+        ],
+        [
+            "KATHARINA",
+            "And if you cannot, best you stop your ears."
+        ],
+        [
+            "KATHARINA",
+            "My tongue will tell the anger of my heart,"
+        ],
+        [
+            "KATHARINA",
+            "Or else my heart concealing it will break,"
+        ],
+        [
+            "KATHARINA",
+            "And rather than it shall, I will be free"
+        ],
+        [
+            "KATHARINA",
+            "Even to the uttermost, as I please, in words."
+        ],
+        [
+            "PETRUCHIO",
+            "Why, thou say'st true; it is a paltry cap,"
+        ],
+        [
+            "PETRUCHIO",
+            "A custard-coffin, a bauble, a silken pie:"
+        ],
+        [
+            "PETRUCHIO",
+            "I love thee well, in that thou likest it not."
+        ],
+        [
+            "KATHARINA",
+            "Love me or love me not, I like the cap;"
+        ],
+        [
+            "KATHARINA",
+            "And it I will have, or I will have none.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "Thy gown? why, ay: come, tailor, let us see't.",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "O mercy, God! what masquing stuff is here?"
+        ],
+        [
+            "PETRUCHIO",
+            "What's this? a sleeve? 'tis like a demi-cannon:"
+        ],
+        [
+            "PETRUCHIO",
+            "What, up and down, carved like an apple-tart?"
+        ],
+        [
+            "PETRUCHIO",
+            "Here's snip and nip and cut and slish and slash,"
+        ],
+        [
+            "PETRUCHIO",
+            "Like to a censer in a barber's shop:"
+        ],
+        [
+            "PETRUCHIO",
+            "Why, what, i' devil's name, tailor, call'st thou this?"
+        ],
+        [
+            "HORTENSIO",
+            "[Aside] I see she's like to have neither cap nor gown."
+        ],
+        [
+            "Tailor",
+            "You bid me make it orderly and well,"
+        ],
+        [
+            "Tailor",
+            "According to the fashion and the time."
+        ],
+        [
+            "PETRUCHIO",
+            "Marry, and did; but if you be remember'd,"
+        ],
+        [
+            "PETRUCHIO",
+            "I did not bid you mar it to the time."
+        ],
+        [
+            "PETRUCHIO",
+            "Go, hop me over every kennel home,"
+        ],
+        [
+            "PETRUCHIO",
+            "For you shall hop without my custom, sir:"
+        ],
+        [
+            "PETRUCHIO",
+            "I'll none of it: hence! make your best of it."
+        ],
+        [
+            "KATHARINA",
+            "I never saw a better-fashion'd gown,"
+        ],
+        [
+            "KATHARINA",
+            "More quaint, more pleasing, nor more commendable:"
+        ],
+        [
+            "KATHARINA",
+            "Belike you mean to make a puppet of me."
+        ],
+        [
+            "PETRUCHIO",
+            "Why, true; he means to make a puppet of thee."
+        ],
+        [
+            "Tailor",
+            "She says your worship means to make"
+        ],
+        [
+            "Tailor",
+            "a puppet of her."
+        ],
+        [
+            "PETRUCHIO",
+            "O monstrous arrogance! Thou liest, thou thread,"
+        ],
+        [
+            "PETRUCHIO",
+            "thou thimble,"
+        ],
+        [
+            "PETRUCHIO",
+            "Thou yard, three-quarters, half-yard, quarter, nail!"
+        ],
+        [
+            "PETRUCHIO",
+            "Thou flea, thou nit, thou winter-cricket thou!"
+        ],
+        [
+            "PETRUCHIO",
+            "Braved in mine own house with a skein of thread?"
+        ],
+        [
+            "PETRUCHIO",
+            "Away, thou rag, thou quantity, thou remnant;"
+        ],
+        [
+            "PETRUCHIO",
+            "Or I shall so be-mete thee with thy yard"
+        ],
+        [
+            "PETRUCHIO",
+            "As thou shalt think on prating whilst thou livest!"
+        ],
+        [
+            "PETRUCHIO",
+            "I tell thee, I, that thou hast marr'd her gown."
+        ],
+        [
+            "Tailor",
+            "Your worship is deceived; the gown is made"
+        ],
+        [
+            "Tailor",
+            "Just as my master had direction:"
+        ],
+        [
+            "Tailor",
+            "Grumio gave order how it should be done."
+        ],
+        [
+            "GRUMIO",
+            "I gave him no order; I gave him the stuff."
+        ],
+        [
+            "Tailor",
+            "But how did you desire it should be made?"
+        ],
+        [
+            "GRUMIO",
+            "Marry, sir, with needle and thread."
+        ],
+        [
+            "Tailor",
+            "But did you not request to have it cut?"
+        ],
+        [
+            "GRUMIO",
+            "Thou hast faced many things."
+        ],
+        [
+            "Tailor",
+            "I have."
+        ],
+        [
+            "GRUMIO",
+            "Face not me: thou hast braved many men; brave not"
+        ],
+        [
+            "GRUMIO",
+            "me; I will neither be faced nor braved. I say unto"
+        ],
+        [
+            "GRUMIO",
+            "thee, I bid thy master cut out the gown; but I did"
+        ],
+        [
+            "GRUMIO",
+            "not bid him cut it to pieces: ergo, thou liest."
+        ],
+        [
+            "Tailor",
+            "Why, here is the note of the fashion to testify"
+        ],
+        [
+            "PETRUCHIO",
+            "Read it."
+        ],
+        [
+            "GRUMIO",
+            "The note lies in's throat, if he say I said so."
+        ],
+        [
+            "Tailor",
+            "[Reads] 'Imprimis, a loose-bodied gown:'"
+        ],
+        [
+            "GRUMIO",
+            "Master, if ever I said loose-bodied gown, sew me in"
+        ],
+        [
+            "GRUMIO",
+            "the skirts of it, and beat me to death with a bottom"
+        ],
+        [
+            "GRUMIO",
+            "of brown thread: I said a gown."
+        ],
+        [
+            "PETRUCHIO",
+            "Proceed."
+        ],
+        [
+            "Tailor",
+            "[Reads] 'With a small compassed cape:'"
+        ],
+        [
+            "GRUMIO",
+            "I confess the cape."
+        ],
+        [
+            "Tailor",
+            "[Reads] 'With a trunk sleeve:'"
+        ],
+        [
+            "GRUMIO",
+            "I confess two sleeves."
+        ],
+        [
+            "Tailor",
+            "[Reads] 'The sleeves curiously cut.'"
+        ],
+        [
+            "PETRUCHIO",
+            "Ay, there's the villany."
+        ],
+        [
+            "GRUMIO",
+            "Error i' the bill, sir; error i' the bill."
+        ],
+        [
+            "GRUMIO",
+            "I commanded the sleeves should be cut out and"
+        ],
+        [
+            "GRUMIO",
+            "sewed up again; and that I'll prove upon thee,"
+        ],
+        [
+            "GRUMIO",
+            "though thy little finger be armed in a thimble."
+        ],
+        [
+            "Tailor",
+            "This is true that I say: an I had thee"
+        ],
+        [
+            "Tailor",
+            "in place where, thou shouldst know it."
+        ],
+        [
+            "GRUMIO",
+            "I am for thee straight: take thou the"
+        ],
+        [
+            "GRUMIO",
+            "bill, give me thy mete-yard, and spare not me."
+        ],
+        [
+            "HORTENSIO",
+            "God-a-mercy, Grumio! then he shall have no odds."
+        ],
+        [
+            "PETRUCHIO",
+            "Well, sir, in brief, the gown is not for me."
+        ],
+        [
+            "GRUMIO",
+            "You are i' the right, sir: 'tis for my mistress."
+        ],
+        [
+            "PETRUCHIO",
+            "Go, take it up unto thy master's use."
+        ],
+        [
+            "GRUMIO",
+            "Villain, not for thy life: take up my mistress'"
+        ],
+        [
+            "GRUMIO",
+            "gown for thy master's use!"
+        ],
+        [
+            "PETRUCHIO",
+            "Why, sir, what's your conceit in that?"
+        ],
+        [
+            "GRUMIO",
+            "O, sir, the conceit is deeper than you think for:"
+        ],
+        [
+            "GRUMIO",
+            "Take up my mistress' gown to his master's use!"
+        ],
+        [
+            "GRUMIO",
+            "O, fie, fie, fie!"
+        ],
+        [
+            "PETRUCHIO",
+            "[Aside] Hortensio, say thou wilt see the tailor paid."
+        ],
+        [
+            "PETRUCHIO",
+            "Go take it hence; be gone, and say no more."
+        ],
+        [
+            "HORTENSIO",
+            "Tailor, I'll pay thee for thy gown tomorrow:"
+        ],
+        [
+            "HORTENSIO",
+            "Take no unkindness of his hasty words:"
+        ],
+        [
+            "HORTENSIO",
+            "Away! I say; commend me to thy master.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "Well, come, my Kate; we will unto your father's",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "Even in these honest mean habiliments:"
+        ],
+        [
+            "PETRUCHIO",
+            "Our purses shall be proud, our garments poor;"
+        ],
+        [
+            "PETRUCHIO",
+            "For 'tis the mind that makes the body rich;"
+        ],
+        [
+            "PETRUCHIO",
+            "And as the sun breaks through the darkest clouds,"
+        ],
+        [
+            "PETRUCHIO",
+            "So honour peereth in the meanest habit."
+        ],
+        [
+            "PETRUCHIO",
+            "What is the jay more precious than the lark,"
+        ],
+        [
+            "PETRUCHIO",
+            "Because his fathers are more beautiful?"
+        ],
+        [
+            "PETRUCHIO",
+            "Or is the adder better than the eel,"
+        ],
+        [
+            "PETRUCHIO",
+            "Because his painted skin contents the eye?"
+        ],
+        [
+            "PETRUCHIO",
+            "O, no, good Kate; neither art thou the worse"
+        ],
+        [
+            "PETRUCHIO",
+            "For this poor furniture and mean array."
+        ],
+        [
+            "PETRUCHIO",
+            "if thou account'st it shame. lay it on me;"
+        ],
+        [
+            "PETRUCHIO",
+            "And therefore frolic: we will hence forthwith,"
+        ],
+        [
+            "PETRUCHIO",
+            "To feast and sport us at thy father's house."
+        ],
+        [
+            "PETRUCHIO",
+            "Go, call my men, and let us straight to him;"
+        ],
+        [
+            "PETRUCHIO",
+            "And bring our horses unto Long-lane end;"
+        ],
+        [
+            "PETRUCHIO",
+            "There will we mount, and thither walk on foot"
+        ],
+        [
+            "PETRUCHIO",
+            "Let's see; I think 'tis now some seven o'clock,"
+        ],
+        [
+            "PETRUCHIO",
+            "And well we may come there by dinner-time."
+        ],
+        [
+            "KATHARINA",
+            "I dare assure you, sir, 'tis almost two;"
+        ],
+        [
+            "KATHARINA",
+            "And 'twill be supper-time ere you come there."
+        ],
+        [
+            "PETRUCHIO",
+            "It shall be seven ere I go to horse:"
+        ],
+        [
+            "PETRUCHIO",
+            "Look, what I speak, or do, or think to do,"
+        ],
+        [
+            "PETRUCHIO",
+            "You are still crossing it. Sirs, let't alone:"
+        ],
+        [
+            "PETRUCHIO",
+            "I will not go to-day; and ere I do,"
+        ],
+        [
+            "PETRUCHIO",
+            "It shall be what o'clock I say it is."
+        ],
+        [
+            "HORTENSIO",
+            "[Aside] Why, so this gallant will command the sun.",
+            {
+                "following_direction_line": "8"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter KATHARINA and GRUMIO"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Beats him"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter PETRUCHIO and HORTENSIO with meat"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter Tailor"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Enter Haberdasher"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exit Haberdasher"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exit Tailor"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "GRUMIO": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "17",
+                "17"
+            ],
+            [
+                "19",
+                "20"
+            ],
+            [
+                "22",
+                "23"
+            ],
+            [
+                "25",
+                "25"
+            ],
+            [
+                "27",
+                "28"
+            ],
+            [
+                "30",
+                "30"
+            ],
+            [
+                "123",
+                "123"
+            ],
+            [
+                "125",
+                "125"
+            ],
+            [
+                "127",
+                "127"
+            ],
+            [
+                "129",
+                "132"
+            ],
+            [
+                "135",
+                "135"
+            ],
+            [
+                "137",
+                "139"
+            ],
+            [
+                "142",
+                "142"
+            ],
+            [
+                "144",
+                "144"
+            ],
+            [
+                "147",
+                "150"
+            ],
+            [
+                "153",
+                "154"
+            ],
+            [
+                "157",
+                "157"
+            ],
+            [
+                "159",
+                "160"
+            ],
+            [
+                "162",
+                "164"
+            ]
+        ],
+        "KATHARINA": [
+            [
+                "2",
+                "16"
+            ],
+            [
+                "18",
+                "18"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "24",
+                "24"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "29",
+                "29"
+            ],
+            [
+                "31",
+                "35"
+            ],
+            [
+                "38",
+                "38"
+            ],
+            [
+                "46",
+                "46"
+            ],
+            [
+                "49",
+                "49"
+            ],
+            [
+                "72",
+                "73"
+            ],
+            [
+                "77",
+                "84"
+            ],
+            [
+                "88",
+                "89"
+            ],
+            [
+                "105",
+                "107"
+            ],
+            [
+                "190",
+                "191"
+            ]
+        ],
+        "PETRUCHIO": [
+            [
+                "36",
+                "36"
+            ],
+            [
+                "39",
+                "45"
+            ],
+            [
+                "47",
+                "48"
+            ],
+            [
+                "52",
+                "65"
+            ],
+            [
+                "67",
+                "71"
+            ],
+            [
+                "74",
+                "75"
+            ],
+            [
+                "85",
+                "87"
+            ],
+            [
+                "90",
+                "96"
+            ],
+            [
+                "100",
+                "104"
+            ],
+            [
+                "108",
+                "108"
+            ],
+            [
+                "111",
+                "119"
+            ],
+            [
+                "134",
+                "134"
+            ],
+            [
+                "140",
+                "140"
+            ],
+            [
+                "146",
+                "146"
+            ],
+            [
+                "156",
+                "156"
+            ],
+            [
+                "158",
+                "158"
+            ],
+            [
+                "161",
+                "161"
+            ],
+            [
+                "165",
+                "166"
+            ],
+            [
+                "170",
+                "189"
+            ],
+            [
+                "192",
+                "196"
+            ]
+        ],
+        "HORTENSIO": [
+            [
+                "37",
+                "37"
+            ],
+            [
+                "50",
+                "51"
+            ],
+            [
+                "76",
+                "76"
+            ],
+            [
+                "97",
+                "97"
+            ],
+            [
+                "155",
+                "155"
+            ],
+            [
+                "167",
+                "169"
+            ],
+            [
+                "197",
+                "197"
+            ]
+        ],
+        "Haberdasher": [
+            [
+                "66",
+                "66"
+            ]
+        ],
+        "Tailor": [
+            [
+                "98",
+                "99"
+            ],
+            [
+                "109",
+                "110"
+            ],
+            [
+                "120",
+                "122"
+            ],
+            [
+                "124",
+                "124"
+            ],
+            [
+                "126",
+                "126"
+            ],
+            [
+                "128",
+                "128"
+            ],
+            [
+                "133",
+                "133"
+            ],
+            [
+                "136",
+                "136"
+            ],
+            [
+                "141",
+                "141"
+            ],
+            [
+                "143",
+                "143"
+            ],
+            [
+                "145",
+                "145"
+            ],
+            [
+                "151",
+                "152"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "A room in PETRUCHIO'S house."
+}

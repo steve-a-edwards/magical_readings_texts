@@ -1,0 +1,422 @@
+{
+    "scene_id": "julius caesar~~Act_1~~Scene_1",
+    "work_number": "11",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "FLAVIUS",
+            "Hence! home, you idle creatures get you home:",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "FLAVIUS",
+            "Is this a holiday? what! know you not,"
+        ],
+        [
+            "FLAVIUS",
+            "Being mechanical, you ought not walk"
+        ],
+        [
+            "FLAVIUS",
+            "Upon a labouring day without the sign"
+        ],
+        [
+            "FLAVIUS",
+            "Of your profession? Speak, what trade art thou?"
+        ],
+        [
+            "First Commoner",
+            "Why, sir, a carpenter."
+        ],
+        [
+            "MARULLUS",
+            "Where is thy leather apron and thy rule?"
+        ],
+        [
+            "MARULLUS",
+            "What dost thou with thy best apparel on?"
+        ],
+        [
+            "MARULLUS",
+            "You, sir, what trade are you?"
+        ],
+        [
+            "Second Commoner",
+            "Truly, sir, in respect of a fine workman, I am but,"
+        ],
+        [
+            "Second Commoner",
+            "as you would say, a cobbler."
+        ],
+        [
+            "MARULLUS",
+            "But what trade art thou? answer me directly."
+        ],
+        [
+            "Second Commoner",
+            "A trade, sir, that, I hope, I may use with a safe"
+        ],
+        [
+            "Second Commoner",
+            "conscience; which is, indeed, sir, a mender of bad soles."
+        ],
+        [
+            "MARULLUS",
+            "What trade, thou knave? thou naughty knave, what trade?"
+        ],
+        [
+            "Second Commoner",
+            "Nay, I beseech you, sir, be not out with me: yet,"
+        ],
+        [
+            "Second Commoner",
+            "if you be out, sir, I can mend you."
+        ],
+        [
+            "MARULLUS",
+            "What meanest thou by that? mend me, thou saucy fellow!"
+        ],
+        [
+            "Second Commoner",
+            "Why, sir, cobble you."
+        ],
+        [
+            "FLAVIUS",
+            "Thou art a cobbler, art thou?"
+        ],
+        [
+            "Second Commoner",
+            "Truly, sir, all that I live by is with the awl: I"
+        ],
+        [
+            "Second Commoner",
+            "meddle with no tradesman's matters, nor women's"
+        ],
+        [
+            "Second Commoner",
+            "matters, but with awl. I am, indeed, sir, a surgeon"
+        ],
+        [
+            "Second Commoner",
+            "to old shoes; when they are in great danger, I"
+        ],
+        [
+            "Second Commoner",
+            "recover them. As proper men as ever trod upon"
+        ],
+        [
+            "Second Commoner",
+            "neat's leather have gone upon my handiwork."
+        ],
+        [
+            "FLAVIUS",
+            "But wherefore art not in thy shop today?"
+        ],
+        [
+            "FLAVIUS",
+            "Why dost thou lead these men about the streets?"
+        ],
+        [
+            "Second Commoner",
+            "Truly, sir, to wear out their shoes, to get myself"
+        ],
+        [
+            "Second Commoner",
+            "into more work. But, indeed, sir, we make holiday,"
+        ],
+        [
+            "Second Commoner",
+            "to see Caesar and to rejoice in his triumph."
+        ],
+        [
+            "MARULLUS",
+            "Wherefore rejoice? What conquest brings he home?"
+        ],
+        [
+            "MARULLUS",
+            "What tributaries follow him to Rome,"
+        ],
+        [
+            "MARULLUS",
+            "To grace in captive bonds his chariot-wheels?"
+        ],
+        [
+            "MARULLUS",
+            "You blocks, you stones, you worse than senseless things!"
+        ],
+        [
+            "MARULLUS",
+            "O you hard hearts, you cruel men of Rome,"
+        ],
+        [
+            "MARULLUS",
+            "Knew you not Pompey? Many a time and oft"
+        ],
+        [
+            "MARULLUS",
+            "Have you climb'd up to walls and battlements,"
+        ],
+        [
+            "MARULLUS",
+            "To towers and windows, yea, to chimney-tops,"
+        ],
+        [
+            "MARULLUS",
+            "Your infants in your arms, and there have sat"
+        ],
+        [
+            "MARULLUS",
+            "The livelong day, with patient expectation,"
+        ],
+        [
+            "MARULLUS",
+            "To see great Pompey pass the streets of Rome:"
+        ],
+        [
+            "MARULLUS",
+            "And when you saw his chariot but appear,"
+        ],
+        [
+            "MARULLUS",
+            "Have you not made an universal shout,"
+        ],
+        [
+            "MARULLUS",
+            "That Tiber trembled underneath her banks,"
+        ],
+        [
+            "MARULLUS",
+            "To hear the replication of your sounds"
+        ],
+        [
+            "MARULLUS",
+            "Made in her concave shores?"
+        ],
+        [
+            "MARULLUS",
+            "And do you now put on your best attire?"
+        ],
+        [
+            "MARULLUS",
+            "And do you now cull out a holiday?"
+        ],
+        [
+            "MARULLUS",
+            "And do you now strew flowers in his way"
+        ],
+        [
+            "MARULLUS",
+            "That comes in triumph over Pompey's blood? Be gone!"
+        ],
+        [
+            "MARULLUS",
+            "Run to your houses, fall upon your knees,"
+        ],
+        [
+            "MARULLUS",
+            "Pray to the gods to intermit the plague"
+        ],
+        [
+            "MARULLUS",
+            "That needs must light on this ingratitude."
+        ],
+        [
+            "FLAVIUS",
+            "Go, go, good countrymen, and, for this fault,"
+        ],
+        [
+            "FLAVIUS",
+            "Assemble all the poor men of your sort;"
+        ],
+        [
+            "FLAVIUS",
+            "Draw them to Tiber banks, and weep your tears"
+        ],
+        [
+            "FLAVIUS",
+            "Into the channel, till the lowest stream"
+        ],
+        [
+            "FLAVIUS",
+            "Do kiss the most exalted shores of all.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "FLAVIUS",
+            "See whether their basest metal be not moved;",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "FLAVIUS",
+            "They vanish tongue-tied in their guiltiness."
+        ],
+        [
+            "FLAVIUS",
+            "Go you down that way towards the Capitol;"
+        ],
+        [
+            "This way will I",
+            "disrobe the images,"
+        ],
+        [
+            "This way will I",
+            "If you do find them deck'd with ceremonies."
+        ],
+        [
+            "MARULLUS",
+            "May we do so?"
+        ],
+        [
+            "MARULLUS",
+            "You know it is the feast of Lupercal."
+        ],
+        [
+            "FLAVIUS",
+            "It is no matter; let no images"
+        ],
+        [
+            "FLAVIUS",
+            "Be hung with Caesar's trophies. I'll about,"
+        ],
+        [
+            "FLAVIUS",
+            "And drive away the vulgar from the streets:"
+        ],
+        [
+            "FLAVIUS",
+            "So do you too, where you perceive them thick."
+        ],
+        [
+            "FLAVIUS",
+            "These growing feathers pluck'd from Caesar's wing"
+        ],
+        [
+            "FLAVIUS",
+            "Will make him fly an ordinary pitch,"
+        ],
+        [
+            "FLAVIUS",
+            "Who else would soar above the view of men"
+        ],
+        [
+            "FLAVIUS",
+            "And keep us all in servile fearfulness.",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter FLAVIUS, MARULLUS, and certain Commoners"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt all the Commoners"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "FLAVIUS": [
+            [
+                "1",
+                "5"
+            ],
+            [
+                "20",
+                "20"
+            ],
+            [
+                "27",
+                "28"
+            ],
+            [
+                "55",
+                "62"
+            ],
+            [
+                "67",
+                "74"
+            ]
+        ],
+        "First Commoner": [
+            [
+                "6",
+                "6"
+            ]
+        ],
+        "MARULLUS": [
+            [
+                "7",
+                "9"
+            ],
+            [
+                "12",
+                "12"
+            ],
+            [
+                "15",
+                "15"
+            ],
+            [
+                "18",
+                "18"
+            ],
+            [
+                "32",
+                "54"
+            ],
+            [
+                "65",
+                "66"
+            ]
+        ],
+        "Second Commoner": [
+            [
+                "10",
+                "11"
+            ],
+            [
+                "13",
+                "14"
+            ],
+            [
+                "16",
+                "17"
+            ],
+            [
+                "19",
+                "19"
+            ],
+            [
+                "21",
+                "26"
+            ],
+            [
+                "29",
+                "31"
+            ]
+        ],
+        "This way will I": [
+            [
+                "63",
+                "64"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "Rome. A street."
+}

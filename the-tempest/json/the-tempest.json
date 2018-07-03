@@ -1,0 +1,42 @@
+{
+  "main_author": "Shakespeare",
+  "plays_scenes": [
+    [
+      "Act_1",
+      [
+        "Scene_1",
+        "Scene_2"
+      ]
+    ],
+    [
+      "Act_2",
+      [
+        "Scene_1",
+        "Scene_2"
+      ]
+    ],
+    [
+      "Act_3",
+      [
+        "Scene_1",
+        "Scene_2",
+        "Scene_3"
+      ]
+    ],
+    [
+      "Act_4",
+      [
+        "Scene_1"
+      ]
+    ],
+    [
+      "Act_5",
+      [
+        "Scene_1"
+      ]
+    ]
+  ],
+  "work_name": "the tempest",
+  "work_number": "10",
+  "work_type": "Play"
+}

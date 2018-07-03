@@ -1,0 +1,483 @@
+{
+    "scene_id": "the taming of the shrew~~Act_4~~Scene_5",
+    "work_number": "8",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "PETRUCHIO",
+            "Come on, i' God's name; once more toward our father's.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "Good Lord, how bright and goodly shines the moon!"
+        ],
+        [
+            "KATHARINA",
+            "The moon! the sun: it is not moonlight now."
+        ],
+        [
+            "PETRUCHIO",
+            "I say it is the moon that shines so bright."
+        ],
+        [
+            "KATHARINA",
+            "I know it is the sun that shines so bright."
+        ],
+        [
+            "PETRUCHIO",
+            "Now, by my mother's son, and that's myself,"
+        ],
+        [
+            "PETRUCHIO",
+            "It shall be moon, or star, or what I list,"
+        ],
+        [
+            "PETRUCHIO",
+            "Or ere I journey to your father's house."
+        ],
+        [
+            "PETRUCHIO",
+            "Go on, and fetch our horses back again."
+        ],
+        [
+            "PETRUCHIO",
+            "Evermore cross'd and cross'd; nothing but cross'd!"
+        ],
+        [
+            "HORTENSIO",
+            "Say as he says, or we shall never go."
+        ],
+        [
+            "KATHARINA",
+            "Forward, I pray, since we have come so far,"
+        ],
+        [
+            "KATHARINA",
+            "And be it moon, or sun, or what you please:"
+        ],
+        [
+            "KATHARINA",
+            "An if you please to call it a rush-candle,"
+        ],
+        [
+            "KATHARINA",
+            "Henceforth I vow it shall be so for me."
+        ],
+        [
+            "PETRUCHIO",
+            "I say it is the moon."
+        ],
+        [
+            "KATHARINA",
+            "I know it is the moon."
+        ],
+        [
+            "PETRUCHIO",
+            "Nay, then you lie: it is the blessed sun."
+        ],
+        [
+            "KATHARINA",
+            "Then, God be bless'd, it is the blessed sun:"
+        ],
+        [
+            "KATHARINA",
+            "But sun it is not, when you say it is not;"
+        ],
+        [
+            "KATHARINA",
+            "And the moon changes even as your mind."
+        ],
+        [
+            "KATHARINA",
+            "What you will have it named, even that it is;"
+        ],
+        [
+            "KATHARINA",
+            "And so it shall be so for Katharina."
+        ],
+        [
+            "HORTENSIO",
+            "Petruchio, go thy ways; the field is won."
+        ],
+        [
+            "PETRUCHIO",
+            "Well, forward, forward! thus the bowl should run,"
+        ],
+        [
+            "PETRUCHIO",
+            "And not unluckily against the bias."
+        ],
+        [
+            "PETRUCHIO",
+            "But, soft! company is coming here.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "Good morrow, gentle mistress: where away?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "Tell me, sweet Kate, and tell me truly too,"
+        ],
+        [
+            "PETRUCHIO",
+            "Hast thou beheld a fresher gentlewoman?"
+        ],
+        [
+            "PETRUCHIO",
+            "Such war of white and red within her cheeks!"
+        ],
+        [
+            "PETRUCHIO",
+            "What stars do spangle heaven with such beauty,"
+        ],
+        [
+            "PETRUCHIO",
+            "As those two eyes become that heavenly face?"
+        ],
+        [
+            "PETRUCHIO",
+            "Fair lovely maid, once more good day to thee."
+        ],
+        [
+            "PETRUCHIO",
+            "Sweet Kate, embrace her for her beauty's sake."
+        ],
+        [
+            "HORTENSIO",
+            "A' will make the man mad, to make a woman of him."
+        ],
+        [
+            "KATHARINA",
+            "Young budding virgin, fair and fresh and sweet,"
+        ],
+        [
+            "KATHARINA",
+            "Whither away, or where is thy abode?"
+        ],
+        [
+            "KATHARINA",
+            "Happy the parents of so fair a child;"
+        ],
+        [
+            "KATHARINA",
+            "Happier the man, whom favourable stars"
+        ],
+        [
+            "KATHARINA",
+            "Allot thee for his lovely bed-fellow!"
+        ],
+        [
+            "PETRUCHIO",
+            "Why, how now, Kate! I hope thou art not mad:"
+        ],
+        [
+            "PETRUCHIO",
+            "This is a man, old, wrinkled, faded, wither'd,"
+        ],
+        [
+            "PETRUCHIO",
+            "And not a maiden, as thou say'st he is."
+        ],
+        [
+            "KATHARINA",
+            "Pardon, old father, my mistaking eyes,"
+        ],
+        [
+            "KATHARINA",
+            "That have been so bedazzled with the sun"
+        ],
+        [
+            "KATHARINA",
+            "That everything I look on seemeth green:"
+        ],
+        [
+            "KATHARINA",
+            "Now I perceive thou art a reverend father;"
+        ],
+        [
+            "KATHARINA",
+            "Pardon, I pray thee, for my mad mistaking."
+        ],
+        [
+            "PETRUCHIO",
+            "Do, good old grandsire; and withal make known"
+        ],
+        [
+            "PETRUCHIO",
+            "Which way thou travellest: if along with us,"
+        ],
+        [
+            "PETRUCHIO",
+            "We shall be joyful of thy company."
+        ],
+        [
+            "VINCENTIO",
+            "Fair sir, and you my merry mistress,"
+        ],
+        [
+            "VINCENTIO",
+            "That with your strange encounter much amazed me,"
+        ],
+        [
+            "VINCENTIO",
+            "My name is call'd Vincentio; my dwelling Pisa;"
+        ],
+        [
+            "VINCENTIO",
+            "And bound I am to Padua; there to visit"
+        ],
+        [
+            "VINCENTIO",
+            "A son of mine, which long I have not seen."
+        ],
+        [
+            "PETRUCHIO",
+            "What is his name?"
+        ],
+        [
+            "VINCENTIO",
+            "Lucentio, gentle sir."
+        ],
+        [
+            "PETRUCHIO",
+            "Happily we met; the happier for thy son."
+        ],
+        [
+            "PETRUCHIO",
+            "And now by law, as well as reverend age,"
+        ],
+        [
+            "PETRUCHIO",
+            "I may entitle thee my loving father:"
+        ],
+        [
+            "PETRUCHIO",
+            "The sister to my wife, this gentlewoman,"
+        ],
+        [
+            "PETRUCHIO",
+            "Thy son by this hath married. Wonder not,"
+        ],
+        [
+            "PETRUCHIO",
+            "Nor be grieved: she is of good esteem,"
+        ],
+        [
+            "PETRUCHIO",
+            "Her dowery wealthy, and of worthy birth;"
+        ],
+        [
+            "PETRUCHIO",
+            "Beside, so qualified as may beseem"
+        ],
+        [
+            "PETRUCHIO",
+            "The spouse of any noble gentleman."
+        ],
+        [
+            "PETRUCHIO",
+            "Let me embrace with old Vincentio,"
+        ],
+        [
+            "PETRUCHIO",
+            "And wander we to see thy honest son,"
+        ],
+        [
+            "PETRUCHIO",
+            "Who will of thy arrival be full joyous."
+        ],
+        [
+            "VINCENTIO",
+            "But is it true? or else is it your pleasure,"
+        ],
+        [
+            "VINCENTIO",
+            "Like pleasant travellers, to break a jest"
+        ],
+        [
+            "VINCENTIO",
+            "Upon the company you overtake?"
+        ],
+        [
+            "HORTENSIO",
+            "I do assure thee, father, so it is."
+        ],
+        [
+            "PETRUCHIO",
+            "Come, go along, and see the truth hereof;"
+        ],
+        [
+            "PETRUCHIO",
+            "For our first merriment hath made thee jealous.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "HORTENSIO",
+            "Well, Petruchio, this has put me in heart.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "HORTENSIO",
+            "Have to my widow! and if she be froward,"
+        ],
+        [
+            "HORTENSIO",
+            "Then hast thou taught Hortensio to be untoward.",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter PETRUCHIO, KATHARINA, HORTENSIO, and Servants"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter VINCENTIO. To VINCENTIO"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt all but HORTENSIO"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "PETRUCHIO": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "4",
+                "4"
+            ],
+            [
+                "6",
+                "10"
+            ],
+            [
+                "16",
+                "16"
+            ],
+            [
+                "18",
+                "18"
+            ],
+            [
+                "25",
+                "35"
+            ],
+            [
+                "42",
+                "44"
+            ],
+            [
+                "50",
+                "52"
+            ],
+            [
+                "58",
+                "58"
+            ],
+            [
+                "60",
+                "71"
+            ],
+            [
+                "76",
+                "77"
+            ]
+        ],
+        "KATHARINA": [
+            [
+                "3",
+                "3"
+            ],
+            [
+                "5",
+                "5"
+            ],
+            [
+                "12",
+                "15"
+            ],
+            [
+                "17",
+                "17"
+            ],
+            [
+                "19",
+                "23"
+            ],
+            [
+                "37",
+                "41"
+            ],
+            [
+                "45",
+                "49"
+            ]
+        ],
+        "HORTENSIO": [
+            [
+                "11",
+                "11"
+            ],
+            [
+                "24",
+                "24"
+            ],
+            [
+                "36",
+                "36"
+            ],
+            [
+                "75",
+                "75"
+            ],
+            [
+                "78",
+                "80"
+            ]
+        ],
+        "VINCENTIO": [
+            [
+                "53",
+                "57"
+            ],
+            [
+                "59",
+                "59"
+            ],
+            [
+                "72",
+                "74"
+            ]
+        ]
+    },
+    "scene_name": "SCENE V",
+    "scene_description": "A public road."
+}

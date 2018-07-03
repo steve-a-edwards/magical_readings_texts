@@ -1,0 +1,2207 @@
+{
+    "scene_id": "othello~~Act_1~~Scene_3",
+    "work_number": "9",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "DUKE OF VENICE",
+            "There is no composition in these news",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "DUKE OF VENICE",
+            "That gives them credit."
+        ],
+        [
+            "First Senator",
+            "Indeed, they are disproportion'd;"
+        ],
+        [
+            "First Senator",
+            "My letters say a hundred and seven galleys."
+        ],
+        [
+            "DUKE OF VENICE",
+            "And mine, a hundred and forty."
+        ],
+        [
+            "Second Senator",
+            "And mine, two hundred:"
+        ],
+        [
+            "Second Senator",
+            "But though they jump not on a just account,--"
+        ],
+        [
+            "Second Senator",
+            "As in these cases, where the aim reports,"
+        ],
+        [
+            "Second Senator",
+            "'Tis oft with difference--yet do they all confirm"
+        ],
+        [
+            "Second Senator",
+            "A Turkish fleet, and bearing up to Cyprus."
+        ],
+        [
+            "DUKE OF VENICE",
+            "Nay, it is possible enough to judgment:"
+        ],
+        [
+            "DUKE OF VENICE",
+            "I do not so secure me in the error,"
+        ],
+        [
+            "DUKE OF VENICE",
+            "But the main article I do approve"
+        ],
+        [
+            "DUKE OF VENICE",
+            "In fearful sense."
+        ],
+        [
+            "Sailor",
+            "[Within] What, ho! what, ho! what, ho!"
+        ],
+        [
+            "First Officer",
+            "A messenger from the galleys.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "DUKE OF VENICE",
+            "Now, what's the business?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "Sailor",
+            "The Turkish preparation makes for Rhodes;"
+        ],
+        [
+            "Sailor",
+            "So was I bid report here to the state"
+        ],
+        [
+            "Sailor",
+            "By Signior Angelo."
+        ],
+        [
+            "DUKE OF VENICE",
+            "How say you by this change?"
+        ],
+        [
+            "First Senator",
+            "This cannot be,"
+        ],
+        [
+            "First Senator",
+            "By no assay of reason: 'tis a pageant,"
+        ],
+        [
+            "First Senator",
+            "To keep us in false gaze. When we consider"
+        ],
+        [
+            "First Senator",
+            "The importancy of Cyprus to the Turk,"
+        ],
+        [
+            "First Senator",
+            "And let ourselves again but understand,"
+        ],
+        [
+            "First Senator",
+            "That as it more concerns the Turk than Rhodes,"
+        ],
+        [
+            "First Senator",
+            "So may he with more facile question bear it,"
+        ],
+        [
+            "First Senator",
+            "For that it stands not in such warlike brace,"
+        ],
+        [
+            "First Senator",
+            "But altogether lacks the abilities"
+        ],
+        [
+            "First Senator",
+            "That Rhodes is dress'd in: if we make thought of this,"
+        ],
+        [
+            "First Senator",
+            "We must not think the Turk is so unskilful"
+        ],
+        [
+            "First Senator",
+            "To leave that latest which concerns him first,"
+        ],
+        [
+            "First Senator",
+            "Neglecting an attempt of ease and gain,"
+        ],
+        [
+            "First Senator",
+            "To wake and wage a danger profitless."
+        ],
+        [
+            "DUKE OF VENICE",
+            "Nay, in all confidence, he's not for Rhodes."
+        ],
+        [
+            "First Officer",
+            "Here is more news.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "Messenger",
+            "The Ottomites, reverend and gracious,",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "Messenger",
+            "Steering with due course towards the isle of Rhodes,"
+        ],
+        [
+            "Messenger",
+            "Have there injointed them with an after fleet."
+        ],
+        [
+            "First Senator",
+            "Ay, so I thought. How many, as you guess?"
+        ],
+        [
+            "Messenger",
+            "Of thirty sail: and now they do restem"
+        ],
+        [
+            "Messenger",
+            "Their backward course, bearing with frank appearance"
+        ],
+        [
+            "Messenger",
+            "Their purposes toward Cyprus. Signior Montano,"
+        ],
+        [
+            "Messenger",
+            "Your trusty and most valiant servitor,"
+        ],
+        [
+            "Messenger",
+            "With his free duty recommends you thus,"
+        ],
+        [
+            "Messenger",
+            "And prays you to believe him."
+        ],
+        [
+            "DUKE OF VENICE",
+            "'Tis certain, then, for Cyprus."
+        ],
+        [
+            "DUKE OF VENICE",
+            "Marcus Luccicos, is not he in town?"
+        ],
+        [
+            "First Senator",
+            "He's now in Florence."
+        ],
+        [
+            "DUKE OF VENICE",
+            "Write from us to him; post-post-haste dispatch."
+        ],
+        [
+            "First Senator",
+            "Here comes Brabantio and the valiant Moor.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "DUKE OF VENICE",
+            "Valiant Othello, we must straight employ you",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "DUKE OF VENICE",
+            "Against the general enemy Ottoman.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "DUKE OF VENICE",
+            "I did not see you; welcome, gentle signior;",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "DUKE OF VENICE",
+            "We lack'd your counsel and your help tonight."
+        ],
+        [
+            "BRABANTIO",
+            "So did I yours. Good your grace, pardon me;"
+        ],
+        [
+            "BRABANTIO",
+            "Neither my place nor aught I heard of business"
+        ],
+        [
+            "BRABANTIO",
+            "Hath raised me from my bed, nor doth the general care"
+        ],
+        [
+            "BRABANTIO",
+            "Take hold on me, for my particular grief"
+        ],
+        [
+            "BRABANTIO",
+            "Is of so flood-gate and o'erbearing nature"
+        ],
+        [
+            "BRABANTIO",
+            "That it engluts and swallows other sorrows"
+        ],
+        [
+            "BRABANTIO",
+            "And it is still itself."
+        ],
+        [
+            "DUKE OF VENICE",
+            "Why, what's the matter?"
+        ],
+        [
+            "BRABANTIO",
+            "My daughter! O, my daughter!"
+        ],
+        [
+            "All",
+            "Dead?"
+        ],
+        [
+            "BRABANTIO",
+            "Ay, to me;"
+        ],
+        [
+            "BRABANTIO",
+            "She is abused, stol'n from me, and corrupted"
+        ],
+        [
+            "BRABANTIO",
+            "By spells and medicines bought of mountebanks;"
+        ],
+        [
+            "BRABANTIO",
+            "For nature so preposterously to err,"
+        ],
+        [
+            "BRABANTIO",
+            "Being not deficient, blind, or lame of sense,"
+        ],
+        [
+            "BRABANTIO",
+            "Sans witchcraft could not."
+        ],
+        [
+            "DUKE OF VENICE",
+            "Whoe'er he be that in this foul proceeding"
+        ],
+        [
+            "DUKE OF VENICE",
+            "Hath thus beguiled your daughter of herself"
+        ],
+        [
+            "DUKE OF VENICE",
+            "And you of her, the bloody book of law"
+        ],
+        [
+            "DUKE OF VENICE",
+            "You shall yourself read in the bitter letter"
+        ],
+        [
+            "DUKE OF VENICE",
+            "After your own sense, yea, though our proper son"
+        ],
+        [
+            "DUKE OF VENICE",
+            "Stood in your action."
+        ],
+        [
+            "BRABANTIO",
+            "Humbly I thank your grace."
+        ],
+        [
+            "BRABANTIO",
+            "Here is the man, this Moor, whom now, it seems,"
+        ],
+        [
+            "BRABANTIO",
+            "Your special mandate for the state-affairs"
+        ],
+        [
+            "BRABANTIO",
+            "Hath hither brought."
+        ],
+        [
+            "All",
+            "We are very sorry for't."
+        ],
+        [
+            "DUKE OF VENICE",
+            "[To OTHELLO] What, in your own part, can you say to this?"
+        ],
+        [
+            "BRABANTIO",
+            "Nothing, but this is so."
+        ],
+        [
+            "OTHELLO",
+            "Most potent, grave, and reverend signiors,"
+        ],
+        [
+            "OTHELLO",
+            "My very noble and approved good masters,"
+        ],
+        [
+            "OTHELLO",
+            "That I have ta'en away this old man's daughter,"
+        ],
+        [
+            "OTHELLO",
+            "It is most true; true, I have married her:"
+        ],
+        [
+            "OTHELLO",
+            "The very head and front of my offending"
+        ],
+        [
+            "OTHELLO",
+            "Hath this extent, no more. Rude am I in my speech,"
+        ],
+        [
+            "OTHELLO",
+            "And little bless'd with the soft phrase of peace:"
+        ],
+        [
+            "OTHELLO",
+            "For since these arms of mine had seven years' pith,"
+        ],
+        [
+            "OTHELLO",
+            "Till now some nine moons wasted, they have used"
+        ],
+        [
+            "OTHELLO",
+            "Their dearest action in the tented field,"
+        ],
+        [
+            "OTHELLO",
+            "And little of this great world can I speak,"
+        ],
+        [
+            "OTHELLO",
+            "More than pertains to feats of broil and battle,"
+        ],
+        [
+            "OTHELLO",
+            "And therefore little shall I grace my cause"
+        ],
+        [
+            "OTHELLO",
+            "In speaking for myself. Yet, by your gracious patience,"
+        ],
+        [
+            "OTHELLO",
+            "I will a round unvarnish'd tale deliver"
+        ],
+        [
+            "OTHELLO",
+            "Of my whole course of love; what drugs, what charms,"
+        ],
+        [
+            "OTHELLO",
+            "What conjuration and what mighty magic,"
+        ],
+        [
+            "OTHELLO",
+            "For such proceeding I am charged withal,"
+        ],
+        [
+            "OTHELLO",
+            "I won his daughter."
+        ],
+        [
+            "BRABANTIO",
+            "A maiden never bold;"
+        ],
+        [
+            "BRABANTIO",
+            "Of spirit so still and quiet, that her motion"
+        ],
+        [
+            "BRABANTIO",
+            "Blush'd at herself; and she, in spite of nature,"
+        ],
+        [
+            "BRABANTIO",
+            "Of years, of country, credit, every thing,"
+        ],
+        [
+            "BRABANTIO",
+            "To fall in love with what she fear'd to look on!"
+        ],
+        [
+            "BRABANTIO",
+            "It is a judgment maim'd and most imperfect"
+        ],
+        [
+            "BRABANTIO",
+            "That will confess perfection so could err"
+        ],
+        [
+            "BRABANTIO",
+            "Against all rules of nature, and must be driven"
+        ],
+        [
+            "BRABANTIO",
+            "To find out practises of cunning hell,"
+        ],
+        [
+            "BRABANTIO",
+            "Why this should be. I therefore vouch again"
+        ],
+        [
+            "BRABANTIO",
+            "That with some mixtures powerful o'er the blood,"
+        ],
+        [
+            "BRABANTIO",
+            "Or with some dram conjured to this effect,"
+        ],
+        [
+            "BRABANTIO",
+            "He wrought upon her."
+        ],
+        [
+            "DUKE OF VENICE",
+            "To vouch this, is no proof,"
+        ],
+        [
+            "DUKE OF VENICE",
+            "Without more wider and more overt test"
+        ],
+        [
+            "DUKE OF VENICE",
+            "Than these thin habits and poor likelihoods"
+        ],
+        [
+            "DUKE OF VENICE",
+            "Of modern seeming do prefer against him."
+        ],
+        [
+            "First Senator",
+            "But, Othello, speak:"
+        ],
+        [
+            "First Senator",
+            "Did you by indirect and forced courses"
+        ],
+        [
+            "First Senator",
+            "Subdue and poison this young maid's affections?"
+        ],
+        [
+            "First Senator",
+            "Or came it by request and such fair question"
+        ],
+        [
+            "First Senator",
+            "As soul to soul affordeth?"
+        ],
+        [
+            "OTHELLO",
+            "I do beseech you,"
+        ],
+        [
+            "OTHELLO",
+            "Send for the lady to the Sagittary,"
+        ],
+        [
+            "OTHELLO",
+            "And let her speak of me before her father:"
+        ],
+        [
+            "OTHELLO",
+            "If you do find me foul in her report,"
+        ],
+        [
+            "OTHELLO",
+            "The trust, the office I do hold of you,"
+        ],
+        [
+            "OTHELLO",
+            "Not only take away, but let your sentence"
+        ],
+        [
+            "OTHELLO",
+            "Even fall upon my life."
+        ],
+        [
+            "DUKE OF VENICE",
+            "Fetch Desdemona hither."
+        ],
+        [
+            "OTHELLO",
+            "Ancient, conduct them: you best know the place.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "OTHELLO",
+            "And, till she come, as truly as to heaven",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "OTHELLO",
+            "I do confess the vices of my blood,"
+        ],
+        [
+            "OTHELLO",
+            "So justly to your grave ears I'll present"
+        ],
+        [
+            "OTHELLO",
+            "How I did thrive in this fair lady's love,"
+        ],
+        [
+            "OTHELLO",
+            "And she in mine."
+        ],
+        [
+            "DUKE OF VENICE",
+            "Say it, Othello."
+        ],
+        [
+            "OTHELLO",
+            "Her father loved me; oft invited me;"
+        ],
+        [
+            "OTHELLO",
+            "Still question'd me the story of my life,"
+        ],
+        [
+            "OTHELLO",
+            "From year to year, the battles, sieges, fortunes,"
+        ],
+        [
+            "OTHELLO",
+            "That I have passed."
+        ],
+        [
+            "OTHELLO",
+            "I ran it through, even from my boyish days,"
+        ],
+        [
+            "OTHELLO",
+            "To the very moment that he bade me tell it;"
+        ],
+        [
+            "OTHELLO",
+            "Wherein I spake of most disastrous chances,"
+        ],
+        [
+            "OTHELLO",
+            "Of moving accidents by flood and field"
+        ],
+        [
+            "OTHELLO",
+            "Of hair-breadth scapes i' the imminent deadly breach,"
+        ],
+        [
+            "OTHELLO",
+            "Of being taken by the insolent foe"
+        ],
+        [
+            "OTHELLO",
+            "And sold to slavery, of my redemption thence"
+        ],
+        [
+            "OTHELLO",
+            "And portance in my travels' history:"
+        ],
+        [
+            "OTHELLO",
+            "Wherein of antres vast and deserts idle,"
+        ],
+        [
+            "OTHELLO",
+            "Rough quarries, rocks and hills whose heads touch heaven"
+        ],
+        [
+            "OTHELLO",
+            "It was my hint to speak,--such was the process;"
+        ],
+        [
+            "OTHELLO",
+            "And of the Cannibals that each other eat,"
+        ],
+        [
+            "OTHELLO",
+            "The Anthropophagi and men whose heads"
+        ],
+        [
+            "OTHELLO",
+            "Do grow beneath their shoulders. This to hear"
+        ],
+        [
+            "OTHELLO",
+            "Would Desdemona seriously incline:"
+        ],
+        [
+            "OTHELLO",
+            "But still the house-affairs would draw her thence:"
+        ],
+        [
+            "OTHELLO",
+            "Which ever as she could with haste dispatch,"
+        ],
+        [
+            "OTHELLO",
+            "She'ld come again, and with a greedy ear"
+        ],
+        [
+            "OTHELLO",
+            "Devour up my discourse: which I observing,"
+        ],
+        [
+            "OTHELLO",
+            "Took once a pliant hour, and found good means"
+        ],
+        [
+            "OTHELLO",
+            "To draw from her a prayer of earnest heart"
+        ],
+        [
+            "OTHELLO",
+            "That I would all my pilgrimage dilate,"
+        ],
+        [
+            "OTHELLO",
+            "Whereof by parcels she had something heard,"
+        ],
+        [
+            "OTHELLO",
+            "But not intentively: I did consent,"
+        ],
+        [
+            "OTHELLO",
+            "And often did beguile her of her tears,"
+        ],
+        [
+            "OTHELLO",
+            "When I did speak of some distressful stroke"
+        ],
+        [
+            "OTHELLO",
+            "That my youth suffer'd. My story being done,"
+        ],
+        [
+            "OTHELLO",
+            "She gave me for my pains a world of sighs:"
+        ],
+        [
+            "OTHELLO",
+            "She swore, in faith, twas strange, 'twas passing strange,"
+        ],
+        [
+            "OTHELLO",
+            "'Twas pitiful, 'twas wondrous pitiful:"
+        ],
+        [
+            "OTHELLO",
+            "She wish'd she had not heard it, yet she wish'd"
+        ],
+        [
+            "OTHELLO",
+            "That heaven had made her such a man: she thank'd me,"
+        ],
+        [
+            "OTHELLO",
+            "And bade me, if I had a friend that loved her,"
+        ],
+        [
+            "OTHELLO",
+            "I should but teach him how to tell my story."
+        ],
+        [
+            "OTHELLO",
+            "And that would woo her. Upon this hint I spake:"
+        ],
+        [
+            "OTHELLO",
+            "She loved me for the dangers I had pass'd,"
+        ],
+        [
+            "OTHELLO",
+            "And I loved her that she did pity them."
+        ],
+        [
+            "OTHELLO",
+            "This only is the witchcraft I have used:"
+        ],
+        [
+            "OTHELLO",
+            "Here comes the lady; let her witness it.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "DUKE OF VENICE",
+            "I think this tale would win my daughter too.",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "DUKE OF VENICE",
+            "Good Brabantio,"
+        ],
+        [
+            "DUKE OF VENICE",
+            "Take up this mangled matter at the best:"
+        ],
+        [
+            "DUKE OF VENICE",
+            "Men do their broken weapons rather use"
+        ],
+        [
+            "DUKE OF VENICE",
+            "Than their bare hands."
+        ],
+        [
+            "BRABANTIO",
+            "I pray you, hear her speak:"
+        ],
+        [
+            "BRABANTIO",
+            "If she confess that she was half the wooer,"
+        ],
+        [
+            "BRABANTIO",
+            "Destruction on my head, if my bad blame"
+        ],
+        [
+            "BRABANTIO",
+            "Light on the man! Come hither, gentle mistress:"
+        ],
+        [
+            "BRABANTIO",
+            "Do you perceive in all this noble company"
+        ],
+        [
+            "BRABANTIO",
+            "Where most you owe obedience?"
+        ],
+        [
+            "DESDEMONA",
+            "My noble father,"
+        ],
+        [
+            "DESDEMONA",
+            "I do perceive here a divided duty:"
+        ],
+        [
+            "DESDEMONA",
+            "To you I am bound for life and education;"
+        ],
+        [
+            "DESDEMONA",
+            "My life and education both do learn me"
+        ],
+        [
+            "DESDEMONA",
+            "How to respect you; you are the lord of duty;"
+        ],
+        [
+            "DESDEMONA",
+            "I am hitherto your daughter: but here's my husband,"
+        ],
+        [
+            "DESDEMONA",
+            "And so much duty as my mother show'd"
+        ],
+        [
+            "DESDEMONA",
+            "To you, preferring you before her father,"
+        ],
+        [
+            "DESDEMONA",
+            "So much I challenge that I may profess"
+        ],
+        [
+            "DESDEMONA",
+            "Due to the Moor my lord."
+        ],
+        [
+            "BRABANTIO",
+            "God be wi' you! I have done."
+        ],
+        [
+            "BRABANTIO",
+            "Please it your grace, on to the state-affairs:"
+        ],
+        [
+            "BRABANTIO",
+            "I had rather to adopt a child than get it."
+        ],
+        [
+            "BRABANTIO",
+            "Come hither, Moor:"
+        ],
+        [
+            "BRABANTIO",
+            "I here do give thee that with all my heart"
+        ],
+        [
+            "BRABANTIO",
+            "Which, but thou hast already, with all my heart"
+        ],
+        [
+            "BRABANTIO",
+            "I would keep from thee. For your sake, jewel,"
+        ],
+        [
+            "BRABANTIO",
+            "I am glad at soul I have no other child:"
+        ],
+        [
+            "BRABANTIO",
+            "For thy escape would teach me tyranny,"
+        ],
+        [
+            "BRABANTIO",
+            "To hang clogs on them. I have done, my lord."
+        ],
+        [
+            "DUKE OF VENICE",
+            "Let me speak like yourself, and lay a sentence,"
+        ],
+        [
+            "DUKE OF VENICE",
+            "Which, as a grise or step, may help these lovers"
+        ],
+        [
+            "DUKE OF VENICE",
+            "Into your favour."
+        ],
+        [
+            "DUKE OF VENICE",
+            "When remedies are past, the griefs are ended"
+        ],
+        [
+            "DUKE OF VENICE",
+            "By seeing the worst, which late on hopes depended."
+        ],
+        [
+            "DUKE OF VENICE",
+            "To mourn a mischief that is past and gone"
+        ],
+        [
+            "DUKE OF VENICE",
+            "Is the next way to draw new mischief on."
+        ],
+        [
+            "DUKE OF VENICE",
+            "What cannot be preserved when fortune takes"
+        ],
+        [
+            "DUKE OF VENICE",
+            "Patience her injury a mockery makes."
+        ],
+        [
+            "DUKE OF VENICE",
+            "The robb'd that smiles steals something from the thief;"
+        ],
+        [
+            "DUKE OF VENICE",
+            "He robs himself that spends a bootless grief."
+        ],
+        [
+            "BRABANTIO",
+            "So let the Turk of Cyprus us beguile;"
+        ],
+        [
+            "BRABANTIO",
+            "We lose it not, so long as we can smile."
+        ],
+        [
+            "BRABANTIO",
+            "He bears the sentence well that nothing bears"
+        ],
+        [
+            "BRABANTIO",
+            "But the free comfort which from thence he hears,"
+        ],
+        [
+            "BRABANTIO",
+            "But he bears both the sentence and the sorrow"
+        ],
+        [
+            "BRABANTIO",
+            "That, to pay grief, must of poor patience borrow."
+        ],
+        [
+            "BRABANTIO",
+            "These sentences, to sugar, or to gall,"
+        ],
+        [
+            "BRABANTIO",
+            "Being strong on both sides, are equivocal:"
+        ],
+        [
+            "BRABANTIO",
+            "But words are words; I never yet did hear"
+        ],
+        [
+            "BRABANTIO",
+            "That the bruised heart was pierced through the ear."
+        ],
+        [
+            "BRABANTIO",
+            "I humbly beseech you, proceed to the affairs of state."
+        ],
+        [
+            "DUKE OF VENICE",
+            "The Turk with a most mighty preparation makes for"
+        ],
+        [
+            "DUKE OF VENICE",
+            "Cyprus. Othello, the fortitude of the place is best"
+        ],
+        [
+            "DUKE OF VENICE",
+            "known to you; and though we have there a substitute"
+        ],
+        [
+            "DUKE OF VENICE",
+            "of most allowed sufficiency, yet opinion, a"
+        ],
+        [
+            "DUKE OF VENICE",
+            "sovereign mistress of effects, throws a more safer"
+        ],
+        [
+            "DUKE OF VENICE",
+            "voice on you: you must therefore be content to"
+        ],
+        [
+            "DUKE OF VENICE",
+            "slubber the gloss of your new fortunes with this"
+        ],
+        [
+            "DUKE OF VENICE",
+            "more stubborn and boisterous expedition."
+        ],
+        [
+            "OTHELLO",
+            "The tyrant custom, most grave senators,"
+        ],
+        [
+            "OTHELLO",
+            "Hath made the flinty and steel couch of war"
+        ],
+        [
+            "OTHELLO",
+            "My thrice-driven bed of down: I do agnise"
+        ],
+        [
+            "OTHELLO",
+            "A natural and prompt alacrity"
+        ],
+        [
+            "OTHELLO",
+            "I find in hardness, and do undertake"
+        ],
+        [
+            "OTHELLO",
+            "These present wars against the Ottomites."
+        ],
+        [
+            "OTHELLO",
+            "Most humbly therefore bending to your state,"
+        ],
+        [
+            "OTHELLO",
+            "I crave fit disposition for my wife."
+        ],
+        [
+            "OTHELLO",
+            "Due reference of place and exhibition,"
+        ],
+        [
+            "OTHELLO",
+            "With such accommodation and besort"
+        ],
+        [
+            "OTHELLO",
+            "As levels with her breeding."
+        ],
+        [
+            "DUKE OF VENICE",
+            "If you please,"
+        ],
+        [
+            "DUKE OF VENICE",
+            "Be't at her father's."
+        ],
+        [
+            "BRABANTIO",
+            "I'll not have it so."
+        ],
+        [
+            "OTHELLO",
+            "Nor I."
+        ],
+        [
+            "DESDEMONA",
+            "Nor I; I would not there reside,"
+        ],
+        [
+            "DESDEMONA",
+            "To put my father in impatient thoughts"
+        ],
+        [
+            "DESDEMONA",
+            "By being in his eye. Most gracious duke,"
+        ],
+        [
+            "DESDEMONA",
+            "To my unfolding lend your prosperous ear;"
+        ],
+        [
+            "DESDEMONA",
+            "And let me find a charter in your voice,"
+        ],
+        [
+            "DESDEMONA",
+            "To assist my simpleness."
+        ],
+        [
+            "DUKE OF VENICE",
+            "What would You, Desdemona?"
+        ],
+        [
+            "DESDEMONA",
+            "That I did love the Moor to live with him,"
+        ],
+        [
+            "DESDEMONA",
+            "My downright violence and storm of fortunes"
+        ],
+        [
+            "DESDEMONA",
+            "May trumpet to the world: my heart's subdued"
+        ],
+        [
+            "DESDEMONA",
+            "Even to the very quality of my lord:"
+        ],
+        [
+            "DESDEMONA",
+            "I saw Othello's visage in his mind,"
+        ],
+        [
+            "DESDEMONA",
+            "And to his honour and his valiant parts"
+        ],
+        [
+            "DESDEMONA",
+            "Did I my soul and fortunes consecrate."
+        ],
+        [
+            "DESDEMONA",
+            "So that, dear lords, if I be left behind,"
+        ],
+        [
+            "DESDEMONA",
+            "A moth of peace, and he go to the war,"
+        ],
+        [
+            "DESDEMONA",
+            "The rites for which I love him are bereft me,"
+        ],
+        [
+            "DESDEMONA",
+            "And I a heavy interim shall support"
+        ],
+        [
+            "DESDEMONA",
+            "By his dear absence. Let me go with him."
+        ],
+        [
+            "OTHELLO",
+            "Let her have your voices."
+        ],
+        [
+            "OTHELLO",
+            "Vouch with me, heaven, I therefore beg it not,"
+        ],
+        [
+            "OTHELLO",
+            "To please the palate of my appetite,"
+        ],
+        [
+            "OTHELLO",
+            "Nor to comply with heat--the young affects"
+        ],
+        [
+            "OTHELLO",
+            "In me defunct--and proper satisfaction."
+        ],
+        [
+            "OTHELLO",
+            "But to be free and bounteous to her mind:"
+        ],
+        [
+            "OTHELLO",
+            "And heaven defend your good souls, that you think"
+        ],
+        [
+            "OTHELLO",
+            "I will your serious and great business scant"
+        ],
+        [
+            "OTHELLO",
+            "For she is with me: no, when light-wing'd toys"
+        ],
+        [
+            "OTHELLO",
+            "Of feather'd Cupid seal with wanton dullness"
+        ],
+        [
+            "OTHELLO",
+            "My speculative and officed instruments,"
+        ],
+        [
+            "OTHELLO",
+            "That my disports corrupt and taint my business,"
+        ],
+        [
+            "OTHELLO",
+            "Let housewives make a skillet of my helm,"
+        ],
+        [
+            "OTHELLO",
+            "And all indign and base adversities"
+        ],
+        [
+            "OTHELLO",
+            "Make head against my estimation!"
+        ],
+        [
+            "DUKE OF VENICE",
+            "Be it as you shall privately determine,"
+        ],
+        [
+            "DUKE OF VENICE",
+            "Either for her stay or going: the affair cries haste,"
+        ],
+        [
+            "DUKE OF VENICE",
+            "And speed must answer it."
+        ],
+        [
+            "First Senator",
+            "You must away to-night."
+        ],
+        [
+            "OTHELLO",
+            "With all my heart."
+        ],
+        [
+            "DUKE OF VENICE",
+            "At nine i' the morning here we'll meet again."
+        ],
+        [
+            "DUKE OF VENICE",
+            "Othello, leave some officer behind,"
+        ],
+        [
+            "DUKE OF VENICE",
+            "And he shall our commission bring to you;"
+        ],
+        [
+            "DUKE OF VENICE",
+            "With such things else of quality and respect"
+        ],
+        [
+            "DUKE OF VENICE",
+            "As doth import you."
+        ],
+        [
+            "OTHELLO",
+            "So please your grace, my ancient;"
+        ],
+        [
+            "OTHELLO",
+            "A man he is of honest and trust:"
+        ],
+        [
+            "OTHELLO",
+            "To his conveyance I assign my wife,"
+        ],
+        [
+            "OTHELLO",
+            "With what else needful your good grace shall think"
+        ],
+        [
+            "OTHELLO",
+            "To be sent after me."
+        ],
+        [
+            "DUKE OF VENICE",
+            "Let it be so."
+        ],
+        [
+            "DUKE OF VENICE",
+            "Good night to every one.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "DUKE OF VENICE",
+            "And, noble signior,",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "DUKE OF VENICE",
+            "If virtue no delighted beauty lack,"
+        ],
+        [
+            "DUKE OF VENICE",
+            "Your son-in-law is far more fair than black."
+        ],
+        [
+            "First Senator",
+            "Adieu, brave Moor, use Desdemona well."
+        ],
+        [
+            "BRABANTIO",
+            "Look to her, Moor, if thou hast eyes to see:"
+        ],
+        [
+            "BRABANTIO",
+            "She has deceived her father, and may thee.",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "OTHELLO",
+            "My life upon her faith! Honest Iago,",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "OTHELLO",
+            "My Desdemona must I leave to thee:"
+        ],
+        [
+            "OTHELLO",
+            "I prithee, let thy wife attend on her:"
+        ],
+        [
+            "OTHELLO",
+            "And bring them after in the best advantage."
+        ],
+        [
+            "OTHELLO",
+            "Come, Desdemona: I have but an hour"
+        ],
+        [
+            "OTHELLO",
+            "Of love, of worldly matters and direction,"
+        ],
+        [
+            "OTHELLO",
+            "To spend with thee: we must obey the time.",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "RODERIGO",
+            "Iago,--",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "IAGO",
+            "What say'st thou, noble heart?"
+        ],
+        [
+            "RODERIGO",
+            "What will I do, thinkest thou?"
+        ],
+        [
+            "IAGO",
+            "Why, go to bed, and sleep."
+        ],
+        [
+            "RODERIGO",
+            "I will incontinently drown myself."
+        ],
+        [
+            "IAGO",
+            "If thou dost, I shall never love thee after. Why,"
+        ],
+        [
+            "IAGO",
+            "thou silly gentleman!"
+        ],
+        [
+            "RODERIGO",
+            "It is silliness to live when to live is torment; and"
+        ],
+        [
+            "RODERIGO",
+            "then have we a prescription to die when death is our physician."
+        ],
+        [
+            "IAGO",
+            "O villainous! I have looked upon the world for four"
+        ],
+        [
+            "IAGO",
+            "times seven years; and since I could distinguish"
+        ],
+        [
+            "IAGO",
+            "betwixt a benefit and an injury, I never found man"
+        ],
+        [
+            "IAGO",
+            "that knew how to love himself. Ere I would say, I"
+        ],
+        [
+            "IAGO",
+            "would drown myself for the love of a guinea-hen, I"
+        ],
+        [
+            "IAGO",
+            "would change my humanity with a baboon."
+        ],
+        [
+            "RODERIGO",
+            "What should I do? I confess it is my shame to be so"
+        ],
+        [
+            "RODERIGO",
+            "fond; but it is not in my virtue to amend it."
+        ],
+        [
+            "IAGO",
+            "Virtue! a fig! 'tis in ourselves that we are thus"
+        ],
+        [
+            "IAGO",
+            "or thus. Our bodies are our gardens, to the which"
+        ],
+        [
+            "IAGO",
+            "our wills are gardeners: so that if we will plant"
+        ],
+        [
+            "IAGO",
+            "nettles, or sow lettuce, set hyssop and weed up"
+        ],
+        [
+            "IAGO",
+            "thyme, supply it with one gender of herbs, or"
+        ],
+        [
+            "IAGO",
+            "distract it with many, either to have it sterile"
+        ],
+        [
+            "IAGO",
+            "with idleness, or manured with industry, why, the"
+        ],
+        [
+            "IAGO",
+            "power and corrigible authority of this lies in our"
+        ],
+        [
+            "IAGO",
+            "wills. If the balance of our lives had not one"
+        ],
+        [
+            "IAGO",
+            "scale of reason to poise another of sensuality, the"
+        ],
+        [
+            "IAGO",
+            "blood and baseness of our natures would conduct us"
+        ],
+        [
+            "IAGO",
+            "to most preposterous conclusions: but we have"
+        ],
+        [
+            "IAGO",
+            "reason to cool our raging motions, our carnal"
+        ],
+        [
+            "IAGO",
+            "stings, our unbitted lusts, whereof I take this that"
+        ],
+        [
+            "IAGO",
+            "you call love to be a sect or scion."
+        ],
+        [
+            "RODERIGO",
+            "It cannot be."
+        ],
+        [
+            "IAGO",
+            "It is merely a lust of the blood and a permission of"
+        ],
+        [
+            "IAGO",
+            "the will. Come, be a man. Drown thyself! drown"
+        ],
+        [
+            "IAGO",
+            "cats and blind puppies. I have professed me thy"
+        ],
+        [
+            "IAGO",
+            "friend and I confess me knit to thy deserving with"
+        ],
+        [
+            "IAGO",
+            "cables of perdurable toughness; I could never"
+        ],
+        [
+            "IAGO",
+            "better stead thee than now. Put money in thy"
+        ],
+        [
+            "IAGO",
+            "purse; follow thou the wars; defeat thy favour with"
+        ],
+        [
+            "IAGO",
+            "an usurped beard; I say, put money in thy purse. It"
+        ],
+        [
+            "IAGO",
+            "cannot be that Desdemona should long continue her"
+        ],
+        [
+            "IAGO",
+            "love to the Moor,-- put money in thy purse,--nor he"
+        ],
+        [
+            "IAGO",
+            "his to her: it was a violent commencement, and thou"
+        ],
+        [
+            "IAGO",
+            "shalt see an answerable sequestration:--put but"
+        ],
+        [
+            "IAGO",
+            "money in thy purse. These Moors are changeable in"
+        ],
+        [
+            "IAGO",
+            "their wills: fill thy purse with money:--the food"
+        ],
+        [
+            "IAGO",
+            "that to him now is as luscious as locusts, shall be"
+        ],
+        [
+            "IAGO",
+            "to him shortly as bitter as coloquintida. She must"
+        ],
+        [
+            "IAGO",
+            "change for youth: when she is sated with his body,"
+        ],
+        [
+            "IAGO",
+            "she will find the error of her choice: she must"
+        ],
+        [
+            "IAGO",
+            "have change, she must: therefore put money in thy"
+        ],
+        [
+            "IAGO",
+            "purse. If thou wilt needs damn thyself, do it a"
+        ],
+        [
+            "IAGO",
+            "more delicate way than drowning. Make all the money"
+        ],
+        [
+            "IAGO",
+            "thou canst: if sanctimony and a frail vow betwixt"
+        ],
+        [
+            "IAGO",
+            "an erring barbarian and a supersubtle Venetian not"
+        ],
+        [
+            "IAGO",
+            "too hard for my wits and all the tribe of hell, thou"
+        ],
+        [
+            "IAGO",
+            "shalt enjoy her; therefore make money. A pox of"
+        ],
+        [
+            "IAGO",
+            "drowning thyself! it is clean out of the way: seek"
+        ],
+        [
+            "IAGO",
+            "thou rather to be hanged in compassing thy joy than"
+        ],
+        [
+            "IAGO",
+            "to be drowned and go without her."
+        ],
+        [
+            "RODERIGO",
+            "Wilt thou be fast to my hopes, if I depend on"
+        ],
+        [
+            "RODERIGO",
+            "the issue?"
+        ],
+        [
+            "IAGO",
+            "Thou art sure of me:--go, make money:--I have told"
+        ],
+        [
+            "IAGO",
+            "thee often, and I re-tell thee again and again, I"
+        ],
+        [
+            "IAGO",
+            "hate the Moor: my cause is hearted; thine hath no"
+        ],
+        [
+            "IAGO",
+            "less reason. Let us be conjunctive in our revenge"
+        ],
+        [
+            "IAGO",
+            "against him: if thou canst cuckold him, thou dost"
+        ],
+        [
+            "IAGO",
+            "thyself a pleasure, me a sport. There are many"
+        ],
+        [
+            "IAGO",
+            "events in the womb of time which will be delivered."
+        ],
+        [
+            "IAGO",
+            "Traverse! go, provide thy money. We will have more"
+        ],
+        [
+            "IAGO",
+            "of this to-morrow. Adieu."
+        ],
+        [
+            "RODERIGO",
+            "Where shall we meet i' the morning?"
+        ],
+        [
+            "IAGO",
+            "At my lodging."
+        ],
+        [
+            "RODERIGO",
+            "I'll be with thee betimes."
+        ],
+        [
+            "IAGO",
+            "Go to; farewell. Do you hear, Roderigo?"
+        ],
+        [
+            "RODERIGO",
+            "What say you?"
+        ],
+        [
+            "IAGO",
+            "No more of drowning, do you hear?"
+        ],
+        [
+            "RODERIGO",
+            "I am changed: I'll go sell all my land.",
+            {
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "IAGO",
+            "Thus do I ever make my fool my purse:",
+            {
+                "preceding_direction_line": "11"
+            }
+        ],
+        [
+            "IAGO",
+            "For I mine own gain'd knowledge should profane,"
+        ],
+        [
+            "IAGO",
+            "If I would time expend with such a snipe."
+        ],
+        [
+            "IAGO",
+            "But for my sport and profit. I hate the Moor:"
+        ],
+        [
+            "IAGO",
+            "And it is thought abroad, that 'twixt my sheets"
+        ],
+        [
+            "IAGO",
+            "He has done my office: I know not if't be true;"
+        ],
+        [
+            "IAGO",
+            "But I, for mere suspicion in that kind,"
+        ],
+        [
+            "IAGO",
+            "Will do as if for surety. He holds me well;"
+        ],
+        [
+            "IAGO",
+            "The better shall my purpose work on him."
+        ],
+        [
+            "IAGO",
+            "Cassio's a proper man: let me see now:"
+        ],
+        [
+            "IAGO",
+            "To get his place and to plume up my will"
+        ],
+        [
+            "IAGO",
+            "In double knavery--How, how? Let's see:--"
+        ],
+        [
+            "IAGO",
+            "After some time, to abuse Othello's ear"
+        ],
+        [
+            "IAGO",
+            "That he is too familiar with his wife."
+        ],
+        [
+            "IAGO",
+            "He hath a person and a smooth dispose"
+        ],
+        [
+            "IAGO",
+            "To be suspected, framed to make women false."
+        ],
+        [
+            "IAGO",
+            "The Moor is of a free and open nature,"
+        ],
+        [
+            "IAGO",
+            "That thinks men honest that but seem to be so,"
+        ],
+        [
+            "IAGO",
+            "And will as tenderly be led by the nose"
+        ],
+        [
+            "IAGO",
+            "As asses are."
+        ],
+        [
+            "IAGO",
+            "I have't. It is engender'd. Hell and night"
+        ],
+        [
+            "IAGO",
+            "Must bring this monstrous birth to the world's light.",
+            {
+                "following_direction_line": "12"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "The DUKE and Senators sitting at a table; Officers attending"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter a Sailor"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter a Messenger"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter BRABANTIO, OTHELLO, IAGO, RODERIGO, and Officers"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "To BRABANTIO"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exeunt IAGO and Attendants"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Enter DESDEMONA, IAGO, and Attendants"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "To BRABANTIO"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Exeunt DUKE OF VENICE, Brebantio, Cassio, Senators, and officers"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Exeunt OTHELLO and DESDEMONA"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "DUKE OF VENICE": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "5",
+                "5"
+            ],
+            [
+                "11",
+                "14"
+            ],
+            [
+                "17",
+                "17"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "36",
+                "36"
+            ],
+            [
+                "48",
+                "49"
+            ],
+            [
+                "51",
+                "51"
+            ],
+            [
+                "53",
+                "56"
+            ],
+            [
+                "64",
+                "64"
+            ],
+            [
+                "73",
+                "78"
+            ],
+            [
+                "84",
+                "84"
+            ],
+            [
+                "118",
+                "121"
+            ],
+            [
+                "134",
+                "134"
+            ],
+            [
+                "141",
+                "141"
+            ],
+            [
+                "185",
+                "189"
+            ],
+            [
+                "216",
+                "226"
+            ],
+            [
+                "238",
+                "245"
+            ],
+            [
+                "257",
+                "258"
+            ],
+            [
+                "267",
+                "267"
+            ],
+            [
+                "295",
+                "297"
+            ],
+            [
+                "300",
+                "304"
+            ],
+            [
+                "310",
+                "314"
+            ]
+        ],
+        "First Senator": [
+            [
+                "3",
+                "4"
+            ],
+            [
+                "22",
+                "35"
+            ],
+            [
+                "41",
+                "41"
+            ],
+            [
+                "50",
+                "50"
+            ],
+            [
+                "52",
+                "52"
+            ],
+            [
+                "122",
+                "126"
+            ],
+            [
+                "298",
+                "298"
+            ],
+            [
+                "315",
+                "315"
+            ]
+        ],
+        "Second Senator": [
+            [
+                "6",
+                "10"
+            ]
+        ],
+        "Sailor": [
+            [
+                "15",
+                "15"
+            ],
+            [
+                "18",
+                "20"
+            ]
+        ],
+        "First Officer": [
+            [
+                "16",
+                "16"
+            ],
+            [
+                "37",
+                "37"
+            ]
+        ],
+        "Messenger": [
+            [
+                "38",
+                "40"
+            ],
+            [
+                "42",
+                "47"
+            ]
+        ],
+        "BRABANTIO": [
+            [
+                "57",
+                "63"
+            ],
+            [
+                "65",
+                "65"
+            ],
+            [
+                "67",
+                "72"
+            ],
+            [
+                "79",
+                "82"
+            ],
+            [
+                "85",
+                "85"
+            ],
+            [
+                "105",
+                "117"
+            ],
+            [
+                "190",
+                "195"
+            ],
+            [
+                "206",
+                "215"
+            ],
+            [
+                "227",
+                "237"
+            ],
+            [
+                "259",
+                "259"
+            ],
+            [
+                "316",
+                "317"
+            ]
+        ],
+        "All": [
+            [
+                "66",
+                "66"
+            ],
+            [
+                "83",
+                "83"
+            ]
+        ],
+        "OTHELLO": [
+            [
+                "86",
+                "104"
+            ],
+            [
+                "127",
+                "133"
+            ],
+            [
+                "135",
+                "140"
+            ],
+            [
+                "142",
+                "184"
+            ],
+            [
+                "246",
+                "256"
+            ],
+            [
+                "260",
+                "260"
+            ],
+            [
+                "280",
+                "294"
+            ],
+            [
+                "299",
+                "299"
+            ],
+            [
+                "305",
+                "309"
+            ],
+            [
+                "318",
+                "324"
+            ]
+        ],
+        "DESDEMONA": [
+            [
+                "196",
+                "205"
+            ],
+            [
+                "261",
+                "266"
+            ],
+            [
+                "268",
+                "279"
+            ]
+        ],
+        "RODERIGO": [
+            [
+                "325",
+                "325"
+            ],
+            [
+                "327",
+                "327"
+            ],
+            [
+                "329",
+                "329"
+            ],
+            [
+                "332",
+                "333"
+            ],
+            [
+                "340",
+                "341"
+            ],
+            [
+                "357",
+                "357"
+            ],
+            [
+                "386",
+                "387"
+            ],
+            [
+                "397",
+                "397"
+            ],
+            [
+                "399",
+                "399"
+            ],
+            [
+                "401",
+                "401"
+            ],
+            [
+                "403",
+                "403"
+            ]
+        ],
+        "IAGO": [
+            [
+                "326",
+                "326"
+            ],
+            [
+                "328",
+                "328"
+            ],
+            [
+                "330",
+                "331"
+            ],
+            [
+                "334",
+                "339"
+            ],
+            [
+                "342",
+                "356"
+            ],
+            [
+                "358",
+                "385"
+            ],
+            [
+                "388",
+                "396"
+            ],
+            [
+                "398",
+                "398"
+            ],
+            [
+                "400",
+                "400"
+            ],
+            [
+                "402",
+                "402"
+            ],
+            [
+                "404",
+                "425"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "A council-chamber."
+}

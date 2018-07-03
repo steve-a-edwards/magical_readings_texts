@@ -1,0 +1,70 @@
+{
+    "scene_id": "julius caesar~~Act_5~~Scene_2",
+    "work_number": "11",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "BRUTUS",
+            "Ride, ride, Messala, ride, and give these bills",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Unto the legions on the other side.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Let them set on at once; for I perceive",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "BRUTUS",
+            "But cold demeanor in Octavius' wing,"
+        ],
+        [
+            "BRUTUS",
+            "And sudden push gives them the overthrow."
+        ],
+        [
+            "BRUTUS",
+            "Ride, ride, Messala: let them all come down.",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Alarum. Enter BRUTUS and MESSALA"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Loud alarum"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "BRUTUS": [
+            [
+                "1",
+                "6"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "The same. The field of battle."
+}

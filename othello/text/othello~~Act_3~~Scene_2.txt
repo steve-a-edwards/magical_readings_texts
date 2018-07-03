@@ -1,0 +1,14 @@
+_S_SCENE II. A room in the castle.
+_D_Enter OTHELLO, IAGO, and Gentlemen
+_R_OTHELLO
+These letters give, Iago, to the pilot;
+And by him do my duties to the senate:
+That done, I will be walking on the works;
+Repair there to me.
+_R_IAGO
+Well, my good lord, I'll do't.
+_R_OTHELLO
+This fortification, gentlemen, shall we see't?
+_R_Gentleman
+We'll wait upon your lordship.
+_D_Exeunt

@@ -1,0 +1,442 @@
+{
+    "scene_id": "othello~~Act_3~~Scene_1",
+    "work_number": "9",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "CASSIO",
+            "Masters, play here; I will content your pains;",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "CASSIO",
+            "Something that's brief; and bid 'Good morrow, general.'",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "Clown",
+            "Why masters, have your instruments been in Naples,",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "Clown",
+            "that they speak i' the nose thus?"
+        ],
+        [
+            "First Musician",
+            "How, sir, how!"
+        ],
+        [
+            "Clown",
+            "Are these, I pray you, wind-instruments?"
+        ],
+        [
+            "First Musician",
+            "Ay, marry, are they, sir."
+        ],
+        [
+            "Clown",
+            "O, thereby hangs a tail."
+        ],
+        [
+            "First Musician",
+            "Whereby hangs a tale, sir?"
+        ],
+        [
+            "Clown",
+            "Marry. sir, by many a wind-instrument that I know."
+        ],
+        [
+            "Clown",
+            "But, masters, here's money for you: and the general"
+        ],
+        [
+            "Clown",
+            "so likes your music, that he desires you, for love's"
+        ],
+        [
+            "Clown",
+            "sake, to make no more noise with it."
+        ],
+        [
+            "First Musician",
+            "Well, sir, we will not."
+        ],
+        [
+            "Clown",
+            "If you have any music that may not be heard, to't"
+        ],
+        [
+            "Clown",
+            "again: but, as they say to hear music the general"
+        ],
+        [
+            "Clown",
+            "does not greatly care."
+        ],
+        [
+            "First Musician",
+            "We have none such, sir."
+        ],
+        [
+            "Clown",
+            "Then put up your pipes in your bag, for I'll away:"
+        ],
+        [
+            "Clown",
+            "go; vanish into air; away!",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "CASSIO",
+            "Dost thou hear, my honest friend?",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "Clown",
+            "No, I hear not your honest friend; I hear you."
+        ],
+        [
+            "CASSIO",
+            "Prithee, keep up thy quillets. There's a poor piece"
+        ],
+        [
+            "CASSIO",
+            "of gold for thee: if the gentlewoman that attends"
+        ],
+        [
+            "CASSIO",
+            "the general's wife be stirring, tell her there's"
+        ],
+        [
+            "CASSIO",
+            "one Cassio entreats her a little favour of speech:"
+        ],
+        [
+            "CASSIO",
+            "wilt thou do this?"
+        ],
+        [
+            "Clown",
+            "She is stirring, sir: if she will stir hither, I"
+        ],
+        [
+            "Clown",
+            "shall seem to notify unto her."
+        ],
+        [
+            "CASSIO",
+            "Do, good my friend.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "CASSIO",
+            "In happy time, Iago.",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "IAGO",
+            "You have not been a-bed, then?"
+        ],
+        [
+            "CASSIO",
+            "Why, no; the day had broke"
+        ],
+        [
+            "CASSIO",
+            "Before we parted. I have made bold, Iago,"
+        ],
+        [
+            "CASSIO",
+            "To send in to your wife: my suit to her"
+        ],
+        [
+            "CASSIO",
+            "Is, that she will to virtuous Desdemona"
+        ],
+        [
+            "CASSIO",
+            "Procure me some access."
+        ],
+        [
+            "IAGO",
+            "I'll send her to you presently;"
+        ],
+        [
+            "IAGO",
+            "And I'll devise a mean to draw the Moor"
+        ],
+        [
+            "IAGO",
+            "Out of the way, that your converse and business"
+        ],
+        [
+            "IAGO",
+            "May be more free."
+        ],
+        [
+            "CASSIO",
+            "I humbly thank you for't.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "CASSIO",
+            "I never knew",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "CASSIO",
+            "A Florentine more kind and honest.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "EMILIA",
+            "Good morrow, good Lieutenant: I am sorry",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "EMILIA",
+            "For your displeasure; but all will sure be well."
+        ],
+        [
+            "EMILIA",
+            "The general and his wife are talking of it;"
+        ],
+        [
+            "EMILIA",
+            "And she speaks for you stoutly: the Moor replies,"
+        ],
+        [
+            "EMILIA",
+            "That he you hurt is of great fame in Cyprus,"
+        ],
+        [
+            "EMILIA",
+            "And great affinity, and that in wholesome wisdom"
+        ],
+        [
+            "EMILIA",
+            "He might not but refuse you; but he protests he loves you"
+        ],
+        [
+            "EMILIA",
+            "And needs no other suitor but his likings"
+        ],
+        [
+            "EMILIA",
+            "To take the safest occasion by the front"
+        ],
+        [
+            "EMILIA",
+            "To bring you in again."
+        ],
+        [
+            "CASSIO",
+            "Yet, I beseech you,"
+        ],
+        [
+            "CASSIO",
+            "If you think fit, or that it may be done,"
+        ],
+        [
+            "CASSIO",
+            "Give me advantage of some brief discourse"
+        ],
+        [
+            "CASSIO",
+            "With Desdemona alone."
+        ],
+        [
+            "EMILIA",
+            "Pray you, come in;"
+        ],
+        [
+            "EMILIA",
+            "I will bestow you where you shall have time"
+        ],
+        [
+            "EMILIA",
+            "To speak your bosom freely."
+        ],
+        [
+            "CASSIO",
+            "I am much bound to you.",
+            {
+                "following_direction_line": "7"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter CASSIO and some Musicians"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Music. Enter Clown"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt Musicians"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit Clown. Enter IAGO"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exit IAGO"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Enter EMILIA"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "CASSIO": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "23",
+                "27"
+            ],
+            [
+                "30",
+                "31"
+            ],
+            [
+                "33",
+                "37"
+            ],
+            [
+                "42",
+                "44"
+            ],
+            [
+                "55",
+                "58"
+            ],
+            [
+                "62",
+                "62"
+            ]
+        ],
+        "Clown": [
+            [
+                "3",
+                "4"
+            ],
+            [
+                "6",
+                "6"
+            ],
+            [
+                "8",
+                "8"
+            ],
+            [
+                "10",
+                "13"
+            ],
+            [
+                "15",
+                "17"
+            ],
+            [
+                "19",
+                "20"
+            ],
+            [
+                "22",
+                "22"
+            ],
+            [
+                "28",
+                "29"
+            ]
+        ],
+        "First Musician": [
+            [
+                "5",
+                "5"
+            ],
+            [
+                "7",
+                "7"
+            ],
+            [
+                "9",
+                "9"
+            ],
+            [
+                "14",
+                "14"
+            ],
+            [
+                "18",
+                "18"
+            ]
+        ],
+        "IAGO": [
+            [
+                "32",
+                "32"
+            ],
+            [
+                "38",
+                "41"
+            ]
+        ],
+        "EMILIA": [
+            [
+                "45",
+                "54"
+            ],
+            [
+                "59",
+                "61"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "Before the castle."
+}

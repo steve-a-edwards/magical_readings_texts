@@ -1,0 +1,1637 @@
+{
+    "scene_id": "othello~~Act_4~~Scene_2",
+    "work_number": "9",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "OTHELLO",
+            "You have seen nothing then?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "EMILIA",
+            "Nor ever heard, nor ever did suspect."
+        ],
+        [
+            "OTHELLO",
+            "Yes, you have seen Cassio and she together."
+        ],
+        [
+            "EMILIA",
+            "But then I saw no harm, and then I heard"
+        ],
+        [
+            "EMILIA",
+            "Each syllable that breath made up between them."
+        ],
+        [
+            "OTHELLO",
+            "What, did they never whisper?"
+        ],
+        [
+            "EMILIA",
+            "Never, my lord."
+        ],
+        [
+            "OTHELLO",
+            "Nor send you out o' the way?"
+        ],
+        [
+            "EMILIA",
+            "Never."
+        ],
+        [
+            "OTHELLO",
+            "To fetch her fan, her gloves, her mask, nor nothing?"
+        ],
+        [
+            "EMILIA",
+            "Never, my lord."
+        ],
+        [
+            "OTHELLO",
+            "That's strange."
+        ],
+        [
+            "EMILIA",
+            "I durst, my lord, to wager she is honest,"
+        ],
+        [
+            "EMILIA",
+            "Lay down my soul at stake: if you think other,"
+        ],
+        [
+            "EMILIA",
+            "Remove your thought; it doth abuse your bosom."
+        ],
+        [
+            "EMILIA",
+            "If any wretch have put this in your head,"
+        ],
+        [
+            "EMILIA",
+            "Let heaven requite it with the serpent's curse!"
+        ],
+        [
+            "EMILIA",
+            "For, if she be not honest, chaste, and true,"
+        ],
+        [
+            "EMILIA",
+            "There's no man happy; the purest of their wives"
+        ],
+        [
+            "EMILIA",
+            "Is foul as slander."
+        ],
+        [
+            "OTHELLO",
+            "Bid her come hither: go.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "OTHELLO",
+            "She says enough; yet she's a simple bawd",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "OTHELLO",
+            "That cannot say as much. This is a subtle whore,"
+        ],
+        [
+            "OTHELLO",
+            "A closet lock and key of villanous secrets"
+        ],
+        [
+            "OTHELLO",
+            "And yet she'll kneel and pray; I have seen her do't.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "DESDEMONA",
+            "My lord, what is your will?",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "OTHELLO",
+            "Pray, chuck, come hither."
+        ],
+        [
+            "DESDEMONA",
+            "What is your pleasure?"
+        ],
+        [
+            "OTHELLO",
+            "Let me see your eyes;"
+        ],
+        [
+            "OTHELLO",
+            "Look in my face."
+        ],
+        [
+            "DESDEMONA",
+            "What horrible fancy's this?"
+        ],
+        [
+            "OTHELLO",
+            "[To EMILIA] Some of your function, mistress;"
+        ],
+        [
+            "OTHELLO",
+            "Leave procreants alone and shut the door;"
+        ],
+        [
+            "OTHELLO",
+            "Cough, or cry 'hem,' if any body come:"
+        ],
+        [
+            "OTHELLO",
+            "Your mystery, your mystery: nay, dispatch.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "DESDEMONA",
+            "Upon my knees, what doth your speech import?",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "DESDEMONA",
+            "I understand a fury in your words."
+        ],
+        [
+            "DESDEMONA",
+            "But not the words."
+        ],
+        [
+            "OTHELLO",
+            "Why, what art thou?"
+        ],
+        [
+            "DESDEMONA",
+            "Your wife, my lord; your true"
+        ],
+        [
+            "DESDEMONA",
+            "And loyal wife."
+        ],
+        [
+            "OTHELLO",
+            "Come, swear it, damn thyself"
+        ],
+        [
+            "OTHELLO",
+            "Lest, being like one of heaven, the devils themselves"
+        ],
+        [
+            "OTHELLO",
+            "Should fear to seize thee: therefore be double damn'd:"
+        ],
+        [
+            "OTHELLO",
+            "Swear thou art honest."
+        ],
+        [
+            "DESDEMONA",
+            "Heaven doth truly know it."
+        ],
+        [
+            "OTHELLO",
+            "Heaven truly knows that thou art false as hell."
+        ],
+        [
+            "DESDEMONA",
+            "To whom, my lord? with whom? how am I false?"
+        ],
+        [
+            "OTHELLO",
+            "O Desdemona! away! away! away!"
+        ],
+        [
+            "DESDEMONA",
+            "Alas the heavy day! Why do you weep?"
+        ],
+        [
+            "DESDEMONA",
+            "Am I the motive of these tears, my lord?"
+        ],
+        [
+            "DESDEMONA",
+            "If haply you my father do suspect"
+        ],
+        [
+            "DESDEMONA",
+            "An instrument of this your calling back,"
+        ],
+        [
+            "DESDEMONA",
+            "Lay not your blame on me: If you have lost him,"
+        ],
+        [
+            "DESDEMONA",
+            "Why, I have lost him too."
+        ],
+        [
+            "OTHELLO",
+            "Had it pleased heaven"
+        ],
+        [
+            "OTHELLO",
+            "To try me with affliction; had they rain'd"
+        ],
+        [
+            "OTHELLO",
+            "All kinds of sores and shames on my bare head."
+        ],
+        [
+            "OTHELLO",
+            "Steep'd me in poverty to the very lips,"
+        ],
+        [
+            "OTHELLO",
+            "Given to captivity me and my utmost hopes,"
+        ],
+        [
+            "OTHELLO",
+            "I should have found in some place of my soul"
+        ],
+        [
+            "OTHELLO",
+            "A drop of patience: but, alas, to make me"
+        ],
+        [
+            "OTHELLO",
+            "A fixed figure for the time of scorn"
+        ],
+        [
+            "OTHELLO",
+            "To point his slow unmoving finger at!"
+        ],
+        [
+            "OTHELLO",
+            "Yet could I bear that too; well, very well:"
+        ],
+        [
+            "OTHELLO",
+            "But there, where I have garner'd up my heart,"
+        ],
+        [
+            "OTHELLO",
+            "Where either I must live, or bear no life;"
+        ],
+        [
+            "OTHELLO",
+            "The fountain from the which my current runs,"
+        ],
+        [
+            "OTHELLO",
+            "Or else dries up; to be discarded thence!"
+        ],
+        [
+            "OTHELLO",
+            "Or keep it as a cistern for foul toads"
+        ],
+        [
+            "OTHELLO",
+            "To knot and gender in! Turn thy complexion there,"
+        ],
+        [
+            "OTHELLO",
+            "Patience, thou young and rose-lipp'd cherubin,--"
+        ],
+        [
+            "OTHELLO",
+            "Ay, there, look grim as hell!"
+        ],
+        [
+            "DESDEMONA",
+            "I hope my noble lord esteems me honest."
+        ],
+        [
+            "OTHELLO",
+            "O, ay; as summer flies are in the shambles,"
+        ],
+        [
+            "OTHELLO",
+            "That quicken even with blowing. O thou weed,"
+        ],
+        [
+            "OTHELLO",
+            "Who art so lovely fair and smell'st so sweet"
+        ],
+        [
+            "OTHELLO",
+            "That the sense aches at thee, would thou hadst"
+        ],
+        [
+            "OTHELLO",
+            "ne'er been born!"
+        ],
+        [
+            "DESDEMONA",
+            "Alas, what ignorant sin have I committed?"
+        ],
+        [
+            "OTHELLO",
+            "Was this fair paper, this most goodly book,"
+        ],
+        [
+            "OTHELLO",
+            "Made to write 'whore' upon? What committed!"
+        ],
+        [
+            "OTHELLO",
+            "Committed! O thou public commoner!"
+        ],
+        [
+            "OTHELLO",
+            "I should make very forges of my cheeks,"
+        ],
+        [
+            "OTHELLO",
+            "That would to cinders burn up modesty,"
+        ],
+        [
+            "OTHELLO",
+            "Did I but speak thy deeds. What committed!"
+        ],
+        [
+            "OTHELLO",
+            "Heaven stops the nose at it and the moon winks,"
+        ],
+        [
+            "OTHELLO",
+            "The bawdy wind that kisses all it meets"
+        ],
+        [
+            "OTHELLO",
+            "Is hush'd within the hollow mine of earth,"
+        ],
+        [
+            "OTHELLO",
+            "And will not hear it. What committed!"
+        ],
+        [
+            "OTHELLO",
+            "Impudent strumpet!"
+        ],
+        [
+            "DESDEMONA",
+            "By heaven, you do me wrong."
+        ],
+        [
+            "OTHELLO",
+            "Are you not a strumpet?"
+        ],
+        [
+            "DESDEMONA",
+            "No, as I am a Christian:"
+        ],
+        [
+            "DESDEMONA",
+            "If to preserve this vessel for my lord"
+        ],
+        [
+            "DESDEMONA",
+            "From any other foul unlawful touch"
+        ],
+        [
+            "DESDEMONA",
+            "Be not to be a strumpet, I am none."
+        ],
+        [
+            "OTHELLO",
+            "What, not a whore?"
+        ],
+        [
+            "DESDEMONA",
+            "No, as I shall be saved."
+        ],
+        [
+            "OTHELLO",
+            "Is't possible?"
+        ],
+        [
+            "DESDEMONA",
+            "O, heaven forgive us!"
+        ],
+        [
+            "OTHELLO",
+            "I cry you mercy, then:"
+        ],
+        [
+            "OTHELLO",
+            "I took you for that cunning whore of Venice"
+        ],
+        [
+            "OTHELLO",
+            "That married with Othello.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "OTHELLO",
+            "You, mistress,",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "OTHELLO",
+            "That have the office opposite to Saint Peter,"
+        ],
+        [
+            "OTHELLO",
+            "And keep the gate of hell!",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "OTHELLO",
+            "You, you, ay, you!",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "OTHELLO",
+            "We have done our course; there's money for your pains:"
+        ],
+        [
+            "OTHELLO",
+            "I pray you, turn the key and keep our counsel.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "EMILIA",
+            "Alas, what does this gentleman conceive?",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "EMILIA",
+            "How do you, madam? how do you, my good lady?"
+        ],
+        [
+            "DESDEMONA",
+            "'Faith, half asleep."
+        ],
+        [
+            "EMILIA",
+            "Good madam, what's the matter with my lord?"
+        ],
+        [
+            "DESDEMONA",
+            "With who?"
+        ],
+        [
+            "EMILIA",
+            "Why, with my lord, madam."
+        ],
+        [
+            "DESDEMONA",
+            "Who is thy lord?"
+        ],
+        [
+            "EMILIA",
+            "He that is yours, sweet lady."
+        ],
+        [
+            "DESDEMONA",
+            "I have none: do not talk to me, Emilia;"
+        ],
+        [
+            "DESDEMONA",
+            "I cannot weep; nor answer have I none,"
+        ],
+        [
+            "DESDEMONA",
+            "But what should go by water. Prithee, tonight"
+        ],
+        [
+            "DESDEMONA",
+            "Lay on my bed my wedding sheets: remember;"
+        ],
+        [
+            "DESDEMONA",
+            "And call thy husband hither."
+        ],
+        [
+            "EMILIA",
+            "Here's a change indeed!",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "DESDEMONA",
+            "'Tis meet I should be used so, very meet.",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "DESDEMONA",
+            "How have I been behaved, that he might stick"
+        ],
+        [
+            "DESDEMONA",
+            "The small'st opinion on my least misuse?",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "IAGO",
+            "What is your pleasure, madam?",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "IAGO",
+            "How is't with you?"
+        ],
+        [
+            "DESDEMONA",
+            "I cannot tell. Those that do teach young babes"
+        ],
+        [
+            "DESDEMONA",
+            "Do it with gentle means and easy tasks:"
+        ],
+        [
+            "DESDEMONA",
+            "He might have chid me so; for, in good faith,"
+        ],
+        [
+            "DESDEMONA",
+            "I am a child to chiding."
+        ],
+        [
+            "IAGO",
+            "What's the matter, lady?"
+        ],
+        [
+            "EMILIA",
+            "Alas, Iago, my lord hath so bewhored her."
+        ],
+        [
+            "EMILIA",
+            "Thrown such despite and heavy terms upon her,"
+        ],
+        [
+            "EMILIA",
+            "As true hearts cannot bear."
+        ],
+        [
+            "DESDEMONA",
+            "Am I that name, Iago?"
+        ],
+        [
+            "IAGO",
+            "What name, fair lady?"
+        ],
+        [
+            "DESDEMONA",
+            "Such as she says my lord did say I was."
+        ],
+        [
+            "EMILIA",
+            "He call'd her whore: a beggar in his drink"
+        ],
+        [
+            "EMILIA",
+            "Could not have laid such terms upon his callat."
+        ],
+        [
+            "IAGO",
+            "Why did he so?"
+        ],
+        [
+            "DESDEMONA",
+            "I do not know; I am sure I am none such."
+        ],
+        [
+            "IAGO",
+            "Do not weep, do not weep. Alas the day!"
+        ],
+        [
+            "EMILIA",
+            "Hath she forsook so many noble matches,"
+        ],
+        [
+            "EMILIA",
+            "Her father and her country and her friends,"
+        ],
+        [
+            "EMILIA",
+            "To be call'd whore? would it not make one weep?"
+        ],
+        [
+            "DESDEMONA",
+            "It is my wretched fortune."
+        ],
+        [
+            "IAGO",
+            "Beshrew him for't!"
+        ],
+        [
+            "IAGO",
+            "How comes this trick upon him?"
+        ],
+        [
+            "DESDEMONA",
+            "Nay, heaven doth know."
+        ],
+        [
+            "EMILIA",
+            "I will be hang'd, if some eternal villain,"
+        ],
+        [
+            "EMILIA",
+            "Some busy and insinuating rogue,"
+        ],
+        [
+            "EMILIA",
+            "Some cogging, cozening slave, to get some office,"
+        ],
+        [
+            "EMILIA",
+            "Have not devised this slander; I'll be hang'd else."
+        ],
+        [
+            "IAGO",
+            "Fie, there is no such man; it is impossible."
+        ],
+        [
+            "DESDEMONA",
+            "If any such there be, heaven pardon him!"
+        ],
+        [
+            "EMILIA",
+            "A halter pardon him! and hell gnaw his bones!"
+        ],
+        [
+            "EMILIA",
+            "Why should he call her whore? who keeps her company?"
+        ],
+        [
+            "EMILIA",
+            "What place? what time? what form? what likelihood?"
+        ],
+        [
+            "EMILIA",
+            "The Moor's abused by some most villanous knave,"
+        ],
+        [
+            "EMILIA",
+            "Some base notorious knave, some scurvy fellow."
+        ],
+        [
+            "EMILIA",
+            "O heaven, that such companions thou'ldst unfold,"
+        ],
+        [
+            "EMILIA",
+            "And put in every honest hand a whip"
+        ],
+        [
+            "EMILIA",
+            "To lash the rascals naked through the world"
+        ],
+        [
+            "EMILIA",
+            "Even from the east to the west!"
+        ],
+        [
+            "IAGO",
+            "Speak within door."
+        ],
+        [
+            "EMILIA",
+            "O, fie upon them! Some such squire he was"
+        ],
+        [
+            "EMILIA",
+            "That turn'd your wit the seamy side without,"
+        ],
+        [
+            "EMILIA",
+            "And made you to suspect me with the Moor."
+        ],
+        [
+            "IAGO",
+            "You are a fool; go to."
+        ],
+        [
+            "DESDEMONA",
+            "O good Iago,"
+        ],
+        [
+            "DESDEMONA",
+            "What shall I do to win my lord again?"
+        ],
+        [
+            "DESDEMONA",
+            "Good friend, go to him; for, by this light of heaven,"
+        ],
+        [
+            "DESDEMONA",
+            "I know not how I lost him. Here I kneel:"
+        ],
+        [
+            "DESDEMONA",
+            "If e'er my will did trespass 'gainst his love,"
+        ],
+        [
+            "DESDEMONA",
+            "Either in discourse of thought or actual deed,"
+        ],
+        [
+            "DESDEMONA",
+            "Or that mine eyes, mine ears, or any sense,"
+        ],
+        [
+            "DESDEMONA",
+            "Delighted them in any other form;"
+        ],
+        [
+            "DESDEMONA",
+            "Or that I do not yet, and ever did."
+        ],
+        [
+            "DESDEMONA",
+            "And ever will--though he do shake me off"
+        ],
+        [
+            "DESDEMONA",
+            "To beggarly divorcement--love him dearly,"
+        ],
+        [
+            "DESDEMONA",
+            "Comfort forswear me! Unkindness may do much;"
+        ],
+        [
+            "DESDEMONA",
+            "And his unkindness may defeat my life,"
+        ],
+        [
+            "DESDEMONA",
+            "But never taint my love. I cannot say 'whore:'"
+        ],
+        [
+            "DESDEMONA",
+            "It does abhor me now I speak the word;"
+        ],
+        [
+            "DESDEMONA",
+            "To do the act that might the addition earn"
+        ],
+        [
+            "DESDEMONA",
+            "Not the world's mass of vanity could make me."
+        ],
+        [
+            "IAGO",
+            "I pray you, be content; 'tis but his humour:"
+        ],
+        [
+            "IAGO",
+            "The business of the state does him offence,"
+        ],
+        [
+            "IAGO",
+            "And he does chide with you."
+        ],
+        [
+            "DESDEMONA",
+            "If 'twere no other--"
+        ],
+        [
+            "IAGO",
+            "'Tis but so, I warrant.",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "IAGO",
+            "Hark, how these instruments summon to supper!",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "IAGO",
+            "The messengers of Venice stay the meat;"
+        ],
+        [
+            "IAGO",
+            "Go in, and weep not; all things shall be well.",
+            {
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "IAGO",
+            "How now, Roderigo!",
+            {
+                "preceding_direction_line": "11"
+            }
+        ],
+        [
+            "RODERIGO",
+            "I do not find that thou dealest justly with me."
+        ],
+        [
+            "IAGO",
+            "What in the contrary?"
+        ],
+        [
+            "RODERIGO",
+            "Every day thou daffest me with some device, Iago;"
+        ],
+        [
+            "RODERIGO",
+            "and rather, as it seems to me now, keepest from me"
+        ],
+        [
+            "RODERIGO",
+            "all conveniency than suppliest me with the least"
+        ],
+        [
+            "RODERIGO",
+            "advantage of hope. I will indeed no longer endure"
+        ],
+        [
+            "RODERIGO",
+            "it, nor am I yet persuaded to put up in peace what"
+        ],
+        [
+            "RODERIGO",
+            "already I have foolishly suffered."
+        ],
+        [
+            "IAGO",
+            "Will you hear me, Roderigo?"
+        ],
+        [
+            "RODERIGO",
+            "'Faith, I have heard too much, for your words and"
+        ],
+        [
+            "RODERIGO",
+            "performances are no kin together."
+        ],
+        [
+            "IAGO",
+            "You charge me most unjustly."
+        ],
+        [
+            "RODERIGO",
+            "With nought but truth. I have wasted myself out of"
+        ],
+        [
+            "RODERIGO",
+            "my means. The jewels you have had from me to"
+        ],
+        [
+            "RODERIGO",
+            "deliver to Desdemona would half have corrupted a"
+        ],
+        [
+            "RODERIGO",
+            "votarist: you have told me she hath received them"
+        ],
+        [
+            "RODERIGO",
+            "and returned me expectations and comforts of sudden"
+        ],
+        [
+            "RODERIGO",
+            "respect and acquaintance, but I find none."
+        ],
+        [
+            "IAGO",
+            "Well; go to; very well."
+        ],
+        [
+            "RODERIGO",
+            "Very well! go to! I cannot go to, man; nor 'tis"
+        ],
+        [
+            "RODERIGO",
+            "not very well: nay, I think it is scurvy, and begin"
+        ],
+        [
+            "RODERIGO",
+            "to find myself fobbed in it."
+        ],
+        [
+            "IAGO",
+            "Very well."
+        ],
+        [
+            "RODERIGO",
+            "I tell you 'tis not very well. I will make myself"
+        ],
+        [
+            "RODERIGO",
+            "known to Desdemona: if she will return me my"
+        ],
+        [
+            "RODERIGO",
+            "jewels, I will give over my suit and repent my"
+        ],
+        [
+            "RODERIGO",
+            "unlawful solicitation; if not, assure yourself I"
+        ],
+        [
+            "RODERIGO",
+            "will seek satisfaction of you."
+        ],
+        [
+            "IAGO",
+            "You have said now."
+        ],
+        [
+            "RODERIGO",
+            "Ay, and said nothing but what I protest intendment of doing."
+        ],
+        [
+            "IAGO",
+            "Why, now I see there's mettle in thee, and even from"
+        ],
+        [
+            "IAGO",
+            "this instant to build on thee a better opinion than"
+        ],
+        [
+            "IAGO",
+            "ever before. Give me thy hand, Roderigo: thou hast"
+        ],
+        [
+            "IAGO",
+            "taken against me a most just exception; but yet, I"
+        ],
+        [
+            "IAGO",
+            "protest, I have dealt most directly in thy affair."
+        ],
+        [
+            "RODERIGO",
+            "It hath not appeared."
+        ],
+        [
+            "IAGO",
+            "I grant indeed it hath not appeared, and your"
+        ],
+        [
+            "IAGO",
+            "suspicion is not without wit and judgment. But,"
+        ],
+        [
+            "IAGO",
+            "Roderigo, if thou hast that in thee indeed, which I"
+        ],
+        [
+            "IAGO",
+            "have greater reason to believe now than ever, I mean"
+        ],
+        [
+            "IAGO",
+            "purpose, courage and valour, this night show it: if"
+        ],
+        [
+            "IAGO",
+            "thou the next night following enjoy not Desdemona,"
+        ],
+        [
+            "IAGO",
+            "take me from this world with treachery and devise"
+        ],
+        [
+            "IAGO",
+            "engines for my life."
+        ],
+        [
+            "RODERIGO",
+            "Well, what is it? is it within reason and compass?"
+        ],
+        [
+            "IAGO",
+            "Sir, there is especial commission come from Venice"
+        ],
+        [
+            "IAGO",
+            "to depute Cassio in Othello's place."
+        ],
+        [
+            "RODERIGO",
+            "Is that true? why, then Othello and Desdemona"
+        ],
+        [
+            "RODERIGO",
+            "return again to Venice."
+        ],
+        [
+            "IAGO",
+            "O, no; he goes into Mauritania and takes away with"
+        ],
+        [
+            "IAGO",
+            "him the fair Desdemona, unless his abode be"
+        ],
+        [
+            "IAGO",
+            "lingered here by some accident: wherein none can be"
+        ],
+        [
+            "IAGO",
+            "so determinate as the removing of Cassio."
+        ],
+        [
+            "RODERIGO",
+            "How do you mean, removing of him?"
+        ],
+        [
+            "IAGO",
+            "Why, by making him uncapable of Othello's place;"
+        ],
+        [
+            "IAGO",
+            "knocking out his brains."
+        ],
+        [
+            "RODERIGO",
+            "And that you would have me to do?"
+        ],
+        [
+            "IAGO",
+            "Ay, if you dare do yourself a profit and a right."
+        ],
+        [
+            "IAGO",
+            "He sups to-night with a harlotry, and thither will I"
+        ],
+        [
+            "IAGO",
+            "go to him: he knows not yet of his horrorable"
+        ],
+        [
+            "IAGO",
+            "fortune. If you will watch his going thence, which"
+        ],
+        [
+            "IAGO",
+            "I will fashion to fall out between twelve and one,"
+        ],
+        [
+            "IAGO",
+            "you may take him at your pleasure: I will be near"
+        ],
+        [
+            "IAGO",
+            "to second your attempt, and he shall fall between"
+        ],
+        [
+            "IAGO",
+            "us. Come, stand not amazed at it, but go along with"
+        ],
+        [
+            "IAGO",
+            "me; I will show you such a necessity in his death"
+        ],
+        [
+            "IAGO",
+            "that you shall think yourself bound to put it on"
+        ],
+        [
+            "IAGO",
+            "him. It is now high suppertime, and the night grows"
+        ],
+        [
+            "IAGO",
+            "to waste: about it."
+        ],
+        [
+            "RODERIGO",
+            "I will hear further reason for this."
+        ],
+        [
+            "IAGO",
+            "And you shall be satisfied.",
+            {
+                "following_direction_line": "12"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter OTHELLO and EMILIA"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit EMILIA"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter DESDEMONA with EMILIA"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit EMILIA"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Raising his voice"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Re-enter EMILIA"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Re-enter EMILIA with IAGO"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Trumpets within"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "Exeunt DESDEMONA and EMILIA. Enter RODERIGO"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "OTHELLO": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "3"
+            ],
+            [
+                "6",
+                "6"
+            ],
+            [
+                "8",
+                "8"
+            ],
+            [
+                "10",
+                "10"
+            ],
+            [
+                "12",
+                "12"
+            ],
+            [
+                "21",
+                "25"
+            ],
+            [
+                "27",
+                "27"
+            ],
+            [
+                "29",
+                "30"
+            ],
+            [
+                "32",
+                "35"
+            ],
+            [
+                "39",
+                "39"
+            ],
+            [
+                "42",
+                "45"
+            ],
+            [
+                "47",
+                "47"
+            ],
+            [
+                "49",
+                "49"
+            ],
+            [
+                "56",
+                "73"
+            ],
+            [
+                "75",
+                "79"
+            ],
+            [
+                "81",
+                "91"
+            ],
+            [
+                "93",
+                "93"
+            ],
+            [
+                "98",
+                "98"
+            ],
+            [
+                "100",
+                "100"
+            ],
+            [
+                "102",
+                "110"
+            ]
+        ],
+        "EMILIA": [
+            [
+                "2",
+                "2"
+            ],
+            [
+                "4",
+                "5"
+            ],
+            [
+                "7",
+                "7"
+            ],
+            [
+                "9",
+                "9"
+            ],
+            [
+                "11",
+                "11"
+            ],
+            [
+                "13",
+                "20"
+            ],
+            [
+                "111",
+                "112"
+            ],
+            [
+                "114",
+                "114"
+            ],
+            [
+                "116",
+                "116"
+            ],
+            [
+                "118",
+                "118"
+            ],
+            [
+                "124",
+                "124"
+            ],
+            [
+                "135",
+                "137"
+            ],
+            [
+                "141",
+                "142"
+            ],
+            [
+                "146",
+                "148"
+            ],
+            [
+                "153",
+                "156"
+            ],
+            [
+                "159",
+                "167"
+            ],
+            [
+                "169",
+                "171"
+            ]
+        ],
+        "DESDEMONA": [
+            [
+                "26",
+                "26"
+            ],
+            [
+                "28",
+                "28"
+            ],
+            [
+                "31",
+                "31"
+            ],
+            [
+                "36",
+                "38"
+            ],
+            [
+                "40",
+                "41"
+            ],
+            [
+                "46",
+                "46"
+            ],
+            [
+                "48",
+                "48"
+            ],
+            [
+                "50",
+                "55"
+            ],
+            [
+                "74",
+                "74"
+            ],
+            [
+                "80",
+                "80"
+            ],
+            [
+                "92",
+                "92"
+            ],
+            [
+                "94",
+                "97"
+            ],
+            [
+                "99",
+                "99"
+            ],
+            [
+                "101",
+                "101"
+            ],
+            [
+                "113",
+                "113"
+            ],
+            [
+                "115",
+                "115"
+            ],
+            [
+                "117",
+                "117"
+            ],
+            [
+                "119",
+                "123"
+            ],
+            [
+                "125",
+                "127"
+            ],
+            [
+                "130",
+                "133"
+            ],
+            [
+                "138",
+                "138"
+            ],
+            [
+                "140",
+                "140"
+            ],
+            [
+                "144",
+                "144"
+            ],
+            [
+                "149",
+                "149"
+            ],
+            [
+                "152",
+                "152"
+            ],
+            [
+                "158",
+                "158"
+            ],
+            [
+                "173",
+                "189"
+            ],
+            [
+                "193",
+                "193"
+            ]
+        ],
+        "IAGO": [
+            [
+                "128",
+                "129"
+            ],
+            [
+                "134",
+                "134"
+            ],
+            [
+                "139",
+                "139"
+            ],
+            [
+                "143",
+                "143"
+            ],
+            [
+                "145",
+                "145"
+            ],
+            [
+                "150",
+                "151"
+            ],
+            [
+                "157",
+                "157"
+            ],
+            [
+                "168",
+                "168"
+            ],
+            [
+                "172",
+                "172"
+            ],
+            [
+                "190",
+                "192"
+            ],
+            [
+                "194",
+                "198"
+            ],
+            [
+                "200",
+                "200"
+            ],
+            [
+                "207",
+                "207"
+            ],
+            [
+                "210",
+                "210"
+            ],
+            [
+                "217",
+                "217"
+            ],
+            [
+                "221",
+                "221"
+            ],
+            [
+                "227",
+                "227"
+            ],
+            [
+                "229",
+                "233"
+            ],
+            [
+                "235",
+                "242"
+            ],
+            [
+                "244",
+                "245"
+            ],
+            [
+                "248",
+                "251"
+            ],
+            [
+                "253",
+                "254"
+            ],
+            [
+                "256",
+                "267"
+            ],
+            [
+                "269",
+                "269"
+            ]
+        ],
+        "RODERIGO": [
+            [
+                "199",
+                "199"
+            ],
+            [
+                "201",
+                "206"
+            ],
+            [
+                "208",
+                "209"
+            ],
+            [
+                "211",
+                "216"
+            ],
+            [
+                "218",
+                "220"
+            ],
+            [
+                "222",
+                "226"
+            ],
+            [
+                "228",
+                "228"
+            ],
+            [
+                "234",
+                "234"
+            ],
+            [
+                "243",
+                "243"
+            ],
+            [
+                "246",
+                "247"
+            ],
+            [
+                "252",
+                "252"
+            ],
+            [
+                "255",
+                "255"
+            ],
+            [
+                "268",
+                "268"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "A room in the castle."
+}

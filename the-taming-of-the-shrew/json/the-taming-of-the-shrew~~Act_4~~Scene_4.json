@@ -1,0 +1,663 @@
+{
+    "scene_id": "the taming of the shrew~~Act_4~~Scene_4",
+    "work_number": "8",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "TRANIO",
+            "Sir, this is the house: please it you that I call?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "Pedant",
+            "Ay, what else? and but I be deceived"
+        ],
+        [
+            "Pedant",
+            "Signior Baptista may remember me,"
+        ],
+        [
+            "Pedant",
+            "Near twenty years ago, in Genoa,"
+        ],
+        [
+            "Pedant",
+            "Where we were lodgers at the Pegasus."
+        ],
+        [
+            "TRANIO",
+            "'Tis well; and hold your own, in any case,"
+        ],
+        [
+            "TRANIO",
+            "With such austerity as 'longeth to a father."
+        ],
+        [
+            "Pedant",
+            "I warrant you.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "Pedant",
+            "But, sir, here comes your boy;",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "Pedant",
+            "'Twere good he were school'd."
+        ],
+        [
+            "TRANIO",
+            "Fear you not him. Sirrah Biondello,"
+        ],
+        [
+            "TRANIO",
+            "Now do your duty throughly, I advise you:"
+        ],
+        [
+            "TRANIO",
+            "Imagine 'twere the right Vincentio."
+        ],
+        [
+            "BIONDELLO",
+            "Tut, fear not me."
+        ],
+        [
+            "TRANIO",
+            "But hast thou done thy errand to Baptista?"
+        ],
+        [
+            "BIONDELLO",
+            "I told him that your father was at Venice,"
+        ],
+        [
+            "BIONDELLO",
+            "And that you look'd for him this day in Padua."
+        ],
+        [
+            "TRANIO",
+            "Thou'rt a tall fellow: hold thee that to drink."
+        ],
+        [
+            "TRANIO",
+            "Here comes Baptista: set your countenance, sir.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "TRANIO",
+            "Signior Baptista, you are happily met.",
+            {
+                "preceding_direction_line": "3",
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "TRANIO",
+            "Sir, this is the gentleman I told you of:",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "TRANIO",
+            "I pray you stand good father to me now,"
+        ],
+        [
+            "TRANIO",
+            "Give me Bianca for my patrimony."
+        ],
+        [
+            "Pedant",
+            "Soft son!"
+        ],
+        [
+            "Pedant",
+            "Sir, by your leave: having come to Padua"
+        ],
+        [
+            "Pedant",
+            "To gather in some debts, my son Lucentio"
+        ],
+        [
+            "Pedant",
+            "Made me acquainted with a weighty cause"
+        ],
+        [
+            "Pedant",
+            "Of love between your daughter and himself:"
+        ],
+        [
+            "Pedant",
+            "And, for the good report I hear of you"
+        ],
+        [
+            "Pedant",
+            "And for the love he beareth to your daughter"
+        ],
+        [
+            "Pedant",
+            "And she to him, to stay him not too long,"
+        ],
+        [
+            "Pedant",
+            "I am content, in a good father's care,"
+        ],
+        [
+            "Pedant",
+            "To have him match'd; and if you please to like"
+        ],
+        [
+            "Pedant",
+            "No worse than I, upon some agreement"
+        ],
+        [
+            "Pedant",
+            "Me shall you find ready and willing"
+        ],
+        [
+            "Pedant",
+            "With one consent to have her so bestow'd;"
+        ],
+        [
+            "Pedant",
+            "For curious I cannot be with you,"
+        ],
+        [
+            "Pedant",
+            "Signior Baptista, of whom I hear so well."
+        ],
+        [
+            "BAPTISTA",
+            "Sir, pardon me in what I have to say:"
+        ],
+        [
+            "BAPTISTA",
+            "Your plainness and your shortness please me well."
+        ],
+        [
+            "BAPTISTA",
+            "Right true it is, your son Lucentio here"
+        ],
+        [
+            "BAPTISTA",
+            "Doth love my daughter and she loveth him,"
+        ],
+        [
+            "BAPTISTA",
+            "Or both dissemble deeply their affections:"
+        ],
+        [
+            "BAPTISTA",
+            "And therefore, if you say no more than this,"
+        ],
+        [
+            "BAPTISTA",
+            "That like a father you will deal with him"
+        ],
+        [
+            "BAPTISTA",
+            "And pass my daughter a sufficient dower,"
+        ],
+        [
+            "BAPTISTA",
+            "The match is made, and all is done:"
+        ],
+        [
+            "BAPTISTA",
+            "Your son shall have my daughter with consent."
+        ],
+        [
+            "TRANIO",
+            "I thank you, sir. Where then do you know best"
+        ],
+        [
+            "TRANIO",
+            "We be affied and such assurance ta'en"
+        ],
+        [
+            "TRANIO",
+            "As shall with either part's agreement stand?"
+        ],
+        [
+            "BAPTISTA",
+            "Not in my house, Lucentio; for, you know,"
+        ],
+        [
+            "BAPTISTA",
+            "Pitchers have ears, and I have many servants:"
+        ],
+        [
+            "BAPTISTA",
+            "Besides, old Gremio is hearkening still;"
+        ],
+        [
+            "BAPTISTA",
+            "And happily we might be interrupted."
+        ],
+        [
+            "TRANIO",
+            "Then at my lodging, an it like you:"
+        ],
+        [
+            "TRANIO",
+            "There doth my father lie; and there, this night,"
+        ],
+        [
+            "TRANIO",
+            "We'll pass the business privately and well."
+        ],
+        [
+            "TRANIO",
+            "Send for your daughter by your servant here:"
+        ],
+        [
+            "TRANIO",
+            "My boy shall fetch the scrivener presently."
+        ],
+        [
+            "TRANIO",
+            "The worst is this, that, at so slender warning,"
+        ],
+        [
+            "TRANIO",
+            "You are like to have a thin and slender pittance."
+        ],
+        [
+            "BAPTISTA",
+            "It likes me well. Biondello, hie you home,"
+        ],
+        [
+            "BAPTISTA",
+            "And bid Bianca make her ready straight;"
+        ],
+        [
+            "BAPTISTA",
+            "And, if you will, tell what hath happened,"
+        ],
+        [
+            "BAPTISTA",
+            "Lucentio's father is arrived in Padua,"
+        ],
+        [
+            "BAPTISTA",
+            "And how she's like to be Lucentio's wife."
+        ],
+        [
+            "BIONDELLO",
+            "I pray the gods she may with all my heart!"
+        ],
+        [
+            "TRANIO",
+            "Dally not with the gods, but get thee gone.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "TRANIO",
+            "Signior Baptista, shall I lead the way?",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "TRANIO",
+            "Welcome! one mess is like to be your cheer:"
+        ],
+        [
+            "TRANIO",
+            "Come, sir; we will better it in Pisa."
+        ],
+        [
+            "BAPTISTA",
+            "I follow you.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "BIONDELLO",
+            "Cambio!",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "LUCENTIO",
+            "What sayest thou, Biondello?"
+        ],
+        [
+            "BIONDELLO",
+            "You saw my master wink and laugh upon you?"
+        ],
+        [
+            "LUCENTIO",
+            "Biondello, what of that?"
+        ],
+        [
+            "BIONDELLO",
+            "Faith, nothing; but has left me here behind, to"
+        ],
+        [
+            "BIONDELLO",
+            "expound the meaning or moral of his signs and tokens."
+        ],
+        [
+            "LUCENTIO",
+            "I pray thee, moralize them."
+        ],
+        [
+            "BIONDELLO",
+            "Then thus. Baptista is safe, talking with the"
+        ],
+        [
+            "BIONDELLO",
+            "deceiving father of a deceitful son."
+        ],
+        [
+            "LUCENTIO",
+            "And what of him?"
+        ],
+        [
+            "BIONDELLO",
+            "His daughter is to be brought by you to the supper."
+        ],
+        [
+            "LUCENTIO",
+            "And then?"
+        ],
+        [
+            "BIONDELLO",
+            "The old priest of Saint Luke's church is at your"
+        ],
+        [
+            "BIONDELLO",
+            "command at all hours."
+        ],
+        [
+            "LUCENTIO",
+            "And what of all this?"
+        ],
+        [
+            "BIONDELLO",
+            "I cannot tell; expect they are busied about a"
+        ],
+        [
+            "BIONDELLO",
+            "counterfeit assurance: take you assurance of her,"
+        ],
+        [
+            "BIONDELLO",
+            "'cum privilegio ad imprimendum solum:' to the"
+        ],
+        [
+            "BIONDELLO",
+            "church; take the priest, clerk, and some sufficient"
+        ],
+        [
+            "BIONDELLO",
+            "honest witnesses: If this be not that you look for,"
+        ],
+        [
+            "BIONDELLO",
+            "I have no more to say, But bid Bianca farewell for"
+        ],
+        [
+            "BIONDELLO",
+            "ever and a day."
+        ],
+        [
+            "LUCENTIO",
+            "Hearest thou, Biondello?"
+        ],
+        [
+            "BIONDELLO",
+            "I cannot tarry: I knew a wench married in an"
+        ],
+        [
+            "BIONDELLO",
+            "afternoon as she went to the garden for parsley to"
+        ],
+        [
+            "BIONDELLO",
+            "stuff a rabbit; and so may you, sir: and so, adieu,"
+        ],
+        [
+            "BIONDELLO",
+            "sir. My master hath appointed me to go to Saint"
+        ],
+        [
+            "BIONDELLO",
+            "Luke's, to bid the priest be ready to come against"
+        ],
+        [
+            "BIONDELLO",
+            "you come with your appendix.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "LUCENTIO",
+            "I may, and will, if she be so contented:",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "LUCENTIO",
+            "She will be pleased; then wherefore should I doubt?"
+        ],
+        [
+            "LUCENTIO",
+            "Hap what hap may, I'll roundly go about her:"
+        ],
+        [
+            "LUCENTIO",
+            "It shall go hard if Cambio go without her.",
+            {
+                "following_direction_line": "8"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter TRANIO, and the Pedant dressed like VINCENTIO"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter BIONDELLO"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter BAPTISTA and LUCENTIO"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "To the Pedant"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exit BIONDELLO"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exeunt TRANIO, Pedant, and BAPTISTA. Re-enter BIONDELLO"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "TRANIO": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "6",
+                "7"
+            ],
+            [
+                "11",
+                "13"
+            ],
+            [
+                "15",
+                "15"
+            ],
+            [
+                "18",
+                "23"
+            ],
+            [
+                "49",
+                "51"
+            ],
+            [
+                "56",
+                "62"
+            ],
+            [
+                "69",
+                "72"
+            ]
+        ],
+        "Pedant": [
+            [
+                "2",
+                "5"
+            ],
+            [
+                "8",
+                "10"
+            ],
+            [
+                "24",
+                "38"
+            ]
+        ],
+        "BIONDELLO": [
+            [
+                "14",
+                "14"
+            ],
+            [
+                "16",
+                "17"
+            ],
+            [
+                "68",
+                "68"
+            ],
+            [
+                "74",
+                "74"
+            ],
+            [
+                "76",
+                "76"
+            ],
+            [
+                "78",
+                "79"
+            ],
+            [
+                "81",
+                "82"
+            ],
+            [
+                "84",
+                "84"
+            ],
+            [
+                "86",
+                "87"
+            ],
+            [
+                "89",
+                "95"
+            ],
+            [
+                "97",
+                "102"
+            ]
+        ],
+        "BAPTISTA": [
+            [
+                "39",
+                "48"
+            ],
+            [
+                "52",
+                "55"
+            ],
+            [
+                "63",
+                "67"
+            ],
+            [
+                "73",
+                "73"
+            ]
+        ],
+        "LUCENTIO": [
+            [
+                "75",
+                "75"
+            ],
+            [
+                "77",
+                "77"
+            ],
+            [
+                "80",
+                "80"
+            ],
+            [
+                "83",
+                "83"
+            ],
+            [
+                "85",
+                "85"
+            ],
+            [
+                "88",
+                "88"
+            ],
+            [
+                "96",
+                "96"
+            ],
+            [
+                "103",
+                "106"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IV",
+    "scene_description": "Padua. Before BAPTISTA'S house."
+}

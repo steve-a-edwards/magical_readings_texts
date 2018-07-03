@@ -1,0 +1,132 @@
+_S_SCENE I. Padua. BAPTISTA'S house.
+_D_Enter LUCENTIO, HORTENSIO, and BIANCA
+_R_LUCENTIO
+Fiddler, forbear; you grow too forward, sir:
+Have you so soon forgot the entertainment
+Her sister Katharina welcomed you withal?
+_R_HORTENSIO
+But, wrangling pedant, this is
+The patroness of heavenly harmony:
+Then give me leave to have prerogative;
+And when in music we have spent an hour,
+Your lecture shall have leisure for as much.
+_R_LUCENTIO
+Preposterous ass, that never read so far
+To know the cause why music was ordain'd!
+Was it not to refresh the mind of man
+After his studies or his usual pain?
+Then give me leave to read philosophy,
+And while I pause, serve in your harmony.
+_R_HORTENSIO
+Sirrah, I will not bear these braves of thine.
+_R_BIANCA
+Why, gentlemen, you do me double wrong,
+To strive for that which resteth in my choice:
+I am no breeching scholar in the schools;
+I'll not be tied to hours nor 'pointed times,
+But learn my lessons as I please myself.
+And, to cut off all strife, here sit we down:
+Take you your instrument, play you the whiles;
+His lecture will be done ere you have tuned.
+_R_HORTENSIO
+You'll leave his lecture when I am in tune?
+_R_LUCENTIO
+That will be never: tune your instrument.
+_R_BIANCA
+Where left we last?
+_R_LUCENTIO
+Here, madam:
+'Hic ibat Simois; hic est Sigeia tellus;
+Hic steterat Priami regia celsa senis.'
+_R_BIANCA
+Construe them.
+_R_LUCENTIO
+'Hic ibat,' as I told you before, 'Simois,' I am
+Lucentio, 'hic est,' son unto Vincentio of Pisa,
+'Sigeia tellus,' disguised thus to get your love;
+'Hic steterat,' and that Lucentio that comes
+a-wooing, 'Priami,' is my man Tranio, 'regia,'
+bearing my port, 'celsa senis,' that we might
+beguile the old pantaloon.
+_R_HORTENSIO
+Madam, my instrument's in tune.
+_R_BIANCA
+Let's hear. O fie! the treble jars.
+_R_LUCENTIO
+Spit in the hole, man, and tune again.
+_R_BIANCA
+Now let me see if I can construe it: 'Hic ibat
+Simois,' I know you not, 'hic est Sigeia tellus,' I
+trust you not; 'Hic steterat Priami,' take heed
+he hear us not, 'regia,' presume not, 'celsa senis,'
+despair not.
+_R_HORTENSIO
+Madam, 'tis now in tune.
+_R_LUCENTIO
+All but the base.
+_R_HORTENSIO
+The base is right; 'tis the base knave that jars.
+_D_Aside
+How fiery and forward our pedant is!
+Now, for my life, the knave doth court my love:
+Pedascule, I'll watch you better yet.
+_R_BIANCA
+In time I may believe, yet I mistrust.
+_R_LUCENTIO
+Mistrust it not: for, sure, AEacides
+Was Ajax, call'd so from his grandfather.
+_R_BIANCA
+I must believe my master; else, I promise you,
+I should be arguing still upon that doubt:
+But let it rest. Now, Licio, to you:
+Good masters, take it not unkindly, pray,
+That I have been thus pleasant with you both.
+_R_HORTENSIO
+You may go walk, and give me leave a while:
+My lessons make no music in three parts.
+_R_LUCENTIO
+Are you so formal, sir? well, I must wait,
+_D_Aside
+And watch withal; for, but I be deceived,
+Our fine musician groweth amorous.
+_R_HORTENSIO
+Madam, before you touch the instrument,
+To learn the order of my fingering,
+I must begin with rudiments of art;
+To teach you gamut in a briefer sort,
+More pleasant, pithy and effectual,
+Than hath been taught by any of my trade:
+And there it is in writing, fairly drawn.
+_R_BIANCA
+Why, I am past my gamut long ago.
+_R_HORTENSIO
+Yet read the gamut of Hortensio.
+_R_BIANCA
+[Reads] ''Gamut' I am, the ground of all accord,
+'A re,' to Plead Hortensio's passion;
+'B mi,' Bianca, take him for thy lord,
+'C fa ut,' that loves with all affection:
+'D sol re,' one clef, two notes have I:
+'E la mi,' show pity, or I die.'
+Call you this gamut? tut, I like it not:
+Old fashions please me best; I am not so nice,
+To change true rules for old inventions.
+_D_Enter a Servant
+_R_Servant
+Mistress, your father prays you leave your books
+And help to dress your sister's chamber up:
+You know to-morrow is the wedding-day.
+_R_BIANCA
+Farewell, sweet masters both; I must be gone.
+_D_Exeunt BIANCA and Servant
+_R_LUCENTIO
+Faith, mistress, then I have no cause to stay.
+_D_Exit
+_R_HORTENSIO
+But I have cause to pry into this pedant:
+Methinks he looks as though he were in love:
+Yet if thy thoughts, Bianca, be so humble
+To cast thy wandering eyes on every stale,
+Seize thee that list: if once I find thee ranging,
+Hortensio will be quit with thee by changing.
+_D_Exit

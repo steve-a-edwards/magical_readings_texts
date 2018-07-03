@@ -1,0 +1,586 @@
+{
+    "scene_id": "the taming of the shrew~~Act_3~~Scene_1",
+    "work_number": "8",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "LUCENTIO",
+            "Fiddler, forbear; you grow too forward, sir:",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "LUCENTIO",
+            "Have you so soon forgot the entertainment"
+        ],
+        [
+            "LUCENTIO",
+            "Her sister Katharina welcomed you withal?"
+        ],
+        [
+            "HORTENSIO",
+            "But, wrangling pedant, this is"
+        ],
+        [
+            "HORTENSIO",
+            "The patroness of heavenly harmony:"
+        ],
+        [
+            "HORTENSIO",
+            "Then give me leave to have prerogative;"
+        ],
+        [
+            "HORTENSIO",
+            "And when in music we have spent an hour,"
+        ],
+        [
+            "HORTENSIO",
+            "Your lecture shall have leisure for as much."
+        ],
+        [
+            "LUCENTIO",
+            "Preposterous ass, that never read so far"
+        ],
+        [
+            "LUCENTIO",
+            "To know the cause why music was ordain'd!"
+        ],
+        [
+            "LUCENTIO",
+            "Was it not to refresh the mind of man"
+        ],
+        [
+            "LUCENTIO",
+            "After his studies or his usual pain?"
+        ],
+        [
+            "LUCENTIO",
+            "Then give me leave to read philosophy,"
+        ],
+        [
+            "LUCENTIO",
+            "And while I pause, serve in your harmony."
+        ],
+        [
+            "HORTENSIO",
+            "Sirrah, I will not bear these braves of thine."
+        ],
+        [
+            "BIANCA",
+            "Why, gentlemen, you do me double wrong,"
+        ],
+        [
+            "BIANCA",
+            "To strive for that which resteth in my choice:"
+        ],
+        [
+            "BIANCA",
+            "I am no breeching scholar in the schools;"
+        ],
+        [
+            "BIANCA",
+            "I'll not be tied to hours nor 'pointed times,"
+        ],
+        [
+            "BIANCA",
+            "But learn my lessons as I please myself."
+        ],
+        [
+            "BIANCA",
+            "And, to cut off all strife, here sit we down:"
+        ],
+        [
+            "BIANCA",
+            "Take you your instrument, play you the whiles;"
+        ],
+        [
+            "BIANCA",
+            "His lecture will be done ere you have tuned."
+        ],
+        [
+            "HORTENSIO",
+            "You'll leave his lecture when I am in tune?"
+        ],
+        [
+            "LUCENTIO",
+            "That will be never: tune your instrument."
+        ],
+        [
+            "BIANCA",
+            "Where left we last?"
+        ],
+        [
+            "LUCENTIO",
+            "Here, madam:"
+        ],
+        [
+            "LUCENTIO",
+            "'Hic ibat Simois; hic est Sigeia tellus;"
+        ],
+        [
+            "LUCENTIO",
+            "Hic steterat Priami regia celsa senis.'"
+        ],
+        [
+            "BIANCA",
+            "Construe them."
+        ],
+        [
+            "LUCENTIO",
+            "'Hic ibat,' as I told you before, 'Simois,' I am"
+        ],
+        [
+            "LUCENTIO",
+            "Lucentio, 'hic est,' son unto Vincentio of Pisa,"
+        ],
+        [
+            "LUCENTIO",
+            "'Sigeia tellus,' disguised thus to get your love;"
+        ],
+        [
+            "LUCENTIO",
+            "'Hic steterat,' and that Lucentio that comes"
+        ],
+        [
+            "LUCENTIO",
+            "a-wooing, 'Priami,' is my man Tranio, 'regia,'"
+        ],
+        [
+            "LUCENTIO",
+            "bearing my port, 'celsa senis,' that we might"
+        ],
+        [
+            "LUCENTIO",
+            "beguile the old pantaloon."
+        ],
+        [
+            "HORTENSIO",
+            "Madam, my instrument's in tune."
+        ],
+        [
+            "BIANCA",
+            "Let's hear. O fie! the treble jars."
+        ],
+        [
+            "LUCENTIO",
+            "Spit in the hole, man, and tune again."
+        ],
+        [
+            "BIANCA",
+            "Now let me see if I can construe it: 'Hic ibat"
+        ],
+        [
+            "BIANCA",
+            "Simois,' I know you not, 'hic est Sigeia tellus,' I"
+        ],
+        [
+            "BIANCA",
+            "trust you not; 'Hic steterat Priami,' take heed"
+        ],
+        [
+            "BIANCA",
+            "he hear us not, 'regia,' presume not, 'celsa senis,'"
+        ],
+        [
+            "BIANCA",
+            "despair not."
+        ],
+        [
+            "HORTENSIO",
+            "Madam, 'tis now in tune."
+        ],
+        [
+            "LUCENTIO",
+            "All but the base."
+        ],
+        [
+            "HORTENSIO",
+            "The base is right; 'tis the base knave that jars.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "HORTENSIO",
+            "How fiery and forward our pedant is!",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "HORTENSIO",
+            "Now, for my life, the knave doth court my love:"
+        ],
+        [
+            "HORTENSIO",
+            "Pedascule, I'll watch you better yet."
+        ],
+        [
+            "BIANCA",
+            "In time I may believe, yet I mistrust."
+        ],
+        [
+            "LUCENTIO",
+            "Mistrust it not: for, sure, AEacides"
+        ],
+        [
+            "LUCENTIO",
+            "Was Ajax, call'd so from his grandfather."
+        ],
+        [
+            "BIANCA",
+            "I must believe my master; else, I promise you,"
+        ],
+        [
+            "BIANCA",
+            "I should be arguing still upon that doubt:"
+        ],
+        [
+            "BIANCA",
+            "But let it rest. Now, Licio, to you:"
+        ],
+        [
+            "BIANCA",
+            "Good masters, take it not unkindly, pray,"
+        ],
+        [
+            "BIANCA",
+            "That I have been thus pleasant with you both."
+        ],
+        [
+            "HORTENSIO",
+            "You may go walk, and give me leave a while:"
+        ],
+        [
+            "HORTENSIO",
+            "My lessons make no music in three parts."
+        ],
+        [
+            "LUCENTIO",
+            "Are you so formal, sir? well, I must wait,",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "LUCENTIO",
+            "And watch withal; for, but I be deceived,",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "LUCENTIO",
+            "Our fine musician groweth amorous."
+        ],
+        [
+            "HORTENSIO",
+            "Madam, before you touch the instrument,"
+        ],
+        [
+            "HORTENSIO",
+            "To learn the order of my fingering,"
+        ],
+        [
+            "HORTENSIO",
+            "I must begin with rudiments of art;"
+        ],
+        [
+            "HORTENSIO",
+            "To teach you gamut in a briefer sort,"
+        ],
+        [
+            "HORTENSIO",
+            "More pleasant, pithy and effectual,"
+        ],
+        [
+            "HORTENSIO",
+            "Than hath been taught by any of my trade:"
+        ],
+        [
+            "HORTENSIO",
+            "And there it is in writing, fairly drawn."
+        ],
+        [
+            "BIANCA",
+            "Why, I am past my gamut long ago."
+        ],
+        [
+            "HORTENSIO",
+            "Yet read the gamut of Hortensio."
+        ],
+        [
+            "BIANCA",
+            "[Reads] ''Gamut' I am, the ground of all accord,"
+        ],
+        [
+            "BIANCA",
+            "'A re,' to Plead Hortensio's passion;"
+        ],
+        [
+            "BIANCA",
+            "'B mi,' Bianca, take him for thy lord,"
+        ],
+        [
+            "BIANCA",
+            "'C fa ut,' that loves with all affection:"
+        ],
+        [
+            "BIANCA",
+            "'D sol re,' one clef, two notes have I:"
+        ],
+        [
+            "BIANCA",
+            "'E la mi,' show pity, or I die.'"
+        ],
+        [
+            "BIANCA",
+            "Call you this gamut? tut, I like it not:"
+        ],
+        [
+            "BIANCA",
+            "Old fashions please me best; I am not so nice,"
+        ],
+        [
+            "BIANCA",
+            "To change true rules for old inventions.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "Servant",
+            "Mistress, your father prays you leave your books",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "Servant",
+            "And help to dress your sister's chamber up:"
+        ],
+        [
+            "Servant",
+            "You know to-morrow is the wedding-day."
+        ],
+        [
+            "BIANCA",
+            "Farewell, sweet masters both; I must be gone.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "LUCENTIO",
+            "Faith, mistress, then I have no cause to stay.",
+            {
+                "preceding_direction_line": "5",
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "HORTENSIO",
+            "But I have cause to pry into this pedant:",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "HORTENSIO",
+            "Methinks he looks as though he were in love:"
+        ],
+        [
+            "HORTENSIO",
+            "Yet if thy thoughts, Bianca, be so humble"
+        ],
+        [
+            "HORTENSIO",
+            "To cast thy wandering eyes on every stale,"
+        ],
+        [
+            "HORTENSIO",
+            "Seize thee that list: if once I find thee ranging,"
+        ],
+        [
+            "HORTENSIO",
+            "Hortensio will be quit with thee by changing.",
+            {
+                "following_direction_line": "7"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter LUCENTIO, HORTENSIO, and BIANCA"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Aside"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Aside"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter a Servant"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt BIANCA and Servant"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "LUCENTIO": [
+            [
+                "1",
+                "3"
+            ],
+            [
+                "9",
+                "14"
+            ],
+            [
+                "25",
+                "25"
+            ],
+            [
+                "27",
+                "29"
+            ],
+            [
+                "31",
+                "37"
+            ],
+            [
+                "40",
+                "40"
+            ],
+            [
+                "47",
+                "47"
+            ],
+            [
+                "53",
+                "54"
+            ],
+            [
+                "62",
+                "64"
+            ],
+            [
+                "87",
+                "87"
+            ]
+        ],
+        "HORTENSIO": [
+            [
+                "4",
+                "8"
+            ],
+            [
+                "15",
+                "15"
+            ],
+            [
+                "24",
+                "24"
+            ],
+            [
+                "38",
+                "38"
+            ],
+            [
+                "46",
+                "46"
+            ],
+            [
+                "48",
+                "51"
+            ],
+            [
+                "60",
+                "61"
+            ],
+            [
+                "65",
+                "71"
+            ],
+            [
+                "73",
+                "73"
+            ],
+            [
+                "88",
+                "93"
+            ]
+        ],
+        "BIANCA": [
+            [
+                "16",
+                "23"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "30",
+                "30"
+            ],
+            [
+                "39",
+                "39"
+            ],
+            [
+                "41",
+                "45"
+            ],
+            [
+                "52",
+                "52"
+            ],
+            [
+                "55",
+                "59"
+            ],
+            [
+                "72",
+                "72"
+            ],
+            [
+                "74",
+                "82"
+            ],
+            [
+                "86",
+                "86"
+            ]
+        ],
+        "Servant": [
+            [
+                "83",
+                "85"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "Padua. BAPTISTA'S house."
+}

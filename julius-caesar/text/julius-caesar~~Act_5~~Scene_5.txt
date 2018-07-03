@@ -1,0 +1,136 @@
+_S_SCENE V. Another part of the field.
+_D_Enter BRUTUS, DARDANIUS, CLITUS, STRATO, and VOLUMNIUS
+_R_BRUTUS
+Come, poor remains of friends, rest on this rock.
+_R_CLITUS
+Statilius show'd the torch-light, but, my lord,
+He came not back: he is or ta'en or slain.
+_R_BRUTUS
+Sit thee down, Clitus: slaying is the word;
+It is a deed in fashion. Hark thee, Clitus.
+_D_Whispers
+_R_CLITUS
+What, I, my lord? No, not for all the world.
+_R_BRUTUS
+Peace then! no words.
+_R_CLITUS
+I'll rather kill myself.
+_R_BRUTUS
+Hark thee, Dardanius.
+_D_Whispers
+_R_DARDANIUS
+Shall I do such a deed?
+_R_CLITUS
+O Dardanius!
+_R_DARDANIUS
+O Clitus!
+_R_CLITUS
+What ill request did Brutus make to thee?
+_R_DARDANIUS
+To kill him, Clitus. Look, he meditates.
+_R_CLITUS
+Now is that noble vessel full of grief,
+That it runs over even at his eyes.
+_R_BRUTUS
+Come hither, good Volumnius; list a word.
+_R_VOLUMNIUS
+What says my lord?
+_R_BRUTUS
+Why, this, Volumnius:
+The ghost of Caesar hath appear'd to me
+Two several times by night; at Sardis once,
+And, this last night, here in Philippi fields:
+I know my hour is come.
+_R_VOLUMNIUS
+Not so, my lord.
+_R_BRUTUS
+Nay, I am sure it is, Volumnius.
+Thou seest the world, Volumnius, how it goes;
+Our enemies have beat us to the pit:
+_D_Low alarums
+It is more worthy to leap in ourselves,
+Than tarry till they push us. Good Volumnius,
+Thou know'st that we two went to school together:
+Even for that our love of old, I prithee,
+Hold thou my sword-hilts, whilst I run on it.
+_R_VOLUMNIUS
+That's not an office for a friend, my lord.
+_D_Alarum still
+_R_CLITUS
+Fly, fly, my lord; there is no tarrying here.
+_R_BRUTUS
+Farewell to you; and you; and you, Volumnius.
+Strato, thou hast been all this while asleep;
+Farewell to thee too, Strato. Countrymen,
+My heart doth joy that yet in all my life
+I found no man but he was true to me.
+I shall have glory by this losing day
+More than Octavius and Mark Antony
+By this vile conquest shall attain unto.
+So fare you well at once; for Brutus' tongue
+Hath almost ended his life's history:
+Night hangs upon mine eyes; my bones would rest,
+That have but labour'd to attain this hour.
+_D_Alarum. Cry within, 'Fly, fly, fly!'
+_R_CLITUS
+Fly, my lord, fly.
+_R_BRUTUS
+Hence! I will follow.
+_D_Exeunt CLITUS, DARDANIUS, and VOLUMNIUS
+I prithee, Strato, stay thou by thy lord:
+Thou art a fellow of a good respect;
+Thy life hath had some smatch of honour in it:
+Hold then my sword, and turn away thy face,
+While I do run upon it. Wilt thou, Strato?
+_R_STRATO
+Give me your hand first. Fare you well, my lord.
+_R_BRUTUS
+Farewell, good Strato.
+_D_Runs on his sword
+Caesar, now be still:
+I kill'd not thee with half so good a will.
+_D_Dies
+_D_Alarum. Retreat. Enter OCTAVIUS, ANTONY, MESSALA, LUCILIUS, and the army
+_R_OCTAVIUS
+What man is that?
+_R_MESSALA
+My master's man. Strato, where is thy master?
+_R_STRATO
+Free from the bondage you are in, Messala:
+The conquerors can but make a fire of him;
+For Brutus only overcame himself,
+And no man else hath honour by his death.
+_R_LUCILIUS
+So Brutus should be found. I thank thee, Brutus,
+That thou hast proved Lucilius' saying true.
+_R_OCTAVIUS
+All that served Brutus, I will entertain them.
+Fellow, wilt thou bestow thy time with me?
+_R_STRATO
+Ay, if Messala will prefer me to you.
+_R_OCTAVIUS
+Do so, good Messala.
+_R_MESSALA
+How died my master, Strato?
+_R_STRATO
+I held the sword, and he did run on it.
+_R_MESSALA
+Octavius, then take him to follow thee,
+That did the latest service to my master.
+_R_ANTONY
+This was the noblest Roman of them all:
+All the conspirators save only he
+Did that they did in envy of great Caesar;
+He only, in a general honest thought
+And common good to all, made one of them.
+His life was gentle, and the elements
+So mix'd in him that Nature might stand up
+And say to all the world 'This was a man!'
+_R_OCTAVIUS
+According to his virtue let us use him,
+With all respect and rites of burial.
+Within my tent his bones to-night shall lie,
+Most like a soldier, order'd honourably.
+So call the field to rest; and let's away,
+To part the glories of this happy day.
+_D_Exeunt

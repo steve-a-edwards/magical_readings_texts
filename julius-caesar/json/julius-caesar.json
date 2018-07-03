@@ -1,0 +1,51 @@
+{
+  "main_author": "Shakespeare",
+  "plays_scenes": [
+    [
+      "Act_1",
+      [
+        "Scene_1",
+        "Scene_2",
+        "Scene_3"
+      ]
+    ],
+    [
+      "Act_2",
+      [
+        "Scene_1",
+        "Scene_2",
+        "Scene_3",
+        "Scene_4"
+      ]
+    ],
+    [
+      "Act_3",
+      [
+        "Scene_1",
+        "Scene_2",
+        "Scene_3"
+      ]
+    ],
+    [
+      "Act_4",
+      [
+        "Scene_1",
+        "Scene_2",
+        "Scene_3"
+      ]
+    ],
+    [
+      "Act_5",
+      [
+        "Scene_1",
+        "Scene_2",
+        "Scene_3",
+        "Scene_4",
+        "Scene_5"
+      ]
+    ]
+  ],
+  "work_name": "julius caesar",
+  "work_number": "11",
+  "work_type": "Play"
+}

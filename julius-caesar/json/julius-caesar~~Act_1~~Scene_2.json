@@ -1,0 +1,1795 @@
+{
+    "scene_id": "julius caesar~~Act_1~~Scene_2",
+    "work_number": "11",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "CAESAR",
+            "Calpurnia!",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "CASCA",
+            "Peace, ho! Caesar speaks."
+        ],
+        [
+            "CAESAR",
+            "Calpurnia!"
+        ],
+        [
+            "CALPURNIA",
+            "Here, my lord."
+        ],
+        [
+            "CAESAR",
+            "Stand you directly in Antonius' way,"
+        ],
+        [
+            "CAESAR",
+            "When he doth run his course. Antonius!"
+        ],
+        [
+            "ANTONY",
+            "Caesar, my lord?"
+        ],
+        [
+            "CAESAR",
+            "Forget not, in your speed, Antonius,"
+        ],
+        [
+            "CAESAR",
+            "To touch Calpurnia; for our elders say,"
+        ],
+        [
+            "CAESAR",
+            "The barren, touched in this holy chase,"
+        ],
+        [
+            "CAESAR",
+            "Shake off their sterile curse."
+        ],
+        [
+            "ANTONY",
+            "I shall remember:"
+        ],
+        [
+            "ANTONY",
+            "When Caesar says 'do this,' it is perform'd."
+        ],
+        [
+            "CAESAR",
+            "Set on; and leave no ceremony out.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "Soothsayer",
+            "Caesar!",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "CAESAR",
+            "Ha! who calls?"
+        ],
+        [
+            "CASCA",
+            "Bid every noise be still: peace yet again!"
+        ],
+        [
+            "CAESAR",
+            "Who is it in the press that calls on me?"
+        ],
+        [
+            "CAESAR",
+            "I hear a tongue, shriller than all the music,"
+        ],
+        [
+            "CAESAR",
+            "Cry 'Caesar!' Speak; Caesar is turn'd to hear."
+        ],
+        [
+            "Soothsayer",
+            "Beware the ides of March."
+        ],
+        [
+            "CAESAR",
+            "What man is that?"
+        ],
+        [
+            "BRUTUS",
+            "A soothsayer bids you beware the ides of March."
+        ],
+        [
+            "CAESAR",
+            "Set him before me; let me see his face."
+        ],
+        [
+            "CASSIUS",
+            "Fellow, come from the throng; look upon Caesar."
+        ],
+        [
+            "CAESAR",
+            "What say'st thou to me now? speak once again."
+        ],
+        [
+            "Soothsayer",
+            "Beware the ides of March."
+        ],
+        [
+            "CAESAR",
+            "He is a dreamer; let us leave him: pass.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "CASSIUS",
+            "Will you go see the order of the course?",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Not I."
+        ],
+        [
+            "CASSIUS",
+            "I pray you, do."
+        ],
+        [
+            "BRUTUS",
+            "I am not gamesome: I do lack some part"
+        ],
+        [
+            "BRUTUS",
+            "Of that quick spirit that is in Antony."
+        ],
+        [
+            "BRUTUS",
+            "Let me not hinder, Cassius, your desires;"
+        ],
+        [
+            "BRUTUS",
+            "I'll leave you."
+        ],
+        [
+            "CASSIUS",
+            "Brutus, I do observe you now of late:"
+        ],
+        [
+            "CASSIUS",
+            "I have not from your eyes that gentleness"
+        ],
+        [
+            "CASSIUS",
+            "And show of love as I was wont to have:"
+        ],
+        [
+            "CASSIUS",
+            "You bear too stubborn and too strange a hand"
+        ],
+        [
+            "CASSIUS",
+            "Over your friend that loves you."
+        ],
+        [
+            "BRUTUS",
+            "Cassius,"
+        ],
+        [
+            "BRUTUS",
+            "Be not deceived: if I have veil'd my look,"
+        ],
+        [
+            "BRUTUS",
+            "I turn the trouble of my countenance"
+        ],
+        [
+            "BRUTUS",
+            "Merely upon myself. Vexed I am"
+        ],
+        [
+            "BRUTUS",
+            "Of late with passions of some difference,"
+        ],
+        [
+            "BRUTUS",
+            "Conceptions only proper to myself,"
+        ],
+        [
+            "BRUTUS",
+            "Which give some soil perhaps to my behaviors;"
+        ],
+        [
+            "BRUTUS",
+            "But let not therefore my good friends be grieved--"
+        ],
+        [
+            "BRUTUS",
+            "Among which number, Cassius, be you one--"
+        ],
+        [
+            "BRUTUS",
+            "Nor construe any further my neglect,"
+        ],
+        [
+            "BRUTUS",
+            "Than that poor Brutus, with himself at war,"
+        ],
+        [
+            "BRUTUS",
+            "Forgets the shows of love to other men."
+        ],
+        [
+            "CASSIUS",
+            "Then, Brutus, I have much mistook your passion;"
+        ],
+        [
+            "CASSIUS",
+            "By means whereof this breast of mine hath buried"
+        ],
+        [
+            "CASSIUS",
+            "Thoughts of great value, worthy cogitations."
+        ],
+        [
+            "CASSIUS",
+            "Tell me, good Brutus, can you see your face?"
+        ],
+        [
+            "BRUTUS",
+            "No, Cassius; for the eye sees not itself,"
+        ],
+        [
+            "BRUTUS",
+            "But by reflection, by some other things."
+        ],
+        [
+            "CASSIUS",
+            "'Tis just:"
+        ],
+        [
+            "CASSIUS",
+            "And it is very much lamented, Brutus,"
+        ],
+        [
+            "CASSIUS",
+            "That you have no such mirrors as will turn"
+        ],
+        [
+            "CASSIUS",
+            "Your hidden worthiness into your eye,"
+        ],
+        [
+            "CASSIUS",
+            "That you might see your shadow. I have heard,"
+        ],
+        [
+            "CASSIUS",
+            "Where many of the best respect in Rome,"
+        ],
+        [
+            "CASSIUS",
+            "Except immortal Caesar, speaking of Brutus"
+        ],
+        [
+            "CASSIUS",
+            "And groaning underneath this age's yoke,"
+        ],
+        [
+            "CASSIUS",
+            "Have wish'd that noble Brutus had his eyes."
+        ],
+        [
+            "BRUTUS",
+            "Into what dangers would you lead me, Cassius,"
+        ],
+        [
+            "BRUTUS",
+            "That you would have me seek into myself"
+        ],
+        [
+            "BRUTUS",
+            "For that which is not in me?"
+        ],
+        [
+            "CASSIUS",
+            "Therefore, good Brutus, be prepared to hear:"
+        ],
+        [
+            "CASSIUS",
+            "And since you know you cannot see yourself"
+        ],
+        [
+            "CASSIUS",
+            "So well as by reflection, I, your glass,"
+        ],
+        [
+            "CASSIUS",
+            "Will modestly discover to yourself"
+        ],
+        [
+            "CASSIUS",
+            "That of yourself which you yet know not of."
+        ],
+        [
+            "CASSIUS",
+            "And be not jealous on me, gentle Brutus:"
+        ],
+        [
+            "CASSIUS",
+            "Were I a common laugher, or did use"
+        ],
+        [
+            "CASSIUS",
+            "To stale with ordinary oaths my love"
+        ],
+        [
+            "CASSIUS",
+            "To every new protester; if you know"
+        ],
+        [
+            "CASSIUS",
+            "That I do fawn on men and hug them hard"
+        ],
+        [
+            "CASSIUS",
+            "And after scandal them, or if you know"
+        ],
+        [
+            "CASSIUS",
+            "That I profess myself in banqueting"
+        ],
+        [
+            "CASSIUS",
+            "To all the rout, then hold me dangerous.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "BRUTUS",
+            "What means this shouting? I do fear, the people",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Choose Caesar for their king."
+        ],
+        [
+            "CASSIUS",
+            "Ay, do you fear it?"
+        ],
+        [
+            "CASSIUS",
+            "Then must I think you would not have it so."
+        ],
+        [
+            "BRUTUS",
+            "I would not, Cassius; yet I love him well."
+        ],
+        [
+            "BRUTUS",
+            "But wherefore do you hold me here so long?"
+        ],
+        [
+            "BRUTUS",
+            "What is it that you would impart to me?"
+        ],
+        [
+            "BRUTUS",
+            "If it be aught toward the general good,"
+        ],
+        [
+            "BRUTUS",
+            "Set honour in one eye and death i' the other,"
+        ],
+        [
+            "BRUTUS",
+            "And I will look on both indifferently,"
+        ],
+        [
+            "BRUTUS",
+            "For let the gods so speed me as I love"
+        ],
+        [
+            "BRUTUS",
+            "The name of honour more than I fear death."
+        ],
+        [
+            "CASSIUS",
+            "I know that virtue to be in you, Brutus,"
+        ],
+        [
+            "CASSIUS",
+            "As well as I do know your outward favour."
+        ],
+        [
+            "CASSIUS",
+            "Well, honour is the subject of my story."
+        ],
+        [
+            "CASSIUS",
+            "I cannot tell what you and other men"
+        ],
+        [
+            "CASSIUS",
+            "Think of this life; but, for my single self,"
+        ],
+        [
+            "CASSIUS",
+            "I had as lief not be as live to be"
+        ],
+        [
+            "CASSIUS",
+            "In awe of such a thing as I myself."
+        ],
+        [
+            "CASSIUS",
+            "I was born free as Caesar; so were you:"
+        ],
+        [
+            "CASSIUS",
+            "We both have fed as well, and we can both"
+        ],
+        [
+            "CASSIUS",
+            "Endure the winter's cold as well as he:"
+        ],
+        [
+            "CASSIUS",
+            "For once, upon a raw and gusty day,"
+        ],
+        [
+            "CASSIUS",
+            "The troubled Tiber chafing with her shores,"
+        ],
+        [
+            "CASSIUS",
+            "Caesar said to me 'Darest thou, Cassius, now"
+        ],
+        [
+            "CASSIUS",
+            "Leap in with me into this angry flood,"
+        ],
+        [
+            "CASSIUS",
+            "And swim to yonder point?' Upon the word,"
+        ],
+        [
+            "CASSIUS",
+            "Accoutred as I was, I plunged in"
+        ],
+        [
+            "CASSIUS",
+            "And bade him follow; so indeed he did."
+        ],
+        [
+            "CASSIUS",
+            "The torrent roar'd, and we did buffet it"
+        ],
+        [
+            "CASSIUS",
+            "With lusty sinews, throwing it aside"
+        ],
+        [
+            "CASSIUS",
+            "And stemming it with hearts of controversy;"
+        ],
+        [
+            "CASSIUS",
+            "But ere we could arrive the point proposed,"
+        ],
+        [
+            "CASSIUS",
+            "Caesar cried 'Help me, Cassius, or I sink!'"
+        ],
+        [
+            "CASSIUS",
+            "I, as Aeneas, our great ancestor,"
+        ],
+        [
+            "CASSIUS",
+            "Did from the flames of Troy upon his shoulder"
+        ],
+        [
+            "CASSIUS",
+            "The old Anchises bear, so from the waves of Tiber"
+        ],
+        [
+            "CASSIUS",
+            "Did I the tired Caesar. And this man"
+        ],
+        [
+            "CASSIUS",
+            "Is now become a god, and Cassius is"
+        ],
+        [
+            "CASSIUS",
+            "A wretched creature and must bend his body,"
+        ],
+        [
+            "CASSIUS",
+            "If Caesar carelessly but nod on him."
+        ],
+        [
+            "CASSIUS",
+            "He had a fever when he was in Spain,"
+        ],
+        [
+            "CASSIUS",
+            "And when the fit was on him, I did mark"
+        ],
+        [
+            "CASSIUS",
+            "How he did shake: 'tis true, this god did shake;"
+        ],
+        [
+            "CASSIUS",
+            "His coward lips did from their colour fly,"
+        ],
+        [
+            "CASSIUS",
+            "And that same eye whose bend doth awe the world"
+        ],
+        [
+            "CASSIUS",
+            "Did lose his lustre: I did hear him groan:"
+        ],
+        [
+            "CASSIUS",
+            "Ay, and that tongue of his that bade the Romans"
+        ],
+        [
+            "CASSIUS",
+            "Mark him and write his speeches in their books,"
+        ],
+        [
+            "CASSIUS",
+            "Alas, it cried 'Give me some drink, Titinius,'"
+        ],
+        [
+            "CASSIUS",
+            "As a sick girl. Ye gods, it doth amaze me"
+        ],
+        [
+            "CASSIUS",
+            "A man of such a feeble temper should"
+        ],
+        [
+            "CASSIUS",
+            "So get the start of the majestic world"
+        ],
+        [
+            "CASSIUS",
+            "And bear the palm alone.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Another general shout!",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "BRUTUS",
+            "I do believe that these applauses are"
+        ],
+        [
+            "BRUTUS",
+            "For some new honours that are heap'd on Caesar."
+        ],
+        [
+            "CASSIUS",
+            "Why, man, he doth bestride the narrow world"
+        ],
+        [
+            "CASSIUS",
+            "Like a Colossus, and we petty men"
+        ],
+        [
+            "CASSIUS",
+            "Walk under his huge legs and peep about"
+        ],
+        [
+            "CASSIUS",
+            "To find ourselves dishonourable graves."
+        ],
+        [
+            "CASSIUS",
+            "Men at some time are masters of their fates:"
+        ],
+        [
+            "CASSIUS",
+            "The fault, dear Brutus, is not in our stars,"
+        ],
+        [
+            "CASSIUS",
+            "But in ourselves, that we are underlings."
+        ],
+        [
+            "CASSIUS",
+            "Brutus and Caesar: what should be in that 'Caesar'?"
+        ],
+        [
+            "CASSIUS",
+            "Why should that name be sounded more than yours?"
+        ],
+        [
+            "CASSIUS",
+            "Write them together, yours is as fair a name;"
+        ],
+        [
+            "CASSIUS",
+            "Sound them, it doth become the mouth as well;"
+        ],
+        [
+            "CASSIUS",
+            "Weigh them, it is as heavy; conjure with 'em,"
+        ],
+        [
+            "CASSIUS",
+            "Brutus will start a spirit as soon as Caesar."
+        ],
+        [
+            "CASSIUS",
+            "Now, in the names of all the gods at once,"
+        ],
+        [
+            "CASSIUS",
+            "Upon what meat doth this our Caesar feed,"
+        ],
+        [
+            "CASSIUS",
+            "That he is grown so great? Age, thou art shamed!"
+        ],
+        [
+            "CASSIUS",
+            "Rome, thou hast lost the breed of noble bloods!"
+        ],
+        [
+            "CASSIUS",
+            "When went there by an age, since the great flood,"
+        ],
+        [
+            "CASSIUS",
+            "But it was famed with more than with one man?"
+        ],
+        [
+            "CASSIUS",
+            "When could they say till now, that talk'd of Rome,"
+        ],
+        [
+            "CASSIUS",
+            "That her wide walls encompass'd but one man?"
+        ],
+        [
+            "CASSIUS",
+            "Now is it Rome indeed and room enough,"
+        ],
+        [
+            "CASSIUS",
+            "When there is in it but one only man."
+        ],
+        [
+            "CASSIUS",
+            "O, you and I have heard our fathers say,"
+        ],
+        [
+            "CASSIUS",
+            "There was a Brutus once that would have brook'd"
+        ],
+        [
+            "CASSIUS",
+            "The eternal devil to keep his state in Rome"
+        ],
+        [
+            "CASSIUS",
+            "As easily as a king."
+        ],
+        [
+            "BRUTUS",
+            "That you do love me, I am nothing jealous;"
+        ],
+        [
+            "BRUTUS",
+            "What you would work me to, I have some aim:"
+        ],
+        [
+            "BRUTUS",
+            "How I have thought of this and of these times,"
+        ],
+        [
+            "BRUTUS",
+            "I shall recount hereafter; for this present,"
+        ],
+        [
+            "BRUTUS",
+            "I would not, so with love I might entreat you,"
+        ],
+        [
+            "BRUTUS",
+            "Be any further moved. What you have said"
+        ],
+        [
+            "BRUTUS",
+            "I will consider; what you have to say"
+        ],
+        [
+            "BRUTUS",
+            "I will with patience hear, and find a time"
+        ],
+        [
+            "BRUTUS",
+            "Both meet to hear and answer such high things."
+        ],
+        [
+            "BRUTUS",
+            "Till then, my noble friend, chew upon this:"
+        ],
+        [
+            "BRUTUS",
+            "Brutus had rather be a villager"
+        ],
+        [
+            "BRUTUS",
+            "Than to repute himself a son of Rome"
+        ],
+        [
+            "BRUTUS",
+            "Under these hard conditions as this time"
+        ],
+        [
+            "BRUTUS",
+            "Is like to lay upon us."
+        ],
+        [
+            "CASSIUS",
+            "I am glad that my weak words"
+        ],
+        [
+            "CASSIUS",
+            "Have struck but thus much show of fire from Brutus."
+        ],
+        [
+            "BRUTUS",
+            "The games are done and Caesar is returning."
+        ],
+        [
+            "CASSIUS",
+            "As they pass by, pluck Casca by the sleeve;"
+        ],
+        [
+            "CASSIUS",
+            "And he will, after his sour fashion, tell you"
+        ],
+        [
+            "CASSIUS",
+            "What hath proceeded worthy note to-day.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "BRUTUS",
+            "I will do so. But, look you, Cassius,",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "BRUTUS",
+            "The angry spot doth glow on Caesar's brow,"
+        ],
+        [
+            "BRUTUS",
+            "And all the rest look like a chidden train:"
+        ],
+        [
+            "BRUTUS",
+            "Calpurnia's cheek is pale; and Cicero"
+        ],
+        [
+            "BRUTUS",
+            "Looks with such ferret and such fiery eyes"
+        ],
+        [
+            "BRUTUS",
+            "As we have seen him in the Capitol,"
+        ],
+        [
+            "BRUTUS",
+            "Being cross'd in conference by some senators."
+        ],
+        [
+            "CASSIUS",
+            "Casca will tell us what the matter is."
+        ],
+        [
+            "CAESAR",
+            "Antonius!"
+        ],
+        [
+            "ANTONY",
+            "Caesar?"
+        ],
+        [
+            "CAESAR",
+            "Let me have men about me that are fat;"
+        ],
+        [
+            "CAESAR",
+            "Sleek-headed men and such as sleep o' nights:"
+        ],
+        [
+            "CAESAR",
+            "Yond Cassius has a lean and hungry look;"
+        ],
+        [
+            "CAESAR",
+            "He thinks too much: such men are dangerous."
+        ],
+        [
+            "ANTONY",
+            "Fear him not, Caesar; he's not dangerous;"
+        ],
+        [
+            "ANTONY",
+            "He is a noble Roman and well given."
+        ],
+        [
+            "CAESAR",
+            "Would he were fatter! But I fear him not:"
+        ],
+        [
+            "CAESAR",
+            "Yet if my name were liable to fear,"
+        ],
+        [
+            "CAESAR",
+            "I do not know the man I should avoid"
+        ],
+        [
+            "CAESAR",
+            "So soon as that spare Cassius. He reads much;"
+        ],
+        [
+            "CAESAR",
+            "He is a great observer and he looks"
+        ],
+        [
+            "CAESAR",
+            "Quite through the deeds of men: he loves no plays,"
+        ],
+        [
+            "CAESAR",
+            "As thou dost, Antony; he hears no music;"
+        ],
+        [
+            "CAESAR",
+            "Seldom he smiles, and smiles in such a sort"
+        ],
+        [
+            "CAESAR",
+            "As if he mock'd himself and scorn'd his spirit"
+        ],
+        [
+            "CAESAR",
+            "That could be moved to smile at any thing."
+        ],
+        [
+            "CAESAR",
+            "Such men as he be never at heart's ease"
+        ],
+        [
+            "CAESAR",
+            "Whiles they behold a greater than themselves,"
+        ],
+        [
+            "CAESAR",
+            "And therefore are they very dangerous."
+        ],
+        [
+            "CAESAR",
+            "I rather tell thee what is to be fear'd"
+        ],
+        [
+            "CAESAR",
+            "Than what I fear; for always I am Caesar."
+        ],
+        [
+            "CAESAR",
+            "Come on my right hand, for this ear is deaf,"
+        ],
+        [
+            "CAESAR",
+            "And tell me truly what thou think'st of him.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "CASCA",
+            "You pull'd me by the cloak; would you speak with me?",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Ay, Casca; tell us what hath chanced to-day,"
+        ],
+        [
+            "BRUTUS",
+            "That Caesar looks so sad."
+        ],
+        [
+            "CASCA",
+            "Why, you were with him, were you not?"
+        ],
+        [
+            "BRUTUS",
+            "I should not then ask Casca what had chanced."
+        ],
+        [
+            "CASCA",
+            "Why, there was a crown offered him: and being"
+        ],
+        [
+            "CASCA",
+            "offered him, he put it by with the back of his hand,"
+        ],
+        [
+            "CASCA",
+            "thus; and then the people fell a-shouting."
+        ],
+        [
+            "BRUTUS",
+            "What was the second noise for?"
+        ],
+        [
+            "CASCA",
+            "Why, for that too."
+        ],
+        [
+            "CASSIUS",
+            "They shouted thrice: what was the last cry for?"
+        ],
+        [
+            "CASCA",
+            "Why, for that too."
+        ],
+        [
+            "BRUTUS",
+            "Was the crown offered him thrice?"
+        ],
+        [
+            "CASCA",
+            "Ay, marry, was't, and he put it by thrice, every"
+        ],
+        [
+            "CASCA",
+            "time gentler than other, and at every putting-by"
+        ],
+        [
+            "CASCA",
+            "mine honest neighbours shouted."
+        ],
+        [
+            "CASSIUS",
+            "Who offered him the crown?"
+        ],
+        [
+            "CASCA",
+            "Why, Antony."
+        ],
+        [
+            "BRUTUS",
+            "Tell us the manner of it, gentle Casca."
+        ],
+        [
+            "CASCA",
+            "I can as well be hanged as tell the manner of it:"
+        ],
+        [
+            "CASCA",
+            "it was mere foolery; I did not mark it. I saw Mark"
+        ],
+        [
+            "CASCA",
+            "Antony offer him a crown;--yet 'twas not a crown"
+        ],
+        [
+            "CASCA",
+            "neither, 'twas one of these coronets;--and, as I told"
+        ],
+        [
+            "CASCA",
+            "you, he put it by once: but, for all that, to my"
+        ],
+        [
+            "CASCA",
+            "thinking, he would fain have had it. Then he"
+        ],
+        [
+            "CASCA",
+            "offered it to him again; then he put it by again:"
+        ],
+        [
+            "CASCA",
+            "but, to my thinking, he was very loath to lay his"
+        ],
+        [
+            "CASCA",
+            "fingers off it. And then he offered it the third"
+        ],
+        [
+            "CASCA",
+            "time; he put it the third time by: and still as he"
+        ],
+        [
+            "CASCA",
+            "refused it, the rabblement hooted and clapped their"
+        ],
+        [
+            "CASCA",
+            "chapped hands and threw up their sweaty night-caps"
+        ],
+        [
+            "CASCA",
+            "and uttered such a deal of stinking breath because"
+        ],
+        [
+            "CASCA",
+            "Caesar refused the crown that it had almost choked"
+        ],
+        [
+            "CASCA",
+            "Caesar; for he swounded and fell down at it: and"
+        ],
+        [
+            "CASCA",
+            "for mine own part, I durst not laugh, for fear of"
+        ],
+        [
+            "CASCA",
+            "opening my lips and receiving the bad air."
+        ],
+        [
+            "CASSIUS",
+            "But, soft, I pray you: what, did Caesar swound?"
+        ],
+        [
+            "CASCA",
+            "He fell down in the market-place, and foamed at"
+        ],
+        [
+            "CASCA",
+            "mouth, and was speechless."
+        ],
+        [
+            "BRUTUS",
+            "'Tis very like: he hath the failing sickness."
+        ],
+        [
+            "CASSIUS",
+            "No, Caesar hath it not; but you and I,"
+        ],
+        [
+            "CASSIUS",
+            "And honest Casca, we have the falling sickness."
+        ],
+        [
+            "CASCA",
+            "I know not what you mean by that; but, I am sure,"
+        ],
+        [
+            "CASCA",
+            "Caesar fell down. If the tag-rag people did not"
+        ],
+        [
+            "CASCA",
+            "clap him and hiss him, according as he pleased and"
+        ],
+        [
+            "CASCA",
+            "displeased them, as they use to do the players in"
+        ],
+        [
+            "CASCA",
+            "the theatre, I am no true man."
+        ],
+        [
+            "BRUTUS",
+            "What said he when he came unto himself?"
+        ],
+        [
+            "CASCA",
+            "Marry, before he fell down, when he perceived the"
+        ],
+        [
+            "CASCA",
+            "common herd was glad he refused the crown, he"
+        ],
+        [
+            "CASCA",
+            "plucked me ope his doublet and offered them his"
+        ],
+        [
+            "CASCA",
+            "throat to cut. An I had been a man of any"
+        ],
+        [
+            "CASCA",
+            "occupation, if I would not have taken him at a word,"
+        ],
+        [
+            "CASCA",
+            "I would I might go to hell among the rogues. And so"
+        ],
+        [
+            "CASCA",
+            "he fell. When he came to himself again, he said,"
+        ],
+        [
+            "CASCA",
+            "If he had done or said any thing amiss, he desired"
+        ],
+        [
+            "CASCA",
+            "their worships to think it was his infirmity. Three"
+        ],
+        [
+            "CASCA",
+            "or four wenches, where I stood, cried 'Alas, good"
+        ],
+        [
+            "CASCA",
+            "soul!' and forgave him with all their hearts: but"
+        ],
+        [
+            "CASCA",
+            "there's no heed to be taken of them; if Caesar had"
+        ],
+        [
+            "CASCA",
+            "stabbed their mothers, they would have done no less."
+        ],
+        [
+            "BRUTUS",
+            "And after that, he came, thus sad, away?"
+        ],
+        [
+            "CASCA",
+            "Ay."
+        ],
+        [
+            "CASSIUS",
+            "Did Cicero say any thing?"
+        ],
+        [
+            "CASCA",
+            "Ay, he spoke Greek."
+        ],
+        [
+            "CASSIUS",
+            "To what effect?"
+        ],
+        [
+            "CASCA",
+            "Nay, an I tell you that, Ill ne'er look you i' the"
+        ],
+        [
+            "CASCA",
+            "face again: but those that understood him smiled at"
+        ],
+        [
+            "CASCA",
+            "one another and shook their heads; but, for mine own"
+        ],
+        [
+            "CASCA",
+            "part, it was Greek to me. I could tell you more"
+        ],
+        [
+            "CASCA",
+            "news too: Marullus and Flavius, for pulling scarfs"
+        ],
+        [
+            "CASCA",
+            "off Caesar's images, are put to silence. Fare you"
+        ],
+        [
+            "CASCA",
+            "well. There was more foolery yet, if I could"
+        ],
+        [
+            "CASCA",
+            "remember it."
+        ],
+        [
+            "CASSIUS",
+            "Will you sup with me to-night, Casca?"
+        ],
+        [
+            "CASCA",
+            "No, I am promised forth."
+        ],
+        [
+            "CASSIUS",
+            "Will you dine with me to-morrow?"
+        ],
+        [
+            "CASCA",
+            "Ay, if I be alive and your mind hold and your dinner"
+        ],
+        [
+            "CASCA",
+            "worth the eating."
+        ],
+        [
+            "CASSIUS",
+            "Good: I will expect you."
+        ],
+        [
+            "CASCA",
+            "Do so. Farewell, both.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "BRUTUS",
+            "What a blunt fellow is this grown to be!",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "BRUTUS",
+            "He was quick mettle when he went to school."
+        ],
+        [
+            "CASSIUS",
+            "So is he now in execution"
+        ],
+        [
+            "CASSIUS",
+            "Of any bold or noble enterprise,"
+        ],
+        [
+            "CASSIUS",
+            "However he puts on this tardy form."
+        ],
+        [
+            "CASSIUS",
+            "This rudeness is a sauce to his good wit,"
+        ],
+        [
+            "CASSIUS",
+            "Which gives men stomach to digest his words"
+        ],
+        [
+            "CASSIUS",
+            "With better appetite."
+        ],
+        [
+            "BRUTUS",
+            "And so it is. For this time I will leave you:"
+        ],
+        [
+            "BRUTUS",
+            "To-morrow, if you please to speak with me,"
+        ],
+        [
+            "BRUTUS",
+            "I will come home to you; or, if you will,"
+        ],
+        [
+            "BRUTUS",
+            "Come home to me, and I will wait for you."
+        ],
+        [
+            "CASSIUS",
+            "I will do so: till then, think of the world.",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "CASSIUS",
+            "Well, Brutus, thou art noble; yet, I see,",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "CASSIUS",
+            "Thy honourable metal may be wrought"
+        ],
+        [
+            "CASSIUS",
+            "From that it is disposed: therefore it is meet"
+        ],
+        [
+            "CASSIUS",
+            "That noble minds keep ever with their likes;"
+        ],
+        [
+            "CASSIUS",
+            "For who so firm that cannot be seduced?"
+        ],
+        [
+            "CASSIUS",
+            "Caesar doth bear me hard; but he loves Brutus:"
+        ],
+        [
+            "CASSIUS",
+            "If I were Brutus now and he were Cassius,"
+        ],
+        [
+            "CASSIUS",
+            "He should not humour me. I will this night,"
+        ],
+        [
+            "CASSIUS",
+            "In several hands, in at his windows throw,"
+        ],
+        [
+            "CASSIUS",
+            "As if they came from several citizens,"
+        ],
+        [
+            "CASSIUS",
+            "Writings all tending to the great opinion"
+        ],
+        [
+            "CASSIUS",
+            "That Rome holds of his name; wherein obscurely"
+        ],
+        [
+            "CASSIUS",
+            "Caesar's ambition shall be glanced at:"
+        ],
+        [
+            "CASSIUS",
+            "And after this let Caesar seat him sure;"
+        ],
+        [
+            "CASSIUS",
+            "For we will shake him, or worse days endure.",
+            {
+                "following_direction_line": "10"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Flourish. Enter CAESAR; ANTONY, for the course; CALPURNIA, PORTIA, DECIUS BRUTUS, CICERO, BRUTUS, CASSIUS, and CASCA; a great crowd following, among them a Soothsayer"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Flourish"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Sennet. Exeunt all except BRUTUS and CASSIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Flourish, and shout"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Shout. Flourish"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Re-enter CAESAR and his Train"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Sennet. Exeunt CAESAR and all his Train, but CASCA"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Exit BRUTUS"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "CAESAR": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "3"
+            ],
+            [
+                "5",
+                "6"
+            ],
+            [
+                "8",
+                "11"
+            ],
+            [
+                "14",
+                "14"
+            ],
+            [
+                "16",
+                "16"
+            ],
+            [
+                "18",
+                "20"
+            ],
+            [
+                "22",
+                "22"
+            ],
+            [
+                "24",
+                "24"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "28",
+                "28"
+            ],
+            [
+                "196",
+                "196"
+            ],
+            [
+                "198",
+                "201"
+            ],
+            [
+                "204",
+                "220"
+            ]
+        ],
+        "CASCA": [
+            [
+                "2",
+                "2"
+            ],
+            [
+                "17",
+                "17"
+            ],
+            [
+                "221",
+                "221"
+            ],
+            [
+                "224",
+                "224"
+            ],
+            [
+                "226",
+                "228"
+            ],
+            [
+                "230",
+                "230"
+            ],
+            [
+                "232",
+                "232"
+            ],
+            [
+                "234",
+                "236"
+            ],
+            [
+                "238",
+                "238"
+            ],
+            [
+                "240",
+                "256"
+            ],
+            [
+                "258",
+                "259"
+            ],
+            [
+                "263",
+                "267"
+            ],
+            [
+                "269",
+                "281"
+            ],
+            [
+                "283",
+                "283"
+            ],
+            [
+                "285",
+                "285"
+            ],
+            [
+                "287",
+                "294"
+            ],
+            [
+                "296",
+                "296"
+            ],
+            [
+                "298",
+                "299"
+            ],
+            [
+                "301",
+                "301"
+            ]
+        ],
+        "CALPURNIA": [
+            [
+                "4",
+                "4"
+            ]
+        ],
+        "ANTONY": [
+            [
+                "7",
+                "7"
+            ],
+            [
+                "12",
+                "13"
+            ],
+            [
+                "197",
+                "197"
+            ],
+            [
+                "202",
+                "203"
+            ]
+        ],
+        "Soothsayer": [
+            [
+                "15",
+                "15"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "27",
+                "27"
+            ]
+        ],
+        "BRUTUS": [
+            [
+                "23",
+                "23"
+            ],
+            [
+                "30",
+                "30"
+            ],
+            [
+                "32",
+                "35"
+            ],
+            [
+                "41",
+                "52"
+            ],
+            [
+                "57",
+                "58"
+            ],
+            [
+                "68",
+                "70"
+            ],
+            [
+                "84",
+                "85"
+            ],
+            [
+                "88",
+                "95"
+            ],
+            [
+                "138",
+                "140"
+            ],
+            [
+                "168",
+                "181"
+            ],
+            [
+                "184",
+                "184"
+            ],
+            [
+                "188",
+                "194"
+            ],
+            [
+                "222",
+                "223"
+            ],
+            [
+                "225",
+                "225"
+            ],
+            [
+                "229",
+                "229"
+            ],
+            [
+                "233",
+                "233"
+            ],
+            [
+                "239",
+                "239"
+            ],
+            [
+                "260",
+                "260"
+            ],
+            [
+                "268",
+                "268"
+            ],
+            [
+                "282",
+                "282"
+            ],
+            [
+                "302",
+                "303"
+            ],
+            [
+                "310",
+                "313"
+            ]
+        ],
+        "CASSIUS": [
+            [
+                "25",
+                "25"
+            ],
+            [
+                "29",
+                "29"
+            ],
+            [
+                "31",
+                "31"
+            ],
+            [
+                "36",
+                "40"
+            ],
+            [
+                "53",
+                "56"
+            ],
+            [
+                "59",
+                "67"
+            ],
+            [
+                "71",
+                "83"
+            ],
+            [
+                "86",
+                "87"
+            ],
+            [
+                "96",
+                "137"
+            ],
+            [
+                "141",
+                "167"
+            ],
+            [
+                "182",
+                "183"
+            ],
+            [
+                "185",
+                "187"
+            ],
+            [
+                "195",
+                "195"
+            ],
+            [
+                "231",
+                "231"
+            ],
+            [
+                "237",
+                "237"
+            ],
+            [
+                "257",
+                "257"
+            ],
+            [
+                "261",
+                "262"
+            ],
+            [
+                "284",
+                "284"
+            ],
+            [
+                "286",
+                "286"
+            ],
+            [
+                "295",
+                "295"
+            ],
+            [
+                "297",
+                "297"
+            ],
+            [
+                "300",
+                "300"
+            ],
+            [
+                "304",
+                "309"
+            ],
+            [
+                "314",
+                "329"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "A public place."
+}

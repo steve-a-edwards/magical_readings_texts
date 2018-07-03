@@ -1,0 +1,802 @@
+{
+    "scene_id": "julius caesar~~Act_2~~Scene_2",
+    "work_number": "11",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "CAESAR",
+            "Nor heaven nor earth have been at peace to-night:",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "CAESAR",
+            "Thrice hath Calpurnia in her sleep cried out,"
+        ],
+        [
+            "CAESAR",
+            "'Help, ho! they murder Caesar!' Who's within?",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "Servant",
+            "My lord?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "CAESAR",
+            "Go bid the priests do present sacrifice"
+        ],
+        [
+            "CAESAR",
+            "And bring me their opinions of success."
+        ],
+        [
+            "Servant",
+            "I will, my lord.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "CALPURNIA",
+            "What mean you, Caesar? think you to walk forth?",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "CALPURNIA",
+            "You shall not stir out of your house to-day."
+        ],
+        [
+            "CAESAR",
+            "Caesar shall forth: the things that threaten'd me"
+        ],
+        [
+            "CAESAR",
+            "Ne'er look'd but on my back; when they shall see"
+        ],
+        [
+            "CAESAR",
+            "The face of Caesar, they are vanished."
+        ],
+        [
+            "CALPURNIA",
+            "Caesar, I never stood on ceremonies,"
+        ],
+        [
+            "CALPURNIA",
+            "Yet now they fright me. There is one within,"
+        ],
+        [
+            "CALPURNIA",
+            "Besides the things that we have heard and seen,"
+        ],
+        [
+            "CALPURNIA",
+            "Recounts most horrid sights seen by the watch."
+        ],
+        [
+            "CALPURNIA",
+            "A lioness hath whelped in the streets;"
+        ],
+        [
+            "CALPURNIA",
+            "And graves have yawn'd, and yielded up their dead;"
+        ],
+        [
+            "CALPURNIA",
+            "Fierce fiery warriors fought upon the clouds,"
+        ],
+        [
+            "CALPURNIA",
+            "In ranks and squadrons and right form of war,"
+        ],
+        [
+            "CALPURNIA",
+            "Which drizzled blood upon the Capitol;"
+        ],
+        [
+            "CALPURNIA",
+            "The noise of battle hurtled in the air,"
+        ],
+        [
+            "CALPURNIA",
+            "Horses did neigh, and dying men did groan,"
+        ],
+        [
+            "CALPURNIA",
+            "And ghosts did shriek and squeal about the streets."
+        ],
+        [
+            "CALPURNIA",
+            "O Caesar! these things are beyond all use,"
+        ],
+        [
+            "CALPURNIA",
+            "And I do fear them."
+        ],
+        [
+            "CAESAR",
+            "What can be avoided"
+        ],
+        [
+            "CAESAR",
+            "Whose end is purposed by the mighty gods?"
+        ],
+        [
+            "CAESAR",
+            "Yet Caesar shall go forth; for these predictions"
+        ],
+        [
+            "CAESAR",
+            "Are to the world in general as to Caesar."
+        ],
+        [
+            "CALPURNIA",
+            "When beggars die, there are no comets seen;"
+        ],
+        [
+            "CALPURNIA",
+            "The heavens themselves blaze forth the death of princes."
+        ],
+        [
+            "CAESAR",
+            "Cowards die many times before their deaths;"
+        ],
+        [
+            "CAESAR",
+            "The valiant never taste of death but once."
+        ],
+        [
+            "CAESAR",
+            "Of all the wonders that I yet have heard."
+        ],
+        [
+            "CAESAR",
+            "It seems to me most strange that men should fear;"
+        ],
+        [
+            "CAESAR",
+            "Seeing that death, a necessary end,"
+        ],
+        [
+            "CAESAR",
+            "Will come when it will come.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "CAESAR",
+            "What say the augurers?",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "Servant",
+            "They would not have you to stir forth to-day."
+        ],
+        [
+            "Servant",
+            "Plucking the entrails of an offering forth,"
+        ],
+        [
+            "Servant",
+            "They could not find a heart within the beast."
+        ],
+        [
+            "CAESAR",
+            "The gods do this in shame of cowardice:"
+        ],
+        [
+            "CAESAR",
+            "Caesar should be a beast without a heart,"
+        ],
+        [
+            "CAESAR",
+            "If he should stay at home to-day for fear."
+        ],
+        [
+            "CAESAR",
+            "No, Caesar shall not: danger knows full well"
+        ],
+        [
+            "CAESAR",
+            "That Caesar is more dangerous than he:"
+        ],
+        [
+            "CAESAR",
+            "We are two lions litter'd in one day,"
+        ],
+        [
+            "CAESAR",
+            "And I the elder and more terrible:"
+        ],
+        [
+            "CAESAR",
+            "And Caesar shall go forth."
+        ],
+        [
+            "CALPURNIA",
+            "Alas, my lord,"
+        ],
+        [
+            "CALPURNIA",
+            "Your wisdom is consumed in confidence."
+        ],
+        [
+            "CALPURNIA",
+            "Do not go forth to-day: call it my fear"
+        ],
+        [
+            "CALPURNIA",
+            "That keeps you in the house, and not your own."
+        ],
+        [
+            "CALPURNIA",
+            "We'll send Mark Antony to the senate-house:"
+        ],
+        [
+            "CALPURNIA",
+            "And he shall say you are not well to-day:"
+        ],
+        [
+            "CALPURNIA",
+            "Let me, upon my knee, prevail in this."
+        ],
+        [
+            "CAESAR",
+            "Mark Antony shall say I am not well,"
+        ],
+        [
+            "CAESAR",
+            "And, for thy humour, I will stay at home.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "CAESAR",
+            "Here's Decius Brutus, he shall tell them so.",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "DECIUS BRUTUS",
+            "Caesar, all hail! good morrow, worthy Caesar:"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "I come to fetch you to the senate-house."
+        ],
+        [
+            "CAESAR",
+            "And you are come in very happy time,"
+        ],
+        [
+            "CAESAR",
+            "To bear my greeting to the senators"
+        ],
+        [
+            "CAESAR",
+            "And tell them that I will not come to-day:"
+        ],
+        [
+            "CAESAR",
+            "Cannot, is false, and that I dare not, falser:"
+        ],
+        [
+            "CAESAR",
+            "I will not come to-day: tell them so, Decius."
+        ],
+        [
+            "CALPURNIA",
+            "Say he is sick."
+        ],
+        [
+            "CAESAR",
+            "Shall Caesar send a lie?"
+        ],
+        [
+            "CAESAR",
+            "Have I in conquest stretch'd mine arm so far,"
+        ],
+        [
+            "CAESAR",
+            "To be afraid to tell graybeards the truth?"
+        ],
+        [
+            "CAESAR",
+            "Decius, go tell them Caesar will not come."
+        ],
+        [
+            "DECIUS BRUTUS",
+            "Most mighty Caesar, let me know some cause,"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "Lest I be laugh'd at when I tell them so."
+        ],
+        [
+            "CAESAR",
+            "The cause is in my will: I will not come;"
+        ],
+        [
+            "CAESAR",
+            "That is enough to satisfy the senate."
+        ],
+        [
+            "CAESAR",
+            "But for your private satisfaction,"
+        ],
+        [
+            "CAESAR",
+            "Because I love you, I will let you know:"
+        ],
+        [
+            "CAESAR",
+            "Calpurnia here, my wife, stays me at home:"
+        ],
+        [
+            "CAESAR",
+            "She dreamt to-night she saw my statua,"
+        ],
+        [
+            "CAESAR",
+            "Which, like a fountain with an hundred spouts,"
+        ],
+        [
+            "CAESAR",
+            "Did run pure blood: and many lusty Romans"
+        ],
+        [
+            "CAESAR",
+            "Came smiling, and did bathe their hands in it:"
+        ],
+        [
+            "CAESAR",
+            "And these does she apply for warnings, and portents,"
+        ],
+        [
+            "CAESAR",
+            "And evils imminent; and on her knee"
+        ],
+        [
+            "CAESAR",
+            "Hath begg'd that I will stay at home to-day."
+        ],
+        [
+            "DECIUS BRUTUS",
+            "This dream is all amiss interpreted;"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "It was a vision fair and fortunate:"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "Your statue spouting blood in many pipes,"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "In which so many smiling Romans bathed,"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "Signifies that from you great Rome shall suck"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "Reviving blood, and that great men shall press"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "For tinctures, stains, relics and cognizance."
+        ],
+        [
+            "DECIUS BRUTUS",
+            "This by Calpurnia's dream is signified."
+        ],
+        [
+            "CAESAR",
+            "And this way have you well expounded it."
+        ],
+        [
+            "DECIUS BRUTUS",
+            "I have, when you have heard what I can say:"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "And know it now: the senate have concluded"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "To give this day a crown to mighty Caesar."
+        ],
+        [
+            "DECIUS BRUTUS",
+            "If you shall send them word you will not come,"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "Their minds may change. Besides, it were a mock"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "Apt to be render'd, for some one to say"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "'Break up the senate till another time,"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "When Caesar's wife shall meet with better dreams.'"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "If Caesar hide himself, shall they not whisper"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "'Lo, Caesar is afraid'?"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "Pardon me, Caesar; for my dear dear love"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "To our proceeding bids me tell you this;"
+        ],
+        [
+            "DECIUS BRUTUS",
+            "And reason to my love is liable."
+        ],
+        [
+            "CAESAR",
+            "How foolish do your fears seem now, Calpurnia!"
+        ],
+        [
+            "CAESAR",
+            "I am ashamed I did yield to them."
+        ],
+        [
+            "CAESAR",
+            "Give me my robe, for I will go.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "CAESAR",
+            "And look where Publius is come to fetch me.",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "PUBLIUS",
+            "Good morrow, Caesar."
+        ],
+        [
+            "CAESAR",
+            "Welcome, Publius."
+        ],
+        [
+            "CAESAR",
+            "What, Brutus, are you stirr'd so early too?"
+        ],
+        [
+            "CAESAR",
+            "Good morrow, Casca. Caius Ligarius,"
+        ],
+        [
+            "CAESAR",
+            "Caesar was ne'er so much your enemy"
+        ],
+        [
+            "CAESAR",
+            "As that same ague which hath made you lean."
+        ],
+        [
+            "CAESAR",
+            "What is 't o'clock?"
+        ],
+        [
+            "BRUTUS",
+            "Caesar, 'tis strucken eight."
+        ],
+        [
+            "CAESAR",
+            "I thank you for your pains and courtesy.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "CAESAR",
+            "See! Antony, that revels long o' nights,",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "CAESAR",
+            "Is notwithstanding up. Good morrow, Antony."
+        ],
+        [
+            "ANTONY",
+            "So to most noble Caesar."
+        ],
+        [
+            "CAESAR",
+            "Bid them prepare within:"
+        ],
+        [
+            "CAESAR",
+            "I am to blame to be thus waited for."
+        ],
+        [
+            "CAESAR",
+            "Now, Cinna: now, Metellus: what, Trebonius!"
+        ],
+        [
+            "CAESAR",
+            "I have an hour's talk in store for you;"
+        ],
+        [
+            "CAESAR",
+            "Remember that you call on me to-day:"
+        ],
+        [
+            "CAESAR",
+            "Be near me, that I may remember you."
+        ],
+        [
+            "TREBONIUS",
+            "Caesar, I will:",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "TREBONIUS",
+            "and so near will I be,",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "TREBONIUS",
+            "That your best friends shall wish I had been further."
+        ],
+        [
+            "CAESAR",
+            "Good friends, go in, and taste some wine with me;"
+        ],
+        [
+            "CAESAR",
+            "And we, like friends, will straightway go together."
+        ],
+        [
+            "BRUTUS",
+            "[Aside] That every like is not the same, O Caesar,"
+        ],
+        [
+            "BRUTUS",
+            "The heart of Brutus yearns to think upon!",
+            {
+                "following_direction_line": "9"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Thunder and lightning. Enter CAESAR, in his night-gown"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter a Servant"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit. Enter CALPURNIA"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Re-enter Servant"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Enter DECIUS BRUTUS"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Enter PUBLIUS, BRUTUS, LIGARIUS, METELLUS, CASCA, TREBONIUS, and CINNA"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Enter ANTONY"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Aside"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "CAESAR": [
+            [
+                "1",
+                "3"
+            ],
+            [
+                "5",
+                "6"
+            ],
+            [
+                "10",
+                "12"
+            ],
+            [
+                "27",
+                "30"
+            ],
+            [
+                "33",
+                "39"
+            ],
+            [
+                "43",
+                "50"
+            ],
+            [
+                "58",
+                "60"
+            ],
+            [
+                "63",
+                "67"
+            ],
+            [
+                "69",
+                "72"
+            ],
+            [
+                "75",
+                "86"
+            ],
+            [
+                "95",
+                "95"
+            ],
+            [
+                "109",
+                "112"
+            ],
+            [
+                "114",
+                "119"
+            ],
+            [
+                "121",
+                "123"
+            ],
+            [
+                "125",
+                "130"
+            ],
+            [
+                "134",
+                "135"
+            ]
+        ],
+        "Servant": [
+            [
+                "4",
+                "4"
+            ],
+            [
+                "7",
+                "7"
+            ],
+            [
+                "40",
+                "42"
+            ]
+        ],
+        "CALPURNIA": [
+            [
+                "8",
+                "9"
+            ],
+            [
+                "13",
+                "26"
+            ],
+            [
+                "31",
+                "32"
+            ],
+            [
+                "51",
+                "57"
+            ],
+            [
+                "68",
+                "68"
+            ]
+        ],
+        "DECIUS BRUTUS": [
+            [
+                "61",
+                "62"
+            ],
+            [
+                "73",
+                "74"
+            ],
+            [
+                "87",
+                "94"
+            ],
+            [
+                "96",
+                "108"
+            ]
+        ],
+        "PUBLIUS": [
+            [
+                "113",
+                "113"
+            ]
+        ],
+        "BRUTUS": [
+            [
+                "120",
+                "120"
+            ],
+            [
+                "136",
+                "137"
+            ]
+        ],
+        "ANTONY": [
+            [
+                "124",
+                "124"
+            ]
+        ],
+        "TREBONIUS": [
+            [
+                "131",
+                "133"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "CAESAR's house."
+}

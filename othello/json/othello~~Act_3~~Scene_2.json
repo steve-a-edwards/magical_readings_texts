@@ -1,0 +1,79 @@
+{
+    "scene_id": "othello~~Act_3~~Scene_2",
+    "work_number": "9",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "OTHELLO",
+            "These letters give, Iago, to the pilot;",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "OTHELLO",
+            "And by him do my duties to the senate:"
+        ],
+        [
+            "OTHELLO",
+            "That done, I will be walking on the works;"
+        ],
+        [
+            "OTHELLO",
+            "Repair there to me."
+        ],
+        [
+            "IAGO",
+            "Well, my good lord, I'll do't."
+        ],
+        [
+            "OTHELLO",
+            "This fortification, gentlemen, shall we see't?"
+        ],
+        [
+            "Gentleman",
+            "We'll wait upon your lordship.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter OTHELLO, IAGO, and Gentlemen"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "OTHELLO": [
+            [
+                "1",
+                "4"
+            ],
+            [
+                "6",
+                "6"
+            ]
+        ],
+        "IAGO": [
+            [
+                "5",
+                "5"
+            ]
+        ],
+        "Gentleman": [
+            [
+                "7",
+                "7"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "A room in the castle."
+}

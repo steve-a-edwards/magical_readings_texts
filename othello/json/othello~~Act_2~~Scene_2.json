@@ -1,0 +1,83 @@
+{
+    "scene_id": "othello~~Act_2~~Scene_2",
+    "work_number": "9",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "Herald",
+            "It is Othello's pleasure, our noble and valiant",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "Herald",
+            "general, that, upon certain tidings now arrived,"
+        ],
+        [
+            "Herald",
+            "importing the mere perdition of the Turkish fleet,"
+        ],
+        [
+            "Herald",
+            "every man put himself into triumph; some to dance,"
+        ],
+        [
+            "Herald",
+            "some to make bonfires, each man to what sport and"
+        ],
+        [
+            "Herald",
+            "revels his addiction leads him: for, besides these"
+        ],
+        [
+            "Herald",
+            "beneficial news, it is the celebration of his"
+        ],
+        [
+            "Herald",
+            "nuptial. So much was his pleasure should be"
+        ],
+        [
+            "Herald",
+            "proclaimed. All offices are open, and there is full"
+        ],
+        [
+            "Herald",
+            "liberty of feasting from this present hour of five"
+        ],
+        [
+            "Herald",
+            "till the bell have told eleven. Heaven bless the"
+        ],
+        [
+            "Herald",
+            "isle of Cyprus and our noble general Othello!",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter a Herald with a proclamation; People following"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "Herald": [
+            [
+                "1",
+                "12"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "A street."
+}

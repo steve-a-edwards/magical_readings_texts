@@ -1,0 +1,913 @@
+{
+    "scene_id": "julius caesar~~Act_1~~Scene_3",
+    "work_number": "11",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "CICERO",
+            "Good even, Casca: brought you Caesar home?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "CICERO",
+            "Why are you breathless? and why stare you so?"
+        ],
+        [
+            "CASCA",
+            "Are not you moved, when all the sway of earth"
+        ],
+        [
+            "CASCA",
+            "Shakes like a thing unfirm? O Cicero,"
+        ],
+        [
+            "CASCA",
+            "I have seen tempests, when the scolding winds"
+        ],
+        [
+            "CASCA",
+            "Have rived the knotty oaks, and I have seen"
+        ],
+        [
+            "CASCA",
+            "The ambitious ocean swell and rage and foam,"
+        ],
+        [
+            "CASCA",
+            "To be exalted with the threatening clouds:"
+        ],
+        [
+            "CASCA",
+            "But never till to-night, never till now,"
+        ],
+        [
+            "CASCA",
+            "Did I go through a tempest dropping fire."
+        ],
+        [
+            "CASCA",
+            "Either there is a civil strife in heaven,"
+        ],
+        [
+            "CASCA",
+            "Or else the world, too saucy with the gods,"
+        ],
+        [
+            "CASCA",
+            "Incenses them to send destruction."
+        ],
+        [
+            "CICERO",
+            "Why, saw you any thing more wonderful?"
+        ],
+        [
+            "CASCA",
+            "A common slave--you know him well by sight--"
+        ],
+        [
+            "CASCA",
+            "Held up his left hand, which did flame and burn"
+        ],
+        [
+            "CASCA",
+            "Like twenty torches join'd, and yet his hand,"
+        ],
+        [
+            "CASCA",
+            "Not sensible of fire, remain'd unscorch'd."
+        ],
+        [
+            "CASCA",
+            "Besides--I ha' not since put up my sword--"
+        ],
+        [
+            "CASCA",
+            "Against the Capitol I met a lion,"
+        ],
+        [
+            "CASCA",
+            "Who glared upon me, and went surly by,"
+        ],
+        [
+            "CASCA",
+            "Without annoying me: and there were drawn"
+        ],
+        [
+            "CASCA",
+            "Upon a heap a hundred ghastly women,"
+        ],
+        [
+            "CASCA",
+            "Transformed with their fear; who swore they saw"
+        ],
+        [
+            "CASCA",
+            "Men all in fire walk up and down the streets."
+        ],
+        [
+            "CASCA",
+            "And yesterday the bird of night did sit"
+        ],
+        [
+            "CASCA",
+            "Even at noon-day upon the market-place,"
+        ],
+        [
+            "CASCA",
+            "Hooting and shrieking. When these prodigies"
+        ],
+        [
+            "CASCA",
+            "Do so conjointly meet, let not men say"
+        ],
+        [
+            "CASCA",
+            "'These are their reasons; they are natural;'"
+        ],
+        [
+            "CASCA",
+            "For, I believe, they are portentous things"
+        ],
+        [
+            "CASCA",
+            "Unto the climate that they point upon."
+        ],
+        [
+            "CICERO",
+            "Indeed, it is a strange-disposed time:"
+        ],
+        [
+            "CICERO",
+            "But men may construe things after their fashion,"
+        ],
+        [
+            "CICERO",
+            "Clean from the purpose of the things themselves."
+        ],
+        [
+            "CICERO",
+            "Come Caesar to the Capitol to-morrow?"
+        ],
+        [
+            "CASCA",
+            "He doth; for he did bid Antonius"
+        ],
+        [
+            "CASCA",
+            "Send word to you he would be there to-morrow."
+        ],
+        [
+            "CICERO",
+            "Good night then, Casca: this disturbed sky"
+        ],
+        [
+            "CICERO",
+            "Is not to walk in."
+        ],
+        [
+            "CASCA",
+            "Farewell, Cicero.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "CASSIUS",
+            "Who's there?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "CASCA",
+            "A Roman."
+        ],
+        [
+            "CASSIUS",
+            "Casca, by your voice."
+        ],
+        [
+            "CASCA",
+            "Your ear is good. Cassius, what night is this!"
+        ],
+        [
+            "CASSIUS",
+            "A very pleasing night to honest men."
+        ],
+        [
+            "CASCA",
+            "Who ever knew the heavens menace so?"
+        ],
+        [
+            "CASSIUS",
+            "Those that have known the earth so full of faults."
+        ],
+        [
+            "CASSIUS",
+            "For my part, I have walk'd about the streets,"
+        ],
+        [
+            "CASSIUS",
+            "Submitting me unto the perilous night,"
+        ],
+        [
+            "CASSIUS",
+            "And, thus unbraced, Casca, as you see,"
+        ],
+        [
+            "CASSIUS",
+            "Have bared my bosom to the thunder-stone;"
+        ],
+        [
+            "CASSIUS",
+            "And when the cross blue lightning seem'd to open"
+        ],
+        [
+            "CASSIUS",
+            "The breast of heaven, I did present myself"
+        ],
+        [
+            "CASSIUS",
+            "Even in the aim and very flash of it."
+        ],
+        [
+            "CASCA",
+            "But wherefore did you so much tempt the heavens?"
+        ],
+        [
+            "CASCA",
+            "It is the part of men to fear and tremble,"
+        ],
+        [
+            "CASCA",
+            "When the most mighty gods by tokens send"
+        ],
+        [
+            "CASCA",
+            "Such dreadful heralds to astonish us."
+        ],
+        [
+            "CASSIUS",
+            "You are dull, Casca, and those sparks of life"
+        ],
+        [
+            "CASSIUS",
+            "That should be in a Roman you do want,"
+        ],
+        [
+            "CASSIUS",
+            "Or else you use not. You look pale and gaze"
+        ],
+        [
+            "CASSIUS",
+            "And put on fear and cast yourself in wonder,"
+        ],
+        [
+            "CASSIUS",
+            "To see the strange impatience of the heavens:"
+        ],
+        [
+            "CASSIUS",
+            "But if you would consider the true cause"
+        ],
+        [
+            "CASSIUS",
+            "Why all these fires, why all these gliding ghosts,"
+        ],
+        [
+            "CASSIUS",
+            "Why birds and beasts from quality and kind,"
+        ],
+        [
+            "CASSIUS",
+            "Why old men fool and children calculate,"
+        ],
+        [
+            "CASSIUS",
+            "Why all these things change from their ordinance"
+        ],
+        [
+            "CASSIUS",
+            "Their natures and preformed faculties"
+        ],
+        [
+            "CASSIUS",
+            "To monstrous quality,--why, you shall find"
+        ],
+        [
+            "CASSIUS",
+            "That heaven hath infused them with these spirits,"
+        ],
+        [
+            "CASSIUS",
+            "To make them instruments of fear and warning"
+        ],
+        [
+            "CASSIUS",
+            "Unto some monstrous state."
+        ],
+        [
+            "CASSIUS",
+            "Now could I, Casca, name to thee a man"
+        ],
+        [
+            "CASSIUS",
+            "Most like this dreadful night,"
+        ],
+        [
+            "CASSIUS",
+            "That thunders, lightens, opens graves, and roars"
+        ],
+        [
+            "CASSIUS",
+            "As doth the lion in the Capitol,"
+        ],
+        [
+            "CASSIUS",
+            "A man no mightier than thyself or me"
+        ],
+        [
+            "CASSIUS",
+            "In personal action, yet prodigious grown"
+        ],
+        [
+            "CASSIUS",
+            "And fearful, as these strange eruptions are."
+        ],
+        [
+            "CASCA",
+            "'Tis Caesar that you mean; is it not, Cassius?"
+        ],
+        [
+            "CASSIUS",
+            "Let it be who it is: for Romans now"
+        ],
+        [
+            "CASSIUS",
+            "Have thews and limbs like to their ancestors;"
+        ],
+        [
+            "CASSIUS",
+            "But, woe the while! our fathers' minds are dead,"
+        ],
+        [
+            "CASSIUS",
+            "And we are govern'd with our mothers' spirits;"
+        ],
+        [
+            "CASSIUS",
+            "Our yoke and sufferance show us womanish."
+        ],
+        [
+            "CASCA",
+            "Indeed, they say the senators tomorrow"
+        ],
+        [
+            "CASCA",
+            "Mean to establish Caesar as a king;"
+        ],
+        [
+            "CASCA",
+            "And he shall wear his crown by sea and land,"
+        ],
+        [
+            "CASCA",
+            "In every place, save here in Italy."
+        ],
+        [
+            "CASSIUS",
+            "I know where I will wear this dagger then;"
+        ],
+        [
+            "CASSIUS",
+            "Cassius from bondage will deliver Cassius:"
+        ],
+        [
+            "CASSIUS",
+            "Therein, ye gods, you make the weak most strong;"
+        ],
+        [
+            "CASSIUS",
+            "Therein, ye gods, you tyrants do defeat:"
+        ],
+        [
+            "CASSIUS",
+            "Nor stony tower, nor walls of beaten brass,"
+        ],
+        [
+            "CASSIUS",
+            "Nor airless dungeon, nor strong links of iron,"
+        ],
+        [
+            "CASSIUS",
+            "Can be retentive to the strength of spirit;"
+        ],
+        [
+            "CASSIUS",
+            "But life, being weary of these worldly bars,"
+        ],
+        [
+            "CASSIUS",
+            "Never lacks power to dismiss itself."
+        ],
+        [
+            "CASSIUS",
+            "If I know this, know all the world besides,"
+        ],
+        [
+            "CASSIUS",
+            "That part of tyranny that I do bear"
+        ],
+        [
+            "CASSIUS",
+            "I can shake off at pleasure.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "CASCA",
+            "So can I:",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "CASCA",
+            "So every bondman in his own hand bears"
+        ],
+        [
+            "CASCA",
+            "The power to cancel his captivity."
+        ],
+        [
+            "CASSIUS",
+            "And why should Caesar be a tyrant then?"
+        ],
+        [
+            "CASSIUS",
+            "Poor man! I know he would not be a wolf,"
+        ],
+        [
+            "CASSIUS",
+            "But that he sees the Romans are but sheep:"
+        ],
+        [
+            "CASSIUS",
+            "He were no lion, were not Romans hinds."
+        ],
+        [
+            "CASSIUS",
+            "Those that with haste will make a mighty fire"
+        ],
+        [
+            "CASSIUS",
+            "Begin it with weak straws: what trash is Rome,"
+        ],
+        [
+            "CASSIUS",
+            "What rubbish and what offal, when it serves"
+        ],
+        [
+            "CASSIUS",
+            "For the base matter to illuminate"
+        ],
+        [
+            "CASSIUS",
+            "So vile a thing as Caesar! But, O grief,"
+        ],
+        [
+            "CASSIUS",
+            "Where hast thou led me? I perhaps speak this"
+        ],
+        [
+            "CASSIUS",
+            "Before a willing bondman; then I know"
+        ],
+        [
+            "CASSIUS",
+            "My answer must be made. But I am arm'd,"
+        ],
+        [
+            "CASSIUS",
+            "And dangers are to me indifferent."
+        ],
+        [
+            "CASCA",
+            "You speak to Casca, and to such a man"
+        ],
+        [
+            "CASCA",
+            "That is no fleering tell-tale. Hold, my hand:"
+        ],
+        [
+            "CASCA",
+            "Be factious for redress of all these griefs,"
+        ],
+        [
+            "CASCA",
+            "And I will set this foot of mine as far"
+        ],
+        [
+            "CASCA",
+            "As who goes farthest."
+        ],
+        [
+            "CASSIUS",
+            "There's a bargain made."
+        ],
+        [
+            "CASSIUS",
+            "Now know you, Casca, I have moved already"
+        ],
+        [
+            "CASSIUS",
+            "Some certain of the noblest-minded Romans"
+        ],
+        [
+            "CASSIUS",
+            "To undergo with me an enterprise"
+        ],
+        [
+            "CASSIUS",
+            "Of honourable-dangerous consequence;"
+        ],
+        [
+            "CASSIUS",
+            "And I do know, by this, they stay for me"
+        ],
+        [
+            "CASSIUS",
+            "In Pompey's porch: for now, this fearful night,"
+        ],
+        [
+            "CASSIUS",
+            "There is no stir or walking in the streets;"
+        ],
+        [
+            "CASSIUS",
+            "And the complexion of the element"
+        ],
+        [
+            "CASSIUS",
+            "In favour's like the work we have in hand,"
+        ],
+        [
+            "CASSIUS",
+            "Most bloody, fiery, and most terrible."
+        ],
+        [
+            "CASCA",
+            "Stand close awhile, for here comes one in haste."
+        ],
+        [
+            "CASSIUS",
+            "'Tis Cinna; I do know him by his gait;"
+        ],
+        [
+            "CASSIUS",
+            "He is a friend.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "CASSIUS",
+            "Cinna, where haste you so?",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "CINNA",
+            "To find out you. Who's that? Metellus Cimber?"
+        ],
+        [
+            "CASSIUS",
+            "No, it is Casca; one incorporate"
+        ],
+        [
+            "CASSIUS",
+            "To our attempts. Am I not stay'd for, Cinna?"
+        ],
+        [
+            "CINNA",
+            "I am glad on 't. What a fearful night is this!"
+        ],
+        [
+            "CINNA",
+            "There's two or three of us have seen strange sights."
+        ],
+        [
+            "CASSIUS",
+            "Am I not stay'd for? tell me."
+        ],
+        [
+            "CINNA",
+            "Yes, you are."
+        ],
+        [
+            "CINNA",
+            "O Cassius, if you could"
+        ],
+        [
+            "CINNA",
+            "But win the noble Brutus to our party--"
+        ],
+        [
+            "CASSIUS",
+            "Be you content: good Cinna, take this paper,"
+        ],
+        [
+            "CASSIUS",
+            "And look you lay it in the praetor's chair,"
+        ],
+        [
+            "CASSIUS",
+            "Where Brutus may but find it; and throw this"
+        ],
+        [
+            "CASSIUS",
+            "In at his window; set this up with wax"
+        ],
+        [
+            "CASSIUS",
+            "Upon old Brutus' statue: all this done,"
+        ],
+        [
+            "CASSIUS",
+            "Repair to Pompey's porch, where you shall find us."
+        ],
+        [
+            "CASSIUS",
+            "Is Decius Brutus and Trebonius there?"
+        ],
+        [
+            "CINNA",
+            "All but Metellus Cimber; and he's gone"
+        ],
+        [
+            "CINNA",
+            "To seek you at your house. Well, I will hie,"
+        ],
+        [
+            "CINNA",
+            "And so bestow these papers as you bade me."
+        ],
+        [
+            "CASSIUS",
+            "That done, repair to Pompey's theatre.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "CASSIUS",
+            "Come, Casca, you and I will yet ere day",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "CASSIUS",
+            "See Brutus at his house: three parts of him"
+        ],
+        [
+            "CASSIUS",
+            "Is ours already, and the man entire"
+        ],
+        [
+            "CASSIUS",
+            "Upon the next encounter yields him ours."
+        ],
+        [
+            "CASCA",
+            "O, he sits high in all the people's hearts:"
+        ],
+        [
+            "CASCA",
+            "And that which would appear offence in us,"
+        ],
+        [
+            "CASCA",
+            "His countenance, like richest alchemy,"
+        ],
+        [
+            "CASCA",
+            "Will change to virtue and to worthiness."
+        ],
+        [
+            "CASSIUS",
+            "Him and his worth and our great need of him"
+        ],
+        [
+            "CASSIUS",
+            "You have right well conceited. Let us go,"
+        ],
+        [
+            "CASSIUS",
+            "For it is after midnight; and ere day"
+        ],
+        [
+            "CASSIUS",
+            "We will awake him and be sure of him.",
+            {
+                "following_direction_line": "6"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Thunder and lightning. Enter from opposite sides, CASCA, with his sword drawn, and CICERO"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit CICERO. Enter CASSIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Thunder still"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter CINNA"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exit CINNA"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "CICERO": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "14",
+                "14"
+            ],
+            [
+                "33",
+                "36"
+            ],
+            [
+                "39",
+                "40"
+            ]
+        ],
+        "CASCA": [
+            [
+                "3",
+                "13"
+            ],
+            [
+                "15",
+                "32"
+            ],
+            [
+                "37",
+                "38"
+            ],
+            [
+                "41",
+                "41"
+            ],
+            [
+                "43",
+                "43"
+            ],
+            [
+                "45",
+                "45"
+            ],
+            [
+                "47",
+                "47"
+            ],
+            [
+                "56",
+                "59"
+            ],
+            [
+                "82",
+                "82"
+            ],
+            [
+                "88",
+                "91"
+            ],
+            [
+                "104",
+                "106"
+            ],
+            [
+                "120",
+                "124"
+            ],
+            [
+                "136",
+                "136"
+            ],
+            [
+                "164",
+                "167"
+            ]
+        ],
+        "CASSIUS": [
+            [
+                "42",
+                "42"
+            ],
+            [
+                "44",
+                "44"
+            ],
+            [
+                "46",
+                "46"
+            ],
+            [
+                "48",
+                "55"
+            ],
+            [
+                "60",
+                "81"
+            ],
+            [
+                "83",
+                "87"
+            ],
+            [
+                "92",
+                "103"
+            ],
+            [
+                "107",
+                "119"
+            ],
+            [
+                "125",
+                "135"
+            ],
+            [
+                "137",
+                "139"
+            ],
+            [
+                "141",
+                "142"
+            ],
+            [
+                "145",
+                "145"
+            ],
+            [
+                "149",
+                "155"
+            ],
+            [
+                "159",
+                "163"
+            ],
+            [
+                "168",
+                "171"
+            ]
+        ],
+        "CINNA": [
+            [
+                "140",
+                "140"
+            ],
+            [
+                "143",
+                "144"
+            ],
+            [
+                "146",
+                "148"
+            ],
+            [
+                "156",
+                "158"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "The same. A street."
+}

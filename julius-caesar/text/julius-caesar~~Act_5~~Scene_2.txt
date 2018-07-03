@@ -1,0 +1,11 @@
+_S_SCENE II. The same. The field of battle.
+_D_Alarum. Enter BRUTUS and MESSALA
+_R_BRUTUS
+Ride, ride, Messala, ride, and give these bills
+Unto the legions on the other side.
+_D_Loud alarum
+Let them set on at once; for I perceive
+But cold demeanor in Octavius' wing,
+And sudden push gives them the overthrow.
+Ride, ride, Messala: let them all come down.
+_D_Exeunt

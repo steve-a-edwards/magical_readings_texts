@@ -1,0 +1,290 @@
+{
+    "scene_id": "julius caesar~~Act_3~~Scene_3",
+    "work_number": "11",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "CINNA THE POET",
+            "I dreamt to-night that I did feast with Caesar,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "CINNA THE POET",
+            "And things unlucky charge my fantasy:"
+        ],
+        [
+            "CINNA THE POET",
+            "I have no will to wander forth of doors,"
+        ],
+        [
+            "CINNA THE POET",
+            "Yet something leads me forth.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "First Citizen",
+            "What is your name?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "Second Citizen",
+            "Whither are you going?"
+        ],
+        [
+            "Third Citizen",
+            "Where do you dwell?"
+        ],
+        [
+            "Fourth Citizen",
+            "Are you a married man or a bachelor?"
+        ],
+        [
+            "Second Citizen",
+            "Answer every man directly."
+        ],
+        [
+            "First Citizen",
+            "Ay, and briefly."
+        ],
+        [
+            "Fourth Citizen",
+            "Ay, and wisely."
+        ],
+        [
+            "Third Citizen",
+            "Ay, and truly, you were best."
+        ],
+        [
+            "CINNA THE POET",
+            "What is my name? Whither am I going? Where do I"
+        ],
+        [
+            "CINNA THE POET",
+            "dwell? Am I a married man or a bachelor? Then, to"
+        ],
+        [
+            "CINNA THE POET",
+            "answer every man directly and briefly, wisely and"
+        ],
+        [
+            "CINNA THE POET",
+            "truly: wisely I say, I am a bachelor."
+        ],
+        [
+            "Second Citizen",
+            "That's as much as to say, they are fools that marry:"
+        ],
+        [
+            "Second Citizen",
+            "you'll bear me a bang for that, I fear. Proceed; directly."
+        ],
+        [
+            "CINNA THE POET",
+            "Directly, I am going to Caesar's funeral."
+        ],
+        [
+            "First Citizen",
+            "As a friend or an enemy?"
+        ],
+        [
+            "CINNA THE POET",
+            "As a friend."
+        ],
+        [
+            "Second Citizen",
+            "That matter is answered directly."
+        ],
+        [
+            "Fourth Citizen",
+            "For your dwelling,--briefly."
+        ],
+        [
+            "CINNA THE POET",
+            "Briefly, I dwell by the Capitol."
+        ],
+        [
+            "Third Citizen",
+            "Your name, sir, truly."
+        ],
+        [
+            "CINNA THE POET",
+            "Truly, my name is Cinna."
+        ],
+        [
+            "First Citizen",
+            "Tear him to pieces; he's a conspirator."
+        ],
+        [
+            "CINNA THE POET",
+            "I am Cinna the poet, I am Cinna the poet."
+        ],
+        [
+            "Fourth Citizen",
+            "Tear him for his bad verses, tear him for his bad verses."
+        ],
+        [
+            "CINNA THE POET",
+            "I am not Cinna the conspirator."
+        ],
+        [
+            "Fourth Citizen",
+            "It is no matter, his name's Cinna; pluck but his"
+        ],
+        [
+            "Fourth Citizen",
+            "name out of his heart, and turn him going."
+        ],
+        [
+            "Third Citizen",
+            "Tear him, tear him! Come, brands ho! fire-brands:"
+        ],
+        [
+            "Third Citizen",
+            "to Brutus', to Cassius'; burn all: some to Decius'"
+        ],
+        [
+            "Third Citizen",
+            "house, and some to Casca's; some to Ligarius': away, go!",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter CINNA the poet"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter Citizens"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "CINNA THE POET": [
+            [
+                "1",
+                "4"
+            ],
+            [
+                "13",
+                "16"
+            ],
+            [
+                "19",
+                "19"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "24",
+                "24"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "28",
+                "28"
+            ],
+            [
+                "30",
+                "30"
+            ]
+        ],
+        "First Citizen": [
+            [
+                "5",
+                "5"
+            ],
+            [
+                "10",
+                "10"
+            ],
+            [
+                "20",
+                "20"
+            ],
+            [
+                "27",
+                "27"
+            ]
+        ],
+        "Second Citizen": [
+            [
+                "6",
+                "6"
+            ],
+            [
+                "9",
+                "9"
+            ],
+            [
+                "17",
+                "18"
+            ],
+            [
+                "22",
+                "22"
+            ]
+        ],
+        "Third Citizen": [
+            [
+                "7",
+                "7"
+            ],
+            [
+                "12",
+                "12"
+            ],
+            [
+                "25",
+                "25"
+            ],
+            [
+                "33",
+                "35"
+            ]
+        ],
+        "Fourth Citizen": [
+            [
+                "8",
+                "8"
+            ],
+            [
+                "11",
+                "11"
+            ],
+            [
+                "23",
+                "23"
+            ],
+            [
+                "29",
+                "29"
+            ],
+            [
+                "31",
+                "32"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "A street."
+}

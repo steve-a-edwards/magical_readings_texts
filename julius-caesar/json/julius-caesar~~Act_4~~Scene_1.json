@@ -1,0 +1,318 @@
+{
+    "scene_id": "julius caesar~~Act_4~~Scene_1",
+    "work_number": "11",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "ANTONY",
+            "These many, then, shall die; their names are prick'd.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "OCTAVIUS",
+            "Your brother too must die; consent you, Lepidus?"
+        ],
+        [
+            "LEPIDUS",
+            "I do consent--"
+        ],
+        [
+            "OCTAVIUS",
+            "Prick him down, Antony."
+        ],
+        [
+            "LEPIDUS",
+            "Upon condition Publius shall not live,"
+        ],
+        [
+            "LEPIDUS",
+            "Who is your sister's son, Mark Antony."
+        ],
+        [
+            "ANTONY",
+            "He shall not live; look, with a spot I damn him."
+        ],
+        [
+            "ANTONY",
+            "But, Lepidus, go you to Caesar's house;"
+        ],
+        [
+            "ANTONY",
+            "Fetch the will hither, and we shall determine"
+        ],
+        [
+            "ANTONY",
+            "How to cut off some charge in legacies."
+        ],
+        [
+            "LEPIDUS",
+            "What, shall I find you here?"
+        ],
+        [
+            "OCTAVIUS",
+            "Or here, or at the Capitol.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "ANTONY",
+            "This is a slight unmeritable man,",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "ANTONY",
+            "Meet to be sent on errands: is it fit,"
+        ],
+        [
+            "ANTONY",
+            "The three-fold world divided, he should stand"
+        ],
+        [
+            "ANTONY",
+            "One of the three to share it?"
+        ],
+        [
+            "OCTAVIUS",
+            "So you thought him;"
+        ],
+        [
+            "OCTAVIUS",
+            "And took his voice who should be prick'd to die,"
+        ],
+        [
+            "OCTAVIUS",
+            "In our black sentence and proscription."
+        ],
+        [
+            "ANTONY",
+            "Octavius, I have seen more days than you:"
+        ],
+        [
+            "ANTONY",
+            "And though we lay these honours on this man,"
+        ],
+        [
+            "ANTONY",
+            "To ease ourselves of divers slanderous loads,"
+        ],
+        [
+            "ANTONY",
+            "He shall but bear them as the ass bears gold,"
+        ],
+        [
+            "ANTONY",
+            "To groan and sweat under the business,"
+        ],
+        [
+            "ANTONY",
+            "Either led or driven, as we point the way;"
+        ],
+        [
+            "ANTONY",
+            "And having brought our treasure where we will,"
+        ],
+        [
+            "ANTONY",
+            "Then take we down his load, and turn him off,"
+        ],
+        [
+            "ANTONY",
+            "Like to the empty ass, to shake his ears,"
+        ],
+        [
+            "ANTONY",
+            "And graze in commons."
+        ],
+        [
+            "OCTAVIUS",
+            "You may do your will;"
+        ],
+        [
+            "OCTAVIUS",
+            "But he's a tried and valiant soldier."
+        ],
+        [
+            "ANTONY",
+            "So is my horse, Octavius; and for that"
+        ],
+        [
+            "ANTONY",
+            "I do appoint him store of provender:"
+        ],
+        [
+            "ANTONY",
+            "It is a creature that I teach to fight,"
+        ],
+        [
+            "ANTONY",
+            "To wind, to stop, to run directly on,"
+        ],
+        [
+            "ANTONY",
+            "His corporal motion govern'd by my spirit."
+        ],
+        [
+            "ANTONY",
+            "And, in some taste, is Lepidus but so;"
+        ],
+        [
+            "ANTONY",
+            "He must be taught and train'd and bid go forth;"
+        ],
+        [
+            "ANTONY",
+            "A barren-spirited fellow; one that feeds"
+        ],
+        [
+            "ANTONY",
+            "On abjects, orts and imitations,"
+        ],
+        [
+            "ANTONY",
+            "Which, out of use and staled by other men,"
+        ],
+        [
+            "ANTONY",
+            "Begin his fashion: do not talk of him,"
+        ],
+        [
+            "ANTONY",
+            "But as a property. And now, Octavius,"
+        ],
+        [
+            "ANTONY",
+            "Listen great things:--Brutus and Cassius"
+        ],
+        [
+            "ANTONY",
+            "Are levying powers: we must straight make head:"
+        ],
+        [
+            "ANTONY",
+            "Therefore let our alliance be combined,"
+        ],
+        [
+            "ANTONY",
+            "Our best friends made, our means stretch'd"
+        ],
+        [
+            "ANTONY",
+            "And let us presently go sit in council,"
+        ],
+        [
+            "ANTONY",
+            "How covert matters may be best disclosed,"
+        ],
+        [
+            "ANTONY",
+            "And open perils surest answered."
+        ],
+        [
+            "OCTAVIUS",
+            "Let us do so: for we are at the stake,"
+        ],
+        [
+            "OCTAVIUS",
+            "And bay'd about with many enemies;"
+        ],
+        [
+            "OCTAVIUS",
+            "And some that smile have in their hearts, I fear,"
+        ],
+        [
+            "OCTAVIUS",
+            "Millions of mischiefs.",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "ANTONY, OCTAVIUS, and LEPIDUS, seated at a table"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit LEPIDUS"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "ANTONY": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "7",
+                "10"
+            ],
+            [
+                "13",
+                "16"
+            ],
+            [
+                "20",
+                "29"
+            ],
+            [
+                "32",
+                "50"
+            ]
+        ],
+        "OCTAVIUS": [
+            [
+                "2",
+                "2"
+            ],
+            [
+                "4",
+                "4"
+            ],
+            [
+                "12",
+                "12"
+            ],
+            [
+                "17",
+                "19"
+            ],
+            [
+                "30",
+                "31"
+            ],
+            [
+                "51",
+                "54"
+            ]
+        ],
+        "LEPIDUS": [
+            [
+                "3",
+                "3"
+            ],
+            [
+                "5",
+                "6"
+            ],
+            [
+                "11",
+                "11"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "A house in Rome."
+}

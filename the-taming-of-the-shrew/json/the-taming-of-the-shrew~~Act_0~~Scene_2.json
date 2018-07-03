@@ -1,0 +1,834 @@
+{
+    "scene_id": "the taming of the shrew~~Act_0~~Scene_2",
+    "work_number": "8",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "SLY",
+            "For God's sake, a pot of small ale.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "First Servant",
+            "Will't please your lordship drink a cup of sack?"
+        ],
+        [
+            "Second Servant",
+            "Will't please your honour taste of these conserves?"
+        ],
+        [
+            "Third Servant",
+            "What raiment will your honour wear to-day?"
+        ],
+        [
+            "SLY",
+            "I am Christophero Sly; call not me 'honour' nor"
+        ],
+        [
+            "SLY",
+            "'lordship:' I ne'er drank sack in my life; and if"
+        ],
+        [
+            "SLY",
+            "you give me any conserves, give me conserves of"
+        ],
+        [
+            "SLY",
+            "beef: ne'er ask me what raiment I'll wear; for I"
+        ],
+        [
+            "SLY",
+            "have no more doublets than backs, no more stockings"
+        ],
+        [
+            "SLY",
+            "than legs, nor no more shoes than feet; nay,"
+        ],
+        [
+            "SLY",
+            "sometimes more feet than shoes, or such shoes as my"
+        ],
+        [
+            "SLY",
+            "toes look through the over-leather."
+        ],
+        [
+            "Lord",
+            "Heaven cease this idle humour in your honour!"
+        ],
+        [
+            "Lord",
+            "O, that a mighty man of such descent,"
+        ],
+        [
+            "Lord",
+            "Of such possessions and so high esteem,"
+        ],
+        [
+            "Lord",
+            "Should be infused with so foul a spirit!"
+        ],
+        [
+            "SLY",
+            "What, would you make me mad? Am not I Christopher"
+        ],
+        [
+            "SLY",
+            "Sly, old Sly's son of Burtonheath, by birth a"
+        ],
+        [
+            "SLY",
+            "pedlar, by education a cardmaker, by transmutation a"
+        ],
+        [
+            "SLY",
+            "bear-herd, and now by present profession a tinker?"
+        ],
+        [
+            "SLY",
+            "Ask Marian Hacket, the fat ale-wife of Wincot, if"
+        ],
+        [
+            "SLY",
+            "she know me not: if she say I am not fourteen pence"
+        ],
+        [
+            "SLY",
+            "on the score for sheer ale, score me up for the"
+        ],
+        [
+            "SLY",
+            "lyingest knave in Christendom. What! I am not"
+        ],
+        [
+            "SLY",
+            "bestraught: here's--"
+        ],
+        [
+            "Third Servant",
+            "O, this it is that makes your lady mourn!"
+        ],
+        [
+            "Second Servant",
+            "O, this is it that makes your servants droop!"
+        ],
+        [
+            "Lord",
+            "Hence comes it that your kindred shuns your house,"
+        ],
+        [
+            "Lord",
+            "As beaten hence by your strange lunacy."
+        ],
+        [
+            "Lord",
+            "O noble lord, bethink thee of thy birth,"
+        ],
+        [
+            "Lord",
+            "Call home thy ancient thoughts from banishment"
+        ],
+        [
+            "Lord",
+            "And banish hence these abject lowly dreams."
+        ],
+        [
+            "Lord",
+            "Look how thy servants do attend on thee,"
+        ],
+        [
+            "Lord",
+            "Each in his office ready at thy beck."
+        ],
+        [
+            "Lord",
+            "Wilt thou have music? hark! Apollo plays,",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "Lord",
+            "And twenty caged nightingales do sing:",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "Lord",
+            "Or wilt thou sleep? we'll have thee to a couch"
+        ],
+        [
+            "Lord",
+            "Softer and sweeter than the lustful bed"
+        ],
+        [
+            "Lord",
+            "On purpose trimm'd up for Semiramis."
+        ],
+        [
+            "Lord",
+            "Say thou wilt walk; we will bestrew the ground:"
+        ],
+        [
+            "Lord",
+            "Or wilt thou ride? thy horses shall be trapp'd,"
+        ],
+        [
+            "Lord",
+            "Their harness studded all with gold and pearl."
+        ],
+        [
+            "Lord",
+            "Dost thou love hawking? thou hast hawks will soar"
+        ],
+        [
+            "Lord",
+            "Above the morning lark or wilt thou hunt?"
+        ],
+        [
+            "Lord",
+            "Thy hounds shall make the welkin answer them"
+        ],
+        [
+            "Lord",
+            "And fetch shrill echoes from the hollow earth."
+        ],
+        [
+            "First Servant",
+            "Say thou wilt course; thy greyhounds are as swift"
+        ],
+        [
+            "First Servant",
+            "As breathed stags, ay, fleeter than the roe."
+        ],
+        [
+            "Second Servant",
+            "Dost thou love pictures? we will fetch thee straight"
+        ],
+        [
+            "Second Servant",
+            "Adonis painted by a running brook,"
+        ],
+        [
+            "Second Servant",
+            "And Cytherea all in sedges hid,"
+        ],
+        [
+            "Second Servant",
+            "Which seem to move and wanton with her breath,"
+        ],
+        [
+            "Second Servant",
+            "Even as the waving sedges play with wind."
+        ],
+        [
+            "Lord",
+            "We'll show thee Io as she was a maid,"
+        ],
+        [
+            "Lord",
+            "And how she was beguiled and surprised,"
+        ],
+        [
+            "Lord",
+            "As lively painted as the deed was done."
+        ],
+        [
+            "Third Servant",
+            "Or Daphne roaming through a thorny wood,"
+        ],
+        [
+            "Third Servant",
+            "Scratching her legs that one shall swear she bleeds,"
+        ],
+        [
+            "Third Servant",
+            "And at that sight shall sad Apollo weep,"
+        ],
+        [
+            "Third Servant",
+            "So workmanly the blood and tears are drawn."
+        ],
+        [
+            "Lord",
+            "Thou art a lord, and nothing but a lord:"
+        ],
+        [
+            "Lord",
+            "Thou hast a lady far more beautiful"
+        ],
+        [
+            "Lord",
+            "Than any woman in this waning age."
+        ],
+        [
+            "First Servant",
+            "And till the tears that she hath shed for thee"
+        ],
+        [
+            "First Servant",
+            "Like envious floods o'er-run her lovely face,"
+        ],
+        [
+            "First Servant",
+            "She was the fairest creature in the world;"
+        ],
+        [
+            "First Servant",
+            "And yet she is inferior to none."
+        ],
+        [
+            "SLY",
+            "Am I a lord? and have I such a lady?"
+        ],
+        [
+            "SLY",
+            "Or do I dream? or have I dream'd till now?"
+        ],
+        [
+            "SLY",
+            "I do not sleep: I see, I hear, I speak;"
+        ],
+        [
+            "SLY",
+            "I smell sweet savours and I feel soft things:"
+        ],
+        [
+            "SLY",
+            "Upon my life, I am a lord indeed"
+        ],
+        [
+            "SLY",
+            "And not a tinker nor Christophero Sly."
+        ],
+        [
+            "SLY",
+            "Well, bring our lady hither to our sight;"
+        ],
+        [
+            "SLY",
+            "And once again, a pot o' the smallest ale."
+        ],
+        [
+            "Second Servant",
+            "Will't please your mightiness to wash your hands?"
+        ],
+        [
+            "Second Servant",
+            "O, how we joy to see your wit restored!"
+        ],
+        [
+            "Second Servant",
+            "O, that once more you knew but what you are!"
+        ],
+        [
+            "Second Servant",
+            "These fifteen years you have been in a dream;"
+        ],
+        [
+            "Second Servant",
+            "Or when you waked, so waked as if you slept."
+        ],
+        [
+            "SLY",
+            "These fifteen years! by my fay, a goodly nap."
+        ],
+        [
+            "SLY",
+            "But did I never speak of all that time?"
+        ],
+        [
+            "First Servant",
+            "O, yes, my lord, but very idle words:"
+        ],
+        [
+            "First Servant",
+            "For though you lay here in this goodly chamber,"
+        ],
+        [
+            "First Servant",
+            "Yet would you say ye were beaten out of door;"
+        ],
+        [
+            "First Servant",
+            "And rail upon the hostess of the house;"
+        ],
+        [
+            "First Servant",
+            "And say you would present her at the leet,"
+        ],
+        [
+            "First Servant",
+            "Because she brought stone jugs and no seal'd quarts:"
+        ],
+        [
+            "First Servant",
+            "Sometimes you would call out for Cicely Hacket."
+        ],
+        [
+            "SLY",
+            "Ay, the woman's maid of the house."
+        ],
+        [
+            "Third Servant",
+            "Why, sir, you know no house nor no such maid,"
+        ],
+        [
+            "Third Servant",
+            "Nor no such men as you have reckon'd up,"
+        ],
+        [
+            "Third Servant",
+            "As Stephen Sly and did John Naps of Greece"
+        ],
+        [
+            "Third Servant",
+            "And Peter Turph and Henry Pimpernell"
+        ],
+        [
+            "Third Servant",
+            "And twenty more such names and men as these"
+        ],
+        [
+            "Third Servant",
+            "Which never were nor no man ever saw."
+        ],
+        [
+            "SLY",
+            "Now Lord be thanked for my good amends!"
+        ],
+        [
+            "ALL",
+            "Amen."
+        ],
+        [
+            "SLY",
+            "I thank thee: thou shalt not lose by it.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "Page",
+            "How fares my noble lord?",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "SLY",
+            "Marry, I fare well for here is cheer enough."
+        ],
+        [
+            "SLY",
+            "Where is my wife?"
+        ],
+        [
+            "Page",
+            "Here, noble lord: what is thy will with her?"
+        ],
+        [
+            "SLY",
+            "Are you my wife and will not call me husband?"
+        ],
+        [
+            "SLY",
+            "My men should call me 'lord:' I am your goodman."
+        ],
+        [
+            "Page",
+            "My husband and my lord, my lord and husband;"
+        ],
+        [
+            "Page",
+            "I am your wife in all obedience."
+        ],
+        [
+            "SLY",
+            "I know it well. What must I call her?"
+        ],
+        [
+            "Lord",
+            "Madam."
+        ],
+        [
+            "SLY",
+            "Al'ce madam, or Joan madam?"
+        ],
+        [
+            "Lord",
+            "'Madam,' and nothing else: so lords"
+        ],
+        [
+            "Lord",
+            "call ladies."
+        ],
+        [
+            "SLY",
+            "Madam wife, they say that I have dream'd"
+        ],
+        [
+            "SLY",
+            "And slept above some fifteen year or more."
+        ],
+        [
+            "Page",
+            "Ay, and the time seems thirty unto me,"
+        ],
+        [
+            "Page",
+            "Being all this time abandon'd from your bed."
+        ],
+        [
+            "SLY",
+            "'Tis much. Servants, leave me and her alone."
+        ],
+        [
+            "SLY",
+            "Madam, undress you and come now to bed."
+        ],
+        [
+            "Page",
+            "Thrice noble lord, let me entreat of you"
+        ],
+        [
+            "Page",
+            "To pardon me yet for a night or two,"
+        ],
+        [
+            "Page",
+            "Or, if not so, until the sun be set:"
+        ],
+        [
+            "Page",
+            "For your physicians have expressly charged,"
+        ],
+        [
+            "Page",
+            "In peril to incur your former malady,"
+        ],
+        [
+            "Page",
+            "That I should yet absent me from your bed:"
+        ],
+        [
+            "Page",
+            "I hope this reason stands for my excuse."
+        ],
+        [
+            "SLY",
+            "Ay, it stands so that I may hardly"
+        ],
+        [
+            "SLY",
+            "tarry so long. But I would be loath to fall into"
+        ],
+        [
+            "SLY",
+            "my dreams again: I will therefore tarry in"
+        ],
+        [
+            "SLY",
+            "despite of the flesh and the blood.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "Messenger",
+            "Your honour's players, heating your amendment,",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "Messenger",
+            "Are come to play a pleasant comedy;"
+        ],
+        [
+            "Messenger",
+            "For so your doctors hold it very meet,"
+        ],
+        [
+            "Messenger",
+            "Seeing too much sadness hath congeal'd your blood,"
+        ],
+        [
+            "Messenger",
+            "And melancholy is the nurse of frenzy:"
+        ],
+        [
+            "Messenger",
+            "Therefore they thought it good you hear a play"
+        ],
+        [
+            "Messenger",
+            "And frame your mind to mirth and merriment,"
+        ],
+        [
+            "Messenger",
+            "Which bars a thousand harms and lengthens life."
+        ],
+        [
+            "SLY",
+            "Marry, I will, let them play it. Is not a"
+        ],
+        [
+            "SLY",
+            "comondy a Christmas gambold or a tumbling-trick?"
+        ],
+        [
+            "Page",
+            "No, my good lord; it is more pleasing stuff."
+        ],
+        [
+            "SLY",
+            "What, household stuff?"
+        ],
+        [
+            "Page",
+            "It is a kind of history."
+        ],
+        [
+            "SLY",
+            "Well, well see't. Come, madam wife, sit by my side"
+        ],
+        [
+            "SLY",
+            "and let the world slip: we shall ne'er be younger.",
+            {
+                "following_direction_line": "5"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter aloft SLY, with Attendants; some with apparel, others with basin and ewer and appurtenances; and Lord"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Music"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter the Page as a lady, with attendants"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter a Messenger"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Flourish"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "SLY": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "5",
+                "12"
+            ],
+            [
+                "17",
+                "25"
+            ],
+            [
+                "68",
+                "75"
+            ],
+            [
+                "81",
+                "82"
+            ],
+            [
+                "90",
+                "90"
+            ],
+            [
+                "97",
+                "97"
+            ],
+            [
+                "99",
+                "99"
+            ],
+            [
+                "101",
+                "102"
+            ],
+            [
+                "104",
+                "105"
+            ],
+            [
+                "108",
+                "108"
+            ],
+            [
+                "110",
+                "110"
+            ],
+            [
+                "113",
+                "114"
+            ],
+            [
+                "117",
+                "118"
+            ],
+            [
+                "126",
+                "129"
+            ],
+            [
+                "138",
+                "139"
+            ],
+            [
+                "141",
+                "141"
+            ],
+            [
+                "143",
+                "144"
+            ]
+        ],
+        "First Servant": [
+            [
+                "2",
+                "2"
+            ],
+            [
+                "47",
+                "48"
+            ],
+            [
+                "64",
+                "67"
+            ],
+            [
+                "83",
+                "89"
+            ]
+        ],
+        "Second Servant": [
+            [
+                "3",
+                "3"
+            ],
+            [
+                "27",
+                "27"
+            ],
+            [
+                "49",
+                "53"
+            ],
+            [
+                "76",
+                "80"
+            ]
+        ],
+        "Third Servant": [
+            [
+                "4",
+                "4"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "57",
+                "60"
+            ],
+            [
+                "91",
+                "96"
+            ]
+        ],
+        "Lord": [
+            [
+                "13",
+                "16"
+            ],
+            [
+                "28",
+                "46"
+            ],
+            [
+                "54",
+                "56"
+            ],
+            [
+                "61",
+                "63"
+            ],
+            [
+                "109",
+                "109"
+            ],
+            [
+                "111",
+                "112"
+            ]
+        ],
+        "ALL": [
+            [
+                "98",
+                "98"
+            ]
+        ],
+        "Page": [
+            [
+                "100",
+                "100"
+            ],
+            [
+                "103",
+                "103"
+            ],
+            [
+                "106",
+                "107"
+            ],
+            [
+                "115",
+                "116"
+            ],
+            [
+                "119",
+                "125"
+            ],
+            [
+                "140",
+                "140"
+            ],
+            [
+                "142",
+                "142"
+            ]
+        ],
+        "Messenger": [
+            [
+                "130",
+                "137"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "A bedchamber in the Lord's house."
+}

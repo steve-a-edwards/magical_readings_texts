@@ -1,0 +1,762 @@
+{
+    "scene_id": "julius caesar~~Act_5~~Scene_3",
+    "work_number": "11",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "CASSIUS",
+            "O, look, Titinius, look, the villains fly!",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "CASSIUS",
+            "Myself have to mine own turn'd enemy:"
+        ],
+        [
+            "CASSIUS",
+            "This ensign here of mine was turning back;"
+        ],
+        [
+            "CASSIUS",
+            "I slew the coward, and did take it from him."
+        ],
+        [
+            "TITINIUS",
+            "O Cassius, Brutus gave the word too early;"
+        ],
+        [
+            "TITINIUS",
+            "Who, having some advantage on Octavius,"
+        ],
+        [
+            "TITINIUS",
+            "Took it too eagerly: his soldiers fell to spoil,"
+        ],
+        [
+            "TITINIUS",
+            "Whilst we by Antony are all enclosed.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "PINDARUS",
+            "Fly further off, my lord, fly further off;",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "PINDARUS",
+            "Mark Antony is in your tents, my lord"
+        ],
+        [
+            "PINDARUS",
+            "Fly, therefore, noble Cassius, fly far off."
+        ],
+        [
+            "CASSIUS",
+            "This hill is far enough. Look, look, Titinius;"
+        ],
+        [
+            "CASSIUS",
+            "Are those my tents where I perceive the fire?"
+        ],
+        [
+            "TITINIUS",
+            "They are, my lord."
+        ],
+        [
+            "CASSIUS",
+            "Titinius, if thou lovest me,"
+        ],
+        [
+            "CASSIUS",
+            "Mount thou my horse, and hide thy spurs in him,"
+        ],
+        [
+            "CASSIUS",
+            "Till he have brought thee up to yonder troops,"
+        ],
+        [
+            "CASSIUS",
+            "And here again; that I may rest assured"
+        ],
+        [
+            "CASSIUS",
+            "Whether yond troops are friend or enemy."
+        ],
+        [
+            "TITINIUS",
+            "I will be here again, even with a thought.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "CASSIUS",
+            "Go, Pindarus, get higher on that hill;",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "CASSIUS",
+            "My sight was ever thick; regard Titinius,"
+        ],
+        [
+            "CASSIUS",
+            "And tell me what thou notest about the field.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "CASSIUS",
+            "This day I breathed first: time is come round,",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "CASSIUS",
+            "And where I did begin, there shall I end;"
+        ],
+        [
+            "CASSIUS",
+            "My life is run his compass. Sirrah, what news?"
+        ],
+        [
+            "PINDARUS",
+            "[Above] O my lord!"
+        ],
+        [
+            "CASSIUS",
+            "What news?"
+        ],
+        [
+            "PINDARUS",
+            "[Above] Titinius is enclosed round about"
+        ],
+        [
+            "PINDARUS",
+            "With horsemen, that make to him on the spur;"
+        ],
+        [
+            "PINDARUS",
+            "Yet he spurs on. Now they are almost on him."
+        ],
+        [
+            "PINDARUS",
+            "Now, Titinius! Now some light. O, he lights too."
+        ],
+        [
+            "PINDARUS",
+            "He's ta'en.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "PINDARUS",
+            "And, hark! they shout for joy.",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "CASSIUS",
+            "Come down, behold no more."
+        ],
+        [
+            "CASSIUS",
+            "O, coward that I am, to live so long,"
+        ],
+        [
+            "CASSIUS",
+            "To see my best friend ta'en before my face!",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "CASSIUS",
+            "Come hither, sirrah:",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "CASSIUS",
+            "In Parthia did I take thee prisoner;"
+        ],
+        [
+            "CASSIUS",
+            "And then I swore thee, saving of thy life,"
+        ],
+        [
+            "CASSIUS",
+            "That whatsoever I did bid thee do,"
+        ],
+        [
+            "CASSIUS",
+            "Thou shouldst attempt it. Come now, keep thine oath;"
+        ],
+        [
+            "CASSIUS",
+            "Now be a freeman: and with this good sword,"
+        ],
+        [
+            "CASSIUS",
+            "That ran through Caesar's bowels, search this bosom."
+        ],
+        [
+            "CASSIUS",
+            "Stand not to answer: here, take thou the hilts;"
+        ],
+        [
+            "CASSIUS",
+            "And, when my face is cover'd, as 'tis now,"
+        ],
+        [
+            "CASSIUS",
+            "Guide thou the sword.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "CASSIUS",
+            "Caesar, thou art revenged,",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "CASSIUS",
+            "Even with the sword that kill'd thee.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "PINDARUS",
+            "So, I am free; yet would not so have been,",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "PINDARUS",
+            "Durst I have done my will. O Cassius,"
+        ],
+        [
+            "PINDARUS",
+            "Far from this country Pindarus shall run,"
+        ],
+        [
+            "PINDARUS",
+            "Where never Roman shall take note of him.",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "MESSALA",
+            "It is but change, Titinius; for Octavius",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "MESSALA",
+            "Is overthrown by noble Brutus' power,"
+        ],
+        [
+            "MESSALA",
+            "As Cassius' legions are by Antony."
+        ],
+        [
+            "TITINIUS",
+            "These tidings will well comfort Cassius."
+        ],
+        [
+            "MESSALA",
+            "Where did you leave him?"
+        ],
+        [
+            "TITINIUS",
+            "All disconsolate,"
+        ],
+        [
+            "TITINIUS",
+            "With Pindarus his bondman, on this hill."
+        ],
+        [
+            "MESSALA",
+            "Is not that he t hat lies upon the ground?"
+        ],
+        [
+            "TITINIUS",
+            "He lies not like the living. O my heart!"
+        ],
+        [
+            "MESSALA",
+            "Is not that he?"
+        ],
+        [
+            "TITINIUS",
+            "No, this was he, Messala,"
+        ],
+        [
+            "TITINIUS",
+            "But Cassius is no more. O setting sun,"
+        ],
+        [
+            "TITINIUS",
+            "As in thy red rays thou dost sink to-night,"
+        ],
+        [
+            "TITINIUS",
+            "So in his red blood Cassius' day is set;"
+        ],
+        [
+            "TITINIUS",
+            "The sun of Rome is set! Our day is gone;"
+        ],
+        [
+            "TITINIUS",
+            "Clouds, dews, and dangers come; our deeds are done!"
+        ],
+        [
+            "TITINIUS",
+            "Mistrust of my success hath done this deed."
+        ],
+        [
+            "MESSALA",
+            "Mistrust of good success hath done this deed."
+        ],
+        [
+            "MESSALA",
+            "O hateful error, melancholy's child,"
+        ],
+        [
+            "MESSALA",
+            "Why dost thou show to the apt thoughts of men"
+        ],
+        [
+            "MESSALA",
+            "The things that are not? O error, soon conceived,"
+        ],
+        [
+            "MESSALA",
+            "Thou never comest unto a happy birth,"
+        ],
+        [
+            "MESSALA",
+            "But kill'st the mother that engender'd thee!"
+        ],
+        [
+            "TITINIUS",
+            "What, Pindarus! where art thou, Pindarus?"
+        ],
+        [
+            "MESSALA",
+            "Seek him, Titinius, whilst I go to meet"
+        ],
+        [
+            "MESSALA",
+            "The noble Brutus, thrusting this report"
+        ],
+        [
+            "MESSALA",
+            "Into his ears; I may say, thrusting it;"
+        ],
+        [
+            "MESSALA",
+            "For piercing steel and darts envenomed"
+        ],
+        [
+            "MESSALA",
+            "Shall be as welcome to the ears of Brutus"
+        ],
+        [
+            "MESSALA",
+            "As tidings of this sight."
+        ],
+        [
+            "TITINIUS",
+            "Hie you, Messala,"
+        ],
+        [
+            "TITINIUS",
+            "And I will seek for Pindarus the while.",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "TITINIUS",
+            "Why didst thou send me forth, brave Cassius?",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "TITINIUS",
+            "Did I not meet thy friends? and did not they"
+        ],
+        [
+            "TITINIUS",
+            "Put on my brows this wreath of victory,"
+        ],
+        [
+            "TITINIUS",
+            "And bid me give it thee? Didst thou not hear their shouts?"
+        ],
+        [
+            "TITINIUS",
+            "Alas, thou hast misconstrued every thing!"
+        ],
+        [
+            "TITINIUS",
+            "But, hold thee, take this garland on thy brow;"
+        ],
+        [
+            "TITINIUS",
+            "Thy Brutus bid me give it thee, and I"
+        ],
+        [
+            "TITINIUS",
+            "Will do his bidding. Brutus, come apace,"
+        ],
+        [
+            "TITINIUS",
+            "And see how I regarded Caius Cassius."
+        ],
+        [
+            "TITINIUS",
+            "By your leave, gods:--this is a Roman's part"
+        ],
+        [
+            "TITINIUS",
+            "Come, Cassius' sword, and find Titinius' heart.",
+            {
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Where, where, Messala, doth his body lie?",
+            {
+                "preceding_direction_line": "11"
+            }
+        ],
+        [
+            "MESSALA",
+            "Lo, yonder, and Titinius mourning it."
+        ],
+        [
+            "BRUTUS",
+            "Titinius' face is upward."
+        ],
+        [
+            "CATO",
+            "He is slain."
+        ],
+        [
+            "BRUTUS",
+            "O Julius Caesar, thou art mighty yet!"
+        ],
+        [
+            "BRUTUS",
+            "Thy spirit walks abroad and turns our swords"
+        ],
+        [
+            "BRUTUS",
+            "In our own proper entrails.",
+            {
+                "following_direction_line": "12"
+            }
+        ],
+        [
+            "CATO",
+            "Brave Titinius!",
+            {
+                "preceding_direction_line": "12"
+            }
+        ],
+        [
+            "CATO",
+            "Look, whether he have not crown'd dead Cassius!"
+        ],
+        [
+            "BRUTUS",
+            "Are yet two Romans living such as these?"
+        ],
+        [
+            "BRUTUS",
+            "The last of all the Romans, fare thee well!"
+        ],
+        [
+            "BRUTUS",
+            "It is impossible that ever Rome"
+        ],
+        [
+            "BRUTUS",
+            "Should breed thy fellow. Friends, I owe more tears"
+        ],
+        [
+            "BRUTUS",
+            "To this dead man than you shall see me pay."
+        ],
+        [
+            "BRUTUS",
+            "I shall find time, Cassius, I shall find time."
+        ],
+        [
+            "BRUTUS",
+            "Come, therefore, and to Thasos send his body:"
+        ],
+        [
+            "BRUTUS",
+            "His funerals shall not be in our camp,"
+        ],
+        [
+            "BRUTUS",
+            "Lest it discomfort us. Lucilius, come;"
+        ],
+        [
+            "BRUTUS",
+            "And come, young Cato; let us to the field."
+        ],
+        [
+            "BRUTUS",
+            "Labeo and Flavius, set our battles on:"
+        ],
+        [
+            "BRUTUS",
+            "'Tis three o'clock; and, Romans, yet ere night"
+        ],
+        [
+            "BRUTUS",
+            "We shall try fortune in a second fight.",
+            {
+                "following_direction_line": "13"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Alarums. Enter CASSIUS and TITINIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter PINDARUS"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "PINDARUS ascends the hill"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Shout"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "PINDARUS descends"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "PINDARUS stabs him"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Dies"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Exit. Re-enter TITINIUS with MESSALA"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Exit MESSALA"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "Kills himself. Alarum. Re-enter MESSALA, with BRUTUS, CATO, STRATO, VOLUMNIUS, and LUCILIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Low alarums"
+        ],
+        [
+            "_DIRECTION",
+            "D13",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "CASSIUS": [
+            [
+                "1",
+                "4"
+            ],
+            [
+                "12",
+                "13"
+            ],
+            [
+                "15",
+                "19"
+            ],
+            [
+                "21",
+                "26"
+            ],
+            [
+                "28",
+                "28"
+            ],
+            [
+                "35",
+                "49"
+            ]
+        ],
+        "TITINIUS": [
+            [
+                "5",
+                "8"
+            ],
+            [
+                "14",
+                "14"
+            ],
+            [
+                "20",
+                "20"
+            ],
+            [
+                "57",
+                "57"
+            ],
+            [
+                "59",
+                "60"
+            ],
+            [
+                "62",
+                "62"
+            ],
+            [
+                "64",
+                "70"
+            ],
+            [
+                "77",
+                "77"
+            ],
+            [
+                "84",
+                "96"
+            ]
+        ],
+        "PINDARUS": [
+            [
+                "9",
+                "11"
+            ],
+            [
+                "27",
+                "27"
+            ],
+            [
+                "29",
+                "34"
+            ],
+            [
+                "50",
+                "53"
+            ]
+        ],
+        "MESSALA": [
+            [
+                "54",
+                "56"
+            ],
+            [
+                "58",
+                "58"
+            ],
+            [
+                "61",
+                "61"
+            ],
+            [
+                "63",
+                "63"
+            ],
+            [
+                "71",
+                "76"
+            ],
+            [
+                "78",
+                "83"
+            ],
+            [
+                "98",
+                "98"
+            ]
+        ],
+        "BRUTUS": [
+            [
+                "97",
+                "97"
+            ],
+            [
+                "99",
+                "99"
+            ],
+            [
+                "101",
+                "103"
+            ],
+            [
+                "106",
+                "118"
+            ]
+        ],
+        "CATO": [
+            [
+                "100",
+                "100"
+            ],
+            [
+                "104",
+                "105"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "Another part of the field."
+}

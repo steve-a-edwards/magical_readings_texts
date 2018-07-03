@@ -1,0 +1,227 @@
+_S_SCENE I. Padua. Before LUCENTIO'S house.
+_D_GREMIO discovered. Enter behind BIONDELLO, LUCENTIO, and BIANCA
+_R_BIONDELLO
+Softly and swiftly, sir; for the priest is ready.
+_R_LUCENTIO
+I fly, Biondello: but they may chance to need thee
+at home; therefore leave us.
+_R_BIONDELLO
+Nay, faith, I'll see the church o' your back; and
+then come back to my master's as soon as I can.
+_D_Exeunt LUCENTIO, BIANCA, and BIONDELLO
+_R_GREMIO
+I marvel Cambio comes not all this while.
+_D_Enter PETRUCHIO, KATHARINA, VINCENTIO, GRUMIO, with Attendants
+_R_PETRUCHIO
+Sir, here's the door, this is Lucentio's house:
+My father's bears more toward the market-place;
+Thither must I, and here I leave you, sir.
+_R_VINCENTIO
+You shall not choose but drink before you go:
+I think I shall command your welcome here,
+And, by all likelihood, some cheer is toward.
+_D_Knocks
+_R_GREMIO
+They're busy within; you were best knock louder.
+_D_Pedant looks out of the window
+_R_Pedant
+What's he that knocks as he would beat down the gate?
+_R_VINCENTIO
+Is Signior Lucentio within, sir?
+_R_Pedant
+He's within, sir, but not to be spoken withal.
+_R_VINCENTIO
+What if a man bring him a hundred pound or two, to
+make merry withal?
+_R_Pedant
+Keep your hundred pounds to yourself: he shall
+need none, so long as I live.
+_R_PETRUCHIO
+Nay, I told you your son was well beloved in Padua.
+Do you hear, sir? To leave frivolous circumstances,
+I pray you, tell Signior Lucentio that his father is
+come from Pisa, and is here at the door to speak with him.
+_R_Pedant
+Thou liest: his father is come from Padua and here
+looking out at the window.
+_R_VINCENTIO
+Art thou his father?
+_R_Pedant
+Ay, sir; so his mother says, if I may believe her.
+_R_PETRUCHIO
+[To VINCENTIO] Why, how now, gentleman! why, this
+is flat knavery, to take upon you another man's name.
+_R_Pedant
+Lay hands on the villain: I believe a' means to
+cozen somebody in this city under my countenance.
+_D_Re-enter BIONDELLO
+_R_BIONDELLO
+I have seen them in the church together: God send
+'em good shipping! But who is here? mine old
+master Vincentio! now we are undone and brought to nothing.
+_R_VINCENTIO
+[Seeing BIONDELLO]
+Come hither, crack-hemp.
+_R_BIONDELLO
+Hope I may choose, sir.
+_R_VINCENTIO
+Come hither, you rogue. What, have you forgot me?
+_R_BIONDELLO
+Forgot you! no, sir: I could not forget you, for I
+never saw you before in all my life.
+_R_VINCENTIO
+What, you notorious villain, didst thou never see
+thy master's father, Vincentio?
+_R_BIONDELLO
+What, my old worshipful old master? yes, marry, sir:
+see where he looks out of the window.
+_R_VINCENTIO
+Is't so, indeed.
+_D_Beats BIONDELLO
+_R_BIONDELLO
+Help, help, help! here's a madman will murder me.
+_D_Exit
+_R_Pedant
+Help, son! help, Signior Baptista!
+_D_Exit from above
+_R_PETRUCHIO
+Prithee, Kate, let's stand aside and see the end of
+this controversy.
+_D_They retire
+_D_Re-enter Pedant below; TRANIO, BAPTISTA, and Servants
+_R_TRANIO
+Sir, what are you that offer to beat my servant?
+_R_VINCENTIO
+What am I, sir! nay, what are you, sir? O immortal
+gods! O fine villain! A silken doublet! a velvet
+hose! a scarlet cloak! and a copatain hat! O, I
+am undone! I am undone! while I play the good
+husband at home, my son and my servant spend all at
+the university.
+_R_TRANIO
+How now! what's the matter?
+_R_BAPTISTA
+What, is the man lunatic?
+_R_TRANIO
+Sir, you seem a sober ancient gentleman by your
+habit, but your words show you a madman. Why, sir,
+what 'cerns it you if I wear pearl and gold? I
+thank my good father, I am able to maintain it.
+_R_VINCENTIO
+Thy father! O villain! he is a sailmaker in Bergamo.
+_R_BAPTISTA
+You mistake, sir, you mistake, sir. Pray, what do
+you think is his name?
+_R_VINCENTIO
+His name! as if I knew not his name: I have brought
+him up ever since he was three years old, and his
+name is Tranio.
+_R_Pedant
+Away, away, mad ass! his name is Lucentio and he is
+mine only son, and heir to the lands of me, Signior Vincentio.
+_R_VINCENTIO
+Lucentio! O, he hath murdered his master! Lay hold
+on him, I charge you, in the duke's name. O, my
+son, my son! Tell me, thou villain, where is my son Lucentio?
+_R_TRANIO
+Call forth an officer.
+_D_Enter one with an Officer
+Carry this mad knave to the gaol. Father Baptista,
+I charge you see that he be forthcoming.
+_R_VINCENTIO
+Carry me to the gaol!
+_R_GREMIO
+Stay, officer: he shall not go to prison.
+_R_BAPTISTA
+Talk not, Signior Gremio: I say he shall go to prison.
+_R_GREMIO
+Take heed, Signior Baptista, lest you be
+cony-catched in this business: I dare swear this
+is the right Vincentio.
+_R_Pedant
+Swear, if thou darest.
+_R_GREMIO
+Nay, I dare not swear it.
+_R_TRANIO
+Then thou wert best say that I am not Lucentio.
+_R_GREMIO
+Yes, I know thee to be Signior Lucentio.
+_R_BAPTISTA
+Away with the dotard! to the gaol with him!
+_R_VINCENTIO
+Thus strangers may be hailed and abused: O
+monstrous villain!
+_D_Re-enter BIONDELLO, with LUCENTIO and BIANCA
+_R_BIONDELLO
+O! we are spoiled and--yonder he is: deny him,
+forswear him, or else we are all undone.
+_R_LUCENTIO
+[Kneeling] Pardon, sweet father.
+_R_VINCENTIO
+Lives my sweet son?
+_D_Exeunt BIONDELLO, TRANIO, and Pedant, as fast as may be
+_R_BIANCA
+Pardon, dear father.
+_R_BAPTISTA
+How hast thou offended?
+Where is Lucentio?
+_R_LUCENTIO
+Here's Lucentio,
+Right son to the right Vincentio;
+That have by marriage made thy daughter mine,
+While counterfeit supposes bleared thine eyne.
+_R_GREMIO
+Here's packing, with a witness to deceive us all!
+_R_VINCENTIO
+Where is that damned villain Tranio,
+That faced and braved me in this matter so?
+_R_BAPTISTA
+Why, tell me, is not this my Cambio?
+_R_BIANCA
+Cambio is changed into Lucentio.
+_R_LUCENTIO
+Love wrought these miracles. Bianca's love
+Made me exchange my state with Tranio,
+While he did bear my countenance in the town;
+And happily I have arrived at the last
+Unto the wished haven of my bliss.
+What Tranio did, myself enforced him to;
+Then pardon him, sweet father, for my sake.
+_R_VINCENTIO
+I'll slit the villain's nose, that would have sent
+me to the gaol.
+_R_BAPTISTA
+But do you hear, sir? have you married my daughter
+without asking my good will?
+_R_VINCENTIO
+Fear not, Baptista; we will content you, go to: but
+I will in, to be revenged for this villany.
+_D_Exit
+_R_BAPTISTA
+And I, to sound the depth of this knavery.
+_D_Exit
+_R_LUCENTIO
+Look not pale, Bianca; thy father will not frown.
+_D_Exeunt LUCENTIO and BIANCA
+_R_GREMIO
+My cake is dough; but I'll in among the rest,
+Out of hope of all, but my share of the feast.
+_D_Exit
+_R_KATHARINA
+Husband, let's follow, to see the end of this ado.
+_R_PETRUCHIO
+First kiss me, Kate, and we will.
+_R_KATHARINA
+What, in the midst of the street?
+_R_PETRUCHIO
+What, art thou ashamed of me?
+_R_KATHARINA
+No, sir, God forbid; but ashamed to kiss.
+_R_PETRUCHIO
+Why, then let's home again. Come, sirrah, let's away.
+_R_KATHARINA
+Nay, I will give thee a kiss: now pray thee, love, stay.
+_R_PETRUCHIO
+Is not this well? Come, my sweet Kate:
+Better once than never, for never too late.
+_D_Exeunt

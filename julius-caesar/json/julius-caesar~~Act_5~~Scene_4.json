@@ -1,0 +1,254 @@
+{
+    "scene_id": "julius caesar~~Act_5~~Scene_4",
+    "work_number": "11",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "BRUTUS",
+            "Yet, countrymen, O, yet hold up your heads!",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "CATO",
+            "What bastard doth not? Who will go with me?"
+        ],
+        [
+            "CATO",
+            "I will proclaim my name about the field:"
+        ],
+        [
+            "CATO",
+            "I am the son of Marcus Cato, ho!"
+        ],
+        [
+            "CATO",
+            "A foe to tyrants, and my country's friend;"
+        ],
+        [
+            "CATO",
+            "I am the son of Marcus Cato, ho!"
+        ],
+        [
+            "BRUTUS",
+            "And I am Brutus, Marcus Brutus, I;"
+        ],
+        [
+            "BRUTUS",
+            "Brutus, my country's friend; know me for Brutus!",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "LUCILIUS",
+            "O young and noble Cato, art thou down?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "LUCILIUS",
+            "Why, now thou diest as bravely as Titinius;"
+        ],
+        [
+            "LUCILIUS",
+            "And mayst be honour'd, being Cato's son."
+        ],
+        [
+            "First Soldier",
+            "Yield, or thou diest."
+        ],
+        [
+            "LUCILIUS",
+            "Only I yield to die:"
+        ],
+        [
+            "LUCILIUS",
+            "There is so much that thou wilt kill me straight;",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "LUCILIUS",
+            "Kill Brutus, and be honour'd in his death.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "First Soldier",
+            "We must not. A noble prisoner!"
+        ],
+        [
+            "Second Soldier",
+            "Room, ho! Tell Antony, Brutus is ta'en."
+        ],
+        [
+            "First Soldier",
+            "I'll tell the news. Here comes the general.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "First Soldier",
+            "Brutus is ta'en, Brutus is ta'en, my lord.",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "ANTONY",
+            "Where is he?"
+        ],
+        [
+            "LUCILIUS",
+            "Safe, Antony; Brutus is safe enough:"
+        ],
+        [
+            "LUCILIUS",
+            "I dare assure thee that no enemy"
+        ],
+        [
+            "LUCILIUS",
+            "Shall ever take alive the noble Brutus:"
+        ],
+        [
+            "LUCILIUS",
+            "The gods defend him from so great a shame!"
+        ],
+        [
+            "LUCILIUS",
+            "When you do find him, or alive or dead,"
+        ],
+        [
+            "LUCILIUS",
+            "He will be found like Brutus, like himself."
+        ],
+        [
+            "ANTONY",
+            "This is not Brutus, friend; but, I assure you,"
+        ],
+        [
+            "ANTONY",
+            "A prize no less in worth: keep this man safe;"
+        ],
+        [
+            "ANTONY",
+            "Give him all kindness: I had rather have"
+        ],
+        [
+            "ANTONY",
+            "Such men my friends than enemies. Go on,"
+        ],
+        [
+            "ANTONY",
+            "And see whether Brutus be alive or dead;"
+        ],
+        [
+            "ANTONY",
+            "And bring us word unto Octavius' tent"
+        ],
+        [
+            "ANTONY",
+            "How every thing is chanced.",
+            {
+                "following_direction_line": "5"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Alarum. Enter fighting, Soldiers of both armies; then BRUTUS, CATO, LUCILIUS, and others"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Offering money"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter ANTONY"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "BRUTUS": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "7",
+                "8"
+            ]
+        ],
+        "CATO": [
+            [
+                "2",
+                "6"
+            ]
+        ],
+        "LUCILIUS": [
+            [
+                "9",
+                "11"
+            ],
+            [
+                "13",
+                "15"
+            ],
+            [
+                "21",
+                "26"
+            ]
+        ],
+        "First Soldier": [
+            [
+                "12",
+                "12"
+            ],
+            [
+                "16",
+                "16"
+            ],
+            [
+                "18",
+                "19"
+            ]
+        ],
+        "Second Soldier": [
+            [
+                "17",
+                "17"
+            ]
+        ],
+        "ANTONY": [
+            [
+                "20",
+                "20"
+            ],
+            [
+                "27",
+                "33"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IV",
+    "scene_description": "Another part of the field."
+}

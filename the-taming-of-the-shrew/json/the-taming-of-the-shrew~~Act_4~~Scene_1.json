@@ -1,0 +1,1259 @@
+{
+    "scene_id": "the taming of the shrew~~Act_4~~Scene_1",
+    "work_number": "8",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "GRUMIO",
+            "Fie, fie on all tired jades, on all mad masters, and",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "GRUMIO",
+            "all foul ways! Was ever man so beaten? was ever"
+        ],
+        [
+            "GRUMIO",
+            "man so rayed? was ever man so weary? I am sent"
+        ],
+        [
+            "GRUMIO",
+            "before to make a fire, and they are coming after to"
+        ],
+        [
+            "GRUMIO",
+            "warm them. Now, were not I a little pot and soon"
+        ],
+        [
+            "GRUMIO",
+            "hot, my very lips might freeze to my teeth, my"
+        ],
+        [
+            "GRUMIO",
+            "tongue to the roof of my mouth, my heart in my"
+        ],
+        [
+            "GRUMIO",
+            "belly, ere I should come by a fire to thaw me: but"
+        ],
+        [
+            "GRUMIO",
+            "I, with blowing the fire, shall warm myself; for,"
+        ],
+        [
+            "GRUMIO",
+            "considering the weather, a taller man than I will"
+        ],
+        [
+            "GRUMIO",
+            "take cold. Holla, ho! Curtis.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "CURTIS",
+            "Who is that calls so coldly?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "GRUMIO",
+            "A piece of ice: if thou doubt it, thou mayst slide"
+        ],
+        [
+            "GRUMIO",
+            "from my shoulder to my heel with no greater a run"
+        ],
+        [
+            "GRUMIO",
+            "but my head and my neck. A fire good Curtis."
+        ],
+        [
+            "CURTIS",
+            "Is my master and his wife coming, Grumio?"
+        ],
+        [
+            "GRUMIO",
+            "O, ay, Curtis, ay: and therefore fire, fire; cast"
+        ],
+        [
+            "GRUMIO",
+            "on no water."
+        ],
+        [
+            "CURTIS",
+            "Is she so hot a shrew as she's reported?"
+        ],
+        [
+            "GRUMIO",
+            "She was, good Curtis, before this frost: but, thou"
+        ],
+        [
+            "GRUMIO",
+            "knowest, winter tames man, woman and beast; for it"
+        ],
+        [
+            "GRUMIO",
+            "hath tamed my old master and my new mistress and"
+        ],
+        [
+            "GRUMIO",
+            "myself, fellow Curtis."
+        ],
+        [
+            "CURTIS",
+            "Away, you three-inch fool! I am no beast."
+        ],
+        [
+            "GRUMIO",
+            "Am I but three inches? why, thy horn is a foot; and"
+        ],
+        [
+            "GRUMIO",
+            "so long am I at the least. But wilt thou make a"
+        ],
+        [
+            "GRUMIO",
+            "fire, or shall I complain on thee to our mistress,"
+        ],
+        [
+            "GRUMIO",
+            "whose hand, she being now at hand, thou shalt soon"
+        ],
+        [
+            "GRUMIO",
+            "feel, to thy cold comfort, for being slow in thy hot office?"
+        ],
+        [
+            "CURTIS",
+            "I prithee, good Grumio, tell me, how goes the world?"
+        ],
+        [
+            "GRUMIO",
+            "A cold world, Curtis, in every office but thine; and"
+        ],
+        [
+            "GRUMIO",
+            "therefore fire: do thy duty, and have thy duty; for"
+        ],
+        [
+            "GRUMIO",
+            "my master and mistress are almost frozen to death."
+        ],
+        [
+            "CURTIS",
+            "There's fire ready; and therefore, good Grumio, the news."
+        ],
+        [
+            "GRUMIO",
+            "Why, 'Jack, boy! ho! boy!' and as much news as"
+        ],
+        [
+            "GRUMIO",
+            "will thaw."
+        ],
+        [
+            "CURTIS",
+            "Come, you are so full of cony-catching!"
+        ],
+        [
+            "GRUMIO",
+            "Why, therefore fire; for I have caught extreme cold."
+        ],
+        [
+            "GRUMIO",
+            "Where's the cook? is supper ready, the house"
+        ],
+        [
+            "GRUMIO",
+            "trimmed, rushes strewed, cobwebs swept; the"
+        ],
+        [
+            "GRUMIO",
+            "serving-men in their new fustian, their white"
+        ],
+        [
+            "GRUMIO",
+            "stockings, and every officer his wedding-garment on?"
+        ],
+        [
+            "GRUMIO",
+            "Be the jacks fair within, the jills fair without,"
+        ],
+        [
+            "GRUMIO",
+            "the carpets laid, and every thing in order?"
+        ],
+        [
+            "CURTIS",
+            "All ready; and therefore, I pray thee, news."
+        ],
+        [
+            "GRUMIO",
+            "First, know, my horse is tired; my master and"
+        ],
+        [
+            "GRUMIO",
+            "mistress fallen out."
+        ],
+        [
+            "CURTIS",
+            "How?"
+        ],
+        [
+            "GRUMIO",
+            "Out of their saddles into the dirt; and thereby"
+        ],
+        [
+            "GRUMIO",
+            "hangs a tale."
+        ],
+        [
+            "CURTIS",
+            "Let's ha't, good Grumio."
+        ],
+        [
+            "GRUMIO",
+            "Lend thine ear."
+        ],
+        [
+            "CURTIS",
+            "Here."
+        ],
+        [
+            "GRUMIO",
+            "There.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "CURTIS",
+            "This is to feel a tale, not to hear a tale.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "GRUMIO",
+            "And therefore 'tis called a sensible tale: and this"
+        ],
+        [
+            "GRUMIO",
+            "cuff was but to knock at your ear, and beseech"
+        ],
+        [
+            "GRUMIO",
+            "listening. Now I begin: Imprimis, we came down a"
+        ],
+        [
+            "GRUMIO",
+            "foul hill, my master riding behind my mistress,--"
+        ],
+        [
+            "CURTIS",
+            "Both of one horse?"
+        ],
+        [
+            "GRUMIO",
+            "What's that to thee?"
+        ],
+        [
+            "CURTIS",
+            "Why, a horse."
+        ],
+        [
+            "GRUMIO",
+            "Tell thou the tale: but hadst thou not crossed me,"
+        ],
+        [
+            "GRUMIO",
+            "thou shouldst have heard how her horse fell and she"
+        ],
+        [
+            "GRUMIO",
+            "under her horse; thou shouldst have heard in how"
+        ],
+        [
+            "GRUMIO",
+            "miry a place, how she was bemoiled, how he left her"
+        ],
+        [
+            "GRUMIO",
+            "with the horse upon her, how he beat me because"
+        ],
+        [
+            "GRUMIO",
+            "her horse stumbled, how she waded through the dirt"
+        ],
+        [
+            "GRUMIO",
+            "to pluck him off me, how he swore, how she prayed,"
+        ],
+        [
+            "GRUMIO",
+            "that never prayed before, how I cried, how the"
+        ],
+        [
+            "GRUMIO",
+            "horses ran away, how her bridle was burst, how I"
+        ],
+        [
+            "GRUMIO",
+            "lost my crupper, with many things of worthy memory,"
+        ],
+        [
+            "GRUMIO",
+            "which now shall die in oblivion and thou return"
+        ],
+        [
+            "GRUMIO",
+            "unexperienced to thy grave."
+        ],
+        [
+            "CURTIS",
+            "By this reckoning he is more shrew than she."
+        ],
+        [
+            "GRUMIO",
+            "Ay; and that thou and the proudest of you all shall"
+        ],
+        [
+            "GRUMIO",
+            "find when he comes home. But what talk I of this?"
+        ],
+        [
+            "GRUMIO",
+            "Call forth Nathaniel, Joseph, Nicholas, Philip,"
+        ],
+        [
+            "GRUMIO",
+            "Walter, Sugarsop and the rest: let their heads be"
+        ],
+        [
+            "GRUMIO",
+            "sleekly combed their blue coats brushed and their"
+        ],
+        [
+            "GRUMIO",
+            "garters of an indifferent knit: let them curtsy"
+        ],
+        [
+            "GRUMIO",
+            "with their left legs and not presume to touch a hair"
+        ],
+        [
+            "GRUMIO",
+            "of my master's horse-tail till they kiss their"
+        ],
+        [
+            "GRUMIO",
+            "hands. Are they all ready?"
+        ],
+        [
+            "CURTIS",
+            "They are."
+        ],
+        [
+            "GRUMIO",
+            "Call them forth."
+        ],
+        [
+            "CURTIS",
+            "Do you hear, ho? you must meet my master to"
+        ],
+        [
+            "CURTIS",
+            "countenance my mistress."
+        ],
+        [
+            "GRUMIO",
+            "Why, she hath a face of her own."
+        ],
+        [
+            "CURTIS",
+            "Who knows not that?"
+        ],
+        [
+            "GRUMIO",
+            "Thou, it seems, that calls for company to"
+        ],
+        [
+            "GRUMIO",
+            "countenance her."
+        ],
+        [
+            "CURTIS",
+            "I call them forth to credit her."
+        ],
+        [
+            "GRUMIO",
+            "Why, she comes to borrow nothing of them.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "NATHANIEL",
+            "Welcome home, Grumio!",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "PHILIP",
+            "How now, Grumio!"
+        ],
+        [
+            "JOSEPH",
+            "What, Grumio!"
+        ],
+        [
+            "NICHOLAS",
+            "Fellow Grumio!"
+        ],
+        [
+            "NATHANIEL",
+            "How now, old lad?"
+        ],
+        [
+            "GRUMIO",
+            "Welcome, you;--how now, you;-- what, you;--fellow,"
+        ],
+        [
+            "GRUMIO",
+            "you;--and thus much for greeting. Now, my spruce"
+        ],
+        [
+            "GRUMIO",
+            "companions, is all ready, and all things neat?"
+        ],
+        [
+            "NATHANIEL",
+            "All things is ready. How near is our master?"
+        ],
+        [
+            "GRUMIO",
+            "E'en at hand, alighted by this; and therefore be"
+        ],
+        [
+            "GRUMIO",
+            "not--Cock's passion, silence! I hear my master.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "Where be these knaves? What, no man at door",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "To hold my stirrup nor to take my horse!"
+        ],
+        [
+            "PETRUCHIO",
+            "Where is Nathaniel, Gregory, Philip?"
+        ],
+        [
+            "PETRUCHIO",
+            "ALL SERVING-MEN Here, here, sir; here, sir."
+        ],
+        [
+            "PETRUCHIO",
+            "Here, sir! here, sir! here, sir! here, sir!"
+        ],
+        [
+            "PETRUCHIO",
+            "You logger-headed and unpolish'd grooms!"
+        ],
+        [
+            "PETRUCHIO",
+            "What, no attendance? no regard? no duty?"
+        ],
+        [
+            "PETRUCHIO",
+            "Where is the foolish knave I sent before?"
+        ],
+        [
+            "GRUMIO",
+            "Here, sir; as foolish as I was before."
+        ],
+        [
+            "PETRUCHIO",
+            "You peasant swain! you whoreson malt-horse drudge!"
+        ],
+        [
+            "PETRUCHIO",
+            "Did I not bid thee meet me in the park,"
+        ],
+        [
+            "PETRUCHIO",
+            "And bring along these rascal knaves with thee?"
+        ],
+        [
+            "GRUMIO",
+            "Nathaniel's coat, sir, was not fully made,"
+        ],
+        [
+            "GRUMIO",
+            "And Gabriel's pumps were all unpink'd i' the heel;"
+        ],
+        [
+            "GRUMIO",
+            "There was no link to colour Peter's hat,"
+        ],
+        [
+            "GRUMIO",
+            "And Walter's dagger was not come from sheathing:"
+        ],
+        [
+            "GRUMIO",
+            "There were none fine but Adam, Ralph, and Gregory;"
+        ],
+        [
+            "GRUMIO",
+            "The rest were ragged, old, and beggarly;"
+        ],
+        [
+            "GRUMIO",
+            "Yet, as they are, here are they come to meet you."
+        ],
+        [
+            "PETRUCHIO",
+            "Go, rascals, go, and fetch my supper in.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "Where is the life that late I led--",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "Where are those--Sit down, Kate, and welcome.--"
+        ],
+        [
+            "PETRUCHIO",
+            "Sound, sound, sound, sound!",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "Why, when, I say? Nay, good sweet Kate, be merry.",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "Off with my boots, you rogues! you villains, when?",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "It was the friar of orders grey,",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "As he forth walked on his way:--"
+        ],
+        [
+            "PETRUCHIO",
+            "Out, you rogue! you pluck my foot awry:"
+        ],
+        [
+            "PETRUCHIO",
+            "Take that, and mend the plucking off the other.",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "Be merry, Kate. Some water, here; what, ho!",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "Where's my spaniel Troilus? Sirrah, get you hence,"
+        ],
+        [
+            "PETRUCHIO",
+            "And bid my cousin Ferdinand come hither:"
+        ],
+        [
+            "PETRUCHIO",
+            "One, Kate, that you must kiss, and be acquainted with."
+        ],
+        [
+            "PETRUCHIO",
+            "Where are my slippers? Shall I have some water?",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "Come, Kate, and wash, and welcome heartily.",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "You whoreson villain! will you let it fall?",
+            {
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "KATHARINA",
+            "Patience, I pray you; 'twas a fault unwilling.",
+            {
+                "preceding_direction_line": "11"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "A whoreson beetle-headed, flap-ear'd knave!"
+        ],
+        [
+            "PETRUCHIO",
+            "Come, Kate, sit down; I know you have a stomach."
+        ],
+        [
+            "PETRUCHIO",
+            "Will you give thanks, sweet Kate; or else shall I?"
+        ],
+        [
+            "PETRUCHIO",
+            "What's this? mutton?"
+        ],
+        [
+            "First Servant",
+            "Ay."
+        ],
+        [
+            "PETRUCHIO",
+            "Who brought it?"
+        ],
+        [
+            "PETER",
+            "I."
+        ],
+        [
+            "PETRUCHIO",
+            "'Tis burnt; and so is all the meat."
+        ],
+        [
+            "PETRUCHIO",
+            "What dogs are these! Where is the rascal cook?"
+        ],
+        [
+            "PETRUCHIO",
+            "How durst you, villains, bring it from the dresser,"
+        ],
+        [
+            "PETRUCHIO",
+            "And serve it thus to me that love it not?"
+        ],
+        [
+            "PETRUCHIO",
+            "Theretake it to you, trenchers, cups, and all;",
+            {
+                "following_direction_line": "12"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "You heedless joltheads and unmanner'd slaves!",
+            {
+                "preceding_direction_line": "12"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "What, do you grumble? I'll be with you straight."
+        ],
+        [
+            "KATHARINA",
+            "I pray you, husband, be not so disquiet:"
+        ],
+        [
+            "KATHARINA",
+            "The meat was well, if you were so contented."
+        ],
+        [
+            "PETRUCHIO",
+            "I tell thee, Kate, 'twas burnt and dried away;"
+        ],
+        [
+            "PETRUCHIO",
+            "And I expressly am forbid to touch it,"
+        ],
+        [
+            "PETRUCHIO",
+            "For it engenders choler, planteth anger;"
+        ],
+        [
+            "PETRUCHIO",
+            "And better 'twere that both of us did fast,"
+        ],
+        [
+            "PETRUCHIO",
+            "Since, of ourselves, ourselves are choleric,"
+        ],
+        [
+            "PETRUCHIO",
+            "Than feed it with such over-roasted flesh."
+        ],
+        [
+            "PETRUCHIO",
+            "Be patient; to-morrow 't shall be mended,"
+        ],
+        [
+            "PETRUCHIO",
+            "And, for this night, we'll fast for company:"
+        ],
+        [
+            "PETRUCHIO",
+            "Come, I will bring thee to thy bridal chamber.",
+            {
+                "following_direction_line": "13"
+            }
+        ],
+        [
+            "NATHANIEL",
+            "Peter, didst ever see the like?",
+            {
+                "preceding_direction_line": "13"
+            }
+        ],
+        [
+            "PETER",
+            "He kills her in her own humour.",
+            {
+                "following_direction_line": "14"
+            }
+        ],
+        [
+            "GRUMIO",
+            "Where is he?",
+            {
+                "preceding_direction_line": "14"
+            }
+        ],
+        [
+            "CURTIS",
+            "In her chamber, making a sermon of continency to her;"
+        ],
+        [
+            "CURTIS",
+            "And rails, and swears, and rates, that she, poor soul,"
+        ],
+        [
+            "CURTIS",
+            "Knows not which way to stand, to look, to speak,"
+        ],
+        [
+            "CURTIS",
+            "And sits as one new-risen from a dream."
+        ],
+        [
+            "CURTIS",
+            "Away, away! for he is coming hither.",
+            {
+                "following_direction_line": "15"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "Thus have I politicly begun my reign,",
+            {
+                "preceding_direction_line": "15"
+            }
+        ],
+        [
+            "PETRUCHIO",
+            "And 'tis my hope to end successfully."
+        ],
+        [
+            "PETRUCHIO",
+            "My falcon now is sharp and passing empty;"
+        ],
+        [
+            "PETRUCHIO",
+            "And till she stoop she must not be full-gorged,"
+        ],
+        [
+            "PETRUCHIO",
+            "For then she never looks upon her lure."
+        ],
+        [
+            "PETRUCHIO",
+            "Another way I have to man my haggard,"
+        ],
+        [
+            "PETRUCHIO",
+            "To make her come and know her keeper's call,"
+        ],
+        [
+            "PETRUCHIO",
+            "That is, to watch her, as we watch these kites"
+        ],
+        [
+            "PETRUCHIO",
+            "That bate and beat and will not be obedient."
+        ],
+        [
+            "PETRUCHIO",
+            "She eat no meat to-day, nor none shall eat;"
+        ],
+        [
+            "PETRUCHIO",
+            "Last night she slept not, nor to-night she shall not;"
+        ],
+        [
+            "PETRUCHIO",
+            "As with the meat, some undeserved fault"
+        ],
+        [
+            "PETRUCHIO",
+            "I'll find about the making of the bed;"
+        ],
+        [
+            "PETRUCHIO",
+            "And here I'll fling the pillow, there the bolster,"
+        ],
+        [
+            "PETRUCHIO",
+            "This way the coverlet, another way the sheets:"
+        ],
+        [
+            "PETRUCHIO",
+            "Ay, and amid this hurly I intend"
+        ],
+        [
+            "PETRUCHIO",
+            "That all is done in reverend care of her;"
+        ],
+        [
+            "PETRUCHIO",
+            "And in conclusion she shall watch all night:"
+        ],
+        [
+            "PETRUCHIO",
+            "And if she chance to nod I'll rail and brawl"
+        ],
+        [
+            "PETRUCHIO",
+            "And with the clamour keep her still awake."
+        ],
+        [
+            "PETRUCHIO",
+            "This is a way to kill a wife with kindness;"
+        ],
+        [
+            "PETRUCHIO",
+            "And thus I'll curb her mad and headstrong humour."
+        ],
+        [
+            "PETRUCHIO",
+            "He that knows better how to tame a shrew,"
+        ],
+        [
+            "PETRUCHIO",
+            "Now let him speak: 'tis charity to show.",
+            {
+                "following_direction_line": "16"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter GRUMIO"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter CURTIS"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Strikes him"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter four or five Serving-men"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Enter PETRUCHIO and KATHARINA"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exeunt Servants. Singing"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Re-enter Servants with supper"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Sings"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Strikes him"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Enter one with water"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "Strikes him"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Throws the meat, etc,. about the stage"
+        ],
+        [
+            "_DIRECTION",
+            "D13",
+            "Exeunt. Re-enter Servants severally"
+        ],
+        [
+            "_DIRECTION",
+            "D14",
+            "Re-enter CURTIS"
+        ],
+        [
+            "_DIRECTION",
+            "D15",
+            "Exeunt. Re-enter PETRUCHIO"
+        ],
+        [
+            "_DIRECTION",
+            "D16",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "GRUMIO": [
+            [
+                "1",
+                "11"
+            ],
+            [
+                "13",
+                "15"
+            ],
+            [
+                "17",
+                "18"
+            ],
+            [
+                "20",
+                "23"
+            ],
+            [
+                "25",
+                "29"
+            ],
+            [
+                "31",
+                "33"
+            ],
+            [
+                "35",
+                "36"
+            ],
+            [
+                "38",
+                "44"
+            ],
+            [
+                "46",
+                "47"
+            ],
+            [
+                "49",
+                "50"
+            ],
+            [
+                "52",
+                "52"
+            ],
+            [
+                "54",
+                "54"
+            ],
+            [
+                "56",
+                "59"
+            ],
+            [
+                "61",
+                "61"
+            ],
+            [
+                "63",
+                "74"
+            ],
+            [
+                "76",
+                "84"
+            ],
+            [
+                "86",
+                "86"
+            ],
+            [
+                "89",
+                "89"
+            ],
+            [
+                "91",
+                "92"
+            ],
+            [
+                "94",
+                "94"
+            ],
+            [
+                "100",
+                "102"
+            ],
+            [
+                "104",
+                "105"
+            ],
+            [
+                "114",
+                "114"
+            ],
+            [
+                "118",
+                "124"
+            ],
+            [
+                "170",
+                "170"
+            ]
+        ],
+        "CURTIS": [
+            [
+                "12",
+                "12"
+            ],
+            [
+                "16",
+                "16"
+            ],
+            [
+                "19",
+                "19"
+            ],
+            [
+                "24",
+                "24"
+            ],
+            [
+                "30",
+                "30"
+            ],
+            [
+                "34",
+                "34"
+            ],
+            [
+                "37",
+                "37"
+            ],
+            [
+                "45",
+                "45"
+            ],
+            [
+                "48",
+                "48"
+            ],
+            [
+                "51",
+                "51"
+            ],
+            [
+                "53",
+                "53"
+            ],
+            [
+                "55",
+                "55"
+            ],
+            [
+                "60",
+                "60"
+            ],
+            [
+                "62",
+                "62"
+            ],
+            [
+                "75",
+                "75"
+            ],
+            [
+                "85",
+                "85"
+            ],
+            [
+                "87",
+                "88"
+            ],
+            [
+                "90",
+                "90"
+            ],
+            [
+                "93",
+                "93"
+            ],
+            [
+                "171",
+                "175"
+            ]
+        ],
+        "NATHANIEL": [
+            [
+                "95",
+                "95"
+            ],
+            [
+                "99",
+                "99"
+            ],
+            [
+                "103",
+                "103"
+            ],
+            [
+                "168",
+                "168"
+            ]
+        ],
+        "PHILIP": [
+            [
+                "96",
+                "96"
+            ]
+        ],
+        "JOSEPH": [
+            [
+                "97",
+                "97"
+            ]
+        ],
+        "NICHOLAS": [
+            [
+                "98",
+                "98"
+            ]
+        ],
+        "PETRUCHIO": [
+            [
+                "106",
+                "113"
+            ],
+            [
+                "115",
+                "117"
+            ],
+            [
+                "125",
+                "141"
+            ],
+            [
+                "143",
+                "146"
+            ],
+            [
+                "148",
+                "148"
+            ],
+            [
+                "150",
+                "156"
+            ],
+            [
+                "159",
+                "167"
+            ],
+            [
+                "176",
+                "199"
+            ]
+        ],
+        "KATHARINA": [
+            [
+                "142",
+                "142"
+            ],
+            [
+                "157",
+                "158"
+            ]
+        ],
+        "First Servant": [
+            [
+                "147",
+                "147"
+            ]
+        ],
+        "PETER": [
+            [
+                "149",
+                "149"
+            ],
+            [
+                "169",
+                "169"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "PETRUCHIO'S country house."
+}

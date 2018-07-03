@@ -1,0 +1,97 @@
+_S_SCENE I. Before the castle.
+_D_Enter CASSIO and some Musicians
+_R_CASSIO
+Masters, play here; I will content your pains;
+Something that's brief; and bid 'Good morrow, general.'
+_D_Music
+_D_Enter Clown
+_R_Clown
+Why masters, have your instruments been in Naples,
+that they speak i' the nose thus?
+_R_First Musician
+How, sir, how!
+_R_Clown
+Are these, I pray you, wind-instruments?
+_R_First Musician
+Ay, marry, are they, sir.
+_R_Clown
+O, thereby hangs a tail.
+_R_First Musician
+Whereby hangs a tale, sir?
+_R_Clown
+Marry. sir, by many a wind-instrument that I know.
+But, masters, here's money for you: and the general
+so likes your music, that he desires you, for love's
+sake, to make no more noise with it.
+_R_First Musician
+Well, sir, we will not.
+_R_Clown
+If you have any music that may not be heard, to't
+again: but, as they say to hear music the general
+does not greatly care.
+_R_First Musician
+We have none such, sir.
+_R_Clown
+Then put up your pipes in your bag, for I'll away:
+go; vanish into air; away!
+_D_Exeunt Musicians
+_R_CASSIO
+Dost thou hear, my honest friend?
+_R_Clown
+No, I hear not your honest friend; I hear you.
+_R_CASSIO
+Prithee, keep up thy quillets. There's a poor piece
+of gold for thee: if the gentlewoman that attends
+the general's wife be stirring, tell her there's
+one Cassio entreats her a little favour of speech:
+wilt thou do this?
+_R_Clown
+She is stirring, sir: if she will stir hither, I
+shall seem to notify unto her.
+_R_CASSIO
+Do, good my friend.
+_D_Exit Clown
+_D_Enter IAGO
+In happy time, Iago.
+_R_IAGO
+You have not been a-bed, then?
+_R_CASSIO
+Why, no; the day had broke
+Before we parted. I have made bold, Iago,
+To send in to your wife: my suit to her
+Is, that she will to virtuous Desdemona
+Procure me some access.
+_R_IAGO
+I'll send her to you presently;
+And I'll devise a mean to draw the Moor
+Out of the way, that your converse and business
+May be more free.
+_R_CASSIO
+I humbly thank you for't.
+_D_Exit IAGO
+I never knew
+A Florentine more kind and honest.
+_D_Enter EMILIA
+_R_EMILIA
+Good morrow, good Lieutenant: I am sorry
+For your displeasure; but all will sure be well.
+The general and his wife are talking of it;
+And she speaks for you stoutly: the Moor replies,
+That he you hurt is of great fame in Cyprus,
+And great affinity, and that in wholesome wisdom
+He might not but refuse you; but he protests he loves you
+And needs no other suitor but his likings
+To take the safest occasion by the front
+To bring you in again.
+_R_CASSIO
+Yet, I beseech you,
+If you think fit, or that it may be done,
+Give me advantage of some brief discourse
+With Desdemona alone.
+_R_EMILIA
+Pray you, come in;
+I will bestow you where you shall have time
+To speak your bosom freely.
+_R_CASSIO
+I am much bound to you.
+_D_Exeunt

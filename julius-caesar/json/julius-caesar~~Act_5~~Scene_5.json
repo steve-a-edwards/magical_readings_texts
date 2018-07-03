@@ -1,0 +1,631 @@
+{
+    "scene_id": "julius caesar~~Act_5~~Scene_5",
+    "work_number": "11",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "BRUTUS",
+            "Come, poor remains of friends, rest on this rock.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "CLITUS",
+            "Statilius show'd the torch-light, but, my lord,"
+        ],
+        [
+            "CLITUS",
+            "He came not back: he is or ta'en or slain."
+        ],
+        [
+            "BRUTUS",
+            "Sit thee down, Clitus: slaying is the word;"
+        ],
+        [
+            "BRUTUS",
+            "It is a deed in fashion. Hark thee, Clitus.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "CLITUS",
+            "What, I, my lord? No, not for all the world.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Peace then! no words."
+        ],
+        [
+            "CLITUS",
+            "I'll rather kill myself."
+        ],
+        [
+            "BRUTUS",
+            "Hark thee, Dardanius.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "DARDANIUS",
+            "Shall I do such a deed?",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "CLITUS",
+            "O Dardanius!"
+        ],
+        [
+            "DARDANIUS",
+            "O Clitus!"
+        ],
+        [
+            "CLITUS",
+            "What ill request did Brutus make to thee?"
+        ],
+        [
+            "DARDANIUS",
+            "To kill him, Clitus. Look, he meditates."
+        ],
+        [
+            "CLITUS",
+            "Now is that noble vessel full of grief,"
+        ],
+        [
+            "CLITUS",
+            "That it runs over even at his eyes."
+        ],
+        [
+            "BRUTUS",
+            "Come hither, good Volumnius; list a word."
+        ],
+        [
+            "VOLUMNIUS",
+            "What says my lord?"
+        ],
+        [
+            "BRUTUS",
+            "Why, this, Volumnius:"
+        ],
+        [
+            "BRUTUS",
+            "The ghost of Caesar hath appear'd to me"
+        ],
+        [
+            "BRUTUS",
+            "Two several times by night; at Sardis once,"
+        ],
+        [
+            "BRUTUS",
+            "And, this last night, here in Philippi fields:"
+        ],
+        [
+            "BRUTUS",
+            "I know my hour is come."
+        ],
+        [
+            "VOLUMNIUS",
+            "Not so, my lord."
+        ],
+        [
+            "BRUTUS",
+            "Nay, I am sure it is, Volumnius."
+        ],
+        [
+            "BRUTUS",
+            "Thou seest the world, Volumnius, how it goes;"
+        ],
+        [
+            "BRUTUS",
+            "Our enemies have beat us to the pit:",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "BRUTUS",
+            "It is more worthy to leap in ourselves,",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Than tarry till they push us. Good Volumnius,"
+        ],
+        [
+            "BRUTUS",
+            "Thou know'st that we two went to school together:"
+        ],
+        [
+            "BRUTUS",
+            "Even for that our love of old, I prithee,"
+        ],
+        [
+            "BRUTUS",
+            "Hold thou my sword-hilts, whilst I run on it."
+        ],
+        [
+            "VOLUMNIUS",
+            "That's not an office for a friend, my lord.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "CLITUS",
+            "Fly, fly, my lord; there is no tarrying here.",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Farewell to you; and you; and you, Volumnius."
+        ],
+        [
+            "BRUTUS",
+            "Strato, thou hast been all this while asleep;"
+        ],
+        [
+            "BRUTUS",
+            "Farewell to thee too, Strato. Countrymen,"
+        ],
+        [
+            "BRUTUS",
+            "My heart doth joy that yet in all my life"
+        ],
+        [
+            "BRUTUS",
+            "I found no man but he was true to me."
+        ],
+        [
+            "BRUTUS",
+            "I shall have glory by this losing day"
+        ],
+        [
+            "BRUTUS",
+            "More than Octavius and Mark Antony"
+        ],
+        [
+            "BRUTUS",
+            "By this vile conquest shall attain unto."
+        ],
+        [
+            "BRUTUS",
+            "So fare you well at once; for Brutus' tongue"
+        ],
+        [
+            "BRUTUS",
+            "Hath almost ended his life's history:"
+        ],
+        [
+            "BRUTUS",
+            "Night hangs upon mine eyes; my bones would rest,"
+        ],
+        [
+            "BRUTUS",
+            "That have but labour'd to attain this hour.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "CLITUS",
+            "Fly, my lord, fly.",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Hence! I will follow.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "BRUTUS",
+            "I prithee, Strato, stay thou by thy lord:",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Thou art a fellow of a good respect;"
+        ],
+        [
+            "BRUTUS",
+            "Thy life hath had some smatch of honour in it:"
+        ],
+        [
+            "BRUTUS",
+            "Hold then my sword, and turn away thy face,"
+        ],
+        [
+            "BRUTUS",
+            "While I do run upon it. Wilt thou, Strato?"
+        ],
+        [
+            "STRATO",
+            "Give me your hand first. Fare you well, my lord."
+        ],
+        [
+            "BRUTUS",
+            "Farewell, good Strato.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "BRUTUS",
+            "Caesar, now be still:",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "BRUTUS",
+            "I kill'd not thee with half so good a will.",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "OCTAVIUS",
+            "What man is that?",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "MESSALA",
+            "My master's man. Strato, where is thy master?"
+        ],
+        [
+            "STRATO",
+            "Free from the bondage you are in, Messala:"
+        ],
+        [
+            "STRATO",
+            "The conquerors can but make a fire of him;"
+        ],
+        [
+            "STRATO",
+            "For Brutus only overcame himself,"
+        ],
+        [
+            "STRATO",
+            "And no man else hath honour by his death."
+        ],
+        [
+            "LUCILIUS",
+            "So Brutus should be found. I thank thee, Brutus,"
+        ],
+        [
+            "LUCILIUS",
+            "That thou hast proved Lucilius' saying true."
+        ],
+        [
+            "OCTAVIUS",
+            "All that served Brutus, I will entertain them."
+        ],
+        [
+            "OCTAVIUS",
+            "Fellow, wilt thou bestow thy time with me?"
+        ],
+        [
+            "STRATO",
+            "Ay, if Messala will prefer me to you."
+        ],
+        [
+            "OCTAVIUS",
+            "Do so, good Messala."
+        ],
+        [
+            "MESSALA",
+            "How died my master, Strato?"
+        ],
+        [
+            "STRATO",
+            "I held the sword, and he did run on it."
+        ],
+        [
+            "MESSALA",
+            "Octavius, then take him to follow thee,"
+        ],
+        [
+            "MESSALA",
+            "That did the latest service to my master."
+        ],
+        [
+            "ANTONY",
+            "This was the noblest Roman of them all:"
+        ],
+        [
+            "ANTONY",
+            "All the conspirators save only he"
+        ],
+        [
+            "ANTONY",
+            "Did that they did in envy of great Caesar;"
+        ],
+        [
+            "ANTONY",
+            "He only, in a general honest thought"
+        ],
+        [
+            "ANTONY",
+            "And common good to all, made one of them."
+        ],
+        [
+            "ANTONY",
+            "His life was gentle, and the elements"
+        ],
+        [
+            "ANTONY",
+            "So mix'd in him that Nature might stand up"
+        ],
+        [
+            "ANTONY",
+            "And say to all the world 'This was a man!'"
+        ],
+        [
+            "OCTAVIUS",
+            "According to his virtue let us use him,"
+        ],
+        [
+            "OCTAVIUS",
+            "With all respect and rites of burial."
+        ],
+        [
+            "OCTAVIUS",
+            "Within my tent his bones to-night shall lie,"
+        ],
+        [
+            "OCTAVIUS",
+            "Most like a soldier, order'd honourably."
+        ],
+        [
+            "OCTAVIUS",
+            "So call the field to rest; and let's away,"
+        ],
+        [
+            "OCTAVIUS",
+            "To part the glories of this happy day.",
+            {
+                "following_direction_line": "10"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter BRUTUS, DARDANIUS, CLITUS, STRATO, and VOLUMNIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Whispers"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Whispers"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Low alarums"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Alarum still"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Alarum. Cry within, 'Fly, fly, fly!'"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exeunt CLITUS, DARDANIUS, and VOLUMNIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Runs on his sword"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Dies. Alarum. Retreat. Enter OCTAVIUS, ANTONY, MESSALA, LUCILIUS, and the army"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "BRUTUS": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "4",
+                "5"
+            ],
+            [
+                "7",
+                "7"
+            ],
+            [
+                "9",
+                "9"
+            ],
+            [
+                "17",
+                "17"
+            ],
+            [
+                "19",
+                "23"
+            ],
+            [
+                "25",
+                "32"
+            ],
+            [
+                "35",
+                "46"
+            ],
+            [
+                "48",
+                "53"
+            ],
+            [
+                "55",
+                "57"
+            ]
+        ],
+        "CLITUS": [
+            [
+                "2",
+                "3"
+            ],
+            [
+                "6",
+                "6"
+            ],
+            [
+                "8",
+                "8"
+            ],
+            [
+                "11",
+                "11"
+            ],
+            [
+                "13",
+                "13"
+            ],
+            [
+                "15",
+                "16"
+            ],
+            [
+                "34",
+                "34"
+            ],
+            [
+                "47",
+                "47"
+            ]
+        ],
+        "DARDANIUS": [
+            [
+                "10",
+                "10"
+            ],
+            [
+                "12",
+                "12"
+            ],
+            [
+                "14",
+                "14"
+            ]
+        ],
+        "VOLUMNIUS": [
+            [
+                "18",
+                "18"
+            ],
+            [
+                "24",
+                "24"
+            ],
+            [
+                "33",
+                "33"
+            ]
+        ],
+        "STRATO": [
+            [
+                "54",
+                "54"
+            ],
+            [
+                "60",
+                "63"
+            ],
+            [
+                "68",
+                "68"
+            ],
+            [
+                "71",
+                "71"
+            ]
+        ],
+        "OCTAVIUS": [
+            [
+                "58",
+                "58"
+            ],
+            [
+                "66",
+                "67"
+            ],
+            [
+                "69",
+                "69"
+            ],
+            [
+                "82",
+                "87"
+            ]
+        ],
+        "MESSALA": [
+            [
+                "59",
+                "59"
+            ],
+            [
+                "70",
+                "70"
+            ],
+            [
+                "72",
+                "73"
+            ]
+        ],
+        "LUCILIUS": [
+            [
+                "64",
+                "65"
+            ]
+        ],
+        "ANTONY": [
+            [
+                "74",
+                "81"
+            ]
+        ]
+    },
+    "scene_name": "SCENE V",
+    "scene_description": "Another part of the field."
+}
