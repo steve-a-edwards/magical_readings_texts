@@ -1,0 +1,1366 @@
+{
+    "scene_id": "a midsummer night's dream~~Act_2~~Scene_1",
+    "work_number": "3",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "PUCK",
+            "How now, spirit! whither wander you?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "Fairy",
+            "Over hill, over dale,"
+        ],
+        [
+            "Fairy",
+            "Thorough bush, thorough brier,"
+        ],
+        [
+            "Fairy",
+            "Over park, over pale,"
+        ],
+        [
+            "Fairy",
+            "Thorough flood, thorough fire,"
+        ],
+        [
+            "Fairy",
+            "I do wander everywhere,"
+        ],
+        [
+            "Fairy",
+            "Swifter than the moon's sphere;"
+        ],
+        [
+            "Fairy",
+            "And I serve the fairy queen,"
+        ],
+        [
+            "Fairy",
+            "To dew her orbs upon the green."
+        ],
+        [
+            "Fairy",
+            "The cowslips tall her pensioners be:"
+        ],
+        [
+            "Fairy",
+            "In their gold coats spots you see;"
+        ],
+        [
+            "Fairy",
+            "Those be rubies, fairy favours,"
+        ],
+        [
+            "Fairy",
+            "In those freckles live their savours:"
+        ],
+        [
+            "Fairy",
+            "I must go seek some dewdrops here"
+        ],
+        [
+            "Fairy",
+            "And hang a pearl in every cowslip's ear."
+        ],
+        [
+            "Fairy",
+            "Farewell, thou lob of spirits; I'll be gone:"
+        ],
+        [
+            "Fairy",
+            "Our queen and all our elves come here anon."
+        ],
+        [
+            "PUCK",
+            "The king doth keep his revels here to-night:"
+        ],
+        [
+            "PUCK",
+            "Take heed the queen come not within his sight;"
+        ],
+        [
+            "PUCK",
+            "For Oberon is passing fell and wrath,"
+        ],
+        [
+            "PUCK",
+            "Because that she as her attendant hath"
+        ],
+        [
+            "PUCK",
+            "A lovely boy, stolen from an Indian king;"
+        ],
+        [
+            "PUCK",
+            "She never had so sweet a changeling;"
+        ],
+        [
+            "PUCK",
+            "And jealous Oberon would have the child"
+        ],
+        [
+            "PUCK",
+            "Knight of his train, to trace the forests wild;"
+        ],
+        [
+            "PUCK",
+            "But she perforce withholds the loved boy,"
+        ],
+        [
+            "PUCK",
+            "Crowns him with flowers and makes him all her joy:"
+        ],
+        [
+            "PUCK",
+            "And now they never meet in grove or green,"
+        ],
+        [
+            "PUCK",
+            "By fountain clear, or spangled starlight sheen,"
+        ],
+        [
+            "PUCK",
+            "But, they do square, that all their elves for fear"
+        ],
+        [
+            "PUCK",
+            "Creep into acorn-cups and hide them there."
+        ],
+        [
+            "Fairy",
+            "Either I mistake your shape and making quite,"
+        ],
+        [
+            "Fairy",
+            "Or else you are that shrewd and knavish sprite"
+        ],
+        [
+            "Fairy",
+            "Call'd Robin Goodfellow: are not you he"
+        ],
+        [
+            "Fairy",
+            "That frights the maidens of the villagery;"
+        ],
+        [
+            "Fairy",
+            "Skim milk, and sometimes labour in the quern"
+        ],
+        [
+            "Fairy",
+            "And bootless make the breathless housewife churn;"
+        ],
+        [
+            "Fairy",
+            "And sometime make the drink to bear no barm;"
+        ],
+        [
+            "Fairy",
+            "Mislead night-wanderers, laughing at their harm?"
+        ],
+        [
+            "Fairy",
+            "Those that Hobgoblin call you and sweet Puck,"
+        ],
+        [
+            "Fairy",
+            "You do their work, and they shall have good luck:"
+        ],
+        [
+            "Fairy",
+            "Are not you he?"
+        ],
+        [
+            "PUCK",
+            "Thou speak'st aright;"
+        ],
+        [
+            "PUCK",
+            "I am that merry wanderer of the night."
+        ],
+        [
+            "PUCK",
+            "I jest to Oberon and make him smile"
+        ],
+        [
+            "PUCK",
+            "When I a fat and bean-fed horse beguile,"
+        ],
+        [
+            "PUCK",
+            "Neighing in likeness of a filly foal:"
+        ],
+        [
+            "PUCK",
+            "And sometime lurk I in a gossip's bowl,"
+        ],
+        [
+            "PUCK",
+            "In very likeness of a roasted crab,"
+        ],
+        [
+            "PUCK",
+            "And when she drinks, against her lips I bob"
+        ],
+        [
+            "PUCK",
+            "And on her wither'd dewlap pour the ale."
+        ],
+        [
+            "PUCK",
+            "The wisest aunt, telling the saddest tale,"
+        ],
+        [
+            "PUCK",
+            "Sometime for three-foot stool mistaketh me;"
+        ],
+        [
+            "PUCK",
+            "Then slip I from her bum, down topples she,"
+        ],
+        [
+            "PUCK",
+            "And 'tailor' cries, and falls into a cough;"
+        ],
+        [
+            "PUCK",
+            "And then the whole quire hold their hips and laugh,"
+        ],
+        [
+            "PUCK",
+            "And waxen in their mirth and neeze and swear"
+        ],
+        [
+            "PUCK",
+            "A merrier hour was never wasted there."
+        ],
+        [
+            "PUCK",
+            "But, room, fairy! here comes Oberon."
+        ],
+        [
+            "Fairy",
+            "And here my mistress. Would that he were gone!",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "OBERON",
+            "Ill met by moonlight, proud Titania.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "TITANIA",
+            "What, jealous Oberon! Fairies, skip hence:"
+        ],
+        [
+            "TITANIA",
+            "I have forsworn his bed and company."
+        ],
+        [
+            "OBERON",
+            "Tarry, rash wanton: am not I thy lord?"
+        ],
+        [
+            "TITANIA",
+            "Then I must be thy lady: but I know"
+        ],
+        [
+            "TITANIA",
+            "When thou hast stolen away from fairy land,"
+        ],
+        [
+            "TITANIA",
+            "And in the shape of Corin sat all day,"
+        ],
+        [
+            "TITANIA",
+            "Playing on pipes of corn and versing love"
+        ],
+        [
+            "TITANIA",
+            "To amorous Phillida. Why art thou here,"
+        ],
+        [
+            "TITANIA",
+            "Come from the farthest Steppe of India?"
+        ],
+        [
+            "TITANIA",
+            "But that, forsooth, the bouncing Amazon,"
+        ],
+        [
+            "TITANIA",
+            "Your buskin'd mistress and your warrior love,"
+        ],
+        [
+            "TITANIA",
+            "To Theseus must be wedded, and you come"
+        ],
+        [
+            "TITANIA",
+            "To give their bed joy and prosperity."
+        ],
+        [
+            "OBERON",
+            "How canst thou thus for shame, Titania,"
+        ],
+        [
+            "OBERON",
+            "Glance at my credit with Hippolyta,"
+        ],
+        [
+            "OBERON",
+            "Knowing I know thy love to Theseus?"
+        ],
+        [
+            "OBERON",
+            "Didst thou not lead him through the glimmering night"
+        ],
+        [
+            "OBERON",
+            "From Perigenia, whom he ravished?"
+        ],
+        [
+            "OBERON",
+            "And make him with fair AEgle break his faith,"
+        ],
+        [
+            "OBERON",
+            "With Ariadne and Antiopa?"
+        ],
+        [
+            "TITANIA",
+            "These are the forgeries of jealousy:"
+        ],
+        [
+            "TITANIA",
+            "And never, since the middle summer's spring,"
+        ],
+        [
+            "TITANIA",
+            "Met we on hill, in dale, forest or mead,"
+        ],
+        [
+            "TITANIA",
+            "By paved fountain or by rushy brook,"
+        ],
+        [
+            "TITANIA",
+            "Or in the beached margent of the sea,"
+        ],
+        [
+            "TITANIA",
+            "To dance our ringlets to the whistling wind,"
+        ],
+        [
+            "TITANIA",
+            "But with thy brawls thou hast disturb'd our sport."
+        ],
+        [
+            "TITANIA",
+            "Therefore the winds, piping to us in vain,"
+        ],
+        [
+            "TITANIA",
+            "As in revenge, have suck'd up from the sea"
+        ],
+        [
+            "TITANIA",
+            "Contagious fogs; which falling in the land"
+        ],
+        [
+            "TITANIA",
+            "Have every pelting river made so proud"
+        ],
+        [
+            "TITANIA",
+            "That they have overborne their continents:"
+        ],
+        [
+            "TITANIA",
+            "The ox hath therefore stretch'd his yoke in vain,"
+        ],
+        [
+            "TITANIA",
+            "The ploughman lost his sweat, and the green corn"
+        ],
+        [
+            "TITANIA",
+            "Hath rotted ere his youth attain'd a beard;"
+        ],
+        [
+            "TITANIA",
+            "The fold stands empty in the drowned field,"
+        ],
+        [
+            "TITANIA",
+            "And crows are fatted with the murrion flock;"
+        ],
+        [
+            "TITANIA",
+            "The nine men's morris is fill'd up with mud,"
+        ],
+        [
+            "TITANIA",
+            "And the quaint mazes in the wanton green"
+        ],
+        [
+            "TITANIA",
+            "For lack of tread are undistinguishable:"
+        ],
+        [
+            "TITANIA",
+            "The human mortals want their winter here;"
+        ],
+        [
+            "TITANIA",
+            "No night is now with hymn or carol blest:"
+        ],
+        [
+            "TITANIA",
+            "Therefore the moon, the governess of floods,"
+        ],
+        [
+            "TITANIA",
+            "Pale in her anger, washes all the air,"
+        ],
+        [
+            "TITANIA",
+            "That rheumatic diseases do abound:"
+        ],
+        [
+            "TITANIA",
+            "And thorough this distemperature we see"
+        ],
+        [
+            "TITANIA",
+            "The seasons alter: hoary-headed frosts"
+        ],
+        [
+            "TITANIA",
+            "Far in the fresh lap of the crimson rose,"
+        ],
+        [
+            "TITANIA",
+            "And on old Hiems' thin and icy crown"
+        ],
+        [
+            "TITANIA",
+            "An odorous chaplet of sweet summer buds"
+        ],
+        [
+            "TITANIA",
+            "Is, as in mockery, set: the spring, the summer,"
+        ],
+        [
+            "TITANIA",
+            "The childing autumn, angry winter, change"
+        ],
+        [
+            "TITANIA",
+            "Their wonted liveries, and the mazed world,"
+        ],
+        [
+            "TITANIA",
+            "By their increase, now knows not which is which:"
+        ],
+        [
+            "TITANIA",
+            "And this same progeny of evils comes"
+        ],
+        [
+            "TITANIA",
+            "From our debate, from our dissension;"
+        ],
+        [
+            "TITANIA",
+            "We are their parents and original."
+        ],
+        [
+            "OBERON",
+            "Do you amend it then; it lies in you:"
+        ],
+        [
+            "OBERON",
+            "Why should Titania cross her Oberon?"
+        ],
+        [
+            "OBERON",
+            "I do but beg a little changeling boy,"
+        ],
+        [
+            "OBERON",
+            "To be my henchman."
+        ],
+        [
+            "TITANIA",
+            "Set your heart at rest:"
+        ],
+        [
+            "TITANIA",
+            "The fairy land buys not the child of me."
+        ],
+        [
+            "TITANIA",
+            "His mother was a votaress of my order:"
+        ],
+        [
+            "TITANIA",
+            "And, in the spiced Indian air, by night,"
+        ],
+        [
+            "TITANIA",
+            "Full often hath she gossip'd by my side,"
+        ],
+        [
+            "TITANIA",
+            "And sat with me on Neptune's yellow sands,"
+        ],
+        [
+            "TITANIA",
+            "Marking the embarked traders on the flood,"
+        ],
+        [
+            "TITANIA",
+            "When we have laugh'd to see the sails conceive"
+        ],
+        [
+            "TITANIA",
+            "And grow big-bellied with the wanton wind;"
+        ],
+        [
+            "TITANIA",
+            "Which she, with pretty and with swimming gait"
+        ],
+        [
+            "TITANIA",
+            "Following,--her womb then rich with my young squire,--"
+        ],
+        [
+            "TITANIA",
+            "Would imitate, and sail upon the land,"
+        ],
+        [
+            "TITANIA",
+            "To fetch me trifles, and return again,"
+        ],
+        [
+            "TITANIA",
+            "As from a voyage, rich with merchandise."
+        ],
+        [
+            "TITANIA",
+            "But she, being mortal, of that boy did die;"
+        ],
+        [
+            "TITANIA",
+            "And for her sake do I rear up her boy,"
+        ],
+        [
+            "TITANIA",
+            "And for her sake I will not part with him."
+        ],
+        [
+            "OBERON",
+            "How long within this wood intend you stay?"
+        ],
+        [
+            "TITANIA",
+            "Perchance till after Theseus' wedding-day."
+        ],
+        [
+            "TITANIA",
+            "If you will patiently dance in our round"
+        ],
+        [
+            "TITANIA",
+            "And see our moonlight revels, go with us;"
+        ],
+        [
+            "TITANIA",
+            "If not, shun me, and I will spare your haunts."
+        ],
+        [
+            "OBERON",
+            "Give me that boy, and I will go with thee."
+        ],
+        [
+            "TITANIA",
+            "Not for thy fairy kingdom. Fairies, away!"
+        ],
+        [
+            "TITANIA",
+            "We shall chide downright, if I longer stay.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "OBERON",
+            "Well, go thy way: thou shalt not from this grove",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "OBERON",
+            "Till I torment thee for this injury."
+        ],
+        [
+            "OBERON",
+            "My gentle Puck, come hither. Thou rememberest"
+        ],
+        [
+            "OBERON",
+            "Since once I sat upon a promontory,"
+        ],
+        [
+            "OBERON",
+            "And heard a mermaid on a dolphin's back"
+        ],
+        [
+            "OBERON",
+            "Uttering such dulcet and harmonious breath"
+        ],
+        [
+            "OBERON",
+            "That the rude sea grew civil at her song"
+        ],
+        [
+            "OBERON",
+            "And certain stars shot madly from their spheres,"
+        ],
+        [
+            "OBERON",
+            "To hear the sea-maid's music."
+        ],
+        [
+            "PUCK",
+            "I remember."
+        ],
+        [
+            "OBERON",
+            "That very time I saw, but thou couldst not,"
+        ],
+        [
+            "OBERON",
+            "Flying between the cold moon and the earth,"
+        ],
+        [
+            "OBERON",
+            "Cupid all arm'd: a certain aim he took"
+        ],
+        [
+            "OBERON",
+            "At a fair vestal throned by the west,"
+        ],
+        [
+            "OBERON",
+            "And loosed his love-shaft smartly from his bow,"
+        ],
+        [
+            "OBERON",
+            "As it should pierce a hundred thousand hearts;"
+        ],
+        [
+            "OBERON",
+            "But I might see young Cupid's fiery shaft"
+        ],
+        [
+            "OBERON",
+            "Quench'd in the chaste beams of the watery moon,"
+        ],
+        [
+            "OBERON",
+            "And the imperial votaress passed on,"
+        ],
+        [
+            "OBERON",
+            "In maiden meditation, fancy-free."
+        ],
+        [
+            "OBERON",
+            "Yet mark'd I where the bolt of Cupid fell:"
+        ],
+        [
+            "OBERON",
+            "It fell upon a little western flower,"
+        ],
+        [
+            "OBERON",
+            "Before milk-white, now purple with love's wound,"
+        ],
+        [
+            "OBERON",
+            "And maidens call it love-in-idleness."
+        ],
+        [
+            "OBERON",
+            "Fetch me that flower; the herb I shew'd thee once:"
+        ],
+        [
+            "OBERON",
+            "The juice of it on sleeping eye-lids laid"
+        ],
+        [
+            "OBERON",
+            "Will make or man or woman madly dote"
+        ],
+        [
+            "OBERON",
+            "Upon the next live creature that it sees."
+        ],
+        [
+            "OBERON",
+            "Fetch me this herb; and be thou here again"
+        ],
+        [
+            "OBERON",
+            "Ere the leviathan can swim a league."
+        ],
+        [
+            "PUCK",
+            "I'll put a girdle round about the earth"
+        ],
+        [
+            "PUCK",
+            "In forty minutes.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "OBERON",
+            "Having once this juice,",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "OBERON",
+            "I'll watch Titania when she is asleep,"
+        ],
+        [
+            "OBERON",
+            "And drop the liquor of it in her eyes."
+        ],
+        [
+            "OBERON",
+            "The next thing then she waking looks upon,"
+        ],
+        [
+            "OBERON",
+            "Be it on lion, bear, or wolf, or bull,"
+        ],
+        [
+            "OBERON",
+            "On meddling monkey, or on busy ape,"
+        ],
+        [
+            "OBERON",
+            "She shall pursue it with the soul of love:"
+        ],
+        [
+            "OBERON",
+            "And ere I take this charm from off her sight,"
+        ],
+        [
+            "OBERON",
+            "As I can take it with another herb,"
+        ],
+        [
+            "OBERON",
+            "I'll make her render up her page to me."
+        ],
+        [
+            "OBERON",
+            "But who comes here? I am invisible;"
+        ],
+        [
+            "OBERON",
+            "And I will overhear their conference.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "DEMETRIUS",
+            "I love thee not, therefore pursue me not.",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "DEMETRIUS",
+            "Where is Lysander and fair Hermia?"
+        ],
+        [
+            "DEMETRIUS",
+            "The one I'll slay, the other slayeth me."
+        ],
+        [
+            "DEMETRIUS",
+            "Thou told'st me they were stolen unto this wood;"
+        ],
+        [
+            "DEMETRIUS",
+            "And here am I, and wode within this wood,"
+        ],
+        [
+            "DEMETRIUS",
+            "Because I cannot meet my Hermia."
+        ],
+        [
+            "DEMETRIUS",
+            "Hence, get thee gone, and follow me no more."
+        ],
+        [
+            "HELENA",
+            "You draw me, you hard-hearted adamant;"
+        ],
+        [
+            "HELENA",
+            "But yet you draw not iron, for my heart"
+        ],
+        [
+            "HELENA",
+            "Is true as steel: leave you your power to draw,"
+        ],
+        [
+            "HELENA",
+            "And I shall have no power to follow you."
+        ],
+        [
+            "DEMETRIUS",
+            "Do I entice you? do I speak you fair?"
+        ],
+        [
+            "DEMETRIUS",
+            "Or, rather, do I not in plainest truth"
+        ],
+        [
+            "DEMETRIUS",
+            "Tell you, I do not, nor I cannot love you?"
+        ],
+        [
+            "HELENA",
+            "And even for that do I love you the more."
+        ],
+        [
+            "HELENA",
+            "I am your spaniel; and, Demetrius,"
+        ],
+        [
+            "HELENA",
+            "The more you beat me, I will fawn on you:"
+        ],
+        [
+            "HELENA",
+            "Use me but as your spaniel, spurn me, strike me,"
+        ],
+        [
+            "HELENA",
+            "Neglect me, lose me; only give me leave,"
+        ],
+        [
+            "HELENA",
+            "Unworthy as I am, to follow you."
+        ],
+        [
+            "HELENA",
+            "What worser place can I beg in your love,--"
+        ],
+        [
+            "HELENA",
+            "And yet a place of high respect with me,--"
+        ],
+        [
+            "HELENA",
+            "Than to be used as you use your dog?"
+        ],
+        [
+            "DEMETRIUS",
+            "Tempt not too much the hatred of my spirit;"
+        ],
+        [
+            "DEMETRIUS",
+            "For I am sick when I do look on thee."
+        ],
+        [
+            "HELENA",
+            "And I am sick when I look not on you."
+        ],
+        [
+            "DEMETRIUS",
+            "You do impeach your modesty too much,"
+        ],
+        [
+            "DEMETRIUS",
+            "To leave the city and commit yourself"
+        ],
+        [
+            "DEMETRIUS",
+            "Into the hands of one that loves you not;"
+        ],
+        [
+            "DEMETRIUS",
+            "To trust the opportunity of night"
+        ],
+        [
+            "DEMETRIUS",
+            "And the ill counsel of a desert place"
+        ],
+        [
+            "DEMETRIUS",
+            "With the rich worth of your virginity."
+        ],
+        [
+            "HELENA",
+            "Your virtue is my privilege: for that"
+        ],
+        [
+            "HELENA",
+            "It is not night when I do see your face,"
+        ],
+        [
+            "HELENA",
+            "Therefore I think I am not in the night;"
+        ],
+        [
+            "HELENA",
+            "Nor doth this wood lack worlds of company,"
+        ],
+        [
+            "HELENA",
+            "For you in my respect are all the world:"
+        ],
+        [
+            "HELENA",
+            "Then how can it be said I am alone,"
+        ],
+        [
+            "HELENA",
+            "When all the world is here to look on me?"
+        ],
+        [
+            "DEMETRIUS",
+            "I'll run from thee and hide me in the brakes,"
+        ],
+        [
+            "DEMETRIUS",
+            "And leave thee to the mercy of wild beasts."
+        ],
+        [
+            "HELENA",
+            "The wildest hath not such a heart as you."
+        ],
+        [
+            "HELENA",
+            "Run when you will, the story shall be changed:"
+        ],
+        [
+            "HELENA",
+            "Apollo flies, and Daphne holds the chase;"
+        ],
+        [
+            "HELENA",
+            "The dove pursues the griffin; the mild hind"
+        ],
+        [
+            "HELENA",
+            "Makes speed to catch the tiger; bootless speed,"
+        ],
+        [
+            "HELENA",
+            "When cowardice pursues and valour flies."
+        ],
+        [
+            "DEMETRIUS",
+            "I will not stay thy questions; let me go:"
+        ],
+        [
+            "DEMETRIUS",
+            "Or, if thou follow me, do not believe"
+        ],
+        [
+            "DEMETRIUS",
+            "But I shall do thee mischief in the wood."
+        ],
+        [
+            "HELENA",
+            "Ay, in the temple, in the town, the field,"
+        ],
+        [
+            "HELENA",
+            "You do me mischief. Fie, Demetrius!"
+        ],
+        [
+            "HELENA",
+            "Your wrongs do set a scandal on my sex:"
+        ],
+        [
+            "HELENA",
+            "We cannot fight for love, as men may do;"
+        ],
+        [
+            "HELENA",
+            "We should be wood and were not made to woo.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "HELENA",
+            "I'll follow thee and make a heaven of hell,",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "HELENA",
+            "To die upon the hand I love so well.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "OBERON",
+            "Fare thee well, nymph: ere he do leave this grove,",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "OBERON",
+            "Thou shalt fly him and he shall seek thy love.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "OBERON",
+            "Hast thou the flower there? Welcome, wanderer.",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "PUCK",
+            "Ay, there it is."
+        ],
+        [
+            "OBERON",
+            "I pray thee, give it me."
+        ],
+        [
+            "OBERON",
+            "I know a bank where the wild thyme blows,"
+        ],
+        [
+            "OBERON",
+            "Where oxlips and the nodding violet grows,"
+        ],
+        [
+            "OBERON",
+            "Quite over-canopied with luscious woodbine,"
+        ],
+        [
+            "OBERON",
+            "With sweet musk-roses and with eglantine:"
+        ],
+        [
+            "OBERON",
+            "There sleeps Titania sometime of the night,"
+        ],
+        [
+            "OBERON",
+            "Lull'd in these flowers with dances and delight;"
+        ],
+        [
+            "OBERON",
+            "And there the snake throws her enamell'd skin,"
+        ],
+        [
+            "OBERON",
+            "Weed wide enough to wrap a fairy in:"
+        ],
+        [
+            "OBERON",
+            "And with the juice of this I'll streak her eyes,"
+        ],
+        [
+            "OBERON",
+            "And make her full of hateful fantasies."
+        ],
+        [
+            "OBERON",
+            "Take thou some of it, and seek through this grove:"
+        ],
+        [
+            "OBERON",
+            "A sweet Athenian lady is in love"
+        ],
+        [
+            "OBERON",
+            "With a disdainful youth: anoint his eyes;"
+        ],
+        [
+            "OBERON",
+            "But do it when the next thing he espies"
+        ],
+        [
+            "OBERON",
+            "May be the lady: thou shalt know the man"
+        ],
+        [
+            "OBERON",
+            "By the Athenian garments he hath on."
+        ],
+        [
+            "OBERON",
+            "Effect it with some care, that he may prove"
+        ],
+        [
+            "OBERON",
+            "More fond on her than she upon her love:"
+        ],
+        [
+            "OBERON",
+            "And look thou meet me ere the first cock crow."
+        ],
+        [
+            "PUCK",
+            "Fear not, my lord, your servant shall do so.",
+            {
+                "following_direction_line": "9"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter, from opposite sides, a Fairy, and PUCK"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter, from one side, OBERON, with his train; from the other, TITANIA, with hers"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit TITANIA with her train"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Enter DEMETRIUS, HELENA, following him"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exit DEMETRIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Re-enter PUCK"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "PUCK": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "18",
+                "31"
+            ],
+            [
+                "43",
+                "59"
+            ],
+            [
+                "157",
+                "157"
+            ],
+            [
+                "178",
+                "179"
+            ],
+            [
+                "252",
+                "252"
+            ],
+            [
+                "273",
+                "273"
+            ]
+        ],
+        "Fairy": [
+            [
+                "2",
+                "17"
+            ],
+            [
+                "32",
+                "42"
+            ],
+            [
+                "60",
+                "60"
+            ]
+        ],
+        "OBERON": [
+            [
+                "61",
+                "61"
+            ],
+            [
+                "64",
+                "64"
+            ],
+            [
+                "75",
+                "81"
+            ],
+            [
+                "119",
+                "122"
+            ],
+            [
+                "140",
+                "140"
+            ],
+            [
+                "145",
+                "145"
+            ],
+            [
+                "148",
+                "156"
+            ],
+            [
+                "158",
+                "177"
+            ],
+            [
+                "180",
+                "191"
+            ],
+            [
+                "249",
+                "251"
+            ],
+            [
+                "253",
+                "272"
+            ]
+        ],
+        "TITANIA": [
+            [
+                "62",
+                "63"
+            ],
+            [
+                "65",
+                "74"
+            ],
+            [
+                "82",
+                "118"
+            ],
+            [
+                "123",
+                "139"
+            ],
+            [
+                "141",
+                "144"
+            ],
+            [
+                "146",
+                "147"
+            ]
+        ],
+        "DEMETRIUS": [
+            [
+                "192",
+                "198"
+            ],
+            [
+                "203",
+                "205"
+            ],
+            [
+                "215",
+                "216"
+            ],
+            [
+                "218",
+                "223"
+            ],
+            [
+                "231",
+                "232"
+            ],
+            [
+                "239",
+                "241"
+            ]
+        ],
+        "HELENA": [
+            [
+                "199",
+                "202"
+            ],
+            [
+                "206",
+                "214"
+            ],
+            [
+                "217",
+                "217"
+            ],
+            [
+                "224",
+                "230"
+            ],
+            [
+                "233",
+                "238"
+            ],
+            [
+                "242",
+                "248"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "A wood near Athens."
+}

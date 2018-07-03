@@ -61,7 +61,6 @@ Bid the players make haste.
 _D_Exit POLONIUS
 Will you two help to hasten them?
 _R_ROSENCRANTZ
-_R_GUILDENSTERN
 We will, my lord.
 _D_Exeunt ROSENCRANTZ and GUILDENSTERN
 _R_HAMLET

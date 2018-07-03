@@ -1,0 +1,665 @@
+{
+    "scene_id": "much ado about nothing~~Act_3~~Scene_1",
+    "work_number": "7",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "HERO",
+            "Good Margaret, run thee to the parlor;",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "HERO",
+            "There shalt thou find my cousin Beatrice"
+        ],
+        [
+            "HERO",
+            "Proposing with the prince and Claudio:"
+        ],
+        [
+            "HERO",
+            "Whisper her ear and tell her, I and Ursula"
+        ],
+        [
+            "HERO",
+            "Walk in the orchard and our whole discourse"
+        ],
+        [
+            "HERO",
+            "Is all of her; say that thou overheard'st us;"
+        ],
+        [
+            "HERO",
+            "And bid her steal into the pleached bower,"
+        ],
+        [
+            "HERO",
+            "Where honeysuckles, ripen'd by the sun,"
+        ],
+        [
+            "HERO",
+            "Forbid the sun to enter, like favourites,"
+        ],
+        [
+            "HERO",
+            "Made proud by princes, that advance their pride"
+        ],
+        [
+            "HERO",
+            "Against that power that bred it: there will she hide her,"
+        ],
+        [
+            "HERO",
+            "To listen our purpose. This is thy office;"
+        ],
+        [
+            "HERO",
+            "Bear thee well in it and leave us alone."
+        ],
+        [
+            "MARGARET",
+            "I'll make her come, I warrant you, presently.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "HERO",
+            "Now, Ursula, when Beatrice doth come,",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "HERO",
+            "As we do trace this alley up and down,"
+        ],
+        [
+            "HERO",
+            "Our talk must only be of Benedick."
+        ],
+        [
+            "HERO",
+            "When I do name him, let it be thy part"
+        ],
+        [
+            "HERO",
+            "To praise him more than ever man did merit:"
+        ],
+        [
+            "HERO",
+            "My talk to thee must be how Benedick"
+        ],
+        [
+            "HERO",
+            "Is sick in love with Beatrice. Of this matter"
+        ],
+        [
+            "HERO",
+            "Is little Cupid's crafty arrow made,"
+        ],
+        [
+            "HERO",
+            "That only wounds by hearsay.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "HERO",
+            "Now begin;",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "HERO",
+            "For look where Beatrice, like a lapwing, runs"
+        ],
+        [
+            "HERO",
+            "Close by the ground, to hear our conference."
+        ],
+        [
+            "URSULA",
+            "The pleasant'st angling is to see the fish"
+        ],
+        [
+            "URSULA",
+            "Cut with her golden oars the silver stream,"
+        ],
+        [
+            "URSULA",
+            "And greedily devour the treacherous bait:"
+        ],
+        [
+            "URSULA",
+            "So angle we for Beatrice; who even now"
+        ],
+        [
+            "URSULA",
+            "Is couched in the woodbine coverture."
+        ],
+        [
+            "URSULA",
+            "Fear you not my part of the dialogue."
+        ],
+        [
+            "HERO",
+            "Then go we near her, that her ear lose nothing"
+        ],
+        [
+            "HERO",
+            "Of the false sweet bait that we lay for it.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "HERO",
+            "No, truly, Ursula, she is too disdainful;",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "HERO",
+            "I know her spirits are as coy and wild"
+        ],
+        [
+            "HERO",
+            "As haggerds of the rock."
+        ],
+        [
+            "URSULA",
+            "But are you sure"
+        ],
+        [
+            "URSULA",
+            "That Benedick loves Beatrice so entirely?"
+        ],
+        [
+            "HERO",
+            "So says the prince and my new-trothed lord."
+        ],
+        [
+            "URSULA",
+            "And did they bid you tell her of it, madam?"
+        ],
+        [
+            "HERO",
+            "They did entreat me to acquaint her of it;"
+        ],
+        [
+            "HERO",
+            "But I persuaded them, if they loved Benedick,"
+        ],
+        [
+            "HERO",
+            "To wish him wrestle with affection,"
+        ],
+        [
+            "HERO",
+            "And never to let Beatrice know of it."
+        ],
+        [
+            "URSULA",
+            "Why did you so? Doth not the gentleman"
+        ],
+        [
+            "URSULA",
+            "Deserve as full as fortunate a bed"
+        ],
+        [
+            "URSULA",
+            "As ever Beatrice shall couch upon?"
+        ],
+        [
+            "HERO",
+            "O god of love! I know he doth deserve"
+        ],
+        [
+            "HERO",
+            "As much as may be yielded to a man:"
+        ],
+        [
+            "HERO",
+            "But Nature never framed a woman's heart"
+        ],
+        [
+            "HERO",
+            "Of prouder stuff than that of Beatrice;"
+        ],
+        [
+            "HERO",
+            "Disdain and scorn ride sparkling in her eyes,"
+        ],
+        [
+            "HERO",
+            "Misprising what they look on, and her wit"
+        ],
+        [
+            "HERO",
+            "Values itself so highly that to her"
+        ],
+        [
+            "HERO",
+            "All matter else seems weak: she cannot love,"
+        ],
+        [
+            "HERO",
+            "Nor take no shape nor project of affection,"
+        ],
+        [
+            "HERO",
+            "She is so self-endeared."
+        ],
+        [
+            "URSULA",
+            "Sure, I think so;"
+        ],
+        [
+            "URSULA",
+            "And therefore certainly it were not good"
+        ],
+        [
+            "URSULA",
+            "She knew his love, lest she make sport at it."
+        ],
+        [
+            "HERO",
+            "Why, you speak truth. I never yet saw man,"
+        ],
+        [
+            "HERO",
+            "How wise, how noble, young, how rarely featured,"
+        ],
+        [
+            "HERO",
+            "But she would spell him backward: if fair-faced,"
+        ],
+        [
+            "HERO",
+            "She would swear the gentleman should be her sister;"
+        ],
+        [
+            "HERO",
+            "If black, why, Nature, drawing of an antique,"
+        ],
+        [
+            "HERO",
+            "Made a foul blot; if tall, a lance ill-headed;"
+        ],
+        [
+            "HERO",
+            "If low, an agate very vilely cut;"
+        ],
+        [
+            "HERO",
+            "If speaking, why, a vane blown with all winds;"
+        ],
+        [
+            "HERO",
+            "If silent, why, a block moved with none."
+        ],
+        [
+            "HERO",
+            "So turns she every man the wrong side out"
+        ],
+        [
+            "HERO",
+            "And never gives to truth and virtue that"
+        ],
+        [
+            "HERO",
+            "Which simpleness and merit purchaseth."
+        ],
+        [
+            "URSULA",
+            "Sure, sure, such carping is not commendable."
+        ],
+        [
+            "HERO",
+            "No, not to be so odd and from all fashions"
+        ],
+        [
+            "HERO",
+            "As Beatrice is, cannot be commendable:"
+        ],
+        [
+            "HERO",
+            "But who dare tell her so? If I should speak,"
+        ],
+        [
+            "HERO",
+            "She would mock me into air; O, she would laugh me"
+        ],
+        [
+            "HERO",
+            "Out of myself, press me to death with wit."
+        ],
+        [
+            "HERO",
+            "Therefore let Benedick, like cover'd fire,"
+        ],
+        [
+            "HERO",
+            "Consume away in sighs, waste inwardly:"
+        ],
+        [
+            "HERO",
+            "It were a better death than die with mocks,"
+        ],
+        [
+            "HERO",
+            "Which is as bad as die with tickling."
+        ],
+        [
+            "URSULA",
+            "Yet tell her of it: hear what she will say."
+        ],
+        [
+            "HERO",
+            "No; rather I will go to Benedick"
+        ],
+        [
+            "HERO",
+            "And counsel him to fight against his passion."
+        ],
+        [
+            "HERO",
+            "And, truly, I'll devise some honest slanders"
+        ],
+        [
+            "HERO",
+            "To stain my cousin with: one doth not know"
+        ],
+        [
+            "HERO",
+            "How much an ill word may empoison liking."
+        ],
+        [
+            "URSULA",
+            "O, do not do your cousin such a wrong."
+        ],
+        [
+            "URSULA",
+            "She cannot be so much without true judgment--"
+        ],
+        [
+            "URSULA",
+            "Having so swift and excellent a wit"
+        ],
+        [
+            "URSULA",
+            "As she is prized to have--as to refuse"
+        ],
+        [
+            "URSULA",
+            "So rare a gentleman as Signior Benedick."
+        ],
+        [
+            "HERO",
+            "He is the only man of Italy."
+        ],
+        [
+            "HERO",
+            "Always excepted my dear Claudio."
+        ],
+        [
+            "URSULA",
+            "I pray you, be not angry with me, madam,"
+        ],
+        [
+            "URSULA",
+            "Speaking my fancy: Signior Benedick,"
+        ],
+        [
+            "URSULA",
+            "For shape, for bearing, argument and valour,"
+        ],
+        [
+            "URSULA",
+            "Goes foremost in report through Italy."
+        ],
+        [
+            "HERO",
+            "Indeed, he hath an excellent good name."
+        ],
+        [
+            "URSULA",
+            "His excellence did earn it, ere he had it."
+        ],
+        [
+            "URSULA",
+            "When are you married, madam?"
+        ],
+        [
+            "HERO",
+            "Why, every day, to-morrow. Come, go in:"
+        ],
+        [
+            "HERO",
+            "I'll show thee some attires, and have thy counsel"
+        ],
+        [
+            "HERO",
+            "Which is the best to furnish me to-morrow."
+        ],
+        [
+            "URSULA",
+            "She's limed, I warrant you: we have caught her, madam."
+        ],
+        [
+            "HERO",
+            "If it proves so, then loving goes by haps:"
+        ],
+        [
+            "HERO",
+            "Some Cupid kills with arrows, some with traps.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "BEATRICE",
+            "[Coming forward]",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "BEATRICE",
+            "What fire is in mine ears? Can this be true?"
+        ],
+        [
+            "BEATRICE",
+            "Stand I condemn'd for pride and scorn so much?"
+        ],
+        [
+            "BEATRICE",
+            "Contempt, farewell! and maiden pride, adieu!"
+        ],
+        [
+            "BEATRICE",
+            "No glory lives behind the back of such."
+        ],
+        [
+            "BEATRICE",
+            "And, Benedick, love on; I will requite thee,"
+        ],
+        [
+            "BEATRICE",
+            "Taming my wild heart to thy loving hand:"
+        ],
+        [
+            "BEATRICE",
+            "If thou dost love, my kindness shall incite thee"
+        ],
+        [
+            "BEATRICE",
+            "To bind our loves up in a holy band;"
+        ],
+        [
+            "BEATRICE",
+            "For others say thou dost deserve, and I"
+        ],
+        [
+            "BEATRICE",
+            "Believe it better than reportingly.",
+            {
+                "following_direction_line": "6"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter HERO, MARGARET, and URSULA"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter BEATRICE, behind"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Approaching the bower"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt HERO and URSULA"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "HERO": [
+            [
+                "1",
+                "13"
+            ],
+            [
+                "15",
+                "26"
+            ],
+            [
+                "33",
+                "37"
+            ],
+            [
+                "40",
+                "40"
+            ],
+            [
+                "42",
+                "45"
+            ],
+            [
+                "49",
+                "58"
+            ],
+            [
+                "62",
+                "73"
+            ],
+            [
+                "75",
+                "83"
+            ],
+            [
+                "85",
+                "89"
+            ],
+            [
+                "95",
+                "96"
+            ],
+            [
+                "101",
+                "101"
+            ],
+            [
+                "104",
+                "106"
+            ],
+            [
+                "108",
+                "109"
+            ]
+        ],
+        "MARGARET": [
+            [
+                "14",
+                "14"
+            ]
+        ],
+        "URSULA": [
+            [
+                "27",
+                "32"
+            ],
+            [
+                "38",
+                "39"
+            ],
+            [
+                "41",
+                "41"
+            ],
+            [
+                "46",
+                "48"
+            ],
+            [
+                "59",
+                "61"
+            ],
+            [
+                "74",
+                "74"
+            ],
+            [
+                "84",
+                "84"
+            ],
+            [
+                "90",
+                "94"
+            ],
+            [
+                "97",
+                "100"
+            ],
+            [
+                "102",
+                "103"
+            ],
+            [
+                "107",
+                "107"
+            ]
+        ],
+        "BEATRICE": [
+            [
+                "110",
+                "120"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "LEONATO'S garden."
+}

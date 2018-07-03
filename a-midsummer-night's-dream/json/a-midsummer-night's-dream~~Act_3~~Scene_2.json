@@ -1,0 +1,2675 @@
+{
+    "scene_id": "a midsummer night's dream~~Act_3~~Scene_2",
+    "work_number": "3",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "OBERON",
+            "I wonder if Titania be awaked;",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "OBERON",
+            "Then, what it was that next came in her eye,"
+        ],
+        [
+            "OBERON",
+            "Which she must dote on in extremity.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "OBERON",
+            "Here comes my messenger.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "OBERON",
+            "How now, mad spirit!"
+        ],
+        [
+            "OBERON",
+            "What night-rule now about this haunted grove?"
+        ],
+        [
+            "PUCK",
+            "My mistress with a monster is in love."
+        ],
+        [
+            "PUCK",
+            "Near to her close and consecrated bower,"
+        ],
+        [
+            "PUCK",
+            "While she was in her dull and sleeping hour,"
+        ],
+        [
+            "PUCK",
+            "A crew of patches, rude mechanicals,"
+        ],
+        [
+            "PUCK",
+            "That work for bread upon Athenian stalls,"
+        ],
+        [
+            "PUCK",
+            "Were met together to rehearse a play"
+        ],
+        [
+            "PUCK",
+            "Intended for great Theseus' nuptial-day."
+        ],
+        [
+            "PUCK",
+            "The shallowest thick-skin of that barren sort,"
+        ],
+        [
+            "PUCK",
+            "Who Pyramus presented, in their sport"
+        ],
+        [
+            "PUCK",
+            "Forsook his scene and enter'd in a brake"
+        ],
+        [
+            "PUCK",
+            "When I did him at this advantage take,"
+        ],
+        [
+            "PUCK",
+            "An ass's nole I fixed on his head:"
+        ],
+        [
+            "PUCK",
+            "Anon his Thisbe must be answered,"
+        ],
+        [
+            "PUCK",
+            "And forth my mimic comes. When they him spy,"
+        ],
+        [
+            "PUCK",
+            "As wild geese that the creeping fowler eye,"
+        ],
+        [
+            "PUCK",
+            "Or russet-pated choughs, many in sort,"
+        ],
+        [
+            "PUCK",
+            "Rising and cawing at the gun's report,"
+        ],
+        [
+            "PUCK",
+            "Sever themselves and madly sweep the sky,"
+        ],
+        [
+            "PUCK",
+            "So, at his sight, away his fellows fly;"
+        ],
+        [
+            "PUCK",
+            "And, at our stamp, here o'er and o'er one falls;"
+        ],
+        [
+            "PUCK",
+            "He murder cries and help from Athens calls."
+        ],
+        [
+            "PUCK",
+            "Their sense thus weak, lost with their fears"
+        ],
+        [
+            "PUCK",
+            "thus strong,"
+        ],
+        [
+            "PUCK",
+            "Made senseless things begin to do them wrong;"
+        ],
+        [
+            "PUCK",
+            "For briers and thorns at their apparel snatch;"
+        ],
+        [
+            "PUCK",
+            "Some sleeves, some hats, from yielders all"
+        ],
+        [
+            "PUCK",
+            "things catch."
+        ],
+        [
+            "PUCK",
+            "I led them on in this distracted fear,"
+        ],
+        [
+            "PUCK",
+            "And left sweet Pyramus translated there:"
+        ],
+        [
+            "PUCK",
+            "When in that moment, so it came to pass,"
+        ],
+        [
+            "PUCK",
+            "Titania waked and straightway loved an ass."
+        ],
+        [
+            "OBERON",
+            "This falls out better than I could devise."
+        ],
+        [
+            "OBERON",
+            "But hast thou yet latch'd the Athenian's eyes"
+        ],
+        [
+            "OBERON",
+            "With the love-juice, as I did bid thee do?"
+        ],
+        [
+            "PUCK",
+            "I took him sleeping,--that is finish'd too,--"
+        ],
+        [
+            "PUCK",
+            "And the Athenian woman by his side:"
+        ],
+        [
+            "PUCK",
+            "That, when he waked, of force she must be eyed.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "OBERON",
+            "Stand close: this is the same Athenian.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "PUCK",
+            "This is the woman, but not this the man."
+        ],
+        [
+            "DEMETRIUS",
+            "O, why rebuke you him that loves you so?"
+        ],
+        [
+            "DEMETRIUS",
+            "Lay breath so bitter on your bitter foe."
+        ],
+        [
+            "HERMIA",
+            "Now I but chide; but I should use thee worse,"
+        ],
+        [
+            "HERMIA",
+            "For thou, I fear, hast given me cause to curse,"
+        ],
+        [
+            "HERMIA",
+            "If thou hast slain Lysander in his sleep,"
+        ],
+        [
+            "HERMIA",
+            "Being o'er shoes in blood, plunge in the deep,"
+        ],
+        [
+            "HERMIA",
+            "And kill me too."
+        ],
+        [
+            "HERMIA",
+            "The sun was not so true unto the day"
+        ],
+        [
+            "HERMIA",
+            "As he to me: would he have stolen away"
+        ],
+        [
+            "HERMIA",
+            "From sleeping Hermia? I'll believe as soon"
+        ],
+        [
+            "HERMIA",
+            "This whole earth may be bored and that the moon"
+        ],
+        [
+            "HERMIA",
+            "May through the centre creep and so displease"
+        ],
+        [
+            "HERMIA",
+            "Her brother's noontide with Antipodes."
+        ],
+        [
+            "HERMIA",
+            "It cannot be but thou hast murder'd him;"
+        ],
+        [
+            "HERMIA",
+            "So should a murderer look, so dead, so grim."
+        ],
+        [
+            "DEMETRIUS",
+            "So should the murder'd look, and so should I,"
+        ],
+        [
+            "DEMETRIUS",
+            "Pierced through the heart with your stern cruelty:"
+        ],
+        [
+            "DEMETRIUS",
+            "Yet you, the murderer, look as bright, as clear,"
+        ],
+        [
+            "DEMETRIUS",
+            "As yonder Venus in her glimmering sphere."
+        ],
+        [
+            "HERMIA",
+            "What's this to my Lysander? where is he?"
+        ],
+        [
+            "HERMIA",
+            "Ah, good Demetrius, wilt thou give him me?"
+        ],
+        [
+            "DEMETRIUS",
+            "I had rather give his carcass to my hounds."
+        ],
+        [
+            "HERMIA",
+            "Out, dog! out, cur! thou drivest me past the bounds"
+        ],
+        [
+            "HERMIA",
+            "Of maiden's patience. Hast thou slain him, then?"
+        ],
+        [
+            "HERMIA",
+            "Henceforth be never number'd among men!"
+        ],
+        [
+            "HERMIA",
+            "O, once tell true, tell true, even for my sake!"
+        ],
+        [
+            "HERMIA",
+            "Durst thou have look'd upon him being awake,"
+        ],
+        [
+            "HERMIA",
+            "And hast thou kill'd him sleeping? O brave touch!"
+        ],
+        [
+            "HERMIA",
+            "Could not a worm, an adder, do so much?"
+        ],
+        [
+            "HERMIA",
+            "An adder did it; for with doubler tongue"
+        ],
+        [
+            "HERMIA",
+            "Than thine, thou serpent, never adder stung."
+        ],
+        [
+            "DEMETRIUS",
+            "You spend your passion on a misprised mood:"
+        ],
+        [
+            "DEMETRIUS",
+            "I am not guilty of Lysander's blood;"
+        ],
+        [
+            "DEMETRIUS",
+            "Nor is he dead, for aught that I can tell."
+        ],
+        [
+            "HERMIA",
+            "I pray thee, tell me then that he is well."
+        ],
+        [
+            "DEMETRIUS",
+            "An if I could, what should I get therefore?"
+        ],
+        [
+            "HERMIA",
+            "A privilege never to see me more."
+        ],
+        [
+            "HERMIA",
+            "And from thy hated presence part I so:"
+        ],
+        [
+            "HERMIA",
+            "See me no more, whether he be dead or no.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "DEMETRIUS",
+            "There is no following her in this fierce vein:",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "DEMETRIUS",
+            "Here therefore for a while I will remain."
+        ],
+        [
+            "DEMETRIUS",
+            "So sorrow's heaviness doth heavier grow"
+        ],
+        [
+            "DEMETRIUS",
+            "For debt that bankrupt sleep doth sorrow owe:"
+        ],
+        [
+            "DEMETRIUS",
+            "Which now in some slight measure it will pay,"
+        ],
+        [
+            "DEMETRIUS",
+            "If for his tender here I make some stay.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "OBERON",
+            "What hast thou done? thou hast mistaken quite",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "OBERON",
+            "And laid the love-juice on some true-love's sight:"
+        ],
+        [
+            "OBERON",
+            "Of thy misprision must perforce ensue"
+        ],
+        [
+            "OBERON",
+            "Some true love turn'd and not a false turn'd true."
+        ],
+        [
+            "PUCK",
+            "Then fate o'er-rules, that, one man holding troth,"
+        ],
+        [
+            "PUCK",
+            "A million fail, confounding oath on oath."
+        ],
+        [
+            "OBERON",
+            "About the wood go swifter than the wind,"
+        ],
+        [
+            "OBERON",
+            "And Helena of Athens look thou find:"
+        ],
+        [
+            "OBERON",
+            "All fancy-sick she is and pale of cheer,"
+        ],
+        [
+            "OBERON",
+            "With sighs of love, that costs the fresh blood dear:"
+        ],
+        [
+            "OBERON",
+            "By some illusion see thou bring her here:"
+        ],
+        [
+            "OBERON",
+            "I'll charm his eyes against she do appear."
+        ],
+        [
+            "PUCK",
+            "I go, I go; look how I go,"
+        ],
+        [
+            "PUCK",
+            "Swifter than arrow from the Tartar's bow.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "OBERON",
+            "Flower of this purple dye,",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "OBERON",
+            "Hit with Cupid's archery,"
+        ],
+        [
+            "OBERON",
+            "Sink in apple of his eye."
+        ],
+        [
+            "OBERON",
+            "When his love he doth espy,"
+        ],
+        [
+            "OBERON",
+            "Let her shine as gloriously"
+        ],
+        [
+            "OBERON",
+            "As the Venus of the sky."
+        ],
+        [
+            "OBERON",
+            "When thou wakest, if she be by,"
+        ],
+        [
+            "OBERON",
+            "Beg of her for remedy.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "PUCK",
+            "Captain of our fairy band,",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "PUCK",
+            "Helena is here at hand;"
+        ],
+        [
+            "PUCK",
+            "And the youth, mistook by me,"
+        ],
+        [
+            "PUCK",
+            "Pleading for a lover's fee."
+        ],
+        [
+            "PUCK",
+            "Shall we their fond pageant see?"
+        ],
+        [
+            "PUCK",
+            "Lord, what fools these mortals be!"
+        ],
+        [
+            "OBERON",
+            "Stand aside: the noise they make"
+        ],
+        [
+            "OBERON",
+            "Will cause Demetrius to awake."
+        ],
+        [
+            "PUCK",
+            "Then will two at once woo one;"
+        ],
+        [
+            "PUCK",
+            "That must needs be sport alone;"
+        ],
+        [
+            "PUCK",
+            "And those things do best please me"
+        ],
+        [
+            "PUCK",
+            "That befal preposterously.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "LYSANDER",
+            "Why should you think that I should woo in scorn?",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "LYSANDER",
+            "Scorn and derision never come in tears:"
+        ],
+        [
+            "LYSANDER",
+            "Look, when I vow, I weep; and vows so born,"
+        ],
+        [
+            "LYSANDER",
+            "In their nativity all truth appears."
+        ],
+        [
+            "LYSANDER",
+            "How can these things in me seem scorn to you,"
+        ],
+        [
+            "LYSANDER",
+            "Bearing the badge of faith, to prove them true?"
+        ],
+        [
+            "HELENA",
+            "You do advance your cunning more and more."
+        ],
+        [
+            "HELENA",
+            "When truth kills truth, O devilish-holy fray!"
+        ],
+        [
+            "HELENA",
+            "These vows are Hermia's: will you give her o'er?"
+        ],
+        [
+            "HELENA",
+            "Weigh oath with oath, and you will nothing weigh:"
+        ],
+        [
+            "HELENA",
+            "Your vows to her and me, put in two scales,"
+        ],
+        [
+            "HELENA",
+            "Will even weigh, and both as light as tales."
+        ],
+        [
+            "LYSANDER",
+            "I had no judgment when to her I swore."
+        ],
+        [
+            "HELENA",
+            "Nor none, in my mind, now you give her o'er."
+        ],
+        [
+            "LYSANDER",
+            "Demetrius loves her, and he loves not you."
+        ],
+        [
+            "DEMETRIUS",
+            "[Awaking] O Helena, goddess, nymph, perfect, divine!"
+        ],
+        [
+            "DEMETRIUS",
+            "To what, my love, shall I compare thine eyne?"
+        ],
+        [
+            "DEMETRIUS",
+            "Crystal is muddy. O, how ripe in show"
+        ],
+        [
+            "DEMETRIUS",
+            "Thy lips, those kissing cherries, tempting grow!"
+        ],
+        [
+            "DEMETRIUS",
+            "That pure congealed white, high Taurus snow,"
+        ],
+        [
+            "DEMETRIUS",
+            "Fann'd with the eastern wind, turns to a crow"
+        ],
+        [
+            "DEMETRIUS",
+            "When thou hold'st up thy hand: O, let me kiss"
+        ],
+        [
+            "DEMETRIUS",
+            "This princess of pure white, this seal of bliss!"
+        ],
+        [
+            "HELENA",
+            "O spite! O hell! I see you all are bent"
+        ],
+        [
+            "HELENA",
+            "To set against me for your merriment:"
+        ],
+        [
+            "HELENA",
+            "If you we re civil and knew courtesy,"
+        ],
+        [
+            "HELENA",
+            "You would not do me thus much injury."
+        ],
+        [
+            "HELENA",
+            "Can you not hate me, as I know you do,"
+        ],
+        [
+            "HELENA",
+            "But you must join in souls to mock me too?"
+        ],
+        [
+            "HELENA",
+            "If you were men, as men you are in show,"
+        ],
+        [
+            "HELENA",
+            "You would not use a gentle lady so;"
+        ],
+        [
+            "HELENA",
+            "To vow, and swear, and superpraise my parts,"
+        ],
+        [
+            "HELENA",
+            "When I am sure you hate me with your hearts."
+        ],
+        [
+            "HELENA",
+            "You both are rivals, and love Hermia;"
+        ],
+        [
+            "HELENA",
+            "And now both rivals, to mock Helena:"
+        ],
+        [
+            "HELENA",
+            "A trim exploit, a manly enterprise,"
+        ],
+        [
+            "HELENA",
+            "To conjure tears up in a poor maid's eyes"
+        ],
+        [
+            "HELENA",
+            "With your derision! none of noble sort"
+        ],
+        [
+            "HELENA",
+            "Would so offend a virgin, and extort"
+        ],
+        [
+            "HELENA",
+            "A poor soul's patience, all to make you sport."
+        ],
+        [
+            "LYSANDER",
+            "You are unkind, Demetrius; be not so;"
+        ],
+        [
+            "LYSANDER",
+            "For you love Hermia; this you know I know:"
+        ],
+        [
+            "LYSANDER",
+            "And here, with all good will, with all my heart,"
+        ],
+        [
+            "LYSANDER",
+            "In Hermia's love I yield you up my part;"
+        ],
+        [
+            "LYSANDER",
+            "And yours of Helena to me bequeath,"
+        ],
+        [
+            "LYSANDER",
+            "Whom I do love and will do till my death."
+        ],
+        [
+            "HELENA",
+            "Never did mockers waste more idle breath."
+        ],
+        [
+            "DEMETRIUS",
+            "Lysander, keep thy Hermia; I will none:"
+        ],
+        [
+            "DEMETRIUS",
+            "If e'er I loved her, all that love is gone."
+        ],
+        [
+            "DEMETRIUS",
+            "My heart to her but as guest-wise sojourn'd,"
+        ],
+        [
+            "DEMETRIUS",
+            "And now to Helen is it home return'd,"
+        ],
+        [
+            "DEMETRIUS",
+            "There to remain."
+        ],
+        [
+            "LYSANDER",
+            "Helen, it is not so."
+        ],
+        [
+            "DEMETRIUS",
+            "Disparage not the faith thou dost not know,"
+        ],
+        [
+            "DEMETRIUS",
+            "Lest, to thy peril, thou aby it dear."
+        ],
+        [
+            "DEMETRIUS",
+            "Look, where thy love comes; yonder is thy dear.",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "HERMIA",
+            "Dark night, that from the eye his function takes,",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "HERMIA",
+            "The ear more quick of apprehension makes;"
+        ],
+        [
+            "HERMIA",
+            "Wherein it doth impair the seeing sense,"
+        ],
+        [
+            "HERMIA",
+            "It pays the hearing double recompense."
+        ],
+        [
+            "HERMIA",
+            "Thou art not by mine eye, Lysander, found;"
+        ],
+        [
+            "HERMIA",
+            "Mine ear, I thank it, brought me to thy sound"
+        ],
+        [
+            "HERMIA",
+            "But why unkindly didst thou leave me so?"
+        ],
+        [
+            "LYSANDER",
+            "Why should he stay, whom love doth press to go?"
+        ],
+        [
+            "HERMIA",
+            "What love could press Lysander from my side?"
+        ],
+        [
+            "LYSANDER",
+            "Lysander's love, that would not let him bide,"
+        ],
+        [
+            "LYSANDER",
+            "Fair Helena, who more engilds the night"
+        ],
+        [
+            "LYSANDER",
+            "Than all you fiery oes and eyes of light."
+        ],
+        [
+            "LYSANDER",
+            "Why seek'st thou me? could not this make thee know,"
+        ],
+        [
+            "LYSANDER",
+            "The hate I bear thee made me leave thee so?"
+        ],
+        [
+            "HERMIA",
+            "You speak not as you think: it cannot be."
+        ],
+        [
+            "HELENA",
+            "Lo, she is one of this confederacy!"
+        ],
+        [
+            "HELENA",
+            "Now I perceive they have conjoin'd all three"
+        ],
+        [
+            "HELENA",
+            "To fashion this false sport, in spite of me."
+        ],
+        [
+            "HELENA",
+            "Injurious Hermia! most ungrateful maid!"
+        ],
+        [
+            "HELENA",
+            "Have you conspired, have you with these contrived"
+        ],
+        [
+            "HELENA",
+            "To bait me with this foul derision?"
+        ],
+        [
+            "HELENA",
+            "Is all the counsel that we two have shared,"
+        ],
+        [
+            "HELENA",
+            "The sisters' vows, the hours that we have spent,"
+        ],
+        [
+            "HELENA",
+            "When we have chid the hasty-footed time"
+        ],
+        [
+            "HELENA",
+            "For parting us,--O, is it all forgot?"
+        ],
+        [
+            "HELENA",
+            "All school-days' friendship, childhood innocence?"
+        ],
+        [
+            "HELENA",
+            "We, Hermia, like two artificial gods,"
+        ],
+        [
+            "HELENA",
+            "Have with our needles created both one flower,"
+        ],
+        [
+            "HELENA",
+            "Both on one sampler, sitting on one cushion,"
+        ],
+        [
+            "HELENA",
+            "Both warbling of one song, both in one key,"
+        ],
+        [
+            "HELENA",
+            "As if our hands, our sides, voices and minds,"
+        ],
+        [
+            "HELENA",
+            "Had been incorporate. So we grow together,"
+        ],
+        [
+            "HELENA",
+            "Like to a double cherry, seeming parted,"
+        ],
+        [
+            "HELENA",
+            "But yet an union in partition;"
+        ],
+        [
+            "HELENA",
+            "Two lovely berries moulded on one stem;"
+        ],
+        [
+            "HELENA",
+            "So, with two seeming bodies, but one heart;"
+        ],
+        [
+            "HELENA",
+            "Two of the first, like coats in heraldry,"
+        ],
+        [
+            "HELENA",
+            "Due but to one and crowned with one crest."
+        ],
+        [
+            "HELENA",
+            "And will you rent our ancient love asunder,"
+        ],
+        [
+            "HELENA",
+            "To join with men in scorning your poor friend?"
+        ],
+        [
+            "HELENA",
+            "It is not friendly, 'tis not maidenly:"
+        ],
+        [
+            "HELENA",
+            "Our sex, as well as I, may chide you for it,"
+        ],
+        [
+            "HELENA",
+            "Though I alone do feel the injury."
+        ],
+        [
+            "HERMIA",
+            "I am amazed at your passionate words."
+        ],
+        [
+            "HERMIA",
+            "I scorn you not: it seems that you scorn me."
+        ],
+        [
+            "HELENA",
+            "Have you not set Lysander, as in scorn,"
+        ],
+        [
+            "HELENA",
+            "To follow me and praise my eyes and face?"
+        ],
+        [
+            "HELENA",
+            "And made your other love, Demetrius,"
+        ],
+        [
+            "HELENA",
+            "Who even but now did spurn me with his foot,"
+        ],
+        [
+            "HELENA",
+            "To call me goddess, nymph, divine and rare,"
+        ],
+        [
+            "HELENA",
+            "Precious, celestial? Wherefore speaks he this"
+        ],
+        [
+            "HELENA",
+            "To her he hates? and wherefore doth Lysander"
+        ],
+        [
+            "HELENA",
+            "Deny your love, so rich within his soul,"
+        ],
+        [
+            "HELENA",
+            "And tender me, forsooth, affection,"
+        ],
+        [
+            "HELENA",
+            "But by your setting on, by your consent?"
+        ],
+        [
+            "HELENA",
+            "What thought I be not so in grace as you,"
+        ],
+        [
+            "HELENA",
+            "So hung upon with love, so fortunate,"
+        ],
+        [
+            "HELENA",
+            "But miserable most, to love unloved?"
+        ],
+        [
+            "HELENA",
+            "This you should pity rather than despise."
+        ],
+        [
+            "HERNIA",
+            "I understand not what you mean by this."
+        ],
+        [
+            "HELENA",
+            "Ay, do, persever, counterfeit sad looks,"
+        ],
+        [
+            "HELENA",
+            "Make mouths upon me when I turn my back;"
+        ],
+        [
+            "HELENA",
+            "Wink each at other; hold the sweet jest up:"
+        ],
+        [
+            "HELENA",
+            "This sport, well carried, shall be chronicled."
+        ],
+        [
+            "HELENA",
+            "If you have any pity, grace, or manners,"
+        ],
+        [
+            "HELENA",
+            "You would not make me such an argument."
+        ],
+        [
+            "HELENA",
+            "But fare ye well: 'tis partly my own fault;"
+        ],
+        [
+            "HELENA",
+            "Which death or absence soon shall remedy."
+        ],
+        [
+            "LYSANDER",
+            "Stay, gentle Helena; hear my excuse:"
+        ],
+        [
+            "LYSANDER",
+            "My love, my life my soul, fair Helena!"
+        ],
+        [
+            "HELENA",
+            "O excellent!"
+        ],
+        [
+            "HERMIA",
+            "Sweet, do not scorn her so."
+        ],
+        [
+            "DEMETRIUS",
+            "If she cannot entreat, I can compel."
+        ],
+        [
+            "LYSANDER",
+            "Thou canst compel no more than she entreat:"
+        ],
+        [
+            "LYSANDER",
+            "Thy threats have no more strength than her weak prayers."
+        ],
+        [
+            "LYSANDER",
+            "Helen, I love thee; by my life, I do:"
+        ],
+        [
+            "LYSANDER",
+            "I swear by that which I will lose for thee,"
+        ],
+        [
+            "LYSANDER",
+            "To prove him false that says I love thee not."
+        ],
+        [
+            "DEMETRIUS",
+            "I say I love thee more than he can do."
+        ],
+        [
+            "LYSANDER",
+            "If thou say so, withdraw, and prove it too."
+        ],
+        [
+            "DEMETRIUS",
+            "Quick, come!"
+        ],
+        [
+            "HERMIA",
+            "Lysander, whereto tends all this?"
+        ],
+        [
+            "LYSANDER",
+            "Away, you Ethiope!"
+        ],
+        [
+            "DEMETRIUS",
+            "No, no; he'll [ ]"
+        ],
+        [
+            "DEMETRIUS",
+            "Seem to break loose; take on as you would follow,"
+        ],
+        [
+            "DEMETRIUS",
+            "But yet come not: you are a tame man, go!"
+        ],
+        [
+            "LYSANDER",
+            "Hang off, thou cat, thou burr! vile thing, let loose,"
+        ],
+        [
+            "LYSANDER",
+            "Or I will shake thee from me like a serpent!"
+        ],
+        [
+            "HERMIA",
+            "Why are you grown so rude? what change is this?"
+        ],
+        [
+            "HERMIA",
+            "Sweet love,--"
+        ],
+        [
+            "LYSANDER",
+            "Thy love! out, tawny Tartar, out!"
+        ],
+        [
+            "LYSANDER",
+            "Out, loathed medicine! hated potion, hence!"
+        ],
+        [
+            "HERMIA",
+            "Do you not jest?"
+        ],
+        [
+            "HELENA",
+            "Yes, sooth; and so do you."
+        ],
+        [
+            "LYSANDER",
+            "Demetrius, I will keep my word with thee."
+        ],
+        [
+            "DEMETRIUS",
+            "I would I had your bond, for I perceive"
+        ],
+        [
+            "DEMETRIUS",
+            "A weak bond holds you: I'll not trust your word."
+        ],
+        [
+            "LYSANDER",
+            "What, should I hurt her, strike her, kill her dead?"
+        ],
+        [
+            "LYSANDER",
+            "Although I hate her, I'll not harm her so."
+        ],
+        [
+            "HERMIA",
+            "What, can you do me greater harm than hate?"
+        ],
+        [
+            "HERMIA",
+            "Hate me! wherefore? O me! what news, my love!"
+        ],
+        [
+            "HERMIA",
+            "Am not I Hermia? are not you Lysander?"
+        ],
+        [
+            "HERMIA",
+            "I am as fair now as I was erewhile."
+        ],
+        [
+            "HERMIA",
+            "Since night you loved me; yet since night you left"
+        ],
+        [
+            "HERMIA",
+            "me:"
+        ],
+        [
+            "HERMIA",
+            "Why, then you left me--O, the gods forbid!--"
+        ],
+        [
+            "HERMIA",
+            "In earnest, shall I say?"
+        ],
+        [
+            "LYSANDER",
+            "Ay, by my life;"
+        ],
+        [
+            "LYSANDER",
+            "And never did desire to see thee more."
+        ],
+        [
+            "LYSANDER",
+            "Therefore be out of hope, of question, of doubt;"
+        ],
+        [
+            "LYSANDER",
+            "Be certain, nothing truer; 'tis no jest"
+        ],
+        [
+            "LYSANDER",
+            "That I do hate thee and love Helena."
+        ],
+        [
+            "HERMIA",
+            "O me! you juggler! you canker-blossom!"
+        ],
+        [
+            "HERMIA",
+            "You thief of love! what, have you come by night"
+        ],
+        [
+            "HERMIA",
+            "And stolen my love's heart from him?"
+        ],
+        [
+            "HELENA",
+            "Fine, i'faith!"
+        ],
+        [
+            "HELENA",
+            "Have you no modesty, no maiden shame,"
+        ],
+        [
+            "HELENA",
+            "No touch of bashfulness? What, will you tear"
+        ],
+        [
+            "HELENA",
+            "Impatient answers from my gentle tongue?"
+        ],
+        [
+            "HELENA",
+            "Fie, fie! you counterfeit, you puppet, you!"
+        ],
+        [
+            "HERMIA",
+            "Puppet? why so? ay, that way goes the game."
+        ],
+        [
+            "HERMIA",
+            "Now I perceive that she hath made compare"
+        ],
+        [
+            "HERMIA",
+            "Between our statures; she hath urged her height;"
+        ],
+        [
+            "HERMIA",
+            "And with her personage, her tall personage,"
+        ],
+        [
+            "HERMIA",
+            "Her height, forsooth, she hath prevail'd with him."
+        ],
+        [
+            "HERMIA",
+            "And are you grown so high in his esteem;"
+        ],
+        [
+            "HERMIA",
+            "Because I am so dwarfish and so low?"
+        ],
+        [
+            "HERMIA",
+            "How low am I, thou painted maypole? speak;"
+        ],
+        [
+            "HERMIA",
+            "How low am I? I am not yet so low"
+        ],
+        [
+            "HERMIA",
+            "But that my nails can reach unto thine eyes."
+        ],
+        [
+            "HELENA",
+            "I pray you, though you mock me, gentlemen,"
+        ],
+        [
+            "HELENA",
+            "Let her not hurt me: I was never curst;"
+        ],
+        [
+            "HELENA",
+            "I have no gift at all in shrewishness;"
+        ],
+        [
+            "HELENA",
+            "I am a right maid for my cowardice:"
+        ],
+        [
+            "HELENA",
+            "Let her not strike me. You perhaps may think,"
+        ],
+        [
+            "HELENA",
+            "Because she is something lower than myself,"
+        ],
+        [
+            "HELENA",
+            "That I can match her."
+        ],
+        [
+            "HERMIA",
+            "Lower! hark, again."
+        ],
+        [
+            "HELENA",
+            "Good Hermia, do not be so bitter with me."
+        ],
+        [
+            "HELENA",
+            "I evermore did love you, Hermia,"
+        ],
+        [
+            "HELENA",
+            "Did ever keep your counsels, never wrong'd you;"
+        ],
+        [
+            "HELENA",
+            "Save that, in love unto Demetrius,"
+        ],
+        [
+            "HELENA",
+            "I told him of your stealth unto this wood."
+        ],
+        [
+            "HELENA",
+            "He follow'd you; for love I follow'd him;"
+        ],
+        [
+            "HELENA",
+            "But he hath chid me hence and threaten'd me"
+        ],
+        [
+            "HELENA",
+            "To strike me, spurn me, nay, to kill me too:"
+        ],
+        [
+            "HELENA",
+            "And now, so you will let me quiet go,"
+        ],
+        [
+            "HELENA",
+            "To Athens will I bear my folly back"
+        ],
+        [
+            "HELENA",
+            "And follow you no further: let me go:"
+        ],
+        [
+            "HELENA",
+            "You see how simple and how fond I am."
+        ],
+        [
+            "HERMIA",
+            "Why, get you gone: who is't that hinders you?"
+        ],
+        [
+            "HELENA",
+            "A foolish heart, that I leave here behind."
+        ],
+        [
+            "HERMIA",
+            "What, with Lysander?"
+        ],
+        [
+            "HELENA",
+            "With Demetrius."
+        ],
+        [
+            "LYSANDER",
+            "Be not afraid; she shall not harm thee, Helena."
+        ],
+        [
+            "DEMETRIUS",
+            "No, sir, she shall not, though you take her part."
+        ],
+        [
+            "HELENA",
+            "O, when she's angry, she is keen and shrewd!"
+        ],
+        [
+            "HELENA",
+            "She was a vixen when she went to school;"
+        ],
+        [
+            "HELENA",
+            "And though she be but little, she is fierce."
+        ],
+        [
+            "HERMIA",
+            "'Little' again! nothing but 'low' and 'little'!"
+        ],
+        [
+            "HERMIA",
+            "Why will you suffer her to flout me thus?"
+        ],
+        [
+            "HERMIA",
+            "Let me come to her."
+        ],
+        [
+            "LYSANDER",
+            "Get you gone, you dwarf;"
+        ],
+        [
+            "LYSANDER",
+            "You minimus, of hindering knot-grass made;"
+        ],
+        [
+            "LYSANDER",
+            "You bead, you acorn."
+        ],
+        [
+            "DEMETRIUS",
+            "You are too officious"
+        ],
+        [
+            "DEMETRIUS",
+            "In her behalf that scorns your services."
+        ],
+        [
+            "DEMETRIUS",
+            "Let her alone: speak not of Helena;"
+        ],
+        [
+            "DEMETRIUS",
+            "Take not her part; for, if thou dost intend"
+        ],
+        [
+            "DEMETRIUS",
+            "Never so little show of love to her,"
+        ],
+        [
+            "DEMETRIUS",
+            "Thou shalt aby it."
+        ],
+        [
+            "LYSANDER",
+            "Now she holds me not;"
+        ],
+        [
+            "LYSANDER",
+            "Now follow, if thou darest, to try whose right,"
+        ],
+        [
+            "LYSANDER",
+            "Of thine or mine, is most in Helena."
+        ],
+        [
+            "DEMETRIUS",
+            "Follow! nay, I'll go with thee, cheek by jole.",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "HERMIA",
+            "You, mistress, all this coil is 'long of you:",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "HERMIA",
+            "Nay, go not back."
+        ],
+        [
+            "HELENA",
+            "I will not trust you, I,"
+        ],
+        [
+            "HELENA",
+            "Nor longer stay in your curst company."
+        ],
+        [
+            "HELENA",
+            "Your hands than mine are quicker for a fray,"
+        ],
+        [
+            "HELENA",
+            "My legs are longer though, to run away.",
+            {
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "HERMIA",
+            "I am amazed, and know not what to say.",
+            {
+                "preceding_direction_line": "11",
+                "following_direction_line": "12"
+            }
+        ],
+        [
+            "OBERON",
+            "This is thy negligence: still thou mistakest,",
+            {
+                "preceding_direction_line": "12"
+            }
+        ],
+        [
+            "OBERON",
+            "Or else committ'st thy knaveries wilfully."
+        ],
+        [
+            "PUCK",
+            "Believe me, king of shadows, I mistook."
+        ],
+        [
+            "PUCK",
+            "Did not you tell me I should know the man"
+        ],
+        [
+            "PUCK",
+            "By the Athenian garment be had on?"
+        ],
+        [
+            "PUCK",
+            "And so far blameless proves my enterprise,"
+        ],
+        [
+            "PUCK",
+            "That I have 'nointed an Athenian's eyes;"
+        ],
+        [
+            "PUCK",
+            "And so far am I glad it so did sort"
+        ],
+        [
+            "PUCK",
+            "As this their jangling I esteem a sport."
+        ],
+        [
+            "OBERON",
+            "Thou see'st these lovers seek a place to fight:"
+        ],
+        [
+            "OBERON",
+            "Hie therefore, Robin, overcast the night;"
+        ],
+        [
+            "OBERON",
+            "The starry welkin cover thou anon"
+        ],
+        [
+            "OBERON",
+            "With drooping fog as black as Acheron,"
+        ],
+        [
+            "OBERON",
+            "And lead these testy rivals so astray"
+        ],
+        [
+            "OBERON",
+            "As one come not within another's way."
+        ],
+        [
+            "OBERON",
+            "Like to Lysander sometime frame thy tongue,"
+        ],
+        [
+            "OBERON",
+            "Then stir Demetrius up with bitter wrong;"
+        ],
+        [
+            "OBERON",
+            "And sometime rail thou like Demetrius;"
+        ],
+        [
+            "OBERON",
+            "And from each other look thou lead them thus,"
+        ],
+        [
+            "OBERON",
+            "Till o'er their brows death-counterfeiting sleep"
+        ],
+        [
+            "OBERON",
+            "With leaden legs and batty wings doth creep:"
+        ],
+        [
+            "OBERON",
+            "Then crush this herb into Lysander's eye;"
+        ],
+        [
+            "OBERON",
+            "Whose liquor hath this virtuous property,"
+        ],
+        [
+            "OBERON",
+            "To take from thence all error with his might,"
+        ],
+        [
+            "OBERON",
+            "And make his eyeballs roll with wonted sight."
+        ],
+        [
+            "OBERON",
+            "When they next wake, all this derision"
+        ],
+        [
+            "OBERON",
+            "Shall seem a dream and fruitless vision,"
+        ],
+        [
+            "OBERON",
+            "And back to Athens shall the lovers wend,"
+        ],
+        [
+            "OBERON",
+            "With league whose date till death shall never end."
+        ],
+        [
+            "OBERON",
+            "Whiles I in this affair do thee employ,"
+        ],
+        [
+            "OBERON",
+            "I'll to my queen and beg her Indian boy;"
+        ],
+        [
+            "OBERON",
+            "And then I will her charmed eye release"
+        ],
+        [
+            "OBERON",
+            "From monster's view, and all things shall be peace."
+        ],
+        [
+            "PUCK",
+            "My fairy lord, this must be done with haste,"
+        ],
+        [
+            "PUCK",
+            "For night's swift dragons cut the clouds full fast,"
+        ],
+        [
+            "PUCK",
+            "And yonder shines Aurora's harbinger;"
+        ],
+        [
+            "PUCK",
+            "At whose approach, ghosts, wandering here and there,"
+        ],
+        [
+            "PUCK",
+            "Troop home to churchyards: damned spirits all,"
+        ],
+        [
+            "PUCK",
+            "That in crossways and floods have burial,"
+        ],
+        [
+            "PUCK",
+            "Already to their wormy beds are gone;"
+        ],
+        [
+            "PUCK",
+            "For fear lest day should look their shames upon,"
+        ],
+        [
+            "PUCK",
+            "They willfully themselves exile from light"
+        ],
+        [
+            "PUCK",
+            "And must for aye consort with black-brow'd night."
+        ],
+        [
+            "OBERON",
+            "But we are spirits of another sort:"
+        ],
+        [
+            "OBERON",
+            "I with the morning's love have oft made sport,"
+        ],
+        [
+            "OBERON",
+            "And, like a forester, the groves may tread,"
+        ],
+        [
+            "OBERON",
+            "Even till the eastern gate, all fiery-red,"
+        ],
+        [
+            "OBERON",
+            "Opening on Neptune with fair blessed beams,"
+        ],
+        [
+            "OBERON",
+            "Turns into yellow gold his salt green streams."
+        ],
+        [
+            "OBERON",
+            "But, notwithstanding, haste; make no delay:"
+        ],
+        [
+            "OBERON",
+            "We may effect this business yet ere day.",
+            {
+                "following_direction_line": "13"
+            }
+        ],
+        [
+            "PUCK",
+            "Up and down, up and down,",
+            {
+                "preceding_direction_line": "13"
+            }
+        ],
+        [
+            "PUCK",
+            "I will lead them up and down:"
+        ],
+        [
+            "PUCK",
+            "I am fear'd in field and town:"
+        ],
+        [
+            "PUCK",
+            "Goblin, lead them up and down."
+        ],
+        [
+            "PUCK",
+            "Here comes one.",
+            {
+                "following_direction_line": "14"
+            }
+        ],
+        [
+            "LYSANDER",
+            "Where art thou, proud Demetrius? speak thou now.",
+            {
+                "preceding_direction_line": "14"
+            }
+        ],
+        [
+            "PUCK",
+            "Here, villain; drawn and ready. Where art thou?"
+        ],
+        [
+            "LYSANDER",
+            "I will be with thee straight."
+        ],
+        [
+            "PUCK",
+            "Follow me, then,"
+        ],
+        [
+            "PUCK",
+            "To plainer ground.",
+            {
+                "following_direction_line": "15"
+            }
+        ],
+        [
+            "DEMETRIUS",
+            "Lysander! speak again:",
+            {
+                "preceding_direction_line": "15"
+            }
+        ],
+        [
+            "DEMETRIUS",
+            "Thou runaway, thou coward, art thou fled?"
+        ],
+        [
+            "DEMETRIUS",
+            "Speak! In some bush? Where dost thou hide thy head?"
+        ],
+        [
+            "PUCK",
+            "Thou coward, art thou bragging to the stars,"
+        ],
+        [
+            "PUCK",
+            "Telling the bushes that thou look'st for wars,"
+        ],
+        [
+            "PUCK",
+            "And wilt not come? Come, recreant; come, thou child;"
+        ],
+        [
+            "PUCK",
+            "I'll whip thee with a rod: he is defiled"
+        ],
+        [
+            "PUCK",
+            "That draws a sword on thee."
+        ],
+        [
+            "DEMETRIUS",
+            "Yea, art thou there?"
+        ],
+        [
+            "PUCK",
+            "Follow my voice: we'll try no manhood here.",
+            {
+                "following_direction_line": "16"
+            }
+        ],
+        [
+            "LYSANDER",
+            "He goes before me and still dares me on:",
+            {
+                "preceding_direction_line": "16"
+            }
+        ],
+        [
+            "LYSANDER",
+            "When I come where he calls, then he is gone."
+        ],
+        [
+            "LYSANDER",
+            "The villain is much lighter-heel'd than I:"
+        ],
+        [
+            "LYSANDER",
+            "I follow'd fast, but faster he did fly;"
+        ],
+        [
+            "LYSANDER",
+            "That fallen am I in dark uneven way,"
+        ],
+        [
+            "LYSANDER",
+            "And here will rest me.",
+            {
+                "following_direction_line": "17"
+            }
+        ],
+        [
+            "LYSANDER",
+            "Come, thou gentle day!",
+            {
+                "preceding_direction_line": "17"
+            }
+        ],
+        [
+            "LYSANDER",
+            "For if but once thou show me thy grey light,"
+        ],
+        [
+            "LYSANDER",
+            "I'll find Demetrius and revenge this spite.",
+            {
+                "following_direction_line": "18"
+            }
+        ],
+        [
+            "PUCK",
+            "Ho, ho, ho! Coward, why comest thou not?",
+            {
+                "preceding_direction_line": "18"
+            }
+        ],
+        [
+            "DEMETRIUS",
+            "Abide me, if thou darest; for well I wot"
+        ],
+        [
+            "DEMETRIUS",
+            "Thou runn'st before me, shifting every place,"
+        ],
+        [
+            "DEMETRIUS",
+            "And darest not stand, nor look me in the face."
+        ],
+        [
+            "DEMETRIUS",
+            "Where art thou now?"
+        ],
+        [
+            "PUCK",
+            "Come hither: I am here."
+        ],
+        [
+            "DEMETRIUS",
+            "Nay, then, thou mock'st me. Thou shalt buy this dear,"
+        ],
+        [
+            "DEMETRIUS",
+            "If ever I thy face by daylight see:"
+        ],
+        [
+            "DEMETRIUS",
+            "Now, go thy way. Faintness constraineth me"
+        ],
+        [
+            "DEMETRIUS",
+            "To measure out my length on this cold bed."
+        ],
+        [
+            "DEMETRIUS",
+            "By day's approach look to be visited.",
+            {
+                "following_direction_line": "19"
+            }
+        ],
+        [
+            "HELENA",
+            "O weary night, O long and tedious night,",
+            {
+                "preceding_direction_line": "19"
+            }
+        ],
+        [
+            "HELENA",
+            "Abate thy hour! Shine comforts from the east,"
+        ],
+        [
+            "HELENA",
+            "That I may back to Athens by daylight,"
+        ],
+        [
+            "HELENA",
+            "From these that my poor company detest:"
+        ],
+        [
+            "HELENA",
+            "And sleep, that sometimes shuts up sorrow's eye,"
+        ],
+        [
+            "HELENA",
+            "Steal me awhile from mine own company.",
+            {
+                "following_direction_line": "20"
+            }
+        ],
+        [
+            "PUCK",
+            "Yet but three? Come one more;",
+            {
+                "preceding_direction_line": "20"
+            }
+        ],
+        [
+            "PUCK",
+            "Two of both kinds make up four."
+        ],
+        [
+            "PUCK",
+            "Here she comes, curst and sad:"
+        ],
+        [
+            "PUCK",
+            "Cupid is a knavish lad,"
+        ],
+        [
+            "PUCK",
+            "Thus to make poor females mad.",
+            {
+                "following_direction_line": "21"
+            }
+        ],
+        [
+            "HERMIA",
+            "Never so weary, never so in woe,",
+            {
+                "preceding_direction_line": "21"
+            }
+        ],
+        [
+            "HERMIA",
+            "Bedabbled with the dew and torn with briers,"
+        ],
+        [
+            "HERMIA",
+            "I can no further crawl, no further go;"
+        ],
+        [
+            "HERMIA",
+            "My legs can keep no pace with my desires."
+        ],
+        [
+            "HERMIA",
+            "Here will I rest me till the break of day."
+        ],
+        [
+            "HERMIA",
+            "Heavens shield Lysander, if they mean a fray!",
+            {
+                "following_direction_line": "22"
+            }
+        ],
+        [
+            "PUCK",
+            "On the ground",
+            {
+                "preceding_direction_line": "22"
+            }
+        ],
+        [
+            "PUCK",
+            "Sleep sound:"
+        ],
+        [
+            "PUCK",
+            "I'll apply"
+        ],
+        [
+            "PUCK",
+            "To your eye,"
+        ],
+        [
+            "PUCK",
+            "Gentle lover, remedy.",
+            {
+                "following_direction_line": "23"
+            }
+        ],
+        [
+            "PUCK",
+            "When thou wakest,",
+            {
+                "preceding_direction_line": "23"
+            }
+        ],
+        [
+            "PUCK",
+            "Thou takest"
+        ],
+        [
+            "PUCK",
+            "True delight"
+        ],
+        [
+            "PUCK",
+            "In the sight"
+        ],
+        [
+            "PUCK",
+            "Of thy former lady's eye:"
+        ],
+        [
+            "PUCK",
+            "And the country proverb known,"
+        ],
+        [
+            "PUCK",
+            "That every man should take his own,"
+        ],
+        [
+            "PUCK",
+            "In your waking shall be shown:"
+        ],
+        [
+            "PUCK",
+            "Jack shall have Jill;"
+        ],
+        [
+            "PUCK",
+            "Nought shall go ill;"
+        ],
+        [
+            "PUCK",
+            "The man shall have his mare again, and all shall be well.",
+            {
+                "following_direction_line": "24"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter OBERON"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter PUCK"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter HERMIA and DEMETRIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Lies down and sleeps"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Re-enter PUCK"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Enter LYSANDER and HELENA"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Re-enter HERMIA"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Exeunt LYSANDER and DEMETRIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D13",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D14",
+            "Re-enter LYSANDER"
+        ],
+        [
+            "_DIRECTION",
+            "D15",
+            "Exit LYSANDER, as following the voice. Re-enter DEMETRIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D16",
+            "Exeunt. Re-enter LYSANDER"
+        ],
+        [
+            "_DIRECTION",
+            "D17",
+            "Lies down"
+        ],
+        [
+            "_DIRECTION",
+            "D18",
+            "Sleeps. Re-enter PUCK and DEMETRIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D19",
+            "Lies down and sleeps. Re-enter HELENA"
+        ],
+        [
+            "_DIRECTION",
+            "D20",
+            "Lies down and sleeps"
+        ],
+        [
+            "_DIRECTION",
+            "D21",
+            "Re-enter HERMIA"
+        ],
+        [
+            "_DIRECTION",
+            "D22",
+            "Lies down and sleeps"
+        ],
+        [
+            "_DIRECTION",
+            "D23",
+            "Squeezing the juice on LYSANDER's eyes"
+        ],
+        [
+            "_DIRECTION",
+            "D24",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "OBERON": [
+            [
+                "1",
+                "6"
+            ],
+            [
+                "38",
+                "40"
+            ],
+            [
+                "44",
+                "44"
+            ],
+            [
+                "91",
+                "94"
+            ],
+            [
+                "97",
+                "102"
+            ],
+            [
+                "105",
+                "112"
+            ],
+            [
+                "119",
+                "120"
+            ],
+            [
+                "363",
+                "364"
+            ],
+            [
+                "372",
+                "395"
+            ],
+            [
+                "406",
+                "413"
+            ]
+        ],
+        "PUCK": [
+            [
+                "7",
+                "37"
+            ],
+            [
+                "41",
+                "43"
+            ],
+            [
+                "45",
+                "45"
+            ],
+            [
+                "95",
+                "96"
+            ],
+            [
+                "103",
+                "104"
+            ],
+            [
+                "113",
+                "118"
+            ],
+            [
+                "121",
+                "124"
+            ],
+            [
+                "365",
+                "371"
+            ],
+            [
+                "396",
+                "405"
+            ],
+            [
+                "414",
+                "418"
+            ],
+            [
+                "420",
+                "420"
+            ],
+            [
+                "422",
+                "423"
+            ],
+            [
+                "427",
+                "431"
+            ],
+            [
+                "433",
+                "433"
+            ],
+            [
+                "443",
+                "443"
+            ],
+            [
+                "448",
+                "448"
+            ],
+            [
+                "460",
+                "464"
+            ],
+            [
+                "471",
+                "486"
+            ]
+        ],
+        "DEMETRIUS": [
+            [
+                "46",
+                "47"
+            ],
+            [
+                "61",
+                "64"
+            ],
+            [
+                "67",
+                "67"
+            ],
+            [
+                "77",
+                "79"
+            ],
+            [
+                "81",
+                "81"
+            ],
+            [
+                "85",
+                "90"
+            ],
+            [
+                "140",
+                "147"
+            ],
+            [
+                "172",
+                "176"
+            ],
+            [
+                "178",
+                "180"
+            ],
+            [
+                "253",
+                "253"
+            ],
+            [
+                "259",
+                "259"
+            ],
+            [
+                "261",
+                "261"
+            ],
+            [
+                "264",
+                "266"
+            ],
+            [
+                "276",
+                "277"
+            ],
+            [
+                "336",
+                "336"
+            ],
+            [
+                "346",
+                "351"
+            ],
+            [
+                "355",
+                "355"
+            ],
+            [
+                "424",
+                "426"
+            ],
+            [
+                "432",
+                "432"
+            ],
+            [
+                "444",
+                "447"
+            ],
+            [
+                "449",
+                "453"
+            ]
+        ],
+        "HERMIA": [
+            [
+                "48",
+                "60"
+            ],
+            [
+                "65",
+                "66"
+            ],
+            [
+                "68",
+                "76"
+            ],
+            [
+                "80",
+                "80"
+            ],
+            [
+                "82",
+                "84"
+            ],
+            [
+                "181",
+                "187"
+            ],
+            [
+                "189",
+                "189"
+            ],
+            [
+                "195",
+                "195"
+            ],
+            [
+                "224",
+                "225"
+            ],
+            [
+                "252",
+                "252"
+            ],
+            [
+                "262",
+                "262"
+            ],
+            [
+                "269",
+                "270"
+            ],
+            [
+                "273",
+                "273"
+            ],
+            [
+                "280",
+                "287"
+            ],
+            [
+                "293",
+                "295"
+            ],
+            [
+                "301",
+                "310"
+            ],
+            [
+                "318",
+                "318"
+            ],
+            [
+                "331",
+                "331"
+            ],
+            [
+                "333",
+                "333"
+            ],
+            [
+                "340",
+                "342"
+            ],
+            [
+                "356",
+                "357"
+            ],
+            [
+                "362",
+                "362"
+            ],
+            [
+                "465",
+                "470"
+            ]
+        ],
+        "LYSANDER": [
+            [
+                "125",
+                "130"
+            ],
+            [
+                "137",
+                "137"
+            ],
+            [
+                "139",
+                "139"
+            ],
+            [
+                "165",
+                "170"
+            ],
+            [
+                "177",
+                "177"
+            ],
+            [
+                "188",
+                "188"
+            ],
+            [
+                "190",
+                "194"
+            ],
+            [
+                "249",
+                "250"
+            ],
+            [
+                "254",
+                "258"
+            ],
+            [
+                "260",
+                "260"
+            ],
+            [
+                "263",
+                "263"
+            ],
+            [
+                "267",
+                "268"
+            ],
+            [
+                "271",
+                "272"
+            ],
+            [
+                "275",
+                "275"
+            ],
+            [
+                "278",
+                "279"
+            ],
+            [
+                "288",
+                "292"
+            ],
+            [
+                "335",
+                "335"
+            ],
+            [
+                "343",
+                "345"
+            ],
+            [
+                "352",
+                "354"
+            ],
+            [
+                "419",
+                "419"
+            ],
+            [
+                "421",
+                "421"
+            ],
+            [
+                "434",
+                "442"
+            ]
+        ],
+        "HELENA": [
+            [
+                "131",
+                "136"
+            ],
+            [
+                "138",
+                "138"
+            ],
+            [
+                "148",
+                "164"
+            ],
+            [
+                "171",
+                "171"
+            ],
+            [
+                "196",
+                "223"
+            ],
+            [
+                "226",
+                "239"
+            ],
+            [
+                "241",
+                "248"
+            ],
+            [
+                "251",
+                "251"
+            ],
+            [
+                "274",
+                "274"
+            ],
+            [
+                "296",
+                "300"
+            ],
+            [
+                "311",
+                "317"
+            ],
+            [
+                "319",
+                "330"
+            ],
+            [
+                "332",
+                "332"
+            ],
+            [
+                "334",
+                "334"
+            ],
+            [
+                "337",
+                "339"
+            ],
+            [
+                "358",
+                "361"
+            ],
+            [
+                "454",
+                "459"
+            ]
+        ],
+        "HERNIA": [
+            [
+                "240",
+                "240"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "Another part of the wood."
+}

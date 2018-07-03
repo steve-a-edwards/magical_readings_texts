@@ -1,0 +1,558 @@
+{
+    "scene_id": "much ado about nothing~~Act_5~~Scene_2",
+    "work_number": "7",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "BENEDICK",
+            "Pray thee, sweet Mistress Margaret, deserve well at",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "BENEDICK",
+            "my hands by helping me to the speech of Beatrice."
+        ],
+        [
+            "MARGARET",
+            "Will you then write me a sonnet in praise of my beauty?"
+        ],
+        [
+            "BENEDICK",
+            "In so high a style, Margaret, that no man living"
+        ],
+        [
+            "BENEDICK",
+            "shall come over it; for, in most comely truth, thou"
+        ],
+        [
+            "BENEDICK",
+            "deservest it."
+        ],
+        [
+            "MARGARET",
+            "To have no man come over me! why, shall I always"
+        ],
+        [
+            "MARGARET",
+            "keep below stairs?"
+        ],
+        [
+            "BENEDICK",
+            "Thy wit is as quick as the greyhound's mouth; it catches."
+        ],
+        [
+            "MARGARET",
+            "And yours as blunt as the fencer's foils, which hit,"
+        ],
+        [
+            "MARGARET",
+            "but hurt not."
+        ],
+        [
+            "BENEDICK",
+            "A most manly wit, Margaret; it will not hurt a"
+        ],
+        [
+            "BENEDICK",
+            "woman: and so, I pray thee, call Beatrice: I give"
+        ],
+        [
+            "BENEDICK",
+            "thee the bucklers."
+        ],
+        [
+            "MARGARET",
+            "Give us the swords; we have bucklers of our own."
+        ],
+        [
+            "BENEDICK",
+            "If you use them, Margaret, you must put in the"
+        ],
+        [
+            "BENEDICK",
+            "pikes with a vice; and they are dangerous weapons for maids."
+        ],
+        [
+            "MARGARET",
+            "Well, I will call Beatrice to you, who I think hath legs."
+        ],
+        [
+            "BENEDICK",
+            "And therefore will come.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "BENEDICK",
+            "The god of love,",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "BENEDICK",
+            "That sits above,"
+        ],
+        [
+            "BENEDICK",
+            "And knows me, and knows me,"
+        ],
+        [
+            "BENEDICK",
+            "How pitiful I deserve,--"
+        ],
+        [
+            "BENEDICK",
+            "I mean in singing; but in loving, Leander the good"
+        ],
+        [
+            "BENEDICK",
+            "swimmer, Troilus the first employer of panders, and"
+        ],
+        [
+            "BENEDICK",
+            "a whole bookful of these quondam carpet-mangers,"
+        ],
+        [
+            "BENEDICK",
+            "whose names yet run smoothly in the even road of a"
+        ],
+        [
+            "BENEDICK",
+            "blank verse, why, they were never so truly turned"
+        ],
+        [
+            "BENEDICK",
+            "over and over as my poor self in love. Marry, I"
+        ],
+        [
+            "BENEDICK",
+            "cannot show it in rhyme; I have tried: I can find"
+        ],
+        [
+            "BENEDICK",
+            "out no rhyme to 'lady' but 'baby,' an innocent"
+        ],
+        [
+            "BENEDICK",
+            "rhyme; for 'scorn,' 'horn,' a hard rhyme; for,"
+        ],
+        [
+            "BENEDICK",
+            "'school,' 'fool,' a babbling rhyme; very ominous"
+        ],
+        [
+            "BENEDICK",
+            "endings: no, I was not born under a rhyming planet,"
+        ],
+        [
+            "BENEDICK",
+            "nor I cannot woo in festival terms.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "BENEDICK",
+            "Sweet Beatrice, wouldst thou come when I called thee?",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "BEATRICE",
+            "Yea, signior, and depart when you bid me."
+        ],
+        [
+            "BENEDICK",
+            "O, stay but till then!"
+        ],
+        [
+            "BEATRICE",
+            "'Then' is spoken; fare you well now: and yet, ere"
+        ],
+        [
+            "BEATRICE",
+            "I go, let me go with that I came; which is, with"
+        ],
+        [
+            "BEATRICE",
+            "knowing what hath passed between you and Claudio."
+        ],
+        [
+            "BENEDICK",
+            "Only foul words; and thereupon I will kiss thee."
+        ],
+        [
+            "BEATRICE",
+            "Foul words is but foul wind, and foul wind is but"
+        ],
+        [
+            "BEATRICE",
+            "foul breath, and foul breath is noisome; therefore I"
+        ],
+        [
+            "BEATRICE",
+            "will depart unkissed."
+        ],
+        [
+            "BENEDICK",
+            "Thou hast frighted the word out of his right sense,"
+        ],
+        [
+            "BENEDICK",
+            "so forcible is thy wit. But I must tell thee"
+        ],
+        [
+            "BENEDICK",
+            "plainly, Claudio undergoes my challenge; and either"
+        ],
+        [
+            "BENEDICK",
+            "I must shortly hear from him, or I will subscribe"
+        ],
+        [
+            "BENEDICK",
+            "him a coward. And, I pray thee now, tell me for"
+        ],
+        [
+            "BENEDICK",
+            "which of my bad parts didst thou first fall in love with me?"
+        ],
+        [
+            "BEATRICE",
+            "For them all together; which maintained so politic"
+        ],
+        [
+            "BEATRICE",
+            "a state of evil that they will not admit any good"
+        ],
+        [
+            "BEATRICE",
+            "part to intermingle with them. But for which of my"
+        ],
+        [
+            "BEATRICE",
+            "good parts did you first suffer love for me?"
+        ],
+        [
+            "BENEDICK",
+            "Suffer love! a good epithet! I do suffer love"
+        ],
+        [
+            "BENEDICK",
+            "indeed, for I love thee against my will."
+        ],
+        [
+            "BEATRICE",
+            "In spite of your heart, I think; alas, poor heart!"
+        ],
+        [
+            "BEATRICE",
+            "If you spite it for my sake, I will spite it for"
+        ],
+        [
+            "BEATRICE",
+            "yours; for I will never love that which my friend hates."
+        ],
+        [
+            "BENEDICK",
+            "Thou and I are too wise to woo peaceably."
+        ],
+        [
+            "BEATRICE",
+            "It appears not in this confession: there's not one"
+        ],
+        [
+            "BEATRICE",
+            "wise man among twenty that will praise himself."
+        ],
+        [
+            "BENEDICK",
+            "An old, an old instance, Beatrice, that lived in"
+        ],
+        [
+            "BENEDICK",
+            "the lime of good neighbours. If a man do not erect"
+        ],
+        [
+            "BENEDICK",
+            "in this age his own tomb ere he dies, he shall live"
+        ],
+        [
+            "BENEDICK",
+            "no longer in monument than the bell rings and the"
+        ],
+        [
+            "BENEDICK",
+            "widow weeps."
+        ],
+        [
+            "BEATRICE",
+            "And how long is that, think you?"
+        ],
+        [
+            "BENEDICK",
+            "Question: why, an hour in clamour and a quarter in"
+        ],
+        [
+            "BENEDICK",
+            "rheum: therefore is it most expedient for the"
+        ],
+        [
+            "BENEDICK",
+            "wise, if Don Worm, his conscience, find no"
+        ],
+        [
+            "BENEDICK",
+            "impediment to the contrary, to be the trumpet of his"
+        ],
+        [
+            "BENEDICK",
+            "own virtues, as I am to myself. So much for"
+        ],
+        [
+            "BENEDICK",
+            "praising myself, who, I myself will bear witness, is"
+        ],
+        [
+            "BENEDICK",
+            "praiseworthy: and now tell me, how doth your cousin?"
+        ],
+        [
+            "BEATRICE",
+            "Very ill."
+        ],
+        [
+            "BENEDICK",
+            "And how do you?"
+        ],
+        [
+            "BEATRICE",
+            "Very ill too."
+        ],
+        [
+            "BENEDICK",
+            "Serve God, love me and mend. There will I leave"
+        ],
+        [
+            "BENEDICK",
+            "you too, for here comes one in haste.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "URSULA",
+            "Madam, you must come to your uncle. Yonder's old",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "URSULA",
+            "coil at home: it is proved my Lady Hero hath been"
+        ],
+        [
+            "URSULA",
+            "falsely accused, the prince and Claudio mightily"
+        ],
+        [
+            "URSULA",
+            "abused; and Don John is the author of all, who is"
+        ],
+        [
+            "URSULA",
+            "fed and gone. Will you come presently?"
+        ],
+        [
+            "BEATRICE",
+            "Will you go hear this news, signior?"
+        ],
+        [
+            "BENEDICK",
+            "I will live in thy heart, die in thy lap, and be"
+        ],
+        [
+            "BENEDICK",
+            "buried in thy eyes; and moreover I will go with"
+        ],
+        [
+            "BENEDICK",
+            "thee to thy uncle's.",
+            {
+                "following_direction_line": "5"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter BENEDICK and MARGARET, meeting"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit MARGARET. Sings"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter BEATRICE"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter URSULA"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "BENEDICK": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "4",
+                "6"
+            ],
+            [
+                "9",
+                "9"
+            ],
+            [
+                "12",
+                "14"
+            ],
+            [
+                "16",
+                "17"
+            ],
+            [
+                "19",
+                "36"
+            ],
+            [
+                "38",
+                "38"
+            ],
+            [
+                "42",
+                "42"
+            ],
+            [
+                "46",
+                "51"
+            ],
+            [
+                "56",
+                "57"
+            ],
+            [
+                "61",
+                "61"
+            ],
+            [
+                "64",
+                "68"
+            ],
+            [
+                "70",
+                "76"
+            ],
+            [
+                "78",
+                "78"
+            ],
+            [
+                "80",
+                "81"
+            ],
+            [
+                "88",
+                "90"
+            ]
+        ],
+        "MARGARET": [
+            [
+                "3",
+                "3"
+            ],
+            [
+                "7",
+                "8"
+            ],
+            [
+                "10",
+                "11"
+            ],
+            [
+                "15",
+                "15"
+            ],
+            [
+                "18",
+                "18"
+            ]
+        ],
+        "BEATRICE": [
+            [
+                "37",
+                "37"
+            ],
+            [
+                "39",
+                "41"
+            ],
+            [
+                "43",
+                "45"
+            ],
+            [
+                "52",
+                "55"
+            ],
+            [
+                "58",
+                "60"
+            ],
+            [
+                "62",
+                "63"
+            ],
+            [
+                "69",
+                "69"
+            ],
+            [
+                "77",
+                "77"
+            ],
+            [
+                "79",
+                "79"
+            ],
+            [
+                "87",
+                "87"
+            ]
+        ],
+        "URSULA": [
+            [
+                "82",
+                "86"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "LEONATO'S garden."
+}

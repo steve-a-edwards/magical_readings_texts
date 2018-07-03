@@ -1,0 +1,781 @@
+{
+    "scene_id": "much ado about nothing~~Act_3~~Scene_2",
+    "work_number": "7",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "DON PEDRO",
+            "I do but stay till your marriage be consummate, and",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "DON PEDRO",
+            "then go I toward Arragon."
+        ],
+        [
+            "CLAUDIO",
+            "I'll bring you thither, my lord, if you'll"
+        ],
+        [
+            "CLAUDIO",
+            "vouchsafe me."
+        ],
+        [
+            "DON PEDRO",
+            "Nay, that would be as great a soil in the new gloss"
+        ],
+        [
+            "DON PEDRO",
+            "of your marriage as to show a child his new coat"
+        ],
+        [
+            "DON PEDRO",
+            "and forbid him to wear it. I will only be bold"
+        ],
+        [
+            "DON PEDRO",
+            "with Benedick for his company; for, from the crown"
+        ],
+        [
+            "DON PEDRO",
+            "of his head to the sole of his foot, he is all"
+        ],
+        [
+            "DON PEDRO",
+            "mirth: he hath twice or thrice cut Cupid's"
+        ],
+        [
+            "DON PEDRO",
+            "bow-string and the little hangman dare not shoot at"
+        ],
+        [
+            "DON PEDRO",
+            "him; he hath a heart as sound as a bell and his"
+        ],
+        [
+            "DON PEDRO",
+            "tongue is the clapper, for what his heart thinks his"
+        ],
+        [
+            "DON PEDRO",
+            "tongue speaks."
+        ],
+        [
+            "BENEDICK",
+            "Gallants, I am not as I have been."
+        ],
+        [
+            "LEONATO",
+            "So say I methinks you are sadder."
+        ],
+        [
+            "CLAUDIO",
+            "I hope he be in love."
+        ],
+        [
+            "DON PEDRO",
+            "Hang him, truant! there's no true drop of blood in"
+        ],
+        [
+            "DON PEDRO",
+            "him, to be truly touched with love: if he be sad,"
+        ],
+        [
+            "DON PEDRO",
+            "he wants money."
+        ],
+        [
+            "BENEDICK",
+            "I have the toothache."
+        ],
+        [
+            "DON PEDRO",
+            "Draw it."
+        ],
+        [
+            "BENEDICK",
+            "Hang it!"
+        ],
+        [
+            "CLAUDIO",
+            "You must hang it first, and draw it afterwards."
+        ],
+        [
+            "DON PEDRO",
+            "What! sigh for the toothache?"
+        ],
+        [
+            "LEONATO",
+            "Where is but a humour or a worm."
+        ],
+        [
+            "BENEDICK",
+            "Well, every one can master a grief but he that has"
+        ],
+        [
+            "BENEDICK",
+            "it."
+        ],
+        [
+            "CLAUDIO",
+            "Yet say I, he is in love."
+        ],
+        [
+            "DON PEDRO",
+            "There is no appearance of fancy in him, unless it be"
+        ],
+        [
+            "DON PEDRO",
+            "a fancy that he hath to strange disguises; as, to be"
+        ],
+        [
+            "DON PEDRO",
+            "a Dutchman today, a Frenchman to-morrow, or in the"
+        ],
+        [
+            "DON PEDRO",
+            "shape of two countries at once, as, a German from"
+        ],
+        [
+            "DON PEDRO",
+            "the waist downward, all slops, and a Spaniard from"
+        ],
+        [
+            "DON PEDRO",
+            "the hip upward, no doublet. Unless he have a fancy"
+        ],
+        [
+            "DON PEDRO",
+            "to this foolery, as it appears he hath, he is no"
+        ],
+        [
+            "DON PEDRO",
+            "fool for fancy, as you would have it appear he is."
+        ],
+        [
+            "CLAUDIO",
+            "If he be not in love with some woman, there is no"
+        ],
+        [
+            "CLAUDIO",
+            "believing old signs: a' brushes his hat o'"
+        ],
+        [
+            "CLAUDIO",
+            "mornings; what should that bode?"
+        ],
+        [
+            "DON PEDRO",
+            "Hath any man seen him at the barber's?"
+        ],
+        [
+            "CLAUDIO",
+            "No, but the barber's man hath been seen with him,"
+        ],
+        [
+            "CLAUDIO",
+            "and the old ornament of his cheek hath already"
+        ],
+        [
+            "CLAUDIO",
+            "stuffed tennis-balls."
+        ],
+        [
+            "LEONATO",
+            "Indeed, he looks younger than he did, by the loss of a beard."
+        ],
+        [
+            "DON PEDRO",
+            "Nay, a' rubs himself with civet: can you smell him"
+        ],
+        [
+            "DON PEDRO",
+            "out by that?"
+        ],
+        [
+            "CLAUDIO",
+            "That's as much as to say, the sweet youth's in love."
+        ],
+        [
+            "DON PEDRO",
+            "The greatest note of it is his melancholy."
+        ],
+        [
+            "CLAUDIO",
+            "And when was he wont to wash his face?"
+        ],
+        [
+            "DON PEDRO",
+            "Yea, or to paint himself? for the which, I hear"
+        ],
+        [
+            "DON PEDRO",
+            "what they say of him."
+        ],
+        [
+            "CLAUDIO",
+            "Nay, but his jesting spirit; which is now crept into"
+        ],
+        [
+            "CLAUDIO",
+            "a lute-string and now governed by stops."
+        ],
+        [
+            "DON PEDRO",
+            "Indeed, that tells a heavy tale for him: conclude,"
+        ],
+        [
+            "DON PEDRO",
+            "conclude he is in love."
+        ],
+        [
+            "CLAUDIO",
+            "Nay, but I know who loves him."
+        ],
+        [
+            "DON PEDRO",
+            "That would I know too: I warrant, one that knows him not."
+        ],
+        [
+            "CLAUDIO",
+            "Yes, and his ill conditions; and, in despite of"
+        ],
+        [
+            "CLAUDIO",
+            "all, dies for him."
+        ],
+        [
+            "DON PEDRO",
+            "She shall be buried with her face upwards."
+        ],
+        [
+            "BENEDICK",
+            "Yet is this no charm for the toothache. Old"
+        ],
+        [
+            "BENEDICK",
+            "signior, walk aside with me: I have studied eight"
+        ],
+        [
+            "BENEDICK",
+            "or nine wise words to speak to you, which these"
+        ],
+        [
+            "BENEDICK",
+            "hobby-horses must not hear.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "DON PEDRO",
+            "For my life, to break with him about Beatrice.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "CLAUDIO",
+            "'Tis even so. Hero and Margaret have by this"
+        ],
+        [
+            "CLAUDIO",
+            "played their parts with Beatrice; and then the two"
+        ],
+        [
+            "CLAUDIO",
+            "bears will not bite one another when they meet.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "DON JOHN",
+            "My lord and brother, God save you!",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "DON PEDRO",
+            "Good den, brother."
+        ],
+        [
+            "DON JOHN",
+            "If your leisure served, I would speak with you."
+        ],
+        [
+            "DON PEDRO",
+            "In private?"
+        ],
+        [
+            "DON JOHN",
+            "If it please you: yet Count Claudio may hear; for"
+        ],
+        [
+            "DON JOHN",
+            "what I would speak of concerns him."
+        ],
+        [
+            "DON PEDRO",
+            "What's the matter?"
+        ],
+        [
+            "DON JOHN",
+            "[To CLAUDIO] Means your lordship to be married"
+        ],
+        [
+            "DON JOHN",
+            "to-morrow?"
+        ],
+        [
+            "DON PEDRO",
+            "You know he does."
+        ],
+        [
+            "DON JOHN",
+            "I know not that, when he knows what I know."
+        ],
+        [
+            "CLAUDIO",
+            "If there be any impediment, I pray you discover it."
+        ],
+        [
+            "DON JOHN",
+            "You may think I love you not: let that appear"
+        ],
+        [
+            "DON JOHN",
+            "hereafter, and aim better at me by that I now will"
+        ],
+        [
+            "DON JOHN",
+            "manifest. For my brother, I think he holds you"
+        ],
+        [
+            "DON JOHN",
+            "well, and in dearness of heart hath holp to effect"
+        ],
+        [
+            "DON JOHN",
+            "your ensuing marriage;--surely suit ill spent and"
+        ],
+        [
+            "DON JOHN",
+            "labour ill bestowed."
+        ],
+        [
+            "DON PEDRO",
+            "Why, what's the matter?"
+        ],
+        [
+            "DON JOHN",
+            "I came hither to tell you; and, circumstances"
+        ],
+        [
+            "DON JOHN",
+            "shortened, for she has been too long a talking of,"
+        ],
+        [
+            "DON JOHN",
+            "the lady is disloyal."
+        ],
+        [
+            "CLAUDIO",
+            "Who, Hero?"
+        ],
+        [
+            "DON PEDRO",
+            "Even she; Leonato's Hero, your Hero, every man's Hero:"
+        ],
+        [
+            "CLAUDIO",
+            "Disloyal?"
+        ],
+        [
+            "DON JOHN",
+            "The word is too good to paint out her wickedness; I"
+        ],
+        [
+            "DON JOHN",
+            "could say she were worse: think you of a worse"
+        ],
+        [
+            "DON JOHN",
+            "title, and I will fit her to it. Wonder not till"
+        ],
+        [
+            "DON JOHN",
+            "further warrant: go but with me to-night, you shall"
+        ],
+        [
+            "DON JOHN",
+            "see her chamber-window entered, even the night"
+        ],
+        [
+            "DON JOHN",
+            "before her wedding-day: if you love her then,"
+        ],
+        [
+            "DON JOHN",
+            "to-morrow wed her; but it would better fit your honour"
+        ],
+        [
+            "DON JOHN",
+            "to change your mind."
+        ],
+        [
+            "CLAUDIO",
+            "May this be so?"
+        ],
+        [
+            "DON PEDRO",
+            "I will not think it."
+        ],
+        [
+            "DON JOHN",
+            "If you dare not trust that you see, confess not"
+        ],
+        [
+            "DON JOHN",
+            "that you know: if you will follow me, I will show"
+        ],
+        [
+            "DON JOHN",
+            "you enough; and when you have seen more and heard"
+        ],
+        [
+            "DON JOHN",
+            "more, proceed accordingly."
+        ],
+        [
+            "CLAUDIO",
+            "If I see any thing to-night why I should not marry"
+        ],
+        [
+            "CLAUDIO",
+            "her to-morrow in the congregation, where I should"
+        ],
+        [
+            "CLAUDIO",
+            "wed, there will I shame her."
+        ],
+        [
+            "DON PEDRO",
+            "And, as I wooed for thee to obtain her, I will join"
+        ],
+        [
+            "DON PEDRO",
+            "with thee to disgrace her."
+        ],
+        [
+            "DON JOHN",
+            "I will disparage her no farther till you are my"
+        ],
+        [
+            "DON JOHN",
+            "witnesses: bear it coldly but till midnight, and"
+        ],
+        [
+            "DON JOHN",
+            "let the issue show itself."
+        ],
+        [
+            "DON PEDRO",
+            "O day untowardly turned!"
+        ],
+        [
+            "CLAUDIO",
+            "O mischief strangely thwarting!"
+        ],
+        [
+            "DON JOHN",
+            "O plague right well prevented! so will you say when"
+        ],
+        [
+            "DON JOHN",
+            "you have seen the sequel.",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter DON PEDRO, CLAUDIO, BENEDICK, and LEONATO"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt BENEDICK and LEONATO"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter DON JOHN"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "DON PEDRO": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "5",
+                "14"
+            ],
+            [
+                "18",
+                "20"
+            ],
+            [
+                "22",
+                "22"
+            ],
+            [
+                "25",
+                "25"
+            ],
+            [
+                "30",
+                "37"
+            ],
+            [
+                "41",
+                "41"
+            ],
+            [
+                "46",
+                "47"
+            ],
+            [
+                "49",
+                "49"
+            ],
+            [
+                "51",
+                "52"
+            ],
+            [
+                "55",
+                "56"
+            ],
+            [
+                "58",
+                "58"
+            ],
+            [
+                "61",
+                "61"
+            ],
+            [
+                "66",
+                "66"
+            ],
+            [
+                "71",
+                "71"
+            ],
+            [
+                "73",
+                "73"
+            ],
+            [
+                "76",
+                "76"
+            ],
+            [
+                "79",
+                "79"
+            ],
+            [
+                "88",
+                "88"
+            ],
+            [
+                "93",
+                "93"
+            ],
+            [
+                "104",
+                "104"
+            ],
+            [
+                "112",
+                "113"
+            ],
+            [
+                "117",
+                "117"
+            ]
+        ],
+        "CLAUDIO": [
+            [
+                "3",
+                "4"
+            ],
+            [
+                "17",
+                "17"
+            ],
+            [
+                "24",
+                "24"
+            ],
+            [
+                "29",
+                "29"
+            ],
+            [
+                "38",
+                "40"
+            ],
+            [
+                "42",
+                "44"
+            ],
+            [
+                "48",
+                "48"
+            ],
+            [
+                "50",
+                "50"
+            ],
+            [
+                "53",
+                "54"
+            ],
+            [
+                "57",
+                "57"
+            ],
+            [
+                "59",
+                "60"
+            ],
+            [
+                "67",
+                "69"
+            ],
+            [
+                "81",
+                "81"
+            ],
+            [
+                "92",
+                "92"
+            ],
+            [
+                "94",
+                "94"
+            ],
+            [
+                "103",
+                "103"
+            ],
+            [
+                "109",
+                "111"
+            ],
+            [
+                "118",
+                "118"
+            ]
+        ],
+        "BENEDICK": [
+            [
+                "15",
+                "15"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "23",
+                "23"
+            ],
+            [
+                "27",
+                "28"
+            ],
+            [
+                "62",
+                "65"
+            ]
+        ],
+        "LEONATO": [
+            [
+                "16",
+                "16"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "45",
+                "45"
+            ]
+        ],
+        "DON JOHN": [
+            [
+                "70",
+                "70"
+            ],
+            [
+                "72",
+                "72"
+            ],
+            [
+                "74",
+                "75"
+            ],
+            [
+                "77",
+                "78"
+            ],
+            [
+                "80",
+                "80"
+            ],
+            [
+                "82",
+                "87"
+            ],
+            [
+                "89",
+                "91"
+            ],
+            [
+                "95",
+                "102"
+            ],
+            [
+                "105",
+                "108"
+            ],
+            [
+                "114",
+                "116"
+            ],
+            [
+                "119",
+                "120"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "A room in LEONATO'S house"
+}

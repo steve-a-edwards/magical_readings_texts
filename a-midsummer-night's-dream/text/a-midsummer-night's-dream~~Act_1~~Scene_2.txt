@@ -1,0 +1,145 @@
+_S_SCENE II. Athens. QUINCE'S house.
+_D_Enter QUINCE, SNUG, BOTTOM, FLUTE, SNOUT, and STARVELING
+_R_QUINCE
+Is all our company here?
+_R_BOTTOM
+You were best to call them generally, man by man,
+according to the scrip.
+_R_QUINCE
+Here is the scroll of every man's name, which is
+thought fit, through all Athens, to play in our
+interlude before the duke and the duchess, on his
+wedding-day at night.
+_R_BOTTOM
+First, good Peter Quince, say what the play treats
+on, then read the names of the actors, and so grow
+to a point.
+_R_QUINCE
+Marry, our play is, The most lamentable comedy, and
+most cruel death of Pyramus and Thisby.
+_R_BOTTOM
+A very good piece of work, I assure you, and a
+merry. Now, good Peter Quince, call forth your
+actors by the scroll. Masters, spread yourselves.
+_R_QUINCE
+Answer as I call you. Nick Bottom, the weaver.
+_R_BOTTOM
+Ready. Name what part I am for, and proceed.
+_R_QUINCE
+You, Nick Bottom, are set down for Pyramus.
+_R_BOTTOM
+What is Pyramus? a lover, or a tyrant?
+_R_QUINCE
+A lover, that kills himself most gallant for love.
+_R_BOTTOM
+That will ask some tears in the true performing of
+it: if I do it, let the audience look to their
+eyes; I will move storms, I will condole in some
+measure. To the rest: yet my chief humour is for a
+tyrant: I could play Ercles rarely, or a part to
+tear a cat in, to make all split.
+The raging rocks
+And shivering shocks
+Shall break the locks
+Of prison gates;
+And Phibbus' car
+Shall shine from far
+And make and mar
+The foolish Fates.
+This was lofty! Now name the rest of the players.
+This is Ercles' vein, a tyrant's vein; a lover is
+more condoling.
+_R_QUINCE
+Francis Flute, the bellows-mender.
+_R_FLUTE
+Here, Peter Quince.
+_R_QUINCE
+Flute, you must take Thisby on you.
+_R_FLUTE
+What is Thisby? a wandering knight?
+_R_QUINCE
+It is the lady that Pyramus must love.
+_R_FLUTE
+Nay, faith, let me not play a woman; I have a beard coming.
+_R_QUINCE
+That's all one: you shall play it in a mask, and
+you may speak as small as you will.
+_R_BOTTOM
+An I may hide my face, let me play Thisby too, I'll
+speak in a monstrous little voice. 'Thisne,
+Thisne;' 'Ah, Pyramus, lover dear! thy Thisby dear,
+and lady dear!'
+_R_QUINCE
+No, no; you must play Pyramus: and, Flute, you Thisby.
+_R_BOTTOM
+Well, proceed.
+_R_QUINCE
+Robin Starveling, the tailor.
+_R_STARVELING
+Here, Peter Quince.
+_R_QUINCE
+Robin Starveling, you must play Thisby's mother.
+Tom Snout, the tinker.
+_R_SNOUT
+Here, Peter Quince.
+_R_QUINCE
+You, Pyramus' father: myself, Thisby's father:
+Snug, the joiner; you, the lion's part: and, I
+hope, here is a play fitted.
+_R_SNUG
+Have you the lion's part written? pray you, if it
+be, give it me, for I am slow of study.
+_R_QUINCE
+You may do it extempore, for it is nothing but roaring.
+_R_BOTTOM
+Let me play the lion too: I will roar, that I will
+do any man's heart good to hear me; I will roar,
+that I will make the duke say 'Let him roar again,
+let him roar again.'
+_R_QUINCE
+An you should do it too terribly, you would fright
+the duchess and the ladies, that they would shriek;
+and that were enough to hang us all.
+_R_ALL
+That would hang us, every mother's son.
+_R_BOTTOM
+I grant you, friends, if that you should fright the
+ladies out of their wits, they would have no more
+discretion but to hang us: but I will aggravate my
+voice so that I will roar you as gently as any
+sucking dove; I will roar you an 'twere any
+nightingale.
+_R_QUINCE
+You can play no part but Pyramus; for Pyramus is a
+sweet-faced man; a proper man, as one shall see in a
+summer's day; a most lovely gentleman-like man:
+therefore you must needs play Pyramus.
+_R_BOTTOM
+Well, I will undertake it. What beard were I best
+to play it in?
+_R_QUINCE
+Why, what you will.
+_R_BOTTOM
+I will discharge it in either your straw-colour
+beard, your orange-tawny beard, your purple-in-grain
+beard, or your French-crown-colour beard, your
+perfect yellow.
+_R_QUINCE
+Some of your French crowns have no hair at all, and
+then you will play bare-faced. But, masters, here
+are your parts: and I am to entreat you, request
+you and desire you, to con them by to-morrow night;
+and meet me in the palace wood, a mile without the
+town, by moonlight; there will we rehearse, for if
+we meet in the city, we shall be dogged with
+company, and our devices known. In the meantime I
+will draw a bill of properties, such as our play
+wants. I pray you, fail me not.
+_R_BOTTOM
+We will meet; and there we may rehearse most
+obscenely and courageously. Take pains; be perfect: adieu.
+_R_QUINCE
+At the duke's oak we meet.
+_R_BOTTOM
+Enough; hold or cut bow-strings.
+_D_Exeunt

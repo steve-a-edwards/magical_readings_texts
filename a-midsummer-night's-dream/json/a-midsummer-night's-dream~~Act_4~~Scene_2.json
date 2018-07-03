@@ -1,0 +1,281 @@
+{
+    "scene_id": "a midsummer night's dream~~Act_4~~Scene_2",
+    "work_number": "3",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "QUINCE",
+            "Have you sent to Bottom's house ? is he come home yet?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "STARVELING",
+            "He cannot be heard of. Out of doubt he is"
+        ],
+        [
+            "STARVELING",
+            "transported."
+        ],
+        [
+            "FLUTE",
+            "If he come not, then the play is marred: it goes"
+        ],
+        [
+            "FLUTE",
+            "not forward, doth it?"
+        ],
+        [
+            "QUINCE",
+            "It is not possible: you have not a man in all"
+        ],
+        [
+            "QUINCE",
+            "Athens able to discharge Pyramus but he."
+        ],
+        [
+            "FLUTE",
+            "No, he hath simply the best wit of any handicraft"
+        ],
+        [
+            "FLUTE",
+            "man in Athens."
+        ],
+        [
+            "QUINCE",
+            "Yea and the best person too; and he is a very"
+        ],
+        [
+            "QUINCE",
+            "paramour for a sweet voice."
+        ],
+        [
+            "FLUTE",
+            "You must say 'paragon:' a paramour is, God bless us,"
+        ],
+        [
+            "FLUTE",
+            "a thing of naught.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "SNUG",
+            "Masters, the duke is coming from the temple, and",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "SNUG",
+            "there is two or three lords and ladies more married:"
+        ],
+        [
+            "SNUG",
+            "if our sport had gone forward, we had all been made"
+        ],
+        [
+            "SNUG",
+            "men."
+        ],
+        [
+            "FLUTE",
+            "O sweet bully Bottom! Thus hath he lost sixpence a"
+        ],
+        [
+            "FLUTE",
+            "day during his life; he could not have 'scaped"
+        ],
+        [
+            "FLUTE",
+            "sixpence a day: an the duke had not given him"
+        ],
+        [
+            "FLUTE",
+            "sixpence a day for playing Pyramus, I'll be hanged;"
+        ],
+        [
+            "FLUTE",
+            "he would have deserved it: sixpence a day in"
+        ],
+        [
+            "FLUTE",
+            "Pyramus, or nothing.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "BOTTOM",
+            "Where are these lads? where are these hearts?",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "QUINCE",
+            "Bottom! O most courageous day! O most happy hour!"
+        ],
+        [
+            "BOTTOM",
+            "Masters, I am to discourse wonders: but ask me not"
+        ],
+        [
+            "BOTTOM",
+            "what; for if I tell you, I am no true Athenian. I"
+        ],
+        [
+            "BOTTOM",
+            "will tell you every thing, right as it fell out."
+        ],
+        [
+            "QUINCE",
+            "Let us hear, sweet Bottom."
+        ],
+        [
+            "BOTTOM",
+            "Not a word of me. All that I will tell you is, that"
+        ],
+        [
+            "BOTTOM",
+            "the duke hath dined. Get your apparel together,"
+        ],
+        [
+            "BOTTOM",
+            "good strings to your beards, new ribbons to your"
+        ],
+        [
+            "BOTTOM",
+            "pumps; meet presently at the palace; every man look"
+        ],
+        [
+            "BOTTOM",
+            "o'er his part; for the short and the long is, our"
+        ],
+        [
+            "BOTTOM",
+            "play is preferred. In any case, let Thisby have"
+        ],
+        [
+            "BOTTOM",
+            "clean linen; and let not him that plays the lion"
+        ],
+        [
+            "BOTTOM",
+            "pair his nails, for they shall hang out for the"
+        ],
+        [
+            "BOTTOM",
+            "lion's claws. And, most dear actors, eat no onions"
+        ],
+        [
+            "BOTTOM",
+            "nor garlic, for we are to utter sweet breath; and I"
+        ],
+        [
+            "BOTTOM",
+            "do not doubt but to hear them say, it is a sweet"
+        ],
+        [
+            "BOTTOM",
+            "comedy. No more words: away! go, away!",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter QUINCE, FLUTE, SNOUT, and STARVELING"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter SNUG"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter BOTTOM"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "QUINCE": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "6",
+                "7"
+            ],
+            [
+                "10",
+                "11"
+            ],
+            [
+                "25",
+                "25"
+            ],
+            [
+                "29",
+                "29"
+            ]
+        ],
+        "STARVELING": [
+            [
+                "2",
+                "3"
+            ]
+        ],
+        "FLUTE": [
+            [
+                "4",
+                "5"
+            ],
+            [
+                "8",
+                "9"
+            ],
+            [
+                "12",
+                "13"
+            ],
+            [
+                "18",
+                "23"
+            ]
+        ],
+        "SNUG": [
+            [
+                "14",
+                "17"
+            ]
+        ],
+        "BOTTOM": [
+            [
+                "24",
+                "24"
+            ],
+            [
+                "26",
+                "28"
+            ],
+            [
+                "30",
+                "41"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "Athens. QUINCE'S house."
+}

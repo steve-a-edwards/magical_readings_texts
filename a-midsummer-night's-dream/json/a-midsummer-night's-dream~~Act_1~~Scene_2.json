@@ -1,0 +1,611 @@
+{
+    "scene_id": "a midsummer night's dream~~Act_1~~Scene_2",
+    "work_number": "3",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "QUINCE",
+            "Is all our company here?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "BOTTOM",
+            "You were best to call them generally, man by man,"
+        ],
+        [
+            "BOTTOM",
+            "according to the scrip."
+        ],
+        [
+            "QUINCE",
+            "Here is the scroll of every man's name, which is"
+        ],
+        [
+            "QUINCE",
+            "thought fit, through all Athens, to play in our"
+        ],
+        [
+            "QUINCE",
+            "interlude before the duke and the duchess, on his"
+        ],
+        [
+            "QUINCE",
+            "wedding-day at night."
+        ],
+        [
+            "BOTTOM",
+            "First, good Peter Quince, say what the play treats"
+        ],
+        [
+            "BOTTOM",
+            "on, then read the names of the actors, and so grow"
+        ],
+        [
+            "BOTTOM",
+            "to a point."
+        ],
+        [
+            "QUINCE",
+            "Marry, our play is, The most lamentable comedy, and"
+        ],
+        [
+            "QUINCE",
+            "most cruel death of Pyramus and Thisby."
+        ],
+        [
+            "BOTTOM",
+            "A very good piece of work, I assure you, and a"
+        ],
+        [
+            "BOTTOM",
+            "merry. Now, good Peter Quince, call forth your"
+        ],
+        [
+            "BOTTOM",
+            "actors by the scroll. Masters, spread yourselves."
+        ],
+        [
+            "QUINCE",
+            "Answer as I call you. Nick Bottom, the weaver."
+        ],
+        [
+            "BOTTOM",
+            "Ready. Name what part I am for, and proceed."
+        ],
+        [
+            "QUINCE",
+            "You, Nick Bottom, are set down for Pyramus."
+        ],
+        [
+            "BOTTOM",
+            "What is Pyramus? a lover, or a tyrant?"
+        ],
+        [
+            "QUINCE",
+            "A lover, that kills himself most gallant for love."
+        ],
+        [
+            "BOTTOM",
+            "That will ask some tears in the true performing of"
+        ],
+        [
+            "BOTTOM",
+            "it: if I do it, let the audience look to their"
+        ],
+        [
+            "BOTTOM",
+            "eyes; I will move storms, I will condole in some"
+        ],
+        [
+            "BOTTOM",
+            "measure. To the rest: yet my chief humour is for a"
+        ],
+        [
+            "BOTTOM",
+            "tyrant: I could play Ercles rarely, or a part to"
+        ],
+        [
+            "BOTTOM",
+            "tear a cat in, to make all split."
+        ],
+        [
+            "BOTTOM",
+            "The raging rocks"
+        ],
+        [
+            "BOTTOM",
+            "And shivering shocks"
+        ],
+        [
+            "BOTTOM",
+            "Shall break the locks"
+        ],
+        [
+            "BOTTOM",
+            "Of prison gates;"
+        ],
+        [
+            "BOTTOM",
+            "And Phibbus' car"
+        ],
+        [
+            "BOTTOM",
+            "Shall shine from far"
+        ],
+        [
+            "BOTTOM",
+            "And make and mar"
+        ],
+        [
+            "BOTTOM",
+            "The foolish Fates."
+        ],
+        [
+            "BOTTOM",
+            "This was lofty! Now name the rest of the players."
+        ],
+        [
+            "BOTTOM",
+            "This is Ercles' vein, a tyrant's vein; a lover is"
+        ],
+        [
+            "BOTTOM",
+            "more condoling."
+        ],
+        [
+            "QUINCE",
+            "Francis Flute, the bellows-mender."
+        ],
+        [
+            "FLUTE",
+            "Here, Peter Quince."
+        ],
+        [
+            "QUINCE",
+            "Flute, you must take Thisby on you."
+        ],
+        [
+            "FLUTE",
+            "What is Thisby? a wandering knight?"
+        ],
+        [
+            "QUINCE",
+            "It is the lady that Pyramus must love."
+        ],
+        [
+            "FLUTE",
+            "Nay, faith, let me not play a woman; I have a beard coming."
+        ],
+        [
+            "QUINCE",
+            "That's all one: you shall play it in a mask, and"
+        ],
+        [
+            "QUINCE",
+            "you may speak as small as you will."
+        ],
+        [
+            "BOTTOM",
+            "An I may hide my face, let me play Thisby too, I'll"
+        ],
+        [
+            "BOTTOM",
+            "speak in a monstrous little voice. 'Thisne,"
+        ],
+        [
+            "BOTTOM",
+            "Thisne;' 'Ah, Pyramus, lover dear! thy Thisby dear,"
+        ],
+        [
+            "BOTTOM",
+            "and lady dear!'"
+        ],
+        [
+            "QUINCE",
+            "No, no; you must play Pyramus: and, Flute, you Thisby."
+        ],
+        [
+            "BOTTOM",
+            "Well, proceed."
+        ],
+        [
+            "QUINCE",
+            "Robin Starveling, the tailor."
+        ],
+        [
+            "STARVELING",
+            "Here, Peter Quince."
+        ],
+        [
+            "QUINCE",
+            "Robin Starveling, you must play Thisby's mother."
+        ],
+        [
+            "QUINCE",
+            "Tom Snout, the tinker."
+        ],
+        [
+            "SNOUT",
+            "Here, Peter Quince."
+        ],
+        [
+            "QUINCE",
+            "You, Pyramus' father: myself, Thisby's father:"
+        ],
+        [
+            "QUINCE",
+            "Snug, the joiner; you, the lion's part: and, I"
+        ],
+        [
+            "QUINCE",
+            "hope, here is a play fitted."
+        ],
+        [
+            "SNUG",
+            "Have you the lion's part written? pray you, if it"
+        ],
+        [
+            "SNUG",
+            "be, give it me, for I am slow of study."
+        ],
+        [
+            "QUINCE",
+            "You may do it extempore, for it is nothing but roaring."
+        ],
+        [
+            "BOTTOM",
+            "Let me play the lion too: I will roar, that I will"
+        ],
+        [
+            "BOTTOM",
+            "do any man's heart good to hear me; I will roar,"
+        ],
+        [
+            "BOTTOM",
+            "that I will make the duke say 'Let him roar again,"
+        ],
+        [
+            "BOTTOM",
+            "let him roar again.'"
+        ],
+        [
+            "QUINCE",
+            "An you should do it too terribly, you would fright"
+        ],
+        [
+            "QUINCE",
+            "the duchess and the ladies, that they would shriek;"
+        ],
+        [
+            "QUINCE",
+            "and that were enough to hang us all."
+        ],
+        [
+            "ALL",
+            "That would hang us, every mother's son."
+        ],
+        [
+            "BOTTOM",
+            "I grant you, friends, if that you should fright the"
+        ],
+        [
+            "BOTTOM",
+            "ladies out of their wits, they would have no more"
+        ],
+        [
+            "BOTTOM",
+            "discretion but to hang us: but I will aggravate my"
+        ],
+        [
+            "BOTTOM",
+            "voice so that I will roar you as gently as any"
+        ],
+        [
+            "BOTTOM",
+            "sucking dove; I will roar you an 'twere any"
+        ],
+        [
+            "BOTTOM",
+            "nightingale."
+        ],
+        [
+            "QUINCE",
+            "You can play no part but Pyramus; for Pyramus is a"
+        ],
+        [
+            "QUINCE",
+            "sweet-faced man; a proper man, as one shall see in a"
+        ],
+        [
+            "QUINCE",
+            "summer's day; a most lovely gentleman-like man:"
+        ],
+        [
+            "QUINCE",
+            "therefore you must needs play Pyramus."
+        ],
+        [
+            "BOTTOM",
+            "Well, I will undertake it. What beard were I best"
+        ],
+        [
+            "BOTTOM",
+            "to play it in?"
+        ],
+        [
+            "QUINCE",
+            "Why, what you will."
+        ],
+        [
+            "BOTTOM",
+            "I will discharge it in either your straw-colour"
+        ],
+        [
+            "BOTTOM",
+            "beard, your orange-tawny beard, your purple-in-grain"
+        ],
+        [
+            "BOTTOM",
+            "beard, or your French-crown-colour beard, your"
+        ],
+        [
+            "BOTTOM",
+            "perfect yellow."
+        ],
+        [
+            "QUINCE",
+            "Some of your French crowns have no hair at all, and"
+        ],
+        [
+            "QUINCE",
+            "then you will play bare-faced. But, masters, here"
+        ],
+        [
+            "QUINCE",
+            "are your parts: and I am to entreat you, request"
+        ],
+        [
+            "QUINCE",
+            "you and desire you, to con them by to-morrow night;"
+        ],
+        [
+            "QUINCE",
+            "and meet me in the palace wood, a mile without the"
+        ],
+        [
+            "QUINCE",
+            "town, by moonlight; there will we rehearse, for if"
+        ],
+        [
+            "QUINCE",
+            "we meet in the city, we shall be dogged with"
+        ],
+        [
+            "QUINCE",
+            "company, and our devices known. In the meantime I"
+        ],
+        [
+            "QUINCE",
+            "will draw a bill of properties, such as our play"
+        ],
+        [
+            "QUINCE",
+            "wants. I pray you, fail me not."
+        ],
+        [
+            "BOTTOM",
+            "We will meet; and there we may rehearse most"
+        ],
+        [
+            "BOTTOM",
+            "obscenely and courageously. Take pains; be perfect: adieu."
+        ],
+        [
+            "QUINCE",
+            "At the duke's oak we meet."
+        ],
+        [
+            "BOTTOM",
+            "Enough; hold or cut bow-strings.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter QUINCE, SNUG, BOTTOM, FLUTE, SNOUT, and STARVELING"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "QUINCE": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "4",
+                "7"
+            ],
+            [
+                "11",
+                "12"
+            ],
+            [
+                "16",
+                "16"
+            ],
+            [
+                "18",
+                "18"
+            ],
+            [
+                "20",
+                "20"
+            ],
+            [
+                "38",
+                "38"
+            ],
+            [
+                "40",
+                "40"
+            ],
+            [
+                "42",
+                "42"
+            ],
+            [
+                "44",
+                "45"
+            ],
+            [
+                "50",
+                "50"
+            ],
+            [
+                "52",
+                "52"
+            ],
+            [
+                "54",
+                "55"
+            ],
+            [
+                "57",
+                "59"
+            ],
+            [
+                "62",
+                "62"
+            ],
+            [
+                "67",
+                "69"
+            ],
+            [
+                "77",
+                "80"
+            ],
+            [
+                "83",
+                "83"
+            ],
+            [
+                "88",
+                "97"
+            ],
+            [
+                "100",
+                "100"
+            ]
+        ],
+        "BOTTOM": [
+            [
+                "2",
+                "3"
+            ],
+            [
+                "8",
+                "10"
+            ],
+            [
+                "13",
+                "15"
+            ],
+            [
+                "17",
+                "17"
+            ],
+            [
+                "19",
+                "19"
+            ],
+            [
+                "21",
+                "37"
+            ],
+            [
+                "46",
+                "49"
+            ],
+            [
+                "51",
+                "51"
+            ],
+            [
+                "63",
+                "66"
+            ],
+            [
+                "71",
+                "76"
+            ],
+            [
+                "81",
+                "82"
+            ],
+            [
+                "84",
+                "87"
+            ],
+            [
+                "98",
+                "99"
+            ],
+            [
+                "101",
+                "101"
+            ]
+        ],
+        "FLUTE": [
+            [
+                "39",
+                "39"
+            ],
+            [
+                "41",
+                "41"
+            ],
+            [
+                "43",
+                "43"
+            ]
+        ],
+        "STARVELING": [
+            [
+                "53",
+                "53"
+            ]
+        ],
+        "SNOUT": [
+            [
+                "56",
+                "56"
+            ]
+        ],
+        "SNUG": [
+            [
+                "60",
+                "61"
+            ]
+        ],
+        "ALL": [
+            [
+                "70",
+                "70"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "Athens. QUINCE'S house."
+}

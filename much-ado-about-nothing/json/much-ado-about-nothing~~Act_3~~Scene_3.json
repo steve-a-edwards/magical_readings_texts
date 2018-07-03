@@ -1,0 +1,978 @@
+{
+    "scene_id": "much ado about nothing~~Act_3~~Scene_3",
+    "work_number": "7",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "DOGBERRY",
+            "Are you good men and true?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "VERGES",
+            "Yea, or else it were pity but they should suffer"
+        ],
+        [
+            "VERGES",
+            "salvation, body and soul."
+        ],
+        [
+            "DOGBERRY",
+            "Nay, that were a punishment too good for them, if"
+        ],
+        [
+            "DOGBERRY",
+            "they should have any allegiance in them, being"
+        ],
+        [
+            "DOGBERRY",
+            "chosen for the prince's watch."
+        ],
+        [
+            "VERGES",
+            "Well, give them their charge, neighbour Dogberry."
+        ],
+        [
+            "DOGBERRY",
+            "First, who think you the most desertless man to be"
+        ],
+        [
+            "DOGBERRY",
+            "constable?"
+        ],
+        [
+            "First Watchman",
+            "Hugh Otecake, sir, or George Seacole; for they can"
+        ],
+        [
+            "First Watchman",
+            "write and read."
+        ],
+        [
+            "DOGBERRY",
+            "Come hither, neighbour Seacole. God hath blessed"
+        ],
+        [
+            "DOGBERRY",
+            "you with a good name: to be a well-favoured man is"
+        ],
+        [
+            "DOGBERRY",
+            "the gift of fortune; but to write and read comes by nature."
+        ],
+        [
+            "Second Watchman",
+            "Both which, master constable,--"
+        ],
+        [
+            "DOGBERRY",
+            "You have: I knew it would be your answer. Well,"
+        ],
+        [
+            "DOGBERRY",
+            "for your favour, sir, why, give God thanks, and make"
+        ],
+        [
+            "DOGBERRY",
+            "no boast of it; and for your writing and reading,"
+        ],
+        [
+            "DOGBERRY",
+            "let that appear when there is no need of such"
+        ],
+        [
+            "DOGBERRY",
+            "vanity. You are thought here to be the most"
+        ],
+        [
+            "DOGBERRY",
+            "senseless and fit man for the constable of the"
+        ],
+        [
+            "DOGBERRY",
+            "watch; therefore bear you the lantern. This is your"
+        ],
+        [
+            "DOGBERRY",
+            "charge: you shall comprehend all vagrom men; you are"
+        ],
+        [
+            "DOGBERRY",
+            "to bid any man stand, in the prince's name."
+        ],
+        [
+            "Second Watchman",
+            "How if a' will not stand?"
+        ],
+        [
+            "DOGBERRY",
+            "Why, then, take no note of him, but let him go; and"
+        ],
+        [
+            "DOGBERRY",
+            "presently call the rest of the watch together and"
+        ],
+        [
+            "DOGBERRY",
+            "thank God you are rid of a knave."
+        ],
+        [
+            "VERGES",
+            "If he will not stand when he is bidden, he is none"
+        ],
+        [
+            "VERGES",
+            "of the prince's subjects."
+        ],
+        [
+            "DOGBERRY",
+            "True, and they are to meddle with none but the"
+        ],
+        [
+            "DOGBERRY",
+            "prince's subjects. You shall also make no noise in"
+        ],
+        [
+            "DOGBERRY",
+            "the streets; for, for the watch to babble and to"
+        ],
+        [
+            "DOGBERRY",
+            "talk is most tolerable and not to be endured."
+        ],
+        [
+            "Watchman",
+            "We will rather sleep than talk: we know what"
+        ],
+        [
+            "Watchman",
+            "belongs to a watch."
+        ],
+        [
+            "DOGBERRY",
+            "Why, you speak like an ancient and most quiet"
+        ],
+        [
+            "DOGBERRY",
+            "watchman; for I cannot see how sleeping should"
+        ],
+        [
+            "DOGBERRY",
+            "offend: only, have a care that your bills be not"
+        ],
+        [
+            "DOGBERRY",
+            "stolen. Well, you are to call at all the"
+        ],
+        [
+            "DOGBERRY",
+            "ale-houses, and bid those that are drunk get them to bed."
+        ],
+        [
+            "Watchman",
+            "How if they will not?"
+        ],
+        [
+            "DOGBERRY",
+            "Why, then, let them alone till they are sober: if"
+        ],
+        [
+            "DOGBERRY",
+            "they make you not then the better answer, you may"
+        ],
+        [
+            "DOGBERRY",
+            "say they are not the men you took them for."
+        ],
+        [
+            "Watchman",
+            "Well, sir."
+        ],
+        [
+            "DOGBERRY",
+            "If you meet a thief, you may suspect him, by virtue"
+        ],
+        [
+            "DOGBERRY",
+            "of your office, to be no true man; and, for such"
+        ],
+        [
+            "DOGBERRY",
+            "kind of men, the less you meddle or make with them,"
+        ],
+        [
+            "DOGBERRY",
+            "why the more is for your honesty."
+        ],
+        [
+            "Watchman",
+            "If we know him to be a thief, shall we not lay"
+        ],
+        [
+            "Watchman",
+            "hands on him?"
+        ],
+        [
+            "DOGBERRY",
+            "Truly, by your office, you may; but I think they"
+        ],
+        [
+            "DOGBERRY",
+            "that touch pitch will be defiled: the most peaceable"
+        ],
+        [
+            "DOGBERRY",
+            "way for you, if you do take a thief, is to let him"
+        ],
+        [
+            "DOGBERRY",
+            "show himself what he is and steal out of your company."
+        ],
+        [
+            "VERGES",
+            "You have been always called a merciful man, partner."
+        ],
+        [
+            "DOGBERRY",
+            "Truly, I would not hang a dog by my will, much more"
+        ],
+        [
+            "DOGBERRY",
+            "a man who hath any honesty in him."
+        ],
+        [
+            "VERGES",
+            "If you hear a child cry in the night, you must call"
+        ],
+        [
+            "VERGES",
+            "to the nurse and bid her still it."
+        ],
+        [
+            "Watchman",
+            "How if the nurse be asleep and will not hear us?"
+        ],
+        [
+            "DOGBERRY",
+            "Why, then, depart in peace, and let the child wake"
+        ],
+        [
+            "DOGBERRY",
+            "her with crying; for the ewe that will not hear her"
+        ],
+        [
+            "DOGBERRY",
+            "lamb when it baes will never answer a calf when he bleats."
+        ],
+        [
+            "VERGES",
+            "'Tis very true."
+        ],
+        [
+            "DOGBERRY",
+            "This is the end of the charge:--you, constable, are"
+        ],
+        [
+            "DOGBERRY",
+            "to present the prince's own person: if you meet the"
+        ],
+        [
+            "DOGBERRY",
+            "prince in the night, you may stay him."
+        ],
+        [
+            "VERGES",
+            "Nay, by'r our lady, that I think a' cannot."
+        ],
+        [
+            "DOGBERRY",
+            "Five shillings to one on't, with any man that knows"
+        ],
+        [
+            "DOGBERRY",
+            "the statutes, he may stay him: marry, not without"
+        ],
+        [
+            "DOGBERRY",
+            "the prince be willing; for, indeed, the watch ought"
+        ],
+        [
+            "DOGBERRY",
+            "to offend no man; and it is an offence to stay a"
+        ],
+        [
+            "DOGBERRY",
+            "man against his will."
+        ],
+        [
+            "VERGES",
+            "By'r lady, I think it be so."
+        ],
+        [
+            "DOGBERRY",
+            "Ha, ha, ha! Well, masters, good night: an there be"
+        ],
+        [
+            "DOGBERRY",
+            "any matter of weight chances, call up me: keep your"
+        ],
+        [
+            "DOGBERRY",
+            "fellows' counsels and your own; and good night."
+        ],
+        [
+            "DOGBERRY",
+            "Come, neighbour."
+        ],
+        [
+            "Watchman",
+            "Well, masters, we hear our charge: let us go sit here"
+        ],
+        [
+            "Watchman",
+            "upon the church-bench till two, and then all to bed."
+        ],
+        [
+            "DOGBERRY",
+            "One word more, honest neighbours. I pray you watch"
+        ],
+        [
+            "DOGBERRY",
+            "about Signior Leonato's door; for the wedding being"
+        ],
+        [
+            "DOGBERRY",
+            "there to-morrow, there is a great coil to-night."
+        ],
+        [
+            "DOGBERRY",
+            "Adieu: be vigitant, I beseech you.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "BORACHIO",
+            "What Conrade!",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "Watchman",
+            "[Aside] Peace! stir not."
+        ],
+        [
+            "BORACHIO",
+            "Conrade, I say!"
+        ],
+        [
+            "CONRADE",
+            "Here, man; I am at thy elbow."
+        ],
+        [
+            "BORACHIO",
+            "Mass, and my elbow itched; I thought there would a"
+        ],
+        [
+            "BORACHIO",
+            "scab follow."
+        ],
+        [
+            "CONRADE",
+            "I will owe thee an answer for that: and now forward"
+        ],
+        [
+            "CONRADE",
+            "with thy tale."
+        ],
+        [
+            "BORACHIO",
+            "Stand thee close, then, under this pent-house, for"
+        ],
+        [
+            "BORACHIO",
+            "it drizzles rain; and I will, like a true drunkard,"
+        ],
+        [
+            "BORACHIO",
+            "utter all to thee."
+        ],
+        [
+            "Watchman",
+            "[Aside] Some treason, masters: yet stand close."
+        ],
+        [
+            "BORACHIO",
+            "Therefore know I have earned of Don John a thousand ducats."
+        ],
+        [
+            "CONRADE",
+            "Is it possible that any villany should be so dear?"
+        ],
+        [
+            "BORACHIO",
+            "Thou shouldst rather ask if it were possible any"
+        ],
+        [
+            "BORACHIO",
+            "villany should be so rich; for when rich villains"
+        ],
+        [
+            "BORACHIO",
+            "have need of poor ones, poor ones may make what"
+        ],
+        [
+            "BORACHIO",
+            "price they will."
+        ],
+        [
+            "CONRADE",
+            "I wonder at it."
+        ],
+        [
+            "BORACHIO",
+            "That shows thou art unconfirmed. Thou knowest that"
+        ],
+        [
+            "BORACHIO",
+            "the fashion of a doublet, or a hat, or a cloak, is"
+        ],
+        [
+            "BORACHIO",
+            "nothing to a man."
+        ],
+        [
+            "CONRADE",
+            "Yes, it is apparel."
+        ],
+        [
+            "BORACHIO",
+            "I mean, the fashion."
+        ],
+        [
+            "CONRADE",
+            "Yes, the fashion is the fashion."
+        ],
+        [
+            "BORACHIO",
+            "Tush! I may as well say the fool's the fool. But"
+        ],
+        [
+            "BORACHIO",
+            "seest thou not what a deformed thief this fashion"
+        ],
+        [
+            "BORACHIO",
+            "is?"
+        ],
+        [
+            "Watchman",
+            "[Aside] I know that Deformed; a' has been a vile"
+        ],
+        [
+            "Watchman",
+            "thief this seven year; a' goes up and down like a"
+        ],
+        [
+            "Watchman",
+            "gentleman: I remember his name."
+        ],
+        [
+            "BORACHIO",
+            "Didst thou not hear somebody?"
+        ],
+        [
+            "CONRADE",
+            "No; 'twas the vane on the house."
+        ],
+        [
+            "BORACHIO",
+            "Seest thou not, I say, what a deformed thief this"
+        ],
+        [
+            "BORACHIO",
+            "fashion is? how giddily a' turns about all the hot"
+        ],
+        [
+            "BORACHIO",
+            "bloods between fourteen and five-and-thirty?"
+        ],
+        [
+            "BORACHIO",
+            "sometimes fashioning them like Pharaoh's soldiers"
+        ],
+        [
+            "BORACHIO",
+            "in the reeky painting, sometime like god Bel's"
+        ],
+        [
+            "BORACHIO",
+            "priests in the old church-window, sometime like the"
+        ],
+        [
+            "BORACHIO",
+            "shaven Hercules in the smirched worm-eaten tapestry,"
+        ],
+        [
+            "BORACHIO",
+            "where his codpiece seems as massy as his club?"
+        ],
+        [
+            "CONRADE",
+            "All this I see; and I see that the fashion wears"
+        ],
+        [
+            "CONRADE",
+            "out more apparel than the man. But art not thou"
+        ],
+        [
+            "CONRADE",
+            "thyself giddy with the fashion too, that thou hast"
+        ],
+        [
+            "CONRADE",
+            "shifted out of thy tale into telling me of the fashion?"
+        ],
+        [
+            "BORACHIO",
+            "Not so, neither: but know that I have to-night"
+        ],
+        [
+            "BORACHIO",
+            "wooed Margaret, the Lady Hero's gentlewoman, by the"
+        ],
+        [
+            "BORACHIO",
+            "name of Hero: she leans me out at her mistress'"
+        ],
+        [
+            "BORACHIO",
+            "chamber-window, bids me a thousand times good"
+        ],
+        [
+            "BORACHIO",
+            "night,--I tell this tale vilely:--I should first"
+        ],
+        [
+            "BORACHIO",
+            "tell thee how the prince, Claudio and my master,"
+        ],
+        [
+            "BORACHIO",
+            "planted and placed and possessed by my master Don"
+        ],
+        [
+            "BORACHIO",
+            "John, saw afar off in the orchard this amiable encounter."
+        ],
+        [
+            "CONRADE",
+            "And thought they Margaret was Hero?"
+        ],
+        [
+            "BORACHIO",
+            "Two of them did, the prince and Claudio; but the"
+        ],
+        [
+            "BORACHIO",
+            "devil my master knew she was Margaret; and partly"
+        ],
+        [
+            "BORACHIO",
+            "by his oaths, which first possessed them, partly by"
+        ],
+        [
+            "BORACHIO",
+            "the dark night, which did deceive them, but chiefly"
+        ],
+        [
+            "BORACHIO",
+            "by my villany, which did confirm any slander that"
+        ],
+        [
+            "BORACHIO",
+            "Don John had made, away went Claudio enraged; swore"
+        ],
+        [
+            "BORACHIO",
+            "he would meet her, as he was appointed, next morning"
+        ],
+        [
+            "BORACHIO",
+            "at the temple, and there, before the whole"
+        ],
+        [
+            "BORACHIO",
+            "congregation, shame her with what he saw o'er night"
+        ],
+        [
+            "BORACHIO",
+            "and send her home again without a husband."
+        ],
+        [
+            "First Watchman",
+            "We charge you, in the prince's name, stand!"
+        ],
+        [
+            "Second Watchman",
+            "Call up the right master constable. We have here"
+        ],
+        [
+            "Second Watchman",
+            "recovered the most dangerous piece of lechery that"
+        ],
+        [
+            "Second Watchman",
+            "ever was known in the commonwealth."
+        ],
+        [
+            "First Watchman",
+            "And one Deformed is one of them: I know him; a'"
+        ],
+        [
+            "First Watchman",
+            "wears a lock."
+        ],
+        [
+            "CONRADE",
+            "Masters, masters,--"
+        ],
+        [
+            "Second Watchman",
+            "You'll be made bring Deformed forth, I warrant you."
+        ],
+        [
+            "CONRADE",
+            "Masters,--"
+        ],
+        [
+            "First Watchman",
+            "Never speak: we charge you let us obey you to go with us."
+        ],
+        [
+            "BORACHIO",
+            "We are like to prove a goodly commodity, being taken"
+        ],
+        [
+            "BORACHIO",
+            "up of these men's bills."
+        ],
+        [
+            "CONRADE",
+            "A commodity in question, I warrant you. Come, we'll obey you.",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter DOGBERRY and VERGES with the Watch"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt DOGBERRY and VERGES. Enter BORACHIO and CONRADE"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "DOGBERRY": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "4",
+                "6"
+            ],
+            [
+                "8",
+                "9"
+            ],
+            [
+                "12",
+                "14"
+            ],
+            [
+                "16",
+                "24"
+            ],
+            [
+                "26",
+                "28"
+            ],
+            [
+                "31",
+                "34"
+            ],
+            [
+                "37",
+                "41"
+            ],
+            [
+                "43",
+                "45"
+            ],
+            [
+                "47",
+                "50"
+            ],
+            [
+                "53",
+                "56"
+            ],
+            [
+                "58",
+                "59"
+            ],
+            [
+                "63",
+                "65"
+            ],
+            [
+                "67",
+                "69"
+            ],
+            [
+                "71",
+                "75"
+            ],
+            [
+                "77",
+                "80"
+            ],
+            [
+                "83",
+                "86"
+            ]
+        ],
+        "VERGES": [
+            [
+                "2",
+                "3"
+            ],
+            [
+                "7",
+                "7"
+            ],
+            [
+                "29",
+                "30"
+            ],
+            [
+                "57",
+                "57"
+            ],
+            [
+                "60",
+                "61"
+            ],
+            [
+                "66",
+                "66"
+            ],
+            [
+                "70",
+                "70"
+            ],
+            [
+                "76",
+                "76"
+            ]
+        ],
+        "First Watchman": [
+            [
+                "10",
+                "11"
+            ],
+            [
+                "151",
+                "151"
+            ],
+            [
+                "155",
+                "156"
+            ],
+            [
+                "160",
+                "160"
+            ]
+        ],
+        "Second Watchman": [
+            [
+                "15",
+                "15"
+            ],
+            [
+                "25",
+                "25"
+            ],
+            [
+                "152",
+                "154"
+            ],
+            [
+                "158",
+                "158"
+            ]
+        ],
+        "Watchman": [
+            [
+                "35",
+                "36"
+            ],
+            [
+                "42",
+                "42"
+            ],
+            [
+                "46",
+                "46"
+            ],
+            [
+                "51",
+                "52"
+            ],
+            [
+                "62",
+                "62"
+            ],
+            [
+                "81",
+                "82"
+            ],
+            [
+                "88",
+                "88"
+            ],
+            [
+                "98",
+                "98"
+            ],
+            [
+                "115",
+                "117"
+            ]
+        ],
+        "BORACHIO": [
+            [
+                "87",
+                "87"
+            ],
+            [
+                "89",
+                "89"
+            ],
+            [
+                "91",
+                "92"
+            ],
+            [
+                "95",
+                "97"
+            ],
+            [
+                "99",
+                "99"
+            ],
+            [
+                "101",
+                "104"
+            ],
+            [
+                "106",
+                "108"
+            ],
+            [
+                "110",
+                "110"
+            ],
+            [
+                "112",
+                "114"
+            ],
+            [
+                "118",
+                "118"
+            ],
+            [
+                "120",
+                "127"
+            ],
+            [
+                "132",
+                "139"
+            ],
+            [
+                "141",
+                "150"
+            ],
+            [
+                "161",
+                "162"
+            ]
+        ],
+        "CONRADE": [
+            [
+                "90",
+                "90"
+            ],
+            [
+                "93",
+                "94"
+            ],
+            [
+                "100",
+                "100"
+            ],
+            [
+                "105",
+                "105"
+            ],
+            [
+                "109",
+                "109"
+            ],
+            [
+                "111",
+                "111"
+            ],
+            [
+                "119",
+                "119"
+            ],
+            [
+                "128",
+                "131"
+            ],
+            [
+                "140",
+                "140"
+            ],
+            [
+                "157",
+                "157"
+            ],
+            [
+                "159",
+                "159"
+            ],
+            [
+                "163",
+                "163"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "A street."
+}

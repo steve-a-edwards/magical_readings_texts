@@ -1,0 +1,203 @@
+{
+    "scene_id": "much ado about nothing~~Act_5~~Scene_3",
+    "work_number": "7",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "CLAUDIO",
+            "Is this the monument of Leonato?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "Lord",
+            "It is, my lord."
+        ],
+        [
+            "CLAUDIO",
+            "[Reading out of a scroll]"
+        ],
+        [
+            "CLAUDIO",
+            "Done to death by slanderous tongues"
+        ],
+        [
+            "CLAUDIO",
+            "Was the Hero that here lies:"
+        ],
+        [
+            "CLAUDIO",
+            "Death, in guerdon of her wrongs,"
+        ],
+        [
+            "CLAUDIO",
+            "Gives her fame which never dies."
+        ],
+        [
+            "CLAUDIO",
+            "So the life that died with shame"
+        ],
+        [
+            "CLAUDIO",
+            "Lives in death with glorious fame."
+        ],
+        [
+            "CLAUDIO",
+            "Hang thou there upon the tomb,"
+        ],
+        [
+            "CLAUDIO",
+            "Praising her when I am dumb."
+        ],
+        [
+            "CLAUDIO",
+            "Now, music, sound, and sing your solemn hymn."
+        ],
+        [
+            "CLAUDIO",
+            "SONG."
+        ],
+        [
+            "CLAUDIO",
+            "Pardon, goddess of the night,"
+        ],
+        [
+            "CLAUDIO",
+            "Those that slew thy virgin knight;"
+        ],
+        [
+            "CLAUDIO",
+            "For the which, with songs of woe,"
+        ],
+        [
+            "CLAUDIO",
+            "Round about her tomb they go."
+        ],
+        [
+            "CLAUDIO",
+            "Midnight, assist our moan;"
+        ],
+        [
+            "CLAUDIO",
+            "Help us to sigh and groan,"
+        ],
+        [
+            "CLAUDIO",
+            "Heavily, heavily:"
+        ],
+        [
+            "CLAUDIO",
+            "Graves, yawn and yield your dead,"
+        ],
+        [
+            "CLAUDIO",
+            "Till death be uttered,"
+        ],
+        [
+            "CLAUDIO",
+            "Heavily, heavily."
+        ],
+        [
+            "CLAUDIO",
+            "Now, unto thy bones good night!"
+        ],
+        [
+            "CLAUDIO",
+            "Yearly will I do this rite."
+        ],
+        [
+            "DON PEDRO",
+            "Good morrow, masters; put your torches out:"
+        ],
+        [
+            "DON PEDRO",
+            "The wolves have prey'd; and look, the gentle day,"
+        ],
+        [
+            "DON PEDRO",
+            "Before the wheels of Phoebus, round about"
+        ],
+        [
+            "DON PEDRO",
+            "Dapples the drowsy east with spots of grey."
+        ],
+        [
+            "DON PEDRO",
+            "Thanks to you all, and leave us: fare you well."
+        ],
+        [
+            "CLAUDIO",
+            "Good morrow, masters: each his several way."
+        ],
+        [
+            "DON PEDRO",
+            "Come, let us hence, and put on other weeds;"
+        ],
+        [
+            "DON PEDRO",
+            "And then to Leonato's we will go."
+        ],
+        [
+            "CLAUDIO",
+            "And Hymen now with luckier issue speed's"
+        ],
+        [
+            "CLAUDIO",
+            "Than this for whom we render'd up this woe.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter DON PEDRO, CLAUDIO, and three or four with tapers"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "CLAUDIO": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "25"
+            ],
+            [
+                "31",
+                "31"
+            ],
+            [
+                "34",
+                "35"
+            ]
+        ],
+        "Lord": [
+            [
+                "2",
+                "2"
+            ]
+        ],
+        "DON PEDRO": [
+            [
+                "26",
+                "30"
+            ],
+            [
+                "32",
+                "33"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "A church."
+}

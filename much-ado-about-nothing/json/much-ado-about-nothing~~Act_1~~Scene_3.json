@@ -1,0 +1,402 @@
+{
+    "scene_id": "much ado about nothing~~Act_1~~Scene_3",
+    "work_number": "7",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "CONRADE",
+            "What the good-year, my lord! why are you thus out",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "CONRADE",
+            "of measure sad?"
+        ],
+        [
+            "DON JOHN",
+            "There is no measure in the occasion that breeds;"
+        ],
+        [
+            "DON JOHN",
+            "therefore the sadness is without limit."
+        ],
+        [
+            "CONRADE",
+            "You should hear reason."
+        ],
+        [
+            "DON JOHN",
+            "And when I have heard it, what blessing brings it?"
+        ],
+        [
+            "CONRADE",
+            "If not a present remedy, at least a patient"
+        ],
+        [
+            "CONRADE",
+            "sufferance."
+        ],
+        [
+            "DON JOHN",
+            "I wonder that thou, being, as thou sayest thou art,"
+        ],
+        [
+            "DON JOHN",
+            "born under Saturn, goest about to apply a moral"
+        ],
+        [
+            "DON JOHN",
+            "medicine to a mortifying mischief. I cannot hide"
+        ],
+        [
+            "DON JOHN",
+            "what I am: I must be sad when I have cause and smile"
+        ],
+        [
+            "DON JOHN",
+            "at no man's jests, eat when I have stomach and wait"
+        ],
+        [
+            "DON JOHN",
+            "for no man's leisure, sleep when I am drowsy and"
+        ],
+        [
+            "DON JOHN",
+            "tend on no man's business, laugh when I am merry and"
+        ],
+        [
+            "DON JOHN",
+            "claw no man in his humour."
+        ],
+        [
+            "CONRADE",
+            "Yea, but you must not make the full show of this"
+        ],
+        [
+            "CONRADE",
+            "till you may do it without controlment. You have of"
+        ],
+        [
+            "CONRADE",
+            "late stood out against your brother, and he hath"
+        ],
+        [
+            "CONRADE",
+            "ta'en you newly into his grace; where it is"
+        ],
+        [
+            "CONRADE",
+            "impossible you should take true root but by the"
+        ],
+        [
+            "CONRADE",
+            "fair weather that you make yourself: it is needful"
+        ],
+        [
+            "CONRADE",
+            "that you frame the season for your own harvest."
+        ],
+        [
+            "DON JOHN",
+            "I had rather be a canker in a hedge than a rose in"
+        ],
+        [
+            "DON JOHN",
+            "his grace, and it better fits my blood to be"
+        ],
+        [
+            "DON JOHN",
+            "disdained of all than to fashion a carriage to rob"
+        ],
+        [
+            "DON JOHN",
+            "love from any: in this, though I cannot be said to"
+        ],
+        [
+            "DON JOHN",
+            "be a flattering honest man, it must not be denied"
+        ],
+        [
+            "DON JOHN",
+            "but I am a plain-dealing villain. I am trusted with"
+        ],
+        [
+            "DON JOHN",
+            "a muzzle and enfranchised with a clog; therefore I"
+        ],
+        [
+            "DON JOHN",
+            "have decreed not to sing in my cage. If I had my"
+        ],
+        [
+            "DON JOHN",
+            "mouth, I would bite; if I had my liberty, I would do"
+        ],
+        [
+            "DON JOHN",
+            "my liking: in the meantime let me be that I am and"
+        ],
+        [
+            "DON JOHN",
+            "seek not to alter me."
+        ],
+        [
+            "CONRADE",
+            "Can you make no use of your discontent?"
+        ],
+        [
+            "DON JOHN",
+            "I make all use of it, for I use it only."
+        ],
+        [
+            "DON JOHN",
+            "Who comes here?",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "DON JOHN",
+            "What news, Borachio?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "BORACHIO",
+            "I came yonder from a great supper: the prince your"
+        ],
+        [
+            "BORACHIO",
+            "brother is royally entertained by Leonato: and I"
+        ],
+        [
+            "BORACHIO",
+            "can give you intelligence of an intended marriage."
+        ],
+        [
+            "DON JOHN",
+            "Will it serve for any model to build mischief on?"
+        ],
+        [
+            "DON JOHN",
+            "What is he for a fool that betroths himself to"
+        ],
+        [
+            "DON JOHN",
+            "unquietness?"
+        ],
+        [
+            "BORACHIO",
+            "Marry, it is your brother's right hand."
+        ],
+        [
+            "DON JOHN",
+            "Who? the most exquisite Claudio?"
+        ],
+        [
+            "BORACHIO",
+            "Even he."
+        ],
+        [
+            "DON JOHN",
+            "A proper squire! And who, and who? which way looks"
+        ],
+        [
+            "DON JOHN",
+            "he?"
+        ],
+        [
+            "BORACHIO",
+            "Marry, on Hero, the daughter and heir of Leonato."
+        ],
+        [
+            "DON JOHN",
+            "A very forward March-chick! How came you to this?"
+        ],
+        [
+            "BORACHIO",
+            "Being entertained for a perfumer, as I was smoking a"
+        ],
+        [
+            "BORACHIO",
+            "musty room, comes me the prince and Claudio, hand"
+        ],
+        [
+            "BORACHIO",
+            "in hand in sad conference: I whipt me behind the"
+        ],
+        [
+            "BORACHIO",
+            "arras; and there heard it agreed upon that the"
+        ],
+        [
+            "BORACHIO",
+            "prince should woo Hero for himself, and having"
+        ],
+        [
+            "BORACHIO",
+            "obtained her, give her to Count Claudio."
+        ],
+        [
+            "DON JOHN",
+            "Come, come, let us thither: this may prove food to"
+        ],
+        [
+            "DON JOHN",
+            "my displeasure. That young start-up hath all the"
+        ],
+        [
+            "DON JOHN",
+            "glory of my overthrow: if I can cross him any way, I"
+        ],
+        [
+            "DON JOHN",
+            "bless myself every way. You are both sure, and will assist me?"
+        ],
+        [
+            "CONRADE",
+            "To the death, my lord."
+        ],
+        [
+            "DON JOHN",
+            "Let us to the great supper: their cheer is the"
+        ],
+        [
+            "DON JOHN",
+            "greater that I am subdued. Would the cook were of"
+        ],
+        [
+            "DON JOHN",
+            "my mind! Shall we go prove what's to be done?"
+        ],
+        [
+            "BORACHIO",
+            "We'll wait upon your lordship.",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter DON JOHN and CONRADE"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter BORACHIO"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "CONRADE": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "5",
+                "5"
+            ],
+            [
+                "7",
+                "8"
+            ],
+            [
+                "17",
+                "23"
+            ],
+            [
+                "35",
+                "35"
+            ],
+            [
+                "62",
+                "62"
+            ]
+        ],
+        "DON JOHN": [
+            [
+                "3",
+                "4"
+            ],
+            [
+                "6",
+                "6"
+            ],
+            [
+                "9",
+                "16"
+            ],
+            [
+                "24",
+                "34"
+            ],
+            [
+                "36",
+                "38"
+            ],
+            [
+                "42",
+                "44"
+            ],
+            [
+                "46",
+                "46"
+            ],
+            [
+                "48",
+                "49"
+            ],
+            [
+                "51",
+                "51"
+            ],
+            [
+                "58",
+                "61"
+            ],
+            [
+                "63",
+                "65"
+            ]
+        ],
+        "BORACHIO": [
+            [
+                "39",
+                "41"
+            ],
+            [
+                "45",
+                "45"
+            ],
+            [
+                "47",
+                "47"
+            ],
+            [
+                "50",
+                "50"
+            ],
+            [
+                "52",
+                "57"
+            ],
+            [
+                "66",
+                "66"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "The same."
+}

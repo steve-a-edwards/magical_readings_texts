@@ -1,0 +1,1886 @@
+{
+    "scene_id": "much ado about nothing~~Act_4~~Scene_1",
+    "work_number": "7",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "LEONATO",
+            "Come, Friar Francis, be brief; only to the plain",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "LEONATO",
+            "form of marriage, and you shall recount their"
+        ],
+        [
+            "LEONATO",
+            "particular duties afterwards."
+        ],
+        [
+            "FRIAR FRANCIS",
+            "You come hither, my lord, to marry this lady."
+        ],
+        [
+            "CLAUDIO",
+            "No."
+        ],
+        [
+            "LEONATO",
+            "To be married to her: friar, you come to marry her."
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Lady, you come hither to be married to this count."
+        ],
+        [
+            "HERO",
+            "I do."
+        ],
+        [
+            "FRIAR FRANCIS",
+            "If either of you know any inward impediment why you"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "should not be conjoined, charge you, on your souls,"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "to utter it."
+        ],
+        [
+            "CLAUDIO",
+            "Know you any, Hero?"
+        ],
+        [
+            "HERO",
+            "None, my lord."
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Know you any, count?"
+        ],
+        [
+            "LEONATO",
+            "I dare make his answer, none."
+        ],
+        [
+            "CLAUDIO",
+            "O, what men dare do! what men may do! what men daily"
+        ],
+        [
+            "CLAUDIO",
+            "do, not knowing what they do!"
+        ],
+        [
+            "BENEDICK",
+            "How now! interjections? Why, then, some be of"
+        ],
+        [
+            "BENEDICK",
+            "laughing, as, ah, ha, he!"
+        ],
+        [
+            "CLAUDIO",
+            "Stand thee by, friar. Father, by your leave:"
+        ],
+        [
+            "CLAUDIO",
+            "Will you with free and unconstrained soul"
+        ],
+        [
+            "CLAUDIO",
+            "Give me this maid, your daughter?"
+        ],
+        [
+            "LEONATO",
+            "As freely, son, as God did give her me."
+        ],
+        [
+            "CLAUDIO",
+            "And what have I to give you back, whose worth"
+        ],
+        [
+            "CLAUDIO",
+            "May counterpoise this rich and precious gift?"
+        ],
+        [
+            "DON PEDRO",
+            "Nothing, unless you render her again."
+        ],
+        [
+            "CLAUDIO",
+            "Sweet prince, you learn me noble thankfulness."
+        ],
+        [
+            "CLAUDIO",
+            "There, Leonato, take her back again:"
+        ],
+        [
+            "CLAUDIO",
+            "Give not this rotten orange to your friend;"
+        ],
+        [
+            "CLAUDIO",
+            "She's but the sign and semblance of her honour."
+        ],
+        [
+            "CLAUDIO",
+            "Behold how like a maid she blushes here!"
+        ],
+        [
+            "CLAUDIO",
+            "O, what authority and show of truth"
+        ],
+        [
+            "CLAUDIO",
+            "Can cunning sin cover itself withal!"
+        ],
+        [
+            "CLAUDIO",
+            "Comes not that blood as modest evidence"
+        ],
+        [
+            "CLAUDIO",
+            "To witness simple virtue? Would you not swear,"
+        ],
+        [
+            "CLAUDIO",
+            "All you that see her, that she were a maid,"
+        ],
+        [
+            "CLAUDIO",
+            "By these exterior shows? But she is none:"
+        ],
+        [
+            "CLAUDIO",
+            "She knows the heat of a luxurious bed;"
+        ],
+        [
+            "CLAUDIO",
+            "Her blush is guiltiness, not modesty."
+        ],
+        [
+            "LEONATO",
+            "What do you mean, my lord?"
+        ],
+        [
+            "CLAUDIO",
+            "Not to be married,"
+        ],
+        [
+            "CLAUDIO",
+            "Not to knit my soul to an approved wanton."
+        ],
+        [
+            "LEONATO",
+            "Dear my lord, if you, in your own proof,"
+        ],
+        [
+            "LEONATO",
+            "Have vanquish'd the resistance of her youth,"
+        ],
+        [
+            "LEONATO",
+            "And made defeat of her virginity,--"
+        ],
+        [
+            "CLAUDIO",
+            "I know what you would say: if I have known her,"
+        ],
+        [
+            "CLAUDIO",
+            "You will say she did embrace me as a husband,"
+        ],
+        [
+            "CLAUDIO",
+            "And so extenuate the 'forehand sin:"
+        ],
+        [
+            "CLAUDIO",
+            "No, Leonato,"
+        ],
+        [
+            "CLAUDIO",
+            "I never tempted her with word too large;"
+        ],
+        [
+            "CLAUDIO",
+            "But, as a brother to his sister, show'd"
+        ],
+        [
+            "CLAUDIO",
+            "Bashful sincerity and comely love."
+        ],
+        [
+            "HERO",
+            "And seem'd I ever otherwise to you?"
+        ],
+        [
+            "CLAUDIO",
+            "Out on thee! Seeming! I will write against it:"
+        ],
+        [
+            "CLAUDIO",
+            "You seem to me as Dian in her orb,"
+        ],
+        [
+            "CLAUDIO",
+            "As chaste as is the bud ere it be blown;"
+        ],
+        [
+            "CLAUDIO",
+            "But you are more intemperate in your blood"
+        ],
+        [
+            "CLAUDIO",
+            "Than Venus, or those pamper'd animals"
+        ],
+        [
+            "CLAUDIO",
+            "That rage in savage sensuality."
+        ],
+        [
+            "HERO",
+            "Is my lord well, that he doth speak so wide?"
+        ],
+        [
+            "LEONATO",
+            "Sweet prince, why speak not you?"
+        ],
+        [
+            "DON PEDRO",
+            "What should I speak?"
+        ],
+        [
+            "DON PEDRO",
+            "I stand dishonour'd, that have gone about"
+        ],
+        [
+            "DON PEDRO",
+            "To link my dear friend to a common stale."
+        ],
+        [
+            "LEONATO",
+            "Are these things spoken, or do I but dream?"
+        ],
+        [
+            "DON JOHN",
+            "Sir, they are spoken, and these things are true."
+        ],
+        [
+            "BENEDICK",
+            "This looks not like a nuptial."
+        ],
+        [
+            "HERO",
+            "True! O God!"
+        ],
+        [
+            "CLAUDIO",
+            "Leonato, stand I here?"
+        ],
+        [
+            "CLAUDIO",
+            "Is this the prince? is this the prince's brother?"
+        ],
+        [
+            "CLAUDIO",
+            "Is this face Hero's? are our eyes our own?"
+        ],
+        [
+            "LEONATO",
+            "All this is so: but what of this, my lord?"
+        ],
+        [
+            "CLAUDIO",
+            "Let me but move one question to your daughter;"
+        ],
+        [
+            "CLAUDIO",
+            "And, by that fatherly and kindly power"
+        ],
+        [
+            "CLAUDIO",
+            "That you have in her, bid her answer truly."
+        ],
+        [
+            "LEONATO",
+            "I charge thee do so, as thou art my child."
+        ],
+        [
+            "HERO",
+            "O, God defend me! how am I beset!"
+        ],
+        [
+            "HERO",
+            "What kind of catechising call you this?"
+        ],
+        [
+            "CLAUDIO",
+            "To make you answer truly to your name."
+        ],
+        [
+            "HERO",
+            "Is it not Hero? Who can blot that name"
+        ],
+        [
+            "HERO",
+            "With any just reproach?"
+        ],
+        [
+            "CLAUDIO",
+            "Marry, that can Hero;"
+        ],
+        [
+            "CLAUDIO",
+            "Hero itself can blot out Hero's virtue."
+        ],
+        [
+            "CLAUDIO",
+            "What man was he talk'd with you yesternight"
+        ],
+        [
+            "CLAUDIO",
+            "Out at your window betwixt twelve and one?"
+        ],
+        [
+            "CLAUDIO",
+            "Now, if you are a maid, answer to this."
+        ],
+        [
+            "HERO",
+            "I talk'd with no man at that hour, my lord."
+        ],
+        [
+            "DON PEDRO",
+            "Why, then are you no maiden. Leonato,"
+        ],
+        [
+            "DON PEDRO",
+            "I am sorry you must hear: upon mine honour,"
+        ],
+        [
+            "DON PEDRO",
+            "Myself, my brother and this grieved count"
+        ],
+        [
+            "DON PEDRO",
+            "Did see her, hear her, at that hour last night"
+        ],
+        [
+            "DON PEDRO",
+            "Talk with a ruffian at her chamber-window"
+        ],
+        [
+            "DON PEDRO",
+            "Who hath indeed, most like a liberal villain,"
+        ],
+        [
+            "DON PEDRO",
+            "Confess'd the vile encounters they have had"
+        ],
+        [
+            "DON PEDRO",
+            "A thousand times in secret."
+        ],
+        [
+            "DON JOHN",
+            "Fie, fie! they are not to be named, my lord,"
+        ],
+        [
+            "DON JOHN",
+            "Not to be spoke of;"
+        ],
+        [
+            "DON JOHN",
+            "There is not chastity enough in language"
+        ],
+        [
+            "DON JOHN",
+            "Without offence to utter them. Thus, pretty lady,"
+        ],
+        [
+            "DON JOHN",
+            "I am sorry for thy much misgovernment."
+        ],
+        [
+            "CLAUDIO",
+            "O Hero, what a Hero hadst thou been,"
+        ],
+        [
+            "CLAUDIO",
+            "If half thy outward graces had been placed"
+        ],
+        [
+            "CLAUDIO",
+            "About thy thoughts and counsels of thy heart!"
+        ],
+        [
+            "CLAUDIO",
+            "But fare thee well, most foul, most fair! farewell,"
+        ],
+        [
+            "CLAUDIO",
+            "Thou pure impiety and impious purity!"
+        ],
+        [
+            "CLAUDIO",
+            "For thee I'll lock up all the gates of love,"
+        ],
+        [
+            "CLAUDIO",
+            "And on my eyelids shall conjecture hang,"
+        ],
+        [
+            "CLAUDIO",
+            "To turn all beauty into thoughts of harm,"
+        ],
+        [
+            "CLAUDIO",
+            "And never shall it more be gracious."
+        ],
+        [
+            "LEONATO",
+            "Hath no man's dagger here a point for me?",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "BEATRICE",
+            "Why, how now, cousin! wherefore sink you down?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "DON JOHN",
+            "Come, let us go. These things, come thus to light,"
+        ],
+        [
+            "DON JOHN",
+            "Smother her spirits up.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "BENEDICK",
+            "How doth the lady?",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "BEATRICE",
+            "Dead, I think. Help, uncle!"
+        ],
+        [
+            "BEATRICE",
+            "Hero! why, Hero! Uncle! Signior Benedick! Friar!"
+        ],
+        [
+            "LEONATO",
+            "O Fate! take not away thy heavy hand."
+        ],
+        [
+            "LEONATO",
+            "Death is the fairest cover for her shame"
+        ],
+        [
+            "LEONATO",
+            "That may be wish'd for."
+        ],
+        [
+            "BEATRICE",
+            "How now, cousin Hero!"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Have comfort, lady."
+        ],
+        [
+            "LEONATO",
+            "Dost thou look up?"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Yea, wherefore should she not?"
+        ],
+        [
+            "LEONATO",
+            "Wherefore! Why, doth not every earthly thing"
+        ],
+        [
+            "LEONATO",
+            "Cry shame upon her? Could she here deny"
+        ],
+        [
+            "LEONATO",
+            "The story that is printed in her blood?"
+        ],
+        [
+            "LEONATO",
+            "Do not live, Hero; do not ope thine eyes:"
+        ],
+        [
+            "LEONATO",
+            "For, did I think thou wouldst not quickly die,"
+        ],
+        [
+            "LEONATO",
+            "Thought I thy spirits were stronger than thy shames,"
+        ],
+        [
+            "LEONATO",
+            "Myself would, on the rearward of reproaches,"
+        ],
+        [
+            "LEONATO",
+            "Strike at thy life. Grieved I, I had but one?"
+        ],
+        [
+            "LEONATO",
+            "Chid I for that at frugal nature's frame?"
+        ],
+        [
+            "LEONATO",
+            "O, one too much by thee! Why had I one?"
+        ],
+        [
+            "LEONATO",
+            "Why ever wast thou lovely in my eyes?"
+        ],
+        [
+            "LEONATO",
+            "Why had I not with charitable hand"
+        ],
+        [
+            "LEONATO",
+            "Took up a beggar's issue at my gates,"
+        ],
+        [
+            "LEONATO",
+            "Who smirch'd thus and mired with infamy,"
+        ],
+        [
+            "LEONATO",
+            "I might have said 'No part of it is mine;"
+        ],
+        [
+            "LEONATO",
+            "This shame derives itself from unknown loins'?"
+        ],
+        [
+            "LEONATO",
+            "But mine and mine I loved and mine I praised"
+        ],
+        [
+            "LEONATO",
+            "And mine that I was proud on, mine so much"
+        ],
+        [
+            "LEONATO",
+            "That I myself was to myself not mine,"
+        ],
+        [
+            "LEONATO",
+            "Valuing of her,--why, she, O, she is fallen"
+        ],
+        [
+            "LEONATO",
+            "Into a pit of ink, that the wide sea"
+        ],
+        [
+            "LEONATO",
+            "Hath drops too few to wash her clean again"
+        ],
+        [
+            "LEONATO",
+            "And salt too little which may season give"
+        ],
+        [
+            "LEONATO",
+            "To her foul-tainted flesh!"
+        ],
+        [
+            "BENEDICK",
+            "Sir, sir, be patient."
+        ],
+        [
+            "BENEDICK",
+            "For my part, I am so attired in wonder,"
+        ],
+        [
+            "BENEDICK",
+            "I know not what to say."
+        ],
+        [
+            "BEATRICE",
+            "O, on my soul, my cousin is belied!"
+        ],
+        [
+            "BENEDICK",
+            "Lady, were you her bedfellow last night?"
+        ],
+        [
+            "BEATRICE",
+            "No, truly not; although, until last night,"
+        ],
+        [
+            "BEATRICE",
+            "I have this twelvemonth been her bedfellow."
+        ],
+        [
+            "LEONATO",
+            "Confirm'd, confirm'd! O, that is stronger made"
+        ],
+        [
+            "LEONATO",
+            "Which was before barr'd up with ribs of iron!"
+        ],
+        [
+            "LEONATO",
+            "Would the two princes lie, and Claudio lie,"
+        ],
+        [
+            "LEONATO",
+            "Who loved her so, that, speaking of her foulness,"
+        ],
+        [
+            "LEONATO",
+            "Wash'd it with tears? Hence from her! let her die."
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Hear me a little;"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "For I have only been silent so long"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "And given way unto this course of fortune."
+        ],
+        [
+            "FRIAR FRANCIS",
+            "..."
+        ],
+        [
+            "FRIAR FRANCIS",
+            "By noting of the lady I have mark'd"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "A thousand blushing apparitions"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "To start into her face, a thousand innocent shames"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "In angel whiteness beat away those blushes;"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "And in her eye there hath appear'd a fire,"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "To burn the errors that these princes hold"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Against her maiden truth. Call me a fool;"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Trust not my reading nor my observations,"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Which with experimental seal doth warrant"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "The tenor of my book; trust not my age,"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "My reverence, calling, nor divinity,"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "If this sweet lady lie not guiltless here"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Under some biting error."
+        ],
+        [
+            "LEONATO",
+            "Friar, it cannot be."
+        ],
+        [
+            "LEONATO",
+            "Thou seest that all the grace that she hath left"
+        ],
+        [
+            "LEONATO",
+            "Is that she will not add to her damnation"
+        ],
+        [
+            "LEONATO",
+            "A sin of perjury; she not denies it:"
+        ],
+        [
+            "LEONATO",
+            "Why seek'st thou then to cover with excuse"
+        ],
+        [
+            "LEONATO",
+            "That which appears in proper nakedness?"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Lady, what man is he you are accused of?"
+        ],
+        [
+            "HERO",
+            "They know that do accuse me; I know none:"
+        ],
+        [
+            "HERO",
+            "If I know more of any man alive"
+        ],
+        [
+            "HERO",
+            "Than that which maiden modesty doth warrant,"
+        ],
+        [
+            "HERO",
+            "Let all my sins lack mercy! O my father,"
+        ],
+        [
+            "HERO",
+            "Prove you that any man with me conversed"
+        ],
+        [
+            "HERO",
+            "At hours unmeet, or that I yesternight"
+        ],
+        [
+            "HERO",
+            "Maintain'd the change of words with any creature,"
+        ],
+        [
+            "HERO",
+            "Refuse me, hate me, torture me to death!"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "There is some strange misprision in the princes."
+        ],
+        [
+            "BENEDICK",
+            "Two of them have the very bent of honour;"
+        ],
+        [
+            "BENEDICK",
+            "And if their wisdoms be misled in this,"
+        ],
+        [
+            "BENEDICK",
+            "The practise of it lives in John the bastard,"
+        ],
+        [
+            "BENEDICK",
+            "Whose spirits toil in frame of villanies."
+        ],
+        [
+            "LEONATO",
+            "I know not. If they speak but truth of her,"
+        ],
+        [
+            "LEONATO",
+            "These hands shall tear her; if they wrong her honour,"
+        ],
+        [
+            "LEONATO",
+            "The proudest of them shall well hear of it."
+        ],
+        [
+            "LEONATO",
+            "Time hath not yet so dried this blood of mine,"
+        ],
+        [
+            "LEONATO",
+            "Nor age so eat up my invention,"
+        ],
+        [
+            "LEONATO",
+            "Nor fortune made such havoc of my means,"
+        ],
+        [
+            "LEONATO",
+            "Nor my bad life reft me so much of friends,"
+        ],
+        [
+            "LEONATO",
+            "But they shall find, awaked in such a kind,"
+        ],
+        [
+            "LEONATO",
+            "Both strength of limb and policy of mind,"
+        ],
+        [
+            "LEONATO",
+            "Ability in means and choice of friends,"
+        ],
+        [
+            "LEONATO",
+            "To quit me of them throughly."
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Pause awhile,"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "And let my counsel sway you in this case."
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Your daughter here the princes left for dead:"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Let her awhile be secretly kept in,"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "And publish it that she is dead indeed;"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Maintain a mourning ostentation"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "And on your family's old monument"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Hang mournful epitaphs and do all rites"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "That appertain unto a burial."
+        ],
+        [
+            "LEONATO",
+            "What shall become of this? what will this do?"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Marry, this well carried shall on her behalf"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Change slander to remorse; that is some good:"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "But not for that dream I on this strange course,"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "But on this travail look for greater birth."
+        ],
+        [
+            "FRIAR FRANCIS",
+            "She dying, as it must so be maintain'd,"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Upon the instant that she was accused,"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Shall be lamented, pitied and excused"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Of every hearer: for it so falls out"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "That what we have we prize not to the worth"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Whiles we enjoy it, but being lack'd and lost,"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Why, then we rack the value, then we find"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "The virtue that possession would not show us"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Whiles it was ours. So will it fare with Claudio:"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "When he shall hear she died upon his words,"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "The idea of her life shall sweetly creep"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Into his study of imagination,"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "And every lovely organ of her life"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Shall come apparell'd in more precious habit,"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "More moving-delicate and full of life,"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Into the eye and prospect of his soul,"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Than when she lived indeed; then shall he mourn,"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "If ever love had interest in his liver,"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "And wish he had not so accused her,"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "No, though he thought his accusation true."
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Let this be so, and doubt not but success"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Will fashion the event in better shape"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Than I can lay it down in likelihood."
+        ],
+        [
+            "FRIAR FRANCIS",
+            "But if all aim but this be levell'd false,"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "The supposition of the lady's death"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Will quench the wonder of her infamy:"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "And if it sort not well, you may conceal her,"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "As best befits her wounded reputation,"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "In some reclusive and religious life,"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Out of all eyes, tongues, minds and injuries."
+        ],
+        [
+            "BENEDICK",
+            "Signior Leonato, let the friar advise you:"
+        ],
+        [
+            "BENEDICK",
+            "And though you know my inwardness and love"
+        ],
+        [
+            "BENEDICK",
+            "Is very much unto the prince and Claudio,"
+        ],
+        [
+            "BENEDICK",
+            "Yet, by mine honour, I will deal in this"
+        ],
+        [
+            "BENEDICK",
+            "As secretly and justly as your soul"
+        ],
+        [
+            "BENEDICK",
+            "Should with your body."
+        ],
+        [
+            "LEONATO",
+            "Being that I flow in grief,"
+        ],
+        [
+            "LEONATO",
+            "The smallest twine may lead me."
+        ],
+        [
+            "FRIAR FRANCIS",
+            "'Tis well consented: presently away;"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "For to strange sores strangely they strain the cure."
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Come, lady, die to live: this wedding-day"
+        ],
+        [
+            "FRIAR FRANCIS",
+            "Perhaps is but prolong'd: have patience and endure.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "BENEDICK",
+            "Lady Beatrice, have you wept all this while?",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "BEATRICE",
+            "Yea, and I will weep a while longer."
+        ],
+        [
+            "BENEDICK",
+            "I will not desire that."
+        ],
+        [
+            "BEATRICE",
+            "You have no reason; I do it freely."
+        ],
+        [
+            "BENEDICK",
+            "Surely I do believe your fair cousin is wronged."
+        ],
+        [
+            "BEATRICE",
+            "Ah, how much might the man deserve of me that would right her!"
+        ],
+        [
+            "BENEDICK",
+            "Is there any way to show such friendship?"
+        ],
+        [
+            "BEATRICE",
+            "A very even way, but no such friend."
+        ],
+        [
+            "BENEDICK",
+            "May a man do it?"
+        ],
+        [
+            "BEATRICE",
+            "It is a man's office, but not yours."
+        ],
+        [
+            "BENEDICK",
+            "I do love nothing in the world so well as you: is"
+        ],
+        [
+            "BENEDICK",
+            "not that strange?"
+        ],
+        [
+            "BEATRICE",
+            "As strange as the thing I know not. It were as"
+        ],
+        [
+            "BEATRICE",
+            "possible for me to say I loved nothing so well as"
+        ],
+        [
+            "BEATRICE",
+            "you: but believe me not; and yet I lie not; I"
+        ],
+        [
+            "BEATRICE",
+            "confess nothing, nor I deny nothing. I am sorry for my cousin."
+        ],
+        [
+            "BENEDICK",
+            "By my sword, Beatrice, thou lovest me."
+        ],
+        [
+            "BEATRICE",
+            "Do not swear, and eat it."
+        ],
+        [
+            "BENEDICK",
+            "I will swear by it that you love me; and I will make"
+        ],
+        [
+            "BENEDICK",
+            "him eat it that says I love not you."
+        ],
+        [
+            "BEATRICE",
+            "Will you not eat your word?"
+        ],
+        [
+            "BENEDICK",
+            "With no sauce that can be devised to it. I protest"
+        ],
+        [
+            "BENEDICK",
+            "I love thee."
+        ],
+        [
+            "BEATRICE",
+            "Why, then, God forgive me!"
+        ],
+        [
+            "BENEDICK",
+            "What offence, sweet Beatrice?"
+        ],
+        [
+            "BEATRICE",
+            "You have stayed me in a happy hour: I was about to"
+        ],
+        [
+            "BEATRICE",
+            "protest I loved you."
+        ],
+        [
+            "BENEDICK",
+            "And do it with all thy heart."
+        ],
+        [
+            "BEATRICE",
+            "I love you with so much of my heart that none is"
+        ],
+        [
+            "BEATRICE",
+            "left to protest."
+        ],
+        [
+            "BENEDICK",
+            "Come, bid me do any thing for thee."
+        ],
+        [
+            "BEATRICE",
+            "Kill Claudio."
+        ],
+        [
+            "BENEDICK",
+            "Ha! not for the wide world."
+        ],
+        [
+            "BEATRICE",
+            "You kill me to deny it. Farewell."
+        ],
+        [
+            "BENEDICK",
+            "Tarry, sweet Beatrice."
+        ],
+        [
+            "BEATRICE",
+            "I am gone, though I am here: there is no love in"
+        ],
+        [
+            "BEATRICE",
+            "you: nay, I pray you, let me go."
+        ],
+        [
+            "BENEDICK",
+            "Beatrice,--"
+        ],
+        [
+            "BEATRICE",
+            "In faith, I will go."
+        ],
+        [
+            "BENEDICK",
+            "We'll be friends first."
+        ],
+        [
+            "BEATRICE",
+            "You dare easier be friends with me than fight with mine enemy."
+        ],
+        [
+            "BENEDICK",
+            "Is Claudio thine enemy?"
+        ],
+        [
+            "BEATRICE",
+            "Is he not approved in the height a villain, that"
+        ],
+        [
+            "BEATRICE",
+            "hath slandered, scorned, dishonoured my kinswoman? O"
+        ],
+        [
+            "BEATRICE",
+            "that I were a man! What, bear her in hand until they"
+        ],
+        [
+            "BEATRICE",
+            "come to take hands; and then, with public"
+        ],
+        [
+            "BEATRICE",
+            "accusation, uncovered slander, unmitigated rancour,"
+        ],
+        [
+            "BEATRICE",
+            "--O God, that I were a man! I would eat his heart"
+        ],
+        [
+            "BEATRICE",
+            "in the market-place."
+        ],
+        [
+            "BENEDICK",
+            "Hear me, Beatrice,--"
+        ],
+        [
+            "BEATRICE",
+            "Talk with a man out at a window! A proper saying!"
+        ],
+        [
+            "BENEDICK",
+            "Nay, but, Beatrice,--"
+        ],
+        [
+            "BEATRICE",
+            "Sweet Hero! She is wronged, she is slandered, she is undone."
+        ],
+        [
+            "BENEDICK",
+            "Beat--"
+        ],
+        [
+            "BEATRICE",
+            "Princes and counties! Surely, a princely testimony,"
+        ],
+        [
+            "BEATRICE",
+            "a goodly count, Count Comfect; a sweet gallant,"
+        ],
+        [
+            "BEATRICE",
+            "surely! O that I were a man for his sake! or that I"
+        ],
+        [
+            "BEATRICE",
+            "had any friend would be a man for my sake! But"
+        ],
+        [
+            "BEATRICE",
+            "manhood is melted into courtesies, valour into"
+        ],
+        [
+            "BEATRICE",
+            "compliment, and men are only turned into tongue, and"
+        ],
+        [
+            "BEATRICE",
+            "trim ones too: he is now as valiant as Hercules"
+        ],
+        [
+            "BEATRICE",
+            "that only tells a lie and swears it. I cannot be a"
+        ],
+        [
+            "BEATRICE",
+            "man with wishing, therefore I will die a woman with grieving."
+        ],
+        [
+            "BENEDICK",
+            "Tarry, good Beatrice. By this hand, I love thee."
+        ],
+        [
+            "BEATRICE",
+            "Use it for my love some other way than swearing by it."
+        ],
+        [
+            "BENEDICK",
+            "Think you in your soul the Count Claudio hath wronged Hero?"
+        ],
+        [
+            "BEATRICE",
+            "Yea, as sure as I have a thought or a soul."
+        ],
+        [
+            "BENEDICK",
+            "Enough, I am engaged; I will challenge him. I will"
+        ],
+        [
+            "BENEDICK",
+            "kiss your hand, and so I leave you. By this hand,"
+        ],
+        [
+            "BENEDICK",
+            "Claudio shall render me a dear account. As you"
+        ],
+        [
+            "BENEDICK",
+            "hear of me, so think of me. Go, comfort your"
+        ],
+        [
+            "BENEDICK",
+            "cousin: I must say she is dead: and so, farewell.",
+            {
+                "following_direction_line": "5"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter DON PEDRO, DON JOHN, LEONATO, FRIAR FRANCIS, CLAUDIO, BENEDICK, HERO, BEATRICE, and Attendants"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "HERO swoons"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt DON PEDRO, DON JOHN, and CLAUDIO"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt all but BENEDICK and BEATRICE"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "LEONATO": [
+            [
+                "1",
+                "3"
+            ],
+            [
+                "6",
+                "6"
+            ],
+            [
+                "15",
+                "15"
+            ],
+            [
+                "23",
+                "23"
+            ],
+            [
+                "40",
+                "40"
+            ],
+            [
+                "43",
+                "45"
+            ],
+            [
+                "61",
+                "61"
+            ],
+            [
+                "65",
+                "65"
+            ],
+            [
+                "72",
+                "72"
+            ],
+            [
+                "76",
+                "76"
+            ],
+            [
+                "110",
+                "110"
+            ],
+            [
+                "117",
+                "119"
+            ],
+            [
+                "122",
+                "122"
+            ],
+            [
+                "124",
+                "147"
+            ],
+            [
+                "155",
+                "159"
+            ],
+            [
+                "177",
+                "182"
+            ],
+            [
+                "197",
+                "207"
+            ],
+            [
+                "217",
+                "217"
+            ],
+            [
+                "258",
+                "259"
+            ]
+        ],
+        "FRIAR FRANCIS": [
+            [
+                "4",
+                "4"
+            ],
+            [
+                "7",
+                "7"
+            ],
+            [
+                "9",
+                "11"
+            ],
+            [
+                "14",
+                "14"
+            ],
+            [
+                "121",
+                "121"
+            ],
+            [
+                "123",
+                "123"
+            ],
+            [
+                "160",
+                "176"
+            ],
+            [
+                "183",
+                "183"
+            ],
+            [
+                "192",
+                "192"
+            ],
+            [
+                "208",
+                "216"
+            ],
+            [
+                "218",
+                "251"
+            ],
+            [
+                "260",
+                "263"
+            ]
+        ],
+        "CLAUDIO": [
+            [
+                "5",
+                "5"
+            ],
+            [
+                "12",
+                "12"
+            ],
+            [
+                "16",
+                "17"
+            ],
+            [
+                "20",
+                "22"
+            ],
+            [
+                "24",
+                "25"
+            ],
+            [
+                "27",
+                "39"
+            ],
+            [
+                "41",
+                "42"
+            ],
+            [
+                "46",
+                "52"
+            ],
+            [
+                "54",
+                "59"
+            ],
+            [
+                "69",
+                "71"
+            ],
+            [
+                "73",
+                "75"
+            ],
+            [
+                "79",
+                "79"
+            ],
+            [
+                "82",
+                "86"
+            ],
+            [
+                "101",
+                "109"
+            ]
+        ],
+        "HERO": [
+            [
+                "8",
+                "8"
+            ],
+            [
+                "13",
+                "13"
+            ],
+            [
+                "53",
+                "53"
+            ],
+            [
+                "60",
+                "60"
+            ],
+            [
+                "68",
+                "68"
+            ],
+            [
+                "77",
+                "78"
+            ],
+            [
+                "80",
+                "81"
+            ],
+            [
+                "87",
+                "87"
+            ],
+            [
+                "184",
+                "191"
+            ]
+        ],
+        "BENEDICK": [
+            [
+                "18",
+                "19"
+            ],
+            [
+                "67",
+                "67"
+            ],
+            [
+                "114",
+                "114"
+            ],
+            [
+                "148",
+                "150"
+            ],
+            [
+                "152",
+                "152"
+            ],
+            [
+                "193",
+                "196"
+            ],
+            [
+                "252",
+                "257"
+            ],
+            [
+                "264",
+                "264"
+            ],
+            [
+                "266",
+                "266"
+            ],
+            [
+                "268",
+                "268"
+            ],
+            [
+                "270",
+                "270"
+            ],
+            [
+                "272",
+                "272"
+            ],
+            [
+                "274",
+                "275"
+            ],
+            [
+                "280",
+                "280"
+            ],
+            [
+                "282",
+                "283"
+            ],
+            [
+                "285",
+                "286"
+            ],
+            [
+                "288",
+                "288"
+            ],
+            [
+                "291",
+                "291"
+            ],
+            [
+                "294",
+                "294"
+            ],
+            [
+                "296",
+                "296"
+            ],
+            [
+                "298",
+                "298"
+            ],
+            [
+                "301",
+                "301"
+            ],
+            [
+                "303",
+                "303"
+            ],
+            [
+                "305",
+                "305"
+            ],
+            [
+                "313",
+                "313"
+            ],
+            [
+                "315",
+                "315"
+            ],
+            [
+                "317",
+                "317"
+            ],
+            [
+                "327",
+                "327"
+            ],
+            [
+                "329",
+                "329"
+            ],
+            [
+                "331",
+                "335"
+            ]
+        ],
+        "DON PEDRO": [
+            [
+                "26",
+                "26"
+            ],
+            [
+                "62",
+                "64"
+            ],
+            [
+                "88",
+                "95"
+            ]
+        ],
+        "DON JOHN": [
+            [
+                "66",
+                "66"
+            ],
+            [
+                "96",
+                "100"
+            ],
+            [
+                "112",
+                "113"
+            ]
+        ],
+        "BEATRICE": [
+            [
+                "111",
+                "111"
+            ],
+            [
+                "115",
+                "116"
+            ],
+            [
+                "120",
+                "120"
+            ],
+            [
+                "151",
+                "151"
+            ],
+            [
+                "153",
+                "154"
+            ],
+            [
+                "265",
+                "265"
+            ],
+            [
+                "267",
+                "267"
+            ],
+            [
+                "269",
+                "269"
+            ],
+            [
+                "271",
+                "271"
+            ],
+            [
+                "273",
+                "273"
+            ],
+            [
+                "276",
+                "279"
+            ],
+            [
+                "281",
+                "281"
+            ],
+            [
+                "284",
+                "284"
+            ],
+            [
+                "287",
+                "287"
+            ],
+            [
+                "289",
+                "290"
+            ],
+            [
+                "292",
+                "293"
+            ],
+            [
+                "295",
+                "295"
+            ],
+            [
+                "297",
+                "297"
+            ],
+            [
+                "299",
+                "300"
+            ],
+            [
+                "302",
+                "302"
+            ],
+            [
+                "304",
+                "304"
+            ],
+            [
+                "306",
+                "312"
+            ],
+            [
+                "314",
+                "314"
+            ],
+            [
+                "316",
+                "316"
+            ],
+            [
+                "318",
+                "326"
+            ],
+            [
+                "328",
+                "328"
+            ],
+            [
+                "330",
+                "330"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "A church."
+}

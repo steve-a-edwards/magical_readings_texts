@@ -1,0 +1,1241 @@
+{
+    "scene_id": "a midsummer night's dream~~Act_4~~Scene_1",
+    "work_number": "3",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "TITANIA",
+            "Come, sit thee down upon this flowery bed,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "TITANIA",
+            "While I thy amiable cheeks do coy,"
+        ],
+        [
+            "TITANIA",
+            "And stick musk-roses in thy sleek smooth head,"
+        ],
+        [
+            "TITANIA",
+            "And kiss thy fair large ears, my gentle joy."
+        ],
+        [
+            "BOTTOM",
+            "Where's Peaseblossom?"
+        ],
+        [
+            "PEASEBLOSSOM",
+            "Ready."
+        ],
+        [
+            "BOTTOM",
+            "Scratch my head Peaseblossom. Where's Mounsieur Cobweb?"
+        ],
+        [
+            "COBWEB",
+            "Ready."
+        ],
+        [
+            "BOTTOM",
+            "Mounsieur Cobweb, good mounsieur, get you your"
+        ],
+        [
+            "BOTTOM",
+            "weapons in your hand, and kill me a red-hipped"
+        ],
+        [
+            "BOTTOM",
+            "humble-bee on the top of a thistle; and, good"
+        ],
+        [
+            "BOTTOM",
+            "mounsieur, bring me the honey-bag. Do not fret"
+        ],
+        [
+            "BOTTOM",
+            "yourself too much in the action, mounsieur; and,"
+        ],
+        [
+            "BOTTOM",
+            "good mounsieur, have a care the honey-bag break not;"
+        ],
+        [
+            "BOTTOM",
+            "I would be loath to have you overflown with a"
+        ],
+        [
+            "BOTTOM",
+            "honey-bag, signior. Where's Mounsieur Mustardseed?"
+        ],
+        [
+            "MUSTARDSEED",
+            "Ready."
+        ],
+        [
+            "BOTTOM",
+            "Give me your neaf, Mounsieur Mustardseed. Pray you,"
+        ],
+        [
+            "BOTTOM",
+            "leave your courtesy, good mounsieur."
+        ],
+        [
+            "MUSTARDSEED",
+            "What's your Will?"
+        ],
+        [
+            "BOTTOM",
+            "Nothing, good mounsieur, but to help Cavalery Cobweb"
+        ],
+        [
+            "BOTTOM",
+            "to scratch. I must to the barber's, monsieur; for"
+        ],
+        [
+            "BOTTOM",
+            "methinks I am marvellous hairy about the face; and I"
+        ],
+        [
+            "BOTTOM",
+            "am such a tender ass, if my hair do but tickle me,"
+        ],
+        [
+            "BOTTOM",
+            "I must scratch."
+        ],
+        [
+            "TITANIA",
+            "What, wilt thou hear some music,"
+        ],
+        [
+            "TITANIA",
+            "my sweet love?"
+        ],
+        [
+            "BOTTOM",
+            "I have a reasonable good ear in music. Let's have"
+        ],
+        [
+            "BOTTOM",
+            "the tongs and the bones."
+        ],
+        [
+            "TITANIA",
+            "Or say, sweet love, what thou desirest to eat."
+        ],
+        [
+            "BOTTOM",
+            "Truly, a peck of provender: I could munch your good"
+        ],
+        [
+            "BOTTOM",
+            "dry oats. Methinks I have a great desire to a bottle"
+        ],
+        [
+            "BOTTOM",
+            "of hay: good hay, sweet hay, hath no fellow."
+        ],
+        [
+            "TITANIA",
+            "I have a venturous fairy that shall seek"
+        ],
+        [
+            "TITANIA",
+            "The squirrel's hoard, and fetch thee new nuts."
+        ],
+        [
+            "BOTTOM",
+            "I had rather have a handful or two of dried peas."
+        ],
+        [
+            "BOTTOM",
+            "But, I pray you, let none of your people stir me: I"
+        ],
+        [
+            "BOTTOM",
+            "have an exposition of sleep come upon me."
+        ],
+        [
+            "TITANIA",
+            "Sleep thou, and I will wind thee in my arms."
+        ],
+        [
+            "TITANIA",
+            "Fairies, begone, and be all ways away.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "TITANIA",
+            "So doth the woodbine the sweet honeysuckle",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "TITANIA",
+            "Gently entwist; the female ivy so"
+        ],
+        [
+            "TITANIA",
+            "Enrings the barky fingers of the elm."
+        ],
+        [
+            "TITANIA",
+            "O, how I love thee! how I dote on thee!",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "OBERON",
+            "[Advancing] Welcome, good Robin.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "OBERON",
+            "See'st thou this sweet sight?"
+        ],
+        [
+            "OBERON",
+            "Her dotage now I do begin to pity:"
+        ],
+        [
+            "OBERON",
+            "For, meeting her of late behind the wood,"
+        ],
+        [
+            "OBERON",
+            "Seeking sweet favours from this hateful fool,"
+        ],
+        [
+            "OBERON",
+            "I did upbraid her and fall out with her;"
+        ],
+        [
+            "OBERON",
+            "For she his hairy temples then had rounded"
+        ],
+        [
+            "OBERON",
+            "With a coronet of fresh and fragrant flowers;"
+        ],
+        [
+            "OBERON",
+            "And that same dew, which sometime on the buds"
+        ],
+        [
+            "OBERON",
+            "Was wont to swell like round and orient pearls,"
+        ],
+        [
+            "OBERON",
+            "Stood now within the pretty flowerets' eyes"
+        ],
+        [
+            "OBERON",
+            "Like tears that did their own disgrace bewail."
+        ],
+        [
+            "OBERON",
+            "When I had at my pleasure taunted her"
+        ],
+        [
+            "OBERON",
+            "And she in mild terms begg'd my patience,"
+        ],
+        [
+            "OBERON",
+            "I then did ask of her her changeling child;"
+        ],
+        [
+            "OBERON",
+            "Which straight she gave me, and her fairy sent"
+        ],
+        [
+            "OBERON",
+            "To bear him to my bower in fairy land."
+        ],
+        [
+            "OBERON",
+            "And now I have the boy, I will undo"
+        ],
+        [
+            "OBERON",
+            "This hateful imperfection of her eyes:"
+        ],
+        [
+            "OBERON",
+            "And, gentle Puck, take this transformed scalp"
+        ],
+        [
+            "OBERON",
+            "From off the head of this Athenian swain;"
+        ],
+        [
+            "OBERON",
+            "That, he awaking when the other do,"
+        ],
+        [
+            "OBERON",
+            "May all to Athens back again repair"
+        ],
+        [
+            "OBERON",
+            "And think no more of this night's accidents"
+        ],
+        [
+            "OBERON",
+            "But as the fierce vexation of a dream."
+        ],
+        [
+            "OBERON",
+            "But first I will release the fairy queen."
+        ],
+        [
+            "OBERON",
+            "Be as thou wast wont to be;"
+        ],
+        [
+            "OBERON",
+            "See as thou wast wont to see:"
+        ],
+        [
+            "OBERON",
+            "Dian's bud o'er Cupid's flower"
+        ],
+        [
+            "OBERON",
+            "Hath such force and blessed power."
+        ],
+        [
+            "OBERON",
+            "Now, my Titania; wake you, my sweet queen."
+        ],
+        [
+            "TITANIA",
+            "My Oberon! what visions have I seen!"
+        ],
+        [
+            "TITANIA",
+            "Methought I was enamour'd of an ass."
+        ],
+        [
+            "OBERON",
+            "There lies your love."
+        ],
+        [
+            "TITANIA",
+            "How came these things to pass?"
+        ],
+        [
+            "TITANIA",
+            "O, how mine eyes do loathe his visage now!"
+        ],
+        [
+            "OBERON",
+            "Silence awhile. Robin, take off this head."
+        ],
+        [
+            "OBERON",
+            "Titania, music call; and strike more dead"
+        ],
+        [
+            "OBERON",
+            "Than common sleep of all these five the sense."
+        ],
+        [
+            "TITANIA",
+            "Music, ho! music, such as charmeth sleep!",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "PUCK",
+            "Now, when thou wakest, with thine",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "PUCK",
+            "own fool's eyes peep."
+        ],
+        [
+            "OBERON",
+            "Sound, music! Come, my queen, take hands with me,"
+        ],
+        [
+            "OBERON",
+            "And rock the ground whereon these sleepers be."
+        ],
+        [
+            "OBERON",
+            "Now thou and I are new in amity,"
+        ],
+        [
+            "OBERON",
+            "And will to-morrow midnight solemnly"
+        ],
+        [
+            "OBERON",
+            "Dance in Duke Theseus' house triumphantly,"
+        ],
+        [
+            "OBERON",
+            "And bless it to all fair prosperity:"
+        ],
+        [
+            "OBERON",
+            "There shall the pairs of faithful lovers be"
+        ],
+        [
+            "OBERON",
+            "Wedded, with Theseus, all in jollity."
+        ],
+        [
+            "PUCK",
+            "Fairy king, attend, and mark:"
+        ],
+        [
+            "PUCK",
+            "I do hear the morning lark."
+        ],
+        [
+            "OBERON",
+            "Then, my queen, in silence sad,"
+        ],
+        [
+            "OBERON",
+            "Trip we after the night's shade:"
+        ],
+        [
+            "OBERON",
+            "We the globe can compass soon,"
+        ],
+        [
+            "OBERON",
+            "Swifter than the wandering moon."
+        ],
+        [
+            "TITANIA",
+            "Come, my lord, and in our flight"
+        ],
+        [
+            "TITANIA",
+            "Tell me how it came this night"
+        ],
+        [
+            "TITANIA",
+            "That I sleeping here was found"
+        ],
+        [
+            "TITANIA",
+            "With these mortals on the ground.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "THESEUS",
+            "Go, one of you, find out the forester;",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "THESEUS",
+            "For now our observation is perform'd;"
+        ],
+        [
+            "THESEUS",
+            "And since we have the vaward of the day,"
+        ],
+        [
+            "THESEUS",
+            "My love shall hear the music of my hounds."
+        ],
+        [
+            "THESEUS",
+            "Uncouple in the western valley; let them go:"
+        ],
+        [
+            "THESEUS",
+            "Dispatch, I say, and find the forester.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "THESEUS",
+            "We will, fair queen, up to the mountain's top,",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "THESEUS",
+            "And mark the musical confusion"
+        ],
+        [
+            "THESEUS",
+            "Of hounds and echo in conjunction."
+        ],
+        [
+            "HIPPOLYTA",
+            "I was with Hercules and Cadmus once,"
+        ],
+        [
+            "HIPPOLYTA",
+            "When in a wood of Crete they bay'd the bear"
+        ],
+        [
+            "HIPPOLYTA",
+            "With hounds of Sparta: never did I hear"
+        ],
+        [
+            "HIPPOLYTA",
+            "Such gallant chiding: for, besides the groves,"
+        ],
+        [
+            "HIPPOLYTA",
+            "The skies, the fountains, every region near"
+        ],
+        [
+            "HIPPOLYTA",
+            "Seem'd all one mutual cry: I never heard"
+        ],
+        [
+            "HIPPOLYTA",
+            "So musical a discord, such sweet thunder."
+        ],
+        [
+            "THESEUS",
+            "My hounds are bred out of the Spartan kind,"
+        ],
+        [
+            "THESEUS",
+            "So flew'd, so sanded, and their heads are hung"
+        ],
+        [
+            "THESEUS",
+            "With ears that sweep away the morning dew;"
+        ],
+        [
+            "THESEUS",
+            "Crook-knee'd, and dew-lapp'd like Thessalian bulls;"
+        ],
+        [
+            "THESEUS",
+            "Slow in pursuit, but match'd in mouth like bells,"
+        ],
+        [
+            "THESEUS",
+            "Each under each. A cry more tuneable"
+        ],
+        [
+            "THESEUS",
+            "Was never holla'd to, nor cheer'd with horn,"
+        ],
+        [
+            "THESEUS",
+            "In Crete, in Sparta, nor in Thessaly:"
+        ],
+        [
+            "THESEUS",
+            "Judge when you hear. But, soft! what nymphs are these?"
+        ],
+        [
+            "EGEUS",
+            "My lord, this is my daughter here asleep;"
+        ],
+        [
+            "EGEUS",
+            "And this, Lysander; this Demetrius is;"
+        ],
+        [
+            "EGEUS",
+            "This Helena, old Nedar's Helena:"
+        ],
+        [
+            "EGEUS",
+            "I wonder of their being here together."
+        ],
+        [
+            "THESEUS",
+            "No doubt they rose up early to observe"
+        ],
+        [
+            "THESEUS",
+            "The rite of May, and hearing our intent,"
+        ],
+        [
+            "THESEUS",
+            "Came here in grace our solemnity."
+        ],
+        [
+            "THESEUS",
+            "But speak, Egeus; is not this the day"
+        ],
+        [
+            "THESEUS",
+            "That Hermia should give answer of her choice?"
+        ],
+        [
+            "EGEUS",
+            "It is, my lord."
+        ],
+        [
+            "THESEUS",
+            "Go, bid the huntsmen wake them with their horns.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "THESEUS",
+            "Good morrow, friends. Saint Valentine is past:",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "THESEUS",
+            "Begin these wood-birds but to couple now?"
+        ],
+        [
+            "LYSANDER",
+            "Pardon, my lord."
+        ],
+        [
+            "THESEUS",
+            "I pray you all, stand up."
+        ],
+        [
+            "THESEUS",
+            "I know you two are rival enemies:"
+        ],
+        [
+            "THESEUS",
+            "How comes this gentle concord in the world,"
+        ],
+        [
+            "THESEUS",
+            "That hatred is so far from jealousy,"
+        ],
+        [
+            "THESEUS",
+            "To sleep by hate, and fear no enmity?"
+        ],
+        [
+            "LYSANDER",
+            "My lord, I shall reply amazedly,"
+        ],
+        [
+            "LYSANDER",
+            "Half sleep, half waking: but as yet, I swear,"
+        ],
+        [
+            "LYSANDER",
+            "I cannot truly say how I came here;"
+        ],
+        [
+            "LYSANDER",
+            "But, as I think,--for truly would I speak,"
+        ],
+        [
+            "LYSANDER",
+            "And now do I bethink me, so it is,--"
+        ],
+        [
+            "LYSANDER",
+            "I came with Hermia hither: our intent"
+        ],
+        [
+            "LYSANDER",
+            "Was to be gone from Athens, where we might,"
+        ],
+        [
+            "LYSANDER",
+            "Without the peril of the Athenian law."
+        ],
+        [
+            "EGEUS",
+            "Enough, enough, my lord; you have enough:"
+        ],
+        [
+            "EGEUS",
+            "I beg the law, the law, upon his head."
+        ],
+        [
+            "EGEUS",
+            "They would have stolen away; they would, Demetrius,"
+        ],
+        [
+            "EGEUS",
+            "Thereby to have defeated you and me,"
+        ],
+        [
+            "EGEUS",
+            "You of your wife and me of my consent,"
+        ],
+        [
+            "EGEUS",
+            "Of my consent that she should be your wife."
+        ],
+        [
+            "DEMETRIUS",
+            "My lord, fair Helen told me of their stealth,"
+        ],
+        [
+            "DEMETRIUS",
+            "Of this their purpose hither to this wood;"
+        ],
+        [
+            "DEMETRIUS",
+            "And I in fury hither follow'd them,"
+        ],
+        [
+            "DEMETRIUS",
+            "Fair Helena in fancy following me."
+        ],
+        [
+            "DEMETRIUS",
+            "But, my good lord, I wot not by what power,--"
+        ],
+        [
+            "DEMETRIUS",
+            "But by some power it is,--my love to Hermia,"
+        ],
+        [
+            "DEMETRIUS",
+            "Melted as the snow, seems to me now"
+        ],
+        [
+            "DEMETRIUS",
+            "As the remembrance of an idle gaud"
+        ],
+        [
+            "DEMETRIUS",
+            "Which in my childhood I did dote upon;"
+        ],
+        [
+            "DEMETRIUS",
+            "And all the faith, the virtue of my heart,"
+        ],
+        [
+            "DEMETRIUS",
+            "The object and the pleasure of mine eye,"
+        ],
+        [
+            "DEMETRIUS",
+            "Is only Helena. To her, my lord,"
+        ],
+        [
+            "DEMETRIUS",
+            "Was I betroth'd ere I saw Hermia:"
+        ],
+        [
+            "DEMETRIUS",
+            "But, like in sickness, did I loathe this food;"
+        ],
+        [
+            "DEMETRIUS",
+            "But, as in health, come to my natural taste,"
+        ],
+        [
+            "DEMETRIUS",
+            "Now I do wish it, love it, long for it,"
+        ],
+        [
+            "DEMETRIUS",
+            "And will for evermore be true to it."
+        ],
+        [
+            "THESEUS",
+            "Fair lovers, you are fortunately met:"
+        ],
+        [
+            "THESEUS",
+            "Of this discourse we more will hear anon."
+        ],
+        [
+            "THESEUS",
+            "Egeus, I will overbear your will;"
+        ],
+        [
+            "THESEUS",
+            "For in the temple by and by with us"
+        ],
+        [
+            "THESEUS",
+            "These couples shall eternally be knit:"
+        ],
+        [
+            "THESEUS",
+            "And, for the morning now is something worn,"
+        ],
+        [
+            "THESEUS",
+            "Our purposed hunting shall be set aside."
+        ],
+        [
+            "THESEUS",
+            "Away with us to Athens; three and three,"
+        ],
+        [
+            "THESEUS",
+            "We'll hold a feast in great solemnity."
+        ],
+        [
+            "THESEUS",
+            "Come, Hippolyta.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "DEMETRIUS",
+            "These things seem small and undistinguishable,",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "HERMIA",
+            "Methinks I see these things with parted eye,"
+        ],
+        [
+            "HERMIA",
+            "When every thing seems double."
+        ],
+        [
+            "HELENA",
+            "So methinks:"
+        ],
+        [
+            "HELENA",
+            "And I have found Demetrius like a jewel,"
+        ],
+        [
+            "HELENA",
+            "Mine own, and not mine own."
+        ],
+        [
+            "DEMETRIUS",
+            "Are you sure"
+        ],
+        [
+            "DEMETRIUS",
+            "That we are awake? It seems to me"
+        ],
+        [
+            "DEMETRIUS",
+            "That yet we sleep, we dream. Do not you think"
+        ],
+        [
+            "DEMETRIUS",
+            "The duke was here, and bid us follow him?"
+        ],
+        [
+            "HERMIA",
+            "Yea; and my father."
+        ],
+        [
+            "HELENA",
+            "And Hippolyta."
+        ],
+        [
+            "LYSANDER",
+            "And he did bid us follow to the temple."
+        ],
+        [
+            "DEMETRIUS",
+            "Why, then, we are awake: let's follow him"
+        ],
+        [
+            "DEMETRIUS",
+            "And by the way let us recount our dreams.",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "BOTTOM",
+            "[Awaking] When my cue comes, call me, and I will",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "BOTTOM",
+            "answer: my next is, 'Most fair Pyramus.' Heigh-ho!"
+        ],
+        [
+            "BOTTOM",
+            "Peter Quince! Flute, the bellows-mender! Snout,"
+        ],
+        [
+            "BOTTOM",
+            "the tinker! Starveling! God's my life, stolen"
+        ],
+        [
+            "BOTTOM",
+            "hence, and left me asleep! I have had a most rare"
+        ],
+        [
+            "BOTTOM",
+            "vision. I have had a dream, past the wit of man to"
+        ],
+        [
+            "BOTTOM",
+            "say what dream it was: man is but an ass, if he go"
+        ],
+        [
+            "BOTTOM",
+            "about to expound this dream. Methought I was--there"
+        ],
+        [
+            "BOTTOM",
+            "is no man can tell what. Methought I was,--and"
+        ],
+        [
+            "BOTTOM",
+            "methought I had,--but man is but a patched fool, if"
+        ],
+        [
+            "BOTTOM",
+            "he will offer to say what methought I had. The eye"
+        ],
+        [
+            "BOTTOM",
+            "of man hath not heard, the ear of man hath not"
+        ],
+        [
+            "BOTTOM",
+            "seen, man's hand is not able to taste, his tongue"
+        ],
+        [
+            "BOTTOM",
+            "to conceive, nor his heart to report, what my dream"
+        ],
+        [
+            "BOTTOM",
+            "was. I will get Peter Quince to write a ballad of"
+        ],
+        [
+            "BOTTOM",
+            "this dream: it shall be called Bottom's Dream,"
+        ],
+        [
+            "BOTTOM",
+            "because it hath no bottom; and I will sing it in the"
+        ],
+        [
+            "BOTTOM",
+            "latter end of a play, before the duke:"
+        ],
+        [
+            "BOTTOM",
+            "peradventure, to make it the more gracious, I shall"
+        ],
+        [
+            "BOTTOM",
+            "sing it at her death.",
+            {
+                "following_direction_line": "10"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter TITANIA and BOTTOM; PEASEBLOSSOM, COBWEB, MOTH, MUSTARDSEED, and other Fairies attending; OBERON behind unseen"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt fairies"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "They sleep. Enter PUCK"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Music, still"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt. Horns winded within. Enter THESEUS, HIPPOLYTA, EGEUS, and train"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exit an Attendant"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Horns and shout within. LYSANDER, DEMETRIUS, HELENA, and HERMIA wake and start up"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exeunt THESEUS, HIPPOLYTA, EGEUS, and train"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Exeunt"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "TITANIA": [
+            [
+                "1",
+                "4"
+            ],
+            [
+                "26",
+                "27"
+            ],
+            [
+                "30",
+                "30"
+            ],
+            [
+                "34",
+                "35"
+            ],
+            [
+                "39",
+                "44"
+            ],
+            [
+                "76",
+                "77"
+            ],
+            [
+                "79",
+                "80"
+            ],
+            [
+                "84",
+                "84"
+            ],
+            [
+                "101",
+                "104"
+            ]
+        ],
+        "BOTTOM": [
+            [
+                "5",
+                "5"
+            ],
+            [
+                "7",
+                "7"
+            ],
+            [
+                "9",
+                "16"
+            ],
+            [
+                "18",
+                "19"
+            ],
+            [
+                "21",
+                "25"
+            ],
+            [
+                "28",
+                "29"
+            ],
+            [
+                "31",
+                "33"
+            ],
+            [
+                "36",
+                "38"
+            ],
+            [
+                "205",
+                "224"
+            ]
+        ],
+        "PEASEBLOSSOM": [
+            [
+                "6",
+                "6"
+            ]
+        ],
+        "COBWEB": [
+            [
+                "8",
+                "8"
+            ]
+        ],
+        "MUSTARDSEED": [
+            [
+                "17",
+                "17"
+            ],
+            [
+                "20",
+                "20"
+            ]
+        ],
+        "OBERON": [
+            [
+                "45",
+                "75"
+            ],
+            [
+                "78",
+                "78"
+            ],
+            [
+                "81",
+                "83"
+            ],
+            [
+                "87",
+                "94"
+            ],
+            [
+                "97",
+                "100"
+            ]
+        ],
+        "PUCK": [
+            [
+                "85",
+                "86"
+            ],
+            [
+                "95",
+                "96"
+            ]
+        ],
+        "THESEUS": [
+            [
+                "105",
+                "113"
+            ],
+            [
+                "121",
+                "129"
+            ],
+            [
+                "134",
+                "138"
+            ],
+            [
+                "140",
+                "142"
+            ],
+            [
+                "144",
+                "148"
+            ],
+            [
+                "180",
+                "189"
+            ]
+        ],
+        "HIPPOLYTA": [
+            [
+                "114",
+                "120"
+            ]
+        ],
+        "EGEUS": [
+            [
+                "130",
+                "133"
+            ],
+            [
+                "139",
+                "139"
+            ],
+            [
+                "157",
+                "162"
+            ]
+        ],
+        "LYSANDER": [
+            [
+                "143",
+                "143"
+            ],
+            [
+                "149",
+                "156"
+            ],
+            [
+                "202",
+                "202"
+            ]
+        ],
+        "DEMETRIUS": [
+            [
+                "163",
+                "179"
+            ],
+            [
+                "190",
+                "190"
+            ],
+            [
+                "196",
+                "199"
+            ],
+            [
+                "203",
+                "204"
+            ]
+        ],
+        "HERMIA": [
+            [
+                "191",
+                "192"
+            ],
+            [
+                "200",
+                "200"
+            ]
+        ],
+        "HELENA": [
+            [
+                "193",
+                "195"
+            ],
+            [
+                "201",
+                "201"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "The same. LYSANDER, DEMETRIUS, HELENA, and HERMIA lying asleep."
+}

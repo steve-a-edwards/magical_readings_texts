@@ -1,0 +1,1914 @@
+{
+    "scene_id": "much ado about nothing~~Act_5~~Scene_1",
+    "work_number": "7",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "ANTONIO",
+            "If you go on thus, you will kill yourself:",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "ANTONIO",
+            "And 'tis not wisdom thus to second grief"
+        ],
+        [
+            "ANTONIO",
+            "Against yourself."
+        ],
+        [
+            "LEONATO",
+            "I pray thee, cease thy counsel,"
+        ],
+        [
+            "LEONATO",
+            "Which falls into mine ears as profitless"
+        ],
+        [
+            "LEONATO",
+            "As water in a sieve: give not me counsel;"
+        ],
+        [
+            "LEONATO",
+            "Nor let no comforter delight mine ear"
+        ],
+        [
+            "LEONATO",
+            "But such a one whose wrongs do suit with mine."
+        ],
+        [
+            "LEONATO",
+            "Bring me a father that so loved his child,"
+        ],
+        [
+            "LEONATO",
+            "Whose joy of her is overwhelm'd like mine,"
+        ],
+        [
+            "LEONATO",
+            "And bid him speak of patience;"
+        ],
+        [
+            "LEONATO",
+            "Measure his woe the length and breadth of mine"
+        ],
+        [
+            "LEONATO",
+            "And let it answer every strain for strain,"
+        ],
+        [
+            "LEONATO",
+            "As thus for thus and such a grief for such,"
+        ],
+        [
+            "LEONATO",
+            "In every lineament, branch, shape, and form:"
+        ],
+        [
+            "LEONATO",
+            "If such a one will smile and stroke his beard,"
+        ],
+        [
+            "LEONATO",
+            "Bid sorrow wag, cry 'hem!' when he should groan,"
+        ],
+        [
+            "LEONATO",
+            "Patch grief with proverbs, make misfortune drunk"
+        ],
+        [
+            "LEONATO",
+            "With candle-wasters; bring him yet to me,"
+        ],
+        [
+            "LEONATO",
+            "And I of him will gather patience."
+        ],
+        [
+            "LEONATO",
+            "But there is no such man: for, brother, men"
+        ],
+        [
+            "LEONATO",
+            "Can counsel and speak comfort to that grief"
+        ],
+        [
+            "LEONATO",
+            "Which they themselves not feel; but, tasting it,"
+        ],
+        [
+            "LEONATO",
+            "Their counsel turns to passion, which before"
+        ],
+        [
+            "LEONATO",
+            "Would give preceptial medicine to rage,"
+        ],
+        [
+            "LEONATO",
+            "Fetter strong madness in a silken thread,"
+        ],
+        [
+            "LEONATO",
+            "Charm ache with air and agony with words:"
+        ],
+        [
+            "LEONATO",
+            "No, no; 'tis all men's office to speak patience"
+        ],
+        [
+            "LEONATO",
+            "To those that wring under the load of sorrow,"
+        ],
+        [
+            "LEONATO",
+            "But no man's virtue nor sufficiency"
+        ],
+        [
+            "LEONATO",
+            "To be so moral when he shall endure"
+        ],
+        [
+            "LEONATO",
+            "The like himself. Therefore give me no counsel:"
+        ],
+        [
+            "LEONATO",
+            "My griefs cry louder than advertisement."
+        ],
+        [
+            "ANTONIO",
+            "Therein do men from children nothing differ."
+        ],
+        [
+            "LEONATO",
+            "I pray thee, peace. I will be flesh and blood;"
+        ],
+        [
+            "LEONATO",
+            "For there was never yet philosopher"
+        ],
+        [
+            "LEONATO",
+            "That could endure the toothache patiently,"
+        ],
+        [
+            "LEONATO",
+            "However they have writ the style of gods"
+        ],
+        [
+            "LEONATO",
+            "And made a push at chance and sufferance."
+        ],
+        [
+            "ANTONIO",
+            "Yet bend not all the harm upon yourself;"
+        ],
+        [
+            "ANTONIO",
+            "Make those that do offend you suffer too."
+        ],
+        [
+            "LEONATO",
+            "There thou speak'st reason: nay, I will do so."
+        ],
+        [
+            "LEONATO",
+            "My soul doth tell me Hero is belied;"
+        ],
+        [
+            "LEONATO",
+            "And that shall Claudio know; so shall the prince"
+        ],
+        [
+            "LEONATO",
+            "And all of them that thus dishonour her."
+        ],
+        [
+            "ANTONIO",
+            "Here comes the prince and Claudio hastily.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "DON PEDRO",
+            "Good den, good den.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "CLAUDIO",
+            "Good day to both of you."
+        ],
+        [
+            "LEONATO",
+            "Hear you. my lords,--"
+        ],
+        [
+            "DON PEDRO",
+            "We have some haste, Leonato."
+        ],
+        [
+            "LEONATO",
+            "Some haste, my lord! well, fare you well, my lord:"
+        ],
+        [
+            "LEONATO",
+            "Are you so hasty now? well, all is one."
+        ],
+        [
+            "DON PEDRO",
+            "Nay, do not quarrel with us, good old man."
+        ],
+        [
+            "ANTONIO",
+            "If he could right himself with quarreling,"
+        ],
+        [
+            "ANTONIO",
+            "Some of us would lie low."
+        ],
+        [
+            "CLAUDIO",
+            "Who wrongs him?"
+        ],
+        [
+            "LEONATO",
+            "Marry, thou dost wrong me; thou dissembler, thou:--"
+        ],
+        [
+            "LEONATO",
+            "Nay, never lay thy hand upon thy sword;"
+        ],
+        [
+            "LEONATO",
+            "I fear thee not."
+        ],
+        [
+            "CLAUDIO",
+            "Marry, beshrew my hand,"
+        ],
+        [
+            "CLAUDIO",
+            "If it should give your age such cause of fear:"
+        ],
+        [
+            "CLAUDIO",
+            "In faith, my hand meant nothing to my sword."
+        ],
+        [
+            "LEONATO",
+            "Tush, tush, man; never fleer and jest at me:"
+        ],
+        [
+            "LEONATO",
+            "I speak not like a dotard nor a fool,"
+        ],
+        [
+            "LEONATO",
+            "As under privilege of age to brag"
+        ],
+        [
+            "LEONATO",
+            "What I have done being young, or what would do"
+        ],
+        [
+            "LEONATO",
+            "Were I not old. Know, Claudio, to thy head,"
+        ],
+        [
+            "LEONATO",
+            "Thou hast so wrong'd mine innocent child and me"
+        ],
+        [
+            "LEONATO",
+            "That I am forced to lay my reverence by"
+        ],
+        [
+            "LEONATO",
+            "And, with grey hairs and bruise of many days,"
+        ],
+        [
+            "LEONATO",
+            "Do challenge thee to trial of a man."
+        ],
+        [
+            "LEONATO",
+            "I say thou hast belied mine innocent child;"
+        ],
+        [
+            "LEONATO",
+            "Thy slander hath gone through and through her heart,"
+        ],
+        [
+            "LEONATO",
+            "And she lies buried with her ancestors;"
+        ],
+        [
+            "LEONATO",
+            "O, in a tomb where never scandal slept,"
+        ],
+        [
+            "LEONATO",
+            "Save this of hers, framed by thy villany!"
+        ],
+        [
+            "CLAUDIO",
+            "My villany?"
+        ],
+        [
+            "LEONATO",
+            "Thine, Claudio; thine, I say."
+        ],
+        [
+            "DON PEDRO",
+            "You say not right, old man."
+        ],
+        [
+            "LEONATO",
+            "My lord, my lord,"
+        ],
+        [
+            "LEONATO",
+            "I'll prove it on his body, if he dare,"
+        ],
+        [
+            "LEONATO",
+            "Despite his nice fence and his active practise,"
+        ],
+        [
+            "LEONATO",
+            "His May of youth and bloom of lustihood."
+        ],
+        [
+            "CLAUDIO",
+            "Away! I will not have to do with you."
+        ],
+        [
+            "LEONATO",
+            "Canst thou so daff me? Thou hast kill'd my child:"
+        ],
+        [
+            "LEONATO",
+            "If thou kill'st me, boy, thou shalt kill a man."
+        ],
+        [
+            "ANTONIO",
+            "He shall kill two of us, and men indeed:"
+        ],
+        [
+            "ANTONIO",
+            "But that's no matter; let him kill one first;"
+        ],
+        [
+            "ANTONIO",
+            "Win me and wear me; let him answer me."
+        ],
+        [
+            "ANTONIO",
+            "Come, follow me, boy; come, sir boy, come, follow me:"
+        ],
+        [
+            "ANTONIO",
+            "Sir boy, I'll whip you from your foining fence;"
+        ],
+        [
+            "ANTONIO",
+            "Nay, as I am a gentleman, I will."
+        ],
+        [
+            "LEONATO",
+            "Brother,--"
+        ],
+        [
+            "ANTONIO",
+            "Content yourself. God knows I loved my niece;"
+        ],
+        [
+            "ANTONIO",
+            "And she is dead, slander'd to death by villains,"
+        ],
+        [
+            "ANTONIO",
+            "That dare as well answer a man indeed"
+        ],
+        [
+            "ANTONIO",
+            "As I dare take a serpent by the tongue:"
+        ],
+        [
+            "ANTONIO",
+            "Boys, apes, braggarts, Jacks, milksops!"
+        ],
+        [
+            "LEONATO",
+            "Brother Antony,--"
+        ],
+        [
+            "ANTONIO",
+            "Hold you content. What, man! I know them, yea,"
+        ],
+        [
+            "ANTONIO",
+            "And what they weigh, even to the utmost scruple,--"
+        ],
+        [
+            "ANTONIO",
+            "Scrambling, out-facing, fashion-monging boys,"
+        ],
+        [
+            "ANTONIO",
+            "That lie and cog and flout, deprave and slander,"
+        ],
+        [
+            "ANTONIO",
+            "Go anticly, show outward hideousness,"
+        ],
+        [
+            "ANTONIO",
+            "And speak off half a dozen dangerous words,"
+        ],
+        [
+            "ANTONIO",
+            "How they might hurt their enemies, if they durst;"
+        ],
+        [
+            "ANTONIO",
+            "And this is all."
+        ],
+        [
+            "LEONATO",
+            "But, brother Antony,--"
+        ],
+        [
+            "ANTONIO",
+            "Come, 'tis no matter:"
+        ],
+        [
+            "ANTONIO",
+            "Do not you meddle; let me deal in this."
+        ],
+        [
+            "DON PEDRO",
+            "Gentlemen both, we will not wake your patience."
+        ],
+        [
+            "DON PEDRO",
+            "My heart is sorry for your daughter's death:"
+        ],
+        [
+            "DON PEDRO",
+            "But, on my honour, she was charged with nothing"
+        ],
+        [
+            "DON PEDRO",
+            "But what was true and very full of proof."
+        ],
+        [
+            "LEONATO",
+            "My lord, my lord,--"
+        ],
+        [
+            "DON PEDRO",
+            "I will not hear you."
+        ],
+        [
+            "LEONATO",
+            "No? Come, brother; away! I will be heard."
+        ],
+        [
+            "ANTONIO",
+            "And shall, or some of us will smart for it.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "DON PEDRO",
+            "See, see; here comes the man we went to seek.",
+            {
+                "preceding_direction_line": "3"
+            },
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "CLAUDIO",
+            "Now, signior, what news?",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "BENEDICK",
+            "Good day, my lord."
+        ],
+        [
+            "DON PEDRO",
+            "Welcome, signior: you are almost come to part"
+        ],
+        [
+            "DON PEDRO",
+            "almost a fray."
+        ],
+        [
+            "CLAUDIO",
+            "We had like to have had our two noses snapped off"
+        ],
+        [
+            "CLAUDIO",
+            "with two old men without teeth."
+        ],
+        [
+            "DON PEDRO",
+            "Leonato and his brother. What thinkest thou? Had"
+        ],
+        [
+            "DON PEDRO",
+            "we fought, I doubt we should have been too young for them."
+        ],
+        [
+            "BENEDICK",
+            "In a false quarrel there is no true valour. I came"
+        ],
+        [
+            "BENEDICK",
+            "to seek you both."
+        ],
+        [
+            "CLAUDIO",
+            "We have been up and down to seek thee; for we are"
+        ],
+        [
+            "CLAUDIO",
+            "high-proof melancholy and would fain have it beaten"
+        ],
+        [
+            "CLAUDIO",
+            "away. Wilt thou use thy wit?"
+        ],
+        [
+            "BENEDICK",
+            "It is in my scabbard: shall I draw it?"
+        ],
+        [
+            "DON PEDRO",
+            "Dost thou wear thy wit by thy side?"
+        ],
+        [
+            "CLAUDIO",
+            "Never any did so, though very many have been beside"
+        ],
+        [
+            "CLAUDIO",
+            "their wit. I will bid thee draw, as we do the"
+        ],
+        [
+            "CLAUDIO",
+            "minstrels; draw, to pleasure us."
+        ],
+        [
+            "DON PEDRO",
+            "As I am an honest man, he looks pale. Art thou"
+        ],
+        [
+            "DON PEDRO",
+            "sick, or angry?"
+        ],
+        [
+            "CLAUDIO",
+            "What, courage, man! What though care killed a cat,"
+        ],
+        [
+            "CLAUDIO",
+            "thou hast mettle enough in thee to kill care."
+        ],
+        [
+            "BENEDICK",
+            "Sir, I shall meet your wit in the career, and you"
+        ],
+        [
+            "BENEDICK",
+            "charge it against me. I pray you choose another subject."
+        ],
+        [
+            "CLAUDIO",
+            "Nay, then, give him another staff: this last was"
+        ],
+        [
+            "CLAUDIO",
+            "broke cross."
+        ],
+        [
+            "DON PEDRO",
+            "By this light, he changes more and more: I think"
+        ],
+        [
+            "DON PEDRO",
+            "he be angry indeed."
+        ],
+        [
+            "CLAUDIO",
+            "If he be, he knows how to turn his girdle."
+        ],
+        [
+            "BENEDICK",
+            "Shall I speak a word in your ear?"
+        ],
+        [
+            "CLAUDIO",
+            "God bless me from a challenge!"
+        ],
+        [
+            "BENEDICK",
+            "[Aside to CLAUDIO] You are a villain; I jest not:"
+        ],
+        [
+            "BENEDICK",
+            "I will make it good how you dare, with what you"
+        ],
+        [
+            "BENEDICK",
+            "dare, and when you dare. Do me right, or I will"
+        ],
+        [
+            "BENEDICK",
+            "protest your cowardice. You have killed a sweet"
+        ],
+        [
+            "BENEDICK",
+            "lady, and her death shall fall heavy on you. Let me"
+        ],
+        [
+            "BENEDICK",
+            "hear from you."
+        ],
+        [
+            "CLAUDIO",
+            "Well, I will meet you, so I may have good cheer."
+        ],
+        [
+            "DON PEDRO",
+            "What, a feast, a feast?"
+        ],
+        [
+            "CLAUDIO",
+            "I' faith, I thank him; he hath bid me to a calf's"
+        ],
+        [
+            "CLAUDIO",
+            "head and a capon; the which if I do not carve most"
+        ],
+        [
+            "CLAUDIO",
+            "curiously, say my knife's naught. Shall I not find"
+        ],
+        [
+            "CLAUDIO",
+            "a woodcock too?"
+        ],
+        [
+            "BENEDICK",
+            "Sir, your wit ambles well; it goes easily."
+        ],
+        [
+            "DON PEDRO",
+            "I'll tell thee how Beatrice praised thy wit the"
+        ],
+        [
+            "DON PEDRO",
+            "other day. I said, thou hadst a fine wit: 'True,'"
+        ],
+        [
+            "DON PEDRO",
+            "said she, 'a fine little one.' 'No,' said I, 'a"
+        ],
+        [
+            "DON PEDRO",
+            "great wit:' 'Right,' says she, 'a great gross one.'"
+        ],
+        [
+            "DON PEDRO",
+            "'Nay,' said I, 'a good wit:' 'Just,' said she, 'it"
+        ],
+        [
+            "DON PEDRO",
+            "hurts nobody.' 'Nay,' said I, 'the gentleman"
+        ],
+        [
+            "DON PEDRO",
+            "is wise:' 'Certain,' said she, 'a wise gentleman.'"
+        ],
+        [
+            "DON PEDRO",
+            "'Nay,' said I, 'he hath the tongues:' 'That I"
+        ],
+        [
+            "DON PEDRO",
+            "believe,' said she, 'for he swore a thing to me on"
+        ],
+        [
+            "DON PEDRO",
+            "Monday night, which he forswore on Tuesday morning;"
+        ],
+        [
+            "DON PEDRO",
+            "there's a double tongue; there's two tongues.' Thus"
+        ],
+        [
+            "DON PEDRO",
+            "did she, an hour together, transshape thy particular"
+        ],
+        [
+            "DON PEDRO",
+            "virtues: yet at last she concluded with a sigh, thou"
+        ],
+        [
+            "DON PEDRO",
+            "wast the properest man in Italy."
+        ],
+        [
+            "CLAUDIO",
+            "For the which she wept heartily and said she cared"
+        ],
+        [
+            "CLAUDIO",
+            "not."
+        ],
+        [
+            "DON PEDRO",
+            "Yea, that she did: but yet, for all that, an if she"
+        ],
+        [
+            "DON PEDRO",
+            "did not hate him deadly, she would love him dearly:"
+        ],
+        [
+            "DON PEDRO",
+            "the old man's daughter told us all."
+        ],
+        [
+            "CLAUDIO",
+            "All, all; and, moreover, God saw him when he was"
+        ],
+        [
+            "CLAUDIO",
+            "hid in the garden."
+        ],
+        [
+            "DON PEDRO",
+            "But when shall we set the savage bull's horns on"
+        ],
+        [
+            "DON PEDRO",
+            "the sensible Benedick's head?"
+        ],
+        [
+            "CLAUDIO",
+            "Yea, and text underneath, 'Here dwells Benedick the"
+        ],
+        [
+            "CLAUDIO",
+            "married man'?"
+        ],
+        [
+            "BENEDICK",
+            "Fare you well, boy: you know my mind. I will leave"
+        ],
+        [
+            "BENEDICK",
+            "you now to your gossip-like humour: you break jests"
+        ],
+        [
+            "BENEDICK",
+            "as braggarts do their blades, which God be thanked,"
+        ],
+        [
+            "BENEDICK",
+            "hurt not. My lord, for your many courtesies I thank"
+        ],
+        [
+            "BENEDICK",
+            "you: I must discontinue your company: your brother"
+        ],
+        [
+            "BENEDICK",
+            "the bastard is fled from Messina: you have among"
+        ],
+        [
+            "BENEDICK",
+            "you killed a sweet and innocent lady. For my Lord"
+        ],
+        [
+            "BENEDICK",
+            "Lackbeard there, he and I shall meet: and, till"
+        ],
+        [
+            "BENEDICK",
+            "then, peace be with him.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "DON PEDRO",
+            "He is in earnest.",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "CLAUDIO",
+            "In most profound earnest; and, I'll warrant you, for"
+        ],
+        [
+            "CLAUDIO",
+            "the love of Beatrice."
+        ],
+        [
+            "DON PEDRO",
+            "And hath challenged thee."
+        ],
+        [
+            "CLAUDIO",
+            "Most sincerely."
+        ],
+        [
+            "DON PEDRO",
+            "What a pretty thing man is when he goes in his"
+        ],
+        [
+            "DON PEDRO",
+            "doublet and hose and leaves off his wit!"
+        ],
+        [
+            "CLAUDIO",
+            "He is then a giant to an ape; but then is an ape a"
+        ],
+        [
+            "CLAUDIO",
+            "doctor to such a man."
+        ],
+        [
+            "DON PEDRO",
+            "But, soft you, let me be: pluck up, my heart, and"
+        ],
+        [
+            "DON PEDRO",
+            "be sad. Did he not say, my brother was fled?",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "DOGBERRY",
+            "Come you, sir: if justice cannot tame you, she",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "DOGBERRY",
+            "shall ne'er weigh more reasons in her balance: nay,"
+        ],
+        [
+            "DOGBERRY",
+            "an you be a cursing hypocrite once, you must be looked to."
+        ],
+        [
+            "DON PEDRO",
+            "How now? two of my brother's men bound! Borachio"
+        ],
+        [
+            "DON PEDRO",
+            "one!"
+        ],
+        [
+            "CLAUDIO",
+            "Hearken after their offence, my lord."
+        ],
+        [
+            "DON PEDRO",
+            "Officers, what offence have these men done?"
+        ],
+        [
+            "DOGBERRY",
+            "Marry, sir, they have committed false report;"
+        ],
+        [
+            "DOGBERRY",
+            "moreover, they have spoken untruths; secondarily,"
+        ],
+        [
+            "DOGBERRY",
+            "they are slanders; sixth and lastly, they have"
+        ],
+        [
+            "DOGBERRY",
+            "belied a lady; thirdly, they have verified unjust"
+        ],
+        [
+            "DOGBERRY",
+            "things; and, to conclude, they are lying knaves."
+        ],
+        [
+            "DON PEDRO",
+            "First, I ask thee what they have done; thirdly, I"
+        ],
+        [
+            "DON PEDRO",
+            "ask thee what's their offence; sixth and lastly, why"
+        ],
+        [
+            "DON PEDRO",
+            "they are committed; and, to conclude, what you lay"
+        ],
+        [
+            "DON PEDRO",
+            "to their charge."
+        ],
+        [
+            "CLAUDIO",
+            "Rightly reasoned, and in his own division: and, by"
+        ],
+        [
+            "CLAUDIO",
+            "my troth, there's one meaning well suited."
+        ],
+        [
+            "DON PEDRO",
+            "Who have you offended, masters, that you are thus"
+        ],
+        [
+            "DON PEDRO",
+            "bound to your answer? this learned constable is"
+        ],
+        [
+            "DON PEDRO",
+            "too cunning to be understood: what's your offence?"
+        ],
+        [
+            "BORACHIO",
+            "Sweet prince, let me go no farther to mine answer:"
+        ],
+        [
+            "BORACHIO",
+            "do you hear me, and let this count kill me. I have"
+        ],
+        [
+            "BORACHIO",
+            "deceived even your very eyes: what your wisdoms"
+        ],
+        [
+            "BORACHIO",
+            "could not discover, these shallow fools have brought"
+        ],
+        [
+            "BORACHIO",
+            "to light: who in the night overheard me confessing"
+        ],
+        [
+            "BORACHIO",
+            "to this man how Don John your brother incensed me"
+        ],
+        [
+            "BORACHIO",
+            "to slander the Lady Hero, how you were brought into"
+        ],
+        [
+            "BORACHIO",
+            "the orchard and saw me court Margaret in Hero's"
+        ],
+        [
+            "BORACHIO",
+            "garments, how you disgraced her, when you should"
+        ],
+        [
+            "BORACHIO",
+            "marry her: my villany they have upon record; which"
+        ],
+        [
+            "BORACHIO",
+            "I had rather seal with my death than repeat over"
+        ],
+        [
+            "BORACHIO",
+            "to my shame. The lady is dead upon mine and my"
+        ],
+        [
+            "BORACHIO",
+            "master's false accusation; and, briefly, I desire"
+        ],
+        [
+            "BORACHIO",
+            "nothing but the reward of a villain."
+        ],
+        [
+            "DON PEDRO",
+            "Runs not this speech like iron through your blood?"
+        ],
+        [
+            "CLAUDIO",
+            "I have drunk poison whiles he utter'd it."
+        ],
+        [
+            "DON PEDRO",
+            "But did my brother set thee on to this?"
+        ],
+        [
+            "BORACHIO",
+            "Yea, and paid me richly for the practise of it."
+        ],
+        [
+            "DON PEDRO",
+            "He is composed and framed of treachery:"
+        ],
+        [
+            "DON PEDRO",
+            "And fled he is upon this villany."
+        ],
+        [
+            "CLAUDIO",
+            "Sweet Hero! now thy image doth appear"
+        ],
+        [
+            "CLAUDIO",
+            "In the rare semblance that I loved it first."
+        ],
+        [
+            "DOGBERRY",
+            "Come, bring away the plaintiffs: by this time our"
+        ],
+        [
+            "DOGBERRY",
+            "sexton hath reformed Signior Leonato of the matter:"
+        ],
+        [
+            "DOGBERRY",
+            "and, masters, do not forget to specify, when time"
+        ],
+        [
+            "DOGBERRY",
+            "and place shall serve, that I am an ass."
+        ],
+        [
+            "VERGES",
+            "Here, here comes master Signior Leonato, and the"
+        ],
+        [
+            "VERGES",
+            "Sexton too.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "LEONATO",
+            "Which is the villain? let me see his eyes,",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "LEONATO",
+            "That, when I note another man like him,"
+        ],
+        [
+            "LEONATO",
+            "I may avoid him: which of these is he?"
+        ],
+        [
+            "BORACHIO",
+            "If you would know your wronger, look on me."
+        ],
+        [
+            "LEONATO",
+            "Art thou the slave that with thy breath hast kill'd"
+        ],
+        [
+            "LEONATO",
+            "Mine innocent child?"
+        ],
+        [
+            "BORACHIO",
+            "Yea, even I alone."
+        ],
+        [
+            "LEONATO",
+            "No, not so, villain; thou beliest thyself:"
+        ],
+        [
+            "LEONATO",
+            "Here stand a pair of honourable men;"
+        ],
+        [
+            "LEONATO",
+            "A third is fled, that had a hand in it."
+        ],
+        [
+            "LEONATO",
+            "I thank you, princes, for my daughter's death:"
+        ],
+        [
+            "LEONATO",
+            "Record it with your high and worthy deeds:"
+        ],
+        [
+            "LEONATO",
+            "'Twas bravely done, if you bethink you of it."
+        ],
+        [
+            "CLAUDIO",
+            "I know not how to pray your patience;"
+        ],
+        [
+            "CLAUDIO",
+            "Yet I must speak. Choose your revenge yourself;"
+        ],
+        [
+            "CLAUDIO",
+            "Impose me to what penance your invention"
+        ],
+        [
+            "CLAUDIO",
+            "Can lay upon my sin: yet sinn'd I not"
+        ],
+        [
+            "CLAUDIO",
+            "But in mistaking."
+        ],
+        [
+            "DON PEDRO",
+            "By my soul, nor I:"
+        ],
+        [
+            "DON PEDRO",
+            "And yet, to satisfy this good old man,"
+        ],
+        [
+            "DON PEDRO",
+            "I would bend under any heavy weight"
+        ],
+        [
+            "DON PEDRO",
+            "That he'll enjoin me to."
+        ],
+        [
+            "LEONATO",
+            "I cannot bid you bid my daughter live;"
+        ],
+        [
+            "LEONATO",
+            "That were impossible: but, I pray you both,"
+        ],
+        [
+            "LEONATO",
+            "Possess the people in Messina here"
+        ],
+        [
+            "LEONATO",
+            "How innocent she died; and if your love"
+        ],
+        [
+            "LEONATO",
+            "Can labour ought in sad invention,"
+        ],
+        [
+            "LEONATO",
+            "Hang her an epitaph upon her tomb"
+        ],
+        [
+            "LEONATO",
+            "And sing it to her bones, sing it to-night:"
+        ],
+        [
+            "LEONATO",
+            "To-morrow morning come you to my house,"
+        ],
+        [
+            "LEONATO",
+            "And since you could not be my son-in-law,"
+        ],
+        [
+            "LEONATO",
+            "Be yet my nephew: my brother hath a daughter,"
+        ],
+        [
+            "LEONATO",
+            "Almost the copy of my child that's dead,"
+        ],
+        [
+            "LEONATO",
+            "And she alone is heir to both of us:"
+        ],
+        [
+            "LEONATO",
+            "Give her the right you should have given her cousin,"
+        ],
+        [
+            "LEONATO",
+            "And so dies my revenge."
+        ],
+        [
+            "CLAUDIO",
+            "O noble sir,"
+        ],
+        [
+            "CLAUDIO",
+            "Your over-kindness doth wring tears from me!"
+        ],
+        [
+            "CLAUDIO",
+            "I do embrace your offer; and dispose"
+        ],
+        [
+            "CLAUDIO",
+            "For henceforth of poor Claudio."
+        ],
+        [
+            "LEONATO",
+            "To-morrow then I will expect your coming;"
+        ],
+        [
+            "LEONATO",
+            "To-night I take my leave. This naughty man"
+        ],
+        [
+            "LEONATO",
+            "Shall face to face be brought to Margaret,"
+        ],
+        [
+            "LEONATO",
+            "Who I believe was pack'd in all this wrong,"
+        ],
+        [
+            "LEONATO",
+            "Hired to it by your brother."
+        ],
+        [
+            "BORACHIO",
+            "No, by my soul, she was not,"
+        ],
+        [
+            "BORACHIO",
+            "Nor knew not what she did when she spoke to me,"
+        ],
+        [
+            "BORACHIO",
+            "But always hath been just and virtuous"
+        ],
+        [
+            "BORACHIO",
+            "In any thing that I do know by her."
+        ],
+        [
+            "DOGBERRY",
+            "Moreover, sir, which indeed is not under white and"
+        ],
+        [
+            "DOGBERRY",
+            "black, this plaintiff here, the offender, did call"
+        ],
+        [
+            "DOGBERRY",
+            "me ass: I beseech you, let it be remembered in his"
+        ],
+        [
+            "DOGBERRY",
+            "punishment. And also, the watch heard them talk of"
+        ],
+        [
+            "DOGBERRY",
+            "one Deformed: they say be wears a key in his ear and"
+        ],
+        [
+            "DOGBERRY",
+            "a lock hanging by it, and borrows money in God's"
+        ],
+        [
+            "DOGBERRY",
+            "name, the which he hath used so long and never paid"
+        ],
+        [
+            "DOGBERRY",
+            "that now men grow hard-hearted and will lend nothing"
+        ],
+        [
+            "DOGBERRY",
+            "for God's sake: pray you, examine him upon that point."
+        ],
+        [
+            "LEONATO",
+            "I thank thee for thy care and honest pains."
+        ],
+        [
+            "DOGBERRY",
+            "Your worship speaks like a most thankful and"
+        ],
+        [
+            "DOGBERRY",
+            "reverend youth; and I praise God for you."
+        ],
+        [
+            "LEONATO",
+            "There's for thy pains."
+        ],
+        [
+            "DOGBERRY",
+            "God save the foundation!"
+        ],
+        [
+            "LEONATO",
+            "Go, I discharge thee of thy prisoner, and I thank thee."
+        ],
+        [
+            "DOGBERRY",
+            "I leave an arrant knave with your worship; which I"
+        ],
+        [
+            "DOGBERRY",
+            "beseech your worship to correct yourself, for the"
+        ],
+        [
+            "DOGBERRY",
+            "example of others. God keep your worship! I wish"
+        ],
+        [
+            "DOGBERRY",
+            "your worship well; God restore you to health! I"
+        ],
+        [
+            "DOGBERRY",
+            "humbly give you leave to depart; and if a merry"
+        ],
+        [
+            "DOGBERRY",
+            "meeting may be wished, God prohibit it! Come, neighbour.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "LEONATO",
+            "Until to-morrow morning, lords, farewell.",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "ANTONIO",
+            "Farewell, my lords: we look for you to-morrow."
+        ],
+        [
+            "DON PEDRO",
+            "We will not fail."
+        ],
+        [
+            "CLAUDIO",
+            "To-night I'll mourn with Hero."
+        ],
+        [
+            "LEONATO",
+            "[To the Watch] Bring you these fellows on. We'll"
+        ],
+        [
+            "LEONATO",
+            "talk with Margaret,"
+        ],
+        [
+            "LEONATO",
+            "How her acquaintance grew with this lewd fellow.",
+            {
+                "following_direction_line": "9"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter LEONATO and ANTONIO"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter DON PEDRO and CLAUDIO"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt LEONATO and ANTONIO"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter BENEDICK"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Enter DOGBERRY, VERGES, and the Watch, with CONRADE and BORACHIO"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Re-enter LEONATO and ANTONIO, with the Sexton"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exeunt DOGBERRY and VERGES"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Exeunt, severally"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "ANTONIO": [
+            [
+                "1",
+                "3"
+            ],
+            [
+                "34",
+                "34"
+            ],
+            [
+                "40",
+                "41"
+            ],
+            [
+                "46",
+                "46"
+            ],
+            [
+                "54",
+                "55"
+            ],
+            [
+                "87",
+                "92"
+            ],
+            [
+                "94",
+                "98"
+            ],
+            [
+                "100",
+                "107"
+            ],
+            [
+                "109",
+                "110"
+            ],
+            [
+                "118",
+                "118"
+            ],
+            [
+                "329",
+                "329"
+            ]
+        ],
+        "LEONATO": [
+            [
+                "4",
+                "33"
+            ],
+            [
+                "35",
+                "39"
+            ],
+            [
+                "42",
+                "45"
+            ],
+            [
+                "49",
+                "49"
+            ],
+            [
+                "51",
+                "52"
+            ],
+            [
+                "57",
+                "59"
+            ],
+            [
+                "63",
+                "76"
+            ],
+            [
+                "78",
+                "78"
+            ],
+            [
+                "80",
+                "83"
+            ],
+            [
+                "85",
+                "86"
+            ],
+            [
+                "93",
+                "93"
+            ],
+            [
+                "99",
+                "99"
+            ],
+            [
+                "108",
+                "108"
+            ],
+            [
+                "115",
+                "115"
+            ],
+            [
+                "117",
+                "117"
+            ],
+            [
+                "258",
+                "260"
+            ],
+            [
+                "262",
+                "263"
+            ],
+            [
+                "265",
+                "270"
+            ],
+            [
+                "280",
+                "293"
+            ],
+            [
+                "298",
+                "302"
+            ],
+            [
+                "316",
+                "316"
+            ],
+            [
+                "319",
+                "319"
+            ],
+            [
+                "321",
+                "321"
+            ],
+            [
+                "328",
+                "328"
+            ],
+            [
+                "332",
+                "334"
+            ]
+        ],
+        "DON PEDRO": [
+            [
+                "47",
+                "47"
+            ],
+            [
+                "50",
+                "50"
+            ],
+            [
+                "53",
+                "53"
+            ],
+            [
+                "79",
+                "79"
+            ],
+            [
+                "111",
+                "114"
+            ],
+            [
+                "116",
+                "116"
+            ],
+            [
+                "119",
+                "119"
+            ],
+            [
+                "122",
+                "123"
+            ],
+            [
+                "126",
+                "127"
+            ],
+            [
+                "134",
+                "134"
+            ],
+            [
+                "138",
+                "139"
+            ],
+            [
+                "146",
+                "147"
+            ],
+            [
+                "158",
+                "158"
+            ],
+            [
+                "164",
+                "177"
+            ],
+            [
+                "180",
+                "182"
+            ],
+            [
+                "185",
+                "186"
+            ],
+            [
+                "198",
+                "198"
+            ],
+            [
+                "201",
+                "201"
+            ],
+            [
+                "203",
+                "204"
+            ],
+            [
+                "207",
+                "208"
+            ],
+            [
+                "212",
+                "213"
+            ],
+            [
+                "215",
+                "215"
+            ],
+            [
+                "221",
+                "224"
+            ],
+            [
+                "227",
+                "229"
+            ],
+            [
+                "244",
+                "244"
+            ],
+            [
+                "246",
+                "246"
+            ],
+            [
+                "248",
+                "249"
+            ],
+            [
+                "276",
+                "279"
+            ],
+            [
+                "330",
+                "330"
+            ]
+        ],
+        "CLAUDIO": [
+            [
+                "48",
+                "48"
+            ],
+            [
+                "56",
+                "56"
+            ],
+            [
+                "60",
+                "62"
+            ],
+            [
+                "77",
+                "77"
+            ],
+            [
+                "84",
+                "84"
+            ],
+            [
+                "120",
+                "120"
+            ],
+            [
+                "124",
+                "125"
+            ],
+            [
+                "130",
+                "132"
+            ],
+            [
+                "135",
+                "137"
+            ],
+            [
+                "140",
+                "141"
+            ],
+            [
+                "144",
+                "145"
+            ],
+            [
+                "148",
+                "148"
+            ],
+            [
+                "150",
+                "150"
+            ],
+            [
+                "157",
+                "157"
+            ],
+            [
+                "159",
+                "162"
+            ],
+            [
+                "178",
+                "179"
+            ],
+            [
+                "183",
+                "184"
+            ],
+            [
+                "187",
+                "188"
+            ],
+            [
+                "199",
+                "200"
+            ],
+            [
+                "202",
+                "202"
+            ],
+            [
+                "205",
+                "206"
+            ],
+            [
+                "214",
+                "214"
+            ],
+            [
+                "225",
+                "226"
+            ],
+            [
+                "245",
+                "245"
+            ],
+            [
+                "250",
+                "251"
+            ],
+            [
+                "271",
+                "275"
+            ],
+            [
+                "294",
+                "297"
+            ],
+            [
+                "331",
+                "331"
+            ]
+        ],
+        "BENEDICK": [
+            [
+                "121",
+                "121"
+            ],
+            [
+                "128",
+                "129"
+            ],
+            [
+                "133",
+                "133"
+            ],
+            [
+                "142",
+                "143"
+            ],
+            [
+                "149",
+                "149"
+            ],
+            [
+                "151",
+                "156"
+            ],
+            [
+                "163",
+                "163"
+            ],
+            [
+                "189",
+                "197"
+            ]
+        ],
+        "DOGBERRY": [
+            [
+                "209",
+                "211"
+            ],
+            [
+                "216",
+                "220"
+            ],
+            [
+                "252",
+                "255"
+            ],
+            [
+                "307",
+                "315"
+            ],
+            [
+                "317",
+                "318"
+            ],
+            [
+                "320",
+                "320"
+            ],
+            [
+                "322",
+                "327"
+            ]
+        ],
+        "BORACHIO": [
+            [
+                "230",
+                "243"
+            ],
+            [
+                "247",
+                "247"
+            ],
+            [
+                "261",
+                "261"
+            ],
+            [
+                "264",
+                "264"
+            ],
+            [
+                "303",
+                "306"
+            ]
+        ],
+        "VERGES": [
+            [
+                "256",
+                "257"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "Before LEONATO'S house."
+}

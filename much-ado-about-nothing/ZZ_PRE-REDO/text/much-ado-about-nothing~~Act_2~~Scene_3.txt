@@ -100,9 +100,9 @@ Of dumps so dull and heavy;
 The fraud of men was ever so,
 Since summer first was leafy:
 Then sigh not so, but let them go
-And be you blithe and bonny,
-Converting all your sounds of woe
-Into Hey, nonny nonny.
+ And be you blithe and bonny,
+ Converting all your sounds of woe
+ Into Hey, nonny nonny.
 _R_DON PEDRO
 By my troth, a good song.
 _R_BALTHASAR
@@ -291,7 +291,8 @@ scene that I would see, which will be merely a
 dumb-show. Let us send her to call him in to dinner.
 _D_Exeunt DON PEDRO, CLAUDIO, and LEONATO
 _R_BENEDICK
-[Coming forward] This can be no trick: the
+_D_Coming forward
+This can be no trick: the
 conference was sadly borne. They have the truth of
 this from Hero. They seem to pity the lady: it
 seems her affections have their full bent. Love me!

@@ -1,0 +1,1224 @@
+{
+    "scene_id": "a midsummer night's dream~~Act_3~~Scene_1",
+    "work_number": "3",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "BOTTOM",
+            "Are we all met?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "QUINCE",
+            "Pat, pat; and here's a marvellous convenient place"
+        ],
+        [
+            "QUINCE",
+            "for our rehearsal. This green plot shall be our"
+        ],
+        [
+            "QUINCE",
+            "stage, this hawthorn-brake our tiring-house; and we"
+        ],
+        [
+            "QUINCE",
+            "will do it in action as we will do it before the duke."
+        ],
+        [
+            "BOTTOM",
+            "Peter Quince,--"
+        ],
+        [
+            "QUINCE",
+            "What sayest thou, bully Bottom?"
+        ],
+        [
+            "BOTTOM",
+            "There are things in this comedy of Pyramus and"
+        ],
+        [
+            "BOTTOM",
+            "Thisby that will never please. First, Pyramus must"
+        ],
+        [
+            "BOTTOM",
+            "draw a sword to kill himself; which the ladies"
+        ],
+        [
+            "BOTTOM",
+            "cannot abide. How answer you that?"
+        ],
+        [
+            "SNOUT",
+            "By'r lakin, a parlous fear."
+        ],
+        [
+            "STARVELING",
+            "I believe we must leave the killing out, when all is done."
+        ],
+        [
+            "BOTTOM",
+            "Not a whit: I have a device to make all well."
+        ],
+        [
+            "BOTTOM",
+            "Write me a prologue; and let the prologue seem to"
+        ],
+        [
+            "BOTTOM",
+            "say, we will do no harm with our swords, and that"
+        ],
+        [
+            "BOTTOM",
+            "Pyramus is not killed indeed; and, for the more"
+        ],
+        [
+            "BOTTOM",
+            "better assurance, tell them that I, Pyramus, am not"
+        ],
+        [
+            "BOTTOM",
+            "Pyramus, but Bottom the weaver: this will put them"
+        ],
+        [
+            "BOTTOM",
+            "out of fear."
+        ],
+        [
+            "QUINCE",
+            "Well, we will have such a prologue; and it shall be"
+        ],
+        [
+            "QUINCE",
+            "written in eight and six."
+        ],
+        [
+            "BOTTOM",
+            "No, make it two more; let it be written in eight and eight."
+        ],
+        [
+            "SNOUT",
+            "Will not the ladies be afeard of the lion?"
+        ],
+        [
+            "STARVELING",
+            "I fear it, I promise you."
+        ],
+        [
+            "BOTTOM",
+            "Masters, you ought to consider with yourselves: to"
+        ],
+        [
+            "BOTTOM",
+            "bring in--God shield us!--a lion among ladies, is a"
+        ],
+        [
+            "BOTTOM",
+            "most dreadful thing; for there is not a more fearful"
+        ],
+        [
+            "BOTTOM",
+            "wild-fowl than your lion living; and we ought to"
+        ],
+        [
+            "BOTTOM",
+            "look to 't."
+        ],
+        [
+            "SNOUT",
+            "Therefore another prologue must tell he is not a lion."
+        ],
+        [
+            "BOTTOM",
+            "Nay, you must name his name, and half his face must"
+        ],
+        [
+            "BOTTOM",
+            "be seen through the lion's neck: and he himself"
+        ],
+        [
+            "BOTTOM",
+            "must speak through, saying thus, or to the same"
+        ],
+        [
+            "BOTTOM",
+            "defect,--'Ladies,'--or 'Fair-ladies--I would wish"
+        ],
+        [
+            "BOTTOM",
+            "You,'--or 'I would request you,'--or 'I would"
+        ],
+        [
+            "BOTTOM",
+            "entreat you,--not to fear, not to tremble: my life"
+        ],
+        [
+            "BOTTOM",
+            "for yours. If you think I come hither as a lion, it"
+        ],
+        [
+            "BOTTOM",
+            "were pity of my life: no I am no such thing; I am a"
+        ],
+        [
+            "BOTTOM",
+            "man as other men are;' and there indeed let him name"
+        ],
+        [
+            "BOTTOM",
+            "his name, and tell them plainly he is Snug the joiner."
+        ],
+        [
+            "QUINCE",
+            "Well it shall be so. But there is two hard things;"
+        ],
+        [
+            "QUINCE",
+            "that is, to bring the moonlight into a chamber; for,"
+        ],
+        [
+            "QUINCE",
+            "you know, Pyramus and Thisby meet by moonlight."
+        ],
+        [
+            "SNOUT",
+            "Doth the moon shine that night we play our play?"
+        ],
+        [
+            "BOTTOM",
+            "A calendar, a calendar! look in the almanac; find"
+        ],
+        [
+            "BOTTOM",
+            "out moonshine, find out moonshine."
+        ],
+        [
+            "QUINCE",
+            "Yes, it doth shine that night."
+        ],
+        [
+            "BOTTOM",
+            "Why, then may you leave a casement of the great"
+        ],
+        [
+            "BOTTOM",
+            "chamber window, where we play, open, and the moon"
+        ],
+        [
+            "BOTTOM",
+            "may shine in at the casement."
+        ],
+        [
+            "QUINCE",
+            "Ay; or else one must come in with a bush of thorns"
+        ],
+        [
+            "QUINCE",
+            "and a lanthorn, and say he comes to disfigure, or to"
+        ],
+        [
+            "QUINCE",
+            "present, the person of Moonshine. Then, there is"
+        ],
+        [
+            "QUINCE",
+            "another thing: we must have a wall in the great"
+        ],
+        [
+            "QUINCE",
+            "chamber; for Pyramus and Thisby says the story, did"
+        ],
+        [
+            "QUINCE",
+            "talk through the chink of a wall."
+        ],
+        [
+            "SNOUT",
+            "You can never bring in a wall. What say you, Bottom?"
+        ],
+        [
+            "BOTTOM",
+            "Some man or other must present Wall: and let him"
+        ],
+        [
+            "BOTTOM",
+            "have some plaster, or some loam, or some rough-cast"
+        ],
+        [
+            "BOTTOM",
+            "about him, to signify wall; and let him hold his"
+        ],
+        [
+            "BOTTOM",
+            "fingers thus, and through that cranny shall Pyramus"
+        ],
+        [
+            "BOTTOM",
+            "and Thisby whisper."
+        ],
+        [
+            "QUINCE",
+            "If that may be, then all is well. Come, sit down,"
+        ],
+        [
+            "QUINCE",
+            "every mother's son, and rehearse your parts."
+        ],
+        [
+            "QUINCE",
+            "Pyramus, you begin: when you have spoken your"
+        ],
+        [
+            "QUINCE",
+            "speech, enter into that brake: and so every one"
+        ],
+        [
+            "QUINCE",
+            "according to his cue.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "PUCK",
+            "What hempen home-spuns have we swaggering here,",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "PUCK",
+            "So near the cradle of the fairy queen?"
+        ],
+        [
+            "PUCK",
+            "What, a play toward! I'll be an auditor;"
+        ],
+        [
+            "PUCK",
+            "An actor too, perhaps, if I see cause."
+        ],
+        [
+            "QUINCE",
+            "Speak, Pyramus. Thisby, stand forth."
+        ],
+        [
+            "BOTTOM",
+            "Thisby, the flowers of odious savours sweet,--"
+        ],
+        [
+            "QUINCE",
+            "Odours, odours."
+        ],
+        [
+            "BOTTOM",
+            "--odours savours sweet:"
+        ],
+        [
+            "BOTTOM",
+            "So hath thy breath, my dearest Thisby dear."
+        ],
+        [
+            "BOTTOM",
+            "But hark, a voice! stay thou but here awhile,"
+        ],
+        [
+            "BOTTOM",
+            "And by and by I will to thee appear.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "PUCK",
+            "A stranger Pyramus than e'er played here.",
+            {
+                "preceding_direction_line": "3",
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "FLUTE",
+            "Must I speak now?",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "QUINCE",
+            "Ay, marry, must you; for you must understand he goes"
+        ],
+        [
+            "QUINCE",
+            "but to see a noise that he heard, and is to come again."
+        ],
+        [
+            "FLUTE",
+            "Most radiant Pyramus, most lily-white of hue,"
+        ],
+        [
+            "FLUTE",
+            "Of colour like the red rose on triumphant brier,"
+        ],
+        [
+            "FLUTE",
+            "Most brisky juvenal and eke most lovely Jew,"
+        ],
+        [
+            "FLUTE",
+            "As true as truest horse that yet would never tire,"
+        ],
+        [
+            "FLUTE",
+            "I'll meet thee, Pyramus, at Ninny's tomb."
+        ],
+        [
+            "QUINCE",
+            "'Ninus' tomb,' man: why, you must not speak that"
+        ],
+        [
+            "QUINCE",
+            "yet; that you answer to Pyramus: you speak all your"
+        ],
+        [
+            "QUINCE",
+            "part at once, cues and all Pyramus enter: your cue"
+        ],
+        [
+            "QUINCE",
+            "is past; it is, 'never tire.'"
+        ],
+        [
+            "FLUTE",
+            "O,--As true as truest horse, that yet would"
+        ],
+        [
+            "FLUTE",
+            "never tire.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "BOTTOM",
+            "If I were fair, Thisby, I were only thine.",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "QUINCE",
+            "O monstrous! O strange! we are haunted. Pray,"
+        ],
+        [
+            "QUINCE",
+            "masters! fly, masters! Help!",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "PUCK",
+            "I'll follow you, I'll lead you about a round,",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "PUCK",
+            "Through bog, through bush, through brake, through brier:"
+        ],
+        [
+            "PUCK",
+            "Sometime a horse I'll be, sometime a hound,"
+        ],
+        [
+            "PUCK",
+            "A hog, a headless bear, sometime a fire;"
+        ],
+        [
+            "PUCK",
+            "And neigh, and bark, and grunt, and roar, and burn,"
+        ],
+        [
+            "PUCK",
+            "Like horse, hound, hog, bear, fire, at every turn.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "BOTTOM",
+            "Why do they run away? this is a knavery of them to",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "BOTTOM",
+            "make me afeard.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "SNOUT",
+            "O Bottom, thou art changed! what do I see on thee?",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "BOTTOM",
+            "What do you see? you see an asshead of your own, do"
+        ],
+        [
+            "BOTTOM",
+            "you?",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "QUINCE",
+            "Bless thee, Bottom! bless thee! thou art",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "QUINCE",
+            "translated.",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "BOTTOM",
+            "I see their knavery: this is to make an ass of me;",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "BOTTOM",
+            "to fright me, if they could. But I will not stir"
+        ],
+        [
+            "BOTTOM",
+            "from this place, do what they can: I will walk up"
+        ],
+        [
+            "BOTTOM",
+            "and down here, and I will sing, that they shall hear"
+        ],
+        [
+            "BOTTOM",
+            "I am not afraid.",
+            {
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "BOTTOM",
+            "The ousel cock so black of hue,",
+            {
+                "preceding_direction_line": "11"
+            }
+        ],
+        [
+            "BOTTOM",
+            "With orange-tawny bill,"
+        ],
+        [
+            "BOTTOM",
+            "The throstle with his note so true,"
+        ],
+        [
+            "BOTTOM",
+            "The wren with little quill,--"
+        ],
+        [
+            "TITANIA",
+            "[Awaking] What angel wakes me from my flowery bed?"
+        ],
+        [
+            "BOTTOM",
+            "[Sings]"
+        ],
+        [
+            "BOTTOM",
+            "The finch, the sparrow and the lark,"
+        ],
+        [
+            "BOTTOM",
+            "The plain-song cuckoo gray,"
+        ],
+        [
+            "BOTTOM",
+            "Whose note full many a man doth mark,"
+        ],
+        [
+            "BOTTOM",
+            "And dares not answer nay;--"
+        ],
+        [
+            "BOTTOM",
+            "for, indeed, who would set his wit to so foolish"
+        ],
+        [
+            "BOTTOM",
+            "a bird? who would give a bird the lie, though he cry"
+        ],
+        [
+            "BOTTOM",
+            "'cuckoo' never so?"
+        ],
+        [
+            "TITANIA",
+            "I pray thee, gentle mortal, sing again:"
+        ],
+        [
+            "TITANIA",
+            "Mine ear is much enamour'd of thy note;"
+        ],
+        [
+            "TITANIA",
+            "So is mine eye enthralled to thy shape;"
+        ],
+        [
+            "TITANIA",
+            "And thy fair virtue's force perforce doth move me"
+        ],
+        [
+            "TITANIA",
+            "On the first view to say, to swear, I love thee."
+        ],
+        [
+            "BOTTOM",
+            "Methinks, mistress, you should have little reason"
+        ],
+        [
+            "BOTTOM",
+            "for that: and yet, to say the truth, reason and"
+        ],
+        [
+            "BOTTOM",
+            "love keep little company together now-a-days; the"
+        ],
+        [
+            "BOTTOM",
+            "more the pity that some honest neighbours will not"
+        ],
+        [
+            "BOTTOM",
+            "make them friends. Nay, I can gleek upon occasion."
+        ],
+        [
+            "TITANIA",
+            "Thou art as wise as thou art beautiful."
+        ],
+        [
+            "BOTTOM",
+            "Not so, neither: but if I had wit enough to get out"
+        ],
+        [
+            "BOTTOM",
+            "of this wood, I have enough to serve mine own turn."
+        ],
+        [
+            "TITANIA",
+            "Out of this wood do not desire to go:"
+        ],
+        [
+            "TITANIA",
+            "Thou shalt remain here, whether thou wilt or no."
+        ],
+        [
+            "TITANIA",
+            "I am a spirit of no common rate;"
+        ],
+        [
+            "TITANIA",
+            "The summer still doth tend upon my state;"
+        ],
+        [
+            "TITANIA",
+            "And I do love thee: therefore, go with me;"
+        ],
+        [
+            "TITANIA",
+            "I'll give thee fairies to attend on thee,"
+        ],
+        [
+            "TITANIA",
+            "And they shall fetch thee jewels from the deep,"
+        ],
+        [
+            "TITANIA",
+            "And sing while thou on pressed flowers dost sleep;"
+        ],
+        [
+            "TITANIA",
+            "And I will purge thy mortal grossness so"
+        ],
+        [
+            "TITANIA",
+            "That thou shalt like an airy spirit go."
+        ],
+        [
+            "TITANIA",
+            "Peaseblossom! Cobweb! Moth! and Mustardseed!",
+            {
+                "following_direction_line": "12"
+            }
+        ],
+        [
+            "PEASEBLOSSOM",
+            "Ready.",
+            {
+                "preceding_direction_line": "12"
+            }
+        ],
+        [
+            "COBWEB",
+            "And I."
+        ],
+        [
+            "MOTH",
+            "And I."
+        ],
+        [
+            "MUSTARDSEED",
+            "And I."
+        ],
+        [
+            "ALL",
+            "Where shall we go?"
+        ],
+        [
+            "TITANIA",
+            "Be kind and courteous to this gentleman;"
+        ],
+        [
+            "TITANIA",
+            "Hop in his walks and gambol in his eyes;"
+        ],
+        [
+            "TITANIA",
+            "Feed him with apricocks and dewberries,"
+        ],
+        [
+            "TITANIA",
+            "With purple grapes, green figs, and mulberries;"
+        ],
+        [
+            "TITANIA",
+            "The honey-bags steal from the humble-bees,"
+        ],
+        [
+            "TITANIA",
+            "And for night-tapers crop their waxen thighs"
+        ],
+        [
+            "TITANIA",
+            "And light them at the fiery glow-worm's eyes,"
+        ],
+        [
+            "TITANIA",
+            "To have my love to bed and to arise;"
+        ],
+        [
+            "TITANIA",
+            "And pluck the wings from Painted butterflies"
+        ],
+        [
+            "TITANIA",
+            "To fan the moonbeams from his sleeping eyes:"
+        ],
+        [
+            "TITANIA",
+            "Nod to him, elves, and do him courtesies."
+        ],
+        [
+            "PEASEBLOSSOM",
+            "Hail, mortal!"
+        ],
+        [
+            "COBWEB",
+            "Hail!"
+        ],
+        [
+            "MOTH",
+            "Hail!"
+        ],
+        [
+            "MUSTARDSEED",
+            "Hail!"
+        ],
+        [
+            "BOTTOM",
+            "I cry your worship's mercy, heartily: I beseech your"
+        ],
+        [
+            "BOTTOM",
+            "worship's name."
+        ],
+        [
+            "COBWEB",
+            "Cobweb."
+        ],
+        [
+            "BOTTOM",
+            "I shall desire you of more acquaintance, good Master"
+        ],
+        [
+            "BOTTOM",
+            "Cobweb: if I cut my finger, I shall make bold with"
+        ],
+        [
+            "BOTTOM",
+            "you. Your name, honest gentleman?"
+        ],
+        [
+            "PEASEBLOSSOM",
+            "Peaseblossom."
+        ],
+        [
+            "BOTTOM",
+            "I pray you, commend me to Mistress Squash, your"
+        ],
+        [
+            "BOTTOM",
+            "mother, and to Master Peascod, your father. Good"
+        ],
+        [
+            "BOTTOM",
+            "Master Peaseblossom, I shall desire you of more"
+        ],
+        [
+            "BOTTOM",
+            "acquaintance too. Your name, I beseech you, sir?"
+        ],
+        [
+            "MUSTARDSEED",
+            "Mustardseed."
+        ],
+        [
+            "BOTTOM",
+            "Good Master Mustardseed, I know your patience well:"
+        ],
+        [
+            "BOTTOM",
+            "that same cowardly, giant-like ox-beef hath"
+        ],
+        [
+            "BOTTOM",
+            "devoured many a gentleman of your house: I promise"
+        ],
+        [
+            "BOTTOM",
+            "you your kindred had made my eyes water ere now. I"
+        ],
+        [
+            "BOTTOM",
+            "desire your more acquaintance, good Master"
+        ],
+        [
+            "BOTTOM",
+            "Mustardseed."
+        ],
+        [
+            "TITANIA",
+            "Come, wait upon him; lead him to my bower."
+        ],
+        [
+            "TITANIA",
+            "The moon methinks looks with a watery eye;"
+        ],
+        [
+            "TITANIA",
+            "And when she weeps, weeps every little flower,"
+        ],
+        [
+            "TITANIA",
+            "Lamenting some enforced chastity."
+        ],
+        [
+            "TITANIA",
+            "Tie up my love's tongue bring him silently.",
+            {
+                "following_direction_line": "13"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter QUINCE, SNUG, BOTTOM, FLUTE, SNOUT, and STARVELING"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter PUCK behind"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Re-enter PUCK, and BOTTOM with an ass's head"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exeunt QUINCE, SNUG, FLUTE, SNOUT, and STARVELING"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Re-enter SNOUT"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Exit SNOUT. Re-enter QUINCE"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "Sings"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Enter PEASEBLOSSOM, COBWEB, MOTH, and MUSTARDSEED"
+        ],
+        [
+            "_DIRECTION",
+            "D13",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "BOTTOM": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "6",
+                "6"
+            ],
+            [
+                "8",
+                "11"
+            ],
+            [
+                "14",
+                "20"
+            ],
+            [
+                "23",
+                "23"
+            ],
+            [
+                "26",
+                "30"
+            ],
+            [
+                "32",
+                "41"
+            ],
+            [
+                "46",
+                "47"
+            ],
+            [
+                "49",
+                "51"
+            ],
+            [
+                "59",
+                "63"
+            ],
+            [
+                "74",
+                "74"
+            ],
+            [
+                "76",
+                "79"
+            ],
+            [
+                "95",
+                "95"
+            ],
+            [
+                "104",
+                "105"
+            ],
+            [
+                "107",
+                "108"
+            ],
+            [
+                "111",
+                "119"
+            ],
+            [
+                "121",
+                "128"
+            ],
+            [
+                "134",
+                "138"
+            ],
+            [
+                "140",
+                "141"
+            ],
+            [
+                "173",
+                "174"
+            ],
+            [
+                "176",
+                "178"
+            ],
+            [
+                "180",
+                "183"
+            ],
+            [
+                "185",
+                "190"
+            ]
+        ],
+        "QUINCE": [
+            [
+                "2",
+                "5"
+            ],
+            [
+                "7",
+                "7"
+            ],
+            [
+                "21",
+                "22"
+            ],
+            [
+                "42",
+                "44"
+            ],
+            [
+                "48",
+                "48"
+            ],
+            [
+                "52",
+                "57"
+            ],
+            [
+                "64",
+                "68"
+            ],
+            [
+                "73",
+                "73"
+            ],
+            [
+                "75",
+                "75"
+            ],
+            [
+                "82",
+                "83"
+            ],
+            [
+                "89",
+                "92"
+            ],
+            [
+                "96",
+                "97"
+            ],
+            [
+                "109",
+                "110"
+            ]
+        ],
+        "SNOUT": [
+            [
+                "12",
+                "12"
+            ],
+            [
+                "24",
+                "24"
+            ],
+            [
+                "31",
+                "31"
+            ],
+            [
+                "45",
+                "45"
+            ],
+            [
+                "58",
+                "58"
+            ],
+            [
+                "106",
+                "106"
+            ]
+        ],
+        "STARVELING": [
+            [
+                "13",
+                "13"
+            ],
+            [
+                "25",
+                "25"
+            ]
+        ],
+        "PUCK": [
+            [
+                "69",
+                "72"
+            ],
+            [
+                "80",
+                "80"
+            ],
+            [
+                "98",
+                "103"
+            ]
+        ],
+        "FLUTE": [
+            [
+                "81",
+                "81"
+            ],
+            [
+                "84",
+                "88"
+            ],
+            [
+                "93",
+                "94"
+            ]
+        ],
+        "TITANIA": [
+            [
+                "120",
+                "120"
+            ],
+            [
+                "129",
+                "133"
+            ],
+            [
+                "139",
+                "139"
+            ],
+            [
+                "142",
+                "152"
+            ],
+            [
+                "158",
+                "168"
+            ],
+            [
+                "191",
+                "195"
+            ]
+        ],
+        "PEASEBLOSSOM": [
+            [
+                "153",
+                "153"
+            ],
+            [
+                "169",
+                "169"
+            ],
+            [
+                "179",
+                "179"
+            ]
+        ],
+        "COBWEB": [
+            [
+                "154",
+                "154"
+            ],
+            [
+                "170",
+                "170"
+            ],
+            [
+                "175",
+                "175"
+            ]
+        ],
+        "MOTH": [
+            [
+                "155",
+                "155"
+            ],
+            [
+                "171",
+                "171"
+            ]
+        ],
+        "MUSTARDSEED": [
+            [
+                "156",
+                "156"
+            ],
+            [
+                "172",
+                "172"
+            ],
+            [
+                "184",
+                "184"
+            ]
+        ],
+        "ALL": [
+            [
+                "157",
+                "157"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "The wood. TITANIA lying asleep."
+}

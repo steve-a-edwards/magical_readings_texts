@@ -1,0 +1,582 @@
+{
+    "scene_id": "much ado about nothing~~Act_3~~Scene_4",
+    "work_number": "7",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "HERO",
+            "Good Ursula, wake my cousin Beatrice, and desire",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "HERO",
+            "her to rise."
+        ],
+        [
+            "URSULA",
+            "I will, lady."
+        ],
+        [
+            "HERO",
+            "And bid her come hither."
+        ],
+        [
+            "URSULA",
+            "Well.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "MARGARET",
+            "Troth, I think your other rabato were better.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "HERO",
+            "No, pray thee, good Meg, I'll wear this."
+        ],
+        [
+            "MARGARET",
+            "By my troth, 's not so good; and I warrant your"
+        ],
+        [
+            "MARGARET",
+            "cousin will say so."
+        ],
+        [
+            "HERO",
+            "My cousin's a fool, and thou art another: I'll wear"
+        ],
+        [
+            "HERO",
+            "none but this."
+        ],
+        [
+            "MARGARET",
+            "I like the new tire within excellently, if the hair"
+        ],
+        [
+            "MARGARET",
+            "were a thought browner; and your gown's a most rare"
+        ],
+        [
+            "MARGARET",
+            "fashion, i' faith. I saw the Duchess of Milan's"
+        ],
+        [
+            "MARGARET",
+            "gown that they praise so."
+        ],
+        [
+            "HERO",
+            "O, that exceeds, they say."
+        ],
+        [
+            "MARGARET",
+            "By my troth, 's but a night-gown in respect of"
+        ],
+        [
+            "MARGARET",
+            "yours: cloth o' gold, and cuts, and laced with"
+        ],
+        [
+            "MARGARET",
+            "silver, set with pearls, down sleeves, side sleeves,"
+        ],
+        [
+            "MARGARET",
+            "and skirts, round underborne with a bluish tinsel:"
+        ],
+        [
+            "MARGARET",
+            "but for a fine, quaint, graceful and excellent"
+        ],
+        [
+            "MARGARET",
+            "fashion, yours is worth ten on 't."
+        ],
+        [
+            "HERO",
+            "God give me joy to wear it! for my heart is"
+        ],
+        [
+            "HERO",
+            "exceeding heavy."
+        ],
+        [
+            "MARGARET",
+            "'Twill be heavier soon by the weight of a man."
+        ],
+        [
+            "HERO",
+            "Fie upon thee! art not ashamed?"
+        ],
+        [
+            "MARGARET",
+            "Of what, lady? of speaking honourably? Is not"
+        ],
+        [
+            "MARGARET",
+            "marriage honourable in a beggar? Is not your lord"
+        ],
+        [
+            "MARGARET",
+            "honourable without marriage? I think you would have"
+        ],
+        [
+            "MARGARET",
+            "me say, 'saving your reverence, a husband:' and bad"
+        ],
+        [
+            "MARGARET",
+            "thinking do not wrest true speaking, I'll offend"
+        ],
+        [
+            "MARGARET",
+            "nobody: is there any harm in 'the heavier for a"
+        ],
+        [
+            "MARGARET",
+            "husband'? None, I think, and it be the right husband"
+        ],
+        [
+            "MARGARET",
+            "and the right wife; otherwise 'tis light, and not"
+        ],
+        [
+            "MARGARET",
+            "heavy: ask my Lady Beatrice else; here she comes.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "HERO",
+            "Good morrow, coz.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "BEATRICE",
+            "Good morrow, sweet Hero."
+        ],
+        [
+            "HERO",
+            "Why how now? do you speak in the sick tune?"
+        ],
+        [
+            "BEATRICE",
+            "I am out of all other tune, methinks."
+        ],
+        [
+            "MARGARET",
+            "Clap's into 'Light o' love;' that goes without a"
+        ],
+        [
+            "MARGARET",
+            "burden: do you sing it, and I'll dance it."
+        ],
+        [
+            "BEATRICE",
+            "Ye light o' love, with your heels! then, if your"
+        ],
+        [
+            "BEATRICE",
+            "husband have stables enough, you'll see he shall"
+        ],
+        [
+            "BEATRICE",
+            "lack no barns."
+        ],
+        [
+            "MARGARET",
+            "O illegitimate construction! I scorn that with my heels."
+        ],
+        [
+            "BEATRICE",
+            "'Tis almost five o'clock, cousin; tis time you were"
+        ],
+        [
+            "BEATRICE",
+            "ready. By my troth, I am exceeding ill: heigh-ho!"
+        ],
+        [
+            "MARGARET",
+            "For a hawk, a horse, or a husband?"
+        ],
+        [
+            "BEATRICE",
+            "For the letter that begins them all, H."
+        ],
+        [
+            "MARGARET",
+            "Well, and you be not turned Turk, there's no more"
+        ],
+        [
+            "MARGARET",
+            "sailing by the star."
+        ],
+        [
+            "BEATRICE",
+            "What means the fool, trow?"
+        ],
+        [
+            "MARGARET",
+            "Nothing I; but God send every one their heart's desire!"
+        ],
+        [
+            "HERO",
+            "These gloves the count sent me; they are an"
+        ],
+        [
+            "HERO",
+            "excellent perfume."
+        ],
+        [
+            "BEATRICE",
+            "I am stuffed, cousin; I cannot smell."
+        ],
+        [
+            "MARGARET",
+            "A maid, and stuffed! there's goodly catching of cold."
+        ],
+        [
+            "BEATRICE",
+            "O, God help me! God help me! how long have you"
+        ],
+        [
+            "BEATRICE",
+            "professed apprehension?"
+        ],
+        [
+            "MARGARET",
+            "Even since you left it. Doth not my wit become me rarely?"
+        ],
+        [
+            "BEATRICE",
+            "It is not seen enough, you should wear it in your"
+        ],
+        [
+            "BEATRICE",
+            "cap. By my troth, I am sick."
+        ],
+        [
+            "MARGARET",
+            "Get you some of this distilled Carduus Benedictus,"
+        ],
+        [
+            "MARGARET",
+            "and lay it to your heart: it is the only thing for a qualm."
+        ],
+        [
+            "HERO",
+            "There thou prickest her with a thistle."
+        ],
+        [
+            "BEATRICE",
+            "Benedictus! why Benedictus? you have some moral in"
+        ],
+        [
+            "BEATRICE",
+            "this Benedictus."
+        ],
+        [
+            "MARGARET",
+            "Moral! no, by my troth, I have no moral meaning; I"
+        ],
+        [
+            "MARGARET",
+            "meant, plain holy-thistle. You may think perchance"
+        ],
+        [
+            "MARGARET",
+            "that I think you are in love: nay, by'r lady, I am"
+        ],
+        [
+            "MARGARET",
+            "not such a fool to think what I list, nor I list"
+        ],
+        [
+            "MARGARET",
+            "not to think what I can, nor indeed I cannot think,"
+        ],
+        [
+            "MARGARET",
+            "if I would think my heart out of thinking, that you"
+        ],
+        [
+            "MARGARET",
+            "are in love or that you will be in love or that you"
+        ],
+        [
+            "MARGARET",
+            "can be in love. Yet Benedick was such another, and"
+        ],
+        [
+            "MARGARET",
+            "now is he become a man: he swore he would never"
+        ],
+        [
+            "MARGARET",
+            "marry, and yet now, in despite of his heart, he eats"
+        ],
+        [
+            "MARGARET",
+            "his meat without grudging: and how you may be"
+        ],
+        [
+            "MARGARET",
+            "converted I know not, but methinks you look with"
+        ],
+        [
+            "MARGARET",
+            "your eyes as other women do."
+        ],
+        [
+            "BEATRICE",
+            "What pace is this that thy tongue keeps?"
+        ],
+        [
+            "MARGARET",
+            "Not a false gallop.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "URSULA",
+            "Madam, withdraw: the prince, the count, Signior",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "URSULA",
+            "Benedick, Don John, and all the gallants of the"
+        ],
+        [
+            "URSULA",
+            "town, are come to fetch you to church."
+        ],
+        [
+            "HERO",
+            "Help to dress me, good coz, good Meg, good Ursula.",
+            {
+                "following_direction_line": "5"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter HERO, MARGARET, and URSULA"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter BEATRICE"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Re-enter URSULA"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "HERO": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "4",
+                "4"
+            ],
+            [
+                "7",
+                "7"
+            ],
+            [
+                "10",
+                "11"
+            ],
+            [
+                "16",
+                "16"
+            ],
+            [
+                "23",
+                "24"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "36",
+                "36"
+            ],
+            [
+                "38",
+                "38"
+            ],
+            [
+                "54",
+                "55"
+            ],
+            [
+                "65",
+                "65"
+            ],
+            [
+                "86",
+                "86"
+            ]
+        ],
+        "URSULA": [
+            [
+                "3",
+                "3"
+            ],
+            [
+                "5",
+                "5"
+            ],
+            [
+                "83",
+                "85"
+            ]
+        ],
+        "MARGARET": [
+            [
+                "6",
+                "6"
+            ],
+            [
+                "8",
+                "9"
+            ],
+            [
+                "12",
+                "15"
+            ],
+            [
+                "17",
+                "22"
+            ],
+            [
+                "25",
+                "25"
+            ],
+            [
+                "27",
+                "35"
+            ],
+            [
+                "40",
+                "41"
+            ],
+            [
+                "45",
+                "45"
+            ],
+            [
+                "48",
+                "48"
+            ],
+            [
+                "50",
+                "51"
+            ],
+            [
+                "53",
+                "53"
+            ],
+            [
+                "57",
+                "57"
+            ],
+            [
+                "60",
+                "60"
+            ],
+            [
+                "63",
+                "64"
+            ],
+            [
+                "68",
+                "80"
+            ],
+            [
+                "82",
+                "82"
+            ]
+        ],
+        "BEATRICE": [
+            [
+                "37",
+                "37"
+            ],
+            [
+                "39",
+                "39"
+            ],
+            [
+                "42",
+                "44"
+            ],
+            [
+                "46",
+                "47"
+            ],
+            [
+                "49",
+                "49"
+            ],
+            [
+                "52",
+                "52"
+            ],
+            [
+                "56",
+                "56"
+            ],
+            [
+                "58",
+                "59"
+            ],
+            [
+                "61",
+                "62"
+            ],
+            [
+                "66",
+                "67"
+            ],
+            [
+                "81",
+                "81"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IV",
+    "scene_description": "HERO's apartment."
+}

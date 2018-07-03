@@ -1,0 +1,1325 @@
+{
+    "scene_id": "a midsummer night's dream~~Act_1~~Scene_1",
+    "work_number": "3",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "THESEUS",
+            "Now, fair Hippolyta, our nuptial hour",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "THESEUS",
+            "Draws on apace; four happy days bring in"
+        ],
+        [
+            "THESEUS",
+            "Another moon: but, O, methinks, how slow"
+        ],
+        [
+            "THESEUS",
+            "This old moon wanes! she lingers my desires,"
+        ],
+        [
+            "THESEUS",
+            "Like to a step-dame or a dowager"
+        ],
+        [
+            "THESEUS",
+            "Long withering out a young man revenue."
+        ],
+        [
+            "HIPPOLYTA",
+            "Four days will quickly steep themselves in night;"
+        ],
+        [
+            "HIPPOLYTA",
+            "Four nights will quickly dream away the time;"
+        ],
+        [
+            "HIPPOLYTA",
+            "And then the moon, like to a silver bow"
+        ],
+        [
+            "HIPPOLYTA",
+            "New-bent in heaven, shall behold the night"
+        ],
+        [
+            "HIPPOLYTA",
+            "Of our solemnities."
+        ],
+        [
+            "THESEUS",
+            "Go, Philostrate,"
+        ],
+        [
+            "THESEUS",
+            "Stir up the Athenian youth to merriments;"
+        ],
+        [
+            "THESEUS",
+            "Awake the pert and nimble spirit of mirth;"
+        ],
+        [
+            "THESEUS",
+            "Turn melancholy forth to funerals;"
+        ],
+        [
+            "THESEUS",
+            "The pale companion is not for our pomp.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "THESEUS",
+            "Hippolyta, I woo'd thee with my sword,",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "THESEUS",
+            "And won thy love, doing thee injuries;"
+        ],
+        [
+            "THESEUS",
+            "But I will wed thee in another key,"
+        ],
+        [
+            "THESEUS",
+            "With pomp, with triumph and with revelling.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "EGEUS",
+            "Happy be Theseus, our renowned duke!",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "THESEUS",
+            "Thanks, good Egeus: what's the news with thee?"
+        ],
+        [
+            "EGEUS",
+            "Full of vexation come I, with complaint"
+        ],
+        [
+            "EGEUS",
+            "Against my child, my daughter Hermia."
+        ],
+        [
+            "EGEUS",
+            "Stand forth, Demetrius. My noble lord,"
+        ],
+        [
+            "EGEUS",
+            "This man hath my consent to marry her."
+        ],
+        [
+            "EGEUS",
+            "Stand forth, Lysander: and my gracious duke,"
+        ],
+        [
+            "EGEUS",
+            "This man hath bewitch'd the bosom of my child;"
+        ],
+        [
+            "EGEUS",
+            "Thou, thou, Lysander, thou hast given her rhymes,"
+        ],
+        [
+            "EGEUS",
+            "And interchanged love-tokens with my child:"
+        ],
+        [
+            "EGEUS",
+            "Thou hast by moonlight at her window sung,"
+        ],
+        [
+            "EGEUS",
+            "With feigning voice verses of feigning love,"
+        ],
+        [
+            "EGEUS",
+            "And stolen the impression of her fantasy"
+        ],
+        [
+            "EGEUS",
+            "With bracelets of thy hair, rings, gawds, conceits,"
+        ],
+        [
+            "EGEUS",
+            "Knacks, trifles, nosegays, sweetmeats, messengers"
+        ],
+        [
+            "EGEUS",
+            "Of strong prevailment in unharden'd youth:"
+        ],
+        [
+            "EGEUS",
+            "With cunning hast thou filch'd my daughter's heart,"
+        ],
+        [
+            "EGEUS",
+            "Turn'd her obedience, which is due to me,"
+        ],
+        [
+            "EGEUS",
+            "To stubborn harshness: and, my gracious duke,"
+        ],
+        [
+            "EGEUS",
+            "Be it so she; will not here before your grace"
+        ],
+        [
+            "EGEUS",
+            "Consent to marry with Demetrius,"
+        ],
+        [
+            "EGEUS",
+            "I beg the ancient privilege of Athens,"
+        ],
+        [
+            "EGEUS",
+            "As she is mine, I may dispose of her:"
+        ],
+        [
+            "EGEUS",
+            "Which shall be either to this gentleman"
+        ],
+        [
+            "EGEUS",
+            "Or to her death, according to our law"
+        ],
+        [
+            "EGEUS",
+            "Immediately provided in that case."
+        ],
+        [
+            "THESEUS",
+            "What say you, Hermia? be advised fair maid:"
+        ],
+        [
+            "THESEUS",
+            "To you your father should be as a god;"
+        ],
+        [
+            "THESEUS",
+            "One that composed your beauties, yea, and one"
+        ],
+        [
+            "THESEUS",
+            "To whom you are but as a form in wax"
+        ],
+        [
+            "THESEUS",
+            "By him imprinted and within his power"
+        ],
+        [
+            "THESEUS",
+            "To leave the figure or disfigure it."
+        ],
+        [
+            "THESEUS",
+            "Demetrius is a worthy gentleman."
+        ],
+        [
+            "HERMIA",
+            "So is Lysander."
+        ],
+        [
+            "THESEUS",
+            "In himself he is;"
+        ],
+        [
+            "THESEUS",
+            "But in this kind, wanting your father's voice,"
+        ],
+        [
+            "THESEUS",
+            "The other must be held the worthier."
+        ],
+        [
+            "HERMIA",
+            "I would my father look'd but with my eyes."
+        ],
+        [
+            "THESEUS",
+            "Rather your eyes must with his judgment look."
+        ],
+        [
+            "HERMIA",
+            "I do entreat your grace to pardon me."
+        ],
+        [
+            "HERMIA",
+            "I know not by what power I am made bold,"
+        ],
+        [
+            "HERMIA",
+            "Nor how it may concern my modesty,"
+        ],
+        [
+            "HERMIA",
+            "In such a presence here to plead my thoughts;"
+        ],
+        [
+            "HERMIA",
+            "But I beseech your grace that I may know"
+        ],
+        [
+            "HERMIA",
+            "The worst that may befall me in this case,"
+        ],
+        [
+            "HERMIA",
+            "If I refuse to wed Demetrius."
+        ],
+        [
+            "THESEUS",
+            "Either to die the death or to abjure"
+        ],
+        [
+            "THESEUS",
+            "For ever the society of men."
+        ],
+        [
+            "THESEUS",
+            "Therefore, fair Hermia, question your desires;"
+        ],
+        [
+            "THESEUS",
+            "Know of your youth, examine well your blood,"
+        ],
+        [
+            "THESEUS",
+            "Whether, if you yield not to your father's choice,"
+        ],
+        [
+            "THESEUS",
+            "You can endure the livery of a nun,"
+        ],
+        [
+            "THESEUS",
+            "For aye to be in shady cloister mew'd,"
+        ],
+        [
+            "THESEUS",
+            "To live a barren sister all your life,"
+        ],
+        [
+            "THESEUS",
+            "Chanting faint hymns to the cold fruitless moon."
+        ],
+        [
+            "THESEUS",
+            "Thrice-blessed they that master so their blood,"
+        ],
+        [
+            "THESEUS",
+            "To undergo such maiden pilgrimage;"
+        ],
+        [
+            "THESEUS",
+            "But earthlier happy is the rose distill'd,"
+        ],
+        [
+            "THESEUS",
+            "Than that which withering on the virgin thorn"
+        ],
+        [
+            "THESEUS",
+            "Grows, lives and dies in single blessedness."
+        ],
+        [
+            "HERMIA",
+            "So will I grow, so live, so die, my lord,"
+        ],
+        [
+            "HERMIA",
+            "Ere I will my virgin patent up"
+        ],
+        [
+            "HERMIA",
+            "Unto his lordship, whose unwished yoke"
+        ],
+        [
+            "HERMIA",
+            "My soul consents not to give sovereignty."
+        ],
+        [
+            "THESEUS",
+            "Take time to pause; and, by the next new moon--"
+        ],
+        [
+            "THESEUS",
+            "The sealing-day betwixt my love and me,"
+        ],
+        [
+            "THESEUS",
+            "For everlasting bond of fellowship--"
+        ],
+        [
+            "THESEUS",
+            "Upon that day either prepare to die"
+        ],
+        [
+            "THESEUS",
+            "For disobedience to your father's will,"
+        ],
+        [
+            "THESEUS",
+            "Or else to wed Demetrius, as he would;"
+        ],
+        [
+            "THESEUS",
+            "Or on Diana's altar to protest"
+        ],
+        [
+            "THESEUS",
+            "For aye austerity and single life."
+        ],
+        [
+            "DEMETRIUS",
+            "Relent, sweet Hermia: and, Lysander, yield"
+        ],
+        [
+            "DEMETRIUS",
+            "Thy crazed title to my certain right."
+        ],
+        [
+            "LYSANDER",
+            "You have her father's love, Demetrius;"
+        ],
+        [
+            "LYSANDER",
+            "Let me have Hermia's: do you marry him."
+        ],
+        [
+            "EGEUS",
+            "Scornful Lysander! true, he hath my love,"
+        ],
+        [
+            "EGEUS",
+            "And what is mine my love shall render him."
+        ],
+        [
+            "EGEUS",
+            "And she is mine, and all my right of her"
+        ],
+        [
+            "EGEUS",
+            "I do estate unto Demetrius."
+        ],
+        [
+            "LYSANDER",
+            "I am, my lord, as well derived as he,"
+        ],
+        [
+            "LYSANDER",
+            "As well possess'd; my love is more than his;"
+        ],
+        [
+            "LYSANDER",
+            "My fortunes every way as fairly rank'd,"
+        ],
+        [
+            "LYSANDER",
+            "If not with vantage, as Demetrius';"
+        ],
+        [
+            "LYSANDER",
+            "And, which is more than all these boasts can be,"
+        ],
+        [
+            "LYSANDER",
+            "I am beloved of beauteous Hermia:"
+        ],
+        [
+            "LYSANDER",
+            "Why should not I then prosecute my right?"
+        ],
+        [
+            "LYSANDER",
+            "Demetrius, I'll avouch it to his head,"
+        ],
+        [
+            "LYSANDER",
+            "Made love to Nedar's daughter, Helena,"
+        ],
+        [
+            "LYSANDER",
+            "And won her soul; and she, sweet lady, dotes,"
+        ],
+        [
+            "LYSANDER",
+            "Devoutly dotes, dotes in idolatry,"
+        ],
+        [
+            "LYSANDER",
+            "Upon this spotted and inconstant man."
+        ],
+        [
+            "THESEUS",
+            "I must confess that I have heard so much,"
+        ],
+        [
+            "THESEUS",
+            "And with Demetrius thought to have spoke thereof;"
+        ],
+        [
+            "THESEUS",
+            "But, being over-full of self-affairs,"
+        ],
+        [
+            "THESEUS",
+            "My mind did lose it. But, Demetrius, come;"
+        ],
+        [
+            "THESEUS",
+            "And come, Egeus; you shall go with me,"
+        ],
+        [
+            "THESEUS",
+            "I have some private schooling for you both."
+        ],
+        [
+            "THESEUS",
+            "For you, fair Hermia, look you arm yourself"
+        ],
+        [
+            "THESEUS",
+            "To fit your fancies to your father's will;"
+        ],
+        [
+            "THESEUS",
+            "Or else the law of Athens yields you up--"
+        ],
+        [
+            "THESEUS",
+            "Which by no means we may extenuate--"
+        ],
+        [
+            "THESEUS",
+            "To death, or to a vow of single life."
+        ],
+        [
+            "THESEUS",
+            "Come, my Hippolyta: what cheer, my love?"
+        ],
+        [
+            "THESEUS",
+            "Demetrius and Egeus, go along:"
+        ],
+        [
+            "THESEUS",
+            "I must employ you in some business"
+        ],
+        [
+            "THESEUS",
+            "Against our nuptial and confer with you"
+        ],
+        [
+            "THESEUS",
+            "Of something nearly that concerns yourselves."
+        ],
+        [
+            "EGEUS",
+            "With duty and desire we follow you.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "LYSANDER",
+            "How now, my love! why is your cheek so pale?",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "LYSANDER",
+            "How chance the roses there do fade so fast?"
+        ],
+        [
+            "HERMIA",
+            "Belike for want of rain, which I could well"
+        ],
+        [
+            "HERMIA",
+            "Beteem them from the tempest of my eyes."
+        ],
+        [
+            "LYSANDER",
+            "Ay me! for aught that I could ever read,"
+        ],
+        [
+            "LYSANDER",
+            "Could ever hear by tale or history,"
+        ],
+        [
+            "LYSANDER",
+            "The course of true love never did run smooth;"
+        ],
+        [
+            "LYSANDER",
+            "But, either it was different in blood,--"
+        ],
+        [
+            "HERMIA",
+            "O cross! too high to be enthrall'd to low."
+        ],
+        [
+            "LYSANDER",
+            "Or else misgraffed in respect of years,--"
+        ],
+        [
+            "HERMIA",
+            "O spite! too old to be engaged to young."
+        ],
+        [
+            "LYSANDER",
+            "Or else it stood upon the choice of friends,--"
+        ],
+        [
+            "HERMIA",
+            "O hell! to choose love by another's eyes."
+        ],
+        [
+            "LYSANDER",
+            "Or, if there were a sympathy in choice,"
+        ],
+        [
+            "LYSANDER",
+            "War, death, or sickness did lay siege to it,"
+        ],
+        [
+            "LYSANDER",
+            "Making it momentany as a sound,"
+        ],
+        [
+            "LYSANDER",
+            "Swift as a shadow, short as any dream;"
+        ],
+        [
+            "LYSANDER",
+            "Brief as the lightning in the collied night,"
+        ],
+        [
+            "LYSANDER",
+            "That, in a spleen, unfolds both heaven and earth,"
+        ],
+        [
+            "LYSANDER",
+            "And ere a man hath power to say 'Behold!'"
+        ],
+        [
+            "LYSANDER",
+            "The jaws of darkness do devour it up:"
+        ],
+        [
+            "LYSANDER",
+            "So quick bright things come to confusion."
+        ],
+        [
+            "HERMIA",
+            "If then true lovers have been ever cross'd,"
+        ],
+        [
+            "HERMIA",
+            "It stands as an edict in destiny:"
+        ],
+        [
+            "HERMIA",
+            "Then let us teach our trial patience,"
+        ],
+        [
+            "HERMIA",
+            "Because it is a customary cross,"
+        ],
+        [
+            "HERMIA",
+            "As due to love as thoughts and dreams and sighs,"
+        ],
+        [
+            "HERMIA",
+            "Wishes and tears, poor fancy's followers."
+        ],
+        [
+            "LYSANDER",
+            "A good persuasion: therefore, hear me, Hermia."
+        ],
+        [
+            "LYSANDER",
+            "I have a widow aunt, a dowager"
+        ],
+        [
+            "LYSANDER",
+            "Of great revenue, and she hath no child:"
+        ],
+        [
+            "LYSANDER",
+            "From Athens is her house remote seven leagues;"
+        ],
+        [
+            "LYSANDER",
+            "And she respects me as her only son."
+        ],
+        [
+            "LYSANDER",
+            "There, gentle Hermia, may I marry thee;"
+        ],
+        [
+            "LYSANDER",
+            "And to that place the sharp Athenian law"
+        ],
+        [
+            "LYSANDER",
+            "Cannot pursue us. If thou lovest me then,"
+        ],
+        [
+            "LYSANDER",
+            "Steal forth thy father's house to-morrow night;"
+        ],
+        [
+            "LYSANDER",
+            "And in the wood, a league without the town,"
+        ],
+        [
+            "LYSANDER",
+            "Where I did meet thee once with Helena,"
+        ],
+        [
+            "LYSANDER",
+            "To do observance to a morn of May,"
+        ],
+        [
+            "LYSANDER",
+            "There will I stay for thee."
+        ],
+        [
+            "HERMIA",
+            "My good Lysander!"
+        ],
+        [
+            "HERMIA",
+            "I swear to thee, by Cupid's strongest bow,"
+        ],
+        [
+            "HERMIA",
+            "By his best arrow with the golden head,"
+        ],
+        [
+            "HERMIA",
+            "By the simplicity of Venus' doves,"
+        ],
+        [
+            "HERMIA",
+            "By that which knitteth souls and prospers loves,"
+        ],
+        [
+            "HERMIA",
+            "And by that fire which burn'd the Carthage queen,"
+        ],
+        [
+            "HERMIA",
+            "When the false Troyan under sail was seen,"
+        ],
+        [
+            "HERMIA",
+            "By all the vows that ever men have broke,"
+        ],
+        [
+            "HERMIA",
+            "In number more than ever women spoke,"
+        ],
+        [
+            "HERMIA",
+            "In that same place thou hast appointed me,"
+        ],
+        [
+            "HERMIA",
+            "To-morrow truly will I meet with thee."
+        ],
+        [
+            "LYSANDER",
+            "Keep promise, love. Look, here comes Helena.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "HERMIA",
+            "God speed fair Helena! whither away?",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "HELENA",
+            "Call you me fair? that fair again unsay."
+        ],
+        [
+            "HELENA",
+            "Demetrius loves your fair: O happy fair!"
+        ],
+        [
+            "HELENA",
+            "Your eyes are lode-stars; and your tongue's sweet air"
+        ],
+        [
+            "HELENA",
+            "More tuneable than lark to shepherd's ear,"
+        ],
+        [
+            "HELENA",
+            "When wheat is green, when hawthorn buds appear."
+        ],
+        [
+            "HELENA",
+            "Sickness is catching: O, were favour so,"
+        ],
+        [
+            "HELENA",
+            "Yours would I catch, fair Hermia, ere I go;"
+        ],
+        [
+            "HELENA",
+            "My ear should catch your voice, my eye your eye,"
+        ],
+        [
+            "HELENA",
+            "My tongue should catch your tongue's sweet melody."
+        ],
+        [
+            "HELENA",
+            "Were the world mine, Demetrius being bated,"
+        ],
+        [
+            "HELENA",
+            "The rest I'd give to be to you translated."
+        ],
+        [
+            "HELENA",
+            "O, teach me how you look, and with what art"
+        ],
+        [
+            "HELENA",
+            "You sway the motion of Demetrius' heart."
+        ],
+        [
+            "HERMIA",
+            "I frown upon him, yet he loves me still."
+        ],
+        [
+            "HELENA",
+            "O that your frowns would teach my smiles such skill!"
+        ],
+        [
+            "HERMIA",
+            "I give him curses, yet he gives me love."
+        ],
+        [
+            "HELENA",
+            "O that my prayers could such affection move!"
+        ],
+        [
+            "HERMIA",
+            "The more I hate, the more he follows me."
+        ],
+        [
+            "HELENA",
+            "The more I love, the more he hateth me."
+        ],
+        [
+            "HERMIA",
+            "His folly, Helena, is no fault of mine."
+        ],
+        [
+            "HELENA",
+            "None, but your beauty: would that fault were mine!"
+        ],
+        [
+            "HERMIA",
+            "Take comfort: he no more shall see my face;"
+        ],
+        [
+            "HERMIA",
+            "Lysander and myself will fly this place."
+        ],
+        [
+            "HERMIA",
+            "Before the time I did Lysander see,"
+        ],
+        [
+            "HERMIA",
+            "Seem'd Athens as a paradise to me:"
+        ],
+        [
+            "HERMIA",
+            "O, then, what graces in my love do dwell,"
+        ],
+        [
+            "HERMIA",
+            "That he hath turn'd a heaven unto a hell!"
+        ],
+        [
+            "LYSANDER",
+            "Helen, to you our minds we will unfold:"
+        ],
+        [
+            "LYSANDER",
+            "To-morrow night, when Phoebe doth behold"
+        ],
+        [
+            "LYSANDER",
+            "Her silver visage in the watery glass,"
+        ],
+        [
+            "LYSANDER",
+            "Decking with liquid pearl the bladed grass,"
+        ],
+        [
+            "LYSANDER",
+            "A time that lovers' flights doth still conceal,"
+        ],
+        [
+            "LYSANDER",
+            "Through Athens' gates have we devised to steal."
+        ],
+        [
+            "HERMIA",
+            "And in the wood, where often you and I"
+        ],
+        [
+            "HERMIA",
+            "Upon faint primrose-beds were wont to lie,"
+        ],
+        [
+            "HERMIA",
+            "Emptying our bosoms of their counsel sweet,"
+        ],
+        [
+            "HERMIA",
+            "There my Lysander and myself shall meet;"
+        ],
+        [
+            "HERMIA",
+            "And thence from Athens turn away our eyes,"
+        ],
+        [
+            "HERMIA",
+            "To seek new friends and stranger companies."
+        ],
+        [
+            "HERMIA",
+            "Farewell, sweet playfellow: pray thou for us;"
+        ],
+        [
+            "HERMIA",
+            "And good luck grant thee thy Demetrius!"
+        ],
+        [
+            "HERMIA",
+            "Keep word, Lysander: we must starve our sight"
+        ],
+        [
+            "HERMIA",
+            "From lovers' food till morrow deep midnight."
+        ],
+        [
+            "LYSANDER",
+            "I will, my Hermia.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "LYSANDER",
+            "Helena, adieu:",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "LYSANDER",
+            "As you on him, Demetrius dote on you!",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "HELENA",
+            "How happy some o'er other some can be!",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "HELENA",
+            "Through Athens I am thought as fair as she."
+        ],
+        [
+            "HELENA",
+            "But what of that? Demetrius thinks not so;"
+        ],
+        [
+            "HELENA",
+            "He will not know what all but he do know:"
+        ],
+        [
+            "HELENA",
+            "And as he errs, doting on Hermia's eyes,"
+        ],
+        [
+            "HELENA",
+            "So I, admiring of his qualities:"
+        ],
+        [
+            "HELENA",
+            "Things base and vile, folding no quantity,"
+        ],
+        [
+            "HELENA",
+            "Love can transpose to form and dignity:"
+        ],
+        [
+            "HELENA",
+            "Love looks not with the eyes, but with the mind;"
+        ],
+        [
+            "HELENA",
+            "And therefore is wing'd Cupid painted blind:"
+        ],
+        [
+            "HELENA",
+            "Nor hath Love's mind of any judgement taste;"
+        ],
+        [
+            "HELENA",
+            "Wings and no eyes figure unheedy haste:"
+        ],
+        [
+            "HELENA",
+            "And therefore is Love said to be a child,"
+        ],
+        [
+            "HELENA",
+            "Because in choice he is so oft beguiled."
+        ],
+        [
+            "HELENA",
+            "As waggish boys in game themselves forswear,"
+        ],
+        [
+            "HELENA",
+            "So the boy Love is perjured every where:"
+        ],
+        [
+            "HELENA",
+            "For ere Demetrius look'd on Hermia's eyne,"
+        ],
+        [
+            "HELENA",
+            "He hail'd down oaths that he was only mine;"
+        ],
+        [
+            "HELENA",
+            "And when this hail some heat from Hermia felt,"
+        ],
+        [
+            "HELENA",
+            "So he dissolved, and showers of oaths did melt."
+        ],
+        [
+            "HELENA",
+            "I will go tell him of fair Hermia's flight:"
+        ],
+        [
+            "HELENA",
+            "Then to the wood will he to-morrow night"
+        ],
+        [
+            "HELENA",
+            "Pursue her; and for this intelligence"
+        ],
+        [
+            "HELENA",
+            "If I have thanks, it is a dear expense:"
+        ],
+        [
+            "HELENA",
+            "But herein mean I to enrich my pain,"
+        ],
+        [
+            "HELENA",
+            "To have his sight thither and back again.",
+            {
+                "following_direction_line": "8"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter THESEUS, HIPPOLYTA, PHILOSTRATE, and Attendants"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit PHILOSTRATE"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter EGEUS, HERMIA, LYSANDER, and DEMETRIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt all but LYSANDER and HERMIA"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Enter HELENA"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exit HERMIA"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "THESEUS": [
+            [
+                "1",
+                "6"
+            ],
+            [
+                "12",
+                "20"
+            ],
+            [
+                "22",
+                "22"
+            ],
+            [
+                "47",
+                "53"
+            ],
+            [
+                "55",
+                "57"
+            ],
+            [
+                "59",
+                "59"
+            ],
+            [
+                "67",
+                "80"
+            ],
+            [
+                "85",
+                "92"
+            ],
+            [
+                "113",
+                "128"
+            ]
+        ],
+        "HIPPOLYTA": [
+            [
+                "7",
+                "11"
+            ]
+        ],
+        "EGEUS": [
+            [
+                "21",
+                "21"
+            ],
+            [
+                "23",
+                "46"
+            ],
+            [
+                "97",
+                "100"
+            ],
+            [
+                "129",
+                "129"
+            ]
+        ],
+        "HERMIA": [
+            [
+                "54",
+                "54"
+            ],
+            [
+                "58",
+                "58"
+            ],
+            [
+                "60",
+                "66"
+            ],
+            [
+                "81",
+                "84"
+            ],
+            [
+                "132",
+                "133"
+            ],
+            [
+                "138",
+                "138"
+            ],
+            [
+                "140",
+                "140"
+            ],
+            [
+                "142",
+                "142"
+            ],
+            [
+                "152",
+                "157"
+            ],
+            [
+                "171",
+                "181"
+            ],
+            [
+                "183",
+                "183"
+            ],
+            [
+                "197",
+                "197"
+            ],
+            [
+                "199",
+                "199"
+            ],
+            [
+                "201",
+                "201"
+            ],
+            [
+                "203",
+                "203"
+            ],
+            [
+                "205",
+                "210"
+            ],
+            [
+                "217",
+                "226"
+            ]
+        ],
+        "DEMETRIUS": [
+            [
+                "93",
+                "94"
+            ]
+        ],
+        "LYSANDER": [
+            [
+                "95",
+                "96"
+            ],
+            [
+                "101",
+                "112"
+            ],
+            [
+                "130",
+                "131"
+            ],
+            [
+                "134",
+                "137"
+            ],
+            [
+                "139",
+                "139"
+            ],
+            [
+                "141",
+                "141"
+            ],
+            [
+                "143",
+                "151"
+            ],
+            [
+                "158",
+                "170"
+            ],
+            [
+                "182",
+                "182"
+            ],
+            [
+                "211",
+                "216"
+            ],
+            [
+                "227",
+                "229"
+            ]
+        ],
+        "HELENA": [
+            [
+                "184",
+                "196"
+            ],
+            [
+                "198",
+                "198"
+            ],
+            [
+                "200",
+                "200"
+            ],
+            [
+                "202",
+                "202"
+            ],
+            [
+                "204",
+                "204"
+            ],
+            [
+                "230",
+                "255"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "Athens. The palace of THESEUS."
+}

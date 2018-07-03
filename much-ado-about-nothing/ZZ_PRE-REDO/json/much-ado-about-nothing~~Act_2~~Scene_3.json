@@ -7,7 +7,9 @@
             "BENEDICK",
             "Boy!",
             {
-                "preceding_direction_line": "1",
+                "preceding_direction_line": "1"
+            },
+            {
                 "following_direction_line": "2"
             }
         ],
@@ -342,15 +344,15 @@
         ],
         [
             "BALTHASAR",
-            "And be you blithe and bonny,"
+            "\u2003And be you blithe and bonny,"
         ],
         [
             "BALTHASAR",
-            "Converting all your sounds of woe"
+            "\u2003Converting all your sounds of woe"
         ],
         [
             "BALTHASAR",
-            "Into Hey, nonny nonny."
+            "\u2003Into Hey, nonny nonny."
         ],
         [
             "DON PEDRO",
@@ -879,7 +881,7 @@
         ],
         [
             "BENEDICK",
-            "[Coming forward] This can be no trick: the",
+            "This can be no trick: the",
             {
                 "preceding_direction_line": "9"
             }
@@ -1112,7 +1114,7 @@
         [
             "_DIRECTION",
             "D9",
-            "Exeunt DON PEDRO, CLAUDIO, and LEONATO"
+            "Exeunt DON PEDRO, CLAUDIO, and LEONATO. Coming forward"
         ],
         [
             "_DIRECTION",
