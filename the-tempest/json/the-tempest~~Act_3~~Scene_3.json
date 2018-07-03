@@ -1,0 +1,757 @@
+{
+    "scene_id": "the tempest~~Act_3~~Scene_3",
+    "work_number": "10",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "GONZALO",
+            "By'r lakin, I can go no further, sir;",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "GONZALO",
+            "My old bones ache: here's a maze trod indeed"
+        ],
+        [
+            "GONZALO",
+            "Through forth-rights and meanders! By your patience,"
+        ],
+        [
+            "GONZALO",
+            "I needs must rest me."
+        ],
+        [
+            "ALONSO",
+            "Old lord, I cannot blame thee,"
+        ],
+        [
+            "ALONSO",
+            "Who am myself attach'd with weariness,"
+        ],
+        [
+            "ALONSO",
+            "To the dulling of my spirits: sit down, and rest."
+        ],
+        [
+            "ALONSO",
+            "Even here I will put off my hope and keep it"
+        ],
+        [
+            "ALONSO",
+            "No longer for my flatterer: he is drown'd"
+        ],
+        [
+            "ALONSO",
+            "Whom thus we stray to find, and the sea mocks"
+        ],
+        [
+            "ALONSO",
+            "Our frustrate search on land. Well, let him go."
+        ],
+        [
+            "ANTONIO",
+            "[Aside to SEBASTIAN] I am right glad that he's so"
+        ],
+        [
+            "ANTONIO",
+            "out of hope."
+        ],
+        [
+            "ANTONIO",
+            "Do not, for one repulse, forego the purpose"
+        ],
+        [
+            "ANTONIO",
+            "That you resolved to effect."
+        ],
+        [
+            "SEBASTIAN",
+            "[Aside to ANTONIO] The next advantage"
+        ],
+        [
+            "SEBASTIAN",
+            "Will we take throughly."
+        ],
+        [
+            "ANTONIO",
+            "[Aside to SEBASTIAN] Let it be to-night;"
+        ],
+        [
+            "ANTONIO",
+            "For, now they are oppress'd with travel, they"
+        ],
+        [
+            "ANTONIO",
+            "Will not, nor cannot, use such vigilance"
+        ],
+        [
+            "ANTONIO",
+            "As when they are fresh."
+        ],
+        [
+            "SEBASTIAN",
+            "[Aside to ANTONIO] I say, to-night: no more.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "ALONSO",
+            "What harmony is this? My good friends, hark!",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "GONZALO",
+            "Marvellous sweet music!",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "ALONSO",
+            "Give us kind keepers, heavens! What were these?",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "SEBASTIAN",
+            "A living drollery. Now I will believe"
+        ],
+        [
+            "SEBASTIAN",
+            "That there are unicorns, that in Arabia"
+        ],
+        [
+            "SEBASTIAN",
+            "There is one tree, the phoenix' throne, one phoenix"
+        ],
+        [
+            "SEBASTIAN",
+            "At this hour reigning there."
+        ],
+        [
+            "ANTONIO",
+            "I'll believe both;"
+        ],
+        [
+            "ANTONIO",
+            "And what does else want credit, come to me,"
+        ],
+        [
+            "ANTONIO",
+            "And I'll be sworn 'tis true: travellers ne'er did"
+        ],
+        [
+            "ANTONIO",
+            "lie,"
+        ],
+        [
+            "ANTONIO",
+            "Though fools at home condemn 'em."
+        ],
+        [
+            "GONZALO",
+            "If in Naples"
+        ],
+        [
+            "GONZALO",
+            "I should report this now, would they believe me?"
+        ],
+        [
+            "GONZALO",
+            "If I should say, I saw such islanders--"
+        ],
+        [
+            "GONZALO",
+            "For, certes, these are people of the island--"
+        ],
+        [
+            "GONZALO",
+            "Who, though they are of monstrous shape, yet, note,"
+        ],
+        [
+            "GONZALO",
+            "Their manners are more gentle-kind than of"
+        ],
+        [
+            "GONZALO",
+            "Our human generation you shall find"
+        ],
+        [
+            "GONZALO",
+            "Many, nay, almost any."
+        ],
+        [
+            "PROSPERO",
+            "[Aside] Honest lord,"
+        ],
+        [
+            "PROSPERO",
+            "Thou hast said well; for some of you there present"
+        ],
+        [
+            "PROSPERO",
+            "Are worse than devils."
+        ],
+        [
+            "ALONSO",
+            "I cannot too much muse"
+        ],
+        [
+            "ALONSO",
+            "Such shapes, such gesture and such sound, expressing,"
+        ],
+        [
+            "ALONSO",
+            "Although they want the use of tongue, a kind"
+        ],
+        [
+            "ALONSO",
+            "Of excellent dumb discourse."
+        ],
+        [
+            "PROSPERO",
+            "[Aside] Praise in departing."
+        ],
+        [
+            "FRANCISCO",
+            "They vanish'd strangely."
+        ],
+        [
+            "SEBASTIAN",
+            "No matter, since"
+        ],
+        [
+            "SEBASTIAN",
+            "They have left their viands behind; for we have stomachs."
+        ],
+        [
+            "SEBASTIAN",
+            "Will't please you taste of what is here?"
+        ],
+        [
+            "ALONSO",
+            "Not I."
+        ],
+        [
+            "GONZALO",
+            "Faith, sir, you need not fear. When we were boys,"
+        ],
+        [
+            "GONZALO",
+            "Who would believe that there were mountaineers"
+        ],
+        [
+            "GONZALO",
+            "Dew-lapp'd like bulls, whose throats had hanging at 'em"
+        ],
+        [
+            "GONZALO",
+            "Wallets of flesh? or that there were such men"
+        ],
+        [
+            "GONZALO",
+            "Whose heads stood in their breasts? which now we find"
+        ],
+        [
+            "GONZALO",
+            "Each putter-out of five for one will bring us"
+        ],
+        [
+            "GONZALO",
+            "Good warrant of."
+        ],
+        [
+            "ALONSO",
+            "I will stand to and feed,"
+        ],
+        [
+            "ALONSO",
+            "Although my last: no matter, since I feel"
+        ],
+        [
+            "ALONSO",
+            "The best is past. Brother, my lord the duke,"
+        ],
+        [
+            "ALONSO",
+            "Stand to and do as we.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "ARIEL",
+            "You are three men of sin, whom Destiny,",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "ARIEL",
+            "That hath to instrument this lower world"
+        ],
+        [
+            "ARIEL",
+            "And what is in't, the never-surfeited sea"
+        ],
+        [
+            "ARIEL",
+            "Hath caused to belch up you; and on this island"
+        ],
+        [
+            "ARIEL",
+            "Where man doth not inhabit; you 'mongst men"
+        ],
+        [
+            "ARIEL",
+            "Being most unfit to live. I have made you mad;"
+        ],
+        [
+            "ARIEL",
+            "And even with such-like valour men hang and drown"
+        ],
+        [
+            "ARIEL",
+            "Their proper selves.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "ARIEL",
+            "You fools! I and my fellows",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "ARIEL",
+            "Are ministers of Fate: the elements,"
+        ],
+        [
+            "ARIEL",
+            "Of whom your swords are temper'd, may as well"
+        ],
+        [
+            "ARIEL",
+            "Wound the loud winds, or with bemock'd-at stabs"
+        ],
+        [
+            "ARIEL",
+            "Kill the still-closing waters, as diminish"
+        ],
+        [
+            "ARIEL",
+            "One dowle that's in my plume: my fellow-ministers"
+        ],
+        [
+            "ARIEL",
+            "Are like invulnerable. If you could hurt,"
+        ],
+        [
+            "ARIEL",
+            "Your swords are now too massy for your strengths"
+        ],
+        [
+            "ARIEL",
+            "And will not be uplifted. But remember--"
+        ],
+        [
+            "ARIEL",
+            "For that's my business to you--that you three"
+        ],
+        [
+            "ARIEL",
+            "From Milan did supplant good Prospero;"
+        ],
+        [
+            "ARIEL",
+            "Exposed unto the sea, which hath requit it,"
+        ],
+        [
+            "ARIEL",
+            "Him and his innocent child: for which foul deed"
+        ],
+        [
+            "ARIEL",
+            "The powers, delaying, not forgetting, have"
+        ],
+        [
+            "ARIEL",
+            "Incensed the seas and shores, yea, all the creatures,"
+        ],
+        [
+            "ARIEL",
+            "Against your peace. Thee of thy son, Alonso,"
+        ],
+        [
+            "ARIEL",
+            "They have bereft; and do pronounce by me:"
+        ],
+        [
+            "ARIEL",
+            "Lingering perdition, worse than any death"
+        ],
+        [
+            "ARIEL",
+            "Can be at once, shall step by step attend"
+        ],
+        [
+            "ARIEL",
+            "You and your ways; whose wraths to guard you from--"
+        ],
+        [
+            "ARIEL",
+            "Which here, in this most desolate isle, else falls"
+        ],
+        [
+            "ARIEL",
+            "Upon your heads--is nothing but heart-sorrow"
+        ],
+        [
+            "ARIEL",
+            "And a clear life ensuing.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Bravely the figure of this harpy hast thou",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Perform'd, my Ariel; a grace it had, devouring:"
+        ],
+        [
+            "PROSPERO",
+            "Of my instruction hast thou nothing bated"
+        ],
+        [
+            "PROSPERO",
+            "In what thou hadst to say: so, with good life"
+        ],
+        [
+            "PROSPERO",
+            "And observation strange, my meaner ministers"
+        ],
+        [
+            "PROSPERO",
+            "Their several kinds have done. My high charms work"
+        ],
+        [
+            "PROSPERO",
+            "And these mine enemies are all knit up"
+        ],
+        [
+            "PROSPERO",
+            "In their distractions; they now are in my power;"
+        ],
+        [
+            "PROSPERO",
+            "And in these fits I leave them, while I visit"
+        ],
+        [
+            "PROSPERO",
+            "Young Ferdinand, whom they suppose is drown'd,"
+        ],
+        [
+            "PROSPERO",
+            "And his and mine loved darling.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "GONZALO",
+            "I' the name of something holy, sir, why stand you",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "GONZALO",
+            "In this strange stare?"
+        ],
+        [
+            "ALONSO",
+            "O, it is monstrous, monstrous:"
+        ],
+        [
+            "ALONSO",
+            "Methought the billows spoke and told me of it;"
+        ],
+        [
+            "ALONSO",
+            "The winds did sing it to me, and the thunder,"
+        ],
+        [
+            "ALONSO",
+            "That deep and dreadful organ-pipe, pronounced"
+        ],
+        [
+            "ALONSO",
+            "The name of Prosper: it did bass my trespass."
+        ],
+        [
+            "ALONSO",
+            "Therefore my son i' the ooze is bedded, and"
+        ],
+        [
+            "ALONSO",
+            "I'll seek him deeper than e'er plummet sounded"
+        ],
+        [
+            "ALONSO",
+            "And with him there lie mudded.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "SEBASTIAN",
+            "But one fiend at a time,",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "SEBASTIAN",
+            "I'll fight their legions o'er."
+        ],
+        [
+            "ANTONIO",
+            "I'll be thy second.",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "GONZALO",
+            "All three of them are desperate: their great guilt,",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "GONZALO",
+            "Like poison given to work a great time after,"
+        ],
+        [
+            "GONZALO",
+            "Now 'gins to bite the spirits. I do beseech you"
+        ],
+        [
+            "GONZALO",
+            "That are of suppler joints, follow them swiftly"
+        ],
+        [
+            "GONZALO",
+            "And hinder them from what this ecstasy"
+        ],
+        [
+            "GONZALO",
+            "May now provoke them to."
+        ],
+        [
+            "ADRIAN",
+            "Follow, I pray you.",
+            {
+                "following_direction_line": "10"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter ALONSO, SEBASTIAN, ANTONIO, GONZALO, ADRIAN, FRANCISCO, and others"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Solemn and strange music"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter PROSPERO above, invisible. Enter several strange Shapes, bringing in a banquet; they dance about it with gentle actions of salutation; and, inviting the King and the to eat, they depart"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Thunder and lightning. Enter ARIEL, like a harpy; claps his wings upon the table; and, with a quaint device, the banquet vanishes"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "ALONSO, SEBASTIAN and some of the courtiers draw their swords"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "He vanishes in thunder; then, to soft music enter the Shapes again, and dance, with mocks and mows, and carrying out the table"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exit above"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Exeunt SEBASTIAN, and ANTONIO"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "GONZALO": [
+            [
+                "1",
+                "4"
+            ],
+            [
+                "24",
+                "24"
+            ],
+            [
+                "35",
+                "42"
+            ],
+            [
+                "56",
+                "62"
+            ],
+            [
+                "109",
+                "110"
+            ],
+            [
+                "122",
+                "127"
+            ]
+        ],
+        "ALONSO": [
+            [
+                "5",
+                "11"
+            ],
+            [
+                "23",
+                "23"
+            ],
+            [
+                "25",
+                "25"
+            ],
+            [
+                "46",
+                "49"
+            ],
+            [
+                "55",
+                "55"
+            ],
+            [
+                "63",
+                "66"
+            ],
+            [
+                "111",
+                "118"
+            ]
+        ],
+        "ANTONIO": [
+            [
+                "12",
+                "15"
+            ],
+            [
+                "18",
+                "21"
+            ],
+            [
+                "30",
+                "34"
+            ],
+            [
+                "121",
+                "121"
+            ]
+        ],
+        "SEBASTIAN": [
+            [
+                "16",
+                "17"
+            ],
+            [
+                "22",
+                "22"
+            ],
+            [
+                "26",
+                "29"
+            ],
+            [
+                "52",
+                "54"
+            ],
+            [
+                "119",
+                "120"
+            ]
+        ],
+        "PROSPERO": [
+            [
+                "43",
+                "45"
+            ],
+            [
+                "50",
+                "50"
+            ],
+            [
+                "98",
+                "108"
+            ]
+        ],
+        "FRANCISCO": [
+            [
+                "51",
+                "51"
+            ]
+        ],
+        "ARIEL": [
+            [
+                "67",
+                "97"
+            ]
+        ],
+        "ADRIAN": [
+            [
+                "128",
+                "128"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "Another part of the island."
+}

@@ -1,0 +1,613 @@
+{
+    "scene_id": "the tempest~~Act_3~~Scene_1",
+    "work_number": "10",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "FERDINAND",
+            "There be some sports are painful, and their labour",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "FERDINAND",
+            "Delight in them sets off: some kinds of baseness"
+        ],
+        [
+            "FERDINAND",
+            "Are nobly undergone and most poor matters"
+        ],
+        [
+            "FERDINAND",
+            "Point to rich ends. This my mean task"
+        ],
+        [
+            "FERDINAND",
+            "Would be as heavy to me as odious, but"
+        ],
+        [
+            "FERDINAND",
+            "The mistress which I serve quickens what's dead"
+        ],
+        [
+            "FERDINAND",
+            "And makes my labours pleasures: O, she is"
+        ],
+        [
+            "FERDINAND",
+            "Ten times more gentle than her father's crabbed,"
+        ],
+        [
+            "FERDINAND",
+            "And he's composed of harshness. I must remove"
+        ],
+        [
+            "FERDINAND",
+            "Some thousands of these logs and pile them up,"
+        ],
+        [
+            "FERDINAND",
+            "Upon a sore injunction: my sweet mistress"
+        ],
+        [
+            "FERDINAND",
+            "Weeps when she sees me work, and says, such baseness"
+        ],
+        [
+            "FERDINAND",
+            "Had never like executor. I forget:"
+        ],
+        [
+            "FERDINAND",
+            "But these sweet thoughts do even refresh my labours,"
+        ],
+        [
+            "FERDINAND",
+            "Most busy lest, when I do it.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "MIRANDA",
+            "Alas, now, pray you,",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "MIRANDA",
+            "Work not so hard: I would the lightning had"
+        ],
+        [
+            "MIRANDA",
+            "Burnt up those logs that you are enjoin'd to pile!"
+        ],
+        [
+            "MIRANDA",
+            "Pray, set it down and rest you: when this burns,"
+        ],
+        [
+            "MIRANDA",
+            "'Twill weep for having wearied you. My father"
+        ],
+        [
+            "MIRANDA",
+            "Is hard at study; pray now, rest yourself;"
+        ],
+        [
+            "MIRANDA",
+            "He's safe for these three hours."
+        ],
+        [
+            "FERDINAND",
+            "O most dear mistress,"
+        ],
+        [
+            "FERDINAND",
+            "The sun will set before I shall discharge"
+        ],
+        [
+            "FERDINAND",
+            "What I must strive to do."
+        ],
+        [
+            "MIRANDA",
+            "If you'll sit down,"
+        ],
+        [
+            "MIRANDA",
+            "I'll bear your logs the while: pray, give me that;"
+        ],
+        [
+            "MIRANDA",
+            "I'll carry it to the pile."
+        ],
+        [
+            "FERDINAND",
+            "No, precious creature;"
+        ],
+        [
+            "FERDINAND",
+            "I had rather crack my sinews, break my back,"
+        ],
+        [
+            "FERDINAND",
+            "Than you should such dishonour undergo,"
+        ],
+        [
+            "FERDINAND",
+            "While I sit lazy by."
+        ],
+        [
+            "MIRANDA",
+            "It would become me"
+        ],
+        [
+            "MIRANDA",
+            "As well as it does you: and I should do it"
+        ],
+        [
+            "MIRANDA",
+            "With much more ease; for my good will is to it,"
+        ],
+        [
+            "MIRANDA",
+            "And yours it is against."
+        ],
+        [
+            "PROSPERO",
+            "Poor worm, thou art infected!"
+        ],
+        [
+            "PROSPERO",
+            "This visitation shows it."
+        ],
+        [
+            "MIRANDA",
+            "You look wearily."
+        ],
+        [
+            "FERDINAND",
+            "No, noble mistress;'tis fresh morning with me"
+        ],
+        [
+            "FERDINAND",
+            "When you are by at night. I do beseech you--"
+        ],
+        [
+            "FERDINAND",
+            "Chiefly that I might set it in my prayers--"
+        ],
+        [
+            "FERDINAND",
+            "What is your name?"
+        ],
+        [
+            "MIRANDA",
+            "Miranda.--O my father,"
+        ],
+        [
+            "MIRANDA",
+            "I have broke your hest to say so!"
+        ],
+        [
+            "FERDINAND",
+            "Admired Miranda!"
+        ],
+        [
+            "FERDINAND",
+            "Indeed the top of admiration! worth"
+        ],
+        [
+            "FERDINAND",
+            "What's dearest to the world! Full many a lady"
+        ],
+        [
+            "FERDINAND",
+            "I have eyed with best regard and many a time"
+        ],
+        [
+            "FERDINAND",
+            "The harmony of their tongues hath into bondage"
+        ],
+        [
+            "FERDINAND",
+            "Brought my too diligent ear: for several virtues"
+        ],
+        [
+            "FERDINAND",
+            "Have I liked several women; never any"
+        ],
+        [
+            "FERDINAND",
+            "With so fun soul, but some defect in her"
+        ],
+        [
+            "FERDINAND",
+            "Did quarrel with the noblest grace she owed"
+        ],
+        [
+            "FERDINAND",
+            "And put it to the foil: but you, O you,"
+        ],
+        [
+            "FERDINAND",
+            "So perfect and so peerless, are created"
+        ],
+        [
+            "FERDINAND",
+            "Of every creature's best!"
+        ],
+        [
+            "MIRANDA",
+            "I do not know"
+        ],
+        [
+            "MIRANDA",
+            "One of my sex; no woman's face remember,"
+        ],
+        [
+            "MIRANDA",
+            "Save, from my glass, mine own; nor have I seen"
+        ],
+        [
+            "MIRANDA",
+            "More that I may call men than you, good friend,"
+        ],
+        [
+            "MIRANDA",
+            "And my dear father: how features are abroad,"
+        ],
+        [
+            "MIRANDA",
+            "I am skilless of; but, by my modesty,"
+        ],
+        [
+            "MIRANDA",
+            "The jewel in my dower, I would not wish"
+        ],
+        [
+            "MIRANDA",
+            "Any companion in the world but you,"
+        ],
+        [
+            "MIRANDA",
+            "Nor can imagination form a shape,"
+        ],
+        [
+            "MIRANDA",
+            "Besides yourself, to like of. But I prattle"
+        ],
+        [
+            "MIRANDA",
+            "Something too wildly and my father's precepts"
+        ],
+        [
+            "MIRANDA",
+            "I therein do forget."
+        ],
+        [
+            "FERDINAND",
+            "I am in my condition"
+        ],
+        [
+            "FERDINAND",
+            "A prince, Miranda; I do think, a king;"
+        ],
+        [
+            "FERDINAND",
+            "I would, not so!--and would no more endure"
+        ],
+        [
+            "FERDINAND",
+            "This wooden slavery than to suffer"
+        ],
+        [
+            "FERDINAND",
+            "The flesh-fly blow my mouth. Hear my soul speak:"
+        ],
+        [
+            "FERDINAND",
+            "The very instant that I saw you, did"
+        ],
+        [
+            "FERDINAND",
+            "My heart fly to your service; there resides,"
+        ],
+        [
+            "FERDINAND",
+            "To make me slave to it; and for your sake"
+        ],
+        [
+            "FERDINAND",
+            "Am I this patient log--man."
+        ],
+        [
+            "MIRANDA",
+            "Do you love me?"
+        ],
+        [
+            "FERDINAND",
+            "O heaven, O earth, bear witness to this sound"
+        ],
+        [
+            "FERDINAND",
+            "And crown what I profess with kind event"
+        ],
+        [
+            "FERDINAND",
+            "If I speak true! if hollowly, invert"
+        ],
+        [
+            "FERDINAND",
+            "What best is boded me to mischief! I"
+        ],
+        [
+            "FERDINAND",
+            "Beyond all limit of what else i' the world"
+        ],
+        [
+            "FERDINAND",
+            "Do love, prize, honour you."
+        ],
+        [
+            "MIRANDA",
+            "I am a fool"
+        ],
+        [
+            "MIRANDA",
+            "To weep at what I am glad of."
+        ],
+        [
+            "PROSPERO",
+            "Fair encounter"
+        ],
+        [
+            "PROSPERO",
+            "Of two most rare affections! Heavens rain grace"
+        ],
+        [
+            "PROSPERO",
+            "On that which breeds between 'em!"
+        ],
+        [
+            "FERDINAND",
+            "Wherefore weep you?"
+        ],
+        [
+            "MIRANDA",
+            "At mine unworthiness that dare not offer"
+        ],
+        [
+            "MIRANDA",
+            "What I desire to give, and much less take"
+        ],
+        [
+            "MIRANDA",
+            "What I shall die to want. But this is trifling;"
+        ],
+        [
+            "MIRANDA",
+            "And all the more it seeks to hide itself,"
+        ],
+        [
+            "MIRANDA",
+            "The bigger bulk it shows. Hence, bashful cunning!"
+        ],
+        [
+            "MIRANDA",
+            "And prompt me, plain and holy innocence!"
+        ],
+        [
+            "MIRANDA",
+            "I am your wife, if you will marry me;"
+        ],
+        [
+            "MIRANDA",
+            "If not, I'll die your maid: to be your fellow"
+        ],
+        [
+            "MIRANDA",
+            "You may deny me; but I'll be your servant,"
+        ],
+        [
+            "MIRANDA",
+            "Whether you will or no."
+        ],
+        [
+            "FERDINAND",
+            "My mistress, dearest;"
+        ],
+        [
+            "FERDINAND",
+            "And I thus humble ever."
+        ],
+        [
+            "MIRANDA",
+            "My husband, then?"
+        ],
+        [
+            "FERDINAND",
+            "Ay, with a heart as willing"
+        ],
+        [
+            "FERDINAND",
+            "As bondage e'er of freedom: here's my hand."
+        ],
+        [
+            "MIRANDA",
+            "And mine, with my heart in't; and now farewell"
+        ],
+        [
+            "MIRANDA",
+            "Till half an hour hence."
+        ],
+        [
+            "FERDINAND",
+            "A thousand thousand!",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "PROSPERO",
+            "So glad of this as they I cannot be,",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Who are surprised withal; but my rejoicing"
+        ],
+        [
+            "PROSPERO",
+            "At nothing can be more. I'll to my book,"
+        ],
+        [
+            "PROSPERO",
+            "For yet ere supper-time must I perform"
+        ],
+        [
+            "PROSPERO",
+            "Much business appertaining.",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter FERDINAND, bearing a log"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter MIRANDA; and PROSPERO at a distance, unseen"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt FERDINAND and MIRANDA severally"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "FERDINAND": [
+            [
+                "1",
+                "15"
+            ],
+            [
+                "23",
+                "25"
+            ],
+            [
+                "29",
+                "32"
+            ],
+            [
+                "40",
+                "43"
+            ],
+            [
+                "46",
+                "57"
+            ],
+            [
+                "70",
+                "78"
+            ],
+            [
+                "80",
+                "85"
+            ],
+            [
+                "91",
+                "91"
+            ],
+            [
+                "102",
+                "103"
+            ],
+            [
+                "105",
+                "106"
+            ],
+            [
+                "109",
+                "109"
+            ]
+        ],
+        "MIRANDA": [
+            [
+                "16",
+                "22"
+            ],
+            [
+                "26",
+                "28"
+            ],
+            [
+                "33",
+                "36"
+            ],
+            [
+                "39",
+                "39"
+            ],
+            [
+                "44",
+                "45"
+            ],
+            [
+                "58",
+                "69"
+            ],
+            [
+                "79",
+                "79"
+            ],
+            [
+                "86",
+                "87"
+            ],
+            [
+                "92",
+                "101"
+            ],
+            [
+                "104",
+                "104"
+            ],
+            [
+                "107",
+                "108"
+            ]
+        ],
+        "PROSPERO": [
+            [
+                "37",
+                "38"
+            ],
+            [
+                "88",
+                "90"
+            ],
+            [
+                "110",
+                "114"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "Before PROSPERO'S Cell."
+}

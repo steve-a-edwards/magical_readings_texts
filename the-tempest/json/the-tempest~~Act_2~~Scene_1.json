@@ -1,0 +1,2213 @@
+{
+    "scene_id": "the tempest~~Act_2~~Scene_1",
+    "work_number": "10",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "GONZALO",
+            "Beseech you, sir, be merry; you have cause,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "GONZALO",
+            "So have we all, of joy; for our escape"
+        ],
+        [
+            "GONZALO",
+            "Is much beyond our loss. Our hint of woe"
+        ],
+        [
+            "GONZALO",
+            "Is common; every day some sailor's wife,"
+        ],
+        [
+            "GONZALO",
+            "The masters of some merchant and the merchant"
+        ],
+        [
+            "GONZALO",
+            "Have just our theme of woe; but for the miracle,"
+        ],
+        [
+            "GONZALO",
+            "I mean our preservation, few in millions"
+        ],
+        [
+            "GONZALO",
+            "Can speak like us: then wisely, good sir, weigh"
+        ],
+        [
+            "GONZALO",
+            "Our sorrow with our comfort."
+        ],
+        [
+            "ALONSO",
+            "Prithee, peace."
+        ],
+        [
+            "SEBASTIAN",
+            "He receives comfort like cold porridge."
+        ],
+        [
+            "ANTONIO",
+            "The visitor will not give him o'er so."
+        ],
+        [
+            "SEBASTIAN",
+            "Look he's winding up the watch of his wit;"
+        ],
+        [
+            "SEBASTIAN",
+            "by and by it will strike."
+        ],
+        [
+            "GONZALO",
+            "Sir,--"
+        ],
+        [
+            "SEBASTIAN",
+            "One: tell."
+        ],
+        [
+            "GONZALO",
+            "When every grief is entertain'd that's offer'd,"
+        ],
+        [
+            "GONZALO",
+            "Comes to the entertainer--"
+        ],
+        [
+            "SEBASTIAN",
+            "A dollar."
+        ],
+        [
+            "GONZALO",
+            "Dolour comes to him, indeed: you"
+        ],
+        [
+            "GONZALO",
+            "have spoken truer than you purposed."
+        ],
+        [
+            "SEBASTIAN",
+            "You have taken it wiselier than I meant you should."
+        ],
+        [
+            "GONZALO",
+            "Therefore, my lord,--"
+        ],
+        [
+            "ANTONIO",
+            "Fie, what a spendthrift is he of his tongue!"
+        ],
+        [
+            "ALONSO",
+            "I prithee, spare."
+        ],
+        [
+            "GONZALO",
+            "Well, I have done: but yet,--"
+        ],
+        [
+            "SEBASTIAN",
+            "He will be talking."
+        ],
+        [
+            "ANTONIO",
+            "Which, of he or Adrian, for a good"
+        ],
+        [
+            "ANTONIO",
+            "wager, first begins to crow?"
+        ],
+        [
+            "SEBASTIAN",
+            "The old cock."
+        ],
+        [
+            "ANTONIO",
+            "The cockerel."
+        ],
+        [
+            "SEBASTIAN",
+            "Done. The wager?"
+        ],
+        [
+            "ANTONIO",
+            "A laughter."
+        ],
+        [
+            "SEBASTIAN",
+            "A match!"
+        ],
+        [
+            "ADRIAN",
+            "Though this island seem to be desert,--"
+        ],
+        [
+            "SEBASTIAN",
+            "Ha, ha, ha! So, you're paid."
+        ],
+        [
+            "ADRIAN",
+            "Uninhabitable and almost inaccessible,--"
+        ],
+        [
+            "SEBASTIAN",
+            "Yet,--"
+        ],
+        [
+            "ADRIAN",
+            "Yet,--"
+        ],
+        [
+            "ANTONIO",
+            "He could not miss't."
+        ],
+        [
+            "ADRIAN",
+            "It must needs be of subtle, tender and delicate"
+        ],
+        [
+            "ADRIAN",
+            "temperance."
+        ],
+        [
+            "ANTONIO",
+            "Temperance was a delicate wench."
+        ],
+        [
+            "SEBASTIAN",
+            "Ay, and a subtle; as he most learnedly delivered."
+        ],
+        [
+            "ADRIAN",
+            "The air breathes upon us here most sweetly."
+        ],
+        [
+            "SEBASTIAN",
+            "As if it had lungs and rotten ones."
+        ],
+        [
+            "ANTONIO",
+            "Or as 'twere perfumed by a fen."
+        ],
+        [
+            "GONZALO",
+            "Here is everything advantageous to life."
+        ],
+        [
+            "ANTONIO",
+            "True; save means to live."
+        ],
+        [
+            "SEBASTIAN",
+            "Of that there's none, or little."
+        ],
+        [
+            "GONZALO",
+            "How lush and lusty the grass looks! how green!"
+        ],
+        [
+            "ANTONIO",
+            "The ground indeed is tawny."
+        ],
+        [
+            "SEBASTIAN",
+            "With an eye of green in't."
+        ],
+        [
+            "ANTONIO",
+            "He misses not much."
+        ],
+        [
+            "SEBASTIAN",
+            "No; he doth but mistake the truth totally."
+        ],
+        [
+            "GONZALO",
+            "But the rarity of it is,--which is indeed almost"
+        ],
+        [
+            "GONZALO",
+            "beyond credit,--"
+        ],
+        [
+            "SEBASTIAN",
+            "As many vouched rarities are."
+        ],
+        [
+            "GONZALO",
+            "That our garments, being, as they were, drenched in"
+        ],
+        [
+            "GONZALO",
+            "the sea, hold notwithstanding their freshness and"
+        ],
+        [
+            "GONZALO",
+            "glosses, being rather new-dyed than stained with"
+        ],
+        [
+            "GONZALO",
+            "salt water."
+        ],
+        [
+            "ANTONIO",
+            "If but one of his pockets could speak, would it not"
+        ],
+        [
+            "ANTONIO",
+            "say he lies?"
+        ],
+        [
+            "SEBASTIAN",
+            "Ay, or very falsely pocket up his report"
+        ],
+        [
+            "GONZALO",
+            "Methinks our garments are now as fresh as when we"
+        ],
+        [
+            "GONZALO",
+            "put them on first in Afric, at the marriage of"
+        ],
+        [
+            "GONZALO",
+            "the king's fair daughter Claribel to the King of Tunis."
+        ],
+        [
+            "SEBASTIAN",
+            "'Twas a sweet marriage, and we prosper well in our return."
+        ],
+        [
+            "ADRIAN",
+            "Tunis was never graced before with such a paragon to"
+        ],
+        [
+            "ADRIAN",
+            "their queen."
+        ],
+        [
+            "GONZALO",
+            "Not since widow Dido's time."
+        ],
+        [
+            "ANTONIO",
+            "Widow! a pox o' that! How came that widow in?"
+        ],
+        [
+            "ANTONIO",
+            "widow Dido!"
+        ],
+        [
+            "SEBASTIAN",
+            "What if he had said 'widower AEneas' too? Good Lord,"
+        ],
+        [
+            "SEBASTIAN",
+            "how you take it!"
+        ],
+        [
+            "ADRIAN",
+            "'Widow Dido' said you? you make me study of that:"
+        ],
+        [
+            "ADRIAN",
+            "she was of Carthage, not of Tunis."
+        ],
+        [
+            "GONZALO",
+            "This Tunis, sir, was Carthage."
+        ],
+        [
+            "ADRIAN",
+            "Carthage?"
+        ],
+        [
+            "GONZALO",
+            "I assure you, Carthage."
+        ],
+        [
+            "SEBASTIAN",
+            "His word is more than the miraculous harp; he hath"
+        ],
+        [
+            "SEBASTIAN",
+            "raised the wall and houses too."
+        ],
+        [
+            "ANTONIO",
+            "What impossible matter will he make easy next?"
+        ],
+        [
+            "SEBASTIAN",
+            "I think he will carry this island home in his pocket"
+        ],
+        [
+            "SEBASTIAN",
+            "and give it his son for an apple."
+        ],
+        [
+            "ANTONIO",
+            "And, sowing the kernels of it in the sea, bring"
+        ],
+        [
+            "ANTONIO",
+            "forth more islands."
+        ],
+        [
+            "GONZALO",
+            "Ay."
+        ],
+        [
+            "ANTONIO",
+            "Why, in good time."
+        ],
+        [
+            "GONZALO",
+            "Sir, we were talking that our garments seem now"
+        ],
+        [
+            "GONZALO",
+            "as fresh as when we were at Tunis at the marriage"
+        ],
+        [
+            "GONZALO",
+            "of your daughter, who is now queen."
+        ],
+        [
+            "ANTONIO",
+            "And the rarest that e'er came there."
+        ],
+        [
+            "SEBASTIAN",
+            "Bate, I beseech you, widow Dido."
+        ],
+        [
+            "ANTONIO",
+            "O, widow Dido! ay, widow Dido."
+        ],
+        [
+            "GONZALO",
+            "Is not, sir, my doublet as fresh as the first day I"
+        ],
+        [
+            "GONZALO",
+            "wore it? I mean, in a sort."
+        ],
+        [
+            "ANTONIO",
+            "That sort was well fished for."
+        ],
+        [
+            "GONZALO",
+            "When I wore it at your daughter's marriage?"
+        ],
+        [
+            "ALONSO",
+            "You cram these words into mine ears against"
+        ],
+        [
+            "ALONSO",
+            "The stomach of my sense. Would I had never"
+        ],
+        [
+            "ALONSO",
+            "Married my daughter there! for, coming thence,"
+        ],
+        [
+            "ALONSO",
+            "My son is lost and, in my rate, she too,"
+        ],
+        [
+            "ALONSO",
+            "Who is so far from Italy removed"
+        ],
+        [
+            "ALONSO",
+            "I ne'er again shall see her. O thou mine heir"
+        ],
+        [
+            "ALONSO",
+            "Of Naples and of Milan, what strange fish"
+        ],
+        [
+            "ALONSO",
+            "Hath made his meal on thee?"
+        ],
+        [
+            "FRANCISCO",
+            "Sir, he may live:"
+        ],
+        [
+            "FRANCISCO",
+            "I saw him beat the surges under him,"
+        ],
+        [
+            "FRANCISCO",
+            "And ride upon their backs; he trod the water,"
+        ],
+        [
+            "FRANCISCO",
+            "Whose enmity he flung aside, and breasted"
+        ],
+        [
+            "FRANCISCO",
+            "The surge most swoln that met him; his bold head"
+        ],
+        [
+            "FRANCISCO",
+            "'Bove the contentious waves he kept, and oar'd"
+        ],
+        [
+            "FRANCISCO",
+            "Himself with his good arms in lusty stroke"
+        ],
+        [
+            "FRANCISCO",
+            "To the shore, that o'er his wave-worn basis bow'd,"
+        ],
+        [
+            "FRANCISCO",
+            "As stooping to relieve him: I not doubt"
+        ],
+        [
+            "FRANCISCO",
+            "He came alive to land."
+        ],
+        [
+            "ALONSO",
+            "No, no, he's gone."
+        ],
+        [
+            "SEBASTIAN",
+            "Sir, you may thank yourself for this great loss,"
+        ],
+        [
+            "SEBASTIAN",
+            "That would not bless our Europe with your daughter,"
+        ],
+        [
+            "SEBASTIAN",
+            "But rather lose her to an African;"
+        ],
+        [
+            "SEBASTIAN",
+            "Where she at least is banish'd from your eye,"
+        ],
+        [
+            "SEBASTIAN",
+            "Who hath cause to wet the grief on't."
+        ],
+        [
+            "ALONSO",
+            "Prithee, peace."
+        ],
+        [
+            "SEBASTIAN",
+            "You were kneel'd to and importuned otherwise"
+        ],
+        [
+            "SEBASTIAN",
+            "By all of us, and the fair soul herself"
+        ],
+        [
+            "SEBASTIAN",
+            "Weigh'd between loathness and obedience, at"
+        ],
+        [
+            "SEBASTIAN",
+            "Which end o' the beam should bow. We have lost your"
+        ],
+        [
+            "SEBASTIAN",
+            "son,"
+        ],
+        [
+            "SEBASTIAN",
+            "I fear, for ever: Milan and Naples have"
+        ],
+        [
+            "SEBASTIAN",
+            "More widows in them of this business' making"
+        ],
+        [
+            "SEBASTIAN",
+            "Than we bring men to comfort them:"
+        ],
+        [
+            "SEBASTIAN",
+            "The fault's your own."
+        ],
+        [
+            "ALONSO",
+            "So is the dear'st o' the loss."
+        ],
+        [
+            "GONZALO",
+            "My lord Sebastian,"
+        ],
+        [
+            "GONZALO",
+            "The truth you speak doth lack some gentleness"
+        ],
+        [
+            "GONZALO",
+            "And time to speak it in: you rub the sore,"
+        ],
+        [
+            "GONZALO",
+            "When you should bring the plaster."
+        ],
+        [
+            "SEBASTIAN",
+            "Very well."
+        ],
+        [
+            "ANTONIO",
+            "And most chirurgeonly."
+        ],
+        [
+            "GONZALO",
+            "It is foul weather in us all, good sir,"
+        ],
+        [
+            "GONZALO",
+            "When you are cloudy."
+        ],
+        [
+            "SEBASTIAN",
+            "Foul weather?"
+        ],
+        [
+            "ANTONIO",
+            "Very foul."
+        ],
+        [
+            "GONZALO",
+            "Had I plantation of this isle, my lord,--"
+        ],
+        [
+            "ANTONIO",
+            "He'ld sow't with nettle-seed."
+        ],
+        [
+            "SEBASTIAN",
+            "Or docks, or mallows."
+        ],
+        [
+            "GONZALO",
+            "And were the king on't, what would I do?"
+        ],
+        [
+            "SEBASTIAN",
+            "'Scape being drunk for want of wine."
+        ],
+        [
+            "GONZALO",
+            "I' the commonwealth I would by contraries"
+        ],
+        [
+            "GONZALO",
+            "Execute all things; for no kind of traffic"
+        ],
+        [
+            "GONZALO",
+            "Would I admit; no name of magistrate;"
+        ],
+        [
+            "GONZALO",
+            "Letters should not be known; riches, poverty,"
+        ],
+        [
+            "GONZALO",
+            "And use of service, none; contract, succession,"
+        ],
+        [
+            "GONZALO",
+            "Bourn, bound of land, tilth, vineyard, none;"
+        ],
+        [
+            "GONZALO",
+            "No use of metal, corn, or wine, or oil;"
+        ],
+        [
+            "GONZALO",
+            "No occupation; all men idle, all;"
+        ],
+        [
+            "GONZALO",
+            "And women too, but innocent and pure;"
+        ],
+        [
+            "GONZALO",
+            "No sovereignty;--"
+        ],
+        [
+            "SEBASTIAN",
+            "Yet he would be king on't."
+        ],
+        [
+            "ANTONIO",
+            "The latter end of his commonwealth forgets the"
+        ],
+        [
+            "ANTONIO",
+            "beginning."
+        ],
+        [
+            "GONZALO",
+            "All things in common nature should produce"
+        ],
+        [
+            "GONZALO",
+            "Without sweat or endeavour: treason, felony,"
+        ],
+        [
+            "GONZALO",
+            "Sword, pike, knife, gun, or need of any engine,"
+        ],
+        [
+            "GONZALO",
+            "Would I not have; but nature should bring forth,"
+        ],
+        [
+            "GONZALO",
+            "Of its own kind, all foison, all abundance,"
+        ],
+        [
+            "GONZALO",
+            "To feed my innocent people."
+        ],
+        [
+            "SEBASTIAN",
+            "No marrying 'mong his subjects?"
+        ],
+        [
+            "ANTONIO",
+            "None, man; all idle: whores and knaves."
+        ],
+        [
+            "GONZALO",
+            "I would with such perfection govern, sir,"
+        ],
+        [
+            "GONZALO",
+            "To excel the golden age."
+        ],
+        [
+            "SEBASTIAN",
+            "God save his majesty!"
+        ],
+        [
+            "ANTONIO",
+            "Long live Gonzalo!"
+        ],
+        [
+            "GONZALO",
+            "And,--do you mark me, sir?"
+        ],
+        [
+            "ALONSO",
+            "Prithee, no more: thou dost talk nothing to me."
+        ],
+        [
+            "GONZALO",
+            "I do well believe your highness; and"
+        ],
+        [
+            "GONZALO",
+            "did it to minister occasion to these gentlemen,"
+        ],
+        [
+            "GONZALO",
+            "who are of such sensible and nimble lungs that"
+        ],
+        [
+            "GONZALO",
+            "they always use to laugh at nothing."
+        ],
+        [
+            "ANTONIO",
+            "'Twas you we laughed at."
+        ],
+        [
+            "GONZALO",
+            "Who in this kind of merry fooling am nothing"
+        ],
+        [
+            "GONZALO",
+            "to you: so you may continue and laugh at"
+        ],
+        [
+            "GONZALO",
+            "nothing still."
+        ],
+        [
+            "ANTONIO",
+            "What a blow was there given!"
+        ],
+        [
+            "SEBASTIAN",
+            "An it had not fallen flat-long."
+        ],
+        [
+            "GONZALO",
+            "You are gentlemen of brave metal; you would lift"
+        ],
+        [
+            "GONZALO",
+            "the moon out of her sphere, if she would continue"
+        ],
+        [
+            "GONZALO",
+            "in it five weeks without changing.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "SEBASTIAN",
+            "We would so, and then go a bat-fowling.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "ANTONIO",
+            "Nay, good my lord, be not angry."
+        ],
+        [
+            "GONZALO",
+            "No, I warrant you; I will not adventure"
+        ],
+        [
+            "GONZALO",
+            "my discretion so weakly. Will you laugh"
+        ],
+        [
+            "GONZALO",
+            "me asleep, for I am very heavy?"
+        ],
+        [
+            "ANTONIO",
+            "Go sleep, and hear us.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "ALONSO",
+            "What, all so soon asleep! I wish mine eyes",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "ALONSO",
+            "Would, with themselves, shut up my thoughts: I find"
+        ],
+        [
+            "ALONSO",
+            "They are inclined to do so."
+        ],
+        [
+            "SEBASTIAN",
+            "Please you, sir,"
+        ],
+        [
+            "SEBASTIAN",
+            "Do not omit the heavy offer of it:"
+        ],
+        [
+            "SEBASTIAN",
+            "It seldom visits sorrow; when it doth,"
+        ],
+        [
+            "SEBASTIAN",
+            "It is a comforter."
+        ],
+        [
+            "ANTONIO",
+            "We two, my lord,"
+        ],
+        [
+            "ANTONIO",
+            "Will guard your person while you take your rest,"
+        ],
+        [
+            "ANTONIO",
+            "And watch your safety."
+        ],
+        [
+            "ALONSO",
+            "Thank you. Wondrous heavy.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "SEBASTIAN",
+            "What a strange drowsiness possesses them!",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "ANTONIO",
+            "It is the quality o' the climate."
+        ],
+        [
+            "SEBASTIAN",
+            "Why"
+        ],
+        [
+            "SEBASTIAN",
+            "Doth it not then our eyelids sink? I find not"
+        ],
+        [
+            "SEBASTIAN",
+            "Myself disposed to sleep."
+        ],
+        [
+            "ANTONIO",
+            "Nor I; my spirits are nimble."
+        ],
+        [
+            "ANTONIO",
+            "They fell together all, as by consent;"
+        ],
+        [
+            "ANTONIO",
+            "They dropp'd, as by a thunder-stroke. What might,"
+        ],
+        [
+            "ANTONIO",
+            "Worthy Sebastian? O, what might?--No more:--"
+        ],
+        [
+            "ANTONIO",
+            "And yet me thinks I see it in thy face,"
+        ],
+        [
+            "ANTONIO",
+            "What thou shouldst be: the occasion speaks thee, and"
+        ],
+        [
+            "ANTONIO",
+            "My strong imagination sees a crown"
+        ],
+        [
+            "ANTONIO",
+            "Dropping upon thy head."
+        ],
+        [
+            "SEBASTIAN",
+            "What, art thou waking?"
+        ],
+        [
+            "ANTONIO",
+            "Do you not hear me speak?"
+        ],
+        [
+            "SEBASTIAN",
+            "I do; and surely"
+        ],
+        [
+            "SEBASTIAN",
+            "It is a sleepy language and thou speak'st"
+        ],
+        [
+            "SEBASTIAN",
+            "Out of thy sleep. What is it thou didst say?"
+        ],
+        [
+            "SEBASTIAN",
+            "This is a strange repose, to be asleep"
+        ],
+        [
+            "SEBASTIAN",
+            "With eyes wide open; standing, speaking, moving,"
+        ],
+        [
+            "SEBASTIAN",
+            "And yet so fast asleep."
+        ],
+        [
+            "ANTONIO",
+            "Noble Sebastian,"
+        ],
+        [
+            "ANTONIO",
+            "Thou let'st thy fortune sleep--die, rather; wink'st"
+        ],
+        [
+            "ANTONIO",
+            "Whiles thou art waking."
+        ],
+        [
+            "SEBASTIAN",
+            "Thou dost snore distinctly;"
+        ],
+        [
+            "SEBASTIAN",
+            "There's meaning in thy snores."
+        ],
+        [
+            "ANTONIO",
+            "I am more serious than my custom: you"
+        ],
+        [
+            "ANTONIO",
+            "Must be so too, if heed me; which to do"
+        ],
+        [
+            "ANTONIO",
+            "Trebles thee o'er."
+        ],
+        [
+            "SEBASTIAN",
+            "Well, I am standing water."
+        ],
+        [
+            "ANTONIO",
+            "I'll teach you how to flow."
+        ],
+        [
+            "SEBASTIAN",
+            "Do so: to ebb"
+        ],
+        [
+            "SEBASTIAN",
+            "Hereditary sloth instructs me."
+        ],
+        [
+            "ANTONIO",
+            "O,"
+        ],
+        [
+            "ANTONIO",
+            "If you but knew how you the purpose cherish"
+        ],
+        [
+            "ANTONIO",
+            "Whiles thus you mock it! how, in stripping it,"
+        ],
+        [
+            "ANTONIO",
+            "You more invest it! Ebbing men, indeed,"
+        ],
+        [
+            "ANTONIO",
+            "Most often do so near the bottom run"
+        ],
+        [
+            "ANTONIO",
+            "By their own fear or sloth."
+        ],
+        [
+            "SEBASTIAN",
+            "Prithee, say on:"
+        ],
+        [
+            "SEBASTIAN",
+            "The setting of thine eye and cheek proclaim"
+        ],
+        [
+            "SEBASTIAN",
+            "A matter from thee, and a birth indeed"
+        ],
+        [
+            "SEBASTIAN",
+            "Which throes thee much to yield."
+        ],
+        [
+            "ANTONIO",
+            "Thus, sir:"
+        ],
+        [
+            "ANTONIO",
+            "Although this lord of weak remembrance, this,"
+        ],
+        [
+            "ANTONIO",
+            "Who shall be of as little memory"
+        ],
+        [
+            "ANTONIO",
+            "When he is earth'd, hath here almost persuade,--"
+        ],
+        [
+            "ANTONIO",
+            "For he's a spirit of persuasion, only"
+        ],
+        [
+            "ANTONIO",
+            "Professes to persuade,--the king his son's alive,"
+        ],
+        [
+            "ANTONIO",
+            "'Tis as impossible that he's undrown'd"
+        ],
+        [
+            "ANTONIO",
+            "And he that sleeps here swims."
+        ],
+        [
+            "SEBASTIAN",
+            "I have no hope"
+        ],
+        [
+            "SEBASTIAN",
+            "That he's undrown'd."
+        ],
+        [
+            "ANTONIO",
+            "O, out of that 'no hope'"
+        ],
+        [
+            "ANTONIO",
+            "What great hope have you! no hope that way is"
+        ],
+        [
+            "ANTONIO",
+            "Another way so high a hope that even"
+        ],
+        [
+            "ANTONIO",
+            "Ambition cannot pierce a wink beyond,"
+        ],
+        [
+            "ANTONIO",
+            "But doubt discovery there. Will you grant with me"
+        ],
+        [
+            "ANTONIO",
+            "That Ferdinand is drown'd?"
+        ],
+        [
+            "SEBASTIAN",
+            "He's gone."
+        ],
+        [
+            "ANTONIO",
+            "Then, tell me,"
+        ],
+        [
+            "ANTONIO",
+            "Who's the next heir of Naples?"
+        ],
+        [
+            "SEBASTIAN",
+            "Claribel."
+        ],
+        [
+            "ANTONIO",
+            "She that is queen of Tunis; she that dwells"
+        ],
+        [
+            "ANTONIO",
+            "Ten leagues beyond man's life; she that from Naples"
+        ],
+        [
+            "ANTONIO",
+            "Can have no note, unless the sun were post--"
+        ],
+        [
+            "ANTONIO",
+            "The man i' the moon's too slow--till new-born chins"
+        ],
+        [
+            "ANTONIO",
+            "Be rough and razorable; she that--from whom?"
+        ],
+        [
+            "ANTONIO",
+            "We all were sea-swallow'd, though some cast again,"
+        ],
+        [
+            "ANTONIO",
+            "And by that destiny to perform an act"
+        ],
+        [
+            "ANTONIO",
+            "Whereof what's past is prologue, what to come"
+        ],
+        [
+            "ANTONIO",
+            "In yours and my discharge."
+        ],
+        [
+            "SEBASTIAN",
+            "What stuff is this! how say you?"
+        ],
+        [
+            "SEBASTIAN",
+            "'Tis true, my brother's daughter's queen of Tunis;"
+        ],
+        [
+            "SEBASTIAN",
+            "So is she heir of Naples; 'twixt which regions"
+        ],
+        [
+            "SEBASTIAN",
+            "There is some space."
+        ],
+        [
+            "ANTONIO",
+            "A space whose every cubit"
+        ],
+        [
+            "ANTONIO",
+            "Seems to cry out, 'How shall that Claribel"
+        ],
+        [
+            "ANTONIO",
+            "Measure us back to Naples? Keep in Tunis,"
+        ],
+        [
+            "ANTONIO",
+            "And let Sebastian wake.' Say, this were death"
+        ],
+        [
+            "ANTONIO",
+            "That now hath seized them; why, they were no worse"
+        ],
+        [
+            "ANTONIO",
+            "Than now they are. There be that can rule Naples"
+        ],
+        [
+            "ANTONIO",
+            "As well as he that sleeps; lords that can prate"
+        ],
+        [
+            "ANTONIO",
+            "As amply and unnecessarily"
+        ],
+        [
+            "ANTONIO",
+            "As this Gonzalo; I myself could make"
+        ],
+        [
+            "ANTONIO",
+            "A chough of as deep chat. O, that you bore"
+        ],
+        [
+            "ANTONIO",
+            "The mind that I do! what a sleep were this"
+        ],
+        [
+            "ANTONIO",
+            "For your advancement! Do you understand me?"
+        ],
+        [
+            "SEBASTIAN",
+            "Methinks I do."
+        ],
+        [
+            "ANTONIO",
+            "And how does your content"
+        ],
+        [
+            "ANTONIO",
+            "Tender your own good fortune?"
+        ],
+        [
+            "SEBASTIAN",
+            "I remember"
+        ],
+        [
+            "SEBASTIAN",
+            "You did supplant your brother Prospero."
+        ],
+        [
+            "ANTONIO",
+            "True:"
+        ],
+        [
+            "ANTONIO",
+            "And look how well my garments sit upon me;"
+        ],
+        [
+            "ANTONIO",
+            "Much feater than before: my brother's servants"
+        ],
+        [
+            "ANTONIO",
+            "Were then my fellows; now they are my men."
+        ],
+        [
+            "SEBASTIAN",
+            "But, for your conscience?"
+        ],
+        [
+            "ANTONIO",
+            "Ay, sir; where lies that? if 'twere a kibe,"
+        ],
+        [
+            "ANTONIO",
+            "'Twould put me to my slipper: but I feel not"
+        ],
+        [
+            "ANTONIO",
+            "This deity in my bosom: twenty consciences,"
+        ],
+        [
+            "ANTONIO",
+            "That stand 'twixt me and Milan, candied be they"
+        ],
+        [
+            "ANTONIO",
+            "And melt ere they molest! Here lies your brother,"
+        ],
+        [
+            "ANTONIO",
+            "No better than the earth he lies upon,"
+        ],
+        [
+            "ANTONIO",
+            "If he were that which now he's like, that's dead;"
+        ],
+        [
+            "ANTONIO",
+            "Whom I, with this obedient steel, three inches of it,"
+        ],
+        [
+            "ANTONIO",
+            "Can lay to bed for ever; whiles you, doing thus,"
+        ],
+        [
+            "ANTONIO",
+            "To the perpetual wink for aye might put"
+        ],
+        [
+            "ANTONIO",
+            "This ancient morsel, this Sir Prudence, who"
+        ],
+        [
+            "ANTONIO",
+            "Should not upbraid our course. For all the rest,"
+        ],
+        [
+            "ANTONIO",
+            "They'll take suggestion as a cat laps milk;"
+        ],
+        [
+            "ANTONIO",
+            "They'll tell the clock to any business that"
+        ],
+        [
+            "ANTONIO",
+            "We say befits the hour."
+        ],
+        [
+            "SEBASTIAN",
+            "Thy case, dear friend,"
+        ],
+        [
+            "SEBASTIAN",
+            "Shall be my precedent; as thou got'st Milan,"
+        ],
+        [
+            "SEBASTIAN",
+            "I'll come by Naples. Draw thy sword: one stroke"
+        ],
+        [
+            "SEBASTIAN",
+            "Shall free thee from the tribute which thou payest;"
+        ],
+        [
+            "SEBASTIAN",
+            "And I the king shall love thee."
+        ],
+        [
+            "ANTONIO",
+            "Draw together;"
+        ],
+        [
+            "ANTONIO",
+            "And when I rear my hand, do you the like,"
+        ],
+        [
+            "ANTONIO",
+            "To fall it on Gonzalo."
+        ],
+        [
+            "SEBASTIAN",
+            "O, but one word.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "ARIEL",
+            "My master through his art foresees the danger",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "ARIEL",
+            "That you, his friend, are in; and sends me forth--"
+        ],
+        [
+            "ARIEL",
+            "For else his project dies--to keep them living.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "ARIEL",
+            "While you here do snoring lie,",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "ARIEL",
+            "Open-eyed conspiracy"
+        ],
+        [
+            "ARIEL",
+            "His time doth take."
+        ],
+        [
+            "ARIEL",
+            "If of life you keep a care,"
+        ],
+        [
+            "ARIEL",
+            "Shake off slumber, and beware:"
+        ],
+        [
+            "ARIEL",
+            "Awake, awake!"
+        ],
+        [
+            "ANTONIO",
+            "Then let us both be sudden."
+        ],
+        [
+            "GONZALO",
+            "Now, good angels"
+        ],
+        [
+            "GONZALO",
+            "Preserve the king.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "ALONSO",
+            "Why, how now? ho, awake! Why are you drawn?",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "ALONSO",
+            "Wherefore this ghastly looking?"
+        ],
+        [
+            "GONZALO",
+            "What's the matter?"
+        ],
+        [
+            "SEBASTIAN",
+            "Whiles we stood here securing your repose,"
+        ],
+        [
+            "SEBASTIAN",
+            "Even now, we heard a hollow burst of bellowing"
+        ],
+        [
+            "SEBASTIAN",
+            "Like bulls, or rather lions: did't not wake you?"
+        ],
+        [
+            "SEBASTIAN",
+            "It struck mine ear most terribly."
+        ],
+        [
+            "ALONSO",
+            "I heard nothing."
+        ],
+        [
+            "ANTONIO",
+            "O, 'twas a din to fright a monster's ear,"
+        ],
+        [
+            "ANTONIO",
+            "To make an earthquake! sure, it was the roar"
+        ],
+        [
+            "ANTONIO",
+            "Of a whole herd of lions."
+        ],
+        [
+            "ALONSO",
+            "Heard you this, Gonzalo?"
+        ],
+        [
+            "GONZALO",
+            "Upon mine honour, sir, I heard a humming,"
+        ],
+        [
+            "GONZALO",
+            "And that a strange one too, which did awake me:"
+        ],
+        [
+            "GONZALO",
+            "I shaked you, sir, and cried: as mine eyes open'd,"
+        ],
+        [
+            "GONZALO",
+            "I saw their weapons drawn: there was a noise,"
+        ],
+        [
+            "GONZALO",
+            "That's verily. 'Tis best we stand upon our guard,"
+        ],
+        [
+            "GONZALO",
+            "Or that we quit this place; let's draw our weapons."
+        ],
+        [
+            "ALONSO",
+            "Lead off this ground; and let's make further search"
+        ],
+        [
+            "ALONSO",
+            "For my poor son."
+        ],
+        [
+            "GONZALO",
+            "Heavens keep him from these beasts!"
+        ],
+        [
+            "GONZALO",
+            "For he is, sure, i' the island."
+        ],
+        [
+            "ALONSO",
+            "Lead away."
+        ],
+        [
+            "ARIEL",
+            "Prospero my lord shall know what I have done:"
+        ],
+        [
+            "ARIEL",
+            "So, king, go safely on to seek thy son.",
+            {
+                "following_direction_line": "8"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter ALONSO, SEBASTIAN, ANTONIO, GONZALO, ADRIAN, FRANCISCO, and others"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter ARIEL, invisible, playing solemn music"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "All sleep except ALONSO, SEBASTIAN, and ANTONIO"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "ALONSO sleeps. Exit ARIEL"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "They talk apart. Re-enter ARIEL, invisible"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Sings in GONZALO's ear"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "They wake"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "GONZALO": [
+            [
+                "1",
+                "9"
+            ],
+            [
+                "15",
+                "15"
+            ],
+            [
+                "17",
+                "18"
+            ],
+            [
+                "20",
+                "21"
+            ],
+            [
+                "23",
+                "23"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "48",
+                "48"
+            ],
+            [
+                "51",
+                "51"
+            ],
+            [
+                "56",
+                "57"
+            ],
+            [
+                "59",
+                "62"
+            ],
+            [
+                "66",
+                "68"
+            ],
+            [
+                "72",
+                "72"
+            ],
+            [
+                "79",
+                "79"
+            ],
+            [
+                "81",
+                "81"
+            ],
+            [
+                "89",
+                "89"
+            ],
+            [
+                "91",
+                "93"
+            ],
+            [
+                "97",
+                "98"
+            ],
+            [
+                "100",
+                "100"
+            ],
+            [
+                "136",
+                "139"
+            ],
+            [
+                "142",
+                "143"
+            ],
+            [
+                "146",
+                "146"
+            ],
+            [
+                "149",
+                "149"
+            ],
+            [
+                "151",
+                "160"
+            ],
+            [
+                "164",
+                "169"
+            ],
+            [
+                "172",
+                "173"
+            ],
+            [
+                "176",
+                "176"
+            ],
+            [
+                "178",
+                "181"
+            ],
+            [
+                "183",
+                "185"
+            ],
+            [
+                "188",
+                "190"
+            ],
+            [
+                "193",
+                "195"
+            ],
+            [
+                "340",
+                "341"
+            ],
+            [
+                "344",
+                "344"
+            ],
+            [
+                "354",
+                "359"
+            ],
+            [
+                "362",
+                "363"
+            ]
+        ],
+        "ALONSO": [
+            [
+                "10",
+                "10"
+            ],
+            [
+                "25",
+                "25"
+            ],
+            [
+                "101",
+                "108"
+            ],
+            [
+                "119",
+                "119"
+            ],
+            [
+                "125",
+                "125"
+            ],
+            [
+                "135",
+                "135"
+            ],
+            [
+                "177",
+                "177"
+            ],
+            [
+                "197",
+                "199"
+            ],
+            [
+                "207",
+                "207"
+            ],
+            [
+                "342",
+                "343"
+            ],
+            [
+                "349",
+                "349"
+            ],
+            [
+                "353",
+                "353"
+            ],
+            [
+                "360",
+                "361"
+            ],
+            [
+                "364",
+                "364"
+            ]
+        ],
+        "SEBASTIAN": [
+            [
+                "11",
+                "11"
+            ],
+            [
+                "13",
+                "14"
+            ],
+            [
+                "16",
+                "16"
+            ],
+            [
+                "19",
+                "19"
+            ],
+            [
+                "22",
+                "22"
+            ],
+            [
+                "27",
+                "27"
+            ],
+            [
+                "30",
+                "30"
+            ],
+            [
+                "32",
+                "32"
+            ],
+            [
+                "34",
+                "34"
+            ],
+            [
+                "36",
+                "36"
+            ],
+            [
+                "38",
+                "38"
+            ],
+            [
+                "44",
+                "44"
+            ],
+            [
+                "46",
+                "46"
+            ],
+            [
+                "50",
+                "50"
+            ],
+            [
+                "53",
+                "53"
+            ],
+            [
+                "55",
+                "55"
+            ],
+            [
+                "58",
+                "58"
+            ],
+            [
+                "65",
+                "65"
+            ],
+            [
+                "69",
+                "69"
+            ],
+            [
+                "75",
+                "76"
+            ],
+            [
+                "82",
+                "83"
+            ],
+            [
+                "85",
+                "86"
+            ],
+            [
+                "95",
+                "95"
+            ],
+            [
+                "120",
+                "124"
+            ],
+            [
+                "126",
+                "134"
+            ],
+            [
+                "140",
+                "140"
+            ],
+            [
+                "144",
+                "144"
+            ],
+            [
+                "148",
+                "148"
+            ],
+            [
+                "150",
+                "150"
+            ],
+            [
+                "161",
+                "161"
+            ],
+            [
+                "170",
+                "170"
+            ],
+            [
+                "174",
+                "174"
+            ],
+            [
+                "187",
+                "187"
+            ],
+            [
+                "191",
+                "191"
+            ],
+            [
+                "200",
+                "203"
+            ],
+            [
+                "208",
+                "208"
+            ],
+            [
+                "210",
+                "212"
+            ],
+            [
+                "221",
+                "221"
+            ],
+            [
+                "223",
+                "228"
+            ],
+            [
+                "232",
+                "233"
+            ],
+            [
+                "237",
+                "237"
+            ],
+            [
+                "239",
+                "240"
+            ],
+            [
+                "247",
+                "250"
+            ],
+            [
+                "259",
+                "260"
+            ],
+            [
+                "267",
+                "267"
+            ],
+            [
+                "270",
+                "270"
+            ],
+            [
+                "280",
+                "283"
+            ],
+            [
+                "296",
+                "296"
+            ],
+            [
+                "299",
+                "300"
+            ],
+            [
+                "305",
+                "305"
+            ],
+            [
+                "321",
+                "325"
+            ],
+            [
+                "329",
+                "329"
+            ],
+            [
+                "345",
+                "348"
+            ]
+        ],
+        "ANTONIO": [
+            [
+                "12",
+                "12"
+            ],
+            [
+                "24",
+                "24"
+            ],
+            [
+                "28",
+                "29"
+            ],
+            [
+                "31",
+                "31"
+            ],
+            [
+                "33",
+                "33"
+            ],
+            [
+                "40",
+                "40"
+            ],
+            [
+                "43",
+                "43"
+            ],
+            [
+                "47",
+                "47"
+            ],
+            [
+                "49",
+                "49"
+            ],
+            [
+                "52",
+                "52"
+            ],
+            [
+                "54",
+                "54"
+            ],
+            [
+                "63",
+                "64"
+            ],
+            [
+                "73",
+                "74"
+            ],
+            [
+                "84",
+                "84"
+            ],
+            [
+                "87",
+                "88"
+            ],
+            [
+                "90",
+                "90"
+            ],
+            [
+                "94",
+                "94"
+            ],
+            [
+                "96",
+                "96"
+            ],
+            [
+                "99",
+                "99"
+            ],
+            [
+                "141",
+                "141"
+            ],
+            [
+                "145",
+                "145"
+            ],
+            [
+                "147",
+                "147"
+            ],
+            [
+                "162",
+                "163"
+            ],
+            [
+                "171",
+                "171"
+            ],
+            [
+                "175",
+                "175"
+            ],
+            [
+                "182",
+                "182"
+            ],
+            [
+                "186",
+                "186"
+            ],
+            [
+                "192",
+                "192"
+            ],
+            [
+                "196",
+                "196"
+            ],
+            [
+                "204",
+                "206"
+            ],
+            [
+                "209",
+                "209"
+            ],
+            [
+                "213",
+                "220"
+            ],
+            [
+                "222",
+                "222"
+            ],
+            [
+                "229",
+                "231"
+            ],
+            [
+                "234",
+                "236"
+            ],
+            [
+                "238",
+                "238"
+            ],
+            [
+                "241",
+                "246"
+            ],
+            [
+                "251",
+                "258"
+            ],
+            [
+                "261",
+                "266"
+            ],
+            [
+                "268",
+                "269"
+            ],
+            [
+                "271",
+                "279"
+            ],
+            [
+                "284",
+                "295"
+            ],
+            [
+                "297",
+                "298"
+            ],
+            [
+                "301",
+                "304"
+            ],
+            [
+                "306",
+                "320"
+            ],
+            [
+                "326",
+                "328"
+            ],
+            [
+                "339",
+                "339"
+            ],
+            [
+                "350",
+                "352"
+            ]
+        ],
+        "ADRIAN": [
+            [
+                "35",
+                "35"
+            ],
+            [
+                "37",
+                "37"
+            ],
+            [
+                "39",
+                "39"
+            ],
+            [
+                "41",
+                "42"
+            ],
+            [
+                "45",
+                "45"
+            ],
+            [
+                "70",
+                "71"
+            ],
+            [
+                "77",
+                "78"
+            ],
+            [
+                "80",
+                "80"
+            ]
+        ],
+        "FRANCISCO": [
+            [
+                "109",
+                "118"
+            ]
+        ],
+        "ARIEL": [
+            [
+                "330",
+                "338"
+            ],
+            [
+                "365",
+                "366"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "Another part of the island."
+}

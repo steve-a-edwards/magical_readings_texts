@@ -1,0 +1,224 @@
+_S_SCENE II. Another part of the island.
+_D_Enter CALIBAN, STEPHANO, and TRINCULO
+_R_STEPHANO
+Tell not me; when the butt is out, we will drink
+water; not a drop before: therefore bear up, and
+board 'em. Servant-monster, drink to me.
+_R_TRINCULO
+Servant-monster! the folly of this island! They
+say there's but five upon this isle: we are three
+of them; if th' other two be brained like us, the
+state totters.
+_R_STEPHANO
+Drink, servant-monster, when I bid thee: thy eyes
+are almost set in thy head.
+_R_TRINCULO
+Where should they be set else? he were a brave
+monster indeed, if they were set in his tail.
+_R_STEPHANO
+My man-monster hath drown'd his tongue in sack:
+for my part, the sea cannot drown me; I swam, ere I
+could recover the shore, five and thirty leagues off
+and on. By this light, thou shalt be my lieutenant,
+monster, or my standard.
+_R_TRINCULO
+Your lieutenant, if you list; he's no standard.
+_R_STEPHANO
+We'll not run, Monsieur Monster.
+_R_TRINCULO
+Nor go neither; but you'll lie like dogs and yet say
+nothing neither.
+_R_STEPHANO
+Moon-calf, speak once in thy life, if thou beest a
+good moon-calf.
+_R_CALIBAN
+How does thy honour? Let me lick thy shoe.
+I'll not serve him; he's not valiant.
+_R_TRINCULO
+Thou liest, most ignorant monster: I am in case to
+justle a constable. Why, thou deboshed fish thou,
+was there ever man a coward that hath drunk so much
+sack as I to-day? Wilt thou tell a monstrous lie,
+being but half a fish and half a monster?
+_R_CALIBAN
+Lo, how he mocks me! wilt thou let him, my lord?
+_R_TRINCULO
+'Lord' quoth he! That a monster should be such a natural!
+_R_CALIBAN
+Lo, lo, again! bite him to death, I prithee.
+_R_STEPHANO
+Trinculo, keep a good tongue in your head: if you
+prove a mutineer,--the next tree! The poor monster's
+my subject and he shall not suffer indignity.
+_R_CALIBAN
+I thank my noble lord. Wilt thou be pleased to
+hearken once again to the suit I made to thee?
+_R_STEPHANO
+Marry, will I kneel and repeat it; I will stand,
+and so shall Trinculo.
+_D_Enter ARIEL, invisible
+_R_CALIBAN
+As I told thee before, I am subject to a tyrant, a
+sorcerer, that by his cunning hath cheated me of the island.
+_R_ARIEL
+Thou liest.
+_R_CALIBAN
+Thou liest, thou jesting monkey, thou: I would my
+valiant master would destroy thee! I do not lie.
+_R_STEPHANO
+Trinculo, if you trouble him any more in's tale, by
+this hand, I will supplant some of your teeth.
+_R_TRINCULO
+Why, I said nothing.
+_R_STEPHANO
+Mum, then, and no more. Proceed.
+_R_CALIBAN
+I say, by sorcery he got this isle;
+From me he got it. if thy greatness will
+Revenge it on him,--for I know thou darest,
+But this thing dare not,--
+_R_STEPHANO
+That's most certain.
+_R_CALIBAN
+Thou shalt be lord of it and I'll serve thee.
+_R_STEPHANO
+How now shall this be compassed?
+Canst thou bring me to the party?
+_R_CALIBAN
+Yea, yea, my lord: I'll yield him thee asleep,
+Where thou mayst knock a nail into his bead.
+_R_ARIEL
+Thou liest; thou canst not.
+_R_CALIBAN
+What a pied ninny's this! Thou scurvy patch!
+I do beseech thy greatness, give him blows
+And take his bottle from him: when that's gone
+He shall drink nought but brine; for I'll not show him
+Where the quick freshes are.
+_R_STEPHANO
+Trinculo, run into no further danger:
+interrupt the monster one word further, and,
+by this hand, I'll turn my mercy out o' doors
+and make a stock-fish of thee.
+_R_TRINCULO
+Why, what did I? I did nothing. I'll go farther
+off.
+_R_STEPHANO
+Didst thou not say he lied?
+_R_ARIEL
+Thou liest.
+_R_STEPHANO
+Do I so? take thou that.
+_D_Beats TRINCULO
+As you like this, give me the lie another time.
+_R_TRINCULO
+I did not give the lie. Out o' your
+wits and bearing too? A pox o' your bottle!
+this can sack and drinking do. A murrain on
+your monster, and the devil take your fingers!
+_R_CALIBAN
+Ha, ha, ha!
+_R_STEPHANO
+Now, forward with your tale. Prithee, stand farther
+off.
+_R_CALIBAN
+Beat him enough: after a little time
+I'll beat him too.
+_R_STEPHANO
+Stand farther. Come, proceed.
+_R_CALIBAN
+Why, as I told thee, 'tis a custom with him,
+I' th' afternoon to sleep: there thou mayst brain him,
+Having first seized his books, or with a log
+Batter his skull, or paunch him with a stake,
+Or cut his wezand with thy knife. Remember
+First to possess his books; for without them
+He's but a sot, as I am, nor hath not
+One spirit to command: they all do hate him
+As rootedly as I. Burn but his books.
+He has brave utensils,--for so he calls them--
+Which when he has a house, he'll deck withal
+And that most deeply to consider is
+The beauty of his daughter; he himself
+Calls her a nonpareil: I never saw a woman,
+But only Sycorax my dam and she;
+But she as far surpasseth Sycorax
+As great'st does least.
+_R_STEPHANO
+Is it so brave a lass?
+_R_CALIBAN
+Ay, lord; she will become thy bed, I warrant.
+And bring thee forth brave brood.
+_R_STEPHANO
+Monster, I will kill this man: his daughter and I
+will be king and queen--save our graces!--and
+Trinculo and thyself shall be viceroys. Dost thou
+like the plot, Trinculo?
+_R_TRINCULO
+Excellent.
+_R_STEPHANO
+Give me thy hand: I am sorry I beat thee; but,
+while thou livest, keep a good tongue in thy head.
+_R_CALIBAN
+Within this half hour will he be asleep:
+Wilt thou destroy him then?
+_R_STEPHANO
+Ay, on mine honour.
+_R_ARIEL
+This will I tell my master.
+_R_CALIBAN
+Thou makest me merry; I am full of pleasure:
+Let us be jocund: will you troll the catch
+You taught me but while-ere?
+_R_STEPHANO
+At thy request, monster, I will do reason, any
+reason. Come on, Trinculo, let us sing.
+_D_Sings
+Flout 'em and scout 'em
+And scout 'em and flout 'em
+Thought is free.
+_R_CALIBAN
+That's not the tune.
+_D_Ariel plays the tune on a tabour and pipe
+_R_STEPHANO
+What is this same?
+_R_TRINCULO
+This is the tune of our catch, played by the picture
+of Nobody.
+_R_STEPHANO
+If thou beest a man, show thyself in thy likeness:
+if thou beest a devil, take't as thou list.
+_R_TRINCULO
+O, forgive me my sins!
+_R_STEPHANO
+He that dies pays all debts: I defy thee. Mercy upon us!
+_R_CALIBAN
+Art thou afeard?
+_R_STEPHANO
+No, monster, not I.
+_R_CALIBAN
+Be not afeard; the isle is full of noises,
+Sounds and sweet airs, that give delight and hurt not.
+Sometimes a thousand twangling instruments
+Will hum about mine ears, and sometime voices
+That, if I then had waked after long sleep,
+Will make me sleep again: and then, in dreaming,
+The clouds methought would open and show riches
+Ready to drop upon me that, when I waked,
+I cried to dream again.
+_R_STEPHANO
+This will prove a brave kingdom to me, where I shall
+have my music for nothing.
+_R_CALIBAN
+When Prospero is destroyed.
+_R_STEPHANO
+That shall be by and by: I remember the story.
+_R_TRINCULO
+The sound is going away; let's follow it, and
+after do our work.
+_R_STEPHANO
+Lead, monster; we'll follow. I would I could see
+this tabourer; he lays it on.
+_R_TRINCULO
+Wilt come? I'll follow, Stephano.
+_D_Exeunt

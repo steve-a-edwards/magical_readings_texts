@@ -1,0 +1,3178 @@
+{
+    "scene_id": "the tempest~~Act_1~~Scene_2",
+    "work_number": "10",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "MIRANDA",
+            "If by your art, my dearest father, you have",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "MIRANDA",
+            "Put the wild waters in this roar, allay them."
+        ],
+        [
+            "MIRANDA",
+            "The sky, it seems, would pour down stinking pitch,"
+        ],
+        [
+            "MIRANDA",
+            "But that the sea, mounting to the welkin's cheek,"
+        ],
+        [
+            "MIRANDA",
+            "Dashes the fire out. O, I have suffered"
+        ],
+        [
+            "MIRANDA",
+            "With those that I saw suffer: a brave vessel,"
+        ],
+        [
+            "MIRANDA",
+            "Who had, no doubt, some noble creature in her,"
+        ],
+        [
+            "MIRANDA",
+            "Dash'd all to pieces. O, the cry did knock"
+        ],
+        [
+            "MIRANDA",
+            "Against my very heart. Poor souls, they perish'd."
+        ],
+        [
+            "MIRANDA",
+            "Had I been any god of power, I would"
+        ],
+        [
+            "MIRANDA",
+            "Have sunk the sea within the earth or ere"
+        ],
+        [
+            "MIRANDA",
+            "It should the good ship so have swallow'd and"
+        ],
+        [
+            "MIRANDA",
+            "The fraughting souls within her."
+        ],
+        [
+            "PROSPERO",
+            "Be collected:"
+        ],
+        [
+            "PROSPERO",
+            "No more amazement: tell your piteous heart"
+        ],
+        [
+            "PROSPERO",
+            "There's no harm done."
+        ],
+        [
+            "MIRANDA",
+            "O, woe the day!"
+        ],
+        [
+            "PROSPERO",
+            "No harm."
+        ],
+        [
+            "PROSPERO",
+            "I have done nothing but in care of thee,"
+        ],
+        [
+            "PROSPERO",
+            "Of thee, my dear one, thee, my daughter, who"
+        ],
+        [
+            "PROSPERO",
+            "Art ignorant of what thou art, nought knowing"
+        ],
+        [
+            "PROSPERO",
+            "Of whence I am, nor that I am more better"
+        ],
+        [
+            "PROSPERO",
+            "Than Prospero, master of a full poor cell,"
+        ],
+        [
+            "PROSPERO",
+            "And thy no greater father."
+        ],
+        [
+            "MIRANDA",
+            "More to know"
+        ],
+        [
+            "MIRANDA",
+            "Did never meddle with my thoughts."
+        ],
+        [
+            "PROSPERO",
+            "'Tis time"
+        ],
+        [
+            "PROSPERO",
+            "I should inform thee farther. Lend thy hand,"
+        ],
+        [
+            "PROSPERO",
+            "And pluck my magic garment from me. So:",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Lie there, my art. Wipe thou thine eyes; have comfort.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "PROSPERO",
+            "The direful spectacle of the wreck, which touch'd"
+        ],
+        [
+            "PROSPERO",
+            "The very virtue of compassion in thee,"
+        ],
+        [
+            "PROSPERO",
+            "I have with such provision in mine art"
+        ],
+        [
+            "PROSPERO",
+            "So safely ordered that there is no soul--"
+        ],
+        [
+            "PROSPERO",
+            "No, not so much perdition as an hair"
+        ],
+        [
+            "PROSPERO",
+            "Betid to any creature in the vessel"
+        ],
+        [
+            "PROSPERO",
+            "Which thou heard'st cry, which thou saw'st sink. Sit down;"
+        ],
+        [
+            "PROSPERO",
+            "For thou must now know farther."
+        ],
+        [
+            "MIRANDA",
+            "You have often"
+        ],
+        [
+            "MIRANDA",
+            "Begun to tell me what I am, but stopp'd"
+        ],
+        [
+            "MIRANDA",
+            "And left me to a bootless inquisition,"
+        ],
+        [
+            "MIRANDA",
+            "Concluding 'Stay: not yet.'"
+        ],
+        [
+            "PROSPERO",
+            "The hour's now come;"
+        ],
+        [
+            "PROSPERO",
+            "The very minute bids thee ope thine ear;"
+        ],
+        [
+            "PROSPERO",
+            "Obey and be attentive. Canst thou remember"
+        ],
+        [
+            "PROSPERO",
+            "A time before we came unto this cell?"
+        ],
+        [
+            "PROSPERO",
+            "I do not think thou canst, for then thou wast not"
+        ],
+        [
+            "PROSPERO",
+            "Out three years old."
+        ],
+        [
+            "MIRANDA",
+            "Certainly, sir, I can."
+        ],
+        [
+            "PROSPERO",
+            "By what? by any other house or person?"
+        ],
+        [
+            "PROSPERO",
+            "Of any thing the image tell me that"
+        ],
+        [
+            "PROSPERO",
+            "Hath kept with thy remembrance."
+        ],
+        [
+            "MIRANDA",
+            "'Tis far off"
+        ],
+        [
+            "MIRANDA",
+            "And rather like a dream than an assurance"
+        ],
+        [
+            "MIRANDA",
+            "That my remembrance warrants. Had I not"
+        ],
+        [
+            "MIRANDA",
+            "Four or five women once that tended me?"
+        ],
+        [
+            "PROSPERO",
+            "Thou hadst, and more, Miranda. But how is it"
+        ],
+        [
+            "PROSPERO",
+            "That this lives in thy mind? What seest thou else"
+        ],
+        [
+            "PROSPERO",
+            "In the dark backward and abysm of time?"
+        ],
+        [
+            "PROSPERO",
+            "If thou remember'st aught ere thou camest here,"
+        ],
+        [
+            "PROSPERO",
+            "How thou camest here thou mayst."
+        ],
+        [
+            "MIRANDA",
+            "But that I do not."
+        ],
+        [
+            "PROSPERO",
+            "Twelve year since, Miranda, twelve year since,"
+        ],
+        [
+            "PROSPERO",
+            "Thy father was the Duke of Milan and"
+        ],
+        [
+            "PROSPERO",
+            "A prince of power."
+        ],
+        [
+            "MIRANDA",
+            "Sir, are not you my father?"
+        ],
+        [
+            "PROSPERO",
+            "Thy mother was a piece of virtue, and"
+        ],
+        [
+            "PROSPERO",
+            "She said thou wast my daughter; and thy father"
+        ],
+        [
+            "PROSPERO",
+            "Was Duke of Milan; and thou his only heir"
+        ],
+        [
+            "PROSPERO",
+            "And princess no worse issued."
+        ],
+        [
+            "MIRANDA",
+            "O the heavens!"
+        ],
+        [
+            "MIRANDA",
+            "What foul play had we, that we came from thence?"
+        ],
+        [
+            "MIRANDA",
+            "Or blessed was't we did?"
+        ],
+        [
+            "PROSPERO",
+            "Both, both, my girl:"
+        ],
+        [
+            "PROSPERO",
+            "By foul play, as thou say'st, were we heaved thence,"
+        ],
+        [
+            "PROSPERO",
+            "But blessedly holp hither."
+        ],
+        [
+            "MIRANDA",
+            "O, my heart bleeds"
+        ],
+        [
+            "MIRANDA",
+            "To think o' the teen that I have turn'd you to,"
+        ],
+        [
+            "MIRANDA",
+            "Which is from my remembrance! Please you, farther."
+        ],
+        [
+            "PROSPERO",
+            "My brother and thy uncle, call'd Antonio--"
+        ],
+        [
+            "PROSPERO",
+            "I pray thee, mark me--that a brother should"
+        ],
+        [
+            "PROSPERO",
+            "Be so perfidious!--he whom next thyself"
+        ],
+        [
+            "PROSPERO",
+            "Of all the world I loved and to him put"
+        ],
+        [
+            "PROSPERO",
+            "The manage of my state; as at that time"
+        ],
+        [
+            "PROSPERO",
+            "Through all the signories it was the first"
+        ],
+        [
+            "PROSPERO",
+            "And Prospero the prime duke, being so reputed"
+        ],
+        [
+            "PROSPERO",
+            "In dignity, and for the liberal arts"
+        ],
+        [
+            "PROSPERO",
+            "Without a parallel; those being all my study,"
+        ],
+        [
+            "PROSPERO",
+            "The government I cast upon my brother"
+        ],
+        [
+            "PROSPERO",
+            "And to my state grew stranger, being transported"
+        ],
+        [
+            "PROSPERO",
+            "And rapt in secret studies. Thy false uncle--"
+        ],
+        [
+            "PROSPERO",
+            "Dost thou attend me?"
+        ],
+        [
+            "MIRANDA",
+            "Sir, most heedfully."
+        ],
+        [
+            "PROSPERO",
+            "Being once perfected how to grant suits,"
+        ],
+        [
+            "PROSPERO",
+            "How to deny them, who to advance and who"
+        ],
+        [
+            "PROSPERO",
+            "To trash for over-topping, new created"
+        ],
+        [
+            "PROSPERO",
+            "The creatures that were mine, I say, or changed 'em,"
+        ],
+        [
+            "PROSPERO",
+            "Or else new form'd 'em; having both the key"
+        ],
+        [
+            "PROSPERO",
+            "Of officer and office, set all hearts i' the state"
+        ],
+        [
+            "PROSPERO",
+            "To what tune pleased his ear; that now he was"
+        ],
+        [
+            "PROSPERO",
+            "The ivy which had hid my princely trunk,"
+        ],
+        [
+            "PROSPERO",
+            "And suck'd my verdure out on't. Thou attend'st not."
+        ],
+        [
+            "MIRANDA",
+            "O, good sir, I do."
+        ],
+        [
+            "PROSPERO",
+            "I pray thee, mark me."
+        ],
+        [
+            "PROSPERO",
+            "I, thus neglecting worldly ends, all dedicated"
+        ],
+        [
+            "PROSPERO",
+            "To closeness and the bettering of my mind"
+        ],
+        [
+            "PROSPERO",
+            "With that which, but by being so retired,"
+        ],
+        [
+            "PROSPERO",
+            "O'er-prized all popular rate, in my false brother"
+        ],
+        [
+            "PROSPERO",
+            "Awaked an evil nature; and my trust,"
+        ],
+        [
+            "PROSPERO",
+            "Like a good parent, did beget of him"
+        ],
+        [
+            "PROSPERO",
+            "A falsehood in its contrary as great"
+        ],
+        [
+            "PROSPERO",
+            "As my trust was; which had indeed no limit,"
+        ],
+        [
+            "PROSPERO",
+            "A confidence sans bound. He being thus lorded,"
+        ],
+        [
+            "PROSPERO",
+            "Not only with what my revenue yielded,"
+        ],
+        [
+            "PROSPERO",
+            "But what my power might else exact, like one"
+        ],
+        [
+            "PROSPERO",
+            "Who having into truth, by telling of it,"
+        ],
+        [
+            "PROSPERO",
+            "Made such a sinner of his memory,"
+        ],
+        [
+            "PROSPERO",
+            "To credit his own lie, he did believe"
+        ],
+        [
+            "PROSPERO",
+            "He was indeed the duke; out o' the substitution"
+        ],
+        [
+            "PROSPERO",
+            "And executing the outward face of royalty,"
+        ],
+        [
+            "PROSPERO",
+            "With all prerogative: hence his ambition growing--"
+        ],
+        [
+            "PROSPERO",
+            "Dost thou hear?"
+        ],
+        [
+            "MIRANDA",
+            "Your tale, sir, would cure deafness."
+        ],
+        [
+            "PROSPERO",
+            "To have no screen between this part he play'd"
+        ],
+        [
+            "PROSPERO",
+            "And him he play'd it for, he needs will be"
+        ],
+        [
+            "PROSPERO",
+            "Absolute Milan. Me, poor man, my library"
+        ],
+        [
+            "PROSPERO",
+            "Was dukedom large enough: of temporal royalties"
+        ],
+        [
+            "PROSPERO",
+            "He thinks me now incapable; confederates--"
+        ],
+        [
+            "PROSPERO",
+            "So dry he was for sway--wi' the King of Naples"
+        ],
+        [
+            "PROSPERO",
+            "To give him annual tribute, do him homage,"
+        ],
+        [
+            "PROSPERO",
+            "Subject his coronet to his crown and bend"
+        ],
+        [
+            "PROSPERO",
+            "The dukedom yet unbow'd--alas, poor Milan!--"
+        ],
+        [
+            "PROSPERO",
+            "To most ignoble stooping."
+        ],
+        [
+            "MIRANDA",
+            "O the heavens!"
+        ],
+        [
+            "PROSPERO",
+            "Mark his condition and the event; then tell me"
+        ],
+        [
+            "PROSPERO",
+            "If this might be a brother."
+        ],
+        [
+            "MIRANDA",
+            "I should sin"
+        ],
+        [
+            "MIRANDA",
+            "To think but nobly of my grandmother:"
+        ],
+        [
+            "MIRANDA",
+            "Good wombs have borne bad sons."
+        ],
+        [
+            "PROSPERO",
+            "Now the condition."
+        ],
+        [
+            "PROSPERO",
+            "The King of Naples, being an enemy"
+        ],
+        [
+            "PROSPERO",
+            "To me inveterate, hearkens my brother's suit;"
+        ],
+        [
+            "PROSPERO",
+            "Which was, that he, in lieu o' the premises"
+        ],
+        [
+            "PROSPERO",
+            "Of homage and I know not how much tribute,"
+        ],
+        [
+            "PROSPERO",
+            "Should presently extirpate me and mine"
+        ],
+        [
+            "PROSPERO",
+            "Out of the dukedom and confer fair Milan"
+        ],
+        [
+            "PROSPERO",
+            "With all the honours on my brother: whereon,"
+        ],
+        [
+            "PROSPERO",
+            "A treacherous army levied, one midnight"
+        ],
+        [
+            "PROSPERO",
+            "Fated to the purpose did Antonio open"
+        ],
+        [
+            "PROSPERO",
+            "The gates of Milan, and, i' the dead of darkness,"
+        ],
+        [
+            "PROSPERO",
+            "The ministers for the purpose hurried thence"
+        ],
+        [
+            "PROSPERO",
+            "Me and thy crying self."
+        ],
+        [
+            "MIRANDA",
+            "Alack, for pity!"
+        ],
+        [
+            "MIRANDA",
+            "I, not remembering how I cried out then,"
+        ],
+        [
+            "MIRANDA",
+            "Will cry it o'er again: it is a hint"
+        ],
+        [
+            "MIRANDA",
+            "That wrings mine eyes to't."
+        ],
+        [
+            "PROSPERO",
+            "Hear a little further"
+        ],
+        [
+            "PROSPERO",
+            "And then I'll bring thee to the present business"
+        ],
+        [
+            "PROSPERO",
+            "Which now's upon's; without the which this story"
+        ],
+        [
+            "PROSPERO",
+            "Were most impertinent."
+        ],
+        [
+            "MIRANDA",
+            "Wherefore did they not"
+        ],
+        [
+            "MIRANDA",
+            "That hour destroy us?"
+        ],
+        [
+            "PROSPERO",
+            "Well demanded, wench:"
+        ],
+        [
+            "PROSPERO",
+            "My tale provokes that question. Dear, they durst not,"
+        ],
+        [
+            "PROSPERO",
+            "So dear the love my people bore me, nor set"
+        ],
+        [
+            "PROSPERO",
+            "A mark so bloody on the business, but"
+        ],
+        [
+            "PROSPERO",
+            "With colours fairer painted their foul ends."
+        ],
+        [
+            "PROSPERO",
+            "In few, they hurried us aboard a bark,"
+        ],
+        [
+            "PROSPERO",
+            "Bore us some leagues to sea; where they prepared"
+        ],
+        [
+            "PROSPERO",
+            "A rotten carcass of a boat, not rigg'd,"
+        ],
+        [
+            "PROSPERO",
+            "Nor tackle, sail, nor mast; the very rats"
+        ],
+        [
+            "PROSPERO",
+            "Instinctively had quit it: there they hoist us,"
+        ],
+        [
+            "PROSPERO",
+            "To cry to the sea that roar'd to us, to sigh"
+        ],
+        [
+            "PROSPERO",
+            "To the winds whose pity, sighing back again,"
+        ],
+        [
+            "PROSPERO",
+            "Did us but loving wrong."
+        ],
+        [
+            "MIRANDA",
+            "Alack, what trouble"
+        ],
+        [
+            "MIRANDA",
+            "Was I then to you!"
+        ],
+        [
+            "PROSPERO",
+            "O, a cherubim"
+        ],
+        [
+            "PROSPERO",
+            "Thou wast that did preserve me. Thou didst smile."
+        ],
+        [
+            "PROSPERO",
+            "Infused with a fortitude from heaven,"
+        ],
+        [
+            "PROSPERO",
+            "When I have deck'd the sea with drops full salt,"
+        ],
+        [
+            "PROSPERO",
+            "Under my burthen groan'd; which raised in me"
+        ],
+        [
+            "PROSPERO",
+            "An undergoing stomach, to bear up"
+        ],
+        [
+            "PROSPERO",
+            "Against what should ensue."
+        ],
+        [
+            "MIRANDA",
+            "How came we ashore?"
+        ],
+        [
+            "PROSPERO",
+            "By Providence divine."
+        ],
+        [
+            "PROSPERO",
+            "Some food we had and some fresh water that"
+        ],
+        [
+            "PROSPERO",
+            "A noble Neapolitan, Gonzalo,"
+        ],
+        [
+            "PROSPERO",
+            "Out of his charity, being then appointed"
+        ],
+        [
+            "PROSPERO",
+            "Master of this design, did give us, with"
+        ],
+        [
+            "PROSPERO",
+            "Rich garments, linens, stuffs and necessaries,"
+        ],
+        [
+            "PROSPERO",
+            "Which since have steaded much; so, of his gentleness,"
+        ],
+        [
+            "PROSPERO",
+            "Knowing I loved my books, he furnish'd me"
+        ],
+        [
+            "PROSPERO",
+            "From mine own library with volumes that"
+        ],
+        [
+            "PROSPERO",
+            "I prize above my dukedom."
+        ],
+        [
+            "MIRANDA",
+            "Would I might"
+        ],
+        [
+            "MIRANDA",
+            "But ever see that man!"
+        ],
+        [
+            "PROSPERO",
+            "Now I arise:",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Sit still, and hear the last of our sea-sorrow.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Here in this island we arrived; and here"
+        ],
+        [
+            "PROSPERO",
+            "Have I, thy schoolmaster, made thee more profit"
+        ],
+        [
+            "PROSPERO",
+            "Than other princesses can that have more time"
+        ],
+        [
+            "PROSPERO",
+            "For vainer hours and tutors not so careful."
+        ],
+        [
+            "MIRANDA",
+            "Heavens thank you for't! And now, I pray you, sir,"
+        ],
+        [
+            "MIRANDA",
+            "For still 'tis beating in my mind, your reason"
+        ],
+        [
+            "MIRANDA",
+            "For raising this sea-storm?"
+        ],
+        [
+            "PROSPERO",
+            "Know thus far forth."
+        ],
+        [
+            "PROSPERO",
+            "By accident most strange, bountiful Fortune,"
+        ],
+        [
+            "PROSPERO",
+            "Now my dear lady, hath mine enemies"
+        ],
+        [
+            "PROSPERO",
+            "Brought to this shore; and by my prescience"
+        ],
+        [
+            "PROSPERO",
+            "I find my zenith doth depend upon"
+        ],
+        [
+            "PROSPERO",
+            "A most auspicious star, whose influence"
+        ],
+        [
+            "PROSPERO",
+            "If now I court not but omit, my fortunes"
+        ],
+        [
+            "PROSPERO",
+            "Will ever after droop. Here cease more questions:"
+        ],
+        [
+            "PROSPERO",
+            "Thou art inclined to sleep; 'tis a good dulness,"
+        ],
+        [
+            "PROSPERO",
+            "And give it way: I know thou canst not choose.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Come away, servant, come. I am ready now.",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Approach, my Ariel, come.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "ARIEL",
+            "All hail, great master! grave sir, hail! I come",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "ARIEL",
+            "To answer thy best pleasure; be't to fly,"
+        ],
+        [
+            "ARIEL",
+            "To swim, to dive into the fire, to ride"
+        ],
+        [
+            "ARIEL",
+            "On the curl'd clouds, to thy strong bidding task"
+        ],
+        [
+            "ARIEL",
+            "Ariel and all his quality."
+        ],
+        [
+            "PROSPERO",
+            "Hast thou, spirit,"
+        ],
+        [
+            "PROSPERO",
+            "Perform'd to point the tempest that I bade thee?"
+        ],
+        [
+            "ARIEL",
+            "To every article."
+        ],
+        [
+            "ARIEL",
+            "I boarded the king's ship; now on the beak,"
+        ],
+        [
+            "ARIEL",
+            "Now in the waist, the deck, in every cabin,"
+        ],
+        [
+            "ARIEL",
+            "I flamed amazement: sometime I'ld divide,"
+        ],
+        [
+            "ARIEL",
+            "And burn in many places; on the topmast,"
+        ],
+        [
+            "ARIEL",
+            "The yards and bowsprit, would I flame distinctly,"
+        ],
+        [
+            "ARIEL",
+            "Then meet and join. Jove's lightnings, the precursors"
+        ],
+        [
+            "ARIEL",
+            "O' the dreadful thunder-claps, more momentary"
+        ],
+        [
+            "ARIEL",
+            "And sight-outrunning were not; the fire and cracks"
+        ],
+        [
+            "ARIEL",
+            "Of sulphurous roaring the most mighty Neptune"
+        ],
+        [
+            "ARIEL",
+            "Seem to besiege and make his bold waves tremble,"
+        ],
+        [
+            "ARIEL",
+            "Yea, his dread trident shake."
+        ],
+        [
+            "PROSPERO",
+            "My brave spirit!"
+        ],
+        [
+            "PROSPERO",
+            "Who was so firm, so constant, that this coil"
+        ],
+        [
+            "PROSPERO",
+            "Would not infect his reason?"
+        ],
+        [
+            "ARIEL",
+            "Not a soul"
+        ],
+        [
+            "ARIEL",
+            "But felt a fever of the mad and play'd"
+        ],
+        [
+            "ARIEL",
+            "Some tricks of desperation. All but mariners"
+        ],
+        [
+            "ARIEL",
+            "Plunged in the foaming brine and quit the vessel,"
+        ],
+        [
+            "ARIEL",
+            "Then all afire with me: the king's son, Ferdinand,"
+        ],
+        [
+            "ARIEL",
+            "With hair up-staring,--then like reeds, not hair,--"
+        ],
+        [
+            "ARIEL",
+            "Was the first man that leap'd; cried, 'Hell is empty"
+        ],
+        [
+            "ARIEL",
+            "And all the devils are here.'"
+        ],
+        [
+            "PROSPERO",
+            "Why that's my spirit!"
+        ],
+        [
+            "PROSPERO",
+            "But was not this nigh shore?"
+        ],
+        [
+            "ARIEL",
+            "Close by, my master."
+        ],
+        [
+            "PROSPERO",
+            "But are they, Ariel, safe?"
+        ],
+        [
+            "ARIEL",
+            "Not a hair perish'd;"
+        ],
+        [
+            "ARIEL",
+            "On their sustaining garments not a blemish,"
+        ],
+        [
+            "ARIEL",
+            "But fresher than before: and, as thou badest me,"
+        ],
+        [
+            "ARIEL",
+            "In troops I have dispersed them 'bout the isle."
+        ],
+        [
+            "ARIEL",
+            "The king's son have I landed by himself;"
+        ],
+        [
+            "ARIEL",
+            "Whom I left cooling of the air with sighs"
+        ],
+        [
+            "ARIEL",
+            "In an odd angle of the isle and sitting,"
+        ],
+        [
+            "ARIEL",
+            "His arms in this sad knot."
+        ],
+        [
+            "PROSPERO",
+            "Of the king's ship"
+        ],
+        [
+            "PROSPERO",
+            "The mariners say how thou hast disposed"
+        ],
+        [
+            "PROSPERO",
+            "And all the rest o' the fleet."
+        ],
+        [
+            "ARIEL",
+            "Safely in harbour"
+        ],
+        [
+            "ARIEL",
+            "Is the king's ship; in the deep nook, where once"
+        ],
+        [
+            "ARIEL",
+            "Thou call'dst me up at midnight to fetch dew"
+        ],
+        [
+            "ARIEL",
+            "From the still-vex'd Bermoothes, there she's hid:"
+        ],
+        [
+            "ARIEL",
+            "The mariners all under hatches stow'd;"
+        ],
+        [
+            "ARIEL",
+            "Who, with a charm join'd to their suffer'd labour,"
+        ],
+        [
+            "ARIEL",
+            "I have left asleep; and for the rest o' the fleet"
+        ],
+        [
+            "ARIEL",
+            "Which I dispersed, they all have met again"
+        ],
+        [
+            "ARIEL",
+            "And are upon the Mediterranean flote,"
+        ],
+        [
+            "ARIEL",
+            "Bound sadly home for Naples,"
+        ],
+        [
+            "ARIEL",
+            "Supposing that they saw the king's ship wreck'd"
+        ],
+        [
+            "ARIEL",
+            "And his great person perish."
+        ],
+        [
+            "PROSPERO",
+            "Ariel, thy charge"
+        ],
+        [
+            "PROSPERO",
+            "Exactly is perform'd: but there's more work."
+        ],
+        [
+            "PROSPERO",
+            "What is the time o' the day?"
+        ],
+        [
+            "ARIEL",
+            "Past the mid season."
+        ],
+        [
+            "PROSPERO",
+            "At least two glasses. The time 'twixt six and now"
+        ],
+        [
+            "PROSPERO",
+            "Must by us both be spent most preciously."
+        ],
+        [
+            "ARIEL",
+            "Is there more toil? Since thou dost give me pains,"
+        ],
+        [
+            "ARIEL",
+            "Let me remember thee what thou hast promised,"
+        ],
+        [
+            "ARIEL",
+            "Which is not yet perform'd me."
+        ],
+        [
+            "PROSPERO",
+            "How now? moody?"
+        ],
+        [
+            "PROSPERO",
+            "What is't thou canst demand?"
+        ],
+        [
+            "ARIEL",
+            "My liberty."
+        ],
+        [
+            "PROSPERO",
+            "Before the time be out? no more!"
+        ],
+        [
+            "ARIEL",
+            "I prithee,"
+        ],
+        [
+            "ARIEL",
+            "Remember I have done thee worthy service;"
+        ],
+        [
+            "ARIEL",
+            "Told thee no lies, made thee no mistakings, served"
+        ],
+        [
+            "ARIEL",
+            "Without or grudge or grumblings: thou didst promise"
+        ],
+        [
+            "ARIEL",
+            "To bate me a full year."
+        ],
+        [
+            "PROSPERO",
+            "Dost thou forget"
+        ],
+        [
+            "PROSPERO",
+            "From what a torment I did free thee?"
+        ],
+        [
+            "ARIEL",
+            "No."
+        ],
+        [
+            "PROSPERO",
+            "Thou dost, and think'st it much to tread the ooze"
+        ],
+        [
+            "PROSPERO",
+            "Of the salt deep,"
+        ],
+        [
+            "PROSPERO",
+            "To run upon the sharp wind of the north,"
+        ],
+        [
+            "PROSPERO",
+            "To do me business in the veins o' the earth"
+        ],
+        [
+            "PROSPERO",
+            "When it is baked with frost."
+        ],
+        [
+            "ARIEL",
+            "I do not, sir."
+        ],
+        [
+            "PROSPERO",
+            "Thou liest, malignant thing! Hast thou forgot"
+        ],
+        [
+            "PROSPERO",
+            "The foul witch Sycorax, who with age and envy"
+        ],
+        [
+            "PROSPERO",
+            "Was grown into a hoop? hast thou forgot her?"
+        ],
+        [
+            "ARIEL",
+            "No, sir."
+        ],
+        [
+            "PROSPERO",
+            "Thou hast. Where was she born? speak; tell me."
+        ],
+        [
+            "ARIEL",
+            "Sir, in Argier."
+        ],
+        [
+            "PROSPERO",
+            "O, was she so? I must"
+        ],
+        [
+            "PROSPERO",
+            "Once in a month recount what thou hast been,"
+        ],
+        [
+            "PROSPERO",
+            "Which thou forget'st. This damn'd witch Sycorax,"
+        ],
+        [
+            "PROSPERO",
+            "For mischiefs manifold and sorceries terrible"
+        ],
+        [
+            "PROSPERO",
+            "To enter human hearing, from Argier,"
+        ],
+        [
+            "PROSPERO",
+            "Thou know'st, was banish'd: for one thing she did"
+        ],
+        [
+            "PROSPERO",
+            "They would not take her life. Is not this true?"
+        ],
+        [
+            "ARIEL",
+            "Ay, sir."
+        ],
+        [
+            "PROSPERO",
+            "This blue-eyed hag was hither brought with child"
+        ],
+        [
+            "PROSPERO",
+            "And here was left by the sailors. Thou, my slave,"
+        ],
+        [
+            "PROSPERO",
+            "As thou report'st thyself, wast then her servant;"
+        ],
+        [
+            "PROSPERO",
+            "And, for thou wast a spirit too delicate"
+        ],
+        [
+            "PROSPERO",
+            "To act her earthy and abhorr'd commands,"
+        ],
+        [
+            "PROSPERO",
+            "Refusing her grand hests, she did confine thee,"
+        ],
+        [
+            "PROSPERO",
+            "By help of her more potent ministers"
+        ],
+        [
+            "PROSPERO",
+            "And in her most unmitigable rage,"
+        ],
+        [
+            "PROSPERO",
+            "Into a cloven pine; within which rift"
+        ],
+        [
+            "PROSPERO",
+            "Imprison'd thou didst painfully remain"
+        ],
+        [
+            "PROSPERO",
+            "A dozen years; within which space she died"
+        ],
+        [
+            "PROSPERO",
+            "And left thee there; where thou didst vent thy groans"
+        ],
+        [
+            "PROSPERO",
+            "As fast as mill-wheels strike. Then was this island--"
+        ],
+        [
+            "PROSPERO",
+            "Save for the son that she did litter here,"
+        ],
+        [
+            "PROSPERO",
+            "A freckled whelp hag-born--not honour'd with"
+        ],
+        [
+            "PROSPERO",
+            "A human shape."
+        ],
+        [
+            "ARIEL",
+            "Yes, Caliban her son."
+        ],
+        [
+            "PROSPERO",
+            "Dull thing, I say so; he, that Caliban"
+        ],
+        [
+            "PROSPERO",
+            "Whom now I keep in service. Thou best know'st"
+        ],
+        [
+            "PROSPERO",
+            "What torment I did find thee in; thy groans"
+        ],
+        [
+            "PROSPERO",
+            "Did make wolves howl and penetrate the breasts"
+        ],
+        [
+            "PROSPERO",
+            "Of ever angry bears: it was a torment"
+        ],
+        [
+            "PROSPERO",
+            "To lay upon the damn'd, which Sycorax"
+        ],
+        [
+            "PROSPERO",
+            "Could not again undo: it was mine art,"
+        ],
+        [
+            "PROSPERO",
+            "When I arrived and heard thee, that made gape"
+        ],
+        [
+            "PROSPERO",
+            "The pine and let thee out."
+        ],
+        [
+            "ARIEL",
+            "I thank thee, master."
+        ],
+        [
+            "PROSPERO",
+            "If thou more murmur'st, I will rend an oak"
+        ],
+        [
+            "PROSPERO",
+            "And peg thee in his knotty entrails till"
+        ],
+        [
+            "PROSPERO",
+            "Thou hast howl'd away twelve winters."
+        ],
+        [
+            "ARIEL",
+            "Pardon, master;"
+        ],
+        [
+            "ARIEL",
+            "I will be correspondent to command"
+        ],
+        [
+            "ARIEL",
+            "And do my spiriting gently."
+        ],
+        [
+            "PROSPERO",
+            "Do so, and after two days"
+        ],
+        [
+            "PROSPERO",
+            "I will discharge thee."
+        ],
+        [
+            "ARIEL",
+            "That's my noble master!"
+        ],
+        [
+            "ARIEL",
+            "What shall I do? say what; what shall I do?"
+        ],
+        [
+            "PROSPERO",
+            "Go make thyself like a nymph o' the sea: be subject"
+        ],
+        [
+            "PROSPERO",
+            "To no sight but thine and mine, invisible"
+        ],
+        [
+            "PROSPERO",
+            "To every eyeball else. Go take this shape"
+        ],
+        [
+            "PROSPERO",
+            "And hither come in't: go, hence with diligence!",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Awake, dear heart, awake! thou hast slept well; Awake!",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "MIRANDA",
+            "The strangeness of your story put"
+        ],
+        [
+            "MIRANDA",
+            "Heaviness in me."
+        ],
+        [
+            "PROSPERO",
+            "Shake it off. Come on;"
+        ],
+        [
+            "PROSPERO",
+            "We'll visit Caliban my slave, who never"
+        ],
+        [
+            "PROSPERO",
+            "Yields us kind answer."
+        ],
+        [
+            "MIRANDA",
+            "'Tis a villain, sir,"
+        ],
+        [
+            "MIRANDA",
+            "I do not love to look on."
+        ],
+        [
+            "PROSPERO",
+            "But, as 'tis,"
+        ],
+        [
+            "PROSPERO",
+            "We cannot miss him: he does make our fire,"
+        ],
+        [
+            "PROSPERO",
+            "Fetch in our wood and serves in offices"
+        ],
+        [
+            "PROSPERO",
+            "That profit us. What, ho! slave! Caliban!"
+        ],
+        [
+            "PROSPERO",
+            "Thou earth, thou! speak."
+        ],
+        [
+            "CALIBAN",
+            "[Within] There's wood enough within."
+        ],
+        [
+            "PROSPERO",
+            "Come forth, I say! there's other business for thee:"
+        ],
+        [
+            "PROSPERO",
+            "Come, thou tortoise! when?",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Fine apparition! My quaint Ariel,",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Hark in thine ear."
+        ],
+        [
+            "ARIEL",
+            "My lord it shall be done.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Thou poisonous slave, got by the devil himself",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Upon thy wicked dam, come forth!",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "CALIBAN",
+            "As wicked dew as e'er my mother brush'd",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "CALIBAN",
+            "With raven's feather from unwholesome fen"
+        ],
+        [
+            "CALIBAN",
+            "Drop on you both! a south-west blow on ye"
+        ],
+        [
+            "CALIBAN",
+            "And blister you all o'er!"
+        ],
+        [
+            "PROSPERO",
+            "For this, be sure, to-night thou shalt have cramps,"
+        ],
+        [
+            "PROSPERO",
+            "Side-stitches that shall pen thy breath up; urchins"
+        ],
+        [
+            "PROSPERO",
+            "Shall, for that vast of night that they may work,"
+        ],
+        [
+            "PROSPERO",
+            "All exercise on thee; thou shalt be pinch'd"
+        ],
+        [
+            "PROSPERO",
+            "As thick as honeycomb, each pinch more stinging"
+        ],
+        [
+            "PROSPERO",
+            "Than bees that made 'em."
+        ],
+        [
+            "CALIBAN",
+            "I must eat my dinner."
+        ],
+        [
+            "CALIBAN",
+            "This island's mine, by Sycorax my mother,"
+        ],
+        [
+            "CALIBAN",
+            "Which thou takest from me. When thou camest first,"
+        ],
+        [
+            "CALIBAN",
+            "Thou strokedst me and madest much of me, wouldst give me"
+        ],
+        [
+            "CALIBAN",
+            "Water with berries in't, and teach me how"
+        ],
+        [
+            "CALIBAN",
+            "To name the bigger light, and how the less,"
+        ],
+        [
+            "CALIBAN",
+            "That burn by day and night: and then I loved thee"
+        ],
+        [
+            "CALIBAN",
+            "And show'd thee all the qualities o' the isle,"
+        ],
+        [
+            "CALIBAN",
+            "The fresh springs, brine-pits, barren place and fertile:"
+        ],
+        [
+            "CALIBAN",
+            "Cursed be I that did so! All the charms"
+        ],
+        [
+            "CALIBAN",
+            "Of Sycorax, toads, beetles, bats, light on you!"
+        ],
+        [
+            "CALIBAN",
+            "For I am all the subjects that you have,"
+        ],
+        [
+            "CALIBAN",
+            "Which first was mine own king: and here you sty me"
+        ],
+        [
+            "CALIBAN",
+            "In this hard rock, whiles you do keep from me"
+        ],
+        [
+            "CALIBAN",
+            "The rest o' the island."
+        ],
+        [
+            "PROSPERO",
+            "Thou most lying slave,"
+        ],
+        [
+            "PROSPERO",
+            "Whom stripes may move, not kindness! I have used thee,"
+        ],
+        [
+            "PROSPERO",
+            "Filth as thou art, with human care, and lodged thee"
+        ],
+        [
+            "PROSPERO",
+            "In mine own cell, till thou didst seek to violate"
+        ],
+        [
+            "PROSPERO",
+            "The honour of my child."
+        ],
+        [
+            "CALIBAN",
+            "O ho, O ho! would't had been done!"
+        ],
+        [
+            "CALIBAN",
+            "Thou didst prevent me; I had peopled else"
+        ],
+        [
+            "CALIBAN",
+            "This isle with Calibans."
+        ],
+        [
+            "PROSPERO",
+            "Abhorred slave,"
+        ],
+        [
+            "PROSPERO",
+            "Which any print of goodness wilt not take,"
+        ],
+        [
+            "PROSPERO",
+            "Being capable of all ill! I pitied thee,"
+        ],
+        [
+            "PROSPERO",
+            "Took pains to make thee speak, taught thee each hour"
+        ],
+        [
+            "PROSPERO",
+            "One thing or other: when thou didst not, savage,"
+        ],
+        [
+            "PROSPERO",
+            "Know thine own meaning, but wouldst gabble like"
+        ],
+        [
+            "PROSPERO",
+            "A thing most brutish, I endow'd thy purposes"
+        ],
+        [
+            "PROSPERO",
+            "With words that made them known. But thy vile race,"
+        ],
+        [
+            "PROSPERO",
+            "Though thou didst learn, had that in't which"
+        ],
+        [
+            "PROSPERO",
+            "good natures"
+        ],
+        [
+            "PROSPERO",
+            "Could not abide to be with; therefore wast thou"
+        ],
+        [
+            "PROSPERO",
+            "Deservedly confined into this rock,"
+        ],
+        [
+            "PROSPERO",
+            "Who hadst deserved more than a prison."
+        ],
+        [
+            "CALIBAN",
+            "You taught me language; and my profit on't"
+        ],
+        [
+            "CALIBAN",
+            "Is, I know how to curse. The red plague rid you"
+        ],
+        [
+            "CALIBAN",
+            "For learning me your language!"
+        ],
+        [
+            "PROSPERO",
+            "Hag-seed, hence!"
+        ],
+        [
+            "PROSPERO",
+            "Fetch us in fuel; and be quick, thou'rt best,"
+        ],
+        [
+            "PROSPERO",
+            "To answer other business. Shrug'st thou, malice?"
+        ],
+        [
+            "PROSPERO",
+            "If thou neglect'st or dost unwillingly"
+        ],
+        [
+            "PROSPERO",
+            "What I command, I'll rack thee with old cramps,"
+        ],
+        [
+            "PROSPERO",
+            "Fill all thy bones with aches, make thee roar"
+        ],
+        [
+            "PROSPERO",
+            "That beasts shall tremble at thy din."
+        ],
+        [
+            "CALIBAN",
+            "No, pray thee.",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "CALIBAN",
+            "I must obey: his art is of such power,",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "CALIBAN",
+            "It would control my dam's god, Setebos,"
+        ],
+        [
+            "CALIBAN",
+            "and make a vassal of him."
+        ],
+        [
+            "PROSPERO",
+            "So, slave; hence!",
+            {
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "PROSPERO",
+            "ARIEL'S song.",
+            {
+                "preceding_direction_line": "11"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Come unto these yellow sands,"
+        ],
+        [
+            "PROSPERO",
+            "And then take hands:"
+        ],
+        [
+            "PROSPERO",
+            "Courtsied when you have and kiss'd"
+        ],
+        [
+            "PROSPERO",
+            "The wild waves whist,"
+        ],
+        [
+            "PROSPERO",
+            "Foot it featly here and there;"
+        ],
+        [
+            "PROSPERO",
+            "And, sweet sprites, the burthen bear."
+        ],
+        [
+            "PROSPERO",
+            "Hark, hark!",
+            {
+                "following_direction_line": "12"
+            }
+        ],
+        [
+            "PROSPERO",
+            "The watch-dogs bark!",
+            {
+                "preceding_direction_line": "12",
+                "following_direction_line": "13"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Hark, hark! I hear",
+            {
+                "preceding_direction_line": "13"
+            }
+        ],
+        [
+            "PROSPERO",
+            "The strain of strutting chanticleer"
+        ],
+        [
+            "PROSPERO",
+            "Cry, Cock-a-diddle-dow."
+        ],
+        [
+            "FERDINAND",
+            "Where should this music be? i' the air or the earth?"
+        ],
+        [
+            "FERDINAND",
+            "It sounds no more: and sure, it waits upon"
+        ],
+        [
+            "FERDINAND",
+            "Some god o' the island. Sitting on a bank,"
+        ],
+        [
+            "FERDINAND",
+            "Weeping again the king my father's wreck,"
+        ],
+        [
+            "FERDINAND",
+            "This music crept by me upon the waters,"
+        ],
+        [
+            "FERDINAND",
+            "Allaying both their fury and my passion"
+        ],
+        [
+            "FERDINAND",
+            "With its sweet air: thence I have follow'd it,"
+        ],
+        [
+            "FERDINAND",
+            "Or it hath drawn me rather. But 'tis gone."
+        ],
+        [
+            "FERDINAND",
+            "No, it begins again.",
+            {
+                "following_direction_line": "14"
+            }
+        ],
+        [
+            "FERDINAND",
+            "Full fathom five thy father lies;",
+            {
+                "preceding_direction_line": "14"
+            }
+        ],
+        [
+            "FERDINAND",
+            "Of his bones are coral made;"
+        ],
+        [
+            "FERDINAND",
+            "Those are pearls that were his eyes:"
+        ],
+        [
+            "FERDINAND",
+            "Nothing of him that doth fade"
+        ],
+        [
+            "FERDINAND",
+            "But doth suffer a sea-change"
+        ],
+        [
+            "FERDINAND",
+            "Into something rich and strange."
+        ],
+        [
+            "FERDINAND",
+            "Sea-nymphs hourly ring his knell",
+            {
+                "following_direction_line": "15"
+            }
+        ],
+        [
+            "FERDINAND",
+            "Hark! now I hear them,--Ding-dong, bell.",
+            {
+                "preceding_direction_line": "15"
+            }
+        ],
+        [
+            "FERDINAND",
+            "The ditty does remember my drown'd father."
+        ],
+        [
+            "FERDINAND",
+            "This is no mortal business, nor no sound"
+        ],
+        [
+            "FERDINAND",
+            "That the earth owes. I hear it now above me."
+        ],
+        [
+            "PROSPERO",
+            "The fringed curtains of thine eye advance"
+        ],
+        [
+            "PROSPERO",
+            "And say what thou seest yond."
+        ],
+        [
+            "MIRANDA",
+            "What is't? a spirit?"
+        ],
+        [
+            "MIRANDA",
+            "Lord, how it looks about! Believe me, sir,"
+        ],
+        [
+            "MIRANDA",
+            "It carries a brave form. But 'tis a spirit."
+        ],
+        [
+            "PROSPERO",
+            "No, wench; it eats and sleeps and hath such senses"
+        ],
+        [
+            "PROSPERO",
+            "As we have, such. This gallant which thou seest"
+        ],
+        [
+            "PROSPERO",
+            "Was in the wreck; and, but he's something stain'd"
+        ],
+        [
+            "PROSPERO",
+            "With grief that's beauty's canker, thou mightst call him"
+        ],
+        [
+            "PROSPERO",
+            "A goodly person: he hath lost his fellows"
+        ],
+        [
+            "PROSPERO",
+            "And strays about to find 'em."
+        ],
+        [
+            "MIRANDA",
+            "I might call him"
+        ],
+        [
+            "MIRANDA",
+            "A thing divine, for nothing natural"
+        ],
+        [
+            "MIRANDA",
+            "I ever saw so noble."
+        ],
+        [
+            "PROSPERO",
+            "[Aside] It goes on, I see,"
+        ],
+        [
+            "PROSPERO",
+            "As my soul prompts it. Spirit, fine spirit! I'll free thee"
+        ],
+        [
+            "PROSPERO",
+            "Within two days for this."
+        ],
+        [
+            "FERDINAND",
+            "Most sure, the goddess"
+        ],
+        [
+            "FERDINAND",
+            "On whom these airs attend! Vouchsafe my prayer"
+        ],
+        [
+            "FERDINAND",
+            "May know if you remain upon this island;"
+        ],
+        [
+            "FERDINAND",
+            "And that you will some good instruction give"
+        ],
+        [
+            "FERDINAND",
+            "How I may bear me here: my prime request,"
+        ],
+        [
+            "FERDINAND",
+            "Which I do last pronounce, is, O you wonder!"
+        ],
+        [
+            "FERDINAND",
+            "If you be maid or no?"
+        ],
+        [
+            "MIRANDA",
+            "No wonder, sir;"
+        ],
+        [
+            "MIRANDA",
+            "But certainly a maid."
+        ],
+        [
+            "FERDINAND",
+            "My language! heavens!"
+        ],
+        [
+            "FERDINAND",
+            "I am the best of them that speak this speech,"
+        ],
+        [
+            "FERDINAND",
+            "Were I but where 'tis spoken."
+        ],
+        [
+            "PROSPERO",
+            "How? the best?"
+        ],
+        [
+            "PROSPERO",
+            "What wert thou, if the King of Naples heard thee?"
+        ],
+        [
+            "FERDINAND",
+            "A single thing, as I am now, that wonders"
+        ],
+        [
+            "FERDINAND",
+            "To hear thee speak of Naples. He does hear me;"
+        ],
+        [
+            "FERDINAND",
+            "And that he does I weep: myself am Naples,"
+        ],
+        [
+            "FERDINAND",
+            "Who with mine eyes, never since at ebb, beheld"
+        ],
+        [
+            "FERDINAND",
+            "The king my father wreck'd."
+        ],
+        [
+            "MIRANDA",
+            "Alack, for mercy!"
+        ],
+        [
+            "FERDINAND",
+            "Yes, faith, and all his lords; the Duke of Milan"
+        ],
+        [
+            "FERDINAND",
+            "And his brave son being twain."
+        ],
+        [
+            "PROSPERO",
+            "[Aside] The Duke of Milan"
+        ],
+        [
+            "PROSPERO",
+            "And his more braver daughter could control thee,"
+        ],
+        [
+            "PROSPERO",
+            "If now 'twere fit to do't. At the first sight"
+        ],
+        [
+            "PROSPERO",
+            "They have changed eyes. Delicate Ariel,"
+        ],
+        [
+            "PROSPERO",
+            "I'll set thee free for this.",
+            {
+                "following_direction_line": "16"
+            }
+        ],
+        [
+            "PROSPERO",
+            "A word, good sir;",
+            {
+                "preceding_direction_line": "16"
+            }
+        ],
+        [
+            "PROSPERO",
+            "I fear you have done yourself some wrong: a word."
+        ],
+        [
+            "MIRANDA",
+            "Why speaks my father so ungently? This"
+        ],
+        [
+            "MIRANDA",
+            "Is the third man that e'er I saw, the first"
+        ],
+        [
+            "MIRANDA",
+            "That e'er I sigh'd for: pity move my father"
+        ],
+        [
+            "MIRANDA",
+            "To be inclined my way!"
+        ],
+        [
+            "FERDINAND",
+            "O, if a virgin,"
+        ],
+        [
+            "FERDINAND",
+            "And your affection not gone forth, I'll make you"
+        ],
+        [
+            "FERDINAND",
+            "The queen of Naples."
+        ],
+        [
+            "PROSPERO",
+            "Soft, sir! one word more.",
+            {
+                "following_direction_line": "17"
+            }
+        ],
+        [
+            "PROSPERO",
+            "They are both in either's powers; but this swift business",
+            {
+                "preceding_direction_line": "17"
+            }
+        ],
+        [
+            "PROSPERO",
+            "I must uneasy make, lest too light winning"
+        ],
+        [
+            "PROSPERO",
+            "Make the prize light.",
+            {
+                "following_direction_line": "18"
+            }
+        ],
+        [
+            "PROSPERO",
+            "One word more; I charge thee",
+            {
+                "preceding_direction_line": "18"
+            }
+        ],
+        [
+            "PROSPERO",
+            "That thou attend me: thou dost here usurp"
+        ],
+        [
+            "PROSPERO",
+            "The name thou owest not; and hast put thyself"
+        ],
+        [
+            "PROSPERO",
+            "Upon this island as a spy, to win it"
+        ],
+        [
+            "PROSPERO",
+            "From me, the lord on't."
+        ],
+        [
+            "FERDINAND",
+            "No, as I am a man."
+        ],
+        [
+            "MIRANDA",
+            "There's nothing ill can dwell in such a temple:"
+        ],
+        [
+            "MIRANDA",
+            "If the ill spirit have so fair a house,"
+        ],
+        [
+            "MIRANDA",
+            "Good things will strive to dwell with't."
+        ],
+        [
+            "PROSPERO",
+            "Follow me."
+        ],
+        [
+            "PROSPERO",
+            "Speak not you for him; he's a traitor. Come;"
+        ],
+        [
+            "PROSPERO",
+            "I'll manacle thy neck and feet together:"
+        ],
+        [
+            "PROSPERO",
+            "Sea-water shalt thou drink; thy food shall be"
+        ],
+        [
+            "PROSPERO",
+            "The fresh-brook muscles, wither'd roots and husks"
+        ],
+        [
+            "PROSPERO",
+            "Wherein the acorn cradled. Follow."
+        ],
+        [
+            "FERDINAND",
+            "No;"
+        ],
+        [
+            "FERDINAND",
+            "I will resist such entertainment till"
+        ],
+        [
+            "FERDINAND",
+            "Mine enemy has more power.",
+            {
+                "following_direction_line": "19"
+            }
+        ],
+        [
+            "MIRANDA",
+            "O dear father,",
+            {
+                "preceding_direction_line": "19"
+            }
+        ],
+        [
+            "MIRANDA",
+            "Make not too rash a trial of him, for"
+        ],
+        [
+            "MIRANDA",
+            "He's gentle and not fearful."
+        ],
+        [
+            "PROSPERO",
+            "What? I say,"
+        ],
+        [
+            "PROSPERO",
+            "My foot my tutor? Put thy sword up, traitor;"
+        ],
+        [
+            "PROSPERO",
+            "Who makest a show but darest not strike, thy conscience"
+        ],
+        [
+            "PROSPERO",
+            "Is so possess'd with guilt: come from thy ward,"
+        ],
+        [
+            "PROSPERO",
+            "For I can here disarm thee with this stick"
+        ],
+        [
+            "PROSPERO",
+            "And make thy weapon drop."
+        ],
+        [
+            "MIRANDA",
+            "Beseech you, father."
+        ],
+        [
+            "PROSPERO",
+            "Hence! hang not on my garments."
+        ],
+        [
+            "MIRANDA",
+            "Sir, have pity;"
+        ],
+        [
+            "MIRANDA",
+            "I'll be his surety."
+        ],
+        [
+            "PROSPERO",
+            "Silence! one word more"
+        ],
+        [
+            "PROSPERO",
+            "Shall make me chide thee, if not hate thee. What!"
+        ],
+        [
+            "PROSPERO",
+            "An advocate for an imposter! hush!"
+        ],
+        [
+            "PROSPERO",
+            "Thou think'st there is no more such shapes as he,"
+        ],
+        [
+            "PROSPERO",
+            "Having seen but him and Caliban: foolish wench!"
+        ],
+        [
+            "PROSPERO",
+            "To the most of men this is a Caliban"
+        ],
+        [
+            "PROSPERO",
+            "And they to him are angels."
+        ],
+        [
+            "MIRANDA",
+            "My affections"
+        ],
+        [
+            "MIRANDA",
+            "Are then most humble; I have no ambition"
+        ],
+        [
+            "MIRANDA",
+            "To see a goodlier man."
+        ],
+        [
+            "PROSPERO",
+            "Come on; obey:"
+        ],
+        [
+            "PROSPERO",
+            "Thy nerves are in their infancy again"
+        ],
+        [
+            "PROSPERO",
+            "And have no vigour in them."
+        ],
+        [
+            "FERDINAND",
+            "So they are;"
+        ],
+        [
+            "FERDINAND",
+            "My spirits, as in a dream, are all bound up."
+        ],
+        [
+            "FERDINAND",
+            "My father's loss, the weakness which I feel,"
+        ],
+        [
+            "FERDINAND",
+            "The wreck of all my friends, nor this man's threats,"
+        ],
+        [
+            "FERDINAND",
+            "To whom I am subdued, are but light to me,"
+        ],
+        [
+            "FERDINAND",
+            "Might I but through my prison once a day"
+        ],
+        [
+            "FERDINAND",
+            "Behold this maid: all corners else o' the earth"
+        ],
+        [
+            "FERDINAND",
+            "Let liberty make use of; space enough"
+        ],
+        [
+            "FERDINAND",
+            "Have I in such a prison."
+        ],
+        [
+            "PROSPERO",
+            "[Aside] It works.",
+            {
+                "following_direction_line": "20"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Come on.",
+            {
+                "preceding_direction_line": "20"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Thou hast done well, fine Ariel!",
+            {
+                "following_direction_line": "21"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Follow me.",
+            {
+                "preceding_direction_line": "21",
+                "following_direction_line": "22"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Hark what thou else shalt do me.",
+            {
+                "preceding_direction_line": "22"
+            }
+        ],
+        [
+            "MIRANDA",
+            "Be of comfort;"
+        ],
+        [
+            "MIRANDA",
+            "My father's of a better nature, sir,"
+        ],
+        [
+            "MIRANDA",
+            "Than he appears by speech: this is unwonted"
+        ],
+        [
+            "MIRANDA",
+            "Which now came from him."
+        ],
+        [
+            "PROSPERO",
+            "Thou shalt be free"
+        ],
+        [
+            "PROSPERO",
+            "As mountain winds: but then exactly do"
+        ],
+        [
+            "PROSPERO",
+            "All points of my command."
+        ],
+        [
+            "ARIEL",
+            "To the syllable."
+        ],
+        [
+            "PROSPERO",
+            "Come, follow. Speak not for him.",
+            {
+                "following_direction_line": "23"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter PROSPERO and MIRANDA"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Lays down his mantle"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Resumes his mantle"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "MIRANDA sleeps"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Enter ARIEL"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exit ARIEL"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Re-enter ARIEL like a water-nymph"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Enter CALIBAN"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Aside"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "Exit CALIBAN. Re-enter ARIEL, invisible, playing and singing; FERDINAND following"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Burthen [dispersedly, within"
+        ],
+        [
+            "_DIRECTION",
+            "D13",
+            "Burthen Bow-wow"
+        ],
+        [
+            "_DIRECTION",
+            "D14",
+            "ARIEL sings"
+        ],
+        [
+            "_DIRECTION",
+            "D15",
+            "Burthen Ding-dong"
+        ],
+        [
+            "_DIRECTION",
+            "D16",
+            "To FERDINAND"
+        ],
+        [
+            "_DIRECTION",
+            "D17",
+            "Aside"
+        ],
+        [
+            "_DIRECTION",
+            "D18",
+            "To FERDINAND"
+        ],
+        [
+            "_DIRECTION",
+            "D19",
+            "Draws, and is charmed from moving"
+        ],
+        [
+            "_DIRECTION",
+            "D20",
+            "To FERDINAND"
+        ],
+        [
+            "_DIRECTION",
+            "D21",
+            "To FERDINAND"
+        ],
+        [
+            "_DIRECTION",
+            "D22",
+            "To ARIEL"
+        ],
+        [
+            "_DIRECTION",
+            "D23",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "MIRANDA": [
+            [
+                "1",
+                "13"
+            ],
+            [
+                "17",
+                "17"
+            ],
+            [
+                "25",
+                "26"
+            ],
+            [
+                "39",
+                "42"
+            ],
+            [
+                "49",
+                "49"
+            ],
+            [
+                "53",
+                "56"
+            ],
+            [
+                "62",
+                "62"
+            ],
+            [
+                "66",
+                "66"
+            ],
+            [
+                "71",
+                "73"
+            ],
+            [
+                "77",
+                "79"
+            ],
+            [
+                "93",
+                "93"
+            ],
+            [
+                "103",
+                "103"
+            ],
+            [
+                "123",
+                "123"
+            ],
+            [
+                "134",
+                "134"
+            ],
+            [
+                "137",
+                "139"
+            ],
+            [
+                "153",
+                "156"
+            ],
+            [
+                "161",
+                "162"
+            ],
+            [
+                "176",
+                "177"
+            ],
+            [
+                "185",
+                "185"
+            ],
+            [
+                "196",
+                "197"
+            ],
+            [
+                "204",
+                "206"
+            ],
+            [
+                "359",
+                "360"
+            ],
+            [
+                "364",
+                "365"
+            ],
+            [
+                "474",
+                "476"
+            ],
+            [
+                "483",
+                "485"
+            ],
+            [
+                "496",
+                "497"
+            ],
+            [
+                "508",
+                "508"
+            ],
+            [
+                "518",
+                "521"
+            ],
+            [
+                "535",
+                "537"
+            ],
+            [
+                "547",
+                "549"
+            ],
+            [
+                "556",
+                "556"
+            ],
+            [
+                "558",
+                "559"
+            ],
+            [
+                "567",
+                "569"
+            ],
+            [
+                "587",
+                "590"
+            ]
+        ],
+        "PROSPERO": [
+            [
+                "14",
+                "16"
+            ],
+            [
+                "18",
+                "24"
+            ],
+            [
+                "27",
+                "38"
+            ],
+            [
+                "43",
+                "48"
+            ],
+            [
+                "50",
+                "52"
+            ],
+            [
+                "57",
+                "61"
+            ],
+            [
+                "63",
+                "65"
+            ],
+            [
+                "67",
+                "70"
+            ],
+            [
+                "74",
+                "76"
+            ],
+            [
+                "80",
+                "92"
+            ],
+            [
+                "94",
+                "102"
+            ],
+            [
+                "104",
+                "122"
+            ],
+            [
+                "124",
+                "133"
+            ],
+            [
+                "135",
+                "136"
+            ],
+            [
+                "140",
+                "152"
+            ],
+            [
+                "157",
+                "160"
+            ],
+            [
+                "163",
+                "175"
+            ],
+            [
+                "178",
+                "184"
+            ],
+            [
+                "186",
+                "195"
+            ],
+            [
+                "198",
+                "203"
+            ],
+            [
+                "207",
+                "218"
+            ],
+            [
+                "224",
+                "225"
+            ],
+            [
+                "238",
+                "240"
+            ],
+            [
+                "249",
+                "250"
+            ],
+            [
+                "252",
+                "252"
+            ],
+            [
+                "261",
+                "263"
+            ],
+            [
+                "276",
+                "278"
+            ],
+            [
+                "280",
+                "281"
+            ],
+            [
+                "285",
+                "286"
+            ],
+            [
+                "288",
+                "288"
+            ],
+            [
+                "294",
+                "295"
+            ],
+            [
+                "297",
+                "301"
+            ],
+            [
+                "303",
+                "305"
+            ],
+            [
+                "307",
+                "307"
+            ],
+            [
+                "309",
+                "315"
+            ],
+            [
+                "317",
+                "332"
+            ],
+            [
+                "334",
+                "342"
+            ],
+            [
+                "344",
+                "346"
+            ],
+            [
+                "350",
+                "351"
+            ],
+            [
+                "354",
+                "358"
+            ],
+            [
+                "361",
+                "363"
+            ],
+            [
+                "366",
+                "370"
+            ],
+            [
+                "372",
+                "375"
+            ],
+            [
+                "377",
+                "378"
+            ],
+            [
+                "383",
+                "388"
+            ],
+            [
+                "404",
+                "408"
+            ],
+            [
+                "412",
+                "424"
+            ],
+            [
+                "428",
+                "434"
+            ],
+            [
+                "439",
+                "451"
+            ],
+            [
+                "472",
+                "473"
+            ],
+            [
+                "477",
+                "482"
+            ],
+            [
+                "486",
+                "488"
+            ],
+            [
+                "501",
+                "502"
+            ],
+            [
+                "511",
+                "517"
+            ],
+            [
+                "525",
+                "533"
+            ],
+            [
+                "538",
+                "543"
+            ],
+            [
+                "550",
+                "555"
+            ],
+            [
+                "557",
+                "557"
+            ],
+            [
+                "560",
+                "566"
+            ],
+            [
+                "570",
+                "572"
+            ],
+            [
+                "582",
+                "586"
+            ],
+            [
+                "591",
+                "593"
+            ],
+            [
+                "595",
+                "595"
+            ]
+        ],
+        "ARIEL": [
+            [
+                "219",
+                "223"
+            ],
+            [
+                "226",
+                "237"
+            ],
+            [
+                "241",
+                "248"
+            ],
+            [
+                "251",
+                "251"
+            ],
+            [
+                "253",
+                "260"
+            ],
+            [
+                "264",
+                "275"
+            ],
+            [
+                "279",
+                "279"
+            ],
+            [
+                "282",
+                "284"
+            ],
+            [
+                "287",
+                "287"
+            ],
+            [
+                "289",
+                "293"
+            ],
+            [
+                "296",
+                "296"
+            ],
+            [
+                "302",
+                "302"
+            ],
+            [
+                "306",
+                "306"
+            ],
+            [
+                "308",
+                "308"
+            ],
+            [
+                "316",
+                "316"
+            ],
+            [
+                "333",
+                "333"
+            ],
+            [
+                "343",
+                "343"
+            ],
+            [
+                "347",
+                "349"
+            ],
+            [
+                "352",
+                "353"
+            ],
+            [
+                "376",
+                "376"
+            ],
+            [
+                "594",
+                "594"
+            ]
+        ],
+        "CALIBAN": [
+            [
+                "371",
+                "371"
+            ],
+            [
+                "379",
+                "382"
+            ],
+            [
+                "389",
+                "403"
+            ],
+            [
+                "409",
+                "411"
+            ],
+            [
+                "425",
+                "427"
+            ],
+            [
+                "435",
+                "438"
+            ]
+        ],
+        "FERDINAND": [
+            [
+                "452",
+                "471"
+            ],
+            [
+                "489",
+                "495"
+            ],
+            [
+                "498",
+                "500"
+            ],
+            [
+                "503",
+                "507"
+            ],
+            [
+                "509",
+                "510"
+            ],
+            [
+                "522",
+                "524"
+            ],
+            [
+                "534",
+                "534"
+            ],
+            [
+                "544",
+                "546"
+            ],
+            [
+                "573",
+                "581"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "The island. Before PROSPERO'S cell."
+}

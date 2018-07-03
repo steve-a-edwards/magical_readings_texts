@@ -1,0 +1,1670 @@
+{
+    "scene_id": "the tempest~~Act_4~~Scene_1",
+    "work_number": "10",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "PROSPERO",
+            "If I have too austerely punish'd you,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Your compensation makes amends, for I"
+        ],
+        [
+            "PROSPERO",
+            "Have given you here a third of mine own life,"
+        ],
+        [
+            "PROSPERO",
+            "Or that for which I live; who once again"
+        ],
+        [
+            "PROSPERO",
+            "I tender to thy hand: all thy vexations"
+        ],
+        [
+            "PROSPERO",
+            "Were but my trials of thy love and thou"
+        ],
+        [
+            "PROSPERO",
+            "Hast strangely stood the test here, afore Heaven,"
+        ],
+        [
+            "PROSPERO",
+            "I ratify this my rich gift. O Ferdinand,"
+        ],
+        [
+            "PROSPERO",
+            "Do not smile at me that I boast her off,"
+        ],
+        [
+            "PROSPERO",
+            "For thou shalt find she will outstrip all praise"
+        ],
+        [
+            "PROSPERO",
+            "And make it halt behind her."
+        ],
+        [
+            "FERDINAND",
+            "I do believe it"
+        ],
+        [
+            "FERDINAND",
+            "Against an oracle."
+        ],
+        [
+            "PROSPERO",
+            "Then, as my gift and thine own acquisition"
+        ],
+        [
+            "PROSPERO",
+            "Worthily purchased take my daughter: but"
+        ],
+        [
+            "PROSPERO",
+            "If thou dost break her virgin-knot before"
+        ],
+        [
+            "PROSPERO",
+            "All sanctimonious ceremonies may"
+        ],
+        [
+            "PROSPERO",
+            "With full and holy rite be minister'd,"
+        ],
+        [
+            "PROSPERO",
+            "No sweet aspersion shall the heavens let fall"
+        ],
+        [
+            "PROSPERO",
+            "To make this contract grow: but barren hate,"
+        ],
+        [
+            "PROSPERO",
+            "Sour-eyed disdain and discord shall bestrew"
+        ],
+        [
+            "PROSPERO",
+            "The union of your bed with weeds so loathly"
+        ],
+        [
+            "PROSPERO",
+            "That you shall hate it both: therefore take heed,"
+        ],
+        [
+            "PROSPERO",
+            "As Hymen's lamps shall light you."
+        ],
+        [
+            "FERDINAND",
+            "As I hope"
+        ],
+        [
+            "FERDINAND",
+            "For quiet days, fair issue and long life,"
+        ],
+        [
+            "FERDINAND",
+            "With such love as 'tis now, the murkiest den,"
+        ],
+        [
+            "FERDINAND",
+            "The most opportune place, the strong'st suggestion."
+        ],
+        [
+            "FERDINAND",
+            "Our worser genius can, shall never melt"
+        ],
+        [
+            "FERDINAND",
+            "Mine honour into lust, to take away"
+        ],
+        [
+            "FERDINAND",
+            "The edge of that day's celebration"
+        ],
+        [
+            "FERDINAND",
+            "When I shall think: or Phoebus' steeds are founder'd,"
+        ],
+        [
+            "FERDINAND",
+            "Or Night kept chain'd below."
+        ],
+        [
+            "PROSPERO",
+            "Fairly spoke."
+        ],
+        [
+            "PROSPERO",
+            "Sit then and talk with her; she is thine own."
+        ],
+        [
+            "PROSPERO",
+            "What, Ariel! my industrious servant, Ariel!",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "ARIEL",
+            "What would my potent master? here I am.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Thou and thy meaner fellows your last service"
+        ],
+        [
+            "PROSPERO",
+            "Did worthily perform; and I must use you"
+        ],
+        [
+            "PROSPERO",
+            "In such another trick. Go bring the rabble,"
+        ],
+        [
+            "PROSPERO",
+            "O'er whom I give thee power, here to this place:"
+        ],
+        [
+            "PROSPERO",
+            "Incite them to quick motion; for I must"
+        ],
+        [
+            "PROSPERO",
+            "Bestow upon the eyes of this young couple"
+        ],
+        [
+            "PROSPERO",
+            "Some vanity of mine art: it is my promise,"
+        ],
+        [
+            "PROSPERO",
+            "And they expect it from me."
+        ],
+        [
+            "ARIEL",
+            "Presently?"
+        ],
+        [
+            "PROSPERO",
+            "Ay, with a twink."
+        ],
+        [
+            "ARIEL",
+            "Before you can say 'come' and 'go,'"
+        ],
+        [
+            "ARIEL",
+            "And breathe twice and cry 'so, so,'"
+        ],
+        [
+            "ARIEL",
+            "Each one, tripping on his toe,"
+        ],
+        [
+            "ARIEL",
+            "Will be here with mop and mow."
+        ],
+        [
+            "ARIEL",
+            "Do you love me, master? no?"
+        ],
+        [
+            "PROSPERO",
+            "Dearly my delicate Ariel. Do not approach"
+        ],
+        [
+            "PROSPERO",
+            "Till thou dost hear me call."
+        ],
+        [
+            "ARIEL",
+            "Well, I conceive.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Look thou be true; do not give dalliance",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Too much the rein: the strongest oaths are straw"
+        ],
+        [
+            "PROSPERO",
+            "To the fire i' the blood: be more abstemious,"
+        ],
+        [
+            "PROSPERO",
+            "Or else, good night your vow!"
+        ],
+        [
+            "FERDINAND",
+            "I warrant you sir;"
+        ],
+        [
+            "FERDINAND",
+            "The white cold virgin snow upon my heart"
+        ],
+        [
+            "FERDINAND",
+            "Abates the ardour of my liver."
+        ],
+        [
+            "PROSPERO",
+            "Well."
+        ],
+        [
+            "PROSPERO",
+            "Now come, my Ariel! bring a corollary,"
+        ],
+        [
+            "PROSPERO",
+            "Rather than want a spirit: appear and pertly!"
+        ],
+        [
+            "PROSPERO",
+            "No tongue! all eyes! be silent.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "IRIS",
+            "Ceres, most bounteous lady, thy rich leas",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "IRIS",
+            "Of wheat, rye, barley, vetches, oats and pease;"
+        ],
+        [
+            "IRIS",
+            "Thy turfy mountains, where live nibbling sheep,"
+        ],
+        [
+            "IRIS",
+            "And flat meads thatch'd with stover, them to keep;"
+        ],
+        [
+            "IRIS",
+            "Thy banks with pioned and twilled brims,"
+        ],
+        [
+            "IRIS",
+            "Which spongy April at thy hest betrims,"
+        ],
+        [
+            "IRIS",
+            "To make cold nymphs chaste crowns; and thy broom -groves,"
+        ],
+        [
+            "IRIS",
+            "Whose shadow the dismissed bachelor loves,"
+        ],
+        [
+            "IRIS",
+            "Being lass-lorn: thy pole-clipt vineyard;"
+        ],
+        [
+            "IRIS",
+            "And thy sea-marge, sterile and rocky-hard,"
+        ],
+        [
+            "IRIS",
+            "Where thou thyself dost air;--the queen o' the sky,"
+        ],
+        [
+            "IRIS",
+            "Whose watery arch and messenger am I,"
+        ],
+        [
+            "IRIS",
+            "Bids thee leave these, and with her sovereign grace,"
+        ],
+        [
+            "IRIS",
+            "Here on this grass-plot, in this very place,"
+        ],
+        [
+            "IRIS",
+            "To come and sport: her peacocks fly amain:"
+        ],
+        [
+            "IRIS",
+            "Approach, rich Ceres, her to entertain.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "CERES",
+            "Hail, many-colour'd messenger, that ne'er",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "CERES",
+            "Dost disobey the wife of Jupiter;"
+        ],
+        [
+            "CERES",
+            "Who with thy saffron wings upon my flowers"
+        ],
+        [
+            "CERES",
+            "Diffusest honey-drops, refreshing showers,"
+        ],
+        [
+            "CERES",
+            "And with each end of thy blue bow dost crown"
+        ],
+        [
+            "CERES",
+            "My bosky acres and my unshrubb'd down,"
+        ],
+        [
+            "CERES",
+            "Rich scarf to my proud earth; why hath thy queen"
+        ],
+        [
+            "CERES",
+            "Summon'd me hither, to this short-grass'd green?"
+        ],
+        [
+            "IRIS",
+            "A contract of true love to celebrate;"
+        ],
+        [
+            "IRIS",
+            "And some donation freely to estate"
+        ],
+        [
+            "IRIS",
+            "On the blest lovers."
+        ],
+        [
+            "CERES",
+            "Tell me, heavenly bow,"
+        ],
+        [
+            "CERES",
+            "If Venus or her son, as thou dost know,"
+        ],
+        [
+            "CERES",
+            "Do now attend the queen? Since they did plot"
+        ],
+        [
+            "CERES",
+            "The means that dusky Dis my daughter got,"
+        ],
+        [
+            "CERES",
+            "Her and her blind boy's scandal'd company"
+        ],
+        [
+            "CERES",
+            "I have forsworn."
+        ],
+        [
+            "IRIS",
+            "Of her society"
+        ],
+        [
+            "IRIS",
+            "Be not afraid: I met her deity"
+        ],
+        [
+            "IRIS",
+            "Cutting the clouds towards Paphos and her son"
+        ],
+        [
+            "IRIS",
+            "Dove-drawn with her. Here thought they to have done"
+        ],
+        [
+            "IRIS",
+            "Some wanton charm upon this man and maid,"
+        ],
+        [
+            "IRIS",
+            "Whose vows are, that no bed-right shall be paid"
+        ],
+        [
+            "IRIS",
+            "Till Hymen's torch be lighted: but vain;"
+        ],
+        [
+            "IRIS",
+            "Mars's hot minion is returned again;"
+        ],
+        [
+            "IRIS",
+            "Her waspish-headed son has broke his arrows,"
+        ],
+        [
+            "IRIS",
+            "Swears he will shoot no more but play with sparrows"
+        ],
+        [
+            "IRIS",
+            "And be a boy right out."
+        ],
+        [
+            "CERES",
+            "High'st queen of state,"
+        ],
+        [
+            "CERES",
+            "Great Juno, comes; I know her by her gait.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "JUNO",
+            "How does my bounteous sister? Go with me",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "JUNO",
+            "To bless this twain, that they may prosperous be"
+        ],
+        [
+            "JUNO",
+            "And honour'd in their issue.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "JUNO",
+            "Honour, riches, marriage-blessing,",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "JUNO",
+            "Long continuance, and increasing,"
+        ],
+        [
+            "JUNO",
+            "Hourly joys be still upon you!"
+        ],
+        [
+            "JUNO",
+            "Juno sings her blessings upon you."
+        ],
+        [
+            "CERES",
+            "Earth's increase, foison plenty,"
+        ],
+        [
+            "CERES",
+            "Barns and garners never empty,"
+        ],
+        [
+            "CERES",
+            "Vines and clustering bunches growing,"
+        ],
+        [
+            "CERES",
+            "Plants with goodly burthen bowing;"
+        ],
+        [
+            "CERES",
+            "Spring come to you at the farthest"
+        ],
+        [
+            "CERES",
+            "In the very end of harvest!"
+        ],
+        [
+            "CERES",
+            "Scarcity and want shall shun you;"
+        ],
+        [
+            "CERES",
+            "Ceres' blessing so is on you."
+        ],
+        [
+            "FERDINAND",
+            "This is a most majestic vision, and"
+        ],
+        [
+            "FERDINAND",
+            "Harmoniously charmingly. May I be bold"
+        ],
+        [
+            "FERDINAND",
+            "To think these spirits?"
+        ],
+        [
+            "PROSPERO",
+            "Spirits, which by mine art"
+        ],
+        [
+            "PROSPERO",
+            "I have from their confines call'd to enact"
+        ],
+        [
+            "PROSPERO",
+            "My present fancies."
+        ],
+        [
+            "FERDINAND",
+            "Let me live here ever;"
+        ],
+        [
+            "FERDINAND",
+            "So rare a wonder'd father and a wife"
+        ],
+        [
+            "FERDINAND",
+            "Makes this place Paradise.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Sweet, now, silence!",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Juno and Ceres whisper seriously;"
+        ],
+        [
+            "PROSPERO",
+            "There's something else to do: hush, and be mute,"
+        ],
+        [
+            "PROSPERO",
+            "Or else our spell is marr'd."
+        ],
+        [
+            "IRIS",
+            "You nymphs, call'd Naiads, of the windring brooks,"
+        ],
+        [
+            "IRIS",
+            "With your sedged crowns and ever-harmless looks,"
+        ],
+        [
+            "IRIS",
+            "Leave your crisp channels and on this green land"
+        ],
+        [
+            "IRIS",
+            "Answer your summons; Juno does command:"
+        ],
+        [
+            "IRIS",
+            "Come, temperate nymphs, and help to celebrate"
+        ],
+        [
+            "IRIS",
+            "A contract of true love; be not too late.",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "IRIS",
+            "You sunburnt sicklemen, of August weary,",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "IRIS",
+            "Come hither from the furrow and be merry:"
+        ],
+        [
+            "IRIS",
+            "Make holiday; your rye-straw hats put on"
+        ],
+        [
+            "IRIS",
+            "And these fresh nymphs encounter every one"
+        ],
+        [
+            "IRIS",
+            "In country footing.",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "PROSPERO",
+            "[Aside] I had forgot that foul conspiracy",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Of the beast Caliban and his confederates"
+        ],
+        [
+            "PROSPERO",
+            "Against my life: the minute of their plot"
+        ],
+        [
+            "PROSPERO",
+            "Is almost come.",
+            {
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Well done! avoid; no more!",
+            {
+                "preceding_direction_line": "11"
+            }
+        ],
+        [
+            "FERDINAND",
+            "This is strange: your father's in some passion"
+        ],
+        [
+            "FERDINAND",
+            "That works him strongly."
+        ],
+        [
+            "MIRANDA",
+            "Never till this day"
+        ],
+        [
+            "MIRANDA",
+            "Saw I him touch'd with anger so distemper'd."
+        ],
+        [
+            "PROSPERO",
+            "You do look, my son, in a moved sort,"
+        ],
+        [
+            "PROSPERO",
+            "As if you were dismay'd: be cheerful, sir."
+        ],
+        [
+            "PROSPERO",
+            "Our revels now are ended. These our actors,"
+        ],
+        [
+            "PROSPERO",
+            "As I foretold you, were all spirits and"
+        ],
+        [
+            "PROSPERO",
+            "Are melted into air, into thin air:"
+        ],
+        [
+            "PROSPERO",
+            "And, like the baseless fabric of this vision,"
+        ],
+        [
+            "PROSPERO",
+            "The cloud-capp'd towers, the gorgeous palaces,"
+        ],
+        [
+            "PROSPERO",
+            "The solemn temples, the great globe itself,"
+        ],
+        [
+            "PROSPERO",
+            "Ye all which it inherit, shall dissolve"
+        ],
+        [
+            "PROSPERO",
+            "And, like this insubstantial pageant faded,"
+        ],
+        [
+            "PROSPERO",
+            "Leave not a rack behind. We are such stuff"
+        ],
+        [
+            "PROSPERO",
+            "As dreams are made on, and our little life"
+        ],
+        [
+            "PROSPERO",
+            "Is rounded with a sleep. Sir, I am vex'd;"
+        ],
+        [
+            "PROSPERO",
+            "Bear with my weakness; my, brain is troubled:"
+        ],
+        [
+            "PROSPERO",
+            "Be not disturb'd with my infirmity:"
+        ],
+        [
+            "PROSPERO",
+            "If you be pleased, retire into my cell"
+        ],
+        [
+            "PROSPERO",
+            "And there repose: a turn or two I'll walk,"
+        ],
+        [
+            "PROSPERO",
+            "To still my beating mind."
+        ],
+        [
+            "FERDINAND and MIRANDA",
+            "We wish your peace.",
+            {
+                "following_direction_line": "12"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Come with a thought I thank thee, Ariel: come.",
+            {
+                "preceding_direction_line": "12",
+                "following_direction_line": "13"
+            }
+        ],
+        [
+            "ARIEL",
+            "Thy thoughts I cleave to. What's thy pleasure?",
+            {
+                "preceding_direction_line": "13"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Spirit,"
+        ],
+        [
+            "PROSPERO",
+            "We must prepare to meet with Caliban."
+        ],
+        [
+            "ARIEL",
+            "Ay, my commander: when I presented Ceres,"
+        ],
+        [
+            "ARIEL",
+            "I thought to have told thee of it, but I fear'd"
+        ],
+        [
+            "ARIEL",
+            "Lest I might anger thee."
+        ],
+        [
+            "PROSPERO",
+            "Say again, where didst thou leave these varlets?"
+        ],
+        [
+            "ARIEL",
+            "I told you, sir, they were red-hot with drinking;"
+        ],
+        [
+            "ARIEL",
+            "So fun of valour that they smote the air"
+        ],
+        [
+            "ARIEL",
+            "For breathing in their faces; beat the ground"
+        ],
+        [
+            "ARIEL",
+            "For kissing of their feet; yet always bending"
+        ],
+        [
+            "ARIEL",
+            "Towards their project. Then I beat my tabour;"
+        ],
+        [
+            "ARIEL",
+            "At which, like unback'd colts, they prick'd"
+        ],
+        [
+            "ARIEL",
+            "their ears,"
+        ],
+        [
+            "ARIEL",
+            "Advanced their eyelids, lifted up their noses"
+        ],
+        [
+            "ARIEL",
+            "As they smelt music: so I charm'd their ears"
+        ],
+        [
+            "ARIEL",
+            "That calf-like they my lowing follow'd through"
+        ],
+        [
+            "ARIEL",
+            "Tooth'd briers, sharp furzes, pricking goss and thorns,"
+        ],
+        [
+            "ARIEL",
+            "Which entered their frail shins: at last I left them"
+        ],
+        [
+            "ARIEL",
+            "I' the filthy-mantled pool beyond your cell,"
+        ],
+        [
+            "ARIEL",
+            "There dancing up to the chins, that the foul lake"
+        ],
+        [
+            "ARIEL",
+            "O'erstunk their feet."
+        ],
+        [
+            "PROSPERO",
+            "This was well done, my bird."
+        ],
+        [
+            "PROSPERO",
+            "Thy shape invisible retain thou still:"
+        ],
+        [
+            "PROSPERO",
+            "The trumpery in my house, go bring it hither,"
+        ],
+        [
+            "PROSPERO",
+            "For stale to catch these thieves."
+        ],
+        [
+            "ARIEL",
+            "I go, I go.",
+            {
+                "following_direction_line": "14"
+            }
+        ],
+        [
+            "PROSPERO",
+            "A devil, a born devil, on whose nature",
+            {
+                "preceding_direction_line": "14"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Nurture can never stick; on whom my pains,"
+        ],
+        [
+            "PROSPERO",
+            "Humanely taken, all, all lost, quite lost;"
+        ],
+        [
+            "PROSPERO",
+            "And as with age his body uglier grows,"
+        ],
+        [
+            "PROSPERO",
+            "So his mind cankers. I will plague them all,"
+        ],
+        [
+            "PROSPERO",
+            "Even to roaring.",
+            {
+                "following_direction_line": "15"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Come, hang them on this line.",
+            {
+                "preceding_direction_line": "15",
+                "following_direction_line": "16"
+            }
+        ],
+        [
+            "CALIBAN",
+            "Pray you, tread softly, that the blind mole may not",
+            {
+                "preceding_direction_line": "16"
+            }
+        ],
+        [
+            "CALIBAN",
+            "Hear a foot fall: we now are near his cell."
+        ],
+        [
+            "STEPHANO",
+            "Monster, your fairy, which you say is"
+        ],
+        [
+            "STEPHANO",
+            "a harmless fairy, has done little better than"
+        ],
+        [
+            "STEPHANO",
+            "played the Jack with us."
+        ],
+        [
+            "TRINCULO",
+            "Monster, I do smell all horse-piss; at"
+        ],
+        [
+            "TRINCULO",
+            "which my nose is in great indignation."
+        ],
+        [
+            "STEPHANO",
+            "So is mine. Do you hear, monster? If I should take"
+        ],
+        [
+            "STEPHANO",
+            "a displeasure against you, look you,--"
+        ],
+        [
+            "TRINCULO",
+            "Thou wert but a lost monster."
+        ],
+        [
+            "CALIBAN",
+            "Good my lord, give me thy favour still."
+        ],
+        [
+            "CALIBAN",
+            "Be patient, for the prize I'll bring thee to"
+        ],
+        [
+            "CALIBAN",
+            "Shall hoodwink this mischance: therefore speak softly."
+        ],
+        [
+            "CALIBAN",
+            "All's hush'd as midnight yet."
+        ],
+        [
+            "TRINCULO",
+            "Ay, but to lose our bottles in the pool,--"
+        ],
+        [
+            "STEPHANO",
+            "There is not only disgrace and dishonour in that,"
+        ],
+        [
+            "STEPHANO",
+            "monster, but an infinite loss."
+        ],
+        [
+            "TRINCULO",
+            "That's more to me than my wetting: yet this is your"
+        ],
+        [
+            "TRINCULO",
+            "harmless fairy, monster."
+        ],
+        [
+            "STEPHANO",
+            "I will fetch off my bottle, though I be o'er ears"
+        ],
+        [
+            "STEPHANO",
+            "for my labour."
+        ],
+        [
+            "CALIBAN",
+            "Prithee, my king, be quiet. Seest thou here,"
+        ],
+        [
+            "CALIBAN",
+            "This is the mouth o' the cell: no noise, and enter."
+        ],
+        [
+            "CALIBAN",
+            "Do that good mischief which may make this island"
+        ],
+        [
+            "CALIBAN",
+            "Thine own for ever, and I, thy Caliban,"
+        ],
+        [
+            "CALIBAN",
+            "For aye thy foot-licker."
+        ],
+        [
+            "STEPHANO",
+            "Give me thy hand. I do begin to have bloody thoughts."
+        ],
+        [
+            "TRINCULO",
+            "O king Stephano! O peer! O worthy Stephano! look"
+        ],
+        [
+            "TRINCULO",
+            "what a wardrobe here is for thee!"
+        ],
+        [
+            "CALIBAN",
+            "Let it alone, thou fool; it is but trash."
+        ],
+        [
+            "TRINCULO",
+            "O, ho, monster! we know what belongs to a frippery."
+        ],
+        [
+            "TRINCULO",
+            "O king Stephano!"
+        ],
+        [
+            "STEPHANO",
+            "Put off that gown, Trinculo; by this hand, I'll have"
+        ],
+        [
+            "STEPHANO",
+            "that gown."
+        ],
+        [
+            "TRINCULO",
+            "Thy grace shall have it."
+        ],
+        [
+            "CALIBAN",
+            "The dropsy drown this fool I what do you mean"
+        ],
+        [
+            "CALIBAN",
+            "To dote thus on such luggage? Let's alone"
+        ],
+        [
+            "CALIBAN",
+            "And do the murder first: if he awake,"
+        ],
+        [
+            "CALIBAN",
+            "From toe to crown he'll fill our skins with pinches,"
+        ],
+        [
+            "CALIBAN",
+            "Make us strange stuff."
+        ],
+        [
+            "STEPHANO",
+            "Be you quiet, monster. Mistress line,"
+        ],
+        [
+            "STEPHANO",
+            "is not this my jerkin? Now is the jerkin under"
+        ],
+        [
+            "STEPHANO",
+            "the line: now, jerkin, you are like to lose your"
+        ],
+        [
+            "STEPHANO",
+            "hair and prove a bald jerkin."
+        ],
+        [
+            "TRINCULO",
+            "Do, do: we steal by line and level, an't like your grace."
+        ],
+        [
+            "STEPHANO",
+            "I thank thee for that jest; here's a garment for't:"
+        ],
+        [
+            "STEPHANO",
+            "wit shall not go unrewarded while I am king of this"
+        ],
+        [
+            "STEPHANO",
+            "country. 'Steal by line and level' is an excellent"
+        ],
+        [
+            "STEPHANO",
+            "pass of pate; there's another garment for't."
+        ],
+        [
+            "TRINCULO",
+            "Monster, come, put some lime upon your fingers, and"
+        ],
+        [
+            "TRINCULO",
+            "away with the rest."
+        ],
+        [
+            "CALIBAN",
+            "I will have none on't: we shall lose our time,"
+        ],
+        [
+            "CALIBAN",
+            "And all be turn'd to barnacles, or to apes"
+        ],
+        [
+            "CALIBAN",
+            "With foreheads villanous low."
+        ],
+        [
+            "STEPHANO",
+            "Monster, lay-to your fingers: help to bear this"
+        ],
+        [
+            "STEPHANO",
+            "away where my hogshead of wine is, or I'll turn you"
+        ],
+        [
+            "STEPHANO",
+            "out of my kingdom: go to, carry this."
+        ],
+        [
+            "TRINCULO",
+            "And this."
+        ],
+        [
+            "STEPHANO",
+            "Ay, and this.",
+            {
+                "following_direction_line": "17"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Hey, Mountain, hey!",
+            {
+                "preceding_direction_line": "17"
+            }
+        ],
+        [
+            "ARIEL",
+            "Silver I there it goes, Silver!"
+        ],
+        [
+            "PROSPERO",
+            "Fury, Fury! there, Tyrant, there! hark! hark!",
+            {
+                "following_direction_line": "18"
+            }
+        ],
+        [
+            "PROSPERO",
+            "Go charge my goblins that they grind their joints",
+            {
+                "preceding_direction_line": "18"
+            }
+        ],
+        [
+            "PROSPERO",
+            "With dry convulsions, shorten up their sinews"
+        ],
+        [
+            "PROSPERO",
+            "With aged cramps, and more pinch-spotted make them"
+        ],
+        [
+            "PROSPERO",
+            "Than pard or cat o' mountain."
+        ],
+        [
+            "ARIEL",
+            "Hark, they roar!"
+        ],
+        [
+            "PROSPERO",
+            "Let them be hunted soundly. At this hour"
+        ],
+        [
+            "PROSPERO",
+            "Lie at my mercy all mine enemies:"
+        ],
+        [
+            "PROSPERO",
+            "Shortly shall all my labours end, and thou"
+        ],
+        [
+            "PROSPERO",
+            "Shalt have the air at freedom: for a little"
+        ],
+        [
+            "PROSPERO",
+            "Follow, and do me service.",
+            {
+                "following_direction_line": "19"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter PROSPERO, FERDINAND, and MIRANDA"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter ARIEL"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Soft music. Enter IRIS"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Enter CERES"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Enter JUNO"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "They sing:"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Juno and Ceres whisper, and send Iris on employment"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Enter certain Nymphs"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Enter certain Reapers, properly habited: they join with the Nymphs in a graceful dance; towards the end whereof PROSPERO starts suddenly, and speaks; after which, to a strange, hollow, and confused noise, they heavily vanish"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "To the Spirits"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Exeunt"
+        ],
+        [
+            "_DIRECTION",
+            "D13",
+            "Enter ARIEL"
+        ],
+        [
+            "_DIRECTION",
+            "D14",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D15",
+            "Re-enter ARIEL, loaden with glistering apparel, etc"
+        ],
+        [
+            "_DIRECTION",
+            "D16",
+            "PROSPERO and ARIEL remain invisible. Enter CALIBAN, STEPHANO, and TRINCULO, all wet"
+        ],
+        [
+            "_DIRECTION",
+            "D17",
+            "A noise of hunters heard. Enter divers Spirits, in shape of dogs and hounds, and hunt them about, PROSPERO and ARIEL setting them on"
+        ],
+        [
+            "_DIRECTION",
+            "D18",
+            "CALIBAN, STEPHANO, and TRINCULO, are driven out"
+        ],
+        [
+            "_DIRECTION",
+            "D19",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "PROSPERO": [
+            [
+                "1",
+                "11"
+            ],
+            [
+                "14",
+                "24"
+            ],
+            [
+                "34",
+                "36"
+            ],
+            [
+                "38",
+                "45"
+            ],
+            [
+                "47",
+                "47"
+            ],
+            [
+                "53",
+                "54"
+            ],
+            [
+                "56",
+                "59"
+            ],
+            [
+                "63",
+                "66"
+            ],
+            [
+                "131",
+                "133"
+            ],
+            [
+                "137",
+                "140"
+            ],
+            [
+                "152",
+                "156"
+            ],
+            [
+                "161",
+                "178"
+            ],
+            [
+                "180",
+                "180"
+            ],
+            [
+                "182",
+                "183"
+            ],
+            [
+                "187",
+                "187"
+            ],
+            [
+                "203",
+                "206"
+            ],
+            [
+                "208",
+                "214"
+            ],
+            [
+                "274",
+                "274"
+            ],
+            [
+                "276",
+                "280"
+            ],
+            [
+                "282",
+                "286"
+            ]
+        ],
+        "FERDINAND": [
+            [
+                "12",
+                "13"
+            ],
+            [
+                "25",
+                "33"
+            ],
+            [
+                "60",
+                "62"
+            ],
+            [
+                "128",
+                "130"
+            ],
+            [
+                "134",
+                "136"
+            ],
+            [
+                "157",
+                "158"
+            ]
+        ],
+        "ARIEL": [
+            [
+                "37",
+                "37"
+            ],
+            [
+                "46",
+                "46"
+            ],
+            [
+                "48",
+                "52"
+            ],
+            [
+                "55",
+                "55"
+            ],
+            [
+                "181",
+                "181"
+            ],
+            [
+                "184",
+                "186"
+            ],
+            [
+                "188",
+                "202"
+            ],
+            [
+                "207",
+                "207"
+            ],
+            [
+                "275",
+                "275"
+            ],
+            [
+                "281",
+                "281"
+            ]
+        ],
+        "IRIS": [
+            [
+                "67",
+                "82"
+            ],
+            [
+                "91",
+                "93"
+            ],
+            [
+                "100",
+                "110"
+            ],
+            [
+                "141",
+                "151"
+            ]
+        ],
+        "CERES": [
+            [
+                "83",
+                "90"
+            ],
+            [
+                "94",
+                "99"
+            ],
+            [
+                "111",
+                "112"
+            ],
+            [
+                "120",
+                "127"
+            ]
+        ],
+        "JUNO": [
+            [
+                "113",
+                "119"
+            ]
+        ],
+        "MIRANDA": [
+            [
+                "159",
+                "160"
+            ]
+        ],
+        "FERDINAND and MIRANDA": [
+            [
+                "179",
+                "179"
+            ]
+        ],
+        "CALIBAN": [
+            [
+                "215",
+                "216"
+            ],
+            [
+                "225",
+                "228"
+            ],
+            [
+                "236",
+                "240"
+            ],
+            [
+                "244",
+                "244"
+            ],
+            [
+                "250",
+                "254"
+            ],
+            [
+                "266",
+                "268"
+            ]
+        ],
+        "STEPHANO": [
+            [
+                "217",
+                "219"
+            ],
+            [
+                "222",
+                "223"
+            ],
+            [
+                "230",
+                "231"
+            ],
+            [
+                "234",
+                "235"
+            ],
+            [
+                "241",
+                "241"
+            ],
+            [
+                "247",
+                "248"
+            ],
+            [
+                "255",
+                "258"
+            ],
+            [
+                "260",
+                "263"
+            ],
+            [
+                "269",
+                "271"
+            ],
+            [
+                "273",
+                "273"
+            ]
+        ],
+        "TRINCULO": [
+            [
+                "220",
+                "221"
+            ],
+            [
+                "224",
+                "224"
+            ],
+            [
+                "229",
+                "229"
+            ],
+            [
+                "232",
+                "233"
+            ],
+            [
+                "242",
+                "243"
+            ],
+            [
+                "245",
+                "246"
+            ],
+            [
+                "249",
+                "249"
+            ],
+            [
+                "259",
+                "259"
+            ],
+            [
+                "264",
+                "265"
+            ],
+            [
+                "272",
+                "272"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "Before PROSPERO'S cell."
+}
