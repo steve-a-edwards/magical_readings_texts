@@ -1,0 +1,91 @@
+{
+    "scene_id": "romeo and juliet~~Act_2~~Scene_0",
+    "work_number": "1",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "Chorus",
+            "Now old desire doth in his death-bed lie,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "Chorus",
+            "And young affection gapes to be his heir;"
+        ],
+        [
+            "Chorus",
+            "That fair for which love groan'd for and would die,"
+        ],
+        [
+            "Chorus",
+            "With tender Juliet match'd, is now not fair."
+        ],
+        [
+            "Chorus",
+            "Now Romeo is beloved and loves again,"
+        ],
+        [
+            "Chorus",
+            "Alike betwitched by the charm of looks,"
+        ],
+        [
+            "Chorus",
+            "But to his foe supposed he must complain,"
+        ],
+        [
+            "Chorus",
+            "And she steal love's sweet bait from fearful hooks:"
+        ],
+        [
+            "Chorus",
+            "Being held a foe, he may not have access"
+        ],
+        [
+            "Chorus",
+            "To breathe such vows as lovers use to swear;"
+        ],
+        [
+            "Chorus",
+            "And she as much in love, her means much less"
+        ],
+        [
+            "Chorus",
+            "To meet her new-beloved any where:"
+        ],
+        [
+            "Chorus",
+            "But passion lends them power, time means, to meet"
+        ],
+        [
+            "Chorus",
+            "Tempering extremities with extreme sweet.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter Chorus"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "Chorus": [
+            [
+                "1",
+                "14"
+            ]
+        ]
+    },
+    "scene_name": "PROLOGUE",
+    "scene_description": "Verona"
+}

@@ -1,0 +1,74 @@
+{
+    "scene_id": "romeo and juliet~~Act_1~~Scene_0",
+    "work_number": "1",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "PROLOGUE",
+            "Two households, both alike in dignity,"
+        ],
+        [
+            "PROLOGUE",
+            "In fair Verona, where we lay our scene,"
+        ],
+        [
+            "PROLOGUE",
+            "From ancient grudge break to new mutiny,"
+        ],
+        [
+            "PROLOGUE",
+            "Where civil blood makes civil hands unclean."
+        ],
+        [
+            "PROLOGUE",
+            "From forth the fatal loins of these two foes"
+        ],
+        [
+            "PROLOGUE",
+            "A pair of star-cross'd lovers take their life;"
+        ],
+        [
+            "PROLOGUE",
+            "Whose misadventured piteous overthrows"
+        ],
+        [
+            "PROLOGUE",
+            "Do with their death bury their parents' strife."
+        ],
+        [
+            "PROLOGUE",
+            "The fearful passage of their death-mark'd love,"
+        ],
+        [
+            "PROLOGUE",
+            "And the continuance of their parents' rage,"
+        ],
+        [
+            "PROLOGUE",
+            "Which, but their children's end, nought could remove,"
+        ],
+        [
+            "PROLOGUE",
+            "Is now the two hours' traffic of our stage;"
+        ],
+        [
+            "PROLOGUE",
+            "The which if you with patient ears attend,"
+        ],
+        [
+            "PROLOGUE",
+            "What here shall miss, our toil shall strive to mend."
+        ]
+    ],
+    "direction_lines": [],
+    "ranges_of_roles_lines": {
+        "PROLOGUE": [
+            [
+                "1",
+                "14"
+            ]
+        ]
+    },
+    "scene_name": "PROLOGUE",
+    "scene_description": "The town of Verona"
+}
