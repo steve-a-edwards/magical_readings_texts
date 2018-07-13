@@ -261,11 +261,11 @@
             "Go you down that way towards the Capitol;"
         ],
         [
-            "This way will I",
-            "disrobe the images,"
+            "FLAVIUS",
+            "This way will I disrobe the images,"
         ],
         [
-            "This way will I",
+            "FLAVIUS",
             "If you do find them deck'd with ceremonies."
         ],
         [
@@ -345,7 +345,7 @@
             ],
             [
                 "55",
-                "62"
+                "64"
             ],
             [
                 "67",
@@ -408,12 +408,6 @@
             [
                 "29",
                 "31"
-            ]
-        ],
-        "This way will I": [
-            [
-                "63",
-                "64"
             ]
         ]
     },
