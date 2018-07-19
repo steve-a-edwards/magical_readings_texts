@@ -4,24 +4,18 @@
     [
       "Act_1",
       [
-        "Scene_0",
         "Scene_1",
         "Scene_2",
-        "Scene_3",
-        "Scene_4",
-        "Scene_5"
+        "Scene_3"
       ]
     ],
     [
       "Act_2",
       [
-        "Scene_0",
         "Scene_1",
         "Scene_2",
         "Scene_3",
-        "Scene_4",
-        "Scene_5",
-        "Scene_6"
+        "Scene_4"
       ]
     ],
     [
@@ -29,9 +23,7 @@
       [
         "Scene_1",
         "Scene_2",
-        "Scene_3",
-        "Scene_4",
-        "Scene_5"
+        "Scene_3"
       ]
     ],
     [
@@ -39,9 +31,7 @@
       [
         "Scene_1",
         "Scene_2",
-        "Scene_3",
-        "Scene_4",
-        "Scene_5"
+        "Scene_3"
       ]
     ],
     [
@@ -49,25 +39,35 @@
       [
         "Scene_1",
         "Scene_2",
-        "Scene_3"
+        "Scene_3",
+        "Scene_4",
+        "Scene_5"
       ]
     ]
   ],
   "prosody_roles": {
-    "FRIAR LAURENCE": {
-      "pitch": "-25%",
+    "ANTONY": {
+      "pitch": "-5%",
       "volume": "medium"
     },
-    "JULIET": {
-      "pitch": "+20%",
-      "volume": "medium"
-    },
-    "ROMEO": {
+    "BRUTUS": {
       "pitch": "-15%",
+      "volume": "medium"
+    },
+    "CAESAR": {
+      "pitch": "-12%",
+      "volume": "medium"
+    },
+    "CASCA": {
+      "pitch": "+10%",
+      "volume": "medium"
+    },
+    "CASSIUS": {
+      "pitch": "-10%",
       "volume": "medium"
     }
   },
-  "work_name": "romeo and juliet",
-  "work_number": "1",
+  "work_name": "julius caesar",
+  "work_number": "11",
   "work_type": "Play"
 }
