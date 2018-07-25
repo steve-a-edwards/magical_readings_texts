@@ -1,0 +1,12 @@
+<speak>
+	<prosody pitch='-20%'>BENEDICK: speaks like this. </prosody>
+	<prosody pitch='-25%'>LEONATO: speaks like this. </prosody>
+	<prosody pitch='-30%'>DON PEDRO: speaks like this. </prosody>
+	<prosody pitch='-25%'>CLAUDIO: speaks like this. </prosody>
+	<prosody pitch='+35%'>BEATRICE: speaks like this. </prosody>
+	<prosody pitch='-25%'>DOGBERRY: speaks like this. </prosody>
+	<prosody pitch='-20%'>HERO: speaks like this. </prosody>
+	<prosody pitch='-15%'>BORACHIO: speaks like this. </prosody>
+	<prosody pitch='-20%'>DON JOHN: speaks like this. </prosody>
+	<prosody pitch='-25%'>FRIAR FRANCIS: speaks like this. </prosody>
+</speak>

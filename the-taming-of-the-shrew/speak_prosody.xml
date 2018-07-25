@@ -1,0 +1,12 @@
+<speak>
+	<prosody pitch='-20%'>PETRUCHIO: speaks like this. </prosody>
+	<prosody pitch='-25%'>TRANIO: speaks like this. </prosody>
+	<prosody pitch='+25%'>KATHARINA: speaks like this. </prosody>
+	<prosody pitch='-20%'>HORTENSIO: speaks like this. </prosody>
+	<prosody pitch='-25%'>LUCENTIO: speaks like this. </prosody>
+	<prosody pitch='-15%'>BAPTISTA: speaks like this. </prosody>
+	<prosody pitch='-25%'>GRUMIO: speaks like this. </prosody>
+	<prosody pitch='-25%'>GREMIO: speaks like this. </prosody>
+	<prosody pitch='-20%'>Lord: speaks like this. </prosody>
+	<prosody pitch='-15%'>BIONDELLO: speaks like this. </prosody>
+</speak>

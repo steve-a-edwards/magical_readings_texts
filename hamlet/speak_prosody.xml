@@ -1,0 +1,9 @@
+<speak>
+	<prosody pitch='-20%'>HAMLET: speaks like this. </prosody>
+	<prosody pitch='-25%'>KING CLAUDIUS: speaks like this. </prosody>
+	<prosody pitch='-30%'>LORD POLONIUS: speaks like this. </prosody>
+	<prosody pitch='-15%'>HORATIO: speaks like this. </prosody>
+	<prosody pitch='-10%'>LAERTES: speaks like this. </prosody>
+	<prosody pitch='+25%'>OPHELIA: speaks like this. </prosody>
+	<prosody pitch='+20%'>QUEEN GERTRUDE: speaks like this. </prosody>
+</speak>

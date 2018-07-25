@@ -1,0 +1,13 @@
+<speak>
+	<prosody pitch='-30%'>KING LEAR: speaks like this. </prosody>
+	<prosody pitch='-25%'>EDGAR: speaks like this. </prosody>
+	<prosody pitch='-20%'>KENT: speaks like this. </prosody>
+	<prosody pitch='-15%'>GLOUCESTER: speaks like this. </prosody>
+	<prosody pitch='-15%'>EDMUND: speaks like this. </prosody>
+	<prosody pitch='-5%'>Fool: speaks like this. </prosody>
+	<prosody pitch='+15%'>GONERIL: speaks like this. </prosody>
+	<prosody pitch='+20%'>REGAN: speaks like this. </prosody>
+	<prosody pitch='-15%'>ALBANY: speaks like this. </prosody>
+	<prosody pitch='+25%'>CORDELIA: speaks like this. </prosody>
+	<prosody pitch='-20%'>CORNWALL: speaks like this. </prosody>
+</speak>

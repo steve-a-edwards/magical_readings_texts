@@ -1,0 +1,14 @@
+<speak>
+	<prosody pitch='-20%'>MACBETH: speaks like this. </prosody>
+	<prosody pitch='+20%'>LADY MACBETH: speaks like this. </prosody>
+	<prosody pitch='-15%'>MALCOLM: speaks like this. </prosody>
+	<prosody pitch='-10%'>MACDUFF: speaks like this. </prosody>
+	<prosody pitch='-25%'>ROSS: speaks like this. </prosody>
+	<prosody pitch='-10%'>BANQUO: speaks like this. </prosody>
+	<prosody pitch='-15%'>LENNOX: speaks like this. </prosody>
+	<prosody pitch='-30%'>DUNCAN: speaks like this. </prosody>
+	<prosody pitch='+15%'>First Witch: speaks like this. </prosody>
+	<prosody pitch='-10%'>Porter: speaks like this. </prosody>
+	<prosody pitch='-10%'>Doctor: speaks like this. </prosody>
+	<prosody pitch='+25%'>LADY MACDUFF: speaks like this. </prosody>
+</speak>

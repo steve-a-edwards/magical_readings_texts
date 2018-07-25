@@ -1,0 +1,11 @@
+<speak>
+	<prosody pitch='+30%'>PORTIA: speaks like this. </prosody>
+	<prosody pitch='-25%'>SHYLOCK: speaks like this. </prosody>
+	<prosody pitch='-20%'>BASSANIO: speaks like this. </prosody>
+	<prosody pitch='-30%'>ANTONIO: speaks like this. </prosody>
+	<prosody pitch='-10%'>LORENZO: speaks like this. </prosody>
+	<prosody pitch='-15%'>GRATIANO: speaks like this. </prosody>
+	<prosody pitch='-25%'>LAUNCELOT: speaks like this. </prosody>
+	<prosody pitch='-20%'>SALARINO: speaks like this. </prosody>
+	<prosody pitch='-15%'>MOROCCO: speaks like this. </prosody>
+</speak>

@@ -1,0 +1,9 @@
+<speak>
+	<prosody pitch='-25%'>IAGO: speaks like this. </prosody>
+	<prosody pitch='-30%'>OTHELLO: speaks like this. </prosody>
+	<prosody pitch='+25%'>DESDEMONA: speaks like this. </prosody>
+	<prosody pitch='-20%'>CASSIO: speaks like this. </prosody>
+	<prosody pitch='+30%'>EMILIA: speaks like this. </prosody>
+	<prosody pitch='-25%'>BRABANTIO: speaks like this. </prosody>
+	<prosody pitch='-30%'>RODERIGO: speaks like this. </prosody>
+</speak>

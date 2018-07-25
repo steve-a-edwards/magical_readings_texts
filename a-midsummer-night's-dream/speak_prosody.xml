@@ -1,0 +1,11 @@
+<speak>
+	<prosody pitch='-25%'>THESEUS: speaks like this. </prosody>
+	<prosody pitch='+25%'>HELENA: speaks like this. </prosody>
+	<prosody pitch='-20%'>OBERON: speaks like this. </prosody>
+	<prosody pitch='+35%'>PUCK: speaks like this. </prosody>
+	<prosody pitch='-10%'>BOTTOM: speaks like this. </prosody>
+	<prosody pitch='-15%'>LYSANDER: speaks like this. </prosody>
+	<prosody pitch='+30%'>HERMIA: speaks like this. </prosody>
+	<prosody pitch='+25%'>TITANIA: speaks like this. </prosody>
+	<prosody pitch='-25%'>DEMETRIUS: speaks like this. </prosody>
+</speak>

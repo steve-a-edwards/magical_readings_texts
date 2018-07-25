@@ -1,0 +1,13 @@
+<speak>
+	<prosody pitch='-25%'>PROSPERO: speaks like this. </prosody>
+	<prosody pitch='-30%'>CALIBAN: speaks like this. </prosody>
+	<prosody pitch='+5%'>ARIEL: speaks like this. </prosody>
+	<prosody pitch='-20%'>STEPHANO: speaks like this. </prosody>
+	<prosody pitch='-30%'>GONZALO: speaks like this. </prosody>
+	<prosody pitch='-15%'>ANTONIO: speaks like this. </prosody>
+	<prosody pitch='-10%'>FERDINAND: speaks like this. </prosody>
+	<prosody pitch='+25%'>MIRANDA: speaks like this. </prosody>
+	<prosody pitch='-20%'>SEBASTIAN: speaks like this. </prosody>
+	<prosody pitch='-25%'>ALONSO: speaks like this. </prosody>
+	<prosody pitch='-15%'>TRINCULO: speaks like this. </prosody>
+</speak>
