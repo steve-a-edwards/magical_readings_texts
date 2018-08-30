@@ -1,0 +1,34 @@
+{
+  "main_author": "Shakespeare, edited by Alistair Schofield",
+  "plays_scenes": [
+    [
+      "Act_1",
+      [
+        "Scene_1"
+      ]
+    ],
+    [
+      "Act_2",
+      [
+        "Scene_1"
+      ]
+    ]
+  ],
+  "prosody_roles": {
+    "FRIAR LAURENCE": {
+      "pitch": "-25%",
+      "volume": "medium"
+    },
+    "JULIET": {
+      "pitch": "+20%",
+      "volume": "medium"
+    },
+    "ROMEO": {
+      "pitch": "-15%",
+      "volume": "medium"
+    }
+  },
+  "work_name": "romeo and juliet, version 101",
+  "work_number": "101",
+  "work_type": "Play"
+}

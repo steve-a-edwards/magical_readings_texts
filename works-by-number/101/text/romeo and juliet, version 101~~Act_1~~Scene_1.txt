@@ -1,0 +1,19 @@
+_S_SCENE I. Verona. A public place. (Reduced to 9 lines)
+_D_Enter SAMPSON and GREGORY, of the house of Capulet, armed with pink guns.
+_R_SAMPSON
+Gregory, o' my word, we'll not carry coals.
+_R_GREGORY
+No, for then we should be colliers.
+_R_SAMPSON
+I mean, an we be in choler, we'll draw.
+_R_LADY MONTAGUE
+O, where is Romeo? saw you him to-day?
+Right glad I am he was not at this fray.
+_D_Enter ROMEO
+_R_BENVOLIO
+See, where he comes: so please you, step aside;
+I'll know his grievance, or be much denied.
+_R_MONTAGUE
+I would thou wert so happy by thy stay,
+To hear true shrift. Come, madam, let's away.
+_D_Exeunt

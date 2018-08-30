@@ -1,0 +1,98 @@
+{
+    "scene_id": "romeo and juliet, version 101~~Act_2~~Scene_1",
+    "work_number": "101",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "ROMEO",
+            "Can I go forward when my heart is here?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "ROMEO",
+            "Turn back, dull earth, and find thy centre out.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "BENVOLIO",
+            "Romeo! my cousin Romeo!",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "MERCUTIO",
+            "He is wise;"
+        ],
+        [
+            "MERCUTIO",
+            "And, on my lie, hath stol'n him home to bed."
+        ],
+        [
+            "BENVOLIO",
+            "He ran this way, and leap'd this orchard wall:"
+        ],
+        [
+            "BENVOLIO",
+            "Call, good Mercutio."
+        ],
+        [
+            "MERCUTIO",
+            "Nay, I'll conjure too.",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter ROMEO, wearing unusually bright pink tights."
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "He climbs the wall, and leaps down within it. Enter BENVOLIO and MERCUTIO"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "ROMEO": [
+            [
+                "1",
+                "2"
+            ]
+        ],
+        "BENVOLIO": [
+            [
+                "3",
+                "3"
+            ],
+            [
+                "6",
+                "7"
+            ]
+        ],
+        "MERCUTIO": [
+            [
+                "4",
+                "5"
+            ],
+            [
+                "8",
+                "8"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "A lane by the wall of Capulet's orchard. (Reduced to 8 lines)"
+}
