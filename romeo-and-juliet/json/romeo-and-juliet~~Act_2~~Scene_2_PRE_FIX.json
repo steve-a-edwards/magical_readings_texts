@@ -7,7 +7,9 @@
             "ROMEO",
             "He jests at scars that never felt a wound.",
             {
-                "preceding_direction_line": "1",
+                "preceding_direction_line": "1"
+            },
+            {
                 "following_direction_line": "2"
             }
         ],
