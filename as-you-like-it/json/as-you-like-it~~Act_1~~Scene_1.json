@@ -1,0 +1,915 @@
+{
+    "scene_id": "as you like it~~Act_1~~Scene_1",
+    "work_number": "13",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "ORLANDO",
+            "As I remember, Adam, it was upon this fashion",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "ORLANDO",
+            "bequeathed me by will but poor a thousand crowns,"
+        ],
+        [
+            "ORLANDO",
+            "and, as thou sayest, charged my brother, on his"
+        ],
+        [
+            "ORLANDO",
+            "blessing, to breed me well: and there begins my"
+        ],
+        [
+            "ORLANDO",
+            "sadness. My brother Jaques he keeps at school, and"
+        ],
+        [
+            "ORLANDO",
+            "report speaks goldenly of his profit: for my part,"
+        ],
+        [
+            "ORLANDO",
+            "he keeps me rustically at home, or, to speak more"
+        ],
+        [
+            "ORLANDO",
+            "properly, stays me here at home unkept; for call you"
+        ],
+        [
+            "ORLANDO",
+            "that keeping for a gentleman of my birth, that"
+        ],
+        [
+            "ORLANDO",
+            "differs not from the stalling of an ox? His horses"
+        ],
+        [
+            "ORLANDO",
+            "are bred better; for, besides that they are fair"
+        ],
+        [
+            "ORLANDO",
+            "with their feeding, they are taught their manage,"
+        ],
+        [
+            "ORLANDO",
+            "and to that end riders dearly hired: but I, his"
+        ],
+        [
+            "ORLANDO",
+            "brother, gain nothing under him but growth; for the"
+        ],
+        [
+            "ORLANDO",
+            "which his animals on his dunghills are as much"
+        ],
+        [
+            "ORLANDO",
+            "bound to him as I. Besides this nothing that he so"
+        ],
+        [
+            "ORLANDO",
+            "plentifully gives me, the something that nature gave"
+        ],
+        [
+            "ORLANDO",
+            "me his countenance seems to take from me: he lets"
+        ],
+        [
+            "ORLANDO",
+            "me feed with his hinds, bars me the place of a"
+        ],
+        [
+            "ORLANDO",
+            "brother, and, as much as in him lies, mines my"
+        ],
+        [
+            "ORLANDO",
+            "gentility with my education. This is it, Adam, that"
+        ],
+        [
+            "ORLANDO",
+            "grieves me; and the spirit of my father, which I"
+        ],
+        [
+            "ORLANDO",
+            "think is within me, begins to mutiny against this"
+        ],
+        [
+            "ORLANDO",
+            "servitude: I will no longer endure it, though yet I"
+        ],
+        [
+            "ORLANDO",
+            "know no wise remedy how to avoid it."
+        ],
+        [
+            "ADAM",
+            "Yonder comes my master, your brother."
+        ],
+        [
+            "ORLANDO",
+            "Go apart, Adam, and thou shalt hear how he will"
+        ],
+        [
+            "ORLANDO",
+            "shake me up.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "OLIVER",
+            "Now, sir! what make you here?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "ORLANDO",
+            "Nothing: I am not taught to make any thing."
+        ],
+        [
+            "OLIVER",
+            "What mar you then, sir?"
+        ],
+        [
+            "ORLANDO",
+            "Marry, sir, I am helping you to mar that which God"
+        ],
+        [
+            "ORLANDO",
+            "made, a poor unworthy brother of yours, with idleness."
+        ],
+        [
+            "OLIVER",
+            "Marry, sir, be better employed, and be naught awhile."
+        ],
+        [
+            "ORLANDO",
+            "Shall I keep your hogs and eat husks with them?"
+        ],
+        [
+            "ORLANDO",
+            "What prodigal portion have I spent, that I should"
+        ],
+        [
+            "ORLANDO",
+            "come to such penury?"
+        ],
+        [
+            "OLIVER",
+            "Know you where your are, sir?"
+        ],
+        [
+            "ORLANDO",
+            "O, sir, very well; here in your orchard."
+        ],
+        [
+            "OLIVER",
+            "Know you before whom, sir?"
+        ],
+        [
+            "ORLANDO",
+            "Ay, better than him I am before knows me. I know"
+        ],
+        [
+            "ORLANDO",
+            "you are my eldest brother; and, in the gentle"
+        ],
+        [
+            "ORLANDO",
+            "condition of blood, you should so know me. The"
+        ],
+        [
+            "ORLANDO",
+            "courtesy of nations allows you my better, in that"
+        ],
+        [
+            "ORLANDO",
+            "you are the first-born; but the same tradition"
+        ],
+        [
+            "ORLANDO",
+            "takes not away my blood, were there twenty brothers"
+        ],
+        [
+            "ORLANDO",
+            "betwixt us: I have as much of my father in me as"
+        ],
+        [
+            "ORLANDO",
+            "you; albeit, I confess, your coming before me is"
+        ],
+        [
+            "ORLANDO",
+            "nearer to his reverence."
+        ],
+        [
+            "OLIVER",
+            "What, boy!"
+        ],
+        [
+            "ORLANDO",
+            "Come, come, elder brother, you are too young in this."
+        ],
+        [
+            "OLIVER",
+            "Wilt thou lay hands on me, villain?"
+        ],
+        [
+            "ORLANDO",
+            "I am no villain; I am the youngest son of Sir"
+        ],
+        [
+            "ORLANDO",
+            "Rowland de Boys; he was my father, and he is thrice"
+        ],
+        [
+            "ORLANDO",
+            "a villain that says such a father begot villains."
+        ],
+        [
+            "ORLANDO",
+            "Wert thou not my brother, I would not take this hand"
+        ],
+        [
+            "ORLANDO",
+            "from thy throat till this other had pulled out thy"
+        ],
+        [
+            "ORLANDO",
+            "tongue for saying so: thou hast railed on thyself."
+        ],
+        [
+            "ADAM",
+            "Sweet masters, be patient: for your father's"
+        ],
+        [
+            "ADAM",
+            "remembrance, be at accord."
+        ],
+        [
+            "OLIVER",
+            "Let me go, I say."
+        ],
+        [
+            "ORLANDO",
+            "I will not, till I please: you shall hear me. My"
+        ],
+        [
+            "ORLANDO",
+            "father charged you in his will to give me good"
+        ],
+        [
+            "ORLANDO",
+            "education: you have trained me like a peasant,"
+        ],
+        [
+            "ORLANDO",
+            "obscuring and hiding from me all gentleman-like"
+        ],
+        [
+            "ORLANDO",
+            "qualities. The spirit of my father grows strong in"
+        ],
+        [
+            "ORLANDO",
+            "me, and I will no longer endure it: therefore allow"
+        ],
+        [
+            "ORLANDO",
+            "me such exercises as may become a gentleman, or"
+        ],
+        [
+            "ORLANDO",
+            "give me the poor allottery my father left me by"
+        ],
+        [
+            "ORLANDO",
+            "testament; with that I will go buy my fortunes."
+        ],
+        [
+            "OLIVER",
+            "And what wilt thou do? beg, when that is spent?"
+        ],
+        [
+            "OLIVER",
+            "Well, sir, get you in: I will not long be troubled"
+        ],
+        [
+            "OLIVER",
+            "with you; you shall have some part of your will: I"
+        ],
+        [
+            "OLIVER",
+            "pray you, leave me."
+        ],
+        [
+            "ORLANDO",
+            "I will no further offend you than becomes me for my good."
+        ],
+        [
+            "OLIVER",
+            "Get you with him, you old dog."
+        ],
+        [
+            "ADAM",
+            "Is 'old dog' my reward? Most true, I have lost my"
+        ],
+        [
+            "ADAM",
+            "teeth in your service. God be with my old master!"
+        ],
+        [
+            "ADAM",
+            "he would not have spoke such a word.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "OLIVER",
+            "Is it even so? begin you to grow upon me? I will",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "OLIVER",
+            "physic your rankness, and yet give no thousand"
+        ],
+        [
+            "OLIVER",
+            "crowns neither. Holla, Dennis!",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "DENNIS",
+            "Calls your worship?",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "OLIVER",
+            "Was not Charles, the duke's wrestler, here to speak with me?"
+        ],
+        [
+            "DENNIS",
+            "So please you, he is here at the door and importunes"
+        ],
+        [
+            "DENNIS",
+            "access to you."
+        ],
+        [
+            "OLIVER",
+            "Call him in.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "OLIVER",
+            "'Twill be a good way; and to-morrow the wrestling is.",
+            {
+                "preceding_direction_line": "5",
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "CHARLES",
+            "Good morrow to your worship.",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "OLIVER",
+            "Good Monsieur Charles, what's the new news at the"
+        ],
+        [
+            "OLIVER",
+            "new court?"
+        ],
+        [
+            "CHARLES",
+            "There's no news at the court, sir, but the old news:"
+        ],
+        [
+            "CHARLES",
+            "that is, the old duke is banished by his younger"
+        ],
+        [
+            "CHARLES",
+            "brother the new duke; and three or four loving lords"
+        ],
+        [
+            "CHARLES",
+            "have put themselves into voluntary exile with him,"
+        ],
+        [
+            "CHARLES",
+            "whose lands and revenues enrich the new duke;"
+        ],
+        [
+            "CHARLES",
+            "therefore he gives them good leave to wander."
+        ],
+        [
+            "OLIVER",
+            "Can you tell if Rosalind, the duke's daughter, be"
+        ],
+        [
+            "OLIVER",
+            "banished with her father?"
+        ],
+        [
+            "CHARLES",
+            "O, no; for the duke's daughter, her cousin, so loves"
+        ],
+        [
+            "CHARLES",
+            "her, being ever from their cradles bred together,"
+        ],
+        [
+            "CHARLES",
+            "that she would have followed her exile, or have died"
+        ],
+        [
+            "CHARLES",
+            "to stay behind her. She is at the court, and no"
+        ],
+        [
+            "CHARLES",
+            "less beloved of her uncle than his own daughter; and"
+        ],
+        [
+            "CHARLES",
+            "never two ladies loved as they do."
+        ],
+        [
+            "OLIVER",
+            "Where will the old duke live?"
+        ],
+        [
+            "CHARLES",
+            "They say he is already in the forest of Arden, and"
+        ],
+        [
+            "CHARLES",
+            "a many merry men with him; and there they live like"
+        ],
+        [
+            "CHARLES",
+            "the old Robin Hood of England: they say many young"
+        ],
+        [
+            "CHARLES",
+            "gentlemen flock to him every day, and fleet the time"
+        ],
+        [
+            "CHARLES",
+            "carelessly, as they did in the golden world."
+        ],
+        [
+            "OLIVER",
+            "What, you wrestle to-morrow before the new duke?"
+        ],
+        [
+            "CHARLES",
+            "Marry, do I, sir; and I came to acquaint you with a"
+        ],
+        [
+            "CHARLES",
+            "matter. I am given, sir, secretly to understand"
+        ],
+        [
+            "CHARLES",
+            "that your younger brother Orlando hath a disposition"
+        ],
+        [
+            "CHARLES",
+            "to come in disguised against me to try a fall."
+        ],
+        [
+            "CHARLES",
+            "To-morrow, sir, I wrestle for my credit; and he that"
+        ],
+        [
+            "CHARLES",
+            "escapes me without some broken limb shall acquit him"
+        ],
+        [
+            "CHARLES",
+            "well. Your brother is but young and tender; and,"
+        ],
+        [
+            "CHARLES",
+            "for your love, I would be loath to foil him, as I"
+        ],
+        [
+            "CHARLES",
+            "must, for my own honour, if he come in: therefore,"
+        ],
+        [
+            "CHARLES",
+            "out of my love to you, I came hither to acquaint you"
+        ],
+        [
+            "CHARLES",
+            "withal, that either you might stay him from his"
+        ],
+        [
+            "CHARLES",
+            "intendment or brook such disgrace well as he shall"
+        ],
+        [
+            "CHARLES",
+            "run into, in that it is a thing of his own search"
+        ],
+        [
+            "CHARLES",
+            "and altogether against my will."
+        ],
+        [
+            "OLIVER",
+            "Charles, I thank thee for thy love to me, which"
+        ],
+        [
+            "OLIVER",
+            "thou shalt find I will most kindly requite. I had"
+        ],
+        [
+            "OLIVER",
+            "myself notice of my brother's purpose herein and"
+        ],
+        [
+            "OLIVER",
+            "have by underhand means laboured to dissuade him from"
+        ],
+        [
+            "OLIVER",
+            "it, but he is resolute. I'll tell thee, Charles:"
+        ],
+        [
+            "OLIVER",
+            "it is the stubbornest young fellow of France, full"
+        ],
+        [
+            "OLIVER",
+            "of ambition, an envious emulator of every man's"
+        ],
+        [
+            "OLIVER",
+            "good parts, a secret and villanous contriver against"
+        ],
+        [
+            "OLIVER",
+            "me his natural brother: therefore use thy"
+        ],
+        [
+            "OLIVER",
+            "discretion; I had as lief thou didst break his neck"
+        ],
+        [
+            "OLIVER",
+            "as his finger. And thou wert best look to't; for if"
+        ],
+        [
+            "OLIVER",
+            "thou dost him any slight disgrace or if he do not"
+        ],
+        [
+            "OLIVER",
+            "mightily grace himself on thee, he will practise"
+        ],
+        [
+            "OLIVER",
+            "against thee by poison, entrap thee by some"
+        ],
+        [
+            "OLIVER",
+            "treacherous device and never leave thee till he"
+        ],
+        [
+            "OLIVER",
+            "hath ta'en thy life by some indirect means or other;"
+        ],
+        [
+            "OLIVER",
+            "for, I assure thee, and almost with tears I speak"
+        ],
+        [
+            "OLIVER",
+            "it, there is not one so young and so villanous this"
+        ],
+        [
+            "OLIVER",
+            "day living. I speak but brotherly of him; but"
+        ],
+        [
+            "OLIVER",
+            "should I anatomize him to thee as he is, I must"
+        ],
+        [
+            "OLIVER",
+            "blush and weep and thou must look pale and wonder."
+        ],
+        [
+            "CHARLES",
+            "I am heartily glad I came hither to you. If he come"
+        ],
+        [
+            "CHARLES",
+            "to-morrow, I'll give him his payment: if ever he go"
+        ],
+        [
+            "CHARLES",
+            "alone again, I'll never wrestle for prize more: and"
+        ],
+        [
+            "CHARLES",
+            "so God keep your worship!"
+        ],
+        [
+            "OLIVER",
+            "Farewell, good Charles.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "OLIVER",
+            "Now will I stir this gamester: I hope I shall see",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "OLIVER",
+            "an end of him; for my soul, yet I know not why,"
+        ],
+        [
+            "OLIVER",
+            "hates nothing more than he. Yet he's gentle, never"
+        ],
+        [
+            "OLIVER",
+            "schooled and yet learned, full of noble device, of"
+        ],
+        [
+            "OLIVER",
+            "all sorts enchantingly beloved, and indeed so much"
+        ],
+        [
+            "OLIVER",
+            "in the heart of the world, and especially of my own"
+        ],
+        [
+            "OLIVER",
+            "people, who best know him, that I am altogether"
+        ],
+        [
+            "OLIVER",
+            "misprised: but it shall not be so long; this"
+        ],
+        [
+            "OLIVER",
+            "wrestler shall clear all: nothing remains but that"
+        ],
+        [
+            "OLIVER",
+            "I kindle the boy thither; which now I'll go about.",
+            {
+                "following_direction_line": "8"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter ORLANDO and ADAM"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter OLIVER"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt ORLANDO and ADAM"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter DENNIS"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exit DENNIS"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Enter CHARLES"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exit CHARLES"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "ORLANDO": [
+            [
+                "1",
+                "25"
+            ],
+            [
+                "27",
+                "28"
+            ],
+            [
+                "30",
+                "30"
+            ],
+            [
+                "32",
+                "33"
+            ],
+            [
+                "35",
+                "37"
+            ],
+            [
+                "39",
+                "39"
+            ],
+            [
+                "41",
+                "49"
+            ],
+            [
+                "51",
+                "51"
+            ],
+            [
+                "53",
+                "58"
+            ],
+            [
+                "62",
+                "70"
+            ],
+            [
+                "75",
+                "75"
+            ]
+        ],
+        "ADAM": [
+            [
+                "26",
+                "26"
+            ],
+            [
+                "59",
+                "60"
+            ],
+            [
+                "77",
+                "79"
+            ]
+        ],
+        "OLIVER": [
+            [
+                "29",
+                "29"
+            ],
+            [
+                "31",
+                "31"
+            ],
+            [
+                "34",
+                "34"
+            ],
+            [
+                "38",
+                "38"
+            ],
+            [
+                "40",
+                "40"
+            ],
+            [
+                "50",
+                "50"
+            ],
+            [
+                "52",
+                "52"
+            ],
+            [
+                "61",
+                "61"
+            ],
+            [
+                "71",
+                "74"
+            ],
+            [
+                "76",
+                "76"
+            ],
+            [
+                "80",
+                "82"
+            ],
+            [
+                "84",
+                "84"
+            ],
+            [
+                "87",
+                "88"
+            ],
+            [
+                "90",
+                "91"
+            ],
+            [
+                "98",
+                "99"
+            ],
+            [
+                "106",
+                "106"
+            ],
+            [
+                "112",
+                "112"
+            ],
+            [
+                "127",
+                "147"
+            ],
+            [
+                "152",
+                "162"
+            ]
+        ],
+        "DENNIS": [
+            [
+                "83",
+                "83"
+            ],
+            [
+                "85",
+                "86"
+            ]
+        ],
+        "CHARLES": [
+            [
+                "89",
+                "89"
+            ],
+            [
+                "92",
+                "97"
+            ],
+            [
+                "100",
+                "105"
+            ],
+            [
+                "107",
+                "111"
+            ],
+            [
+                "113",
+                "126"
+            ],
+            [
+                "148",
+                "151"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "Orchard of Oliver's house."
+}

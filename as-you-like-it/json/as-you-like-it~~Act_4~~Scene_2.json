@@ -1,0 +1,146 @@
+{
+    "scene_id": "as you like it~~Act_4~~Scene_2",
+    "work_number": "13",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "JAQUES",
+            "Which is he that killed the deer?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "A Lord",
+            "Sir, it was I."
+        ],
+        [
+            "JAQUES",
+            "Let's present him to the duke, like a Roman"
+        ],
+        [
+            "JAQUES",
+            "conqueror; and it would do well to set the deer's"
+        ],
+        [
+            "JAQUES",
+            "horns upon his head, for a branch of victory. Have"
+        ],
+        [
+            "JAQUES",
+            "you no song, forester, for this purpose?"
+        ],
+        [
+            "Forester",
+            "Yes, sir."
+        ],
+        [
+            "JAQUES",
+            "Sing it: 'tis no matter how it be in tune, so it"
+        ],
+        [
+            "JAQUES",
+            "make noise enough."
+        ],
+        [
+            "JAQUES",
+            "SONG."
+        ],
+        [
+            "Forester",
+            "What shall he have that kill'd the deer?"
+        ],
+        [
+            "Forester",
+            "His leather skin and horns to wear."
+        ],
+        [
+            "Forester",
+            "Then sing him home;",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "Forester",
+            "Take thou no scorn to wear the horn;",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "Forester",
+            "It was a crest ere thou wast born:"
+        ],
+        [
+            "Forester",
+            "Thy father's father wore it,"
+        ],
+        [
+            "Forester",
+            "And thy father bore it:"
+        ],
+        [
+            "Forester",
+            "The horn, the horn, the lusty horn"
+        ],
+        [
+            "Forester",
+            "Is not a thing to laugh to scorn.",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter JAQUES, Lords, and Foresters"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "The rest shall bear this burden"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "JAQUES": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "6"
+            ],
+            [
+                "8",
+                "10"
+            ]
+        ],
+        "A Lord": [
+            [
+                "2",
+                "2"
+            ]
+        ],
+        "Forester": [
+            [
+                "7",
+                "7"
+            ],
+            [
+                "11",
+                "19"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "The forest."
+}

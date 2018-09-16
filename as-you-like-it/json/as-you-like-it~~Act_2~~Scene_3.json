@@ -1,0 +1,381 @@
+{
+    "scene_id": "as you like it~~Act_2~~Scene_3",
+    "work_number": "13",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "ORLANDO",
+            "Who's there?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "ADAM",
+            "What, my young master? O, my gentle master!"
+        ],
+        [
+            "ADAM",
+            "O my sweet master! O you memory"
+        ],
+        [
+            "ADAM",
+            "Of old Sir Rowland! why, what make you here?"
+        ],
+        [
+            "ADAM",
+            "Why are you virtuous? why do people love you?"
+        ],
+        [
+            "ADAM",
+            "And wherefore are you gentle, strong and valiant?"
+        ],
+        [
+            "ADAM",
+            "Why would you be so fond to overcome"
+        ],
+        [
+            "ADAM",
+            "The bonny priser of the humorous duke?"
+        ],
+        [
+            "ADAM",
+            "Your praise is come too swiftly home before you."
+        ],
+        [
+            "ADAM",
+            "Know you not, master, to some kind of men"
+        ],
+        [
+            "ADAM",
+            "Their graces serve them but as enemies?"
+        ],
+        [
+            "ADAM",
+            "No more do yours: your virtues, gentle master,"
+        ],
+        [
+            "ADAM",
+            "Are sanctified and holy traitors to you."
+        ],
+        [
+            "ADAM",
+            "O, what a world is this, when what is comely"
+        ],
+        [
+            "ADAM",
+            "Envenoms him that bears it!"
+        ],
+        [
+            "ORLANDO",
+            "Why, what's the matter?"
+        ],
+        [
+            "ADAM",
+            "O unhappy youth!"
+        ],
+        [
+            "ADAM",
+            "Come not within these doors; within this roof"
+        ],
+        [
+            "ADAM",
+            "The enemy of all your graces lives:"
+        ],
+        [
+            "ADAM",
+            "Your brother--no, no brother; yet the son--"
+        ],
+        [
+            "ADAM",
+            "Yet not the son, I will not call him son"
+        ],
+        [
+            "ADAM",
+            "Of him I was about to call his father--"
+        ],
+        [
+            "ADAM",
+            "Hath heard your praises, and this night he means"
+        ],
+        [
+            "ADAM",
+            "To burn the lodging where you use to lie"
+        ],
+        [
+            "ADAM",
+            "And you within it: if he fail of that,"
+        ],
+        [
+            "ADAM",
+            "He will have other means to cut you off."
+        ],
+        [
+            "ADAM",
+            "I overheard him and his practises."
+        ],
+        [
+            "ADAM",
+            "This is no place; this house is but a butchery:"
+        ],
+        [
+            "ADAM",
+            "Abhor it, fear it, do not enter it."
+        ],
+        [
+            "ORLANDO",
+            "Why, whither, Adam, wouldst thou have me go?"
+        ],
+        [
+            "ADAM",
+            "No matter whither, so you come not here."
+        ],
+        [
+            "ORLANDO",
+            "What, wouldst thou have me go and beg my food?"
+        ],
+        [
+            "ORLANDO",
+            "Or with a base and boisterous sword enforce"
+        ],
+        [
+            "ORLANDO",
+            "A thievish living on the common road?"
+        ],
+        [
+            "ORLANDO",
+            "This I must do, or know not what to do:"
+        ],
+        [
+            "ORLANDO",
+            "Yet this I will not do, do how I can;"
+        ],
+        [
+            "ORLANDO",
+            "I rather will subject me to the malice"
+        ],
+        [
+            "ORLANDO",
+            "Of a diverted blood and bloody brother."
+        ],
+        [
+            "ADAM",
+            "But do not so. I have five hundred crowns,"
+        ],
+        [
+            "ADAM",
+            "The thrifty hire I saved under your father,"
+        ],
+        [
+            "ADAM",
+            "Which I did store to be my foster-nurse"
+        ],
+        [
+            "ADAM",
+            "When service should in my old limbs lie lame"
+        ],
+        [
+            "ADAM",
+            "And unregarded age in corners thrown:"
+        ],
+        [
+            "ADAM",
+            "Take that, and He that doth the ravens feed,"
+        ],
+        [
+            "ADAM",
+            "Yea, providently caters for the sparrow,"
+        ],
+        [
+            "ADAM",
+            "Be comfort to my age! Here is the gold;"
+        ],
+        [
+            "ADAM",
+            "And all this I give you. Let me be your servant:"
+        ],
+        [
+            "ADAM",
+            "Though I look old, yet I am strong and lusty;"
+        ],
+        [
+            "ADAM",
+            "For in my youth I never did apply"
+        ],
+        [
+            "ADAM",
+            "Hot and rebellious liquors in my blood,"
+        ],
+        [
+            "ADAM",
+            "Nor did not with unbashful forehead woo"
+        ],
+        [
+            "ADAM",
+            "The means of weakness and debility;"
+        ],
+        [
+            "ADAM",
+            "Therefore my age is as a lusty winter,"
+        ],
+        [
+            "ADAM",
+            "Frosty, but kindly: let me go with you;"
+        ],
+        [
+            "ADAM",
+            "I'll do the service of a younger man"
+        ],
+        [
+            "ADAM",
+            "In all your business and necessities."
+        ],
+        [
+            "ORLANDO",
+            "O good old man, how well in thee appears"
+        ],
+        [
+            "ORLANDO",
+            "The constant service of the antique world,"
+        ],
+        [
+            "ORLANDO",
+            "When service sweat for duty, not for meed!"
+        ],
+        [
+            "ORLANDO",
+            "Thou art not for the fashion of these times,"
+        ],
+        [
+            "ORLANDO",
+            "Where none will sweat but for promotion,"
+        ],
+        [
+            "ORLANDO",
+            "And having that, do choke their service up"
+        ],
+        [
+            "ORLANDO",
+            "Even with the having: it is not so with thee."
+        ],
+        [
+            "ORLANDO",
+            "But, poor old man, thou prunest a rotten tree,"
+        ],
+        [
+            "ORLANDO",
+            "That cannot so much as a blossom yield"
+        ],
+        [
+            "ORLANDO",
+            "In lieu of all thy pains and husbandry"
+        ],
+        [
+            "ORLANDO",
+            "But come thy ways; well go along together,"
+        ],
+        [
+            "ORLANDO",
+            "And ere we have thy youthful wages spent,"
+        ],
+        [
+            "ORLANDO",
+            "We'll light upon some settled low content."
+        ],
+        [
+            "ADAM",
+            "Master, go on, and I will follow thee,"
+        ],
+        [
+            "ADAM",
+            "To the last gasp, with truth and loyalty."
+        ],
+        [
+            "ADAM",
+            "From seventeen years till now almost fourscore"
+        ],
+        [
+            "ADAM",
+            "Here lived I, but now live here no more."
+        ],
+        [
+            "ADAM",
+            "At seventeen years many their fortunes seek;"
+        ],
+        [
+            "ADAM",
+            "But at fourscore it is too late a week:"
+        ],
+        [
+            "ADAM",
+            "Yet fortune cannot recompense me better"
+        ],
+        [
+            "ADAM",
+            "Than to die well and not my master's debtor.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter ORLANDO and ADAM, meeting"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "ORLANDO": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "16",
+                "16"
+            ],
+            [
+                "30",
+                "30"
+            ],
+            [
+                "32",
+                "38"
+            ],
+            [
+                "57",
+                "69"
+            ]
+        ],
+        "ADAM": [
+            [
+                "2",
+                "15"
+            ],
+            [
+                "17",
+                "29"
+            ],
+            [
+                "31",
+                "31"
+            ],
+            [
+                "39",
+                "56"
+            ],
+            [
+                "70",
+                "77"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "Before OLIVER'S house."
+}

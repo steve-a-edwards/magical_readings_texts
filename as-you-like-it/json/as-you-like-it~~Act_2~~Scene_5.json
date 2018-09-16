@@ -1,0 +1,340 @@
+{
+    "scene_id": "as you like it~~Act_2~~Scene_5",
+    "work_number": "13",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "AMIENS",
+            "Under the greenwood tree",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "AMIENS",
+            "Who loves to lie with me,"
+        ],
+        [
+            "AMIENS",
+            "And turn his merry note"
+        ],
+        [
+            "AMIENS",
+            "Unto the sweet bird's throat,"
+        ],
+        [
+            "AMIENS",
+            "Come hither, come hither, come hither:"
+        ],
+        [
+            "AMIENS",
+            "Here shall he see No enemy"
+        ],
+        [
+            "AMIENS",
+            "But winter and rough weather."
+        ],
+        [
+            "JAQUES",
+            "More, more, I prithee, more."
+        ],
+        [
+            "AMIENS",
+            "It will make you melancholy, Monsieur Jaques."
+        ],
+        [
+            "JAQUES",
+            "I thank it. More, I prithee, more. I can suck"
+        ],
+        [
+            "JAQUES",
+            "melancholy out of a song, as a weasel sucks eggs."
+        ],
+        [
+            "JAQUES",
+            "More, I prithee, more."
+        ],
+        [
+            "AMIENS",
+            "My voice is ragged: I know I cannot please you."
+        ],
+        [
+            "JAQUES",
+            "I do not desire you to please me; I do desire you to"
+        ],
+        [
+            "JAQUES",
+            "sing. Come, more; another stanzo: call you 'em stanzos?"
+        ],
+        [
+            "AMIENS",
+            "What you will, Monsieur Jaques."
+        ],
+        [
+            "JAQUES",
+            "Nay, I care not for their names; they owe me"
+        ],
+        [
+            "JAQUES",
+            "nothing. Will you sing?"
+        ],
+        [
+            "AMIENS",
+            "More at your request than to please myself."
+        ],
+        [
+            "JAQUES",
+            "Well then, if ever I thank any man, I'll thank you;"
+        ],
+        [
+            "JAQUES",
+            "but that they call compliment is like the encounter"
+        ],
+        [
+            "JAQUES",
+            "of two dog-apes, and when a man thanks me heartily,"
+        ],
+        [
+            "JAQUES",
+            "methinks I have given him a penny and he renders me"
+        ],
+        [
+            "JAQUES",
+            "the beggarly thanks. Come, sing; and you that will"
+        ],
+        [
+            "JAQUES",
+            "not, hold your tongues."
+        ],
+        [
+            "AMIENS",
+            "Well, I'll end the song. Sirs, cover the while; the"
+        ],
+        [
+            "AMIENS",
+            "duke will drink under this tree. He hath been all"
+        ],
+        [
+            "AMIENS",
+            "this day to look you."
+        ],
+        [
+            "JAQUES",
+            "And I have been all this day to avoid him. He is"
+        ],
+        [
+            "JAQUES",
+            "too disputable for my company: I think of as many"
+        ],
+        [
+            "JAQUES",
+            "matters as he, but I give heaven thanks and make no"
+        ],
+        [
+            "JAQUES",
+            "boast of them. Come, warble, come."
+        ],
+        [
+            "JAQUES",
+            "SONG."
+        ],
+        [
+            "JAQUES",
+            "Who doth ambition shun",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "JAQUES",
+            "And loves to live i' the sun,",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "JAQUES",
+            "Seeking the food he eats"
+        ],
+        [
+            "JAQUES",
+            "And pleased with what he gets,"
+        ],
+        [
+            "JAQUES",
+            "Come hither, come hither, come hither:"
+        ],
+        [
+            "JAQUES",
+            "Here shall he see No enemy"
+        ],
+        [
+            "JAQUES",
+            "But winter and rough weather."
+        ],
+        [
+            "JAQUES",
+            "I'll give you a verse to this note that I made"
+        ],
+        [
+            "JAQUES",
+            "yesterday in despite of my invention."
+        ],
+        [
+            "AMIENS",
+            "And I'll sing it."
+        ],
+        [
+            "JAQUES",
+            "Thus it goes:--"
+        ],
+        [
+            "JAQUES",
+            "If it do come to pass"
+        ],
+        [
+            "JAQUES",
+            "That any man turn ass,"
+        ],
+        [
+            "JAQUES",
+            "Leaving his wealth and ease,"
+        ],
+        [
+            "JAQUES",
+            "A stubborn will to please,"
+        ],
+        [
+            "JAQUES",
+            "Ducdame, ducdame, ducdame:"
+        ],
+        [
+            "JAQUES",
+            "Here shall he see"
+        ],
+        [
+            "JAQUES",
+            "Gross fools as he,"
+        ],
+        [
+            "JAQUES",
+            "An if he will come to me."
+        ],
+        [
+            "AMIENS",
+            "What's that 'ducdame'?"
+        ],
+        [
+            "JAQUES",
+            "'Tis a Greek invocation, to call fools into a"
+        ],
+        [
+            "JAQUES",
+            "circle. I'll go sleep, if I can; if I cannot, I'll"
+        ],
+        [
+            "JAQUES",
+            "rail against all the first-born of Egypt."
+        ],
+        [
+            "AMIENS",
+            "And I'll go seek the duke: his banquet is prepared.",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter AMIENS, JAQUES, and others. Sings."
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "All together here"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt severally"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "AMIENS": [
+            [
+                "1",
+                "7"
+            ],
+            [
+                "9",
+                "9"
+            ],
+            [
+                "13",
+                "13"
+            ],
+            [
+                "16",
+                "16"
+            ],
+            [
+                "19",
+                "19"
+            ],
+            [
+                "26",
+                "28"
+            ],
+            [
+                "43",
+                "43"
+            ],
+            [
+                "53",
+                "53"
+            ],
+            [
+                "57",
+                "57"
+            ]
+        ],
+        "JAQUES": [
+            [
+                "8",
+                "8"
+            ],
+            [
+                "10",
+                "12"
+            ],
+            [
+                "14",
+                "15"
+            ],
+            [
+                "17",
+                "18"
+            ],
+            [
+                "20",
+                "25"
+            ],
+            [
+                "29",
+                "42"
+            ],
+            [
+                "44",
+                "52"
+            ],
+            [
+                "54",
+                "56"
+            ]
+        ]
+    },
+    "scene_name": "SCENE V",
+    "scene_description": "The Forest."
+}

@@ -1,0 +1,2319 @@
+{
+    "scene_id": "as you like it~~Act_3~~Scene_2",
+    "work_number": "13",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "ORLANDO",
+            "Hang there, my verse, in witness of my love:",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "ORLANDO",
+            "And thou, thrice-crowned queen of night, survey"
+        ],
+        [
+            "ORLANDO",
+            "With thy chaste eye, from thy pale sphere above,"
+        ],
+        [
+            "ORLANDO",
+            "Thy huntress' name that my full life doth sway."
+        ],
+        [
+            "ORLANDO",
+            "O Rosalind! these trees shall be my books"
+        ],
+        [
+            "ORLANDO",
+            "And in their barks my thoughts I'll character;"
+        ],
+        [
+            "ORLANDO",
+            "That every eye which in this forest looks"
+        ],
+        [
+            "ORLANDO",
+            "Shall see thy virtue witness'd every where."
+        ],
+        [
+            "ORLANDO",
+            "Run, run, Orlando; carve on every tree"
+        ],
+        [
+            "ORLANDO",
+            "The fair, the chaste and unexpressive she.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "CORIN",
+            "And how like you this shepherd's life, Master Touchstone?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "TOUCHSTONE",
+            "Truly, shepherd, in respect of itself, it is a good"
+        ],
+        [
+            "TOUCHSTONE",
+            "life, but in respect that it is a shepherd's life,"
+        ],
+        [
+            "TOUCHSTONE",
+            "it is naught. In respect that it is solitary, I"
+        ],
+        [
+            "TOUCHSTONE",
+            "like it very well; but in respect that it is"
+        ],
+        [
+            "TOUCHSTONE",
+            "private, it is a very vile life. Now, in respect it"
+        ],
+        [
+            "TOUCHSTONE",
+            "is in the fields, it pleaseth me well; but in"
+        ],
+        [
+            "TOUCHSTONE",
+            "respect it is not in the court, it is tedious. As"
+        ],
+        [
+            "TOUCHSTONE",
+            "is it a spare life, look you, it fits my humour well;"
+        ],
+        [
+            "TOUCHSTONE",
+            "but as there is no more plenty in it, it goes much"
+        ],
+        [
+            "TOUCHSTONE",
+            "against my stomach. Hast any philosophy in thee, shepherd?"
+        ],
+        [
+            "CORIN",
+            "No more but that I know the more one sickens the"
+        ],
+        [
+            "CORIN",
+            "worse at ease he is; and that he that wants money,"
+        ],
+        [
+            "CORIN",
+            "means and content is without three good friends;"
+        ],
+        [
+            "CORIN",
+            "that the property of rain is to wet and fire to"
+        ],
+        [
+            "CORIN",
+            "burn; that good pasture makes fat sheep, and that a"
+        ],
+        [
+            "CORIN",
+            "great cause of the night is lack of the sun; that"
+        ],
+        [
+            "CORIN",
+            "he that hath learned no wit by nature nor art may"
+        ],
+        [
+            "CORIN",
+            "complain of good breeding or comes of a very dull kindred."
+        ],
+        [
+            "TOUCHSTONE",
+            "Such a one is a natural philosopher. Wast ever in"
+        ],
+        [
+            "TOUCHSTONE",
+            "court, shepherd?"
+        ],
+        [
+            "CORIN",
+            "No, truly."
+        ],
+        [
+            "TOUCHSTONE",
+            "Then thou art damned."
+        ],
+        [
+            "CORIN",
+            "Nay, I hope."
+        ],
+        [
+            "TOUCHSTONE",
+            "Truly, thou art damned like an ill-roasted egg, all"
+        ],
+        [
+            "TOUCHSTONE",
+            "on one side."
+        ],
+        [
+            "CORIN",
+            "For not being at court? Your reason."
+        ],
+        [
+            "TOUCHSTONE",
+            "Why, if thou never wast at court, thou never sawest"
+        ],
+        [
+            "TOUCHSTONE",
+            "good manners; if thou never sawest good manners,"
+        ],
+        [
+            "TOUCHSTONE",
+            "then thy manners must be wicked; and wickedness is"
+        ],
+        [
+            "TOUCHSTONE",
+            "sin, and sin is damnation. Thou art in a parlous"
+        ],
+        [
+            "TOUCHSTONE",
+            "state, shepherd."
+        ],
+        [
+            "CORIN",
+            "Not a whit, Touchstone: those that are good manners"
+        ],
+        [
+            "CORIN",
+            "at the court are as ridiculous in the country as the"
+        ],
+        [
+            "CORIN",
+            "behavior of the country is most mockable at the"
+        ],
+        [
+            "CORIN",
+            "court. You told me you salute not at the court, but"
+        ],
+        [
+            "CORIN",
+            "you kiss your hands: that courtesy would be"
+        ],
+        [
+            "CORIN",
+            "uncleanly, if courtiers were shepherds."
+        ],
+        [
+            "TOUCHSTONE",
+            "Instance, briefly; come, instance."
+        ],
+        [
+            "CORIN",
+            "Why, we are still handling our ewes, and their"
+        ],
+        [
+            "CORIN",
+            "fells, you know, are greasy."
+        ],
+        [
+            "TOUCHSTONE",
+            "Why, do not your courtier's hands sweat? and is not"
+        ],
+        [
+            "TOUCHSTONE",
+            "the grease of a mutton as wholesome as the sweat of"
+        ],
+        [
+            "TOUCHSTONE",
+            "a man? Shallow, shallow. A better instance, I say; come."
+        ],
+        [
+            "CORIN",
+            "Besides, our hands are hard."
+        ],
+        [
+            "TOUCHSTONE",
+            "Your lips will feel them the sooner. Shallow again."
+        ],
+        [
+            "TOUCHSTONE",
+            "A more sounder instance, come."
+        ],
+        [
+            "CORIN",
+            "And they are often tarred over with the surgery of"
+        ],
+        [
+            "CORIN",
+            "our sheep: and would you have us kiss tar? The"
+        ],
+        [
+            "CORIN",
+            "courtier's hands are perfumed with civet."
+        ],
+        [
+            "TOUCHSTONE",
+            "Most shallow man! thou worms-meat, in respect of a"
+        ],
+        [
+            "TOUCHSTONE",
+            "good piece of flesh indeed! Learn of the wise, and"
+        ],
+        [
+            "TOUCHSTONE",
+            "perpend: civet is of a baser birth than tar, the"
+        ],
+        [
+            "TOUCHSTONE",
+            "very uncleanly flux of a cat. Mend the instance, shepherd."
+        ],
+        [
+            "CORIN",
+            "You have too courtly a wit for me: I'll rest."
+        ],
+        [
+            "TOUCHSTONE",
+            "Wilt thou rest damned? God help thee, shallow man!"
+        ],
+        [
+            "TOUCHSTONE",
+            "God make incision in thee! thou art raw."
+        ],
+        [
+            "CORIN",
+            "Sir, I am a true labourer: I earn that I eat, get"
+        ],
+        [
+            "CORIN",
+            "that I wear, owe no man hate, envy no man's"
+        ],
+        [
+            "CORIN",
+            "happiness, glad of other men's good, content with my"
+        ],
+        [
+            "CORIN",
+            "harm, and the greatest of my pride is to see my ewes"
+        ],
+        [
+            "CORIN",
+            "graze and my lambs suck."
+        ],
+        [
+            "TOUCHSTONE",
+            "That is another simple sin in you, to bring the ewes"
+        ],
+        [
+            "TOUCHSTONE",
+            "and the rams together and to offer to get your"
+        ],
+        [
+            "TOUCHSTONE",
+            "living by the copulation of cattle; to be bawd to a"
+        ],
+        [
+            "TOUCHSTONE",
+            "bell-wether, and to betray a she-lamb of a"
+        ],
+        [
+            "TOUCHSTONE",
+            "twelvemonth to a crooked-pated, old, cuckoldly ram,"
+        ],
+        [
+            "TOUCHSTONE",
+            "out of all reasonable match. If thou beest not"
+        ],
+        [
+            "TOUCHSTONE",
+            "damned for this, the devil himself will have no"
+        ],
+        [
+            "TOUCHSTONE",
+            "shepherds; I cannot see else how thou shouldst"
+        ],
+        [
+            "TOUCHSTONE",
+            "'scape."
+        ],
+        [
+            "CORIN",
+            "Here comes young Master Ganymede, my new mistress's brother.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "ROSALIND",
+            "From the east to western Ind,",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "ROSALIND",
+            "No jewel is like Rosalind."
+        ],
+        [
+            "ROSALIND",
+            "Her worth, being mounted on the wind,"
+        ],
+        [
+            "ROSALIND",
+            "Through all the world bears Rosalind."
+        ],
+        [
+            "ROSALIND",
+            "All the pictures fairest lined"
+        ],
+        [
+            "ROSALIND",
+            "Are but black to Rosalind."
+        ],
+        [
+            "ROSALIND",
+            "Let no fair be kept in mind"
+        ],
+        [
+            "ROSALIND",
+            "But the fair of Rosalind."
+        ],
+        [
+            "TOUCHSTONE",
+            "I'll rhyme you so eight years together, dinners and"
+        ],
+        [
+            "TOUCHSTONE",
+            "suppers and sleeping-hours excepted: it is the"
+        ],
+        [
+            "TOUCHSTONE",
+            "right butter-women's rank to market."
+        ],
+        [
+            "ROSALIND",
+            "Out, fool!"
+        ],
+        [
+            "TOUCHSTONE",
+            "For a taste:"
+        ],
+        [
+            "TOUCHSTONE",
+            "If a hart do lack a hind,"
+        ],
+        [
+            "TOUCHSTONE",
+            "Let him seek out Rosalind."
+        ],
+        [
+            "TOUCHSTONE",
+            "If the cat will after kind,"
+        ],
+        [
+            "TOUCHSTONE",
+            "So be sure will Rosalind."
+        ],
+        [
+            "TOUCHSTONE",
+            "Winter garments must be lined,"
+        ],
+        [
+            "TOUCHSTONE",
+            "So must slender Rosalind."
+        ],
+        [
+            "TOUCHSTONE",
+            "They that reap must sheaf and bind;"
+        ],
+        [
+            "TOUCHSTONE",
+            "Then to cart with Rosalind."
+        ],
+        [
+            "TOUCHSTONE",
+            "Sweetest nut hath sourest rind,"
+        ],
+        [
+            "TOUCHSTONE",
+            "Such a nut is Rosalind."
+        ],
+        [
+            "TOUCHSTONE",
+            "He that sweetest rose will find"
+        ],
+        [
+            "TOUCHSTONE",
+            "Must find love's prick and Rosalind."
+        ],
+        [
+            "TOUCHSTONE",
+            "This is the very false gallop of verses: why do you"
+        ],
+        [
+            "TOUCHSTONE",
+            "infect yourself with them?"
+        ],
+        [
+            "ROSALIND",
+            "Peace, you dull fool! I found them on a tree."
+        ],
+        [
+            "TOUCHSTONE",
+            "Truly, the tree yields bad fruit."
+        ],
+        [
+            "ROSALIND",
+            "I'll graff it with you, and then I shall graff it"
+        ],
+        [
+            "ROSALIND",
+            "with a medlar: then it will be the earliest fruit"
+        ],
+        [
+            "ROSALIND",
+            "i' the country; for you'll be rotten ere you be half"
+        ],
+        [
+            "ROSALIND",
+            "ripe, and that's the right virtue of the medlar."
+        ],
+        [
+            "TOUCHSTONE",
+            "You have said; but whether wisely or no, let the"
+        ],
+        [
+            "TOUCHSTONE",
+            "forest judge.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "ROSALIND",
+            "Peace! Here comes my sister, reading: stand aside.",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "CELIA",
+            "[Reads]"
+        ],
+        [
+            "CELIA",
+            "Why should this a desert be?"
+        ],
+        [
+            "CELIA",
+            "For it is unpeopled? No:"
+        ],
+        [
+            "CELIA",
+            "Tongues I'll hang on every tree,"
+        ],
+        [
+            "CELIA",
+            "That shall civil sayings show:"
+        ],
+        [
+            "CELIA",
+            "Some, how brief the life of man"
+        ],
+        [
+            "CELIA",
+            "Runs his erring pilgrimage,"
+        ],
+        [
+            "CELIA",
+            "That the stretching of a span"
+        ],
+        [
+            "CELIA",
+            "Buckles in his sum of age;"
+        ],
+        [
+            "CELIA",
+            "Some, of violated vows"
+        ],
+        [
+            "CELIA",
+            "'Twixt the souls of friend and friend:"
+        ],
+        [
+            "CELIA",
+            "But upon the fairest boughs,"
+        ],
+        [
+            "CELIA",
+            "Or at every sentence end,"
+        ],
+        [
+            "CELIA",
+            "Will I Rosalinda write,"
+        ],
+        [
+            "CELIA",
+            "Teaching all that read to know"
+        ],
+        [
+            "CELIA",
+            "The quintessence of every sprite"
+        ],
+        [
+            "CELIA",
+            "Heaven would in little show."
+        ],
+        [
+            "CELIA",
+            "Therefore Heaven Nature charged"
+        ],
+        [
+            "CELIA",
+            "That one body should be fill'd"
+        ],
+        [
+            "CELIA",
+            "With all graces wide-enlarged:"
+        ],
+        [
+            "CELIA",
+            "Nature presently distill'd"
+        ],
+        [
+            "CELIA",
+            "Helen's cheek, but not her heart,"
+        ],
+        [
+            "CELIA",
+            "Cleopatra's majesty,"
+        ],
+        [
+            "CELIA",
+            "Atalanta's better part,"
+        ],
+        [
+            "CELIA",
+            "Sad Lucretia's modesty."
+        ],
+        [
+            "CELIA",
+            "Thus Rosalind of many parts"
+        ],
+        [
+            "CELIA",
+            "By heavenly synod was devised,"
+        ],
+        [
+            "CELIA",
+            "Of many faces, eyes and hearts,"
+        ],
+        [
+            "CELIA",
+            "To have the touches dearest prized."
+        ],
+        [
+            "CELIA",
+            "Heaven would that she these gifts should have,"
+        ],
+        [
+            "CELIA",
+            "And I to live and die her slave."
+        ],
+        [
+            "ROSALIND",
+            "O most gentle pulpiter! what tedious homily of love"
+        ],
+        [
+            "ROSALIND",
+            "have you wearied your parishioners withal, and never"
+        ],
+        [
+            "ROSALIND",
+            "cried 'Have patience, good people!'"
+        ],
+        [
+            "CELIA",
+            "How now! back, friends! Shepherd, go off a little."
+        ],
+        [
+            "CELIA",
+            "Go with him, sirrah."
+        ],
+        [
+            "TOUCHSTONE",
+            "Come, shepherd, let us make an honourable retreat;"
+        ],
+        [
+            "TOUCHSTONE",
+            "though not with bag and baggage, yet with scrip and scrippage.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "CELIA",
+            "Didst thou hear these verses?",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "ROSALIND",
+            "O, yes, I heard them all, and more too; for some of"
+        ],
+        [
+            "ROSALIND",
+            "them had in them more feet than the verses would bear."
+        ],
+        [
+            "CELIA",
+            "That's no matter: the feet might bear the verses."
+        ],
+        [
+            "ROSALIND",
+            "Ay, but the feet were lame and could not bear"
+        ],
+        [
+            "ROSALIND",
+            "themselves without the verse and therefore stood"
+        ],
+        [
+            "ROSALIND",
+            "lamely in the verse."
+        ],
+        [
+            "CELIA",
+            "But didst thou hear without wondering how thy name"
+        ],
+        [
+            "CELIA",
+            "should be hanged and carved upon these trees?"
+        ],
+        [
+            "ROSALIND",
+            "I was seven of the nine days out of the wonder"
+        ],
+        [
+            "ROSALIND",
+            "before you came; for look here what I found on a"
+        ],
+        [
+            "ROSALIND",
+            "palm-tree. I was never so be-rhymed since"
+        ],
+        [
+            "ROSALIND",
+            "Pythagoras' time, that I was an Irish rat, which I"
+        ],
+        [
+            "ROSALIND",
+            "can hardly remember."
+        ],
+        [
+            "CELIA",
+            "Trow you who hath done this?"
+        ],
+        [
+            "ROSALIND",
+            "Is it a man?"
+        ],
+        [
+            "CELIA",
+            "And a chain, that you once wore, about his neck."
+        ],
+        [
+            "CELIA",
+            "Change you colour?"
+        ],
+        [
+            "ROSALIND",
+            "I prithee, who?"
+        ],
+        [
+            "CELIA",
+            "O Lord, Lord! it is a hard matter for friends to"
+        ],
+        [
+            "CELIA",
+            "meet; but mountains may be removed with earthquakes"
+        ],
+        [
+            "CELIA",
+            "and so encounter."
+        ],
+        [
+            "ROSALIND",
+            "Nay, but who is it?"
+        ],
+        [
+            "CELIA",
+            "Is it possible?"
+        ],
+        [
+            "ROSALIND",
+            "Nay, I prithee now with most petitionary vehemence,"
+        ],
+        [
+            "ROSALIND",
+            "tell me who it is."
+        ],
+        [
+            "CELIA",
+            "O wonderful, wonderful, and most wonderful"
+        ],
+        [
+            "CELIA",
+            "wonderful! and yet again wonderful, and after that,"
+        ],
+        [
+            "CELIA",
+            "out of all hooping!"
+        ],
+        [
+            "ROSALIND",
+            "Good my complexion! dost thou think, though I am"
+        ],
+        [
+            "ROSALIND",
+            "caparisoned like a man, I have a doublet and hose in"
+        ],
+        [
+            "ROSALIND",
+            "my disposition? One inch of delay more is a"
+        ],
+        [
+            "ROSALIND",
+            "South-sea of discovery; I prithee, tell me who is it"
+        ],
+        [
+            "ROSALIND",
+            "quickly, and speak apace. I would thou couldst"
+        ],
+        [
+            "ROSALIND",
+            "stammer, that thou mightst pour this concealed man"
+        ],
+        [
+            "ROSALIND",
+            "out of thy mouth, as wine comes out of a narrow-"
+        ],
+        [
+            "ROSALIND",
+            "mouthed bottle, either too much at once, or none at"
+        ],
+        [
+            "ROSALIND",
+            "all. I prithee, take the cork out of thy mouth that"
+        ],
+        [
+            "ROSALIND",
+            "may drink thy tidings."
+        ],
+        [
+            "CELIA",
+            "So you may put a man in your belly."
+        ],
+        [
+            "ROSALIND",
+            "Is he of God's making? What manner of man? Is his"
+        ],
+        [
+            "ROSALIND",
+            "head worth a hat, or his chin worth a beard?"
+        ],
+        [
+            "CELIA",
+            "Nay, he hath but a little beard."
+        ],
+        [
+            "ROSALIND",
+            "Why, God will send more, if the man will be"
+        ],
+        [
+            "ROSALIND",
+            "thankful: let me stay the growth of his beard, if"
+        ],
+        [
+            "ROSALIND",
+            "thou delay me not the knowledge of his chin."
+        ],
+        [
+            "CELIA",
+            "It is young Orlando, that tripped up the wrestler's"
+        ],
+        [
+            "CELIA",
+            "heels and your heart both in an instant."
+        ],
+        [
+            "ROSALIND",
+            "Nay, but the devil take mocking: speak, sad brow and"
+        ],
+        [
+            "ROSALIND",
+            "true maid."
+        ],
+        [
+            "CELIA",
+            "I' faith, coz, 'tis he."
+        ],
+        [
+            "ROSALIND",
+            "Orlando?"
+        ],
+        [
+            "CELIA",
+            "Orlando."
+        ],
+        [
+            "ROSALIND",
+            "Alas the day! what shall I do with my doublet and"
+        ],
+        [
+            "ROSALIND",
+            "hose? What did he when thou sawest him? What said"
+        ],
+        [
+            "ROSALIND",
+            "he? How looked he? Wherein went he? What makes"
+        ],
+        [
+            "ROSALIND",
+            "him here? Did he ask for me? Where remains he?"
+        ],
+        [
+            "ROSALIND",
+            "How parted he with thee? and when shalt thou see"
+        ],
+        [
+            "ROSALIND",
+            "him again? Answer me in one word."
+        ],
+        [
+            "CELIA",
+            "You must borrow me Gargantua's mouth first: 'tis a"
+        ],
+        [
+            "CELIA",
+            "word too great for any mouth of this age's size. To"
+        ],
+        [
+            "CELIA",
+            "say ay and no to these particulars is more than to"
+        ],
+        [
+            "CELIA",
+            "answer in a catechism."
+        ],
+        [
+            "ROSALIND",
+            "But doth he know that I am in this forest and in"
+        ],
+        [
+            "ROSALIND",
+            "man's apparel? Looks he as freshly as he did the"
+        ],
+        [
+            "ROSALIND",
+            "day he wrestled?"
+        ],
+        [
+            "CELIA",
+            "It is as easy to count atomies as to resolve the"
+        ],
+        [
+            "CELIA",
+            "propositions of a lover; but take a taste of my"
+        ],
+        [
+            "CELIA",
+            "finding him, and relish it with good observance."
+        ],
+        [
+            "CELIA",
+            "I found him under a tree, like a dropped acorn."
+        ],
+        [
+            "ROSALIND",
+            "It may well be called Jove's tree, when it drops"
+        ],
+        [
+            "ROSALIND",
+            "forth such fruit."
+        ],
+        [
+            "CELIA",
+            "Give me audience, good madam."
+        ],
+        [
+            "ROSALIND",
+            "Proceed."
+        ],
+        [
+            "CELIA",
+            "There lay he, stretched along, like a wounded knight."
+        ],
+        [
+            "ROSALIND",
+            "Though it be pity to see such a sight, it well"
+        ],
+        [
+            "ROSALIND",
+            "becomes the ground."
+        ],
+        [
+            "CELIA",
+            "Cry 'holla' to thy tongue, I prithee; it curvets"
+        ],
+        [
+            "CELIA",
+            "unseasonably. He was furnished like a hunter."
+        ],
+        [
+            "ROSALIND",
+            "O, ominous! he comes to kill my heart."
+        ],
+        [
+            "CELIA",
+            "I would sing my song without a burden: thou bringest"
+        ],
+        [
+            "CELIA",
+            "me out of tune."
+        ],
+        [
+            "ROSALIND",
+            "Do you not know I am a woman? when I think, I must"
+        ],
+        [
+            "ROSALIND",
+            "speak. Sweet, say on."
+        ],
+        [
+            "CELIA",
+            "You bring me out. Soft! comes he not here?",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "ROSALIND",
+            "'Tis he: slink by, and note him.",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "JAQUES",
+            "I thank you for your company; but, good faith, I had"
+        ],
+        [
+            "JAQUES",
+            "as lief have been myself alone."
+        ],
+        [
+            "ORLANDO",
+            "And so had I; but yet, for fashion sake, I thank you"
+        ],
+        [
+            "ORLANDO",
+            "too for your society."
+        ],
+        [
+            "JAQUES",
+            "God be wi' you: let's meet as little as we can."
+        ],
+        [
+            "ORLANDO",
+            "I do desire we may be better strangers."
+        ],
+        [
+            "JAQUES",
+            "I pray you, mar no more trees with writing"
+        ],
+        [
+            "JAQUES",
+            "love-songs in their barks."
+        ],
+        [
+            "ORLANDO",
+            "I pray you, mar no more of my verses with reading"
+        ],
+        [
+            "ORLANDO",
+            "them ill-favouredly."
+        ],
+        [
+            "JAQUES",
+            "Rosalind is your love's name?"
+        ],
+        [
+            "ORLANDO",
+            "Yes, just."
+        ],
+        [
+            "JAQUES",
+            "I do not like her name."
+        ],
+        [
+            "ORLANDO",
+            "There was no thought of pleasing you when she was"
+        ],
+        [
+            "ORLANDO",
+            "christened."
+        ],
+        [
+            "JAQUES",
+            "What stature is she of?"
+        ],
+        [
+            "ORLANDO",
+            "Just as high as my heart."
+        ],
+        [
+            "JAQUES",
+            "You are full of pretty answers. Have you not been"
+        ],
+        [
+            "JAQUES",
+            "acquainted with goldsmiths' wives, and conned them"
+        ],
+        [
+            "JAQUES",
+            "out of rings?"
+        ],
+        [
+            "ORLANDO",
+            "Not so; but I answer you right painted cloth, from"
+        ],
+        [
+            "ORLANDO",
+            "whence you have studied your questions."
+        ],
+        [
+            "JAQUES",
+            "You have a nimble wit: I think 'twas made of"
+        ],
+        [
+            "JAQUES",
+            "Atalanta's heels. Will you sit down with me? and"
+        ],
+        [
+            "JAQUES",
+            "we two will rail against our mistress the world and"
+        ],
+        [
+            "JAQUES",
+            "all our misery."
+        ],
+        [
+            "ORLANDO",
+            "I will chide no breather in the world but myself,"
+        ],
+        [
+            "ORLANDO",
+            "against whom I know most faults."
+        ],
+        [
+            "JAQUES",
+            "The worst fault you have is to be in love."
+        ],
+        [
+            "ORLANDO",
+            "'Tis a fault I will not change for your best virtue."
+        ],
+        [
+            "ORLANDO",
+            "I am weary of you."
+        ],
+        [
+            "JAQUES",
+            "By my troth, I was seeking for a fool when I found"
+        ],
+        [
+            "JAQUES",
+            "you."
+        ],
+        [
+            "ORLANDO",
+            "He is drowned in the brook: look but in, and you"
+        ],
+        [
+            "ORLANDO",
+            "shall see him."
+        ],
+        [
+            "JAQUES",
+            "There I shall see mine own figure."
+        ],
+        [
+            "ORLANDO",
+            "Which I take to be either a fool or a cipher."
+        ],
+        [
+            "JAQUES",
+            "I'll tarry no longer with you: farewell, good"
+        ],
+        [
+            "JAQUES",
+            "Signior Love."
+        ],
+        [
+            "ORLANDO",
+            "I am glad of your departure: adieu, good Monsieur"
+        ],
+        [
+            "ORLANDO",
+            "Melancholy.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "ROSALIND",
+            "[Aside to CELIA] I will speak to him, like a saucy",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "ROSALIND",
+            "lackey and under that habit play the knave with him."
+        ],
+        [
+            "ROSALIND",
+            "Do you hear, forester?"
+        ],
+        [
+            "ORLANDO",
+            "Very well: what would you?"
+        ],
+        [
+            "ROSALIND",
+            "I pray you, what is't o'clock?"
+        ],
+        [
+            "ORLANDO",
+            "You should ask me what time o' day: there's no clock"
+        ],
+        [
+            "ORLANDO",
+            "in the forest."
+        ],
+        [
+            "ROSALIND",
+            "Then there is no true lover in the forest; else"
+        ],
+        [
+            "ROSALIND",
+            "sighing every minute and groaning every hour would"
+        ],
+        [
+            "ROSALIND",
+            "detect the lazy foot of Time as well as a clock."
+        ],
+        [
+            "ORLANDO",
+            "And why not the swift foot of Time? had not that"
+        ],
+        [
+            "ORLANDO",
+            "been as proper?"
+        ],
+        [
+            "ROSALIND",
+            "By no means, sir: Time travels in divers paces with"
+        ],
+        [
+            "ROSALIND",
+            "divers persons. I'll tell you who Time ambles"
+        ],
+        [
+            "ROSALIND",
+            "withal, who Time trots withal, who Time gallops"
+        ],
+        [
+            "ROSALIND",
+            "withal and who he stands still withal."
+        ],
+        [
+            "ORLANDO",
+            "I prithee, who doth he trot withal?"
+        ],
+        [
+            "ROSALIND",
+            "Marry, he trots hard with a young maid between the"
+        ],
+        [
+            "ROSALIND",
+            "contract of her marriage and the day it is"
+        ],
+        [
+            "ROSALIND",
+            "solemnized: if the interim be but a se'nnight,"
+        ],
+        [
+            "ROSALIND",
+            "Time's pace is so hard that it seems the length of"
+        ],
+        [
+            "ROSALIND",
+            "seven year."
+        ],
+        [
+            "ORLANDO",
+            "Who ambles Time withal?"
+        ],
+        [
+            "ROSALIND",
+            "With a priest that lacks Latin and a rich man that"
+        ],
+        [
+            "ROSALIND",
+            "hath not the gout, for the one sleeps easily because"
+        ],
+        [
+            "ROSALIND",
+            "he cannot study, and the other lives merrily because"
+        ],
+        [
+            "ROSALIND",
+            "he feels no pain, the one lacking the burden of lean"
+        ],
+        [
+            "ROSALIND",
+            "and wasteful learning, the other knowing no burden"
+        ],
+        [
+            "ROSALIND",
+            "of heavy tedious penury; these Time ambles withal."
+        ],
+        [
+            "ORLANDO",
+            "Who doth he gallop withal?"
+        ],
+        [
+            "ROSALIND",
+            "With a thief to the gallows, for though he go as"
+        ],
+        [
+            "ROSALIND",
+            "softly as foot can fall, he thinks himself too soon there."
+        ],
+        [
+            "ORLANDO",
+            "Who stays it still withal?"
+        ],
+        [
+            "ROSALIND",
+            "With lawyers in the vacation, for they sleep between"
+        ],
+        [
+            "ROSALIND",
+            "term and term and then they perceive not how Time moves."
+        ],
+        [
+            "ORLANDO",
+            "Where dwell you, pretty youth?"
+        ],
+        [
+            "ROSALIND",
+            "With this shepherdess, my sister; here in the"
+        ],
+        [
+            "ROSALIND",
+            "skirts of the forest, like fringe upon a petticoat."
+        ],
+        [
+            "ORLANDO",
+            "Are you native of this place?"
+        ],
+        [
+            "ROSALIND",
+            "As the cony that you see dwell where she is kindled."
+        ],
+        [
+            "ORLANDO",
+            "Your accent is something finer than you could"
+        ],
+        [
+            "ORLANDO",
+            "purchase in so removed a dwelling."
+        ],
+        [
+            "ROSALIND",
+            "I have been told so of many: but indeed an old"
+        ],
+        [
+            "ROSALIND",
+            "religious uncle of mine taught me to speak, who was"
+        ],
+        [
+            "ROSALIND",
+            "in his youth an inland man; one that knew courtship"
+        ],
+        [
+            "ROSALIND",
+            "too well, for there he fell in love. I have heard"
+        ],
+        [
+            "ROSALIND",
+            "him read many lectures against it, and I thank God"
+        ],
+        [
+            "ROSALIND",
+            "I am not a woman, to be touched with so many"
+        ],
+        [
+            "ROSALIND",
+            "giddy offences as he hath generally taxed their"
+        ],
+        [
+            "ROSALIND",
+            "whole sex withal."
+        ],
+        [
+            "ORLANDO",
+            "Can you remember any of the principal evils that he"
+        ],
+        [
+            "ORLANDO",
+            "laid to the charge of women?"
+        ],
+        [
+            "ROSALIND",
+            "There were none principal; they were all like one"
+        ],
+        [
+            "ROSALIND",
+            "another as half-pence are, every one fault seeming"
+        ],
+        [
+            "ROSALIND",
+            "monstrous till his fellow fault came to match it."
+        ],
+        [
+            "ORLANDO",
+            "I prithee, recount some of them."
+        ],
+        [
+            "ROSALIND",
+            "No, I will not cast away my physic but on those that"
+        ],
+        [
+            "ROSALIND",
+            "are sick. There is a man haunts the forest, that"
+        ],
+        [
+            "ROSALIND",
+            "abuses our young plants with carving 'Rosalind' on"
+        ],
+        [
+            "ROSALIND",
+            "their barks; hangs odes upon hawthorns and elegies"
+        ],
+        [
+            "ROSALIND",
+            "on brambles, all, forsooth, deifying the name of"
+        ],
+        [
+            "ROSALIND",
+            "Rosalind: if I could meet that fancy-monger I would"
+        ],
+        [
+            "ROSALIND",
+            "give him some good counsel, for he seems to have the"
+        ],
+        [
+            "ROSALIND",
+            "quotidian of love upon him."
+        ],
+        [
+            "ORLANDO",
+            "I am he that is so love-shaked: I pray you tell me"
+        ],
+        [
+            "ORLANDO",
+            "your remedy."
+        ],
+        [
+            "ROSALIND",
+            "There is none of my uncle's marks upon you: he"
+        ],
+        [
+            "ROSALIND",
+            "taught me how to know a man in love; in which cage"
+        ],
+        [
+            "ROSALIND",
+            "of rushes I am sure you are not prisoner."
+        ],
+        [
+            "ORLANDO",
+            "What were his marks?"
+        ],
+        [
+            "ROSALIND",
+            "A lean cheek, which you have not, a blue eye and"
+        ],
+        [
+            "ROSALIND",
+            "sunken, which you have not, an unquestionable"
+        ],
+        [
+            "ROSALIND",
+            "spirit, which you have not, a beard neglected,"
+        ],
+        [
+            "ROSALIND",
+            "which you have not; but I pardon you for that, for"
+        ],
+        [
+            "ROSALIND",
+            "simply your having in beard is a younger brother's"
+        ],
+        [
+            "ROSALIND",
+            "revenue: then your hose should be ungartered, your"
+        ],
+        [
+            "ROSALIND",
+            "bonnet unbanded, your sleeve unbuttoned, your shoe"
+        ],
+        [
+            "ROSALIND",
+            "untied and every thing about you demonstrating a"
+        ],
+        [
+            "ROSALIND",
+            "careless desolation; but you are no such man; you"
+        ],
+        [
+            "ROSALIND",
+            "are rather point-device in your accoutrements as"
+        ],
+        [
+            "ROSALIND",
+            "loving yourself than seeming the lover of any other."
+        ],
+        [
+            "ORLANDO",
+            "Fair youth, I would I could make thee believe I love."
+        ],
+        [
+            "ROSALIND",
+            "Me believe it! you may as soon make her that you"
+        ],
+        [
+            "ROSALIND",
+            "love believe it; which, I warrant, she is apter to"
+        ],
+        [
+            "ROSALIND",
+            "do than to confess she does: that is one of the"
+        ],
+        [
+            "ROSALIND",
+            "points in the which women still give the lie to"
+        ],
+        [
+            "ROSALIND",
+            "their consciences. But, in good sooth, are you he"
+        ],
+        [
+            "ROSALIND",
+            "that hangs the verses on the trees, wherein Rosalind"
+        ],
+        [
+            "ROSALIND",
+            "is so admired?"
+        ],
+        [
+            "ORLANDO",
+            "I swear to thee, youth, by the white hand of"
+        ],
+        [
+            "ORLANDO",
+            "Rosalind, I am that he, that unfortunate he."
+        ],
+        [
+            "ROSALIND",
+            "But are you so much in love as your rhymes speak?"
+        ],
+        [
+            "ORLANDO",
+            "Neither rhyme nor reason can express how much."
+        ],
+        [
+            "ROSALIND",
+            "Love is merely a madness, and, I tell you, deserves"
+        ],
+        [
+            "ROSALIND",
+            "as well a dark house and a whip as madmen do: and"
+        ],
+        [
+            "ROSALIND",
+            "the reason why they are not so punished and cured"
+        ],
+        [
+            "ROSALIND",
+            "is, that the lunacy is so ordinary that the whippers"
+        ],
+        [
+            "ROSALIND",
+            "are in love too. Yet I profess curing it by counsel."
+        ],
+        [
+            "ORLANDO",
+            "Did you ever cure any so?"
+        ],
+        [
+            "ROSALIND",
+            "Yes, one, and in this manner. He was to imagine me"
+        ],
+        [
+            "ROSALIND",
+            "his love, his mistress; and I set him every day to"
+        ],
+        [
+            "ROSALIND",
+            "woo me: at which time would I, being but a moonish"
+        ],
+        [
+            "ROSALIND",
+            "youth, grieve, be effeminate, changeable, longing"
+        ],
+        [
+            "ROSALIND",
+            "and liking, proud, fantastical, apish, shallow,"
+        ],
+        [
+            "ROSALIND",
+            "inconstant, full of tears, full of smiles, for every"
+        ],
+        [
+            "ROSALIND",
+            "passion something and for no passion truly any"
+        ],
+        [
+            "ROSALIND",
+            "thing, as boys and women are for the most part"
+        ],
+        [
+            "ROSALIND",
+            "cattle of this colour; would now like him, now loathe"
+        ],
+        [
+            "ROSALIND",
+            "him; then entertain him, then forswear him; now weep"
+        ],
+        [
+            "ROSALIND",
+            "for him, then spit at him; that I drave my suitor"
+        ],
+        [
+            "ROSALIND",
+            "from his mad humour of love to a living humour of"
+        ],
+        [
+            "ROSALIND",
+            "madness; which was, to forswear the full stream of"
+        ],
+        [
+            "ROSALIND",
+            "the world, and to live in a nook merely monastic."
+        ],
+        [
+            "ROSALIND",
+            "And thus I cured him; and this way will I take upon"
+        ],
+        [
+            "ROSALIND",
+            "me to wash your liver as clean as a sound sheep's"
+        ],
+        [
+            "ROSALIND",
+            "heart, that there shall not be one spot of love in't."
+        ],
+        [
+            "ORLANDO",
+            "I would not be cured, youth."
+        ],
+        [
+            "ROSALIND",
+            "I would cure you, if you would but call me Rosalind"
+        ],
+        [
+            "ROSALIND",
+            "and come every day to my cote and woo me."
+        ],
+        [
+            "ORLANDO",
+            "Now, by the faith of my love, I will: tell me"
+        ],
+        [
+            "ORLANDO",
+            "where it is."
+        ],
+        [
+            "ROSALIND",
+            "Go with me to it and I'll show it you and by the way"
+        ],
+        [
+            "ROSALIND",
+            "you shall tell me where in the forest you live."
+        ],
+        [
+            "ROSALIND",
+            "Will you go?"
+        ],
+        [
+            "ORLANDO",
+            "With all my heart, good youth."
+        ],
+        [
+            "ROSALIND",
+            "Nay you must call me Rosalind. Come, sister, will you go?",
+            {
+                "following_direction_line": "8"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter ORLANDO, with a paper"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit. Enter CORIN and TOUCHSTONE"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter ROSALIND, with a paper, reading"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter CELIA, with a writing"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt CORIN and TOUCHSTONE"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Enter ORLANDO and JAQUES"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exit JAQUES"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "ORLANDO": [
+            [
+                "1",
+                "10"
+            ],
+            [
+                "245",
+                "246"
+            ],
+            [
+                "248",
+                "248"
+            ],
+            [
+                "251",
+                "252"
+            ],
+            [
+                "254",
+                "254"
+            ],
+            [
+                "256",
+                "257"
+            ],
+            [
+                "259",
+                "259"
+            ],
+            [
+                "263",
+                "264"
+            ],
+            [
+                "269",
+                "270"
+            ],
+            [
+                "272",
+                "273"
+            ],
+            [
+                "276",
+                "277"
+            ],
+            [
+                "279",
+                "279"
+            ],
+            [
+                "282",
+                "283"
+            ],
+            [
+                "287",
+                "287"
+            ],
+            [
+                "289",
+                "290"
+            ],
+            [
+                "294",
+                "295"
+            ],
+            [
+                "300",
+                "300"
+            ],
+            [
+                "306",
+                "306"
+            ],
+            [
+                "313",
+                "313"
+            ],
+            [
+                "316",
+                "316"
+            ],
+            [
+                "319",
+                "319"
+            ],
+            [
+                "322",
+                "322"
+            ],
+            [
+                "324",
+                "325"
+            ],
+            [
+                "334",
+                "335"
+            ],
+            [
+                "339",
+                "339"
+            ],
+            [
+                "348",
+                "349"
+            ],
+            [
+                "353",
+                "353"
+            ],
+            [
+                "365",
+                "365"
+            ],
+            [
+                "373",
+                "374"
+            ],
+            [
+                "376",
+                "376"
+            ],
+            [
+                "382",
+                "382"
+            ],
+            [
+                "400",
+                "400"
+            ],
+            [
+                "403",
+                "404"
+            ],
+            [
+                "408",
+                "408"
+            ]
+        ],
+        "CORIN": [
+            [
+                "11",
+                "11"
+            ],
+            [
+                "22",
+                "29"
+            ],
+            [
+                "32",
+                "32"
+            ],
+            [
+                "34",
+                "34"
+            ],
+            [
+                "37",
+                "37"
+            ],
+            [
+                "43",
+                "48"
+            ],
+            [
+                "50",
+                "51"
+            ],
+            [
+                "55",
+                "55"
+            ],
+            [
+                "58",
+                "60"
+            ],
+            [
+                "65",
+                "65"
+            ],
+            [
+                "68",
+                "72"
+            ],
+            [
+                "82",
+                "82"
+            ]
+        ],
+        "TOUCHSTONE": [
+            [
+                "12",
+                "21"
+            ],
+            [
+                "30",
+                "31"
+            ],
+            [
+                "33",
+                "33"
+            ],
+            [
+                "35",
+                "36"
+            ],
+            [
+                "38",
+                "42"
+            ],
+            [
+                "49",
+                "49"
+            ],
+            [
+                "52",
+                "54"
+            ],
+            [
+                "56",
+                "57"
+            ],
+            [
+                "61",
+                "64"
+            ],
+            [
+                "66",
+                "67"
+            ],
+            [
+                "73",
+                "81"
+            ],
+            [
+                "91",
+                "93"
+            ],
+            [
+                "95",
+                "109"
+            ],
+            [
+                "111",
+                "111"
+            ],
+            [
+                "116",
+                "117"
+            ],
+            [
+                "155",
+                "156"
+            ]
+        ],
+        "ROSALIND": [
+            [
+                "83",
+                "90"
+            ],
+            [
+                "94",
+                "94"
+            ],
+            [
+                "110",
+                "110"
+            ],
+            [
+                "112",
+                "115"
+            ],
+            [
+                "118",
+                "118"
+            ],
+            [
+                "150",
+                "152"
+            ],
+            [
+                "158",
+                "159"
+            ],
+            [
+                "161",
+                "163"
+            ],
+            [
+                "166",
+                "170"
+            ],
+            [
+                "172",
+                "172"
+            ],
+            [
+                "175",
+                "175"
+            ],
+            [
+                "179",
+                "179"
+            ],
+            [
+                "181",
+                "182"
+            ],
+            [
+                "186",
+                "195"
+            ],
+            [
+                "197",
+                "198"
+            ],
+            [
+                "200",
+                "202"
+            ],
+            [
+                "205",
+                "206"
+            ],
+            [
+                "208",
+                "208"
+            ],
+            [
+                "210",
+                "215"
+            ],
+            [
+                "220",
+                "222"
+            ],
+            [
+                "227",
+                "228"
+            ],
+            [
+                "230",
+                "230"
+            ],
+            [
+                "232",
+                "233"
+            ],
+            [
+                "236",
+                "236"
+            ],
+            [
+                "239",
+                "240"
+            ],
+            [
+                "242",
+                "242"
+            ],
+            [
+                "284",
+                "286"
+            ],
+            [
+                "288",
+                "288"
+            ],
+            [
+                "291",
+                "293"
+            ],
+            [
+                "296",
+                "299"
+            ],
+            [
+                "301",
+                "305"
+            ],
+            [
+                "307",
+                "312"
+            ],
+            [
+                "314",
+                "315"
+            ],
+            [
+                "317",
+                "318"
+            ],
+            [
+                "320",
+                "321"
+            ],
+            [
+                "323",
+                "323"
+            ],
+            [
+                "326",
+                "333"
+            ],
+            [
+                "336",
+                "338"
+            ],
+            [
+                "340",
+                "347"
+            ],
+            [
+                "350",
+                "352"
+            ],
+            [
+                "354",
+                "364"
+            ],
+            [
+                "366",
+                "372"
+            ],
+            [
+                "375",
+                "375"
+            ],
+            [
+                "377",
+                "381"
+            ],
+            [
+                "383",
+                "399"
+            ],
+            [
+                "401",
+                "402"
+            ],
+            [
+                "405",
+                "407"
+            ],
+            [
+                "409",
+                "409"
+            ]
+        ],
+        "CELIA": [
+            [
+                "119",
+                "149"
+            ],
+            [
+                "153",
+                "154"
+            ],
+            [
+                "157",
+                "157"
+            ],
+            [
+                "160",
+                "160"
+            ],
+            [
+                "164",
+                "165"
+            ],
+            [
+                "171",
+                "171"
+            ],
+            [
+                "173",
+                "174"
+            ],
+            [
+                "176",
+                "178"
+            ],
+            [
+                "180",
+                "180"
+            ],
+            [
+                "183",
+                "185"
+            ],
+            [
+                "196",
+                "196"
+            ],
+            [
+                "199",
+                "199"
+            ],
+            [
+                "203",
+                "204"
+            ],
+            [
+                "207",
+                "207"
+            ],
+            [
+                "209",
+                "209"
+            ],
+            [
+                "216",
+                "219"
+            ],
+            [
+                "223",
+                "226"
+            ],
+            [
+                "229",
+                "229"
+            ],
+            [
+                "231",
+                "231"
+            ],
+            [
+                "234",
+                "235"
+            ],
+            [
+                "237",
+                "238"
+            ],
+            [
+                "241",
+                "241"
+            ]
+        ],
+        "JAQUES": [
+            [
+                "243",
+                "244"
+            ],
+            [
+                "247",
+                "247"
+            ],
+            [
+                "249",
+                "250"
+            ],
+            [
+                "253",
+                "253"
+            ],
+            [
+                "255",
+                "255"
+            ],
+            [
+                "258",
+                "258"
+            ],
+            [
+                "260",
+                "262"
+            ],
+            [
+                "265",
+                "268"
+            ],
+            [
+                "271",
+                "271"
+            ],
+            [
+                "274",
+                "275"
+            ],
+            [
+                "278",
+                "278"
+            ],
+            [
+                "280",
+                "281"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "The forest."
+}

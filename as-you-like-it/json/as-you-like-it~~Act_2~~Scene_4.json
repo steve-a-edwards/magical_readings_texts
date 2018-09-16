@@ -1,0 +1,597 @@
+{
+    "scene_id": "as you like it~~Act_2~~Scene_4",
+    "work_number": "13",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "ROSALIND",
+            "O Jupiter, how weary are my spirits!",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "TOUCHSTONE",
+            "I care not for my spirits, if my legs were not weary."
+        ],
+        [
+            "ROSALIND",
+            "I could find in my heart to disgrace my man's"
+        ],
+        [
+            "ROSALIND",
+            "apparel and to cry like a woman; but I must comfort"
+        ],
+        [
+            "ROSALIND",
+            "the weaker vessel, as doublet and hose ought to show"
+        ],
+        [
+            "ROSALIND",
+            "itself courageous to petticoat: therefore courage,"
+        ],
+        [
+            "ROSALIND",
+            "good Aliena!"
+        ],
+        [
+            "CELIA",
+            "I pray you, bear with me; I cannot go no further."
+        ],
+        [
+            "TOUCHSTONE",
+            "For my part, I had rather bear with you than bear"
+        ],
+        [
+            "TOUCHSTONE",
+            "you; yet I should bear no cross if I did bear you,"
+        ],
+        [
+            "TOUCHSTONE",
+            "for I think you have no money in your purse."
+        ],
+        [
+            "ROSALIND",
+            "Well, this is the forest of Arden."
+        ],
+        [
+            "TOUCHSTONE",
+            "Ay, now am I in Arden; the more fool I; when I was"
+        ],
+        [
+            "TOUCHSTONE",
+            "at home, I was in a better place: but travellers"
+        ],
+        [
+            "TOUCHSTONE",
+            "must be content."
+        ],
+        [
+            "ROSALIND",
+            "Ay, be so, good Touchstone.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "ROSALIND",
+            "Look you, who comes here; a young man and an old in",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "ROSALIND",
+            "solemn talk."
+        ],
+        [
+            "CORIN",
+            "That is the way to make her scorn you still."
+        ],
+        [
+            "SILVIUS",
+            "O Corin, that thou knew'st how I do love her!"
+        ],
+        [
+            "CORIN",
+            "I partly guess; for I have loved ere now."
+        ],
+        [
+            "SILVIUS",
+            "No, Corin, being old, thou canst not guess,"
+        ],
+        [
+            "SILVIUS",
+            "Though in thy youth thou wast as true a lover"
+        ],
+        [
+            "SILVIUS",
+            "As ever sigh'd upon a midnight pillow:"
+        ],
+        [
+            "SILVIUS",
+            "But if thy love were ever like to mine--"
+        ],
+        [
+            "SILVIUS",
+            "As sure I think did never man love so--"
+        ],
+        [
+            "SILVIUS",
+            "How many actions most ridiculous"
+        ],
+        [
+            "SILVIUS",
+            "Hast thou been drawn to by thy fantasy?"
+        ],
+        [
+            "CORIN",
+            "Into a thousand that I have forgotten."
+        ],
+        [
+            "SILVIUS",
+            "O, thou didst then ne'er love so heartily!"
+        ],
+        [
+            "SILVIUS",
+            "If thou remember'st not the slightest folly"
+        ],
+        [
+            "SILVIUS",
+            "That ever love did make thee run into,"
+        ],
+        [
+            "SILVIUS",
+            "Thou hast not loved:"
+        ],
+        [
+            "SILVIUS",
+            "Or if thou hast not sat as I do now,"
+        ],
+        [
+            "SILVIUS",
+            "Wearying thy hearer in thy mistress' praise,"
+        ],
+        [
+            "SILVIUS",
+            "Thou hast not loved:"
+        ],
+        [
+            "SILVIUS",
+            "Or if thou hast not broke from company"
+        ],
+        [
+            "SILVIUS",
+            "Abruptly, as my passion now makes me,"
+        ],
+        [
+            "SILVIUS",
+            "Thou hast not loved."
+        ],
+        [
+            "SILVIUS",
+            "O Phebe, Phebe, Phebe!",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "ROSALIND",
+            "Alas, poor shepherd! searching of thy wound,",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "ROSALIND",
+            "I have by hard adventure found mine own."
+        ],
+        [
+            "TOUCHSTONE",
+            "And I mine. I remember, when I was in love I broke"
+        ],
+        [
+            "TOUCHSTONE",
+            "my sword upon a stone and bid him take that for"
+        ],
+        [
+            "TOUCHSTONE",
+            "coming a-night to Jane Smile; and I remember the"
+        ],
+        [
+            "TOUCHSTONE",
+            "kissing of her batlet and the cow's dugs that her"
+        ],
+        [
+            "TOUCHSTONE",
+            "pretty chopt hands had milked; and I remember the"
+        ],
+        [
+            "TOUCHSTONE",
+            "wooing of a peascod instead of her, from whom I took"
+        ],
+        [
+            "TOUCHSTONE",
+            "two cods and, giving her them again, said with"
+        ],
+        [
+            "TOUCHSTONE",
+            "weeping tears 'Wear these for my sake.' We that are"
+        ],
+        [
+            "TOUCHSTONE",
+            "true lovers run into strange capers; but as all is"
+        ],
+        [
+            "TOUCHSTONE",
+            "mortal in nature, so is all nature in love mortal in folly."
+        ],
+        [
+            "ROSALIND",
+            "Thou speakest wiser than thou art ware of."
+        ],
+        [
+            "TOUCHSTONE",
+            "Nay, I shall ne'er be ware of mine own wit till I"
+        ],
+        [
+            "TOUCHSTONE",
+            "break my shins against it."
+        ],
+        [
+            "ROSALIND",
+            "Jove, Jove! this shepherd's passion"
+        ],
+        [
+            "ROSALIND",
+            "Is much upon my fashion."
+        ],
+        [
+            "TOUCHSTONE",
+            "And mine; but it grows something stale with me."
+        ],
+        [
+            "CELIA",
+            "I pray you, one of you question yond man"
+        ],
+        [
+            "CELIA",
+            "If he for gold will give us any food:"
+        ],
+        [
+            "CELIA",
+            "I faint almost to death."
+        ],
+        [
+            "TOUCHSTONE",
+            "Holla, you clown!"
+        ],
+        [
+            "ROSALIND",
+            "Peace, fool: he's not thy kinsman."
+        ],
+        [
+            "CORIN",
+            "Who calls?"
+        ],
+        [
+            "TOUCHSTONE",
+            "Your betters, sir."
+        ],
+        [
+            "CORIN",
+            "Else are they very wretched."
+        ],
+        [
+            "ROSALIND",
+            "Peace, I say. Good even to you, friend."
+        ],
+        [
+            "CORIN",
+            "And to you, gentle sir, and to you all."
+        ],
+        [
+            "ROSALIND",
+            "I prithee, shepherd, if that love or gold"
+        ],
+        [
+            "ROSALIND",
+            "Can in this desert place buy entertainment,"
+        ],
+        [
+            "ROSALIND",
+            "Bring us where we may rest ourselves and feed:"
+        ],
+        [
+            "ROSALIND",
+            "Here's a young maid with travel much oppress'd"
+        ],
+        [
+            "ROSALIND",
+            "And faints for succor."
+        ],
+        [
+            "CORIN",
+            "Fair sir, I pity her"
+        ],
+        [
+            "CORIN",
+            "And wish, for her sake more than for mine own,"
+        ],
+        [
+            "CORIN",
+            "My fortunes were more able to relieve her;"
+        ],
+        [
+            "CORIN",
+            "But I am shepherd to another man"
+        ],
+        [
+            "CORIN",
+            "And do not shear the fleeces that I graze:"
+        ],
+        [
+            "CORIN",
+            "My master is of churlish disposition"
+        ],
+        [
+            "CORIN",
+            "And little recks to find the way to heaven"
+        ],
+        [
+            "CORIN",
+            "By doing deeds of hospitality:"
+        ],
+        [
+            "CORIN",
+            "Besides, his cote, his flocks and bounds of feed"
+        ],
+        [
+            "CORIN",
+            "Are now on sale, and at our sheepcote now,"
+        ],
+        [
+            "CORIN",
+            "By reason of his absence, there is nothing"
+        ],
+        [
+            "CORIN",
+            "That you will feed on; but what is, come see."
+        ],
+        [
+            "CORIN",
+            "And in my voice most welcome shall you be."
+        ],
+        [
+            "ROSALIND",
+            "What is he that shall buy his flock and pasture?"
+        ],
+        [
+            "CORIN",
+            "That young swain that you saw here but erewhile,"
+        ],
+        [
+            "CORIN",
+            "That little cares for buying any thing."
+        ],
+        [
+            "ROSALIND",
+            "I pray thee, if it stand with honesty,"
+        ],
+        [
+            "ROSALIND",
+            "Buy thou the cottage, pasture and the flock,"
+        ],
+        [
+            "ROSALIND",
+            "And thou shalt have to pay for it of us."
+        ],
+        [
+            "CELIA",
+            "And we will mend thy wages. I like this place."
+        ],
+        [
+            "CELIA",
+            "And willingly could waste my time in it."
+        ],
+        [
+            "CORIN",
+            "Assuredly the thing is to be sold:"
+        ],
+        [
+            "CORIN",
+            "Go with me: if you like upon report"
+        ],
+        [
+            "CORIN",
+            "The soil, the profit and this kind of life,"
+        ],
+        [
+            "CORIN",
+            "I will your very faithful feeder be"
+        ],
+        [
+            "CORIN",
+            "And buy it with your gold right suddenly.",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter ROSALIND for Ganymede, CELIA for Aliena, and TOUCHSTONE"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter CORIN and SILVIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "ROSALIND": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "7"
+            ],
+            [
+                "12",
+                "12"
+            ],
+            [
+                "16",
+                "18"
+            ],
+            [
+                "41",
+                "42"
+            ],
+            [
+                "53",
+                "53"
+            ],
+            [
+                "56",
+                "57"
+            ],
+            [
+                "63",
+                "63"
+            ],
+            [
+                "67",
+                "67"
+            ],
+            [
+                "69",
+                "73"
+            ],
+            [
+                "87",
+                "87"
+            ],
+            [
+                "90",
+                "92"
+            ]
+        ],
+        "TOUCHSTONE": [
+            [
+                "2",
+                "2"
+            ],
+            [
+                "9",
+                "11"
+            ],
+            [
+                "13",
+                "15"
+            ],
+            [
+                "43",
+                "52"
+            ],
+            [
+                "54",
+                "55"
+            ],
+            [
+                "58",
+                "58"
+            ],
+            [
+                "62",
+                "62"
+            ],
+            [
+                "65",
+                "65"
+            ]
+        ],
+        "CELIA": [
+            [
+                "8",
+                "8"
+            ],
+            [
+                "59",
+                "61"
+            ],
+            [
+                "93",
+                "94"
+            ]
+        ],
+        "CORIN": [
+            [
+                "19",
+                "19"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "29",
+                "29"
+            ],
+            [
+                "64",
+                "64"
+            ],
+            [
+                "66",
+                "66"
+            ],
+            [
+                "68",
+                "68"
+            ],
+            [
+                "74",
+                "86"
+            ],
+            [
+                "88",
+                "89"
+            ],
+            [
+                "95",
+                "99"
+            ]
+        ],
+        "SILVIUS": [
+            [
+                "20",
+                "20"
+            ],
+            [
+                "22",
+                "28"
+            ],
+            [
+                "30",
+                "40"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IV",
+    "scene_description": "The Forest of Arden."
+}

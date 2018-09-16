@@ -1,0 +1,135 @@
+{
+    "scene_id": "as you like it~~Act_2~~Scene_2",
+    "work_number": "13",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "DUKE FREDERICK",
+            "Can it be possible that no man saw them?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "DUKE FREDERICK",
+            "It cannot be: some villains of my court"
+        ],
+        [
+            "DUKE FREDERICK",
+            "Are of consent and sufferance in this."
+        ],
+        [
+            "First Lord",
+            "I cannot hear of any that did see her."
+        ],
+        [
+            "First Lord",
+            "The ladies, her attendants of her chamber,"
+        ],
+        [
+            "First Lord",
+            "Saw her abed, and in the morning early"
+        ],
+        [
+            "First Lord",
+            "They found the bed untreasured of their mistress."
+        ],
+        [
+            "Second Lord",
+            "My lord, the roynish clown, at whom so oft"
+        ],
+        [
+            "Second Lord",
+            "Your grace was wont to laugh, is also missing."
+        ],
+        [
+            "Second Lord",
+            "Hisperia, the princess' gentlewoman,"
+        ],
+        [
+            "Second Lord",
+            "Confesses that she secretly o'erheard"
+        ],
+        [
+            "Second Lord",
+            "Your daughter and her cousin much commend"
+        ],
+        [
+            "Second Lord",
+            "The parts and graces of the wrestler"
+        ],
+        [
+            "Second Lord",
+            "That did but lately foil the sinewy Charles;"
+        ],
+        [
+            "Second Lord",
+            "And she believes, wherever they are gone,"
+        ],
+        [
+            "Second Lord",
+            "That youth is surely in their company."
+        ],
+        [
+            "DUKE FREDERICK",
+            "Send to his brother; fetch that gallant hither;"
+        ],
+        [
+            "DUKE FREDERICK",
+            "If he be absent, bring his brother to me;"
+        ],
+        [
+            "DUKE FREDERICK",
+            "I'll make him find him: do this suddenly,"
+        ],
+        [
+            "DUKE FREDERICK",
+            "And let not search and inquisition quail"
+        ],
+        [
+            "DUKE FREDERICK",
+            "To bring again these foolish runaways.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter DUKE FREDERICK, with Lords"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "DUKE FREDERICK": [
+            [
+                "1",
+                "3"
+            ],
+            [
+                "17",
+                "21"
+            ]
+        ],
+        "First Lord": [
+            [
+                "4",
+                "7"
+            ]
+        ],
+        "Second Lord": [
+            [
+                "8",
+                "16"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "A room in the palace."
+}

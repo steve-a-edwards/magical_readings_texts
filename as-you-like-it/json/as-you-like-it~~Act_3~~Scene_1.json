@@ -1,0 +1,117 @@
+{
+    "scene_id": "as you like it~~Act_3~~Scene_1",
+    "work_number": "13",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "DUKE FREDERICK",
+            "Not see him since? Sir, sir, that cannot be:",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "DUKE FREDERICK",
+            "But were I not the better part made mercy,"
+        ],
+        [
+            "DUKE FREDERICK",
+            "I should not seek an absent argument"
+        ],
+        [
+            "DUKE FREDERICK",
+            "Of my revenge, thou present. But look to it:"
+        ],
+        [
+            "DUKE FREDERICK",
+            "Find out thy brother, wheresoe'er he is;"
+        ],
+        [
+            "DUKE FREDERICK",
+            "Seek him with candle; bring him dead or living"
+        ],
+        [
+            "DUKE FREDERICK",
+            "Within this twelvemonth, or turn thou no more"
+        ],
+        [
+            "DUKE FREDERICK",
+            "To seek a living in our territory."
+        ],
+        [
+            "DUKE FREDERICK",
+            "Thy lands and all things that thou dost call thine"
+        ],
+        [
+            "DUKE FREDERICK",
+            "Worth seizure do we seize into our hands,"
+        ],
+        [
+            "DUKE FREDERICK",
+            "Till thou canst quit thee by thy brothers mouth"
+        ],
+        [
+            "DUKE FREDERICK",
+            "Of what we think against thee."
+        ],
+        [
+            "OLIVER",
+            "O that your highness knew my heart in this!"
+        ],
+        [
+            "OLIVER",
+            "I never loved my brother in my life."
+        ],
+        [
+            "DUKE FREDERICK",
+            "More villain thou. Well, push him out of doors;"
+        ],
+        [
+            "DUKE FREDERICK",
+            "And let my officers of such a nature"
+        ],
+        [
+            "DUKE FREDERICK",
+            "Make an extent upon his house and lands:"
+        ],
+        [
+            "DUKE FREDERICK",
+            "Do this expediently and turn him going.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter DUKE FREDERICK, Lords, and OLIVER"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "DUKE FREDERICK": [
+            [
+                "1",
+                "12"
+            ],
+            [
+                "15",
+                "18"
+            ]
+        ],
+        "OLIVER": [
+            [
+                "13",
+                "14"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "A room in the palace."
+}

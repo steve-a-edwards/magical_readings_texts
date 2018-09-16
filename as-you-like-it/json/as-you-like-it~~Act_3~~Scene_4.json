@@ -1,0 +1,370 @@
+{
+    "scene_id": "as you like it~~Act_3~~Scene_4",
+    "work_number": "13",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "ROSALIND",
+            "Never talk to me; I will weep.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "CELIA",
+            "Do, I prithee; but yet have the grace to consider"
+        ],
+        [
+            "CELIA",
+            "that tears do not become a man."
+        ],
+        [
+            "ROSALIND",
+            "But have I not cause to weep?"
+        ],
+        [
+            "CELIA",
+            "As good cause as one would desire; therefore weep."
+        ],
+        [
+            "ROSALIND",
+            "His very hair is of the dissembling colour."
+        ],
+        [
+            "CELIA",
+            "Something browner than Judas's marry, his kisses are"
+        ],
+        [
+            "CELIA",
+            "Judas's own children."
+        ],
+        [
+            "ROSALIND",
+            "I' faith, his hair is of a good colour."
+        ],
+        [
+            "CELIA",
+            "An excellent colour: your chestnut was ever the only colour."
+        ],
+        [
+            "ROSALIND",
+            "And his kissing is as full of sanctity as the touch"
+        ],
+        [
+            "ROSALIND",
+            "of holy bread."
+        ],
+        [
+            "CELIA",
+            "He hath bought a pair of cast lips of Diana: a nun"
+        ],
+        [
+            "CELIA",
+            "of winter's sisterhood kisses not more religiously;"
+        ],
+        [
+            "CELIA",
+            "the very ice of chastity is in them."
+        ],
+        [
+            "ROSALIND",
+            "But why did he swear he would come this morning, and"
+        ],
+        [
+            "ROSALIND",
+            "comes not?"
+        ],
+        [
+            "CELIA",
+            "Nay, certainly, there is no truth in him."
+        ],
+        [
+            "ROSALIND",
+            "Do you think so?"
+        ],
+        [
+            "CELIA",
+            "Yes; I think he is not a pick-purse nor a"
+        ],
+        [
+            "CELIA",
+            "horse-stealer, but for his verity in love, I do"
+        ],
+        [
+            "CELIA",
+            "think him as concave as a covered goblet or a"
+        ],
+        [
+            "CELIA",
+            "worm-eaten nut."
+        ],
+        [
+            "ROSALIND",
+            "Not true in love?"
+        ],
+        [
+            "CELIA",
+            "Yes, when he is in; but I think he is not in."
+        ],
+        [
+            "ROSALIND",
+            "You have heard him swear downright he was."
+        ],
+        [
+            "CELIA",
+            "'Was' is not 'is:' besides, the oath of a lover is"
+        ],
+        [
+            "CELIA",
+            "no stronger than the word of a tapster; they are"
+        ],
+        [
+            "CELIA",
+            "both the confirmer of false reckonings. He attends"
+        ],
+        [
+            "CELIA",
+            "here in the forest on the duke your father."
+        ],
+        [
+            "ROSALIND",
+            "I met the duke yesterday and had much question with"
+        ],
+        [
+            "ROSALIND",
+            "him: he asked me of what parentage I was; I told"
+        ],
+        [
+            "ROSALIND",
+            "him, of as good as he; so he laughed and let me go."
+        ],
+        [
+            "ROSALIND",
+            "But what talk we of fathers, when there is such a"
+        ],
+        [
+            "ROSALIND",
+            "man as Orlando?"
+        ],
+        [
+            "CELIA",
+            "O, that's a brave man! he writes brave verses,"
+        ],
+        [
+            "CELIA",
+            "speaks brave words, swears brave oaths and breaks"
+        ],
+        [
+            "CELIA",
+            "them bravely, quite traverse, athwart the heart of"
+        ],
+        [
+            "CELIA",
+            "his lover; as a puisny tilter, that spurs his horse"
+        ],
+        [
+            "CELIA",
+            "but on one side, breaks his staff like a noble"
+        ],
+        [
+            "CELIA",
+            "goose: but all's brave that youth mounts and folly"
+        ],
+        [
+            "CELIA",
+            "guides. Who comes here?",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "CORIN",
+            "Mistress and master, you have oft inquired",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "CORIN",
+            "After the shepherd that complain'd of love,"
+        ],
+        [
+            "CORIN",
+            "Who you saw sitting by me on the turf,"
+        ],
+        [
+            "CORIN",
+            "Praising the proud disdainful shepherdess"
+        ],
+        [
+            "CORIN",
+            "That was his mistress."
+        ],
+        [
+            "CELIA",
+            "Well, and what of him?"
+        ],
+        [
+            "CORIN",
+            "If you will see a pageant truly play'd,"
+        ],
+        [
+            "CORIN",
+            "Between the pale complexion of true love"
+        ],
+        [
+            "CORIN",
+            "And the red glow of scorn and proud disdain,"
+        ],
+        [
+            "CORIN",
+            "Go hence a little and I shall conduct you,"
+        ],
+        [
+            "CORIN",
+            "If you will mark it."
+        ],
+        [
+            "ROSALIND",
+            "O, come, let us remove:"
+        ],
+        [
+            "ROSALIND",
+            "The sight of lovers feedeth those in love."
+        ],
+        [
+            "ROSALIND",
+            "Bring us to this sight, and you shall say"
+        ],
+        [
+            "ROSALIND",
+            "I'll prove a busy actor in their play.",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter ROSALIND and CELIA"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter CORIN"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "ROSALIND": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "4",
+                "4"
+            ],
+            [
+                "6",
+                "6"
+            ],
+            [
+                "9",
+                "9"
+            ],
+            [
+                "11",
+                "12"
+            ],
+            [
+                "16",
+                "17"
+            ],
+            [
+                "19",
+                "19"
+            ],
+            [
+                "24",
+                "24"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "31",
+                "35"
+            ],
+            [
+                "54",
+                "57"
+            ]
+        ],
+        "CELIA": [
+            [
+                "2",
+                "3"
+            ],
+            [
+                "5",
+                "5"
+            ],
+            [
+                "7",
+                "8"
+            ],
+            [
+                "10",
+                "10"
+            ],
+            [
+                "13",
+                "15"
+            ],
+            [
+                "18",
+                "18"
+            ],
+            [
+                "20",
+                "23"
+            ],
+            [
+                "25",
+                "25"
+            ],
+            [
+                "27",
+                "30"
+            ],
+            [
+                "36",
+                "42"
+            ],
+            [
+                "48",
+                "48"
+            ]
+        ],
+        "CORIN": [
+            [
+                "43",
+                "47"
+            ],
+            [
+                "49",
+                "53"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IV",
+    "scene_description": "The forest."
+}

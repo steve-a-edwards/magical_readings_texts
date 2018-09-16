@@ -1,0 +1,29 @@
+_S_SCENE II. The forest.
+_D_Enter JAQUES, Lords, and Foresters
+_R_JAQUES
+Which is he that killed the deer?
+_R_A Lord
+Sir, it was I.
+_R_JAQUES
+Let's present him to the duke, like a Roman
+conqueror; and it would do well to set the deer's
+horns upon his head, for a branch of victory. Have
+you no song, forester, for this purpose?
+_R_Forester
+Yes, sir.
+_R_JAQUES
+Sing it: 'tis no matter how it be in tune, so it
+make noise enough.
+SONG.
+_R_Forester
+What shall he have that kill'd the deer?
+His leather skin and horns to wear.
+Then sing him home;
+_D_The rest shall bear this burden
+Take thou no scorn to wear the horn;
+It was a crest ere thou wast born:
+Thy father's father wore it,
+And thy father bore it:
+The horn, the horn, the lusty horn
+Is not a thing to laugh to scorn.
+_D_Exeunt

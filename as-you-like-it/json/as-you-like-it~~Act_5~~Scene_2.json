@@ -1,0 +1,787 @@
+{
+    "scene_id": "as you like it~~Act_5~~Scene_2",
+    "work_number": "13",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "ORLANDO",
+            "Is't possible that on so little acquaintance you",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "ORLANDO",
+            "should like her? that but seeing you should love"
+        ],
+        [
+            "ORLANDO",
+            "her? and loving woo? and, wooing, she should"
+        ],
+        [
+            "ORLANDO",
+            "grant? and will you persever to enjoy her?"
+        ],
+        [
+            "OLIVER",
+            "Neither call the giddiness of it in question, the"
+        ],
+        [
+            "OLIVER",
+            "poverty of her, the small acquaintance, my sudden"
+        ],
+        [
+            "OLIVER",
+            "wooing, nor her sudden consenting; but say with me,"
+        ],
+        [
+            "OLIVER",
+            "I love Aliena; say with her that she loves me;"
+        ],
+        [
+            "OLIVER",
+            "consent with both that we may enjoy each other: it"
+        ],
+        [
+            "OLIVER",
+            "shall be to your good; for my father's house and all"
+        ],
+        [
+            "OLIVER",
+            "the revenue that was old Sir Rowland's will I"
+        ],
+        [
+            "OLIVER",
+            "estate upon you, and here live and die a shepherd."
+        ],
+        [
+            "ORLANDO",
+            "You have my consent. Let your wedding be to-morrow:"
+        ],
+        [
+            "ORLANDO",
+            "thither will I invite the duke and all's contented"
+        ],
+        [
+            "ORLANDO",
+            "followers. Go you and prepare Aliena; for look"
+        ],
+        [
+            "ORLANDO",
+            "you, here comes my Rosalind.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "ROSALIND",
+            "God save you, brother.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "OLIVER",
+            "And you, fair sister.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "ROSALIND",
+            "O, my dear Orlando, how it grieves me to see thee",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "ROSALIND",
+            "wear thy heart in a scarf!"
+        ],
+        [
+            "ORLANDO",
+            "It is my arm."
+        ],
+        [
+            "ROSALIND",
+            "I thought thy heart had been wounded with the claws"
+        ],
+        [
+            "ROSALIND",
+            "of a lion."
+        ],
+        [
+            "ORLANDO",
+            "Wounded it is, but with the eyes of a lady."
+        ],
+        [
+            "ROSALIND",
+            "Did your brother tell you how I counterfeited to"
+        ],
+        [
+            "ROSALIND",
+            "swoon when he showed me your handkerchief?"
+        ],
+        [
+            "ORLANDO",
+            "Ay, and greater wonders than that."
+        ],
+        [
+            "ROSALIND",
+            "O, I know where you are: nay, 'tis true: there was"
+        ],
+        [
+            "ROSALIND",
+            "never any thing so sudden but the fight of two rams"
+        ],
+        [
+            "ROSALIND",
+            "and Caesar's thrasonical brag of 'I came, saw, and"
+        ],
+        [
+            "ROSALIND",
+            "overcame:' for your brother and my sister no sooner"
+        ],
+        [
+            "ROSALIND",
+            "met but they looked, no sooner looked but they"
+        ],
+        [
+            "ROSALIND",
+            "loved, no sooner loved but they sighed, no sooner"
+        ],
+        [
+            "ROSALIND",
+            "sighed but they asked one another the reason, no"
+        ],
+        [
+            "ROSALIND",
+            "sooner knew the reason but they sought the remedy;"
+        ],
+        [
+            "ROSALIND",
+            "and in these degrees have they made a pair of stairs"
+        ],
+        [
+            "ROSALIND",
+            "to marriage which they will climb incontinent, or"
+        ],
+        [
+            "ROSALIND",
+            "else be incontinent before marriage: they are in"
+        ],
+        [
+            "ROSALIND",
+            "the very wrath of love and they will together; clubs"
+        ],
+        [
+            "ROSALIND",
+            "cannot part them."
+        ],
+        [
+            "ORLANDO",
+            "They shall be married to-morrow, and I will bid the"
+        ],
+        [
+            "ORLANDO",
+            "duke to the nuptial. But, O, how bitter a thing it"
+        ],
+        [
+            "ORLANDO",
+            "is to look into happiness through another man's"
+        ],
+        [
+            "ORLANDO",
+            "eyes! By so much the more shall I to-morrow be at"
+        ],
+        [
+            "ORLANDO",
+            "the height of heart-heaviness, by how much I shall"
+        ],
+        [
+            "ORLANDO",
+            "think my brother happy in having what he wishes for."
+        ],
+        [
+            "ROSALIND",
+            "Why then, to-morrow I cannot serve your turn for Rosalind?"
+        ],
+        [
+            "ORLANDO",
+            "I can live no longer by thinking."
+        ],
+        [
+            "ROSALIND",
+            "I will weary you then no longer with idle talking."
+        ],
+        [
+            "ROSALIND",
+            "Know of me then, for now I speak to some purpose,"
+        ],
+        [
+            "ROSALIND",
+            "that I know you are a gentleman of good conceit: I"
+        ],
+        [
+            "ROSALIND",
+            "speak not this that you should bear a good opinion"
+        ],
+        [
+            "ROSALIND",
+            "of my knowledge, insomuch I say I know you are;"
+        ],
+        [
+            "ROSALIND",
+            "neither do I labour for a greater esteem than may in"
+        ],
+        [
+            "ROSALIND",
+            "some little measure draw a belief from you, to do"
+        ],
+        [
+            "ROSALIND",
+            "yourself good and not to grace me. Believe then, if"
+        ],
+        [
+            "ROSALIND",
+            "you please, that I can do strange things: I have,"
+        ],
+        [
+            "ROSALIND",
+            "since I was three year old, conversed with a"
+        ],
+        [
+            "ROSALIND",
+            "magician, most profound in his art and yet not"
+        ],
+        [
+            "ROSALIND",
+            "damnable. If you do love Rosalind so near the heart"
+        ],
+        [
+            "ROSALIND",
+            "as your gesture cries it out, when your brother"
+        ],
+        [
+            "ROSALIND",
+            "marries Aliena, shall you marry her: I know into"
+        ],
+        [
+            "ROSALIND",
+            "what straits of fortune she is driven; and it is"
+        ],
+        [
+            "ROSALIND",
+            "not impossible to me, if it appear not inconvenient"
+        ],
+        [
+            "ROSALIND",
+            "to you, to set her before your eyes tomorrow human"
+        ],
+        [
+            "ROSALIND",
+            "as she is and without any danger."
+        ],
+        [
+            "ORLANDO",
+            "Speakest thou in sober meanings?"
+        ],
+        [
+            "ROSALIND",
+            "By my life, I do; which I tender dearly, though I"
+        ],
+        [
+            "ROSALIND",
+            "say I am a magician. Therefore, put you in your"
+        ],
+        [
+            "ROSALIND",
+            "best array: bid your friends; for if you will be"
+        ],
+        [
+            "ROSALIND",
+            "married to-morrow, you shall, and to Rosalind, if you will.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "ROSALIND",
+            "Look, here comes a lover of mine and a lover of hers.",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "PHEBE",
+            "Youth, you have done me much ungentleness,"
+        ],
+        [
+            "PHEBE",
+            "To show the letter that I writ to you."
+        ],
+        [
+            "ROSALIND",
+            "I care not if I have: it is my study"
+        ],
+        [
+            "ROSALIND",
+            "To seem despiteful and ungentle to you:"
+        ],
+        [
+            "ROSALIND",
+            "You are there followed by a faithful shepherd;"
+        ],
+        [
+            "ROSALIND",
+            "Look upon him, love him; he worships you."
+        ],
+        [
+            "PHEBE",
+            "Good shepherd, tell this youth what 'tis to love."
+        ],
+        [
+            "SILVIUS",
+            "It is to be all made of sighs and tears;"
+        ],
+        [
+            "SILVIUS",
+            "And so am I for Phebe."
+        ],
+        [
+            "PHEBE",
+            "And I for Ganymede."
+        ],
+        [
+            "ORLANDO",
+            "And I for Rosalind."
+        ],
+        [
+            "ROSALIND",
+            "And I for no woman."
+        ],
+        [
+            "SILVIUS",
+            "It is to be all made of faith and service;"
+        ],
+        [
+            "SILVIUS",
+            "And so am I for Phebe."
+        ],
+        [
+            "PHEBE",
+            "And I for Ganymede."
+        ],
+        [
+            "ORLANDO",
+            "And I for Rosalind."
+        ],
+        [
+            "ROSALIND",
+            "And I for no woman."
+        ],
+        [
+            "SILVIUS",
+            "It is to be all made of fantasy,"
+        ],
+        [
+            "SILVIUS",
+            "All made of passion and all made of wishes,"
+        ],
+        [
+            "SILVIUS",
+            "All adoration, duty, and observance,"
+        ],
+        [
+            "SILVIUS",
+            "All humbleness, all patience and impatience,"
+        ],
+        [
+            "SILVIUS",
+            "All purity, all trial, all observance;"
+        ],
+        [
+            "SILVIUS",
+            "And so am I for Phebe."
+        ],
+        [
+            "PHEBE",
+            "And so am I for Ganymede."
+        ],
+        [
+            "ORLANDO",
+            "And so am I for Rosalind."
+        ],
+        [
+            "ROSALIND",
+            "And so am I for no woman."
+        ],
+        [
+            "PHEBE",
+            "If this be so, why blame you me to love you?"
+        ],
+        [
+            "SILVIUS",
+            "If this be so, why blame you me to love you?"
+        ],
+        [
+            "ORLANDO",
+            "If this be so, why blame you me to love you?"
+        ],
+        [
+            "ROSALIND",
+            "Who do you speak to, 'Why blame you me to love you?'"
+        ],
+        [
+            "ORLANDO",
+            "To her that is not here, nor doth not hear."
+        ],
+        [
+            "ROSALIND",
+            "Pray you, no more of this; 'tis like the howling"
+        ],
+        [
+            "ROSALIND",
+            "of Irish wolves against the moon.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "ROSALIND",
+            "I will help you, if I can:",
+            {
+                "preceding_direction_line": "5",
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "ROSALIND",
+            "I would love you, if I could. To-morrow meet me all together.",
+            {
+                "preceding_direction_line": "6",
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "ROSALIND",
+            "I will marry you, if ever I marry woman, and I'll be",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "ROSALIND",
+            "married to-morrow:",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "ROSALIND",
+            "I will satisfy you, if ever I satisfied man, and you",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "ROSALIND",
+            "shall be married to-morrow:",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "ROSALIND",
+            "I will content you, if what pleases you contents",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "ROSALIND",
+            "you, and you shall be married to-morrow.",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "ROSALIND",
+            "As you love Rosalind, meet:",
+            {
+                "preceding_direction_line": "10",
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "ROSALIND",
+            "as you love Phebe, meet: and as I love no woman,",
+            {
+                "preceding_direction_line": "11"
+            }
+        ],
+        [
+            "ROSALIND",
+            "I'll meet. So fare you well: I have left you commands."
+        ],
+        [
+            "SILVIUS",
+            "I'll not fail, if I live."
+        ],
+        [
+            "PHEBE",
+            "Nor I."
+        ],
+        [
+            "ORLANDO",
+            "Nor I.",
+            {
+                "following_direction_line": "12"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter ORLANDO and OLIVER"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter ROSALIND"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter SILVIUS and PHEBE"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "To SILVIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "To PHEBE"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "To PHEBE"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "To ORLANDO"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "To SILVIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "To ORLANDO"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "To SILVIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "ORLANDO": [
+            [
+                "1",
+                "4"
+            ],
+            [
+                "13",
+                "16"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "24",
+                "24"
+            ],
+            [
+                "27",
+                "27"
+            ],
+            [
+                "41",
+                "46"
+            ],
+            [
+                "48",
+                "48"
+            ],
+            [
+                "67",
+                "67"
+            ],
+            [
+                "83",
+                "83"
+            ],
+            [
+                "88",
+                "88"
+            ],
+            [
+                "97",
+                "97"
+            ],
+            [
+                "101",
+                "101"
+            ],
+            [
+                "103",
+                "103"
+            ],
+            [
+                "119",
+                "119"
+            ]
+        ],
+        "OLIVER": [
+            [
+                "5",
+                "12"
+            ],
+            [
+                "18",
+                "18"
+            ]
+        ],
+        "ROSALIND": [
+            [
+                "17",
+                "17"
+            ],
+            [
+                "19",
+                "20"
+            ],
+            [
+                "22",
+                "23"
+            ],
+            [
+                "25",
+                "26"
+            ],
+            [
+                "28",
+                "40"
+            ],
+            [
+                "47",
+                "47"
+            ],
+            [
+                "49",
+                "66"
+            ],
+            [
+                "68",
+                "72"
+            ],
+            [
+                "75",
+                "78"
+            ],
+            [
+                "84",
+                "84"
+            ],
+            [
+                "89",
+                "89"
+            ],
+            [
+                "98",
+                "98"
+            ],
+            [
+                "102",
+                "102"
+            ],
+            [
+                "104",
+                "116"
+            ]
+        ],
+        "PHEBE": [
+            [
+                "73",
+                "74"
+            ],
+            [
+                "79",
+                "79"
+            ],
+            [
+                "82",
+                "82"
+            ],
+            [
+                "87",
+                "87"
+            ],
+            [
+                "96",
+                "96"
+            ],
+            [
+                "99",
+                "99"
+            ],
+            [
+                "118",
+                "118"
+            ]
+        ],
+        "SILVIUS": [
+            [
+                "80",
+                "81"
+            ],
+            [
+                "85",
+                "86"
+            ],
+            [
+                "90",
+                "95"
+            ],
+            [
+                "100",
+                "100"
+            ],
+            [
+                "117",
+                "117"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "The forest."
+}

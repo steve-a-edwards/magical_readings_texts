@@ -1,0 +1,801 @@
+{
+    "scene_id": "as you like it~~Act_1~~Scene_3",
+    "work_number": "13",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "CELIA",
+            "Why, cousin! why, Rosalind! Cupid have mercy! not a word?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "ROSALIND",
+            "Not one to throw at a dog."
+        ],
+        [
+            "CELIA",
+            "No, thy words are too precious to be cast away upon"
+        ],
+        [
+            "CELIA",
+            "curs; throw some of them at me; come, lame me with reasons."
+        ],
+        [
+            "ROSALIND",
+            "Then there were two cousins laid up; when the one"
+        ],
+        [
+            "ROSALIND",
+            "should be lamed with reasons and the other mad"
+        ],
+        [
+            "ROSALIND",
+            "without any."
+        ],
+        [
+            "CELIA",
+            "But is all this for your father?"
+        ],
+        [
+            "ROSALIND",
+            "No, some of it is for my child's father. O, how"
+        ],
+        [
+            "ROSALIND",
+            "full of briers is this working-day world!"
+        ],
+        [
+            "CELIA",
+            "They are but burs, cousin, thrown upon thee in"
+        ],
+        [
+            "CELIA",
+            "holiday foolery: if we walk not in the trodden"
+        ],
+        [
+            "CELIA",
+            "paths our very petticoats will catch them."
+        ],
+        [
+            "ROSALIND",
+            "I could shake them off my coat: these burs are in my heart."
+        ],
+        [
+            "CELIA",
+            "Hem them away."
+        ],
+        [
+            "ROSALIND",
+            "I would try, if I could cry 'hem' and have him."
+        ],
+        [
+            "CELIA",
+            "Come, come, wrestle with thy affections."
+        ],
+        [
+            "ROSALIND",
+            "O, they take the part of a better wrestler than myself!"
+        ],
+        [
+            "CELIA",
+            "O, a good wish upon you! you will try in time, in"
+        ],
+        [
+            "CELIA",
+            "despite of a fall. But, turning these jests out of"
+        ],
+        [
+            "CELIA",
+            "service, let us talk in good earnest: is it"
+        ],
+        [
+            "CELIA",
+            "possible, on such a sudden, you should fall into so"
+        ],
+        [
+            "CELIA",
+            "strong a liking with old Sir Rowland's youngest son?"
+        ],
+        [
+            "ROSALIND",
+            "The duke my father loved his father dearly."
+        ],
+        [
+            "CELIA",
+            "Doth it therefore ensue that you should love his son"
+        ],
+        [
+            "CELIA",
+            "dearly? By this kind of chase, I should hate him,"
+        ],
+        [
+            "CELIA",
+            "for my father hated his father dearly; yet I hate"
+        ],
+        [
+            "CELIA",
+            "not Orlando."
+        ],
+        [
+            "ROSALIND",
+            "No, faith, hate him not, for my sake."
+        ],
+        [
+            "CELIA",
+            "Why should I not? doth he not deserve well?"
+        ],
+        [
+            "ROSALIND",
+            "Let me love him for that, and do you love him"
+        ],
+        [
+            "ROSALIND",
+            "because I do. Look, here comes the duke."
+        ],
+        [
+            "CELIA",
+            "With his eyes full of anger.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "DUKE FREDERICK",
+            "Mistress, dispatch you with your safest haste",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "DUKE FREDERICK",
+            "And get you from our court."
+        ],
+        [
+            "ROSALIND",
+            "Me, uncle?"
+        ],
+        [
+            "DUKE FREDERICK",
+            "You, cousin"
+        ],
+        [
+            "DUKE FREDERICK",
+            "Within these ten days if that thou be'st found"
+        ],
+        [
+            "DUKE FREDERICK",
+            "So near our public court as twenty miles,"
+        ],
+        [
+            "DUKE FREDERICK",
+            "Thou diest for it."
+        ],
+        [
+            "ROSALIND",
+            "I do beseech your grace,"
+        ],
+        [
+            "ROSALIND",
+            "Let me the knowledge of my fault bear with me:"
+        ],
+        [
+            "ROSALIND",
+            "If with myself I hold intelligence"
+        ],
+        [
+            "ROSALIND",
+            "Or have acquaintance with mine own desires,"
+        ],
+        [
+            "ROSALIND",
+            "If that I do not dream or be not frantic,--"
+        ],
+        [
+            "ROSALIND",
+            "As I do trust I am not--then, dear uncle,"
+        ],
+        [
+            "ROSALIND",
+            "Never so much as in a thought unborn"
+        ],
+        [
+            "ROSALIND",
+            "Did I offend your highness."
+        ],
+        [
+            "DUKE FREDERICK",
+            "Thus do all traitors:"
+        ],
+        [
+            "DUKE FREDERICK",
+            "If their purgation did consist in words,"
+        ],
+        [
+            "DUKE FREDERICK",
+            "They are as innocent as grace itself:"
+        ],
+        [
+            "DUKE FREDERICK",
+            "Let it suffice thee that I trust thee not."
+        ],
+        [
+            "ROSALIND",
+            "Yet your mistrust cannot make me a traitor:"
+        ],
+        [
+            "ROSALIND",
+            "Tell me whereon the likelihood depends."
+        ],
+        [
+            "DUKE FREDERICK",
+            "Thou art thy father's daughter; there's enough."
+        ],
+        [
+            "ROSALIND",
+            "So was I when your highness took his dukedom;"
+        ],
+        [
+            "ROSALIND",
+            "So was I when your highness banish'd him:"
+        ],
+        [
+            "ROSALIND",
+            "Treason is not inherited, my lord;"
+        ],
+        [
+            "ROSALIND",
+            "Or, if we did derive it from our friends,"
+        ],
+        [
+            "ROSALIND",
+            "What's that to me? my father was no traitor:"
+        ],
+        [
+            "ROSALIND",
+            "Then, good my liege, mistake me not so much"
+        ],
+        [
+            "ROSALIND",
+            "To think my poverty is treacherous."
+        ],
+        [
+            "CELIA",
+            "Dear sovereign, hear me speak."
+        ],
+        [
+            "DUKE FREDERICK",
+            "Ay, Celia; we stay'd her for your sake,"
+        ],
+        [
+            "DUKE FREDERICK",
+            "Else had she with her father ranged along."
+        ],
+        [
+            "CELIA",
+            "I did not then entreat to have her stay;"
+        ],
+        [
+            "CELIA",
+            "It was your pleasure and your own remorse:"
+        ],
+        [
+            "CELIA",
+            "I was too young that time to value her;"
+        ],
+        [
+            "CELIA",
+            "But now I know her: if she be a traitor,"
+        ],
+        [
+            "CELIA",
+            "Why so am I; we still have slept together,"
+        ],
+        [
+            "CELIA",
+            "Rose at an instant, learn'd, play'd, eat together,"
+        ],
+        [
+            "CELIA",
+            "And wheresoever we went, like Juno's swans,"
+        ],
+        [
+            "CELIA",
+            "Still we went coupled and inseparable."
+        ],
+        [
+            "DUKE FREDERICK",
+            "She is too subtle for thee; and her smoothness,"
+        ],
+        [
+            "DUKE FREDERICK",
+            "Her very silence and her patience"
+        ],
+        [
+            "DUKE FREDERICK",
+            "Speak to the people, and they pity her."
+        ],
+        [
+            "DUKE FREDERICK",
+            "Thou art a fool: she robs thee of thy name;"
+        ],
+        [
+            "DUKE FREDERICK",
+            "And thou wilt show more bright and seem more virtuous"
+        ],
+        [
+            "DUKE FREDERICK",
+            "When she is gone. Then open not thy lips:"
+        ],
+        [
+            "DUKE FREDERICK",
+            "Firm and irrevocable is my doom"
+        ],
+        [
+            "DUKE FREDERICK",
+            "Which I have pass'd upon her; she is banish'd."
+        ],
+        [
+            "CELIA",
+            "Pronounce that sentence then on me, my liege:"
+        ],
+        [
+            "CELIA",
+            "I cannot live out of her company."
+        ],
+        [
+            "DUKE FREDERICK",
+            "You are a fool. You, niece, provide yourself:"
+        ],
+        [
+            "DUKE FREDERICK",
+            "If you outstay the time, upon mine honour,"
+        ],
+        [
+            "DUKE FREDERICK",
+            "And in the greatness of my word, you die.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "CELIA",
+            "O my poor Rosalind, whither wilt thou go?",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "CELIA",
+            "Wilt thou change fathers? I will give thee mine."
+        ],
+        [
+            "CELIA",
+            "I charge thee, be not thou more grieved than I am."
+        ],
+        [
+            "ROSALIND",
+            "I have more cause."
+        ],
+        [
+            "CELIA",
+            "Thou hast not, cousin;"
+        ],
+        [
+            "CELIA",
+            "Prithee be cheerful: know'st thou not, the duke"
+        ],
+        [
+            "CELIA",
+            "Hath banish'd me, his daughter?"
+        ],
+        [
+            "ROSALIND",
+            "That he hath not."
+        ],
+        [
+            "CELIA",
+            "No, hath not? Rosalind lacks then the love"
+        ],
+        [
+            "CELIA",
+            "Which teacheth thee that thou and I am one:"
+        ],
+        [
+            "CELIA",
+            "Shall we be sunder'd? shall we part, sweet girl?"
+        ],
+        [
+            "CELIA",
+            "No: let my father seek another heir."
+        ],
+        [
+            "CELIA",
+            "Therefore devise with me how we may fly,"
+        ],
+        [
+            "CELIA",
+            "Whither to go and what to bear with us;"
+        ],
+        [
+            "CELIA",
+            "And do not seek to take your change upon you,"
+        ],
+        [
+            "CELIA",
+            "To bear your griefs yourself and leave me out;"
+        ],
+        [
+            "CELIA",
+            "For, by this heaven, now at our sorrows pale,"
+        ],
+        [
+            "CELIA",
+            "Say what thou canst, I'll go along with thee."
+        ],
+        [
+            "ROSALIND",
+            "Why, whither shall we go?"
+        ],
+        [
+            "CELIA",
+            "To seek my uncle in the forest of Arden."
+        ],
+        [
+            "ROSALIND",
+            "Alas, what danger will it be to us,"
+        ],
+        [
+            "ROSALIND",
+            "Maids as we are, to travel forth so far!"
+        ],
+        [
+            "ROSALIND",
+            "Beauty provoketh thieves sooner than gold."
+        ],
+        [
+            "CELIA",
+            "I'll put myself in poor and mean attire"
+        ],
+        [
+            "CELIA",
+            "And with a kind of umber smirch my face;"
+        ],
+        [
+            "CELIA",
+            "The like do you: so shall we pass along"
+        ],
+        [
+            "CELIA",
+            "And never stir assailants."
+        ],
+        [
+            "ROSALIND",
+            "Were it not better,"
+        ],
+        [
+            "ROSALIND",
+            "Because that I am more than common tall,"
+        ],
+        [
+            "ROSALIND",
+            "That I did suit me all points like a man?"
+        ],
+        [
+            "ROSALIND",
+            "A gallant curtle-axe upon my thigh,"
+        ],
+        [
+            "ROSALIND",
+            "A boar-spear in my hand; and--in my heart"
+        ],
+        [
+            "ROSALIND",
+            "Lie there what hidden woman's fear there will--"
+        ],
+        [
+            "ROSALIND",
+            "We'll have a swashing and a martial outside,"
+        ],
+        [
+            "ROSALIND",
+            "As many other mannish cowards have"
+        ],
+        [
+            "ROSALIND",
+            "That do outface it with their semblances."
+        ],
+        [
+            "CELIA",
+            "What shall I call thee when thou art a man?"
+        ],
+        [
+            "ROSALIND",
+            "I'll have no worse a name than Jove's own page;"
+        ],
+        [
+            "ROSALIND",
+            "And therefore look you call me Ganymede."
+        ],
+        [
+            "ROSALIND",
+            "But what will you be call'd?"
+        ],
+        [
+            "CELIA",
+            "Something that hath a reference to my state"
+        ],
+        [
+            "CELIA",
+            "No longer Celia, but Aliena."
+        ],
+        [
+            "ROSALIND",
+            "But, cousin, what if we assay'd to steal"
+        ],
+        [
+            "ROSALIND",
+            "The clownish fool out of your father's court?"
+        ],
+        [
+            "ROSALIND",
+            "Would he not be a comfort to our travel?"
+        ],
+        [
+            "CELIA",
+            "He'll go along o'er the wide world with me;"
+        ],
+        [
+            "CELIA",
+            "Leave me alone to woo him. Let's away,"
+        ],
+        [
+            "CELIA",
+            "And get our jewels and our wealth together,"
+        ],
+        [
+            "CELIA",
+            "Devise the fittest time and safest way"
+        ],
+        [
+            "CELIA",
+            "To hide us from pursuit that will be made"
+        ],
+        [
+            "CELIA",
+            "After my flight. Now go we in content"
+        ],
+        [
+            "CELIA",
+            "To liberty and not to banishment.",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter CELIA and ROSALIND"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter DUKE FREDERICK, with Lords"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt DUKE FREDERICK and Lords"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "CELIA": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "4"
+            ],
+            [
+                "8",
+                "8"
+            ],
+            [
+                "11",
+                "13"
+            ],
+            [
+                "15",
+                "15"
+            ],
+            [
+                "17",
+                "17"
+            ],
+            [
+                "19",
+                "23"
+            ],
+            [
+                "25",
+                "28"
+            ],
+            [
+                "30",
+                "30"
+            ],
+            [
+                "33",
+                "33"
+            ],
+            [
+                "63",
+                "63"
+            ],
+            [
+                "66",
+                "73"
+            ],
+            [
+                "82",
+                "83"
+            ],
+            [
+                "87",
+                "89"
+            ],
+            [
+                "91",
+                "93"
+            ],
+            [
+                "95",
+                "104"
+            ],
+            [
+                "106",
+                "106"
+            ],
+            [
+                "110",
+                "113"
+            ],
+            [
+                "123",
+                "123"
+            ],
+            [
+                "127",
+                "128"
+            ],
+            [
+                "132",
+                "138"
+            ]
+        ],
+        "ROSALIND": [
+            [
+                "2",
+                "2"
+            ],
+            [
+                "5",
+                "7"
+            ],
+            [
+                "9",
+                "10"
+            ],
+            [
+                "14",
+                "14"
+            ],
+            [
+                "16",
+                "16"
+            ],
+            [
+                "18",
+                "18"
+            ],
+            [
+                "24",
+                "24"
+            ],
+            [
+                "29",
+                "29"
+            ],
+            [
+                "31",
+                "32"
+            ],
+            [
+                "36",
+                "36"
+            ],
+            [
+                "41",
+                "48"
+            ],
+            [
+                "53",
+                "54"
+            ],
+            [
+                "56",
+                "62"
+            ],
+            [
+                "90",
+                "90"
+            ],
+            [
+                "94",
+                "94"
+            ],
+            [
+                "105",
+                "105"
+            ],
+            [
+                "107",
+                "109"
+            ],
+            [
+                "114",
+                "122"
+            ],
+            [
+                "124",
+                "126"
+            ],
+            [
+                "129",
+                "131"
+            ]
+        ],
+        "DUKE FREDERICK": [
+            [
+                "34",
+                "35"
+            ],
+            [
+                "37",
+                "40"
+            ],
+            [
+                "49",
+                "52"
+            ],
+            [
+                "55",
+                "55"
+            ],
+            [
+                "64",
+                "65"
+            ],
+            [
+                "74",
+                "81"
+            ],
+            [
+                "84",
+                "86"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "A room in the palace."
+}

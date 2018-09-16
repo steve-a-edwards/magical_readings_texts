@@ -1,0 +1,1260 @@
+{
+    "scene_id": "as you like it~~Act_5~~Scene_4",
+    "work_number": "13",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "DUKE SENIOR",
+            "Dost thou believe, Orlando, that the boy",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "DUKE SENIOR",
+            "Can do all this that he hath promised?"
+        ],
+        [
+            "ORLANDO",
+            "I sometimes do believe, and sometimes do not;"
+        ],
+        [
+            "ORLANDO",
+            "As those that fear they hope, and know they fear.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "ROSALIND",
+            "Patience once more, whiles our compact is urged:",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "ROSALIND",
+            "You say, if I bring in your Rosalind,"
+        ],
+        [
+            "ROSALIND",
+            "You will bestow her on Orlando here?"
+        ],
+        [
+            "DUKE SENIOR",
+            "That would I, had I kingdoms to give with her."
+        ],
+        [
+            "ROSALIND",
+            "And you say, you will have her, when I bring her?"
+        ],
+        [
+            "ORLANDO",
+            "That would I, were I of all kingdoms king."
+        ],
+        [
+            "ROSALIND",
+            "You say, you'll marry me, if I be willing?"
+        ],
+        [
+            "PHEBE",
+            "That will I, should I die the hour after."
+        ],
+        [
+            "ROSALIND",
+            "But if you do refuse to marry me,"
+        ],
+        [
+            "ROSALIND",
+            "You'll give yourself to this most faithful shepherd?"
+        ],
+        [
+            "PHEBE",
+            "So is the bargain."
+        ],
+        [
+            "ROSALIND",
+            "You say, that you'll have Phebe, if she will?"
+        ],
+        [
+            "SILVIUS",
+            "Though to have her and death were both one thing."
+        ],
+        [
+            "ROSALIND",
+            "I have promised to make all this matter even."
+        ],
+        [
+            "ROSALIND",
+            "Keep you your word, O duke, to give your daughter;"
+        ],
+        [
+            "ROSALIND",
+            "You yours, Orlando, to receive his daughter:"
+        ],
+        [
+            "ROSALIND",
+            "Keep your word, Phebe, that you'll marry me,"
+        ],
+        [
+            "ROSALIND",
+            "Or else refusing me, to wed this shepherd:"
+        ],
+        [
+            "ROSALIND",
+            "Keep your word, Silvius, that you'll marry her."
+        ],
+        [
+            "ROSALIND",
+            "If she refuse me: and from hence I go,"
+        ],
+        [
+            "ROSALIND",
+            "To make these doubts all even.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "DUKE SENIOR",
+            "I do remember in this shepherd boy",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "DUKE SENIOR",
+            "Some lively touches of my daughter's favour."
+        ],
+        [
+            "ORLANDO",
+            "My lord, the first time that I ever saw him"
+        ],
+        [
+            "ORLANDO",
+            "Methought he was a brother to your daughter:"
+        ],
+        [
+            "ORLANDO",
+            "But, my good lord, this boy is forest-born,"
+        ],
+        [
+            "ORLANDO",
+            "And hath been tutor'd in the rudiments"
+        ],
+        [
+            "ORLANDO",
+            "Of many desperate studies by his uncle,"
+        ],
+        [
+            "ORLANDO",
+            "Whom he reports to be a great magician,"
+        ],
+        [
+            "ORLANDO",
+            "Obscured in the circle of this forest.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "JAQUES",
+            "There is, sure, another flood toward, and these",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "JAQUES",
+            "couples are coming to the ark. Here comes a pair of"
+        ],
+        [
+            "JAQUES",
+            "very strange beasts, which in all tongues are called fools."
+        ],
+        [
+            "TOUCHSTONE",
+            "Salutation and greeting to you all!"
+        ],
+        [
+            "JAQUES",
+            "Good my lord, bid him welcome: this is the"
+        ],
+        [
+            "JAQUES",
+            "motley-minded gentleman that I have so often met in"
+        ],
+        [
+            "JAQUES",
+            "the forest: he hath been a courtier, he swears."
+        ],
+        [
+            "TOUCHSTONE",
+            "If any man doubt that, let him put me to my"
+        ],
+        [
+            "TOUCHSTONE",
+            "purgation. I have trod a measure; I have flattered"
+        ],
+        [
+            "TOUCHSTONE",
+            "a lady; I have been politic with my friend, smooth"
+        ],
+        [
+            "TOUCHSTONE",
+            "with mine enemy; I have undone three tailors; I have"
+        ],
+        [
+            "TOUCHSTONE",
+            "had four quarrels, and like to have fought one."
+        ],
+        [
+            "JAQUES",
+            "And how was that ta'en up?"
+        ],
+        [
+            "TOUCHSTONE",
+            "Faith, we met, and found the quarrel was upon the"
+        ],
+        [
+            "TOUCHSTONE",
+            "seventh cause."
+        ],
+        [
+            "JAQUES",
+            "How seventh cause? Good my lord, like this fellow."
+        ],
+        [
+            "DUKE SENIOR",
+            "I like him very well."
+        ],
+        [
+            "TOUCHSTONE",
+            "God 'ild you, sir; I desire you of the like. I"
+        ],
+        [
+            "TOUCHSTONE",
+            "press in here, sir, amongst the rest of the country"
+        ],
+        [
+            "TOUCHSTONE",
+            "copulatives, to swear and to forswear: according as"
+        ],
+        [
+            "TOUCHSTONE",
+            "marriage binds and blood breaks: a poor virgin,"
+        ],
+        [
+            "TOUCHSTONE",
+            "sir, an ill-favoured thing, sir, but mine own; a poor"
+        ],
+        [
+            "TOUCHSTONE",
+            "humour of mine, sir, to take that that no man else"
+        ],
+        [
+            "TOUCHSTONE",
+            "will: rich honesty dwells like a miser, sir, in a"
+        ],
+        [
+            "TOUCHSTONE",
+            "poor house; as your pearl in your foul oyster."
+        ],
+        [
+            "DUKE SENIOR",
+            "By my faith, he is very swift and sententious."
+        ],
+        [
+            "TOUCHSTONE",
+            "According to the fool's bolt, sir, and such dulcet diseases."
+        ],
+        [
+            "JAQUES",
+            "But, for the seventh cause; how did you find the"
+        ],
+        [
+            "JAQUES",
+            "quarrel on the seventh cause?"
+        ],
+        [
+            "TOUCHSTONE",
+            "Upon a lie seven times removed:--bear your body more"
+        ],
+        [
+            "TOUCHSTONE",
+            "seeming, Audrey:--as thus, sir. I did dislike the"
+        ],
+        [
+            "TOUCHSTONE",
+            "cut of a certain courtier's beard: he sent me word,"
+        ],
+        [
+            "TOUCHSTONE",
+            "if I said his beard was not cut well, he was in the"
+        ],
+        [
+            "TOUCHSTONE",
+            "mind it was: this is called the Retort Courteous."
+        ],
+        [
+            "TOUCHSTONE",
+            "If I sent him word again 'it was not well cut,' he"
+        ],
+        [
+            "TOUCHSTONE",
+            "would send me word, he cut it to please himself:"
+        ],
+        [
+            "TOUCHSTONE",
+            "this is called the Quip Modest. If again 'it was"
+        ],
+        [
+            "TOUCHSTONE",
+            "not well cut,' he disabled my judgment: this is"
+        ],
+        [
+            "TOUCHSTONE",
+            "called the Reply Churlish. If again 'it was not"
+        ],
+        [
+            "TOUCHSTONE",
+            "well cut,' he would answer, I spake not true: this"
+        ],
+        [
+            "TOUCHSTONE",
+            "is called the Reproof Valiant. If again 'it was not"
+        ],
+        [
+            "TOUCHSTONE",
+            "well cut,' he would say I lied: this is called the"
+        ],
+        [
+            "TOUCHSTONE",
+            "Counter-cheque Quarrelsome: and so to the Lie"
+        ],
+        [
+            "TOUCHSTONE",
+            "Circumstantial and the Lie Direct."
+        ],
+        [
+            "JAQUES",
+            "And how oft did you say his beard was not well cut?"
+        ],
+        [
+            "TOUCHSTONE",
+            "I durst go no further than the Lie Circumstantial,"
+        ],
+        [
+            "TOUCHSTONE",
+            "nor he durst not give me the Lie Direct; and so we"
+        ],
+        [
+            "TOUCHSTONE",
+            "measured swords and parted."
+        ],
+        [
+            "JAQUES",
+            "Can you nominate in order now the degrees of the lie?"
+        ],
+        [
+            "TOUCHSTONE",
+            "O sir, we quarrel in print, by the book; as you have"
+        ],
+        [
+            "TOUCHSTONE",
+            "books for good manners: I will name you the degrees."
+        ],
+        [
+            "TOUCHSTONE",
+            "The first, the Retort Courteous; the second, the"
+        ],
+        [
+            "TOUCHSTONE",
+            "Quip Modest; the third, the Reply Churlish; the"
+        ],
+        [
+            "TOUCHSTONE",
+            "fourth, the Reproof Valiant; the fifth, the"
+        ],
+        [
+            "TOUCHSTONE",
+            "Countercheque Quarrelsome; the sixth, the Lie with"
+        ],
+        [
+            "TOUCHSTONE",
+            "Circumstance; the seventh, the Lie Direct. All"
+        ],
+        [
+            "TOUCHSTONE",
+            "these you may avoid but the Lie Direct; and you may"
+        ],
+        [
+            "TOUCHSTONE",
+            "avoid that too, with an If. I knew when seven"
+        ],
+        [
+            "TOUCHSTONE",
+            "justices could not take up a quarrel, but when the"
+        ],
+        [
+            "TOUCHSTONE",
+            "parties were met themselves, one of them thought but"
+        ],
+        [
+            "TOUCHSTONE",
+            "of an If, as, 'If you said so, then I said so;' and"
+        ],
+        [
+            "TOUCHSTONE",
+            "they shook hands and swore brothers. Your If is the"
+        ],
+        [
+            "TOUCHSTONE",
+            "only peacemaker; much virtue in If."
+        ],
+        [
+            "JAQUES",
+            "Is not this a rare fellow, my lord? he's as good at"
+        ],
+        [
+            "JAQUES",
+            "any thing and yet a fool."
+        ],
+        [
+            "DUKE SENIOR",
+            "He uses his folly like a stalking-horse and under"
+        ],
+        [
+            "DUKE SENIOR",
+            "the presentation of that he shoots his wit.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "HYMEN",
+            "Then is there mirth in heaven,",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "HYMEN",
+            "When earthly things made even"
+        ],
+        [
+            "HYMEN",
+            "Atone together."
+        ],
+        [
+            "HYMEN",
+            "Good duke, receive thy daughter"
+        ],
+        [
+            "HYMEN",
+            "Hymen from heaven brought her,"
+        ],
+        [
+            "HYMEN",
+            "Yea, brought her hither,"
+        ],
+        [
+            "HYMEN",
+            "That thou mightst join her hand with his"
+        ],
+        [
+            "HYMEN",
+            "Whose heart within his bosom is."
+        ],
+        [
+            "ROSALIND",
+            "[To DUKE SENIOR] To you I give myself, for I am yours.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "ROSALIND",
+            "To you I give myself, for I am yours.",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "DUKE SENIOR",
+            "If there be truth in sight, you are my daughter."
+        ],
+        [
+            "ORLANDO",
+            "If there be truth in sight, you are my Rosalind."
+        ],
+        [
+            "PHEBE",
+            "If sight and shape be true,"
+        ],
+        [
+            "PHEBE",
+            "Why then, my love adieu!"
+        ],
+        [
+            "ROSALIND",
+            "I'll have no father, if you be not he:"
+        ],
+        [
+            "ROSALIND",
+            "I'll have no husband, if you be not he:"
+        ],
+        [
+            "ROSALIND",
+            "Nor ne'er wed woman, if you be not she."
+        ],
+        [
+            "HYMEN",
+            "Peace, ho! I bar confusion:"
+        ],
+        [
+            "HYMEN",
+            "'Tis I must make conclusion"
+        ],
+        [
+            "HYMEN",
+            "Of these most strange events:"
+        ],
+        [
+            "HYMEN",
+            "Here's eight that must take hands"
+        ],
+        [
+            "HYMEN",
+            "To join in Hymen's bands,"
+        ],
+        [
+            "HYMEN",
+            "If truth holds true contents."
+        ],
+        [
+            "HYMEN",
+            "You and you no cross shall part:"
+        ],
+        [
+            "HYMEN",
+            "You and you are heart in heart"
+        ],
+        [
+            "HYMEN",
+            "You to his love must accord,"
+        ],
+        [
+            "HYMEN",
+            "Or have a woman to your lord:"
+        ],
+        [
+            "HYMEN",
+            "You and you are sure together,"
+        ],
+        [
+            "HYMEN",
+            "As the winter to foul weather."
+        ],
+        [
+            "HYMEN",
+            "Whiles a wedlock-hymn we sing,"
+        ],
+        [
+            "HYMEN",
+            "Feed yourselves with questioning;"
+        ],
+        [
+            "HYMEN",
+            "That reason wonder may diminish,"
+        ],
+        [
+            "HYMEN",
+            "How thus we met, and these things finish."
+        ],
+        [
+            "HYMEN",
+            "SONG."
+        ],
+        [
+            "HYMEN",
+            "Wedding is great Juno's crown:"
+        ],
+        [
+            "HYMEN",
+            "O blessed bond of board and bed!"
+        ],
+        [
+            "HYMEN",
+            "'Tis Hymen peoples every town;"
+        ],
+        [
+            "HYMEN",
+            "High wedlock then be honoured:"
+        ],
+        [
+            "HYMEN",
+            "Honour, high honour and renown,"
+        ],
+        [
+            "HYMEN",
+            "To Hymen, god of every town!"
+        ],
+        [
+            "DUKE SENIOR",
+            "O my dear niece, welcome thou art to me!"
+        ],
+        [
+            "DUKE SENIOR",
+            "Even daughter, welcome, in no less degree."
+        ],
+        [
+            "PHEBE",
+            "I will not eat my word, now thou art mine;"
+        ],
+        [
+            "PHEBE",
+            "Thy faith my fancy to thee doth combine.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "JAQUES DE BOYS",
+            "Let me have audience for a word or two:",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "JAQUES DE BOYS",
+            "I am the second son of old Sir Rowland,"
+        ],
+        [
+            "JAQUES DE BOYS",
+            "That bring these tidings to this fair assembly."
+        ],
+        [
+            "JAQUES DE BOYS",
+            "Duke Frederick, hearing how that every day"
+        ],
+        [
+            "JAQUES DE BOYS",
+            "Men of great worth resorted to this forest,"
+        ],
+        [
+            "JAQUES DE BOYS",
+            "Address'd a mighty power; which were on foot,"
+        ],
+        [
+            "JAQUES DE BOYS",
+            "In his own conduct, purposely to take"
+        ],
+        [
+            "JAQUES DE BOYS",
+            "His brother here and put him to the sword:"
+        ],
+        [
+            "JAQUES DE BOYS",
+            "And to the skirts of this wild wood he came;"
+        ],
+        [
+            "JAQUES DE BOYS",
+            "Where meeting with an old religious man,"
+        ],
+        [
+            "JAQUES DE BOYS",
+            "After some question with him, was converted"
+        ],
+        [
+            "JAQUES DE BOYS",
+            "Both from his enterprise and from the world,"
+        ],
+        [
+            "JAQUES DE BOYS",
+            "His crown bequeathing to his banish'd brother,"
+        ],
+        [
+            "JAQUES DE BOYS",
+            "And all their lands restored to them again"
+        ],
+        [
+            "JAQUES DE BOYS",
+            "That were with him exiled. This to be true,"
+        ],
+        [
+            "JAQUES DE BOYS",
+            "I do engage my life."
+        ],
+        [
+            "DUKE SENIOR",
+            "Welcome, young man;"
+        ],
+        [
+            "DUKE SENIOR",
+            "Thou offer'st fairly to thy brothers' wedding:"
+        ],
+        [
+            "DUKE SENIOR",
+            "To one his lands withheld, and to the other"
+        ],
+        [
+            "DUKE SENIOR",
+            "A land itself at large, a potent dukedom."
+        ],
+        [
+            "DUKE SENIOR",
+            "First, in this forest, let us do those ends"
+        ],
+        [
+            "DUKE SENIOR",
+            "That here were well begun and well begot:"
+        ],
+        [
+            "DUKE SENIOR",
+            "And after, every of this happy number"
+        ],
+        [
+            "DUKE SENIOR",
+            "That have endured shrewd days and nights with us"
+        ],
+        [
+            "DUKE SENIOR",
+            "Shall share the good of our returned fortune,"
+        ],
+        [
+            "DUKE SENIOR",
+            "According to the measure of their states."
+        ],
+        [
+            "DUKE SENIOR",
+            "Meantime, forget this new-fall'n dignity"
+        ],
+        [
+            "DUKE SENIOR",
+            "And fall into our rustic revelry."
+        ],
+        [
+            "DUKE SENIOR",
+            "Play, music! And you, brides and bridegrooms all,"
+        ],
+        [
+            "DUKE SENIOR",
+            "With measure heap'd in joy, to the measures fall."
+        ],
+        [
+            "JAQUES",
+            "Sir, by your patience. If I heard you rightly,"
+        ],
+        [
+            "JAQUES",
+            "The duke hath put on a religious life"
+        ],
+        [
+            "JAQUES",
+            "And thrown into neglect the pompous court?"
+        ],
+        [
+            "JAQUES DE BOYS",
+            "He hath."
+        ],
+        [
+            "JAQUES",
+            "To him will I : out of these convertites"
+        ],
+        [
+            "JAQUES",
+            "There is much matter to be heard and learn'd.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "JAQUES",
+            "You to your former honour I bequeath;",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "JAQUES",
+            "Your patience and your virtue well deserves it:",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "JAQUES",
+            "You to a love that your true faith doth merit:",
+            {
+                "preceding_direction_line": "9",
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "JAQUES",
+            "You to your land and love and great allies:",
+            {
+                "preceding_direction_line": "10",
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "JAQUES",
+            "You to a long and well-deserved bed:",
+            {
+                "preceding_direction_line": "11",
+                "following_direction_line": "12"
+            }
+        ],
+        [
+            "JAQUES",
+            "And you to wrangling; for thy loving voyage",
+            {
+                "preceding_direction_line": "12"
+            }
+        ],
+        [
+            "JAQUES",
+            "Is but for two months victuall'd. So, to your pleasures:"
+        ],
+        [
+            "JAQUES",
+            "I am for other than for dancing measures."
+        ],
+        [
+            "DUKE SENIOR",
+            "Stay, Jaques, stay."
+        ],
+        [
+            "JAQUES",
+            "To see no pastime I what you would have"
+        ],
+        [
+            "JAQUES",
+            "I'll stay to know at your abandon'd cave.",
+            {
+                "following_direction_line": "13"
+            }
+        ],
+        [
+            "DUKE SENIOR",
+            "Proceed, proceed: we will begin these rites,",
+            {
+                "preceding_direction_line": "13"
+            }
+        ],
+        [
+            "DUKE SENIOR",
+            "As we do trust they'll end, in true delights.",
+            {
+                "following_direction_line": "14"
+            }
+        ],
+        [
+            "DUKE SENIOR",
+            "EPILOGUE",
+            {
+                "preceding_direction_line": "14"
+            }
+        ],
+        [
+            "ROSALIND",
+            "It is not the fashion to see the lady the epilogue;"
+        ],
+        [
+            "ROSALIND",
+            "but it is no more unhandsome than to see the lord"
+        ],
+        [
+            "ROSALIND",
+            "the prologue. If it be true that good wine needs"
+        ],
+        [
+            "ROSALIND",
+            "no bush, 'tis true that a good play needs no"
+        ],
+        [
+            "ROSALIND",
+            "epilogue; yet to good wine they do use good bushes,"
+        ],
+        [
+            "ROSALIND",
+            "and good plays prove the better by the help of good"
+        ],
+        [
+            "ROSALIND",
+            "epilogues. What a case am I in then, that am"
+        ],
+        [
+            "ROSALIND",
+            "neither a good epilogue nor cannot insinuate with"
+        ],
+        [
+            "ROSALIND",
+            "you in the behalf of a good play! I am not"
+        ],
+        [
+            "ROSALIND",
+            "furnished like a beggar, therefore to beg will not"
+        ],
+        [
+            "ROSALIND",
+            "become me: my way is to conjure you; and I'll begin"
+        ],
+        [
+            "ROSALIND",
+            "with the women. I charge you, O women, for the love"
+        ],
+        [
+            "ROSALIND",
+            "you bear to men, to like as much of this play as"
+        ],
+        [
+            "ROSALIND",
+            "please you: and I charge you, O men, for the love"
+        ],
+        [
+            "ROSALIND",
+            "you bear to women--as I perceive by your simpering,"
+        ],
+        [
+            "ROSALIND",
+            "none of you hates them--that between you and the"
+        ],
+        [
+            "ROSALIND",
+            "women the play may please. If I were a woman I"
+        ],
+        [
+            "ROSALIND",
+            "would kiss as many of you as had beards that pleased"
+        ],
+        [
+            "ROSALIND",
+            "me, complexions that liked me and breaths that I"
+        ],
+        [
+            "ROSALIND",
+            "defied not: and, I am sure, as many as have good"
+        ],
+        [
+            "ROSALIND",
+            "beards or good faces or sweet breaths will, for my"
+        ],
+        [
+            "ROSALIND",
+            "kind offer, when I make curtsy, bid me farewell.",
+            {
+                "following_direction_line": "15"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter DUKE SENIOR, AMIENS, JAQUES, ORLANDO, OLIVER, and CELIA"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter ROSALIND, SILVIUS, and PHEBE"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt ROSALIND and CELIA"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter TOUCHSTONE and AUDREY"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Enter HYMEN, ROSALIND, and CELIA. Still Music"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "To ORLANDO"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Enter JAQUES DE BOYS"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "To DUKE SENIOR"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "To ORLANDO"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "To OLIVER"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "To SILVIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "To TOUCHSTONE"
+        ],
+        [
+            "_DIRECTION",
+            "D13",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D14",
+            "A dance"
+        ],
+        [
+            "_DIRECTION",
+            "D15",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "DUKE SENIOR": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "8",
+                "8"
+            ],
+            [
+                "26",
+                "27"
+            ],
+            [
+                "51",
+                "51"
+            ],
+            [
+                "60",
+                "60"
+            ],
+            [
+                "100",
+                "101"
+            ],
+            [
+                "112",
+                "112"
+            ],
+            [
+                "142",
+                "143"
+            ],
+            [
+                "162",
+                "175"
+            ],
+            [
+                "190",
+                "190"
+            ],
+            [
+                "193",
+                "195"
+            ]
+        ],
+        "ORLANDO": [
+            [
+                "3",
+                "4"
+            ],
+            [
+                "10",
+                "10"
+            ],
+            [
+                "28",
+                "34"
+            ],
+            [
+                "113",
+                "113"
+            ]
+        ],
+        "ROSALIND": [
+            [
+                "5",
+                "7"
+            ],
+            [
+                "9",
+                "9"
+            ],
+            [
+                "11",
+                "11"
+            ],
+            [
+                "13",
+                "14"
+            ],
+            [
+                "16",
+                "16"
+            ],
+            [
+                "18",
+                "25"
+            ],
+            [
+                "110",
+                "111"
+            ],
+            [
+                "116",
+                "118"
+            ],
+            [
+                "196",
+                "217"
+            ]
+        ],
+        "PHEBE": [
+            [
+                "12",
+                "12"
+            ],
+            [
+                "15",
+                "15"
+            ],
+            [
+                "114",
+                "115"
+            ],
+            [
+                "144",
+                "145"
+            ]
+        ],
+        "SILVIUS": [
+            [
+                "17",
+                "17"
+            ]
+        ],
+        "JAQUES": [
+            [
+                "35",
+                "37"
+            ],
+            [
+                "39",
+                "41"
+            ],
+            [
+                "47",
+                "47"
+            ],
+            [
+                "50",
+                "50"
+            ],
+            [
+                "62",
+                "63"
+            ],
+            [
+                "79",
+                "79"
+            ],
+            [
+                "83",
+                "83"
+            ],
+            [
+                "98",
+                "99"
+            ],
+            [
+                "176",
+                "178"
+            ],
+            [
+                "180",
+                "189"
+            ],
+            [
+                "191",
+                "192"
+            ]
+        ],
+        "TOUCHSTONE": [
+            [
+                "38",
+                "38"
+            ],
+            [
+                "42",
+                "46"
+            ],
+            [
+                "48",
+                "49"
+            ],
+            [
+                "52",
+                "59"
+            ],
+            [
+                "61",
+                "61"
+            ],
+            [
+                "64",
+                "78"
+            ],
+            [
+                "80",
+                "82"
+            ],
+            [
+                "84",
+                "97"
+            ]
+        ],
+        "HYMEN": [
+            [
+                "102",
+                "109"
+            ],
+            [
+                "119",
+                "141"
+            ]
+        ],
+        "JAQUES DE BOYS": [
+            [
+                "146",
+                "161"
+            ],
+            [
+                "179",
+                "179"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IV",
+    "scene_description": "The forest."
+}

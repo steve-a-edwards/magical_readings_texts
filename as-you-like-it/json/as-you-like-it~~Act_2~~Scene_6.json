@@ -1,0 +1,113 @@
+{
+    "scene_id": "as you like it~~Act_2~~Scene_6",
+    "work_number": "13",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "ADAM",
+            "Dear master, I can go no further. O, I die for food!",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "ADAM",
+            "Here lie I down, and measure out my grave. Farewell,"
+        ],
+        [
+            "ADAM",
+            "kind master."
+        ],
+        [
+            "ORLANDO",
+            "Why, how now, Adam! no greater heart in thee? Live"
+        ],
+        [
+            "ORLANDO",
+            "a little; comfort a little; cheer thyself a little."
+        ],
+        [
+            "ORLANDO",
+            "If this uncouth forest yield any thing savage, I"
+        ],
+        [
+            "ORLANDO",
+            "will either be food for it or bring it for food to"
+        ],
+        [
+            "ORLANDO",
+            "thee. Thy conceit is nearer death than thy powers."
+        ],
+        [
+            "ORLANDO",
+            "For my sake be comfortable; hold death awhile at"
+        ],
+        [
+            "ORLANDO",
+            "the arm's end: I will here be with thee presently;"
+        ],
+        [
+            "ORLANDO",
+            "and if I bring thee not something to eat, I will"
+        ],
+        [
+            "ORLANDO",
+            "give thee leave to die: but if thou diest before I"
+        ],
+        [
+            "ORLANDO",
+            "come, thou art a mocker of my labour. Well said!"
+        ],
+        [
+            "ORLANDO",
+            "thou lookest cheerly, and I'll be with thee quickly."
+        ],
+        [
+            "ORLANDO",
+            "Yet thou liest in the bleak air: come, I will bear"
+        ],
+        [
+            "ORLANDO",
+            "thee to some shelter; and thou shalt not die for"
+        ],
+        [
+            "ORLANDO",
+            "lack of a dinner, if there live any thing in this"
+        ],
+        [
+            "ORLANDO",
+            "desert. Cheerly, good Adam!",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter ORLANDO and ADAM"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "ADAM": [
+            [
+                "1",
+                "3"
+            ]
+        ],
+        "ORLANDO": [
+            [
+                "4",
+                "18"
+            ]
+        ]
+    },
+    "scene_name": "SCENE VI",
+    "scene_description": "The forest."
+}

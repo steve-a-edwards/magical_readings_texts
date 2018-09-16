@@ -1,0 +1,725 @@
+{
+    "scene_id": "as you like it~~Act_3~~Scene_5",
+    "work_number": "13",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "SILVIUS",
+            "Sweet Phebe, do not scorn me; do not, Phebe;",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "SILVIUS",
+            "Say that you love me not, but say not so"
+        ],
+        [
+            "SILVIUS",
+            "In bitterness. The common executioner,"
+        ],
+        [
+            "SILVIUS",
+            "Whose heart the accustom'd sight of death makes hard,"
+        ],
+        [
+            "SILVIUS",
+            "Falls not the axe upon the humbled neck"
+        ],
+        [
+            "SILVIUS",
+            "But first begs pardon: will you sterner be"
+        ],
+        [
+            "SILVIUS",
+            "Than he that dies and lives by bloody drops?",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "PHEBE",
+            "I would not be thy executioner:",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "PHEBE",
+            "I fly thee, for I would not injure thee."
+        ],
+        [
+            "PHEBE",
+            "Thou tell'st me there is murder in mine eye:"
+        ],
+        [
+            "PHEBE",
+            "'Tis pretty, sure, and very probable,"
+        ],
+        [
+            "PHEBE",
+            "That eyes, that are the frail'st and softest things,"
+        ],
+        [
+            "PHEBE",
+            "Who shut their coward gates on atomies,"
+        ],
+        [
+            "PHEBE",
+            "Should be call'd tyrants, butchers, murderers!"
+        ],
+        [
+            "PHEBE",
+            "Now I do frown on thee with all my heart;"
+        ],
+        [
+            "PHEBE",
+            "And if mine eyes can wound, now let them kill thee:"
+        ],
+        [
+            "PHEBE",
+            "Now counterfeit to swoon; why now fall down;"
+        ],
+        [
+            "PHEBE",
+            "Or if thou canst not, O, for shame, for shame,"
+        ],
+        [
+            "PHEBE",
+            "Lie not, to say mine eyes are murderers!"
+        ],
+        [
+            "PHEBE",
+            "Now show the wound mine eye hath made in thee:"
+        ],
+        [
+            "PHEBE",
+            "Scratch thee but with a pin, and there remains"
+        ],
+        [
+            "PHEBE",
+            "Some scar of it; lean but upon a rush,"
+        ],
+        [
+            "PHEBE",
+            "The cicatrice and capable impressure"
+        ],
+        [
+            "PHEBE",
+            "Thy palm some moment keeps; but now mine eyes,"
+        ],
+        [
+            "PHEBE",
+            "Which I have darted at thee, hurt thee not,"
+        ],
+        [
+            "PHEBE",
+            "Nor, I am sure, there is no force in eyes"
+        ],
+        [
+            "PHEBE",
+            "That can do hurt."
+        ],
+        [
+            "SILVIUS",
+            "O dear Phebe,"
+        ],
+        [
+            "SILVIUS",
+            "If ever,--as that ever may be near,--"
+        ],
+        [
+            "SILVIUS",
+            "You meet in some fresh cheek the power of fancy,"
+        ],
+        [
+            "SILVIUS",
+            "Then shall you know the wounds invisible"
+        ],
+        [
+            "SILVIUS",
+            "That love's keen arrows make."
+        ],
+        [
+            "PHEBE",
+            "But till that time"
+        ],
+        [
+            "PHEBE",
+            "Come not thou near me: and when that time comes,"
+        ],
+        [
+            "PHEBE",
+            "Afflict me with thy mocks, pity me not;"
+        ],
+        [
+            "PHEBE",
+            "As till that time I shall not pity thee."
+        ],
+        [
+            "ROSALIND",
+            "And why, I pray you? Who might be your mother,"
+        ],
+        [
+            "ROSALIND",
+            "That you insult, exult, and all at once,"
+        ],
+        [
+            "ROSALIND",
+            "Over the wretched? What though you have no beauty,--"
+        ],
+        [
+            "ROSALIND",
+            "As, by my faith, I see no more in you"
+        ],
+        [
+            "ROSALIND",
+            "Than without candle may go dark to bed--"
+        ],
+        [
+            "ROSALIND",
+            "Must you be therefore proud and pitiless?"
+        ],
+        [
+            "ROSALIND",
+            "Why, what means this? Why do you look on me?"
+        ],
+        [
+            "ROSALIND",
+            "I see no more in you than in the ordinary"
+        ],
+        [
+            "ROSALIND",
+            "Of nature's sale-work. 'Od's my little life,"
+        ],
+        [
+            "ROSALIND",
+            "I think she means to tangle my eyes too!"
+        ],
+        [
+            "ROSALIND",
+            "No, faith, proud mistress, hope not after it:"
+        ],
+        [
+            "ROSALIND",
+            "'Tis not your inky brows, your black silk hair,"
+        ],
+        [
+            "ROSALIND",
+            "Your bugle eyeballs, nor your cheek of cream,"
+        ],
+        [
+            "ROSALIND",
+            "That can entame my spirits to your worship."
+        ],
+        [
+            "ROSALIND",
+            "You foolish shepherd, wherefore do you follow her,"
+        ],
+        [
+            "ROSALIND",
+            "Like foggy south puffing with wind and rain?"
+        ],
+        [
+            "ROSALIND",
+            "You are a thousand times a properer man"
+        ],
+        [
+            "ROSALIND",
+            "Than she a woman: 'tis such fools as you"
+        ],
+        [
+            "ROSALIND",
+            "That makes the world full of ill-favour'd children:"
+        ],
+        [
+            "ROSALIND",
+            "'Tis not her glass, but you, that flatters her;"
+        ],
+        [
+            "ROSALIND",
+            "And out of you she sees herself more proper"
+        ],
+        [
+            "ROSALIND",
+            "Than any of her lineaments can show her."
+        ],
+        [
+            "ROSALIND",
+            "But, mistress, know yourself: down on your knees,"
+        ],
+        [
+            "ROSALIND",
+            "And thank heaven, fasting, for a good man's love:"
+        ],
+        [
+            "ROSALIND",
+            "For I must tell you friendly in your ear,"
+        ],
+        [
+            "ROSALIND",
+            "Sell when you can: you are not for all markets:"
+        ],
+        [
+            "ROSALIND",
+            "Cry the man mercy; love him; take his offer:"
+        ],
+        [
+            "ROSALIND",
+            "Foul is most foul, being foul to be a scoffer."
+        ],
+        [
+            "ROSALIND",
+            "So take her to thee, shepherd: fare you well."
+        ],
+        [
+            "PHEBE",
+            "Sweet youth, I pray you, chide a year together:"
+        ],
+        [
+            "PHEBE",
+            "I had rather hear you chide than this man woo."
+        ],
+        [
+            "ROSALIND",
+            "He's fallen in love with your foulness and she'll"
+        ],
+        [
+            "ROSALIND",
+            "fall in love with my anger. If it be so, as fast as"
+        ],
+        [
+            "ROSALIND",
+            "she answers thee with frowning looks, I'll sauce her"
+        ],
+        [
+            "ROSALIND",
+            "with bitter words. Why look you so upon me?"
+        ],
+        [
+            "PHEBE",
+            "For no ill will I bear you."
+        ],
+        [
+            "ROSALIND",
+            "I pray you, do not fall in love with me,"
+        ],
+        [
+            "ROSALIND",
+            "For I am falser than vows made in wine:"
+        ],
+        [
+            "ROSALIND",
+            "Besides, I like you not. If you will know my house,"
+        ],
+        [
+            "ROSALIND",
+            "'Tis at the tuft of olives here hard by."
+        ],
+        [
+            "ROSALIND",
+            "Will you go, sister? Shepherd, ply her hard."
+        ],
+        [
+            "ROSALIND",
+            "Come, sister. Shepherdess, look on him better,"
+        ],
+        [
+            "ROSALIND",
+            "And be not proud: though all the world could see,"
+        ],
+        [
+            "ROSALIND",
+            "None could be so abused in sight as he."
+        ],
+        [
+            "ROSALIND",
+            "Come, to our flock.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "PHEBE",
+            "Dead Shepherd, now I find thy saw of might,",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "PHEBE",
+            "'Who ever loved that loved not at first sight?'"
+        ],
+        [
+            "SILVIUS",
+            "Sweet Phebe,--"
+        ],
+        [
+            "PHEBE",
+            "Ha, what say'st thou, Silvius?"
+        ],
+        [
+            "SILVIUS",
+            "Sweet Phebe, pity me."
+        ],
+        [
+            "PHEBE",
+            "Why, I am sorry for thee, gentle Silvius."
+        ],
+        [
+            "SILVIUS",
+            "Wherever sorrow is, relief would be:"
+        ],
+        [
+            "SILVIUS",
+            "If you do sorrow at my grief in love,"
+        ],
+        [
+            "SILVIUS",
+            "By giving love your sorrow and my grief"
+        ],
+        [
+            "SILVIUS",
+            "Were both extermined."
+        ],
+        [
+            "PHEBE",
+            "Thou hast my love: is not that neighbourly?"
+        ],
+        [
+            "SILVIUS",
+            "I would have you."
+        ],
+        [
+            "PHEBE",
+            "Why, that were covetousness."
+        ],
+        [
+            "PHEBE",
+            "Silvius, the time was that I hated thee,"
+        ],
+        [
+            "PHEBE",
+            "And yet it is not that I bear thee love;"
+        ],
+        [
+            "PHEBE",
+            "But since that thou canst talk of love so well,"
+        ],
+        [
+            "PHEBE",
+            "Thy company, which erst was irksome to me,"
+        ],
+        [
+            "PHEBE",
+            "I will endure, and I'll employ thee too:"
+        ],
+        [
+            "PHEBE",
+            "But do not look for further recompense"
+        ],
+        [
+            "PHEBE",
+            "Than thine own gladness that thou art employ'd."
+        ],
+        [
+            "SILVIUS",
+            "So holy and so perfect is my love,"
+        ],
+        [
+            "SILVIUS",
+            "And I in such a poverty of grace,"
+        ],
+        [
+            "SILVIUS",
+            "That I shall think it a most plenteous crop"
+        ],
+        [
+            "SILVIUS",
+            "To glean the broken ears after the man"
+        ],
+        [
+            "SILVIUS",
+            "That the main harvest reaps: loose now and then"
+        ],
+        [
+            "SILVIUS",
+            "A scatter'd smile, and that I'll live upon."
+        ],
+        [
+            "PHEBE",
+            "Know'st now the youth that spoke to me erewhile?"
+        ],
+        [
+            "SILVIUS",
+            "Not very well, but I have met him oft;"
+        ],
+        [
+            "SILVIUS",
+            "And he hath bought the cottage and the bounds"
+        ],
+        [
+            "SILVIUS",
+            "That the old carlot once was master of."
+        ],
+        [
+            "PHEBE",
+            "Think not I love him, though I ask for him:"
+        ],
+        [
+            "PHEBE",
+            "'Tis but a peevish boy; yet he talks well;"
+        ],
+        [
+            "PHEBE",
+            "But what care I for words? yet words do well"
+        ],
+        [
+            "PHEBE",
+            "When he that speaks them pleases those that hear."
+        ],
+        [
+            "PHEBE",
+            "It is a pretty youth: not very pretty:"
+        ],
+        [
+            "PHEBE",
+            "But, sure, he's proud, and yet his pride becomes him:"
+        ],
+        [
+            "PHEBE",
+            "He'll make a proper man: the best thing in him"
+        ],
+        [
+            "PHEBE",
+            "Is his complexion; and faster than his tongue"
+        ],
+        [
+            "PHEBE",
+            "Did make offence his eye did heal it up."
+        ],
+        [
+            "PHEBE",
+            "He is not very tall; yet for his years he's tall:"
+        ],
+        [
+            "PHEBE",
+            "His leg is but so so; and yet 'tis well:"
+        ],
+        [
+            "PHEBE",
+            "There was a pretty redness in his lip,"
+        ],
+        [
+            "PHEBE",
+            "A little riper and more lusty red"
+        ],
+        [
+            "PHEBE",
+            "Than that mix'd in his cheek; 'twas just the difference"
+        ],
+        [
+            "PHEBE",
+            "Between the constant red and mingled damask."
+        ],
+        [
+            "PHEBE",
+            "There be some women, Silvius, had they mark'd him"
+        ],
+        [
+            "PHEBE",
+            "In parcels as I did, would have gone near"
+        ],
+        [
+            "PHEBE",
+            "To fall in love with him; but, for my part,"
+        ],
+        [
+            "PHEBE",
+            "I love him not nor hate him not; and yet"
+        ],
+        [
+            "PHEBE",
+            "I have more cause to hate him than to love him:"
+        ],
+        [
+            "PHEBE",
+            "For what had he to do to chide at me?"
+        ],
+        [
+            "PHEBE",
+            "He said mine eyes were black and my hair black:"
+        ],
+        [
+            "PHEBE",
+            "And, now I am remember'd, scorn'd at me:"
+        ],
+        [
+            "PHEBE",
+            "I marvel why I answer'd not again:"
+        ],
+        [
+            "PHEBE",
+            "But that's all one; omittance is no quittance."
+        ],
+        [
+            "PHEBE",
+            "I'll write to him a very taunting letter,"
+        ],
+        [
+            "PHEBE",
+            "And thou shalt bear it: wilt thou, Silvius?"
+        ],
+        [
+            "SILVIUS",
+            "Phebe, with all my heart."
+        ],
+        [
+            "PHEBE",
+            "I'll write it straight;"
+        ],
+        [
+            "PHEBE",
+            "The matter's in my head and in my heart:"
+        ],
+        [
+            "PHEBE",
+            "I will be bitter with him and passing short."
+        ],
+        [
+            "PHEBE",
+            "Go with me, Silvius.",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter SILVIUS and PHEBE"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter ROSALIND, CELIA, and CORIN, behind"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt ROSALIND, CELIA and CORIN"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "SILVIUS": [
+            [
+                "1",
+                "7"
+            ],
+            [
+                "28",
+                "32"
+            ],
+            [
+                "84",
+                "84"
+            ],
+            [
+                "86",
+                "86"
+            ],
+            [
+                "88",
+                "91"
+            ],
+            [
+                "93",
+                "93"
+            ],
+            [
+                "102",
+                "107"
+            ],
+            [
+                "109",
+                "111"
+            ],
+            [
+                "139",
+                "139"
+            ]
+        ],
+        "PHEBE": [
+            [
+                "8",
+                "27"
+            ],
+            [
+                "33",
+                "36"
+            ],
+            [
+                "66",
+                "67"
+            ],
+            [
+                "72",
+                "72"
+            ],
+            [
+                "82",
+                "83"
+            ],
+            [
+                "85",
+                "85"
+            ],
+            [
+                "87",
+                "87"
+            ],
+            [
+                "92",
+                "92"
+            ],
+            [
+                "94",
+                "101"
+            ],
+            [
+                "108",
+                "108"
+            ],
+            [
+                "112",
+                "138"
+            ],
+            [
+                "140",
+                "143"
+            ]
+        ],
+        "ROSALIND": [
+            [
+                "37",
+                "65"
+            ],
+            [
+                "68",
+                "71"
+            ],
+            [
+                "73",
+                "81"
+            ]
+        ]
+    },
+    "scene_name": "SCENE V",
+    "scene_description": "Another part of the forest."
+}

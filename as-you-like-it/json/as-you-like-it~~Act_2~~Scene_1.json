@@ -1,0 +1,369 @@
+{
+    "scene_id": "as you like it~~Act_2~~Scene_1",
+    "work_number": "13",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "DUKE SENIOR",
+            "Now, my co-mates and brothers in exile,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "DUKE SENIOR",
+            "Hath not old custom made this life more sweet"
+        ],
+        [
+            "DUKE SENIOR",
+            "Than that of painted pomp? Are not these woods"
+        ],
+        [
+            "DUKE SENIOR",
+            "More free from peril than the envious court?"
+        ],
+        [
+            "DUKE SENIOR",
+            "Here feel we but the penalty of Adam,"
+        ],
+        [
+            "DUKE SENIOR",
+            "The seasons' difference, as the icy fang"
+        ],
+        [
+            "DUKE SENIOR",
+            "And churlish chiding of the winter's wind,"
+        ],
+        [
+            "DUKE SENIOR",
+            "Which, when it bites and blows upon my body,"
+        ],
+        [
+            "DUKE SENIOR",
+            "Even till I shrink with cold, I smile and say"
+        ],
+        [
+            "DUKE SENIOR",
+            "'This is no flattery: these are counsellors"
+        ],
+        [
+            "DUKE SENIOR",
+            "That feelingly persuade me what I am.'"
+        ],
+        [
+            "DUKE SENIOR",
+            "Sweet are the uses of adversity,"
+        ],
+        [
+            "DUKE SENIOR",
+            "Which, like the toad, ugly and venomous,"
+        ],
+        [
+            "DUKE SENIOR",
+            "Wears yet a precious jewel in his head;"
+        ],
+        [
+            "DUKE SENIOR",
+            "And this our life exempt from public haunt"
+        ],
+        [
+            "DUKE SENIOR",
+            "Finds tongues in trees, books in the running brooks,"
+        ],
+        [
+            "DUKE SENIOR",
+            "Sermons in stones and good in every thing."
+        ],
+        [
+            "DUKE SENIOR",
+            "I would not change it."
+        ],
+        [
+            "AMIENS",
+            "Happy is your grace,"
+        ],
+        [
+            "AMIENS",
+            "That can translate the stubbornness of fortune"
+        ],
+        [
+            "AMIENS",
+            "Into so quiet and so sweet a style."
+        ],
+        [
+            "DUKE SENIOR",
+            "Come, shall we go and kill us venison?"
+        ],
+        [
+            "DUKE SENIOR",
+            "And yet it irks me the poor dappled fools,"
+        ],
+        [
+            "DUKE SENIOR",
+            "Being native burghers of this desert city,"
+        ],
+        [
+            "DUKE SENIOR",
+            "Should in their own confines with forked heads"
+        ],
+        [
+            "DUKE SENIOR",
+            "Have their round haunches gored."
+        ],
+        [
+            "First Lord",
+            "Indeed, my lord,"
+        ],
+        [
+            "First Lord",
+            "The melancholy Jaques grieves at that,"
+        ],
+        [
+            "First Lord",
+            "And, in that kind, swears you do more usurp"
+        ],
+        [
+            "First Lord",
+            "Than doth your brother that hath banish'd you."
+        ],
+        [
+            "First Lord",
+            "To-day my Lord of Amiens and myself"
+        ],
+        [
+            "First Lord",
+            "Did steal behind him as he lay along"
+        ],
+        [
+            "First Lord",
+            "Under an oak whose antique root peeps out"
+        ],
+        [
+            "First Lord",
+            "Upon the brook that brawls along this wood:"
+        ],
+        [
+            "First Lord",
+            "To the which place a poor sequester'd stag,"
+        ],
+        [
+            "First Lord",
+            "That from the hunter's aim had ta'en a hurt,"
+        ],
+        [
+            "First Lord",
+            "Did come to languish, and indeed, my lord,"
+        ],
+        [
+            "First Lord",
+            "The wretched animal heaved forth such groans"
+        ],
+        [
+            "First Lord",
+            "That their discharge did stretch his leathern coat"
+        ],
+        [
+            "First Lord",
+            "Almost to bursting, and the big round tears"
+        ],
+        [
+            "First Lord",
+            "Coursed one another down his innocent nose"
+        ],
+        [
+            "First Lord",
+            "In piteous chase; and thus the hairy fool"
+        ],
+        [
+            "First Lord",
+            "Much marked of the melancholy Jaques,"
+        ],
+        [
+            "First Lord",
+            "Stood on the extremest verge of the swift brook,"
+        ],
+        [
+            "First Lord",
+            "Augmenting it with tears."
+        ],
+        [
+            "DUKE SENIOR",
+            "But what said Jaques?"
+        ],
+        [
+            "DUKE SENIOR",
+            "Did he not moralize this spectacle?"
+        ],
+        [
+            "First Lord",
+            "O, yes, into a thousand similes."
+        ],
+        [
+            "First Lord",
+            "First, for his weeping into the needless stream;"
+        ],
+        [
+            "First Lord",
+            "'Poor deer,' quoth he, 'thou makest a testament"
+        ],
+        [
+            "First Lord",
+            "As worldlings do, giving thy sum of more"
+        ],
+        [
+            "First Lord",
+            "To that which had too much:' then, being there alone,"
+        ],
+        [
+            "First Lord",
+            "Left and abandon'd of his velvet friends,"
+        ],
+        [
+            "First Lord",
+            "''Tis right:' quoth he; 'thus misery doth part"
+        ],
+        [
+            "First Lord",
+            "The flux of company:' anon a careless herd,"
+        ],
+        [
+            "First Lord",
+            "Full of the pasture, jumps along by him"
+        ],
+        [
+            "First Lord",
+            "And never stays to greet him; 'Ay' quoth Jaques,"
+        ],
+        [
+            "First Lord",
+            "'Sweep on, you fat and greasy citizens;"
+        ],
+        [
+            "First Lord",
+            "'Tis just the fashion: wherefore do you look"
+        ],
+        [
+            "First Lord",
+            "Upon that poor and broken bankrupt there?'"
+        ],
+        [
+            "First Lord",
+            "Thus most invectively he pierceth through"
+        ],
+        [
+            "First Lord",
+            "The body of the country, city, court,"
+        ],
+        [
+            "First Lord",
+            "Yea, and of this our life, swearing that we"
+        ],
+        [
+            "First Lord",
+            "Are mere usurpers, tyrants and what's worse,"
+        ],
+        [
+            "First Lord",
+            "To fright the animals and to kill them up"
+        ],
+        [
+            "First Lord",
+            "In their assign'd and native dwelling-place."
+        ],
+        [
+            "DUKE SENIOR",
+            "And did you leave him in this contemplation?"
+        ],
+        [
+            "Second Lord",
+            "We did, my lord, weeping and commenting"
+        ],
+        [
+            "Second Lord",
+            "Upon the sobbing deer."
+        ],
+        [
+            "DUKE SENIOR",
+            "Show me the place:"
+        ],
+        [
+            "DUKE SENIOR",
+            "I love to cope him in these sullen fits,"
+        ],
+        [
+            "DUKE SENIOR",
+            "For then he's full of matter."
+        ],
+        [
+            "First Lord",
+            "I'll bring you to him straight.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter DUKE SENIOR, AMIENS, and two or three Lords, like foresters"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "DUKE SENIOR": [
+            [
+                "1",
+                "18"
+            ],
+            [
+                "22",
+                "26"
+            ],
+            [
+                "46",
+                "47"
+            ],
+            [
+                "67",
+                "67"
+            ],
+            [
+                "70",
+                "72"
+            ]
+        ],
+        "AMIENS": [
+            [
+                "19",
+                "21"
+            ]
+        ],
+        "First Lord": [
+            [
+                "27",
+                "45"
+            ],
+            [
+                "48",
+                "66"
+            ],
+            [
+                "73",
+                "73"
+            ]
+        ],
+        "Second Lord": [
+            [
+                "68",
+                "69"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "The Forest of Arden."
+}

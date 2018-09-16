@@ -1,0 +1,1053 @@
+{
+    "scene_id": "as you like it~~Act_2~~Scene_7",
+    "work_number": "13",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "DUKE SENIOR",
+            "I think he be transform'd into a beast;",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "DUKE SENIOR",
+            "For I can no where find him like a man."
+        ],
+        [
+            "First Lord",
+            "My lord, he is but even now gone hence:"
+        ],
+        [
+            "First Lord",
+            "Here was he merry, hearing of a song."
+        ],
+        [
+            "DUKE SENIOR",
+            "If he, compact of jars, grow musical,"
+        ],
+        [
+            "DUKE SENIOR",
+            "We shall have shortly discord in the spheres."
+        ],
+        [
+            "DUKE SENIOR",
+            "Go, seek him: tell him I would speak with him.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "First Lord",
+            "He saves my labour by his own approach.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "DUKE SENIOR",
+            "Why, how now, monsieur! what a life is this,"
+        ],
+        [
+            "DUKE SENIOR",
+            "That your poor friends must woo your company?"
+        ],
+        [
+            "DUKE SENIOR",
+            "What, you look merrily!"
+        ],
+        [
+            "JAQUES",
+            "A fool, a fool! I met a fool i' the forest,"
+        ],
+        [
+            "JAQUES",
+            "A motley fool; a miserable world!"
+        ],
+        [
+            "JAQUES",
+            "As I do live by food, I met a fool"
+        ],
+        [
+            "JAQUES",
+            "Who laid him down and bask'd him in the sun,"
+        ],
+        [
+            "JAQUES",
+            "And rail'd on Lady Fortune in good terms,"
+        ],
+        [
+            "JAQUES",
+            "In good set terms and yet a motley fool."
+        ],
+        [
+            "JAQUES",
+            "'Good morrow, fool,' quoth I. 'No, sir,' quoth he,"
+        ],
+        [
+            "JAQUES",
+            "'Call me not fool till heaven hath sent me fortune:'"
+        ],
+        [
+            "JAQUES",
+            "And then he drew a dial from his poke,"
+        ],
+        [
+            "JAQUES",
+            "And, looking on it with lack-lustre eye,"
+        ],
+        [
+            "JAQUES",
+            "Says very wisely, 'It is ten o'clock:"
+        ],
+        [
+            "JAQUES",
+            "Thus we may see,' quoth he, 'how the world wags:"
+        ],
+        [
+            "JAQUES",
+            "'Tis but an hour ago since it was nine,"
+        ],
+        [
+            "JAQUES",
+            "And after one hour more 'twill be eleven;"
+        ],
+        [
+            "JAQUES",
+            "And so, from hour to hour, we ripe and ripe,"
+        ],
+        [
+            "JAQUES",
+            "And then, from hour to hour, we rot and rot;"
+        ],
+        [
+            "JAQUES",
+            "And thereby hangs a tale.' When I did hear"
+        ],
+        [
+            "JAQUES",
+            "The motley fool thus moral on the time,"
+        ],
+        [
+            "JAQUES",
+            "My lungs began to crow like chanticleer,"
+        ],
+        [
+            "JAQUES",
+            "That fools should be so deep-contemplative,"
+        ],
+        [
+            "JAQUES",
+            "And I did laugh sans intermission"
+        ],
+        [
+            "JAQUES",
+            "An hour by his dial. O noble fool!"
+        ],
+        [
+            "JAQUES",
+            "A worthy fool! Motley's the only wear."
+        ],
+        [
+            "DUKE SENIOR",
+            "What fool is this?"
+        ],
+        [
+            "JAQUES",
+            "O worthy fool! One that hath been a courtier,"
+        ],
+        [
+            "JAQUES",
+            "And says, if ladies be but young and fair,"
+        ],
+        [
+            "JAQUES",
+            "They have the gift to know it: and in his brain,"
+        ],
+        [
+            "JAQUES",
+            "Which is as dry as the remainder biscuit"
+        ],
+        [
+            "JAQUES",
+            "After a voyage, he hath strange places cramm'd"
+        ],
+        [
+            "JAQUES",
+            "With observation, the which he vents"
+        ],
+        [
+            "JAQUES",
+            "In mangled forms. O that I were a fool!"
+        ],
+        [
+            "JAQUES",
+            "I am ambitious for a motley coat."
+        ],
+        [
+            "DUKE SENIOR",
+            "Thou shalt have one."
+        ],
+        [
+            "JAQUES",
+            "It is my only suit;"
+        ],
+        [
+            "JAQUES",
+            "Provided that you weed your better judgments"
+        ],
+        [
+            "JAQUES",
+            "Of all opinion that grows rank in them"
+        ],
+        [
+            "JAQUES",
+            "That I am wise. I must have liberty"
+        ],
+        [
+            "JAQUES",
+            "Withal, as large a charter as the wind,"
+        ],
+        [
+            "JAQUES",
+            "To blow on whom I please; for so fools have;"
+        ],
+        [
+            "JAQUES",
+            "And they that are most galled with my folly,"
+        ],
+        [
+            "JAQUES",
+            "They most must laugh. And why, sir, must they so?"
+        ],
+        [
+            "JAQUES",
+            "The 'why' is plain as way to parish church:"
+        ],
+        [
+            "JAQUES",
+            "He that a fool doth very wisely hit"
+        ],
+        [
+            "JAQUES",
+            "Doth very foolishly, although he smart,"
+        ],
+        [
+            "JAQUES",
+            "Not to seem senseless of the bob: if not,"
+        ],
+        [
+            "JAQUES",
+            "The wise man's folly is anatomized"
+        ],
+        [
+            "JAQUES",
+            "Even by the squandering glances of the fool."
+        ],
+        [
+            "JAQUES",
+            "Invest me in my motley; give me leave"
+        ],
+        [
+            "JAQUES",
+            "To speak my mind, and I will through and through"
+        ],
+        [
+            "JAQUES",
+            "Cleanse the foul body of the infected world,"
+        ],
+        [
+            "JAQUES",
+            "If they will patiently receive my medicine."
+        ],
+        [
+            "DUKE SENIOR",
+            "Fie on thee! I can tell what thou wouldst do."
+        ],
+        [
+            "JAQUES",
+            "What, for a counter, would I do but good?"
+        ],
+        [
+            "DUKE SENIOR",
+            "Most mischievous foul sin, in chiding sin:"
+        ],
+        [
+            "DUKE SENIOR",
+            "For thou thyself hast been a libertine,"
+        ],
+        [
+            "DUKE SENIOR",
+            "As sensual as the brutish sting itself;"
+        ],
+        [
+            "DUKE SENIOR",
+            "And all the embossed sores and headed evils,"
+        ],
+        [
+            "DUKE SENIOR",
+            "That thou with licence of free foot hast caught,"
+        ],
+        [
+            "DUKE SENIOR",
+            "Wouldst thou disgorge into the general world."
+        ],
+        [
+            "JAQUES",
+            "Why, who cries out on pride,"
+        ],
+        [
+            "JAQUES",
+            "That can therein tax any private party?"
+        ],
+        [
+            "JAQUES",
+            "Doth it not flow as hugely as the sea,"
+        ],
+        [
+            "JAQUES",
+            "Till that the weary very means do ebb?"
+        ],
+        [
+            "JAQUES",
+            "What woman in the city do I name,"
+        ],
+        [
+            "JAQUES",
+            "When that I say the city-woman bears"
+        ],
+        [
+            "JAQUES",
+            "The cost of princes on unworthy shoulders?"
+        ],
+        [
+            "JAQUES",
+            "Who can come in and say that I mean her,"
+        ],
+        [
+            "JAQUES",
+            "When such a one as she such is her neighbour?"
+        ],
+        [
+            "JAQUES",
+            "Or what is he of basest function"
+        ],
+        [
+            "JAQUES",
+            "That says his bravery is not of my cost,"
+        ],
+        [
+            "JAQUES",
+            "Thinking that I mean him, but therein suits"
+        ],
+        [
+            "JAQUES",
+            "His folly to the mettle of my speech?"
+        ],
+        [
+            "JAQUES",
+            "There then; how then? what then? Let me see wherein"
+        ],
+        [
+            "JAQUES",
+            "My tongue hath wrong'd him: if it do him right,"
+        ],
+        [
+            "JAQUES",
+            "Then he hath wrong'd himself; if he be free,"
+        ],
+        [
+            "JAQUES",
+            "Why then my taxing like a wild-goose flies,"
+        ],
+        [
+            "JAQUES",
+            "Unclaim'd of any man. But who comes here?",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "ORLANDO",
+            "Forbear, and eat no more.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "JAQUES",
+            "Why, I have eat none yet."
+        ],
+        [
+            "ORLANDO",
+            "Nor shalt not, till necessity be served."
+        ],
+        [
+            "JAQUES",
+            "Of what kind should this cock come of?"
+        ],
+        [
+            "DUKE SENIOR",
+            "Art thou thus bolden'd, man, by thy distress,"
+        ],
+        [
+            "DUKE SENIOR",
+            "Or else a rude despiser of good manners,"
+        ],
+        [
+            "DUKE SENIOR",
+            "That in civility thou seem'st so empty?"
+        ],
+        [
+            "ORLANDO",
+            "You touch'd my vein at first: the thorny point"
+        ],
+        [
+            "ORLANDO",
+            "Of bare distress hath ta'en from me the show"
+        ],
+        [
+            "ORLANDO",
+            "Of smooth civility: yet am I inland bred"
+        ],
+        [
+            "ORLANDO",
+            "And know some nurture. But forbear, I say:"
+        ],
+        [
+            "ORLANDO",
+            "He dies that touches any of this fruit"
+        ],
+        [
+            "ORLANDO",
+            "Till I and my affairs are answered."
+        ],
+        [
+            "JAQUES",
+            "An you will not be answered with reason, I must die."
+        ],
+        [
+            "DUKE SENIOR",
+            "What would you have? Your gentleness shall force"
+        ],
+        [
+            "DUKE SENIOR",
+            "More than your force move us to gentleness."
+        ],
+        [
+            "ORLANDO",
+            "I almost die for food; and let me have it."
+        ],
+        [
+            "DUKE SENIOR",
+            "Sit down and feed, and welcome to our table."
+        ],
+        [
+            "ORLANDO",
+            "Speak you so gently? Pardon me, I pray you:"
+        ],
+        [
+            "ORLANDO",
+            "I thought that all things had been savage here;"
+        ],
+        [
+            "ORLANDO",
+            "And therefore put I on the countenance"
+        ],
+        [
+            "ORLANDO",
+            "Of stern commandment. But whate'er you are"
+        ],
+        [
+            "ORLANDO",
+            "That in this desert inaccessible,"
+        ],
+        [
+            "ORLANDO",
+            "Under the shade of melancholy boughs,"
+        ],
+        [
+            "ORLANDO",
+            "Lose and neglect the creeping hours of time"
+        ],
+        [
+            "ORLANDO",
+            "If ever you have look'd on better days,"
+        ],
+        [
+            "ORLANDO",
+            "If ever been where bells have knoll'd to church,"
+        ],
+        [
+            "ORLANDO",
+            "If ever sat at any good man's feast,"
+        ],
+        [
+            "ORLANDO",
+            "If ever from your eyelids wiped a tear"
+        ],
+        [
+            "ORLANDO",
+            "And know what 'tis to pity and be pitied,"
+        ],
+        [
+            "ORLANDO",
+            "Let gentleness my strong enforcement be:"
+        ],
+        [
+            "ORLANDO",
+            "In the which hope I blush, and hide my sword."
+        ],
+        [
+            "DUKE SENIOR",
+            "True is it that we have seen better days,"
+        ],
+        [
+            "DUKE SENIOR",
+            "And have with holy bell been knoll'd to church"
+        ],
+        [
+            "DUKE SENIOR",
+            "And sat at good men's feasts and wiped our eyes"
+        ],
+        [
+            "DUKE SENIOR",
+            "Of drops that sacred pity hath engender'd:"
+        ],
+        [
+            "DUKE SENIOR",
+            "And therefore sit you down in gentleness"
+        ],
+        [
+            "DUKE SENIOR",
+            "And take upon command what help we have"
+        ],
+        [
+            "DUKE SENIOR",
+            "That to your wanting may be minister'd."
+        ],
+        [
+            "ORLANDO",
+            "Then but forbear your food a little while,"
+        ],
+        [
+            "ORLANDO",
+            "Whiles, like a doe, I go to find my fawn"
+        ],
+        [
+            "ORLANDO",
+            "And give it food. There is an old poor man,"
+        ],
+        [
+            "ORLANDO",
+            "Who after me hath many a weary step"
+        ],
+        [
+            "ORLANDO",
+            "Limp'd in pure love: till he be first sufficed,"
+        ],
+        [
+            "ORLANDO",
+            "Oppress'd with two weak evils, age and hunger,"
+        ],
+        [
+            "ORLANDO",
+            "I will not touch a bit."
+        ],
+        [
+            "DUKE SENIOR",
+            "Go find him out,"
+        ],
+        [
+            "DUKE SENIOR",
+            "And we will nothing waste till you return."
+        ],
+        [
+            "ORLANDO",
+            "I thank ye; and be blest for your good comfort!",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "DUKE SENIOR",
+            "Thou seest we are not all alone unhappy:",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "DUKE SENIOR",
+            "This wide and universal theatre"
+        ],
+        [
+            "DUKE SENIOR",
+            "Presents more woeful pageants than the scene"
+        ],
+        [
+            "DUKE SENIOR",
+            "Wherein we play in."
+        ],
+        [
+            "JAQUES",
+            "All the world's a stage,"
+        ],
+        [
+            "JAQUES",
+            "And all the men and women merely players:"
+        ],
+        [
+            "JAQUES",
+            "They have their exits and their entrances;"
+        ],
+        [
+            "JAQUES",
+            "And one man in his time plays many parts,"
+        ],
+        [
+            "JAQUES",
+            "His acts being seven ages. At first the infant,"
+        ],
+        [
+            "JAQUES",
+            "Mewling and puking in the nurse's arms."
+        ],
+        [
+            "JAQUES",
+            "And then the whining school-boy, with his satchel"
+        ],
+        [
+            "JAQUES",
+            "And shining morning face, creeping like snail"
+        ],
+        [
+            "JAQUES",
+            "Unwillingly to school. And then the lover,"
+        ],
+        [
+            "JAQUES",
+            "Sighing like furnace, with a woeful ballad"
+        ],
+        [
+            "JAQUES",
+            "Made to his mistress' eyebrow. Then a soldier,"
+        ],
+        [
+            "JAQUES",
+            "Full of strange oaths and bearded like the pard,"
+        ],
+        [
+            "JAQUES",
+            "Jealous in honour, sudden and quick in quarrel,"
+        ],
+        [
+            "JAQUES",
+            "Seeking the bubble reputation"
+        ],
+        [
+            "JAQUES",
+            "Even in the cannon's mouth. And then the justice,"
+        ],
+        [
+            "JAQUES",
+            "In fair round belly with good capon lined,"
+        ],
+        [
+            "JAQUES",
+            "With eyes severe and beard of formal cut,"
+        ],
+        [
+            "JAQUES",
+            "Full of wise saws and modern instances;"
+        ],
+        [
+            "JAQUES",
+            "And so he plays his part. The sixth age shifts"
+        ],
+        [
+            "JAQUES",
+            "Into the lean and slipper'd pantaloon,"
+        ],
+        [
+            "JAQUES",
+            "With spectacles on nose and pouch on side,"
+        ],
+        [
+            "JAQUES",
+            "His youthful hose, well saved, a world too wide"
+        ],
+        [
+            "JAQUES",
+            "For his shrunk shank; and his big manly voice,"
+        ],
+        [
+            "JAQUES",
+            "Turning again toward childish treble, pipes"
+        ],
+        [
+            "JAQUES",
+            "And whistles in his sound. Last scene of all,"
+        ],
+        [
+            "JAQUES",
+            "That ends this strange eventful history,"
+        ],
+        [
+            "JAQUES",
+            "Is second childishness and mere oblivion,"
+        ],
+        [
+            "JAQUES",
+            "Sans teeth, sans eyes, sans taste, sans everything.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "DUKE SENIOR",
+            "Welcome. Set down your venerable burthen,",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "DUKE SENIOR",
+            "And let him feed."
+        ],
+        [
+            "ORLANDO",
+            "I thank you most for him."
+        ],
+        [
+            "ADAM",
+            "So had you need:"
+        ],
+        [
+            "ADAM",
+            "I scarce can speak to thank you for myself."
+        ],
+        [
+            "DUKE SENIOR",
+            "Welcome; fall to: I will not trouble you"
+        ],
+        [
+            "DUKE SENIOR",
+            "As yet, to question you about your fortunes."
+        ],
+        [
+            "DUKE SENIOR",
+            "Give us some music; and, good cousin, sing."
+        ],
+        [
+            "DUKE SENIOR",
+            "SONG."
+        ],
+        [
+            "AMIENS",
+            "Blow, blow, thou winter wind."
+        ],
+        [
+            "AMIENS",
+            "Thou art not so unkind"
+        ],
+        [
+            "AMIENS",
+            "As man's ingratitude;"
+        ],
+        [
+            "AMIENS",
+            "Thy tooth is not so keen,"
+        ],
+        [
+            "AMIENS",
+            "Because thou art not seen,"
+        ],
+        [
+            "AMIENS",
+            "Although thy breath be rude."
+        ],
+        [
+            "AMIENS",
+            "Heigh-ho! sing, heigh-ho! unto the green holly:"
+        ],
+        [
+            "AMIENS",
+            "Most friendship is feigning, most loving mere folly:"
+        ],
+        [
+            "AMIENS",
+            "Then, heigh-ho, the holly!"
+        ],
+        [
+            "AMIENS",
+            "This life is most jolly."
+        ],
+        [
+            "AMIENS",
+            "Freeze, freeze, thou bitter sky,"
+        ],
+        [
+            "AMIENS",
+            "That dost not bite so nigh"
+        ],
+        [
+            "AMIENS",
+            "As benefits forgot:"
+        ],
+        [
+            "AMIENS",
+            "Though thou the waters warp,"
+        ],
+        [
+            "AMIENS",
+            "Thy sting is not so sharp"
+        ],
+        [
+            "AMIENS",
+            "As friend remember'd not."
+        ],
+        [
+            "AMIENS",
+            "Heigh-ho! sing, and c."
+        ],
+        [
+            "DUKE SENIOR",
+            "If that you were the good Sir Rowland's son,"
+        ],
+        [
+            "DUKE SENIOR",
+            "As you have whisper'd faithfully you were,"
+        ],
+        [
+            "DUKE SENIOR",
+            "And as mine eye doth his effigies witness"
+        ],
+        [
+            "DUKE SENIOR",
+            "Most truly limn'd and living in your face,"
+        ],
+        [
+            "DUKE SENIOR",
+            "Be truly welcome hither: I am the duke"
+        ],
+        [
+            "DUKE SENIOR",
+            "That loved your father: the residue of your fortune,"
+        ],
+        [
+            "DUKE SENIOR",
+            "Go to my cave and tell me. Good old man,"
+        ],
+        [
+            "DUKE SENIOR",
+            "Thou art right welcome as thy master is."
+        ],
+        [
+            "DUKE SENIOR",
+            "Support him by the arm. Give me your hand,"
+        ],
+        [
+            "DUKE SENIOR",
+            "And let me all your fortunes understand.",
+            {
+                "following_direction_line": "6"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "A table set out. Enter DUKE SENIOR, AMIENS, and Lords like outlaws"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter JAQUES"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter ORLANDO, with his sword drawn"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Re-enter ORLANDO, with ADAM"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "DUKE SENIOR": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "5",
+                "7"
+            ],
+            [
+                "9",
+                "11"
+            ],
+            [
+                "35",
+                "35"
+            ],
+            [
+                "44",
+                "44"
+            ],
+            [
+                "63",
+                "63"
+            ],
+            [
+                "65",
+                "70"
+            ],
+            [
+                "93",
+                "95"
+            ],
+            [
+                "103",
+                "104"
+            ],
+            [
+                "106",
+                "106"
+            ],
+            [
+                "121",
+                "127"
+            ],
+            [
+                "135",
+                "136"
+            ],
+            [
+                "138",
+                "141"
+            ],
+            [
+                "170",
+                "171"
+            ],
+            [
+                "175",
+                "178"
+            ],
+            [
+                "196",
+                "205"
+            ]
+        ],
+        "First Lord": [
+            [
+                "3",
+                "4"
+            ],
+            [
+                "8",
+                "8"
+            ]
+        ],
+        "JAQUES": [
+            [
+                "12",
+                "34"
+            ],
+            [
+                "36",
+                "43"
+            ],
+            [
+                "45",
+                "62"
+            ],
+            [
+                "64",
+                "64"
+            ],
+            [
+                "71",
+                "88"
+            ],
+            [
+                "90",
+                "90"
+            ],
+            [
+                "92",
+                "92"
+            ],
+            [
+                "102",
+                "102"
+            ],
+            [
+                "142",
+                "169"
+            ]
+        ],
+        "ORLANDO": [
+            [
+                "89",
+                "89"
+            ],
+            [
+                "91",
+                "91"
+            ],
+            [
+                "96",
+                "101"
+            ],
+            [
+                "105",
+                "105"
+            ],
+            [
+                "107",
+                "120"
+            ],
+            [
+                "128",
+                "134"
+            ],
+            [
+                "137",
+                "137"
+            ],
+            [
+                "172",
+                "172"
+            ]
+        ],
+        "ADAM": [
+            [
+                "173",
+                "174"
+            ]
+        ],
+        "AMIENS": [
+            [
+                "179",
+                "195"
+            ]
+        ]
+    },
+    "scene_name": "SCENE VII",
+    "scene_description": "The forest."
+}

@@ -1,0 +1,563 @@
+_S_SCENE II. The forest.
+_D_Enter ORLANDO, with a paper
+_R_ORLANDO
+Hang there, my verse, in witness of my love:
+And thou, thrice-crowned queen of night, survey
+With thy chaste eye, from thy pale sphere above,
+Thy huntress' name that my full life doth sway.
+O Rosalind! these trees shall be my books
+And in their barks my thoughts I'll character;
+That every eye which in this forest looks
+Shall see thy virtue witness'd every where.
+Run, run, Orlando; carve on every tree
+The fair, the chaste and unexpressive she.
+_D_Exit
+_D_Enter CORIN and TOUCHSTONE
+_R_CORIN
+And how like you this shepherd's life, Master Touchstone?
+_R_TOUCHSTONE
+Truly, shepherd, in respect of itself, it is a good
+life, but in respect that it is a shepherd's life,
+it is naught. In respect that it is solitary, I
+like it very well; but in respect that it is
+private, it is a very vile life. Now, in respect it
+is in the fields, it pleaseth me well; but in
+respect it is not in the court, it is tedious. As
+is it a spare life, look you, it fits my humour well;
+but as there is no more plenty in it, it goes much
+against my stomach. Hast any philosophy in thee, shepherd?
+_R_CORIN
+No more but that I know the more one sickens the
+worse at ease he is; and that he that wants money,
+means and content is without three good friends;
+that the property of rain is to wet and fire to
+burn; that good pasture makes fat sheep, and that a
+great cause of the night is lack of the sun; that
+he that hath learned no wit by nature nor art may
+complain of good breeding or comes of a very dull kindred.
+_R_TOUCHSTONE
+Such a one is a natural philosopher. Wast ever in
+court, shepherd?
+_R_CORIN
+No, truly.
+_R_TOUCHSTONE
+Then thou art damned.
+_R_CORIN
+Nay, I hope.
+_R_TOUCHSTONE
+Truly, thou art damned like an ill-roasted egg, all
+on one side.
+_R_CORIN
+For not being at court? Your reason.
+_R_TOUCHSTONE
+Why, if thou never wast at court, thou never sawest
+good manners; if thou never sawest good manners,
+then thy manners must be wicked; and wickedness is
+sin, and sin is damnation. Thou art in a parlous
+state, shepherd.
+_R_CORIN
+Not a whit, Touchstone: those that are good manners
+at the court are as ridiculous in the country as the
+behavior of the country is most mockable at the
+court. You told me you salute not at the court, but
+you kiss your hands: that courtesy would be
+uncleanly, if courtiers were shepherds.
+_R_TOUCHSTONE
+Instance, briefly; come, instance.
+_R_CORIN
+Why, we are still handling our ewes, and their
+fells, you know, are greasy.
+_R_TOUCHSTONE
+Why, do not your courtier's hands sweat? and is not
+the grease of a mutton as wholesome as the sweat of
+a man? Shallow, shallow. A better instance, I say; come.
+_R_CORIN
+Besides, our hands are hard.
+_R_TOUCHSTONE
+Your lips will feel them the sooner. Shallow again.
+A more sounder instance, come.
+_R_CORIN
+And they are often tarred over with the surgery of
+our sheep: and would you have us kiss tar? The
+courtier's hands are perfumed with civet.
+_R_TOUCHSTONE
+Most shallow man! thou worms-meat, in respect of a
+good piece of flesh indeed! Learn of the wise, and
+perpend: civet is of a baser birth than tar, the
+very uncleanly flux of a cat. Mend the instance, shepherd.
+_R_CORIN
+You have too courtly a wit for me: I'll rest.
+_R_TOUCHSTONE
+Wilt thou rest damned? God help thee, shallow man!
+God make incision in thee! thou art raw.
+_R_CORIN
+Sir, I am a true labourer: I earn that I eat, get
+that I wear, owe no man hate, envy no man's
+happiness, glad of other men's good, content with my
+harm, and the greatest of my pride is to see my ewes
+graze and my lambs suck.
+_R_TOUCHSTONE
+That is another simple sin in you, to bring the ewes
+and the rams together and to offer to get your
+living by the copulation of cattle; to be bawd to a
+bell-wether, and to betray a she-lamb of a
+twelvemonth to a crooked-pated, old, cuckoldly ram,
+out of all reasonable match. If thou beest not
+damned for this, the devil himself will have no
+shepherds; I cannot see else how thou shouldst
+'scape.
+_R_CORIN
+Here comes young Master Ganymede, my new mistress's brother.
+_D_Enter ROSALIND, with a paper, reading
+_R_ROSALIND
+From the east to western Ind,
+No jewel is like Rosalind.
+Her worth, being mounted on the wind,
+Through all the world bears Rosalind.
+All the pictures fairest lined
+Are but black to Rosalind.
+Let no fair be kept in mind
+But the fair of Rosalind.
+_R_TOUCHSTONE
+I'll rhyme you so eight years together, dinners and
+suppers and sleeping-hours excepted: it is the
+right butter-women's rank to market.
+_R_ROSALIND
+Out, fool!
+_R_TOUCHSTONE
+For a taste:
+If a hart do lack a hind,
+Let him seek out Rosalind.
+If the cat will after kind,
+So be sure will Rosalind.
+Winter garments must be lined,
+So must slender Rosalind.
+They that reap must sheaf and bind;
+Then to cart with Rosalind.
+Sweetest nut hath sourest rind,
+Such a nut is Rosalind.
+He that sweetest rose will find
+Must find love's prick and Rosalind.
+This is the very false gallop of verses: why do you
+infect yourself with them?
+_R_ROSALIND
+Peace, you dull fool! I found them on a tree.
+_R_TOUCHSTONE
+Truly, the tree yields bad fruit.
+_R_ROSALIND
+I'll graff it with you, and then I shall graff it
+with a medlar: then it will be the earliest fruit
+i' the country; for you'll be rotten ere you be half
+ripe, and that's the right virtue of the medlar.
+_R_TOUCHSTONE
+You have said; but whether wisely or no, let the
+forest judge.
+_D_Enter CELIA, with a writing
+_R_ROSALIND
+Peace! Here comes my sister, reading: stand aside.
+_R_CELIA
+[Reads]
+Why should this a desert be?
+For it is unpeopled? No:
+Tongues I'll hang on every tree,
+That shall civil sayings show:
+Some, how brief the life of man
+Runs his erring pilgrimage,
+That the stretching of a span
+Buckles in his sum of age;
+Some, of violated vows
+'Twixt the souls of friend and friend:
+But upon the fairest boughs,
+Or at every sentence end,
+Will I Rosalinda write,
+Teaching all that read to know
+The quintessence of every sprite
+Heaven would in little show.
+Therefore Heaven Nature charged
+That one body should be fill'd
+With all graces wide-enlarged:
+Nature presently distill'd
+Helen's cheek, but not her heart,
+Cleopatra's majesty,
+Atalanta's better part,
+Sad Lucretia's modesty.
+Thus Rosalind of many parts
+By heavenly synod was devised,
+Of many faces, eyes and hearts,
+To have the touches dearest prized.
+Heaven would that she these gifts should have,
+And I to live and die her slave.
+_R_ROSALIND
+O most gentle pulpiter! what tedious homily of love
+have you wearied your parishioners withal, and never
+cried 'Have patience, good people!'
+_R_CELIA
+How now! back, friends! Shepherd, go off a little.
+Go with him, sirrah.
+_R_TOUCHSTONE
+Come, shepherd, let us make an honourable retreat;
+though not with bag and baggage, yet with scrip and scrippage.
+_D_Exeunt CORIN and TOUCHSTONE
+_R_CELIA
+Didst thou hear these verses?
+_R_ROSALIND
+O, yes, I heard them all, and more too; for some of
+them had in them more feet than the verses would bear.
+_R_CELIA
+That's no matter: the feet might bear the verses.
+_R_ROSALIND
+Ay, but the feet were lame and could not bear
+themselves without the verse and therefore stood
+lamely in the verse.
+_R_CELIA
+But didst thou hear without wondering how thy name
+should be hanged and carved upon these trees?
+_R_ROSALIND
+I was seven of the nine days out of the wonder
+before you came; for look here what I found on a
+palm-tree. I was never so be-rhymed since
+Pythagoras' time, that I was an Irish rat, which I
+can hardly remember.
+_R_CELIA
+Trow you who hath done this?
+_R_ROSALIND
+Is it a man?
+_R_CELIA
+And a chain, that you once wore, about his neck.
+Change you colour?
+_R_ROSALIND
+I prithee, who?
+_R_CELIA
+O Lord, Lord! it is a hard matter for friends to
+meet; but mountains may be removed with earthquakes
+and so encounter.
+_R_ROSALIND
+Nay, but who is it?
+_R_CELIA
+Is it possible?
+_R_ROSALIND
+Nay, I prithee now with most petitionary vehemence,
+tell me who it is.
+_R_CELIA
+O wonderful, wonderful, and most wonderful
+wonderful! and yet again wonderful, and after that,
+out of all hooping!
+_R_ROSALIND
+Good my complexion! dost thou think, though I am
+caparisoned like a man, I have a doublet and hose in
+my disposition? One inch of delay more is a
+South-sea of discovery; I prithee, tell me who is it
+quickly, and speak apace. I would thou couldst
+stammer, that thou mightst pour this concealed man
+out of thy mouth, as wine comes out of a narrow-
+mouthed bottle, either too much at once, or none at
+all. I prithee, take the cork out of thy mouth that
+may drink thy tidings.
+_R_CELIA
+So you may put a man in your belly.
+_R_ROSALIND
+Is he of God's making? What manner of man? Is his
+head worth a hat, or his chin worth a beard?
+_R_CELIA
+Nay, he hath but a little beard.
+_R_ROSALIND
+Why, God will send more, if the man will be
+thankful: let me stay the growth of his beard, if
+thou delay me not the knowledge of his chin.
+_R_CELIA
+It is young Orlando, that tripped up the wrestler's
+heels and your heart both in an instant.
+_R_ROSALIND
+Nay, but the devil take mocking: speak, sad brow and
+true maid.
+_R_CELIA
+I' faith, coz, 'tis he.
+_R_ROSALIND
+Orlando?
+_R_CELIA
+Orlando.
+_R_ROSALIND
+Alas the day! what shall I do with my doublet and
+hose? What did he when thou sawest him? What said
+he? How looked he? Wherein went he? What makes
+him here? Did he ask for me? Where remains he?
+How parted he with thee? and when shalt thou see
+him again? Answer me in one word.
+_R_CELIA
+You must borrow me Gargantua's mouth first: 'tis a
+word too great for any mouth of this age's size. To
+say ay and no to these particulars is more than to
+answer in a catechism.
+_R_ROSALIND
+But doth he know that I am in this forest and in
+man's apparel? Looks he as freshly as he did the
+day he wrestled?
+_R_CELIA
+It is as easy to count atomies as to resolve the
+propositions of a lover; but take a taste of my
+finding him, and relish it with good observance.
+I found him under a tree, like a dropped acorn.
+_R_ROSALIND
+It may well be called Jove's tree, when it drops
+forth such fruit.
+_R_CELIA
+Give me audience, good madam.
+_R_ROSALIND
+Proceed.
+_R_CELIA
+There lay he, stretched along, like a wounded knight.
+_R_ROSALIND
+Though it be pity to see such a sight, it well
+becomes the ground.
+_R_CELIA
+Cry 'holla' to thy tongue, I prithee; it curvets
+unseasonably. He was furnished like a hunter.
+_R_ROSALIND
+O, ominous! he comes to kill my heart.
+_R_CELIA
+I would sing my song without a burden: thou bringest
+me out of tune.
+_R_ROSALIND
+Do you not know I am a woman? when I think, I must
+speak. Sweet, say on.
+_R_CELIA
+You bring me out. Soft! comes he not here?
+_D_Enter ORLANDO and JAQUES
+_R_ROSALIND
+'Tis he: slink by, and note him.
+_R_JAQUES
+I thank you for your company; but, good faith, I had
+as lief have been myself alone.
+_R_ORLANDO
+And so had I; but yet, for fashion sake, I thank you
+too for your society.
+_R_JAQUES
+God be wi' you: let's meet as little as we can.
+_R_ORLANDO
+I do desire we may be better strangers.
+_R_JAQUES
+I pray you, mar no more trees with writing
+love-songs in their barks.
+_R_ORLANDO
+I pray you, mar no more of my verses with reading
+them ill-favouredly.
+_R_JAQUES
+Rosalind is your love's name?
+_R_ORLANDO
+Yes, just.
+_R_JAQUES
+I do not like her name.
+_R_ORLANDO
+There was no thought of pleasing you when she was
+christened.
+_R_JAQUES
+What stature is she of?
+_R_ORLANDO
+Just as high as my heart.
+_R_JAQUES
+You are full of pretty answers. Have you not been
+acquainted with goldsmiths' wives, and conned them
+out of rings?
+_R_ORLANDO
+Not so; but I answer you right painted cloth, from
+whence you have studied your questions.
+_R_JAQUES
+You have a nimble wit: I think 'twas made of
+Atalanta's heels. Will you sit down with me? and
+we two will rail against our mistress the world and
+all our misery.
+_R_ORLANDO
+I will chide no breather in the world but myself,
+against whom I know most faults.
+_R_JAQUES
+The worst fault you have is to be in love.
+_R_ORLANDO
+'Tis a fault I will not change for your best virtue.
+I am weary of you.
+_R_JAQUES
+By my troth, I was seeking for a fool when I found
+you.
+_R_ORLANDO
+He is drowned in the brook: look but in, and you
+shall see him.
+_R_JAQUES
+There I shall see mine own figure.
+_R_ORLANDO
+Which I take to be either a fool or a cipher.
+_R_JAQUES
+I'll tarry no longer with you: farewell, good
+Signior Love.
+_R_ORLANDO
+I am glad of your departure: adieu, good Monsieur
+Melancholy.
+_D_Exit JAQUES
+_R_ROSALIND
+[Aside to CELIA] I will speak to him, like a saucy
+lackey and under that habit play the knave with him.
+Do you hear, forester?
+_R_ORLANDO
+Very well: what would you?
+_R_ROSALIND
+I pray you, what is't o'clock?
+_R_ORLANDO
+You should ask me what time o' day: there's no clock
+in the forest.
+_R_ROSALIND
+Then there is no true lover in the forest; else
+sighing every minute and groaning every hour would
+detect the lazy foot of Time as well as a clock.
+_R_ORLANDO
+And why not the swift foot of Time? had not that
+been as proper?
+_R_ROSALIND
+By no means, sir: Time travels in divers paces with
+divers persons. I'll tell you who Time ambles
+withal, who Time trots withal, who Time gallops
+withal and who he stands still withal.
+_R_ORLANDO
+I prithee, who doth he trot withal?
+_R_ROSALIND
+Marry, he trots hard with a young maid between the
+contract of her marriage and the day it is
+solemnized: if the interim be but a se'nnight,
+Time's pace is so hard that it seems the length of
+seven year.
+_R_ORLANDO
+Who ambles Time withal?
+_R_ROSALIND
+With a priest that lacks Latin and a rich man that
+hath not the gout, for the one sleeps easily because
+he cannot study, and the other lives merrily because
+he feels no pain, the one lacking the burden of lean
+and wasteful learning, the other knowing no burden
+of heavy tedious penury; these Time ambles withal.
+_R_ORLANDO
+Who doth he gallop withal?
+_R_ROSALIND
+With a thief to the gallows, for though he go as
+softly as foot can fall, he thinks himself too soon there.
+_R_ORLANDO
+Who stays it still withal?
+_R_ROSALIND
+With lawyers in the vacation, for they sleep between
+term and term and then they perceive not how Time moves.
+_R_ORLANDO
+Where dwell you, pretty youth?
+_R_ROSALIND
+With this shepherdess, my sister; here in the
+skirts of the forest, like fringe upon a petticoat.
+_R_ORLANDO
+Are you native of this place?
+_R_ROSALIND
+As the cony that you see dwell where she is kindled.
+_R_ORLANDO
+Your accent is something finer than you could
+purchase in so removed a dwelling.
+_R_ROSALIND
+I have been told so of many: but indeed an old
+religious uncle of mine taught me to speak, who was
+in his youth an inland man; one that knew courtship
+too well, for there he fell in love. I have heard
+him read many lectures against it, and I thank God
+I am not a woman, to be touched with so many
+giddy offences as he hath generally taxed their
+whole sex withal.
+_R_ORLANDO
+Can you remember any of the principal evils that he
+laid to the charge of women?
+_R_ROSALIND
+There were none principal; they were all like one
+another as half-pence are, every one fault seeming
+monstrous till his fellow fault came to match it.
+_R_ORLANDO
+I prithee, recount some of them.
+_R_ROSALIND
+No, I will not cast away my physic but on those that
+are sick. There is a man haunts the forest, that
+abuses our young plants with carving 'Rosalind' on
+their barks; hangs odes upon hawthorns and elegies
+on brambles, all, forsooth, deifying the name of
+Rosalind: if I could meet that fancy-monger I would
+give him some good counsel, for he seems to have the
+quotidian of love upon him.
+_R_ORLANDO
+I am he that is so love-shaked: I pray you tell me
+your remedy.
+_R_ROSALIND
+There is none of my uncle's marks upon you: he
+taught me how to know a man in love; in which cage
+of rushes I am sure you are not prisoner.
+_R_ORLANDO
+What were his marks?
+_R_ROSALIND
+A lean cheek, which you have not, a blue eye and
+sunken, which you have not, an unquestionable
+spirit, which you have not, a beard neglected,
+which you have not; but I pardon you for that, for
+simply your having in beard is a younger brother's
+revenue: then your hose should be ungartered, your
+bonnet unbanded, your sleeve unbuttoned, your shoe
+untied and every thing about you demonstrating a
+careless desolation; but you are no such man; you
+are rather point-device in your accoutrements as
+loving yourself than seeming the lover of any other.
+_R_ORLANDO
+Fair youth, I would I could make thee believe I love.
+_R_ROSALIND
+Me believe it! you may as soon make her that you
+love believe it; which, I warrant, she is apter to
+do than to confess she does: that is one of the
+points in the which women still give the lie to
+their consciences. But, in good sooth, are you he
+that hangs the verses on the trees, wherein Rosalind
+is so admired?
+_R_ORLANDO
+I swear to thee, youth, by the white hand of
+Rosalind, I am that he, that unfortunate he.
+_R_ROSALIND
+But are you so much in love as your rhymes speak?
+_R_ORLANDO
+Neither rhyme nor reason can express how much.
+_R_ROSALIND
+Love is merely a madness, and, I tell you, deserves
+as well a dark house and a whip as madmen do: and
+the reason why they are not so punished and cured
+is, that the lunacy is so ordinary that the whippers
+are in love too. Yet I profess curing it by counsel.
+_R_ORLANDO
+Did you ever cure any so?
+_R_ROSALIND
+Yes, one, and in this manner. He was to imagine me
+his love, his mistress; and I set him every day to
+woo me: at which time would I, being but a moonish
+youth, grieve, be effeminate, changeable, longing
+and liking, proud, fantastical, apish, shallow,
+inconstant, full of tears, full of smiles, for every
+passion something and for no passion truly any
+thing, as boys and women are for the most part
+cattle of this colour; would now like him, now loathe
+him; then entertain him, then forswear him; now weep
+for him, then spit at him; that I drave my suitor
+from his mad humour of love to a living humour of
+madness; which was, to forswear the full stream of
+the world, and to live in a nook merely monastic.
+And thus I cured him; and this way will I take upon
+me to wash your liver as clean as a sound sheep's
+heart, that there shall not be one spot of love in't.
+_R_ORLANDO
+I would not be cured, youth.
+_R_ROSALIND
+I would cure you, if you would but call me Rosalind
+and come every day to my cote and woo me.
+_R_ORLANDO
+Now, by the faith of my love, I will: tell me
+where it is.
+_R_ROSALIND
+Go with me to it and I'll show it you and by the way
+you shall tell me where in the forest you live.
+Will you go?
+_R_ORLANDO
+With all my heart, good youth.
+_R_ROSALIND
+Nay you must call me Rosalind. Come, sister, will you go?
+_D_Exeunt

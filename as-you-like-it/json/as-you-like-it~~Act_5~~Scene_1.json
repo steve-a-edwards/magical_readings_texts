@@ -1,0 +1,411 @@
+{
+    "scene_id": "as you like it~~Act_5~~Scene_1",
+    "work_number": "13",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "TOUCHSTONE",
+            "We shall find a time, Audrey; patience, gentle Audrey.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "AUDREY",
+            "Faith, the priest was good enough, for all the old"
+        ],
+        [
+            "AUDREY",
+            "gentleman's saying."
+        ],
+        [
+            "TOUCHSTONE",
+            "A most wicked Sir Oliver, Audrey, a most vile"
+        ],
+        [
+            "TOUCHSTONE",
+            "Martext. But, Audrey, there is a youth here in the"
+        ],
+        [
+            "TOUCHSTONE",
+            "forest lays claim to you."
+        ],
+        [
+            "AUDREY",
+            "Ay, I know who 'tis; he hath no interest in me in"
+        ],
+        [
+            "AUDREY",
+            "the world: here comes the man you mean."
+        ],
+        [
+            "TOUCHSTONE",
+            "It is meat and drink to me to see a clown: by my"
+        ],
+        [
+            "TOUCHSTONE",
+            "troth, we that have good wits have much to answer"
+        ],
+        [
+            "TOUCHSTONE",
+            "for; we shall be flouting; we cannot hold.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "WILLIAM",
+            "Good even, Audrey.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "AUDREY",
+            "God ye good even, William."
+        ],
+        [
+            "WILLIAM",
+            "And good even to you, sir."
+        ],
+        [
+            "TOUCHSTONE",
+            "Good even, gentle friend. Cover thy head, cover thy"
+        ],
+        [
+            "TOUCHSTONE",
+            "head; nay, prithee, be covered. How old are you, friend?"
+        ],
+        [
+            "WILLIAM",
+            "Five and twenty, sir."
+        ],
+        [
+            "TOUCHSTONE",
+            "A ripe age. Is thy name William?"
+        ],
+        [
+            "WILLIAM",
+            "William, sir."
+        ],
+        [
+            "TOUCHSTONE",
+            "A fair name. Wast born i' the forest here?"
+        ],
+        [
+            "WILLIAM",
+            "Ay, sir, I thank God."
+        ],
+        [
+            "TOUCHSTONE",
+            "'Thank God;' a good answer. Art rich?"
+        ],
+        [
+            "WILLIAM",
+            "Faith, sir, so so."
+        ],
+        [
+            "TOUCHSTONE",
+            "'So so' is good, very good, very excellent good; and"
+        ],
+        [
+            "TOUCHSTONE",
+            "yet it is not; it is but so so. Art thou wise?"
+        ],
+        [
+            "WILLIAM",
+            "Ay, sir, I have a pretty wit."
+        ],
+        [
+            "TOUCHSTONE",
+            "Why, thou sayest well. I do now remember a saying,"
+        ],
+        [
+            "TOUCHSTONE",
+            "'The fool doth think he is wise, but the wise man"
+        ],
+        [
+            "TOUCHSTONE",
+            "knows himself to be a fool.' The heathen"
+        ],
+        [
+            "TOUCHSTONE",
+            "philosopher, when he had a desire to eat a grape,"
+        ],
+        [
+            "TOUCHSTONE",
+            "would open his lips when he put it into his mouth;"
+        ],
+        [
+            "TOUCHSTONE",
+            "meaning thereby that grapes were made to eat and"
+        ],
+        [
+            "TOUCHSTONE",
+            "lips to open. You do love this maid?"
+        ],
+        [
+            "WILLIAM",
+            "I do, sir."
+        ],
+        [
+            "TOUCHSTONE",
+            "Give me your hand. Art thou learned?"
+        ],
+        [
+            "WILLIAM",
+            "No, sir."
+        ],
+        [
+            "TOUCHSTONE",
+            "Then learn this of me: to have, is to have; for it"
+        ],
+        [
+            "TOUCHSTONE",
+            "is a figure in rhetoric that drink, being poured out"
+        ],
+        [
+            "TOUCHSTONE",
+            "of a cup into a glass, by filling the one doth empty"
+        ],
+        [
+            "TOUCHSTONE",
+            "the other; for all your writers do consent that ipse"
+        ],
+        [
+            "TOUCHSTONE",
+            "is he: now, you are not ipse, for I am he."
+        ],
+        [
+            "WILLIAM",
+            "Which he, sir?"
+        ],
+        [
+            "TOUCHSTONE",
+            "He, sir, that must marry this woman. Therefore, you"
+        ],
+        [
+            "TOUCHSTONE",
+            "clown, abandon,--which is in the vulgar leave,--the"
+        ],
+        [
+            "TOUCHSTONE",
+            "society,--which in the boorish is company,--of this"
+        ],
+        [
+            "TOUCHSTONE",
+            "female,--which in the common is woman; which"
+        ],
+        [
+            "TOUCHSTONE",
+            "together is, abandon the society of this female, or,"
+        ],
+        [
+            "TOUCHSTONE",
+            "clown, thou perishest; or, to thy better"
+        ],
+        [
+            "TOUCHSTONE",
+            "understanding, diest; or, to wit I kill thee, make"
+        ],
+        [
+            "TOUCHSTONE",
+            "thee away, translate thy life into death, thy"
+        ],
+        [
+            "TOUCHSTONE",
+            "liberty into bondage: I will deal in poison with"
+        ],
+        [
+            "TOUCHSTONE",
+            "thee, or in bastinado, or in steel; I will bandy"
+        ],
+        [
+            "TOUCHSTONE",
+            "with thee in faction; I will o'errun thee with"
+        ],
+        [
+            "TOUCHSTONE",
+            "policy; I will kill thee a hundred and fifty ways:"
+        ],
+        [
+            "TOUCHSTONE",
+            "therefore tremble and depart."
+        ],
+        [
+            "AUDREY",
+            "Do, good William."
+        ],
+        [
+            "WILLIAM",
+            "God rest you merry, sir.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "CORIN",
+            "Our master and mistress seeks you; come, away, away!",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "TOUCHSTONE",
+            "Trip, Audrey! trip, Audrey! I attend, I attend.",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter TOUCHSTONE and AUDREY"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter WILLIAM"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit. Enter CORIN"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "TOUCHSTONE": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "4",
+                "6"
+            ],
+            [
+                "9",
+                "11"
+            ],
+            [
+                "15",
+                "16"
+            ],
+            [
+                "18",
+                "18"
+            ],
+            [
+                "20",
+                "20"
+            ],
+            [
+                "22",
+                "22"
+            ],
+            [
+                "24",
+                "25"
+            ],
+            [
+                "27",
+                "33"
+            ],
+            [
+                "35",
+                "35"
+            ],
+            [
+                "37",
+                "41"
+            ],
+            [
+                "43",
+                "55"
+            ],
+            [
+                "59",
+                "59"
+            ]
+        ],
+        "AUDREY": [
+            [
+                "2",
+                "3"
+            ],
+            [
+                "7",
+                "8"
+            ],
+            [
+                "13",
+                "13"
+            ],
+            [
+                "56",
+                "56"
+            ]
+        ],
+        "WILLIAM": [
+            [
+                "12",
+                "12"
+            ],
+            [
+                "14",
+                "14"
+            ],
+            [
+                "17",
+                "17"
+            ],
+            [
+                "19",
+                "19"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "23",
+                "23"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "34",
+                "34"
+            ],
+            [
+                "36",
+                "36"
+            ],
+            [
+                "42",
+                "42"
+            ],
+            [
+                "57",
+                "57"
+            ]
+        ],
+        "CORIN": [
+            [
+                "58",
+                "58"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "The forest."
+}

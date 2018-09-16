@@ -1,0 +1,1021 @@
+{
+    "scene_id": "as you like it~~Act_4~~Scene_3",
+    "work_number": "13",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "ROSALIND",
+            "How say you now? Is it not past two o'clock? and",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "ROSALIND",
+            "here much Orlando!"
+        ],
+        [
+            "CELIA",
+            "I warrant you, with pure love and troubled brain, he"
+        ],
+        [
+            "CELIA",
+            "hath ta'en his bow and arrows and is gone forth to"
+        ],
+        [
+            "CELIA",
+            "sleep. Look, who comes here.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "SILVIUS",
+            "My errand is to you, fair youth;",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "SILVIUS",
+            "My gentle Phebe bid me give you this:"
+        ],
+        [
+            "SILVIUS",
+            "I know not the contents; but, as I guess"
+        ],
+        [
+            "SILVIUS",
+            "By the stern brow and waspish action"
+        ],
+        [
+            "SILVIUS",
+            "Which she did use as she was writing of it,"
+        ],
+        [
+            "SILVIUS",
+            "It bears an angry tenor: pardon me:"
+        ],
+        [
+            "SILVIUS",
+            "I am but as a guiltless messenger."
+        ],
+        [
+            "ROSALIND",
+            "Patience herself would startle at this letter"
+        ],
+        [
+            "ROSALIND",
+            "And play the swaggerer; bear this, bear all:"
+        ],
+        [
+            "ROSALIND",
+            "She says I am not fair, that I lack manners;"
+        ],
+        [
+            "ROSALIND",
+            "She calls me proud, and that she could not love me,"
+        ],
+        [
+            "ROSALIND",
+            "Were man as rare as phoenix. 'Od's my will!"
+        ],
+        [
+            "ROSALIND",
+            "Her love is not the hare that I do hunt:"
+        ],
+        [
+            "ROSALIND",
+            "Why writes she so to me? Well, shepherd, well,"
+        ],
+        [
+            "ROSALIND",
+            "This is a letter of your own device."
+        ],
+        [
+            "SILVIUS",
+            "No, I protest, I know not the contents:"
+        ],
+        [
+            "SILVIUS",
+            "Phebe did write it."
+        ],
+        [
+            "ROSALIND",
+            "Come, come, you are a fool"
+        ],
+        [
+            "ROSALIND",
+            "And turn'd into the extremity of love."
+        ],
+        [
+            "ROSALIND",
+            "I saw her hand: she has a leathern hand."
+        ],
+        [
+            "ROSALIND",
+            "A freestone-colour'd hand; I verily did think"
+        ],
+        [
+            "ROSALIND",
+            "That her old gloves were on, but 'twas her hands:"
+        ],
+        [
+            "ROSALIND",
+            "She has a huswife's hand; but that's no matter:"
+        ],
+        [
+            "ROSALIND",
+            "I say she never did invent this letter;"
+        ],
+        [
+            "ROSALIND",
+            "This is a man's invention and his hand."
+        ],
+        [
+            "SILVIUS",
+            "Sure, it is hers."
+        ],
+        [
+            "ROSALIND",
+            "Why, 'tis a boisterous and a cruel style."
+        ],
+        [
+            "ROSALIND",
+            "A style for-challengers; why, she defies me,"
+        ],
+        [
+            "ROSALIND",
+            "Like Turk to Christian: women's gentle brain"
+        ],
+        [
+            "ROSALIND",
+            "Could not drop forth such giant-rude invention"
+        ],
+        [
+            "ROSALIND",
+            "Such Ethiope words, blacker in their effect"
+        ],
+        [
+            "ROSALIND",
+            "Than in their countenance. Will you hear the letter?"
+        ],
+        [
+            "SILVIUS",
+            "So please you, for I never heard it yet;"
+        ],
+        [
+            "SILVIUS",
+            "Yet heard too much of Phebe's cruelty."
+        ],
+        [
+            "ROSALIND",
+            "She Phebes me: mark how the tyrant writes.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "ROSALIND",
+            "Art thou god to shepherd turn'd,",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "ROSALIND",
+            "That a maiden's heart hath burn'd?"
+        ],
+        [
+            "ROSALIND",
+            "Can a woman rail thus?"
+        ],
+        [
+            "SILVIUS",
+            "Call you this railing?"
+        ],
+        [
+            "ROSALIND",
+            "[Reads]"
+        ],
+        [
+            "ROSALIND",
+            "Why, thy godhead laid apart,"
+        ],
+        [
+            "ROSALIND",
+            "Warr'st thou with a woman's heart?"
+        ],
+        [
+            "ROSALIND",
+            "Did you ever hear such railing?"
+        ],
+        [
+            "ROSALIND",
+            "Whiles the eye of man did woo me,"
+        ],
+        [
+            "ROSALIND",
+            "That could do no vengeance to me."
+        ],
+        [
+            "ROSALIND",
+            "Meaning me a beast."
+        ],
+        [
+            "ROSALIND",
+            "If the scorn of your bright eyne"
+        ],
+        [
+            "ROSALIND",
+            "Have power to raise such love in mine,"
+        ],
+        [
+            "ROSALIND",
+            "Alack, in me what strange effect"
+        ],
+        [
+            "ROSALIND",
+            "Would they work in mild aspect!"
+        ],
+        [
+            "ROSALIND",
+            "Whiles you chid me, I did love;"
+        ],
+        [
+            "ROSALIND",
+            "How then might your prayers move!"
+        ],
+        [
+            "ROSALIND",
+            "He that brings this love to thee"
+        ],
+        [
+            "ROSALIND",
+            "Little knows this love in me:"
+        ],
+        [
+            "ROSALIND",
+            "And by him seal up thy mind;"
+        ],
+        [
+            "ROSALIND",
+            "Whether that thy youth and kind"
+        ],
+        [
+            "ROSALIND",
+            "Will the faithful offer take"
+        ],
+        [
+            "ROSALIND",
+            "Of me and all that I can make;"
+        ],
+        [
+            "ROSALIND",
+            "Or else by him my love deny,"
+        ],
+        [
+            "ROSALIND",
+            "And then I'll study how to die."
+        ],
+        [
+            "SILVIUS",
+            "Call you this chiding?"
+        ],
+        [
+            "CELIA",
+            "Alas, poor shepherd!"
+        ],
+        [
+            "ROSALIND",
+            "Do you pity him? no, he deserves no pity. Wilt"
+        ],
+        [
+            "ROSALIND",
+            "thou love such a woman? What, to make thee an"
+        ],
+        [
+            "ROSALIND",
+            "instrument and play false strains upon thee! not to"
+        ],
+        [
+            "ROSALIND",
+            "be endured! Well, go your way to her, for I see"
+        ],
+        [
+            "ROSALIND",
+            "love hath made thee a tame snake, and say this to"
+        ],
+        [
+            "ROSALIND",
+            "her: that if she love me, I charge her to love"
+        ],
+        [
+            "ROSALIND",
+            "thee; if she will not, I will never have her unless"
+        ],
+        [
+            "ROSALIND",
+            "thou entreat for her. If you be a true lover,"
+        ],
+        [
+            "ROSALIND",
+            "hence, and not a word; for here comes more company.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "OLIVER",
+            "Good morrow, fair ones: pray you, if you know,",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "OLIVER",
+            "Where in the purlieus of this forest stands"
+        ],
+        [
+            "OLIVER",
+            "A sheep-cote fenced about with olive trees?"
+        ],
+        [
+            "CELIA",
+            "West of this place, down in the neighbour bottom:"
+        ],
+        [
+            "CELIA",
+            "The rank of osiers by the murmuring stream"
+        ],
+        [
+            "CELIA",
+            "Left on your right hand brings you to the place."
+        ],
+        [
+            "CELIA",
+            "But at this hour the house doth keep itself;"
+        ],
+        [
+            "CELIA",
+            "There's none within."
+        ],
+        [
+            "OLIVER",
+            "If that an eye may profit by a tongue,"
+        ],
+        [
+            "OLIVER",
+            "Then should I know you by description;"
+        ],
+        [
+            "OLIVER",
+            "Such garments and such years: 'The boy is fair,"
+        ],
+        [
+            "OLIVER",
+            "Of female favour, and bestows himself"
+        ],
+        [
+            "OLIVER",
+            "Like a ripe sister: the woman low"
+        ],
+        [
+            "OLIVER",
+            "And browner than her brother.' Are not you"
+        ],
+        [
+            "OLIVER",
+            "The owner of the house I did inquire for?"
+        ],
+        [
+            "CELIA",
+            "It is no boast, being ask'd, to say we are."
+        ],
+        [
+            "OLIVER",
+            "Orlando doth commend him to you both,"
+        ],
+        [
+            "OLIVER",
+            "And to that youth he calls his Rosalind"
+        ],
+        [
+            "OLIVER",
+            "He sends this bloody napkin. Are you he?"
+        ],
+        [
+            "ROSALIND",
+            "I am: what must we understand by this?"
+        ],
+        [
+            "OLIVER",
+            "Some of my shame; if you will know of me"
+        ],
+        [
+            "OLIVER",
+            "What man I am, and how, and why, and where"
+        ],
+        [
+            "OLIVER",
+            "This handkercher was stain'd."
+        ],
+        [
+            "CELIA",
+            "I pray you, tell it."
+        ],
+        [
+            "OLIVER",
+            "When last the young Orlando parted from you"
+        ],
+        [
+            "OLIVER",
+            "He left a promise to return again"
+        ],
+        [
+            "OLIVER",
+            "Within an hour, and pacing through the forest,"
+        ],
+        [
+            "OLIVER",
+            "Chewing the food of sweet and bitter fancy,"
+        ],
+        [
+            "OLIVER",
+            "Lo, what befell! he threw his eye aside,"
+        ],
+        [
+            "OLIVER",
+            "And mark what object did present itself:"
+        ],
+        [
+            "OLIVER",
+            "Under an oak, whose boughs were moss'd with age"
+        ],
+        [
+            "OLIVER",
+            "And high top bald with dry antiquity,"
+        ],
+        [
+            "OLIVER",
+            "A wretched ragged man, o'ergrown with hair,"
+        ],
+        [
+            "OLIVER",
+            "Lay sleeping on his back: about his neck"
+        ],
+        [
+            "OLIVER",
+            "A green and gilded snake had wreathed itself,"
+        ],
+        [
+            "OLIVER",
+            "Who with her head nimble in threats approach'd"
+        ],
+        [
+            "OLIVER",
+            "The opening of his mouth; but suddenly,"
+        ],
+        [
+            "OLIVER",
+            "Seeing Orlando, it unlink'd itself,"
+        ],
+        [
+            "OLIVER",
+            "And with indented glides did slip away"
+        ],
+        [
+            "OLIVER",
+            "Into a bush: under which bush's shade"
+        ],
+        [
+            "OLIVER",
+            "A lioness, with udders all drawn dry,"
+        ],
+        [
+            "OLIVER",
+            "Lay couching, head on ground, with catlike watch,"
+        ],
+        [
+            "OLIVER",
+            "When that the sleeping man should stir; for 'tis"
+        ],
+        [
+            "OLIVER",
+            "The royal disposition of that beast"
+        ],
+        [
+            "OLIVER",
+            "To prey on nothing that doth seem as dead:"
+        ],
+        [
+            "OLIVER",
+            "This seen, Orlando did approach the man"
+        ],
+        [
+            "OLIVER",
+            "And found it was his brother, his elder brother."
+        ],
+        [
+            "CELIA",
+            "O, I have heard him speak of that same brother;"
+        ],
+        [
+            "CELIA",
+            "And he did render him the most unnatural"
+        ],
+        [
+            "CELIA",
+            "That lived amongst men."
+        ],
+        [
+            "OLIVER",
+            "And well he might so do,"
+        ],
+        [
+            "OLIVER",
+            "For well I know he was unnatural."
+        ],
+        [
+            "ROSALIND",
+            "But, to Orlando: did he leave him there,"
+        ],
+        [
+            "ROSALIND",
+            "Food to the suck'd and hungry lioness?"
+        ],
+        [
+            "OLIVER",
+            "Twice did he turn his back and purposed so;"
+        ],
+        [
+            "OLIVER",
+            "But kindness, nobler ever than revenge,"
+        ],
+        [
+            "OLIVER",
+            "And nature, stronger than his just occasion,"
+        ],
+        [
+            "OLIVER",
+            "Made him give battle to the lioness,"
+        ],
+        [
+            "OLIVER",
+            "Who quickly fell before him: in which hurtling"
+        ],
+        [
+            "OLIVER",
+            "From miserable slumber I awaked."
+        ],
+        [
+            "CELIA",
+            "Are you his brother?"
+        ],
+        [
+            "ROSALIND",
+            "Wast you he rescued?"
+        ],
+        [
+            "CELIA",
+            "Was't you that did so oft contrive to kill him?"
+        ],
+        [
+            "OLIVER",
+            "'Twas I; but 'tis not I I do not shame"
+        ],
+        [
+            "OLIVER",
+            "To tell you what I was, since my conversion"
+        ],
+        [
+            "OLIVER",
+            "So sweetly tastes, being the thing I am."
+        ],
+        [
+            "ROSALIND",
+            "But, for the bloody napkin?"
+        ],
+        [
+            "OLIVER",
+            "By and by."
+        ],
+        [
+            "OLIVER",
+            "When from the first to last betwixt us two"
+        ],
+        [
+            "OLIVER",
+            "Tears our recountments had most kindly bathed,"
+        ],
+        [
+            "OLIVER",
+            "As how I came into that desert place:--"
+        ],
+        [
+            "OLIVER",
+            "In brief, he led me to the gentle duke,"
+        ],
+        [
+            "OLIVER",
+            "Who gave me fresh array and entertainment,"
+        ],
+        [
+            "OLIVER",
+            "Committing me unto my brother's love;"
+        ],
+        [
+            "OLIVER",
+            "Who led me instantly unto his cave,"
+        ],
+        [
+            "OLIVER",
+            "There stripp'd himself, and here upon his arm"
+        ],
+        [
+            "OLIVER",
+            "The lioness had torn some flesh away,"
+        ],
+        [
+            "OLIVER",
+            "Which all this while had bled; and now he fainted"
+        ],
+        [
+            "OLIVER",
+            "And cried, in fainting, upon Rosalind."
+        ],
+        [
+            "OLIVER",
+            "Brief, I recover'd him, bound up his wound;"
+        ],
+        [
+            "OLIVER",
+            "And, after some small space, being strong at heart,"
+        ],
+        [
+            "OLIVER",
+            "He sent me hither, stranger as I am,"
+        ],
+        [
+            "OLIVER",
+            "To tell this story, that you might excuse"
+        ],
+        [
+            "OLIVER",
+            "His broken promise, and to give this napkin"
+        ],
+        [
+            "OLIVER",
+            "Dyed in his blood unto the shepherd youth"
+        ],
+        [
+            "OLIVER",
+            "That he in sport doth call his Rosalind.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "CELIA",
+            "Why, how now, Ganymede! sweet Ganymede!",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "OLIVER",
+            "Many will swoon when they do look on blood."
+        ],
+        [
+            "CELIA",
+            "There is more in it. Cousin Ganymede!"
+        ],
+        [
+            "OLIVER",
+            "Look, he recovers."
+        ],
+        [
+            "ROSALIND",
+            "I would I were at home."
+        ],
+        [
+            "CELIA",
+            "We'll lead you thither."
+        ],
+        [
+            "CELIA",
+            "I pray you, will you take him by the arm?"
+        ],
+        [
+            "OLIVER",
+            "Be of good cheer, youth: you a man! you lack a"
+        ],
+        [
+            "OLIVER",
+            "man's heart."
+        ],
+        [
+            "ROSALIND",
+            "I do so, I confess it. Ah, sirrah, a body would"
+        ],
+        [
+            "ROSALIND",
+            "think this was well counterfeited! I pray you, tell"
+        ],
+        [
+            "ROSALIND",
+            "your brother how well I counterfeited. Heigh-ho!"
+        ],
+        [
+            "OLIVER",
+            "This was not counterfeit: there is too great"
+        ],
+        [
+            "OLIVER",
+            "testimony in your complexion that it was a passion"
+        ],
+        [
+            "OLIVER",
+            "of earnest."
+        ],
+        [
+            "ROSALIND",
+            "Counterfeit, I assure you."
+        ],
+        [
+            "OLIVER",
+            "Well then, take a good heart and counterfeit to be a man."
+        ],
+        [
+            "ROSALIND",
+            "So I do: but, i' faith, I should have been a woman by right."
+        ],
+        [
+            "CELIA",
+            "Come, you look paler and paler: pray you, draw"
+        ],
+        [
+            "CELIA",
+            "homewards. Good sir, go with us."
+        ],
+        [
+            "OLIVER",
+            "That will I, for I must bear answer back"
+        ],
+        [
+            "OLIVER",
+            "How you excuse my brother, Rosalind."
+        ],
+        [
+            "ROSALIND",
+            "I shall devise something: but, I pray you, commend"
+        ],
+        [
+            "ROSALIND",
+            "my counterfeiting to him. Will you go?",
+            {
+                "following_direction_line": "6"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter ROSALIND and CELIA"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter SILVIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Reads"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit SILVIUS. Enter OLIVER"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "ROSALIND swoons"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "ROSALIND": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "13",
+                "20"
+            ],
+            [
+                "23",
+                "30"
+            ],
+            [
+                "32",
+                "37"
+            ],
+            [
+                "40",
+                "43"
+            ],
+            [
+                "45",
+                "65"
+            ],
+            [
+                "68",
+                "76"
+            ],
+            [
+                "96",
+                "96"
+            ],
+            [
+                "129",
+                "130"
+            ],
+            [
+                "138",
+                "138"
+            ],
+            [
+                "143",
+                "143"
+            ],
+            [
+                "167",
+                "167"
+            ],
+            [
+                "172",
+                "174"
+            ],
+            [
+                "178",
+                "178"
+            ],
+            [
+                "180",
+                "180"
+            ],
+            [
+                "185",
+                "186"
+            ]
+        ],
+        "CELIA": [
+            [
+                "3",
+                "5"
+            ],
+            [
+                "67",
+                "67"
+            ],
+            [
+                "80",
+                "84"
+            ],
+            [
+                "92",
+                "92"
+            ],
+            [
+                "100",
+                "100"
+            ],
+            [
+                "124",
+                "126"
+            ],
+            [
+                "137",
+                "137"
+            ],
+            [
+                "139",
+                "139"
+            ],
+            [
+                "163",
+                "163"
+            ],
+            [
+                "165",
+                "165"
+            ],
+            [
+                "168",
+                "169"
+            ],
+            [
+                "181",
+                "182"
+            ]
+        ],
+        "SILVIUS": [
+            [
+                "6",
+                "12"
+            ],
+            [
+                "21",
+                "22"
+            ],
+            [
+                "31",
+                "31"
+            ],
+            [
+                "38",
+                "39"
+            ],
+            [
+                "44",
+                "44"
+            ],
+            [
+                "66",
+                "66"
+            ]
+        ],
+        "OLIVER": [
+            [
+                "77",
+                "79"
+            ],
+            [
+                "85",
+                "91"
+            ],
+            [
+                "93",
+                "95"
+            ],
+            [
+                "97",
+                "99"
+            ],
+            [
+                "101",
+                "123"
+            ],
+            [
+                "127",
+                "128"
+            ],
+            [
+                "131",
+                "136"
+            ],
+            [
+                "140",
+                "142"
+            ],
+            [
+                "144",
+                "162"
+            ],
+            [
+                "164",
+                "164"
+            ],
+            [
+                "166",
+                "166"
+            ],
+            [
+                "170",
+                "171"
+            ],
+            [
+                "175",
+                "177"
+            ],
+            [
+                "179",
+                "179"
+            ],
+            [
+                "183",
+                "184"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "The forest."
+}

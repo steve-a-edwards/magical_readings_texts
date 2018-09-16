@@ -1,0 +1,244 @@
+{
+    "scene_id": "as you like it~~Act_5~~Scene_3",
+    "work_number": "13",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "TOUCHSTONE",
+            "To-morrow is the joyful day, Audrey; to-morrow will",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "TOUCHSTONE",
+            "we be married."
+        ],
+        [
+            "AUDREY",
+            "I do desire it with all my heart; and I hope it is"
+        ],
+        [
+            "AUDREY",
+            "no dishonest desire to desire to be a woman of the"
+        ],
+        [
+            "AUDREY",
+            "world. Here comes two of the banished duke's pages.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "First Page",
+            "Well met, honest gentleman.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "TOUCHSTONE",
+            "By my troth, well met. Come, sit, sit, and a song."
+        ],
+        [
+            "Second Page",
+            "We are for you: sit i' the middle."
+        ],
+        [
+            "First Page",
+            "Shall we clap into't roundly, without hawking or"
+        ],
+        [
+            "First Page",
+            "spitting or saying we are hoarse, which are the only"
+        ],
+        [
+            "First Page",
+            "prologues to a bad voice?"
+        ],
+        [
+            "Second Page",
+            "I'faith, i'faith; and both in a tune, like two"
+        ],
+        [
+            "Second Page",
+            "gipsies on a horse."
+        ],
+        [
+            "Second Page",
+            "SONG."
+        ],
+        [
+            "Second Page",
+            "It was a lover and his lass,"
+        ],
+        [
+            "Second Page",
+            "With a hey, and a ho, and a hey nonino,"
+        ],
+        [
+            "Second Page",
+            "That o'er the green corn-field did pass"
+        ],
+        [
+            "Second Page",
+            "In the spring time, the only pretty ring time,"
+        ],
+        [
+            "Second Page",
+            "When birds do sing, hey ding a ding, ding:"
+        ],
+        [
+            "Second Page",
+            "Sweet lovers love the spring."
+        ],
+        [
+            "Second Page",
+            "Between the acres of the rye,"
+        ],
+        [
+            "Second Page",
+            "With a hey, and a ho, and a hey nonino"
+        ],
+        [
+            "Second Page",
+            "These pretty country folks would lie,"
+        ],
+        [
+            "Second Page",
+            "In spring time, and c."
+        ],
+        [
+            "Second Page",
+            "This carol they began that hour,"
+        ],
+        [
+            "Second Page",
+            "With a hey, and a ho, and a hey nonino,"
+        ],
+        [
+            "Second Page",
+            "How that a life was but a flower"
+        ],
+        [
+            "Second Page",
+            "In spring time, and c."
+        ],
+        [
+            "Second Page",
+            "And therefore take the present time,"
+        ],
+        [
+            "Second Page",
+            "With a hey, and a ho, and a hey nonino;"
+        ],
+        [
+            "Second Page",
+            "For love is crowned with the prime"
+        ],
+        [
+            "Second Page",
+            "In spring time, and c."
+        ],
+        [
+            "TOUCHSTONE",
+            "Truly, young gentlemen, though there was no great"
+        ],
+        [
+            "TOUCHSTONE",
+            "matter in the ditty, yet the note was very"
+        ],
+        [
+            "TOUCHSTONE",
+            "untuneable."
+        ],
+        [
+            "First Page",
+            "You are deceived, sir: we kept time, we lost not our time."
+        ],
+        [
+            "TOUCHSTONE",
+            "By my troth, yes; I count it but time lost to hear"
+        ],
+        [
+            "TOUCHSTONE",
+            "such a foolish song. God be wi' you; and God mend"
+        ],
+        [
+            "TOUCHSTONE",
+            "your voices! Come, Audrey.",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter TOUCHSTONE and AUDREY"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter two Pages"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "TOUCHSTONE": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "7",
+                "7"
+            ],
+            [
+                "33",
+                "35"
+            ],
+            [
+                "37",
+                "39"
+            ]
+        ],
+        "AUDREY": [
+            [
+                "3",
+                "5"
+            ]
+        ],
+        "First Page": [
+            [
+                "6",
+                "6"
+            ],
+            [
+                "9",
+                "11"
+            ],
+            [
+                "36",
+                "36"
+            ]
+        ],
+        "Second Page": [
+            [
+                "8",
+                "8"
+            ],
+            [
+                "12",
+                "32"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "The forest."
+}
