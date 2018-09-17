@@ -36,6 +36,52 @@
       ]
     ]
   ],
+  "prosody_roles": {
+    "ALONSO": {
+      "pitch": "-25%",
+      "volume": "medium"
+    },
+    "ANTONIO": {
+      "pitch": "-15%",
+      "volume": "medium"
+    },
+    "ARIEL": {
+      "pitch": "+5%",
+      "volume": "medium"
+    },
+    "CALIBAN": {
+      "pitch": "-30%",
+      "volume": "medium"
+    },
+    "FERDINAND": {
+      "pitch": "-10%",
+      "volume": "medium"
+    },
+    "GONZALO": {
+      "pitch": "-30%",
+      "volume": "medium"
+    },
+    "MIRANDA": {
+      "pitch": "+25%",
+      "volume": "medium"
+    },
+    "PROSPERO": {
+      "pitch": "-25%",
+      "volume": "medium"
+    },
+    "SEBASTIAN": {
+      "pitch": "-20%",
+      "volume": "medium"
+    },
+    "STEPHANO": {
+      "pitch": "-20%",
+      "volume": "medium"
+    },
+    "TRINCULO": {
+      "pitch": "-15%",
+      "volume": "medium"
+    }
+  },
   "work_name": "the tempest",
   "work_number": "10",
   "work_type": "Play"

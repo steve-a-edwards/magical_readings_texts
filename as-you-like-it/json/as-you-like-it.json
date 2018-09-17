@@ -18,9 +18,7 @@
         "Scene_4",
         "Scene_5",
         "Scene_6",
-        "Scene_7",
-        "Scene_8",
-        "Scene_9"
+        "Scene_7"
       ]
     ],
     [
@@ -37,55 +35,71 @@
       "Act_4",
       [
         "Scene_1",
-        "Scene_2"
+        "Scene_2",
+        "Scene_3"
       ]
     ],
     [
       "Act_5",
       [
-        "Scene_1"
+        "Scene_1",
+        "Scene_2",
+        "Scene_3",
+        "Scene_4"
       ]
     ]
   ],
   "prosody_roles": {
-    "ANTONIO": {
+    "ADAM": {
+      "pitch": "-20%",
+      "volume": "medium"
+    },
+    "CELIA": {
+      "pitch": "+25%",
+      "volume": "medium"
+    },
+    "CORIN": {
       "pitch": "-30%",
       "volume": "medium"
     },
-    "BASSANIO": {
-      "pitch": "-20%",
-      "volume": "medium"
-    },
-    "GRATIANO": {
-      "pitch": "-15%",
-      "volume": "medium"
-    },
-    "LAUNCELOT": {
+    "DUKE FREDERICK": {
       "pitch": "-25%",
       "volume": "medium"
     },
-    "LORENZO": {
+    "DUKE SENIOR": {
+      "pitch": "-20%",
+      "volume": "medium"
+    },
+    "JAQUES": {
+      "pitch": "-20%",
+      "volume": "medium"
+    },
+    "OLIVER": {
       "pitch": "-10%",
       "volume": "medium"
     },
-    "MOROCCO": {
-      "pitch": "-15%",
+    "ORLANDO": {
+      "pitch": "+15%",
       "volume": "medium"
     },
-    "PORTIA": {
+    "PHEBE": {
+      "pitch": "+10%",
+      "volume": "medium"
+    },
+    "ROSALIND": {
       "pitch": "+30%",
       "volume": "medium"
     },
-    "SALARINO": {
-      "pitch": "-20%",
+    "SILVIUS": {
+      "pitch": "-15%",
       "volume": "medium"
     },
-    "SHYLOCK": {
-      "pitch": "-25%",
+    "TOUCHSTONE": {
+      "pitch": "-5%",
       "volume": "medium"
     }
   },
-  "work_name": "the merchant of venice",
-  "work_number": "5",
+  "work_name": "as you like it",
+  "work_number": "13",
   "work_type": "Play"
 }

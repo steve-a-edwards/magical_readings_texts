@@ -2,34 +2,7 @@
   "main_author": "Shakespeare",
   "plays_scenes": [
     [
-      "Act_0",
-      [
-        "Scene_1",
-        "Scene_2"
-      ]
-    ],
-    [
       "Act_1",
-      [
-        "Scene_1",
-        "Scene_2"
-      ]
-    ],
-    [
-      "Act_2",
-      [
-        "Scene_1"
-      ]
-    ],
-    [
-      "Act_3",
-      [
-        "Scene_1",
-        "Scene_2"
-      ]
-    ],
-    [
-      "Act_4",
       [
         "Scene_1",
         "Scene_2",
@@ -39,56 +12,94 @@
       ]
     ],
     [
+      "Act_2",
+      [
+        "Scene_1",
+        "Scene_2",
+        "Scene_3",
+        "Scene_4"
+      ]
+    ],
+    [
+      "Act_3",
+      [
+        "Scene_1",
+        "Scene_2",
+        "Scene_3",
+        "Scene_4",
+        "Scene_5",
+        "Scene_6",
+        "Scene_7"
+      ]
+    ],
+    [
+      "Act_4",
+      [
+        "Scene_1",
+        "Scene_2",
+        "Scene_3",
+        "Scene_4",
+        "Scene_5",
+        "Scene_6",
+        "Scene_7"
+      ]
+    ],
+    [
       "Act_5",
       [
         "Scene_1",
-        "Scene_2"
+        "Scene_2",
+        "Scene_3"
       ]
     ]
   ],
   "prosody_roles": {
-    "BAPTISTA": {
+    "ALBANY": {
       "pitch": "-15%",
       "volume": "medium"
     },
-    "BIONDELLO": {
-      "pitch": "-15%",
-      "volume": "medium"
-    },
-    "GREMIO": {
-      "pitch": "-25%",
-      "volume": "medium"
-    },
-    "GRUMIO": {
-      "pitch": "-25%",
-      "volume": "medium"
-    },
-    "HORTENSIO": {
-      "pitch": "-20%",
-      "volume": "medium"
-    },
-    "KATHARINA": {
+    "CORDELIA": {
       "pitch": "+25%",
       "volume": "medium"
     },
-    "Lord": {
+    "CORNWALL": {
       "pitch": "-20%",
       "volume": "medium"
     },
-    "LUCENTIO": {
+    "EDGAR": {
       "pitch": "-25%",
       "volume": "medium"
     },
-    "PETRUCHIO": {
+    "EDMUND": {
+      "pitch": "-15%",
+      "volume": "medium"
+    },
+    "Fool": {
+      "pitch": "-5%",
+      "volume": "medium"
+    },
+    "GLOUCESTER": {
+      "pitch": "-15%",
+      "volume": "medium"
+    },
+    "GONERIL": {
+      "pitch": "+15%",
+      "volume": "medium"
+    },
+    "KENT": {
       "pitch": "-20%",
       "volume": "medium"
     },
-    "TRANIO": {
-      "pitch": "-25%",
+    "KING LEAR": {
+      "pitch": "-30%",
+      "volume": "medium"
+    },
+    "REGAN": {
+      "pitch": "+20%",
       "volume": "medium"
     }
   },
-  "work_name": "the taming of the shrew",
-  "work_number": "8",
+  "work_name": "king lear",
+  "work_number": "12",
   "work_type": "Play"
 }

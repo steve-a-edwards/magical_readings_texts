@@ -2,13 +2,6 @@
   "main_author": "Shakespeare",
   "plays_scenes": [
     [
-      "Act_0",
-      [
-        "Scene_1",
-        "Scene_2"
-      ]
-    ],
-    [
       "Act_1",
       [
         "Scene_1",
@@ -18,7 +11,8 @@
     [
       "Act_2",
       [
-        "Scene_1"
+        "Scene_1",
+        "Scene_2"
       ]
     ],
     [
@@ -32,63 +26,55 @@
       "Act_4",
       [
         "Scene_1",
-        "Scene_2",
-        "Scene_3",
-        "Scene_4",
-        "Scene_5"
+        "Scene_2"
       ]
     ],
     [
       "Act_5",
       [
-        "Scene_1",
-        "Scene_2"
+        "Scene_1"
       ]
     ]
   ],
   "prosody_roles": {
-    "BAPTISTA": {
-      "pitch": "-15%",
+    "BOTTOM": {
+      "pitch": "-10%",
       "volume": "medium"
     },
-    "BIONDELLO": {
-      "pitch": "-15%",
-      "volume": "medium"
-    },
-    "GREMIO": {
+    "DEMETRIUS": {
       "pitch": "-25%",
       "volume": "medium"
     },
-    "GRUMIO": {
-      "pitch": "-25%",
-      "volume": "medium"
-    },
-    "HORTENSIO": {
-      "pitch": "-20%",
-      "volume": "medium"
-    },
-    "KATHARINA": {
+    "HELENA": {
       "pitch": "+25%",
       "volume": "medium"
     },
-    "Lord": {
+    "HERMIA": {
+      "pitch": "+30%",
+      "volume": "medium"
+    },
+    "LYSANDER": {
+      "pitch": "-15%",
+      "volume": "medium"
+    },
+    "OBERON": {
       "pitch": "-20%",
       "volume": "medium"
     },
-    "LUCENTIO": {
+    "PUCK": {
+      "pitch": "+35%",
+      "volume": "medium"
+    },
+    "THESEUS": {
       "pitch": "-25%",
       "volume": "medium"
     },
-    "PETRUCHIO": {
-      "pitch": "-20%",
-      "volume": "medium"
-    },
-    "TRANIO": {
-      "pitch": "-25%",
+    "TITANIA": {
+      "pitch": "+25%",
       "volume": "medium"
     }
   },
-  "work_name": "the taming of the shrew",
-  "work_number": "8",
+  "work_name": "a midsummer night's dream",
+  "work_number": "3",
   "work_type": "Play"
 }

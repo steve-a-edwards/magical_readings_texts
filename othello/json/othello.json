@@ -42,6 +42,36 @@
       ]
     ]
   ],
+  "prosody_roles": {
+    "BRABANTIO": {
+      "pitch": "-25%",
+      "volume": "medium"
+    },
+    "CASSIO": {
+      "pitch": "-20%",
+      "volume": "medium"
+    },
+    "DESDEMONA": {
+      "pitch": "+25%",
+      "volume": "medium"
+    },
+    "EMILIA": {
+      "pitch": "+30%",
+      "volume": "medium"
+    },
+    "IAGO": {
+      "pitch": "-25%",
+      "volume": "medium"
+    },
+    "OTHELLO": {
+      "pitch": "-30%",
+      "volume": "medium"
+    },
+    "RODERIGO": {
+      "pitch": "-30%",
+      "volume": "medium"
+    }
+  },
   "work_name": "othello",
   "work_number": "9",
   "work_type": "Play"

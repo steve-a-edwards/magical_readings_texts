@@ -2,34 +2,23 @@
   "main_author": "Shakespeare",
   "plays_scenes": [
     [
-      "Act_0",
-      [
-        "Scene_1",
-        "Scene_2"
-      ]
-    ],
-    [
       "Act_1",
       [
         "Scene_1",
-        "Scene_2"
+        "Scene_2",
+        "Scene_3"
       ]
     ],
     [
       "Act_2",
       [
-        "Scene_1"
+        "Scene_1",
+        "Scene_2",
+        "Scene_3"
       ]
     ],
     [
       "Act_3",
-      [
-        "Scene_1",
-        "Scene_2"
-      ]
-    ],
-    [
-      "Act_4",
       [
         "Scene_1",
         "Scene_2",
@@ -39,56 +28,65 @@
       ]
     ],
     [
-      "Act_5",
+      "Act_4",
       [
         "Scene_1",
         "Scene_2"
       ]
+    ],
+    [
+      "Act_5",
+      [
+        "Scene_1",
+        "Scene_2",
+        "Scene_3",
+        "Scene_4"
+      ]
     ]
   ],
   "prosody_roles": {
-    "BAPTISTA": {
+    "BEATRICE": {
+      "pitch": "+35%",
+      "volume": "medium"
+    },
+    "BENEDICK": {
+      "pitch": "-20%",
+      "volume": "medium"
+    },
+    "BORACHIO": {
       "pitch": "-15%",
       "volume": "medium"
     },
-    "BIONDELLO": {
-      "pitch": "-15%",
-      "volume": "medium"
-    },
-    "GREMIO": {
+    "CLAUDIO": {
       "pitch": "-25%",
       "volume": "medium"
     },
-    "GRUMIO": {
+    "DOGBERRY": {
       "pitch": "-25%",
       "volume": "medium"
     },
-    "HORTENSIO": {
+    "DON JOHN": {
       "pitch": "-20%",
       "volume": "medium"
     },
-    "KATHARINA": {
-      "pitch": "+25%",
+    "DON PEDRO": {
+      "pitch": "-30%",
       "volume": "medium"
     },
-    "Lord": {
-      "pitch": "-20%",
-      "volume": "medium"
-    },
-    "LUCENTIO": {
+    "FRIAR FRANCIS": {
       "pitch": "-25%",
       "volume": "medium"
     },
-    "PETRUCHIO": {
+    "HERO": {
       "pitch": "-20%",
       "volume": "medium"
     },
-    "TRANIO": {
+    "LEONATO": {
       "pitch": "-25%",
       "volume": "medium"
     }
   },
-  "work_name": "the taming of the shrew",
-  "work_number": "8",
+  "work_name": "much ado about nothing",
+  "work_number": "7",
   "work_type": "Play"
 }

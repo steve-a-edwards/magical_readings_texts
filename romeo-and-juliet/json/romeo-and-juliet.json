@@ -54,16 +54,56 @@
     ]
   ],
   "prosody_roles": {
+    "BENVOLIO": {
+      "pitch": "-30%",
+      "volume": "medium"
+    },
+    "CAPULET": {
+      "pitch": "-30%",
+      "volume": "medium"
+    },
     "FRIAR LAURENCE": {
       "pitch": "-25%",
       "volume": "medium"
     },
     "JULIET": {
+      "pitch": "+30%",
+      "volume": "medium"
+    },
+    "LADY CAPULET": {
+      "pitch": "+25%",
+      "volume": "medium"
+    },
+    "MERCUTIO": {
+      "pitch": "-25%",
+      "volume": "medium"
+    },
+    "MONTAGUE": {
+      "pitch": "-25%",
+      "volume": "medium"
+    },
+    "Nurse": {
       "pitch": "+20%",
       "volume": "medium"
     },
-    "ROMEO": {
+    "PARIS": {
       "pitch": "-15%",
+      "volume": "medium"
+    },
+    "PETER": {
+      "pitch": "-25%",
+      "volume": "medium"
+    },
+    "PRINCE": {
+      "pitch": "-10%",
+      "volume": "medium"
+    },
+    "ROMEO": {
+      "pitch": "-20%",
+      "volume": "medium"
+    },
+    "TYBALT": {
+      "pitch": "-30%",
       "volume": "medium"
     }
   },

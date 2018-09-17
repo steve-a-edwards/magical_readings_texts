@@ -6,7 +6,9 @@
       [
         "Scene_1",
         "Scene_2",
-        "Scene_3"
+        "Scene_3",
+        "Scene_4",
+        "Scene_5"
       ]
     ],
     [
@@ -16,11 +18,7 @@
         "Scene_2",
         "Scene_3",
         "Scene_4",
-        "Scene_5",
-        "Scene_6",
-        "Scene_7",
-        "Scene_8",
-        "Scene_9"
+        "Scene_5"
       ]
     ],
     [
@@ -29,15 +27,15 @@
         "Scene_1",
         "Scene_2",
         "Scene_3",
-        "Scene_4",
-        "Scene_5"
+        "Scene_4"
       ]
     ],
     [
       "Act_4",
       [
         "Scene_1",
-        "Scene_2"
+        "Scene_2",
+        "Scene_3"
       ]
     ],
     [
@@ -49,43 +47,51 @@
   ],
   "prosody_roles": {
     "ANTONIO": {
-      "pitch": "-30%",
-      "volume": "medium"
-    },
-    "BASSANIO": {
       "pitch": "-20%",
       "volume": "medium"
     },
-    "GRATIANO": {
-      "pitch": "-15%",
-      "volume": "medium"
-    },
-    "LAUNCELOT": {
-      "pitch": "-25%",
-      "volume": "medium"
-    },
-    "LORENZO": {
+    "Clown": {
       "pitch": "-10%",
       "volume": "medium"
     },
-    "MOROCCO": {
+    "DUKE ORSINO": {
+      "pitch": "-30%",
+      "volume": "medium"
+    },
+    "FABIAN": {
       "pitch": "-15%",
       "volume": "medium"
     },
-    "PORTIA": {
-      "pitch": "+30%",
+    "MALVOLIO": {
+      "pitch": "-15%",
       "volume": "medium"
     },
-    "SALARINO": {
-      "pitch": "-20%",
+    "MARIA": {
+      "pitch": "+15%",
       "volume": "medium"
     },
-    "SHYLOCK": {
+    "OLIVIA": {
+      "pitch": "+20%",
+      "volume": "medium"
+    },
+    "SEBASTIAN": {
+      "pitch": "-10%",
+      "volume": "medium"
+    },
+    "SIR ANDREW": {
       "pitch": "-25%",
+      "volume": "medium"
+    },
+    "SIR TOBY BELCH": {
+      "pitch": "-25%",
+      "volume": "medium"
+    },
+    "VIOLA": {
+      "pitch": "+30%",
       "volume": "medium"
     }
   },
-  "work_name": "the merchant of venice",
-  "work_number": "5",
+  "work_name": "twelfth night",
+  "work_number": "6",
   "work_type": "Play"
 }
