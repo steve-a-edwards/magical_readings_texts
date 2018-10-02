@@ -1,0 +1,85 @@
+{
+    "scene_id": "antony and cleopatra~~Act_4~~Scene_10",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "MARK ANTONY",
+            "Their preparation is to-day by sea;",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "We please them not by land."
+        ],
+        [
+            "SCARUS",
+            "For both, my lord."
+        ],
+        [
+            "MARK ANTONY",
+            "I would they'ld fight i' the fire or i' the air;"
+        ],
+        [
+            "MARK ANTONY",
+            "We'ld fight there too. But this it is; our foot"
+        ],
+        [
+            "MARK ANTONY",
+            "Upon the hills adjoining to the city"
+        ],
+        [
+            "MARK ANTONY",
+            "Shall stay with us: order for sea is given;"
+        ],
+        [
+            "MARK ANTONY",
+            "They have put forth the haven"
+        ],
+        [
+            "MARK ANTONY",
+            "Where their appointment we may best discover,"
+        ],
+        [
+            "MARK ANTONY",
+            "And look on their endeavour.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter MARK ANTONY and SCARUS, with their Army"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "MARK ANTONY": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "4",
+                "10"
+            ]
+        ],
+        "SCARUS": [
+            [
+                "3",
+                "3"
+            ]
+        ]
+    },
+    "scene_name": "SCENE X",
+    "scene_description": "Between the two camps."
+}

@@ -1,0 +1,979 @@
+{
+    "scene_id": "antony and cleopatra~~Act_2~~Scene_5",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "CLEOPATRA",
+            "Give me some music; music, moody food",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "Of us that trade in love."
+        ],
+        [
+            "Attendants",
+            "The music, ho!",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "Let it alone; let's to billiards: come, Charmian.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "CHARMIAN",
+            "My arm is sore; best play with Mardian."
+        ],
+        [
+            "CLEOPATRA",
+            "As well a woman with an eunuch play'd"
+        ],
+        [
+            "CLEOPATRA",
+            "As with a woman. Come, you'll play with me, sir?"
+        ],
+        [
+            "MARDIAN",
+            "As well as I can, madam."
+        ],
+        [
+            "CLEOPATRA",
+            "And when good will is show'd, though't come"
+        ],
+        [
+            "CLEOPATRA",
+            "too short,"
+        ],
+        [
+            "CLEOPATRA",
+            "The actor may plead pardon. I'll none now:"
+        ],
+        [
+            "CLEOPATRA",
+            "Give me mine angle; we'll to the river: there,"
+        ],
+        [
+            "CLEOPATRA",
+            "My music playing far off, I will betray"
+        ],
+        [
+            "CLEOPATRA",
+            "Tawny-finn'd fishes; my bended hook shall pierce"
+        ],
+        [
+            "CLEOPATRA",
+            "Their slimy jaws; and, as I draw them up,"
+        ],
+        [
+            "CLEOPATRA",
+            "I'll think them every one an Antony,"
+        ],
+        [
+            "CLEOPATRA",
+            "And say 'Ah, ha! you're caught.'"
+        ],
+        [
+            "CHARMIAN",
+            "'Twas merry when"
+        ],
+        [
+            "CHARMIAN",
+            "You wager'd on your angling; when your diver"
+        ],
+        [
+            "CHARMIAN",
+            "Did hang a salt-fish on his hook, which he"
+        ],
+        [
+            "CHARMIAN",
+            "With fervency drew up."
+        ],
+        [
+            "CLEOPATRA",
+            "That time,--O times!--"
+        ],
+        [
+            "CLEOPATRA",
+            "I laugh'd him out of patience; and that night"
+        ],
+        [
+            "CLEOPATRA",
+            "I laugh'd him into patience; and next morn,"
+        ],
+        [
+            "CLEOPATRA",
+            "Ere the ninth hour, I drunk him to his bed;"
+        ],
+        [
+            "CLEOPATRA",
+            "Then put my tires and mantles on him, whilst"
+        ],
+        [
+            "CLEOPATRA",
+            "I wore his sword Philippan.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "O, from Italy",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "Ram thou thy fruitful tidings in mine ears,"
+        ],
+        [
+            "CLEOPATRA",
+            "That long time have been barren."
+        ],
+        [
+            "Messenger",
+            "Madam, madam,--"
+        ],
+        [
+            "CLEOPATRA",
+            "Antonius dead!--If thou say so, villain,"
+        ],
+        [
+            "CLEOPATRA",
+            "Thou kill'st thy mistress: but well and free,"
+        ],
+        [
+            "CLEOPATRA",
+            "If thou so yield him, there is gold, and here"
+        ],
+        [
+            "CLEOPATRA",
+            "My bluest veins to kiss; a hand that kings"
+        ],
+        [
+            "CLEOPATRA",
+            "Have lipp'd, and trembled kissing."
+        ],
+        [
+            "Messenger",
+            "First, madam, he is well."
+        ],
+        [
+            "CLEOPATRA",
+            "Why, there's more gold."
+        ],
+        [
+            "CLEOPATRA",
+            "But, sirrah, mark, we use"
+        ],
+        [
+            "CLEOPATRA",
+            "To say the dead are well: bring it to that,"
+        ],
+        [
+            "CLEOPATRA",
+            "The gold I give thee will I melt and pour"
+        ],
+        [
+            "CLEOPATRA",
+            "Down thy ill-uttering throat."
+        ],
+        [
+            "Messenger",
+            "Good madam, hear me."
+        ],
+        [
+            "CLEOPATRA",
+            "Well, go to, I will;"
+        ],
+        [
+            "CLEOPATRA",
+            "But there's no goodness in thy face: if Antony"
+        ],
+        [
+            "CLEOPATRA",
+            "Be free and healthful,--so tart a favour"
+        ],
+        [
+            "CLEOPATRA",
+            "To trumpet such good tidings! If not well,"
+        ],
+        [
+            "CLEOPATRA",
+            "Thou shouldst come like a Fury crown'd with snakes,"
+        ],
+        [
+            "CLEOPATRA",
+            "Not like a formal man."
+        ],
+        [
+            "Messenger",
+            "Will't please you hear me?"
+        ],
+        [
+            "CLEOPATRA",
+            "I have a mind to strike thee ere thou speak'st:"
+        ],
+        [
+            "CLEOPATRA",
+            "Yet if thou say Antony lives, is well,"
+        ],
+        [
+            "CLEOPATRA",
+            "Or friends with Caesar, or not captive to him,"
+        ],
+        [
+            "CLEOPATRA",
+            "I'll set thee in a shower of gold, and hail"
+        ],
+        [
+            "CLEOPATRA",
+            "Rich pearls upon thee."
+        ],
+        [
+            "Messenger",
+            "Madam, he's well."
+        ],
+        [
+            "CLEOPATRA",
+            "Well said."
+        ],
+        [
+            "Messenger",
+            "And friends with Caesar."
+        ],
+        [
+            "CLEOPATRA",
+            "Thou'rt an honest man."
+        ],
+        [
+            "Messenger",
+            "Caesar and he are greater friends than ever."
+        ],
+        [
+            "CLEOPATRA",
+            "Make thee a fortune from me."
+        ],
+        [
+            "Messenger",
+            "But yet, madam,--"
+        ],
+        [
+            "CLEOPATRA",
+            "I do not like 'But yet,' it does allay"
+        ],
+        [
+            "CLEOPATRA",
+            "The good precedence; fie upon 'But yet'!"
+        ],
+        [
+            "CLEOPATRA",
+            "'But yet' is as a gaoler to bring forth"
+        ],
+        [
+            "CLEOPATRA",
+            "Some monstrous malefactor. Prithee, friend,"
+        ],
+        [
+            "CLEOPATRA",
+            "Pour out the pack of matter to mine ear,"
+        ],
+        [
+            "CLEOPATRA",
+            "The good and bad together: he's friends with Caesar:"
+        ],
+        [
+            "CLEOPATRA",
+            "In state of health thou say'st; and thou say'st free."
+        ],
+        [
+            "Messenger",
+            "Free, madam! no; I made no such report:"
+        ],
+        [
+            "Messenger",
+            "He's bound unto Octavia."
+        ],
+        [
+            "CLEOPATRA",
+            "For what good turn?"
+        ],
+        [
+            "Messenger",
+            "For the best turn i' the bed."
+        ],
+        [
+            "CLEOPATRA",
+            "I am pale, Charmian."
+        ],
+        [
+            "Messenger",
+            "Madam, he's married to Octavia."
+        ],
+        [
+            "CLEOPATRA",
+            "The most infectious pestilence upon thee!",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "Messenger",
+            "Good madam, patience.",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "What say you? Hence,",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "Horrible villain! or I'll spurn thine eyes",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "Like balls before me; I'll unhair thy head:",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "Thou shalt be whipp'd with wire, and stew'd in brine,",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "Smarting in lingering pickle."
+        ],
+        [
+            "Messenger",
+            "Gracious madam,"
+        ],
+        [
+            "Messenger",
+            "I that do bring the news made not the match."
+        ],
+        [
+            "CLEOPATRA",
+            "Say 'tis not so, a province I will give thee,"
+        ],
+        [
+            "CLEOPATRA",
+            "And make thy fortunes proud: the blow thou hadst"
+        ],
+        [
+            "CLEOPATRA",
+            "Shall make thy peace for moving me to rage;"
+        ],
+        [
+            "CLEOPATRA",
+            "And I will boot thee with what gift beside"
+        ],
+        [
+            "CLEOPATRA",
+            "Thy modesty can beg."
+        ],
+        [
+            "Messenger",
+            "He's married, madam."
+        ],
+        [
+            "CLEOPATRA",
+            "Rogue, thou hast lived too long.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "Messenger",
+            "Nay, then I'll run.",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "Messenger",
+            "What mean you, madam? I have made no fault.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "CHARMIAN",
+            "Good madam, keep yourself within yourself:",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "CHARMIAN",
+            "The man is innocent."
+        ],
+        [
+            "CLEOPATRA",
+            "Some innocents 'scape not the thunderbolt."
+        ],
+        [
+            "CLEOPATRA",
+            "Melt Egypt into Nile! and kindly creatures"
+        ],
+        [
+            "CLEOPATRA",
+            "Turn all to serpents! Call the slave again:"
+        ],
+        [
+            "CLEOPATRA",
+            "Though I am mad, I will not bite him: call."
+        ],
+        [
+            "CHARMIAN",
+            "He is afeard to come."
+        ],
+        [
+            "CLEOPATRA",
+            "I will not hurt him.",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "These hands do lack nobility, that they strike",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "A meaner than myself; since I myself"
+        ],
+        [
+            "CLEOPATRA",
+            "Have given myself the cause.",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "Come hither, sir.",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "Though it be honest, it is never good"
+        ],
+        [
+            "CLEOPATRA",
+            "To bring bad news: give to a gracious message."
+        ],
+        [
+            "CLEOPATRA",
+            "An host of tongues; but let ill tidings tell"
+        ],
+        [
+            "CLEOPATRA",
+            "Themselves when they be felt."
+        ],
+        [
+            "Messenger",
+            "I have done my duty."
+        ],
+        [
+            "CLEOPATRA",
+            "Is he married?"
+        ],
+        [
+            "CLEOPATRA",
+            "I cannot hate thee worser than I do,"
+        ],
+        [
+            "CLEOPATRA",
+            "If thou again say 'Yes.'"
+        ],
+        [
+            "Messenger",
+            "He's married, madam."
+        ],
+        [
+            "CLEOPATRA",
+            "The gods confound thee! dost thou hold there still?"
+        ],
+        [
+            "Messenger",
+            "Should I lie, madam?"
+        ],
+        [
+            "CLEOPATRA",
+            "O, I would thou didst,"
+        ],
+        [
+            "CLEOPATRA",
+            "So half my Egypt were submerged and made"
+        ],
+        [
+            "CLEOPATRA",
+            "A cistern for scaled snakes! Go, get thee hence:"
+        ],
+        [
+            "CLEOPATRA",
+            "Hadst thou Narcissus in thy face, to me"
+        ],
+        [
+            "CLEOPATRA",
+            "Thou wouldst appear most ugly. He is married?"
+        ],
+        [
+            "Messenger",
+            "I crave your highness' pardon."
+        ],
+        [
+            "CLEOPATRA",
+            "He is married?"
+        ],
+        [
+            "Messenger",
+            "Take no offence that I would not offend you:"
+        ],
+        [
+            "Messenger",
+            "To punish me for what you make me do."
+        ],
+        [
+            "Messenger",
+            "Seems much unequal: he's married to Octavia."
+        ],
+        [
+            "CLEOPATRA",
+            "O, that his fault should make a knave of thee,"
+        ],
+        [
+            "CLEOPATRA",
+            "That art not what thou'rt sure of! Get thee hence:"
+        ],
+        [
+            "CLEOPATRA",
+            "The merchandise which thou hast brought from Rome"
+        ],
+        [
+            "CLEOPATRA",
+            "Are all too dear for me: lie they upon thy hand,"
+        ],
+        [
+            "CLEOPATRA",
+            "And be undone by 'em!",
+            {
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "CHARMIAN",
+            "Good your highness, patience.",
+            {
+                "preceding_direction_line": "11"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "In praising Antony, I have dispraised Caesar."
+        ],
+        [
+            "CHARMIAN",
+            "Many times, madam."
+        ],
+        [
+            "CLEOPATRA",
+            "I am paid for't now."
+        ],
+        [
+            "CLEOPATRA",
+            "Lead me from hence:"
+        ],
+        [
+            "CLEOPATRA",
+            "I faint: O Iras, Charmian! 'tis no matter."
+        ],
+        [
+            "CLEOPATRA",
+            "Go to the fellow, good Alexas; bid him"
+        ],
+        [
+            "CLEOPATRA",
+            "Report the feature of Octavia, her years,"
+        ],
+        [
+            "CLEOPATRA",
+            "Her inclination, let him not leave out"
+        ],
+        [
+            "CLEOPATRA",
+            "The colour of her hair: bring me word quickly.",
+            {
+                "following_direction_line": "12"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "Let him for ever go:--let him not--Charmian,",
+            {
+                "preceding_direction_line": "12"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "Though he be painted one way like a Gorgon,"
+        ],
+        [
+            "CLEOPATRA",
+            "The other way's a Mars. Bid you Alexas",
+            {
+                "following_direction_line": "13"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "Bring me word how tall she is. Pity me, Charmian,",
+            {
+                "preceding_direction_line": "13"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "But do not speak to me. Lead me to my chamber.",
+            {
+                "following_direction_line": "14"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter CLEOPATRA, CHARMIAN, IRAS, and ALEXAS"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter MARDIAN"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter a Messenger"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Strikes him down"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Strikes him again"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "She hales him up and down"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Draws a knife"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Exit CHARMIAN"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Re-enter CHARMIAN and Messenger"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "Exit Messenger"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Exit ALEXAS"
+        ],
+        [
+            "_DIRECTION",
+            "D13",
+            "To MARDIAN"
+        ],
+        [
+            "_DIRECTION",
+            "D14",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "CLEOPATRA": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "4",
+                "4"
+            ],
+            [
+                "6",
+                "7"
+            ],
+            [
+                "9",
+                "17"
+            ],
+            [
+                "22",
+                "30"
+            ],
+            [
+                "32",
+                "36"
+            ],
+            [
+                "38",
+                "42"
+            ],
+            [
+                "44",
+                "49"
+            ],
+            [
+                "51",
+                "55"
+            ],
+            [
+                "57",
+                "57"
+            ],
+            [
+                "59",
+                "59"
+            ],
+            [
+                "61",
+                "61"
+            ],
+            [
+                "63",
+                "69"
+            ],
+            [
+                "72",
+                "72"
+            ],
+            [
+                "74",
+                "74"
+            ],
+            [
+                "76",
+                "76"
+            ],
+            [
+                "78",
+                "82"
+            ],
+            [
+                "85",
+                "89"
+            ],
+            [
+                "91",
+                "91"
+            ],
+            [
+                "96",
+                "99"
+            ],
+            [
+                "101",
+                "109"
+            ],
+            [
+                "111",
+                "113"
+            ],
+            [
+                "115",
+                "115"
+            ],
+            [
+                "117",
+                "121"
+            ],
+            [
+                "123",
+                "123"
+            ],
+            [
+                "127",
+                "131"
+            ],
+            [
+                "133",
+                "133"
+            ],
+            [
+                "135",
+                "146"
+            ]
+        ],
+        "Attendants": [
+            [
+                "3",
+                "3"
+            ]
+        ],
+        "CHARMIAN": [
+            [
+                "5",
+                "5"
+            ],
+            [
+                "18",
+                "21"
+            ],
+            [
+                "94",
+                "95"
+            ],
+            [
+                "100",
+                "100"
+            ],
+            [
+                "132",
+                "132"
+            ],
+            [
+                "134",
+                "134"
+            ]
+        ],
+        "MARDIAN": [
+            [
+                "8",
+                "8"
+            ]
+        ],
+        "Messenger": [
+            [
+                "31",
+                "31"
+            ],
+            [
+                "37",
+                "37"
+            ],
+            [
+                "43",
+                "43"
+            ],
+            [
+                "50",
+                "50"
+            ],
+            [
+                "56",
+                "56"
+            ],
+            [
+                "58",
+                "58"
+            ],
+            [
+                "60",
+                "60"
+            ],
+            [
+                "62",
+                "62"
+            ],
+            [
+                "70",
+                "71"
+            ],
+            [
+                "73",
+                "73"
+            ],
+            [
+                "75",
+                "75"
+            ],
+            [
+                "77",
+                "77"
+            ],
+            [
+                "83",
+                "84"
+            ],
+            [
+                "90",
+                "90"
+            ],
+            [
+                "92",
+                "93"
+            ],
+            [
+                "110",
+                "110"
+            ],
+            [
+                "114",
+                "114"
+            ],
+            [
+                "116",
+                "116"
+            ],
+            [
+                "122",
+                "122"
+            ],
+            [
+                "124",
+                "126"
+            ]
+        ]
+    },
+    "scene_name": "SCENE V",
+    "scene_description": "Alexandria. CLEOPATRA's palace."
+}

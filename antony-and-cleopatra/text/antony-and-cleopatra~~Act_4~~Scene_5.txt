@@ -1,0 +1,39 @@
+_S_SCENE V. Alexandria. MARK ANTONY's camp.
+_D_Trumpets sound. Enter MARK ANTONY and EROS; a Soldier meeting them
+_R_Soldier
+The gods make this a happy day to Antony!
+_R_MARK ANTONY
+Would thou and those thy scars had once prevail'd
+To make me fight at land!
+_R_Soldier
+Hadst thou done so,
+The kings that have revolted, and the soldier
+That has this morning left thee, would have still
+Follow'd thy heels.
+_R_MARK ANTONY
+Who's gone this morning?
+_R_Soldier
+Who!
+One ever near thee: call for Enobarbus,
+He shall not hear thee; or from Caesar's camp
+Say 'I am none of thine.'
+_R_MARK ANTONY
+What say'st thou?
+_R_Soldier
+Sir,
+He is with Caesar.
+_R_EROS
+Sir, his chests and treasure
+He has not with him.
+_R_MARK ANTONY
+Is he gone?
+_R_Soldier
+Most certain.
+_R_MARK ANTONY
+Go, Eros, send his treasure after; do it;
+Detain no jot, I charge thee: write to him--
+I will subscribe--gentle adieus and greetings;
+Say that I wish he never find more cause
+To change a master. O, my fortunes have
+Corrupted honest men! Dispatch.--Enobarbus!
+_D_Exeunt

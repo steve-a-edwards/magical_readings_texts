@@ -1,0 +1,66 @@
+_S_SCENE III. The same. Before the palace.
+_D_Enter two Soldiers to their guard
+_R_First Soldier
+Brother, good night: to-morrow is the day.
+_R_Second Soldier
+It will determine one way: fare you well.
+Heard you of nothing strange about the streets?
+_R_First Soldier
+Nothing. What news?
+_R_Second Soldier
+Belike 'tis but a rumour. Good night to you.
+_R_First Soldier
+Well, sir, good night.
+_D_Enter two other Soldiers
+_R_Second Soldier
+Soldiers, have careful watch.
+_R_Third Soldier
+And you. Good night, good night.
+_D_They place themselves in every corner of the stage
+_R_Fourth Soldier
+Here we: and if to-morrow
+Our navy thrive, I have an absolute hope
+Our landmen will stand up.
+_R_Third Soldier
+'Tis a brave army,
+And full of purpose.
+_D_Music of the hautboys as under the stage
+_R_Fourth Soldier
+Peace! what noise?
+_R_First Soldier
+List, list!
+_R_Second Soldier
+Hark!
+_R_First Soldier
+Music i' the air.
+_R_Third Soldier
+Under the earth.
+_R_Fourth Soldier
+It signs well, does it not?
+_R_Third Soldier
+No.
+_R_First Soldier
+Peace, I say!
+What should this mean?
+_R_Second Soldier
+'Tis the god Hercules, whom Antony loved,
+Now leaves him.
+_R_First Soldier
+Walk; let's see if other watchmen
+Do hear what we do?
+_D_They advance to another post
+_R_Second Soldier
+How now, masters!
+_R_All
+[Speaking together] How now!
+How now! do you hear this?
+_R_First Soldier
+Ay; is't not strange?
+_R_Third Soldier
+Do you hear, masters? do you hear?
+_R_First Soldier
+Follow the noise so far as we have quarter;
+Let's see how it will give off.
+_R_All
+Content. 'Tis strange.
+_D_Exeunt

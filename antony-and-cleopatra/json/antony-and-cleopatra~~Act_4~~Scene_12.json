@@ -1,0 +1,330 @@
+{
+    "scene_id": "antony and cleopatra~~Act_4~~Scene_12",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "MARK ANTONY",
+            "Yet they are not join'd: where yond pine",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "does stand,"
+        ],
+        [
+            "MARK ANTONY",
+            "I shall discover all: I'll bring thee word"
+        ],
+        [
+            "MARK ANTONY",
+            "Straight, how 'tis like to go.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "SCARUS",
+            "Swallows have built",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "SCARUS",
+            "In Cleopatra's sails their nests: the augurers"
+        ],
+        [
+            "SCARUS",
+            "Say they know not, they cannot tell; look grimly,"
+        ],
+        [
+            "SCARUS",
+            "And dare not speak their knowledge. Antony"
+        ],
+        [
+            "SCARUS",
+            "Is valiant, and dejected; and, by starts,"
+        ],
+        [
+            "SCARUS",
+            "His fretted fortunes give him hope, and fear,"
+        ],
+        [
+            "SCARUS",
+            "Of what he has, and has not.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "All is lost;",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "This foul Egyptian hath betrayed me:"
+        ],
+        [
+            "MARK ANTONY",
+            "My fleet hath yielded to the foe; and yonder"
+        ],
+        [
+            "MARK ANTONY",
+            "They cast their caps up and carouse together"
+        ],
+        [
+            "MARK ANTONY",
+            "Like friends long lost. Triple-turn'd whore!"
+        ],
+        [
+            "MARK ANTONY",
+            "'tis thou"
+        ],
+        [
+            "MARK ANTONY",
+            "Hast sold me to this novice; and my heart"
+        ],
+        [
+            "MARK ANTONY",
+            "Makes only wars on thee. Bid them all fly;"
+        ],
+        [
+            "MARK ANTONY",
+            "For when I am revenged upon my charm,"
+        ],
+        [
+            "MARK ANTONY",
+            "I have done all. Bid them all fly; begone.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "O sun, thy uprise shall I see no more:",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Fortune and Antony part here; even here"
+        ],
+        [
+            "MARK ANTONY",
+            "Do we shake hands. All come to this? The hearts"
+        ],
+        [
+            "MARK ANTONY",
+            "That spaniel'd me at heels, to whom I gave"
+        ],
+        [
+            "MARK ANTONY",
+            "Their wishes, do discandy, melt their sweets"
+        ],
+        [
+            "MARK ANTONY",
+            "On blossoming Caesar; and this pine is bark'd,"
+        ],
+        [
+            "MARK ANTONY",
+            "That overtopp'd them all. Betray'd I am:"
+        ],
+        [
+            "MARK ANTONY",
+            "O this false soul of Egypt! this grave charm,--"
+        ],
+        [
+            "MARK ANTONY",
+            "Whose eye beck'd forth my wars, and call'd them home;"
+        ],
+        [
+            "MARK ANTONY",
+            "Whose bosom was my crownet, my chief end,--"
+        ],
+        [
+            "MARK ANTONY",
+            "Like a right gipsy, hath, at fast and loose,"
+        ],
+        [
+            "MARK ANTONY",
+            "Beguiled me to the very heart of loss."
+        ],
+        [
+            "MARK ANTONY",
+            "What, Eros, Eros!",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Ah, thou spell! Avaunt!",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "Why is my lord enraged against his love?"
+        ],
+        [
+            "MARK ANTONY",
+            "Vanish, or I shall give thee thy deserving,"
+        ],
+        [
+            "MARK ANTONY",
+            "And blemish Caesar's triumph. Let him take thee,"
+        ],
+        [
+            "MARK ANTONY",
+            "And hoist thee up to the shouting plebeians:"
+        ],
+        [
+            "MARK ANTONY",
+            "Follow his chariot, like the greatest spot"
+        ],
+        [
+            "MARK ANTONY",
+            "Of all thy sex; most monster-like, be shown"
+        ],
+        [
+            "MARK ANTONY",
+            "For poor'st diminutives, for doits; and let"
+        ],
+        [
+            "MARK ANTONY",
+            "Patient Octavia plough thy visage up"
+        ],
+        [
+            "MARK ANTONY",
+            "With her prepared nails.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "'Tis well thou'rt gone,",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "If it be well to live; but better 'twere"
+        ],
+        [
+            "MARK ANTONY",
+            "Thou fell'st into my fury, for one death"
+        ],
+        [
+            "MARK ANTONY",
+            "Might have prevented many. Eros, ho!"
+        ],
+        [
+            "MARK ANTONY",
+            "The shirt of Nessus is upon me: teach me,"
+        ],
+        [
+            "MARK ANTONY",
+            "Alcides, thou mine ancestor, thy rage:"
+        ],
+        [
+            "MARK ANTONY",
+            "Let me lodge Lichas on the horns o' the moon;"
+        ],
+        [
+            "MARK ANTONY",
+            "And with those hands, that grasp'd the heaviest club,"
+        ],
+        [
+            "MARK ANTONY",
+            "Subdue my worthiest self. The witch shall die:"
+        ],
+        [
+            "MARK ANTONY",
+            "To the young Roman boy she hath sold me, and I fall"
+        ],
+        [
+            "MARK ANTONY",
+            "Under this plot; she dies for't. Eros, ho!",
+            {
+                "following_direction_line": "7"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter MARK ANTONY and SCARUS"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Alarum afar off, as at a sea-fight. Re-enter MARK ANTONY"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit SCARUS"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Enter CLEOPATRA"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exit CLEOPATRA"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "MARK ANTONY": [
+            [
+                "1",
+                "4"
+            ],
+            [
+                "12",
+                "35"
+            ],
+            [
+                "37",
+                "55"
+            ]
+        ],
+        "SCARUS": [
+            [
+                "5",
+                "11"
+            ]
+        ],
+        "CLEOPATRA": [
+            [
+                "36",
+                "36"
+            ]
+        ]
+    },
+    "scene_name": "SCENE XII",
+    "scene_description": "Another part of the same."
+}

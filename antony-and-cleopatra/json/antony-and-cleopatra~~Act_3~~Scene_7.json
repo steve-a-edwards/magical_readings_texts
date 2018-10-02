@@ -1,0 +1,652 @@
+{
+    "scene_id": "antony and cleopatra~~Act_3~~Scene_7",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "CLEOPATRA",
+            "I will be even with thee, doubt it not.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "But why, why, why?"
+        ],
+        [
+            "CLEOPATRA",
+            "Thou hast forspoke my being in these wars,"
+        ],
+        [
+            "CLEOPATRA",
+            "And say'st it is not fit."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Well, is it, is it?"
+        ],
+        [
+            "CLEOPATRA",
+            "If not denounced against us, why should not we"
+        ],
+        [
+            "CLEOPATRA",
+            "Be there in person?"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "[Aside] Well, I could reply:"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "If we should serve with horse and mares together,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "The horse were merely lost; the mares would bear"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "A soldier and his horse."
+        ],
+        [
+            "CLEOPATRA",
+            "What is't you say?"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Your presence needs must puzzle Antony;"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Take from his heart, take from his brain,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "from's time,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "What should not then be spared. He is already"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Traduced for levity; and 'tis said in Rome"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "That Photinus an eunuch and your maids"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Manage this war."
+        ],
+        [
+            "CLEOPATRA",
+            "Sink Rome, and their tongues rot"
+        ],
+        [
+            "CLEOPATRA",
+            "That speak against us! A charge we bear i' the war,"
+        ],
+        [
+            "CLEOPATRA",
+            "And, as the president of my kingdom, will"
+        ],
+        [
+            "CLEOPATRA",
+            "Appear there for a man. Speak not against it:"
+        ],
+        [
+            "CLEOPATRA",
+            "I will not stay behind."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Nay, I have done."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Here comes the emperor.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Is it not strange, Canidius,",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "That from Tarentum and Brundusium"
+        ],
+        [
+            "MARK ANTONY",
+            "He could so quickly cut the Ionian sea,"
+        ],
+        [
+            "MARK ANTONY",
+            "And take in Toryne? You have heard on't, sweet?"
+        ],
+        [
+            "CLEOPATRA",
+            "Celerity is never more admired"
+        ],
+        [
+            "CLEOPATRA",
+            "Than by the negligent."
+        ],
+        [
+            "MARK ANTONY",
+            "A good rebuke,"
+        ],
+        [
+            "MARK ANTONY",
+            "Which might have well becomed the best of men,"
+        ],
+        [
+            "MARK ANTONY",
+            "To taunt at slackness. Canidius, we"
+        ],
+        [
+            "MARK ANTONY",
+            "Will fight with him by sea."
+        ],
+        [
+            "CLEOPATRA",
+            "By sea! what else?"
+        ],
+        [
+            "CANIDIUS",
+            "Why will my lord do so?"
+        ],
+        [
+            "MARK ANTONY",
+            "For that he dares us to't."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "So hath my lord dared him to single fight."
+        ],
+        [
+            "CANIDIUS",
+            "Ay, and to wage this battle at Pharsalia."
+        ],
+        [
+            "CANIDIUS",
+            "Where Caesar fought with Pompey: but these offers,"
+        ],
+        [
+            "CANIDIUS",
+            "Which serve not for his vantage, be shakes off;"
+        ],
+        [
+            "CANIDIUS",
+            "And so should you."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Your ships are not well mann'd;"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Your mariners are muleters, reapers, people"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Ingross'd by swift impress; in Caesar's fleet"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Are those that often have 'gainst Pompey fought:"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Their ships are yare; yours, heavy: no disgrace"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Shall fall you for refusing him at sea,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Being prepared for land."
+        ],
+        [
+            "MARK ANTONY",
+            "By sea, by sea."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Most worthy sir, you therein throw away"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "The absolute soldiership you have by land;"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Distract your army, which doth most consist"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Of war-mark'd footmen; leave unexecuted"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Your own renowned knowledge; quite forego"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "The way which promises assurance; and"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Give up yourself merely to chance and hazard,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "From firm security."
+        ],
+        [
+            "MARK ANTONY",
+            "I'll fight at sea."
+        ],
+        [
+            "CLEOPATRA",
+            "I have sixty sails, Caesar none better."
+        ],
+        [
+            "MARK ANTONY",
+            "Our overplus of shipping will we burn;"
+        ],
+        [
+            "MARK ANTONY",
+            "And, with the rest full-mann'd, from the head of Actium"
+        ],
+        [
+            "MARK ANTONY",
+            "Beat the approaching Caesar. But if we fail,"
+        ],
+        [
+            "MARK ANTONY",
+            "We then can do't at land.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Thy business?",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "Messenger",
+            "The news is true, my lord; he is descried;"
+        ],
+        [
+            "Messenger",
+            "Caesar has taken Toryne."
+        ],
+        [
+            "MARK ANTONY",
+            "Can he be there in person? 'tis impossible;"
+        ],
+        [
+            "MARK ANTONY",
+            "Strange that power should be. Canidius,"
+        ],
+        [
+            "MARK ANTONY",
+            "Our nineteen legions thou shalt hold by land,"
+        ],
+        [
+            "MARK ANTONY",
+            "And our twelve thousand horse. We'll to our ship:"
+        ],
+        [
+            "MARK ANTONY",
+            "Away, my Thetis!",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "How now, worthy soldier?",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "Soldier",
+            "O noble emperor, do not fight by sea;"
+        ],
+        [
+            "Soldier",
+            "Trust not to rotten planks: do you misdoubt"
+        ],
+        [
+            "Soldier",
+            "This sword and these my wounds? Let the Egyptians"
+        ],
+        [
+            "Soldier",
+            "And the Phoenicians go a-ducking; we"
+        ],
+        [
+            "Soldier",
+            "Have used to conquer, standing on the earth,"
+        ],
+        [
+            "Soldier",
+            "And fighting foot to foot."
+        ],
+        [
+            "MARK ANTONY",
+            "Well, well: away!",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "Soldier",
+            "By Hercules, I think I am i' the right.",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "CANIDIUS",
+            "Soldier, thou art: but his whole action grows"
+        ],
+        [
+            "CANIDIUS",
+            "Not in the power on't: so our leader's led,"
+        ],
+        [
+            "CANIDIUS",
+            "And we are women's men."
+        ],
+        [
+            "Soldier",
+            "You keep by land"
+        ],
+        [
+            "Soldier",
+            "The legions and the horse whole, do you not?"
+        ],
+        [
+            "CANIDIUS",
+            "Marcus Octavius, Marcus Justeius,"
+        ],
+        [
+            "CANIDIUS",
+            "Publicola, and Caelius, are for sea:"
+        ],
+        [
+            "CANIDIUS",
+            "But we keep whole by land. This speed of Caesar's"
+        ],
+        [
+            "CANIDIUS",
+            "Carries beyond belief."
+        ],
+        [
+            "Soldier",
+            "While he was yet in Rome,"
+        ],
+        [
+            "Soldier",
+            "His power went out in such distractions as"
+        ],
+        [
+            "Soldier",
+            "Beguiled all spies."
+        ],
+        [
+            "CANIDIUS",
+            "Who's his lieutenant, hear you?"
+        ],
+        [
+            "Soldier",
+            "They say, one Taurus."
+        ],
+        [
+            "CANIDIUS",
+            "Well I know the man.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "Messenger",
+            "The emperor calls Canidius.",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "CANIDIUS",
+            "With news the time's with labour, and throes forth,"
+        ],
+        [
+            "CANIDIUS",
+            "Each minute, some.",
+            {
+                "following_direction_line": "7"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter CLEOPATRA and DOMITIUS ENOBARBUS"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter MARK ANTONY and CANIDIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter a Messenger"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter a Soldier"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt MARK ANTONY, QUEEN CLEOPATRA, and DOMITIUS ENOBARBUS"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Enter a Messenger"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "CLEOPATRA": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "4"
+            ],
+            [
+                "6",
+                "7"
+            ],
+            [
+                "12",
+                "12"
+            ],
+            [
+                "20",
+                "24"
+            ],
+            [
+                "31",
+                "32"
+            ],
+            [
+                "37",
+                "37"
+            ],
+            [
+                "62",
+                "62"
+            ]
+        ],
+        "DOMITIUS ENOBARBUS": [
+            [
+                "2",
+                "2"
+            ],
+            [
+                "5",
+                "5"
+            ],
+            [
+                "8",
+                "11"
+            ],
+            [
+                "13",
+                "19"
+            ],
+            [
+                "25",
+                "26"
+            ],
+            [
+                "40",
+                "40"
+            ],
+            [
+                "45",
+                "51"
+            ],
+            [
+                "53",
+                "60"
+            ]
+        ],
+        "MARK ANTONY": [
+            [
+                "27",
+                "30"
+            ],
+            [
+                "33",
+                "36"
+            ],
+            [
+                "39",
+                "39"
+            ],
+            [
+                "52",
+                "52"
+            ],
+            [
+                "61",
+                "61"
+            ],
+            [
+                "63",
+                "67"
+            ],
+            [
+                "70",
+                "75"
+            ],
+            [
+                "82",
+                "82"
+            ]
+        ],
+        "CANIDIUS": [
+            [
+                "38",
+                "38"
+            ],
+            [
+                "41",
+                "44"
+            ],
+            [
+                "84",
+                "86"
+            ],
+            [
+                "89",
+                "92"
+            ],
+            [
+                "96",
+                "96"
+            ],
+            [
+                "98",
+                "98"
+            ],
+            [
+                "100",
+                "101"
+            ]
+        ],
+        "Messenger": [
+            [
+                "68",
+                "69"
+            ],
+            [
+                "99",
+                "99"
+            ]
+        ],
+        "Soldier": [
+            [
+                "76",
+                "81"
+            ],
+            [
+                "83",
+                "83"
+            ],
+            [
+                "87",
+                "88"
+            ],
+            [
+                "93",
+                "95"
+            ],
+            [
+                "97",
+                "97"
+            ]
+        ]
+    },
+    "scene_name": "SCENE VII",
+    "scene_description": "Near Actium. MARK ANTONY's camp."
+}

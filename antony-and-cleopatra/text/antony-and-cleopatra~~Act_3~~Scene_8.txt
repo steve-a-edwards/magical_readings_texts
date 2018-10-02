@@ -1,0 +1,12 @@
+_S_SCENE VIII. A plain near Actium.
+_D_Enter OCTAVIUS CAESAR, and TAURUS, with his army, marching
+_R_OCTAVIUS CAESAR
+Taurus!
+_R_TAURUS
+My lord?
+_R_OCTAVIUS CAESAR
+Strike not by land; keep whole: provoke not battle,
+Till we have done at sea. Do not exceed
+The prescript of this scroll: our fortune lies
+Upon this jump.
+_D_Exeunt

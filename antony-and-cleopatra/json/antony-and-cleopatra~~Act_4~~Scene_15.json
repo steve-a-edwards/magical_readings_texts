@@ -1,0 +1,636 @@
+{
+    "scene_id": "antony and cleopatra~~Act_4~~Scene_15",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "CLEOPATRA",
+            "O Charmian, I will never go from hence.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "CHARMIAN",
+            "Be comforted, dear madam."
+        ],
+        [
+            "CLEOPATRA",
+            "No, I will not:"
+        ],
+        [
+            "CLEOPATRA",
+            "All strange and terrible events are welcome,"
+        ],
+        [
+            "CLEOPATRA",
+            "But comforts we despise; our size of sorrow,"
+        ],
+        [
+            "CLEOPATRA",
+            "Proportion'd to our cause, must be as great"
+        ],
+        [
+            "CLEOPATRA",
+            "As that which makes it.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "How now! is he dead?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "DIOMEDES",
+            "His death's upon him, but not dead."
+        ],
+        [
+            "DIOMEDES",
+            "Look out o' the other side your monument;"
+        ],
+        [
+            "DIOMEDES",
+            "His guard have brought him thither.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "O sun,",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "Burn the great sphere thou movest in!"
+        ],
+        [
+            "CLEOPATRA",
+            "darkling stand"
+        ],
+        [
+            "CLEOPATRA",
+            "The varying shore o' the world. O Antony,"
+        ],
+        [
+            "CLEOPATRA",
+            "Antony, Antony! Help, Charmian, help, Iras, help;"
+        ],
+        [
+            "CLEOPATRA",
+            "Help, friends below; let's draw him hither."
+        ],
+        [
+            "MARK ANTONY",
+            "Peace!"
+        ],
+        [
+            "MARK ANTONY",
+            "Not Caesar's valour hath o'erthrown Antony,"
+        ],
+        [
+            "MARK ANTONY",
+            "But Antony's hath triumph'd on itself."
+        ],
+        [
+            "CLEOPATRA",
+            "So it should be, that none but Antony"
+        ],
+        [
+            "CLEOPATRA",
+            "Should conquer Antony; but woe 'tis so!"
+        ],
+        [
+            "MARK ANTONY",
+            "I am dying, Egypt, dying; only"
+        ],
+        [
+            "MARK ANTONY",
+            "I here importune death awhile, until"
+        ],
+        [
+            "MARK ANTONY",
+            "Of many thousand kisses the poor last"
+        ],
+        [
+            "MARK ANTONY",
+            "I lay up thy lips."
+        ],
+        [
+            "CLEOPATRA",
+            "I dare not, dear,--"
+        ],
+        [
+            "CLEOPATRA",
+            "Dear my lord, pardon,--I dare not,"
+        ],
+        [
+            "CLEOPATRA",
+            "Lest I be taken: not the imperious show"
+        ],
+        [
+            "CLEOPATRA",
+            "Of the full-fortuned Caesar ever shall"
+        ],
+        [
+            "CLEOPATRA",
+            "Be brooch'd with me; if knife, drugs,"
+        ],
+        [
+            "CLEOPATRA",
+            "serpents, have"
+        ],
+        [
+            "CLEOPATRA",
+            "Edge, sting, or operation, I am safe:"
+        ],
+        [
+            "CLEOPATRA",
+            "Your wife Octavia, with her modest eyes"
+        ],
+        [
+            "CLEOPATRA",
+            "And still conclusion, shall acquire no honour"
+        ],
+        [
+            "CLEOPATRA",
+            "Demuring upon me. But come, come, Antony,--"
+        ],
+        [
+            "CLEOPATRA",
+            "Help me, my women,--we must draw thee up:"
+        ],
+        [
+            "CLEOPATRA",
+            "Assist, good friends."
+        ],
+        [
+            "MARK ANTONY",
+            "O, quick, or I am gone."
+        ],
+        [
+            "CLEOPATRA",
+            "Here's sport indeed! How heavy weighs my lord!"
+        ],
+        [
+            "CLEOPATRA",
+            "Our strength is all gone into heaviness,"
+        ],
+        [
+            "CLEOPATRA",
+            "That makes the weight: had I great Juno's power,"
+        ],
+        [
+            "CLEOPATRA",
+            "The strong-wing'd Mercury should fetch thee up,"
+        ],
+        [
+            "CLEOPATRA",
+            "And set thee by Jove's side. Yet come a little,--"
+        ],
+        [
+            "CLEOPATRA",
+            "Wishes were ever fools,--O, come, come, come;",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "And welcome, welcome! die where thou hast lived:",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "Quicken with kissing: had my lips that power,"
+        ],
+        [
+            "CLEOPATRA",
+            "Thus would I wear them out."
+        ],
+        [
+            "All",
+            "A heavy sight!"
+        ],
+        [
+            "MARK ANTONY",
+            "I am dying, Egypt, dying:"
+        ],
+        [
+            "MARK ANTONY",
+            "Give me some wine, and let me speak a little."
+        ],
+        [
+            "CLEOPATRA",
+            "No, let me speak; and let me rail so high,"
+        ],
+        [
+            "CLEOPATRA",
+            "That the false housewife Fortune break her wheel,"
+        ],
+        [
+            "CLEOPATRA",
+            "Provoked by my offence."
+        ],
+        [
+            "MARK ANTONY",
+            "One word, sweet queen:"
+        ],
+        [
+            "MARK ANTONY",
+            "Of Caesar seek your honour, with your safety. O!"
+        ],
+        [
+            "CLEOPATRA",
+            "They do not go together."
+        ],
+        [
+            "MARK ANTONY",
+            "Gentle, hear me:"
+        ],
+        [
+            "MARK ANTONY",
+            "None about Caesar trust but Proculeius."
+        ],
+        [
+            "CLEOPATRA",
+            "My resolution and my hands I'll trust;"
+        ],
+        [
+            "CLEOPATRA",
+            "None about Caesar."
+        ],
+        [
+            "MARK ANTONY",
+            "The miserable change now at my end"
+        ],
+        [
+            "MARK ANTONY",
+            "Lament nor sorrow at; but please your thoughts"
+        ],
+        [
+            "MARK ANTONY",
+            "In feeding them with those my former fortunes"
+        ],
+        [
+            "MARK ANTONY",
+            "Wherein I lived, the greatest prince o' the world,"
+        ],
+        [
+            "MARK ANTONY",
+            "The noblest; and do now not basely die,"
+        ],
+        [
+            "MARK ANTONY",
+            "Not cowardly put off my helmet to"
+        ],
+        [
+            "MARK ANTONY",
+            "My countryman,--a Roman by a Roman"
+        ],
+        [
+            "MARK ANTONY",
+            "Valiantly vanquish'd. Now my spirit is going;"
+        ],
+        [
+            "MARK ANTONY",
+            "I can no more."
+        ],
+        [
+            "CLEOPATRA",
+            "Noblest of men, woo't die?"
+        ],
+        [
+            "CLEOPATRA",
+            "Hast thou no care of me? shall I abide"
+        ],
+        [
+            "CLEOPATRA",
+            "In this dull world, which in thy absence is"
+        ],
+        [
+            "CLEOPATRA",
+            "No better than a sty? O, see, my women,",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "The crown o' the earth doth melt. My lord!",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "O, wither'd is the garland of the war,"
+        ],
+        [
+            "CLEOPATRA",
+            "The soldier's pole is fall'n: young boys and girls"
+        ],
+        [
+            "CLEOPATRA",
+            "Are level now with men; the odds is gone,"
+        ],
+        [
+            "CLEOPATRA",
+            "And there is nothing left remarkable"
+        ],
+        [
+            "CLEOPATRA",
+            "Beneath the visiting moon.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "CHARMIAN",
+            "O, quietness, lady!",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "IRAS",
+            "She is dead too, our sovereign."
+        ],
+        [
+            "CHARMIAN",
+            "Lady!"
+        ],
+        [
+            "IRAS",
+            "Madam!"
+        ],
+        [
+            "CHARMIAN",
+            "O madam, madam, madam!"
+        ],
+        [
+            "IRAS",
+            "Royal Egypt, Empress!"
+        ],
+        [
+            "CHARMIAN",
+            "Peace, peace, Iras!"
+        ],
+        [
+            "CLEOPATRA",
+            "No more, but e'en a woman, and commanded"
+        ],
+        [
+            "CLEOPATRA",
+            "By such poor passion as the maid that milks"
+        ],
+        [
+            "CLEOPATRA",
+            "And does the meanest chares. It were for me"
+        ],
+        [
+            "CLEOPATRA",
+            "To throw my sceptre at the injurious gods;"
+        ],
+        [
+            "CLEOPATRA",
+            "To tell them that this world did equal theirs"
+        ],
+        [
+            "CLEOPATRA",
+            "Till they had stol'n our jewel. All's but naught;"
+        ],
+        [
+            "CLEOPATRA",
+            "Patience is scottish, and impatience does"
+        ],
+        [
+            "CLEOPATRA",
+            "Become a dog that's mad: then is it sin"
+        ],
+        [
+            "CLEOPATRA",
+            "To rush into the secret house of death,"
+        ],
+        [
+            "CLEOPATRA",
+            "Ere death dare come to us? How do you, women?"
+        ],
+        [
+            "CLEOPATRA",
+            "What, what! good cheer! Why, how now, Charmian!"
+        ],
+        [
+            "CLEOPATRA",
+            "My noble girls! Ah, women, women, look,"
+        ],
+        [
+            "CLEOPATRA",
+            "Our lamp is spent, it's out! Good sirs, take heart:"
+        ],
+        [
+            "CLEOPATRA",
+            "We'll bury him; and then, what's brave,"
+        ],
+        [
+            "CLEOPATRA",
+            "what's noble,"
+        ],
+        [
+            "CLEOPATRA",
+            "Let's do it after the high Roman fashion,"
+        ],
+        [
+            "CLEOPATRA",
+            "And make death proud to take us. Come, away:"
+        ],
+        [
+            "CLEOPATRA",
+            "This case of that huge spirit now is cold:"
+        ],
+        [
+            "CLEOPATRA",
+            "Ah, women, women! come; we have no friend"
+        ],
+        [
+            "CLEOPATRA",
+            "But resolution, and the briefest end.",
+            {
+                "following_direction_line": "7"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter CLEOPATRA and her maids aloft, with CHARMIAN and IRAS"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter, below, DIOMEDES"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter, below, MARK ANTONY, borne by the Guard"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "They heave MARK ANTONY aloft to CLEOPATRA"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "MARK ANTONY dies"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Faints"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exeunt; those above bearing off MARK ANTONY's body"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "CLEOPATRA": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "8"
+            ],
+            [
+                "12",
+                "17"
+            ],
+            [
+                "21",
+                "22"
+            ],
+            [
+                "27",
+                "38"
+            ],
+            [
+                "40",
+                "48"
+            ],
+            [
+                "52",
+                "54"
+            ],
+            [
+                "57",
+                "57"
+            ],
+            [
+                "60",
+                "61"
+            ],
+            [
+                "71",
+                "80"
+            ],
+            [
+                "88",
+                "107"
+            ]
+        ],
+        "CHARMIAN": [
+            [
+                "2",
+                "2"
+            ],
+            [
+                "81",
+                "81"
+            ],
+            [
+                "83",
+                "83"
+            ],
+            [
+                "85",
+                "85"
+            ],
+            [
+                "87",
+                "87"
+            ]
+        ],
+        "DIOMEDES": [
+            [
+                "9",
+                "11"
+            ]
+        ],
+        "MARK ANTONY": [
+            [
+                "18",
+                "20"
+            ],
+            [
+                "23",
+                "26"
+            ],
+            [
+                "39",
+                "39"
+            ],
+            [
+                "50",
+                "51"
+            ],
+            [
+                "55",
+                "56"
+            ],
+            [
+                "58",
+                "59"
+            ],
+            [
+                "62",
+                "70"
+            ]
+        ],
+        "All": [
+            [
+                "49",
+                "49"
+            ]
+        ],
+        "IRAS": [
+            [
+                "82",
+                "82"
+            ],
+            [
+                "84",
+                "84"
+            ],
+            [
+                "86",
+                "86"
+            ]
+        ]
+    },
+    "scene_name": "SCENE XV",
+    "scene_description": "The same. A monument."
+}

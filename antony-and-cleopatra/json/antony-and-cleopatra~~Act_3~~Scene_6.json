@@ -1,0 +1,604 @@
+{
+    "scene_id": "antony and cleopatra~~Act_3~~Scene_6",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "OCTAVIUS CAESAR",
+            "Contemning Rome, he has done all this, and more,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "In Alexandria: here's the manner of 't:"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "I' the market-place, on a tribunal silver'd,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Cleopatra and himself in chairs of gold"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Were publicly enthroned: at the feet sat"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Caesarion, whom they call my father's son,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "And all the unlawful issue that their lust"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Since then hath made between them. Unto her"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "He gave the stablishment of Egypt; made her"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Of lower Syria, Cyprus, Lydia,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Absolute queen."
+        ],
+        [
+            "MECAENAS",
+            "This in the public eye?"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "I' the common show-place, where they exercise."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "His sons he there proclaim'd the kings of kings:"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Great Media, Parthia, and Armenia."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "He gave to Alexander; to Ptolemy he assign'd"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Syria, Cilicia, and Phoenicia: she"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "In the habiliments of the goddess Isis"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "That day appear'd; and oft before gave audience,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "As 'tis reported, so."
+        ],
+        [
+            "MECAENAS",
+            "Let Rome be thus Inform'd."
+        ],
+        [
+            "AGRIPPA",
+            "Who, queasy with his insolence"
+        ],
+        [
+            "AGRIPPA",
+            "Already, will their good thoughts call from him."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "The people know it; and have now received"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "His accusations."
+        ],
+        [
+            "AGRIPPA",
+            "Who does he accuse?"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Caesar: and that, having in Sicily"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Sextus Pompeius spoil'd, we had not rated him"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "His part o' the isle: then does he say, he lent me"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Some shipping unrestored: lastly, he frets"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "That Lepidus of the triumvirate"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Should be deposed; and, being, that we detain"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "All his revenue."
+        ],
+        [
+            "AGRIPPA",
+            "Sir, this should be answer'd."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "'Tis done already, and the messenger gone."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "I have told him, Lepidus was grown too cruel;"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "That he his high authority abused,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "And did deserve his change: for what I have conquer'd,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "I grant him part; but then, in his Armenia,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "And other of his conquer'd kingdoms, I"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Demand the like."
+        ],
+        [
+            "MECAENAS",
+            "He'll never yield to that."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Nor must not then be yielded to in this.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "OCTAVIA",
+            "Hail, Caesar, and my lord! hail, most dear Caesar!",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "That ever I should call thee castaway!"
+        ],
+        [
+            "OCTAVIA",
+            "You have not call'd me so, nor have you cause."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Why have you stol'n upon us thus! You come not"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Like Caesar's sister: the wife of Antony"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Should have an army for an usher, and"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "The neighs of horse to tell of her approach"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Long ere she did appear; the trees by the way"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Should have borne men; and expectation fainted,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Longing for what it had not; nay, the dust"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Should have ascended to the roof of heaven,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Raised by your populous troops: but you are come"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "A market-maid to Rome; and have prevented"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "The ostentation of our love, which, left unshown,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Is often left unloved; we should have met you"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "By sea and land; supplying every stage"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "With an augmented greeting."
+        ],
+        [
+            "OCTAVIA",
+            "Good my lord,"
+        ],
+        [
+            "OCTAVIA",
+            "To come thus was I not constrain'd, but did"
+        ],
+        [
+            "OCTAVIA",
+            "On my free will. My lord, Mark Antony,"
+        ],
+        [
+            "OCTAVIA",
+            "Hearing that you prepared for war, acquainted"
+        ],
+        [
+            "OCTAVIA",
+            "My grieved ear withal; whereon, I begg'd"
+        ],
+        [
+            "OCTAVIA",
+            "His pardon for return."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Which soon he granted,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Being an obstruct 'tween his lust and him."
+        ],
+        [
+            "OCTAVIA",
+            "Do not say so, my lord."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "I have eyes upon him,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "And his affairs come to me on the wind."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Where is he now?"
+        ],
+        [
+            "OCTAVIA",
+            "My lord, in Athens."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "No, my most wronged sister; Cleopatra"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Hath nodded him to her. He hath given his empire"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Up to a whore; who now are levying"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "The kings o' the earth for war; he hath assembled"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Bocchus, the king of Libya; Archelaus,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Of Cappadocia; Philadelphos, king"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Of Paphlagonia; the Thracian king, Adallas;"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "King Malchus of Arabia; King of Pont;"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Herod of Jewry; Mithridates, king"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Of Comagene; Polemon and Amyntas,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "The kings of Mede and Lycaonia,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "With a more larger list of sceptres."
+        ],
+        [
+            "OCTAVIA",
+            "Ay me, most wretched,"
+        ],
+        [
+            "OCTAVIA",
+            "That have my heart parted betwixt two friends"
+        ],
+        [
+            "OCTAVIA",
+            "That do afflict each other!"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Welcome hither:"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Your letters did withhold our breaking forth;"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Till we perceived, both how you were wrong led,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "And we in negligent danger. Cheer your heart;"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Be you not troubled with the time, which drives"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "O'er your content these strong necessities;"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "But let determined things to destiny"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Hold unbewail'd their way. Welcome to Rome;"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Nothing more dear to me. You are abused"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Beyond the mark of thought: and the high gods,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "To do you justice, make them ministers"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Of us and those that love you. Best of comfort;"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "And ever welcome to us."
+        ],
+        [
+            "AGRIPPA",
+            "Welcome, lady."
+        ],
+        [
+            "MECAENAS",
+            "Welcome, dear madam."
+        ],
+        [
+            "MECAENAS",
+            "Each heart in Rome does love and pity you:"
+        ],
+        [
+            "MECAENAS",
+            "Only the adulterous Antony, most large"
+        ],
+        [
+            "MECAENAS",
+            "In his abominations, turns you off;"
+        ],
+        [
+            "MECAENAS",
+            "And gives his potent regiment to a trull,"
+        ],
+        [
+            "MECAENAS",
+            "That noises it against us."
+        ],
+        [
+            "OCTAVIA",
+            "Is it so, sir?"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Most certain. Sister, welcome: pray you,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Be ever known to patience: my dear'st sister!",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter OCTAVIUS CAESAR, AGRIPPA, and MECAENAS"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter OCTAVIA with her train"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "OCTAVIUS CAESAR": [
+            [
+                "1",
+                "11"
+            ],
+            [
+                "13",
+                "20"
+            ],
+            [
+                "24",
+                "25"
+            ],
+            [
+                "27",
+                "33"
+            ],
+            [
+                "35",
+                "41"
+            ],
+            [
+                "43",
+                "43"
+            ],
+            [
+                "45",
+                "45"
+            ],
+            [
+                "47",
+                "60"
+            ],
+            [
+                "67",
+                "68"
+            ],
+            [
+                "70",
+                "72"
+            ],
+            [
+                "74",
+                "85"
+            ],
+            [
+                "89",
+                "101"
+            ],
+            [
+                "110",
+                "111"
+            ]
+        ],
+        "MECAENAS": [
+            [
+                "12",
+                "12"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "42",
+                "42"
+            ],
+            [
+                "103",
+                "108"
+            ]
+        ],
+        "AGRIPPA": [
+            [
+                "22",
+                "23"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "34",
+                "34"
+            ],
+            [
+                "102",
+                "102"
+            ]
+        ],
+        "OCTAVIA": [
+            [
+                "44",
+                "44"
+            ],
+            [
+                "46",
+                "46"
+            ],
+            [
+                "61",
+                "66"
+            ],
+            [
+                "69",
+                "69"
+            ],
+            [
+                "73",
+                "73"
+            ],
+            [
+                "86",
+                "88"
+            ],
+            [
+                "109",
+                "109"
+            ]
+        ]
+    },
+    "scene_name": "SCENE VI",
+    "scene_description": "Rome. OCTAVIUS CAESAR's house."
+}

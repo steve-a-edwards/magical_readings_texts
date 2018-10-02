@@ -1,0 +1,354 @@
+{
+    "scene_id": "antony and cleopatra~~Act_4~~Scene_4",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "MARK ANTONY",
+            "Eros! mine armour, Eros!",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "Sleep a little."
+        ],
+        [
+            "MARK ANTONY",
+            "No, my chuck. Eros, come; mine armour, Eros!",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Come good fellow, put mine iron on:",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "If fortune be not ours to-day, it is"
+        ],
+        [
+            "MARK ANTONY",
+            "Because we brave her: come."
+        ],
+        [
+            "CLEOPATRA",
+            "Nay, I'll help too."
+        ],
+        [
+            "CLEOPATRA",
+            "What's this for?"
+        ],
+        [
+            "MARK ANTONY",
+            "Ah, let be, let be! thou art"
+        ],
+        [
+            "MARK ANTONY",
+            "The armourer of my heart: false, false; this, this."
+        ],
+        [
+            "CLEOPATRA",
+            "Sooth, la, I'll help: thus it must be."
+        ],
+        [
+            "MARK ANTONY",
+            "Well, well;"
+        ],
+        [
+            "MARK ANTONY",
+            "We shall thrive now. Seest thou, my good fellow?"
+        ],
+        [
+            "MARK ANTONY",
+            "Go put on thy defences."
+        ],
+        [
+            "EROS",
+            "Briefly, sir."
+        ],
+        [
+            "CLEOPATRA",
+            "Is not this buckled well?"
+        ],
+        [
+            "MARK ANTONY",
+            "Rarely, rarely:"
+        ],
+        [
+            "MARK ANTONY",
+            "He that unbuckles this, till we do please"
+        ],
+        [
+            "MARK ANTONY",
+            "To daff't for our repose, shall hear a storm."
+        ],
+        [
+            "MARK ANTONY",
+            "Thou fumblest, Eros; and my queen's a squire"
+        ],
+        [
+            "MARK ANTONY",
+            "More tight at this than thou: dispatch. O love,"
+        ],
+        [
+            "MARK ANTONY",
+            "That thou couldst see my wars to-day, and knew'st"
+        ],
+        [
+            "MARK ANTONY",
+            "The royal occupation! thou shouldst see"
+        ],
+        [
+            "MARK ANTONY",
+            "A workman in't.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Good morrow to thee; welcome:",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Thou look'st like him that knows a warlike charge:"
+        ],
+        [
+            "MARK ANTONY",
+            "To business that we love we rise betime,"
+        ],
+        [
+            "MARK ANTONY",
+            "And go to't with delight."
+        ],
+        [
+            "Soldier",
+            "A thousand, sir,"
+        ],
+        [
+            "Soldier",
+            "Early though't be, have on their riveted trim,"
+        ],
+        [
+            "Soldier",
+            "And at the port expect you.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "Captain",
+            "The morn is fair. Good morrow, general.",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "All",
+            "Good morrow, general."
+        ],
+        [
+            "MARK ANTONY",
+            "'Tis well blown, lads:"
+        ],
+        [
+            "MARK ANTONY",
+            "This morning, like the spirit of a youth"
+        ],
+        [
+            "MARK ANTONY",
+            "That means to be of note, begins betimes."
+        ],
+        [
+            "MARK ANTONY",
+            "So, so; come, give me that: this way; well said."
+        ],
+        [
+            "MARK ANTONY",
+            "Fare thee well, dame, whate'er becomes of me:"
+        ],
+        [
+            "MARK ANTONY",
+            "This is a soldier's kiss: rebukeable",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "And worthy shameful cheque it were, to stand",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "On more mechanic compliment; I'll leave thee"
+        ],
+        [
+            "MARK ANTONY",
+            "Now, like a man of steel. You that will fight,"
+        ],
+        [
+            "MARK ANTONY",
+            "Follow me close; I'll bring you to't. Adieu.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "CHARMIAN",
+            "Please you, retire to your chamber.",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "Lead me."
+        ],
+        [
+            "CLEOPATRA",
+            "He goes forth gallantly. That he and Caesar might"
+        ],
+        [
+            "CLEOPATRA",
+            "Determine this great war in single fight!"
+        ],
+        [
+            "CLEOPATRA",
+            "Then Antony,--but now--Well, on.",
+            {
+                "following_direction_line": "7"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter MARK ANTONY and CLEOPATRA, CHARMIAN, and others attending"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter EROS with armour"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter an armed Soldier"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Shout. Trumpets flourish. Enter Captains and Soldiers"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Kisses her"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exeunt MARK ANTONY, EROS, Captains, and Soldiers"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "MARK ANTONY": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "6"
+            ],
+            [
+                "9",
+                "10"
+            ],
+            [
+                "12",
+                "14"
+            ],
+            [
+                "17",
+                "28"
+            ],
+            [
+                "34",
+                "43"
+            ]
+        ],
+        "CLEOPATRA": [
+            [
+                "2",
+                "2"
+            ],
+            [
+                "7",
+                "8"
+            ],
+            [
+                "11",
+                "11"
+            ],
+            [
+                "16",
+                "16"
+            ],
+            [
+                "45",
+                "48"
+            ]
+        ],
+        "EROS": [
+            [
+                "15",
+                "15"
+            ]
+        ],
+        "Soldier": [
+            [
+                "29",
+                "31"
+            ]
+        ],
+        "Captain": [
+            [
+                "32",
+                "32"
+            ]
+        ],
+        "All": [
+            [
+                "33",
+                "33"
+            ]
+        ],
+        "CHARMIAN": [
+            [
+                "44",
+                "44"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IV",
+    "scene_description": "The same. A room in the palace."
+}

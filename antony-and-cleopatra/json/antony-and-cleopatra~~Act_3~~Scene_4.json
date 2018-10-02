@@ -1,0 +1,217 @@
+{
+    "scene_id": "antony and cleopatra~~Act_3~~Scene_4",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "MARK ANTONY",
+            "Nay, nay, Octavia, not only that,--",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "That were excusable, that, and thousands more"
+        ],
+        [
+            "MARK ANTONY",
+            "Of semblable import,--but he hath waged"
+        ],
+        [
+            "MARK ANTONY",
+            "New wars 'gainst Pompey; made his will, and read it"
+        ],
+        [
+            "MARK ANTONY",
+            "To public ear:"
+        ],
+        [
+            "MARK ANTONY",
+            "Spoke scantly of me: when perforce he could not"
+        ],
+        [
+            "MARK ANTONY",
+            "But pay me terms of honour, cold and sickly"
+        ],
+        [
+            "MARK ANTONY",
+            "He vented them; most narrow measure lent me:"
+        ],
+        [
+            "MARK ANTONY",
+            "When the best hint was given him, he not took't,"
+        ],
+        [
+            "MARK ANTONY",
+            "Or did it from his teeth."
+        ],
+        [
+            "OCTAVIA",
+            "O my good lord,"
+        ],
+        [
+            "OCTAVIA",
+            "Believe not all; or, if you must believe,"
+        ],
+        [
+            "OCTAVIA",
+            "Stomach not all. A more unhappy lady,"
+        ],
+        [
+            "OCTAVIA",
+            "If this division chance, ne'er stood between,"
+        ],
+        [
+            "OCTAVIA",
+            "Praying for both parts:"
+        ],
+        [
+            "OCTAVIA",
+            "The good gods me presently,"
+        ],
+        [
+            "OCTAVIA",
+            "When I shall pray, 'O bless my lord and husband!'"
+        ],
+        [
+            "OCTAVIA",
+            "Undo that prayer, by crying out as loud,"
+        ],
+        [
+            "OCTAVIA",
+            "'O, bless my brother!' Husband win, win brother,"
+        ],
+        [
+            "OCTAVIA",
+            "Prays, and destroys the prayer; no midway"
+        ],
+        [
+            "OCTAVIA",
+            "'Twixt these extremes at all."
+        ],
+        [
+            "MARK ANTONY",
+            "Gentle Octavia,"
+        ],
+        [
+            "MARK ANTONY",
+            "Let your best love draw to that point, which seeks"
+        ],
+        [
+            "MARK ANTONY",
+            "Best to preserve it: if I lose mine honour,"
+        ],
+        [
+            "MARK ANTONY",
+            "I lose myself: better I were not yours"
+        ],
+        [
+            "MARK ANTONY",
+            "Than yours so branchless. But, as you requested,"
+        ],
+        [
+            "MARK ANTONY",
+            "Yourself shall go between 's: the mean time, lady,"
+        ],
+        [
+            "MARK ANTONY",
+            "I'll raise the preparation of a war"
+        ],
+        [
+            "MARK ANTONY",
+            "Shall stain your brother: make your soonest haste;"
+        ],
+        [
+            "MARK ANTONY",
+            "So your desires are yours."
+        ],
+        [
+            "OCTAVIA",
+            "Thanks to my lord."
+        ],
+        [
+            "OCTAVIA",
+            "The Jove of power make me most weak, most weak,"
+        ],
+        [
+            "OCTAVIA",
+            "Your reconciler! Wars 'twixt you twain would be"
+        ],
+        [
+            "OCTAVIA",
+            "As if the world should cleave, and that slain men"
+        ],
+        [
+            "OCTAVIA",
+            "Should solder up the rift."
+        ],
+        [
+            "MARK ANTONY",
+            "When it appears to you where this begins,"
+        ],
+        [
+            "MARK ANTONY",
+            "Turn your displeasure that way: for our faults"
+        ],
+        [
+            "MARK ANTONY",
+            "Can never be so equal, that your love"
+        ],
+        [
+            "MARK ANTONY",
+            "Can equally move with them. Provide your going;"
+        ],
+        [
+            "MARK ANTONY",
+            "Choose your own company, and command what cost"
+        ],
+        [
+            "MARK ANTONY",
+            "Your heart has mind to.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter MARK ANTONY and OCTAVIA"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "MARK ANTONY": [
+            [
+                "1",
+                "10"
+            ],
+            [
+                "22",
+                "30"
+            ],
+            [
+                "36",
+                "41"
+            ]
+        ],
+        "OCTAVIA": [
+            [
+                "11",
+                "21"
+            ],
+            [
+                "31",
+                "35"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IV",
+    "scene_description": "Athens. A room in MARK ANTONY's house."
+}

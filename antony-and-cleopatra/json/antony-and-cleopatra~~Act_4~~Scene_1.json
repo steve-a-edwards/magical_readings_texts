@@ -1,0 +1,117 @@
+{
+    "scene_id": "antony and cleopatra~~Act_4~~Scene_1",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "OCTAVIUS CAESAR",
+            "He calls me boy; and chides, as he had power",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "To beat me out of Egypt; my messenger"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "He hath whipp'd with rods; dares me to personal combat,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Caesar to Antony: let the old ruffian know"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "I have many other ways to die; meantime"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Laugh at his challenge."
+        ],
+        [
+            "MECAENAS",
+            "Caesar must think,"
+        ],
+        [
+            "MECAENAS",
+            "When one so great begins to rage, he's hunted"
+        ],
+        [
+            "MECAENAS",
+            "Even to falling. Give him no breath, but now"
+        ],
+        [
+            "MECAENAS",
+            "Make boot of his distraction: never anger"
+        ],
+        [
+            "MECAENAS",
+            "Made good guard for itself."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Let our best heads"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Know, that to-morrow the last of many battles"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "We mean to fight: within our files there are,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Of those that served Mark Antony but late,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Enough to fetch him in. See it done:"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "And feast the army; we have store to do't,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "And they have earn'd the waste. Poor Antony!",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter OCTAVIUS CAESAR, AGRIPPA, and MECAENAS, with his Army; OCTAVIUS CAESAR reading a letter"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "OCTAVIUS CAESAR": [
+            [
+                "1",
+                "6"
+            ],
+            [
+                "12",
+                "18"
+            ]
+        ],
+        "MECAENAS": [
+            [
+                "7",
+                "11"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "Before Alexandria. OCTAVIUS CAESAR's camp."
+}

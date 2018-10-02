@@ -1,0 +1,1599 @@
+{
+    "scene_id": "antony and cleopatra~~Act_2~~Scene_2",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "LEPIDUS",
+            "Good Enobarbus, 'tis a worthy deed,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "LEPIDUS",
+            "And shall become you well, to entreat your captain"
+        ],
+        [
+            "LEPIDUS",
+            "To soft and gentle speech."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "I shall entreat him"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "To answer like himself: if Caesar move him,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Let Antony look over Caesar's head"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "And speak as loud as Mars. By Jupiter,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Were I the wearer of Antonius' beard,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "I would not shave't to-day."
+        ],
+        [
+            "LEPIDUS",
+            "'Tis not a time"
+        ],
+        [
+            "LEPIDUS",
+            "For private stomaching."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Every time"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Serves for the matter that is then born in't."
+        ],
+        [
+            "LEPIDUS",
+            "But small to greater matters must give way."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Not if the small come first."
+        ],
+        [
+            "LEPIDUS",
+            "Your speech is passion:"
+        ],
+        [
+            "LEPIDUS",
+            "But, pray you, stir no embers up. Here comes"
+        ],
+        [
+            "LEPIDUS",
+            "The noble Antony.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "And yonder, Caesar.",
+            {
+                "preceding_direction_line": "2",
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "If we compose well here, to Parthia:",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Hark, Ventidius."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "I do not know,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Mecaenas; ask Agrippa."
+        ],
+        [
+            "LEPIDUS",
+            "Noble friends,"
+        ],
+        [
+            "LEPIDUS",
+            "That which combined us was most great, and let not"
+        ],
+        [
+            "LEPIDUS",
+            "A leaner action rend us. What's amiss,"
+        ],
+        [
+            "LEPIDUS",
+            "May it be gently heard: when we debate"
+        ],
+        [
+            "LEPIDUS",
+            "Our trivial difference loud, we do commit"
+        ],
+        [
+            "LEPIDUS",
+            "Murder in healing wounds: then, noble partners,"
+        ],
+        [
+            "LEPIDUS",
+            "The rather, for I earnestly beseech,"
+        ],
+        [
+            "LEPIDUS",
+            "Touch you the sourest points with sweetest terms,"
+        ],
+        [
+            "LEPIDUS",
+            "Nor curstness grow to the matter."
+        ],
+        [
+            "MARK ANTONY",
+            "'Tis spoken well."
+        ],
+        [
+            "MARK ANTONY",
+            "Were we before our armies, and to fight."
+        ],
+        [
+            "MARK ANTONY",
+            "I should do thus.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Welcome to Rome.",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Thank you."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Sit."
+        ],
+        [
+            "MARK ANTONY",
+            "Sit, sir."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Nay, then."
+        ],
+        [
+            "MARK ANTONY",
+            "I learn, you take things ill which are not so,"
+        ],
+        [
+            "MARK ANTONY",
+            "Or being, concern you not."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "I must be laugh'd at,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "If, or for nothing or a little, I"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Should say myself offended, and with you"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Chiefly i' the world; more laugh'd at, that I should"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Once name you derogately, when to sound your name"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "It not concern'd me."
+        ],
+        [
+            "MARK ANTONY",
+            "My being in Egypt, Caesar,"
+        ],
+        [
+            "MARK ANTONY",
+            "What was't to you?"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "No more than my residing here at Rome"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Might be to you in Egypt: yet, if you there"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Did practise on my state, your being in Egypt"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Might be my question."
+        ],
+        [
+            "MARK ANTONY",
+            "How intend you, practised?"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "You may be pleased to catch at mine intent"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "By what did here befal me. Your wife and brother"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Made wars upon me; and their contestation"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Was theme for you, you were the word of war."
+        ],
+        [
+            "MARK ANTONY",
+            "You do mistake your business; my brother never"
+        ],
+        [
+            "MARK ANTONY",
+            "Did urge me in his act: I did inquire it;"
+        ],
+        [
+            "MARK ANTONY",
+            "And have my learning from some true reports,"
+        ],
+        [
+            "MARK ANTONY",
+            "That drew their swords with you. Did he not rather"
+        ],
+        [
+            "MARK ANTONY",
+            "Discredit my authority with yours;"
+        ],
+        [
+            "MARK ANTONY",
+            "And make the wars alike against my stomach,"
+        ],
+        [
+            "MARK ANTONY",
+            "Having alike your cause? Of this my letters"
+        ],
+        [
+            "MARK ANTONY",
+            "Before did satisfy you. If you'll patch a quarrel,"
+        ],
+        [
+            "MARK ANTONY",
+            "As matter whole you have not to make it with,"
+        ],
+        [
+            "MARK ANTONY",
+            "It must not be with this."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "You praise yourself"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "By laying defects of judgment to me; but"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "You patch'd up your excuses."
+        ],
+        [
+            "MARK ANTONY",
+            "Not so, not so;"
+        ],
+        [
+            "MARK ANTONY",
+            "I know you could not lack, I am certain on't,"
+        ],
+        [
+            "MARK ANTONY",
+            "Very necessity of this thought, that I,"
+        ],
+        [
+            "MARK ANTONY",
+            "Your partner in the cause 'gainst which he fought,"
+        ],
+        [
+            "MARK ANTONY",
+            "Could not with graceful eyes attend those wars"
+        ],
+        [
+            "MARK ANTONY",
+            "Which fronted mine own peace. As for my wife,"
+        ],
+        [
+            "MARK ANTONY",
+            "I would you had her spirit in such another:"
+        ],
+        [
+            "MARK ANTONY",
+            "The third o' the world is yours; which with a snaffle"
+        ],
+        [
+            "MARK ANTONY",
+            "You may pace easy, but not such a wife."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Would we had all such wives, that the men might go"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "to wars with the women!"
+        ],
+        [
+            "MARK ANTONY",
+            "So much uncurbable, her garboils, Caesar"
+        ],
+        [
+            "MARK ANTONY",
+            "Made out of her impatience, which not wanted"
+        ],
+        [
+            "MARK ANTONY",
+            "Shrewdness of policy too, I grieving grant"
+        ],
+        [
+            "MARK ANTONY",
+            "Did you too much disquiet: for that you must"
+        ],
+        [
+            "MARK ANTONY",
+            "But say, I could not help it."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "I wrote to you"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "When rioting in Alexandria; you"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Did pocket up my letters, and with taunts"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Did gibe my missive out of audience."
+        ],
+        [
+            "MARK ANTONY",
+            "Sir,"
+        ],
+        [
+            "MARK ANTONY",
+            "He fell upon me ere admitted: then"
+        ],
+        [
+            "MARK ANTONY",
+            "Three kings I had newly feasted, and did want"
+        ],
+        [
+            "MARK ANTONY",
+            "Of what I was i' the morning: but next day"
+        ],
+        [
+            "MARK ANTONY",
+            "I told him of myself; which was as much"
+        ],
+        [
+            "MARK ANTONY",
+            "As to have ask'd him pardon. Let this fellow"
+        ],
+        [
+            "MARK ANTONY",
+            "Be nothing of our strife; if we contend,"
+        ],
+        [
+            "MARK ANTONY",
+            "Out of our question wipe him."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "You have broken"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "The article of your oath; which you shall never"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Have tongue to charge me with."
+        ],
+        [
+            "LEPIDUS",
+            "Soft, Caesar!"
+        ],
+        [
+            "MARK ANTONY",
+            "No,"
+        ],
+        [
+            "MARK ANTONY",
+            "Lepidus, let him speak:"
+        ],
+        [
+            "MARK ANTONY",
+            "The honour is sacred which he talks on now,"
+        ],
+        [
+            "MARK ANTONY",
+            "Supposing that I lack'd it. But, on, Caesar;"
+        ],
+        [
+            "MARK ANTONY",
+            "The article of my oath."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "To lend me arms and aid when I required them;"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "The which you both denied."
+        ],
+        [
+            "MARK ANTONY",
+            "Neglected, rather;"
+        ],
+        [
+            "MARK ANTONY",
+            "And then when poison'd hours had bound me up"
+        ],
+        [
+            "MARK ANTONY",
+            "From mine own knowledge. As nearly as I may,"
+        ],
+        [
+            "MARK ANTONY",
+            "I'll play the penitent to you: but mine honesty"
+        ],
+        [
+            "MARK ANTONY",
+            "Shall not make poor my greatness, nor my power"
+        ],
+        [
+            "MARK ANTONY",
+            "Work without it. Truth is, that Fulvia,"
+        ],
+        [
+            "MARK ANTONY",
+            "To have me out of Egypt, made wars here;"
+        ],
+        [
+            "MARK ANTONY",
+            "For which myself, the ignorant motive, do"
+        ],
+        [
+            "MARK ANTONY",
+            "So far ask pardon as befits mine honour"
+        ],
+        [
+            "MARK ANTONY",
+            "To stoop in such a case."
+        ],
+        [
+            "LEPIDUS",
+            "'Tis noble spoken."
+        ],
+        [
+            "MECAENAS",
+            "If it might please you, to enforce no further"
+        ],
+        [
+            "MECAENAS",
+            "The griefs between ye: to forget them quite"
+        ],
+        [
+            "MECAENAS",
+            "Were to remember that the present need"
+        ],
+        [
+            "MECAENAS",
+            "Speaks to atone you."
+        ],
+        [
+            "LEPIDUS",
+            "Worthily spoken, Mecaenas."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Or, if you borrow one another's love for the"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "instant, you may, when you hear no more words of"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Pompey, return it again: you shall have time to"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "wrangle in when you have nothing else to do."
+        ],
+        [
+            "MARK ANTONY",
+            "Thou art a soldier only: speak no more."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "That truth should be silent I had almost forgot."
+        ],
+        [
+            "MARK ANTONY",
+            "You wrong this presence; therefore speak no more."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Go to, then; your considerate stone."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "I do not much dislike the matter, but"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "The manner of his speech; for't cannot be"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "We shall remain in friendship, our conditions"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "So differing in their acts. Yet if I knew"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "What hoop should hold us stanch, from edge to edge"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "O' the world I would pursue it."
+        ],
+        [
+            "AGRIPPA",
+            "Give me leave, Caesar,--"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Speak, Agrippa."
+        ],
+        [
+            "AGRIPPA",
+            "Thou hast a sister by the mother's side,"
+        ],
+        [
+            "AGRIPPA",
+            "Admired Octavia: great Mark Antony"
+        ],
+        [
+            "AGRIPPA",
+            "Is now a widower."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Say not so, Agrippa:"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "If Cleopatra heard you, your reproof"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Were well deserved of rashness."
+        ],
+        [
+            "MARK ANTONY",
+            "I am not married, Caesar: let me hear"
+        ],
+        [
+            "MARK ANTONY",
+            "Agrippa further speak."
+        ],
+        [
+            "AGRIPPA",
+            "To hold you in perpetual amity,"
+        ],
+        [
+            "AGRIPPA",
+            "To make you brothers, and to knit your hearts"
+        ],
+        [
+            "AGRIPPA",
+            "With an unslipping knot, take Antony"
+        ],
+        [
+            "AGRIPPA",
+            "Octavia to his wife; whose beauty claims"
+        ],
+        [
+            "AGRIPPA",
+            "No worse a husband than the best of men;"
+        ],
+        [
+            "AGRIPPA",
+            "Whose virtue and whose general graces speak"
+        ],
+        [
+            "AGRIPPA",
+            "That which none else can utter. By this marriage,"
+        ],
+        [
+            "AGRIPPA",
+            "All little jealousies, which now seem great,"
+        ],
+        [
+            "AGRIPPA",
+            "And all great fears, which now import their dangers,"
+        ],
+        [
+            "AGRIPPA",
+            "Would then be nothing: truths would be tales,"
+        ],
+        [
+            "AGRIPPA",
+            "Where now half tales be truths: her love to both"
+        ],
+        [
+            "AGRIPPA",
+            "Would, each to other and all loves to both,"
+        ],
+        [
+            "AGRIPPA",
+            "Draw after her. Pardon what I have spoke;"
+        ],
+        [
+            "AGRIPPA",
+            "For 'tis a studied, not a present thought,"
+        ],
+        [
+            "AGRIPPA",
+            "By duty ruminated."
+        ],
+        [
+            "MARK ANTONY",
+            "Will Caesar speak?"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Not till he hears how Antony is touch'd"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "With what is spoke already."
+        ],
+        [
+            "MARK ANTONY",
+            "What power is in Agrippa,"
+        ],
+        [
+            "MARK ANTONY",
+            "If I would say, 'Agrippa, be it so,'"
+        ],
+        [
+            "MARK ANTONY",
+            "To make this good?"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "The power of Caesar, and"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "His power unto Octavia."
+        ],
+        [
+            "MARK ANTONY",
+            "May I never"
+        ],
+        [
+            "MARK ANTONY",
+            "To this good purpose, that so fairly shows,"
+        ],
+        [
+            "MARK ANTONY",
+            "Dream of impediment! Let me have thy hand:"
+        ],
+        [
+            "MARK ANTONY",
+            "Further this act of grace: and from this hour"
+        ],
+        [
+            "MARK ANTONY",
+            "The heart of brothers govern in our loves"
+        ],
+        [
+            "MARK ANTONY",
+            "And sway our great designs!"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "There is my hand."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "A sister I bequeath you, whom no brother"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Did ever love so dearly: let her live"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "To join our kingdoms and our hearts; and never"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Fly off our loves again!"
+        ],
+        [
+            "LEPIDUS",
+            "Happily, amen!"
+        ],
+        [
+            "MARK ANTONY",
+            "I did not think to draw my sword 'gainst Pompey;"
+        ],
+        [
+            "MARK ANTONY",
+            "For he hath laid strange courtesies and great"
+        ],
+        [
+            "MARK ANTONY",
+            "Of late upon me: I must thank him only,"
+        ],
+        [
+            "MARK ANTONY",
+            "Lest my remembrance suffer ill report;"
+        ],
+        [
+            "MARK ANTONY",
+            "At heel of that, defy him."
+        ],
+        [
+            "LEPIDUS",
+            "Time calls upon's:"
+        ],
+        [
+            "LEPIDUS",
+            "Of us must Pompey presently be sought,"
+        ],
+        [
+            "LEPIDUS",
+            "Or else he seeks out us."
+        ],
+        [
+            "MARK ANTONY",
+            "Where lies he?"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "About the mount Misenum."
+        ],
+        [
+            "MARK ANTONY",
+            "What is his strength by land?"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Great and increasing: but by sea"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "He is an absolute master."
+        ],
+        [
+            "MARK ANTONY",
+            "So is the fame."
+        ],
+        [
+            "MARK ANTONY",
+            "Would we had spoke together! Haste we for it:"
+        ],
+        [
+            "MARK ANTONY",
+            "Yet, ere we put ourselves in arms, dispatch we"
+        ],
+        [
+            "MARK ANTONY",
+            "The business we have talk'd of."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "With most gladness:"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "And do invite you to my sister's view,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Whither straight I'll lead you."
+        ],
+        [
+            "MARK ANTONY",
+            "Let us, Lepidus,"
+        ],
+        [
+            "MARK ANTONY",
+            "Not lack your company."
+        ],
+        [
+            "LEPIDUS",
+            "Noble Antony,"
+        ],
+        [
+            "LEPIDUS",
+            "Not sickness should detain me.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "MECAENAS",
+            "Welcome from Egypt, sir.",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Half the heart of Caesar, worthy Mecaenas! My"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "honourable friend, Agrippa!"
+        ],
+        [
+            "AGRIPPA",
+            "Good Enobarbus!"
+        ],
+        [
+            "MECAENAS",
+            "We have cause to be glad that matters are so well"
+        ],
+        [
+            "MECAENAS",
+            "digested. You stayed well by 't in Egypt."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Ay, sir; we did sleep day out of countenance, and"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "made the night light with drinking."
+        ],
+        [
+            "MECAENAS",
+            "Eight wild-boars roasted whole at a breakfast, and"
+        ],
+        [
+            "MECAENAS",
+            "but twelve persons there; is this true?"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "This was but as a fly by an eagle: we had much more"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "monstrous matter of feast, which worthily deserved noting."
+        ],
+        [
+            "MECAENAS",
+            "She's a most triumphant lady, if report be square to"
+        ],
+        [
+            "MECAENAS",
+            "her."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "When she first met Mark Antony, she pursed up"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "his heart, upon the river of Cydnus."
+        ],
+        [
+            "AGRIPPA",
+            "There she appeared indeed; or my reporter devised"
+        ],
+        [
+            "AGRIPPA",
+            "well for her."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "I will tell you."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "The barge she sat in, like a burnish'd throne,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Burn'd on the water: the poop was beaten gold;"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Purple the sails, and so perfumed that"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "The winds were love-sick with them; the oars were silver,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Which to the tune of flutes kept stroke, and made"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "The water which they beat to follow faster,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "As amorous of their strokes. For her own person,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "It beggar'd all description: she did lie"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "In her pavilion--cloth-of-gold of tissue--"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "O'er-picturing that Venus where we see"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "The fancy outwork nature: on each side her"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Stood pretty dimpled boys, like smiling Cupids,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "With divers-colour'd fans, whose wind did seem"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "To glow the delicate cheeks which they did cool,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "And what they undid did."
+        ],
+        [
+            "AGRIPPA",
+            "O, rare for Antony!"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Her gentlewomen, like the Nereides,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "So many mermaids, tended her i' the eyes,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "And made their bends adornings: at the helm"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "A seeming mermaid steers: the silken tackle"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Swell with the touches of those flower-soft hands,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "That yarely frame the office. From the barge"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "A strange invisible perfume hits the sense"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Of the adjacent wharfs. The city cast"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Her people out upon her; and Antony,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Enthroned i' the market-place, did sit alone,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Whistling to the air; which, but for vacancy,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Had gone to gaze on Cleopatra too,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "And made a gap in nature."
+        ],
+        [
+            "AGRIPPA",
+            "Rare Egyptian!"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Upon her landing, Antony sent to her,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Invited her to supper: she replied,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "It should be better he became her guest;"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Which she entreated: our courteous Antony,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Whom ne'er the word of 'No' woman heard speak,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Being barber'd ten times o'er, goes to the feast,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "And for his ordinary pays his heart"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "For what his eyes eat only."
+        ],
+        [
+            "AGRIPPA",
+            "Royal wench!"
+        ],
+        [
+            "AGRIPPA",
+            "She made great Caesar lay his sword to bed:"
+        ],
+        [
+            "AGRIPPA",
+            "He plough'd her, and she cropp'd."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "I saw her once"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Hop forty paces through the public street;"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "And having lost her breath, she spoke, and panted,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "That she did make defect perfection,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "And, breathless, power breathe forth."
+        ],
+        [
+            "MECAENAS",
+            "Now Antony must leave her utterly."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Never; he will not:"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Age cannot wither her, nor custom stale"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Her infinite variety: other women cloy"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "The appetites they feed: but she makes hungry"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Where most she satisfies; for vilest things"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Become themselves in her: that the holy priests"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Bless her when she is riggish."
+        ],
+        [
+            "MECAENAS",
+            "If beauty, wisdom, modesty, can settle"
+        ],
+        [
+            "MECAENAS",
+            "The heart of Antony, Octavia is"
+        ],
+        [
+            "MECAENAS",
+            "A blessed lottery to him."
+        ],
+        [
+            "AGRIPPA",
+            "Let us go."
+        ],
+        [
+            "AGRIPPA",
+            "Good Enobarbus, make yourself my guest"
+        ],
+        [
+            "AGRIPPA",
+            "Whilst you abide here."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Humbly, sir, I thank you.",
+            {
+                "following_direction_line": "6"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter DOMITIUS ENOBARBUS and LEPIDUS"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter MARK ANTONY and VENTIDIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter OCTAVIUS CAESAR, MECAENAS, and AGRIPPA"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Flourish"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Flourish. Exeunt OCTAVIUS CAESAR, MARK ANTONY, and LEPIDUS"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "LEPIDUS": [
+            [
+                "1",
+                "3"
+            ],
+            [
+                "10",
+                "11"
+            ],
+            [
+                "14",
+                "14"
+            ],
+            [
+                "16",
+                "18"
+            ],
+            [
+                "24",
+                "32"
+            ],
+            [
+                "104",
+                "104"
+            ],
+            [
+                "122",
+                "122"
+            ],
+            [
+                "127",
+                "127"
+            ],
+            [
+                "186",
+                "186"
+            ],
+            [
+                "192",
+                "194"
+            ],
+            [
+                "209",
+                "210"
+            ]
+        ],
+        "DOMITIUS ENOBARBUS": [
+            [
+                "4",
+                "9"
+            ],
+            [
+                "12",
+                "13"
+            ],
+            [
+                "15",
+                "15"
+            ],
+            [
+                "19",
+                "19"
+            ],
+            [
+                "82",
+                "83"
+            ],
+            [
+                "128",
+                "131"
+            ],
+            [
+                "133",
+                "133"
+            ],
+            [
+                "135",
+                "135"
+            ],
+            [
+                "212",
+                "213"
+            ],
+            [
+                "217",
+                "218"
+            ],
+            [
+                "221",
+                "222"
+            ],
+            [
+                "225",
+                "226"
+            ],
+            [
+                "229",
+                "244"
+            ],
+            [
+                "246",
+                "258"
+            ],
+            [
+                "260",
+                "267"
+            ],
+            [
+                "271",
+                "275"
+            ],
+            [
+                "277",
+                "283"
+            ],
+            [
+                "290",
+                "290"
+            ]
+        ],
+        "MARK ANTONY": [
+            [
+                "20",
+                "21"
+            ],
+            [
+                "33",
+                "35"
+            ],
+            [
+                "37",
+                "37"
+            ],
+            [
+                "39",
+                "39"
+            ],
+            [
+                "41",
+                "42"
+            ],
+            [
+                "49",
+                "50"
+            ],
+            [
+                "55",
+                "55"
+            ],
+            [
+                "60",
+                "69"
+            ],
+            [
+                "73",
+                "81"
+            ],
+            [
+                "84",
+                "88"
+            ],
+            [
+                "93",
+                "100"
+            ],
+            [
+                "105",
+                "109"
+            ],
+            [
+                "112",
+                "121"
+            ],
+            [
+                "132",
+                "132"
+            ],
+            [
+                "134",
+                "134"
+            ],
+            [
+                "150",
+                "151"
+            ],
+            [
+                "167",
+                "167"
+            ],
+            [
+                "170",
+                "172"
+            ],
+            [
+                "175",
+                "180"
+            ],
+            [
+                "187",
+                "191"
+            ],
+            [
+                "195",
+                "195"
+            ],
+            [
+                "197",
+                "197"
+            ],
+            [
+                "200",
+                "203"
+            ],
+            [
+                "207",
+                "208"
+            ]
+        ],
+        "OCTAVIUS CAESAR": [
+            [
+                "22",
+                "23"
+            ],
+            [
+                "36",
+                "36"
+            ],
+            [
+                "38",
+                "38"
+            ],
+            [
+                "40",
+                "40"
+            ],
+            [
+                "43",
+                "48"
+            ],
+            [
+                "51",
+                "54"
+            ],
+            [
+                "56",
+                "59"
+            ],
+            [
+                "70",
+                "72"
+            ],
+            [
+                "89",
+                "92"
+            ],
+            [
+                "101",
+                "103"
+            ],
+            [
+                "110",
+                "111"
+            ],
+            [
+                "136",
+                "141"
+            ],
+            [
+                "143",
+                "143"
+            ],
+            [
+                "147",
+                "149"
+            ],
+            [
+                "168",
+                "169"
+            ],
+            [
+                "173",
+                "174"
+            ],
+            [
+                "181",
+                "185"
+            ],
+            [
+                "196",
+                "196"
+            ],
+            [
+                "198",
+                "199"
+            ],
+            [
+                "204",
+                "206"
+            ]
+        ],
+        "MECAENAS": [
+            [
+                "123",
+                "126"
+            ],
+            [
+                "211",
+                "211"
+            ],
+            [
+                "215",
+                "216"
+            ],
+            [
+                "219",
+                "220"
+            ],
+            [
+                "223",
+                "224"
+            ],
+            [
+                "276",
+                "276"
+            ],
+            [
+                "284",
+                "286"
+            ]
+        ],
+        "AGRIPPA": [
+            [
+                "142",
+                "142"
+            ],
+            [
+                "144",
+                "146"
+            ],
+            [
+                "152",
+                "166"
+            ],
+            [
+                "214",
+                "214"
+            ],
+            [
+                "227",
+                "228"
+            ],
+            [
+                "245",
+                "245"
+            ],
+            [
+                "259",
+                "259"
+            ],
+            [
+                "268",
+                "270"
+            ],
+            [
+                "287",
+                "289"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "Rome. The house of LEPIDUS."
+}

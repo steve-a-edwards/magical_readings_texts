@@ -1,0 +1,306 @@
+{
+    "scene_id": "antony and cleopatra~~Act_4~~Scene_6",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "OCTAVIUS CAESAR",
+            "Go forth, Agrippa, and begin the fight:",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Our will is Antony be took alive;"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Make it so known."
+        ],
+        [
+            "AGRIPPA",
+            "Caesar, I shall.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "The time of universal peace is near:",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Prove this a prosperous day, the three-nook'd world"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Shall bear the olive freely.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "Messenger",
+            "Antony",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "Messenger",
+            "Is come into the field."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Go charge Agrippa"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Plant those that have revolted in the van,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "That Antony may seem to spend his fury"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Upon himself.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Alexas did revolt; and went to Jewry on",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Affairs of Antony; there did persuade"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Great Herod to incline himself to Caesar,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "And leave his master Antony: for this pains"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Caesar hath hang'd him. Canidius and the rest"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "That fell away have entertainment, but"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "No honourable trust. I have done ill;"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Of which I do accuse myself so sorely,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "That I will joy no more.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "Soldier",
+            "Enobarbus, Antony",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "Soldier",
+            "Hath after thee sent all thy treasure, with"
+        ],
+        [
+            "Soldier",
+            "His bounty overplus: the messenger"
+        ],
+        [
+            "Soldier",
+            "Came on my guard; and at thy tent is now"
+        ],
+        [
+            "Soldier",
+            "Unloading of his mules."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "I give it you."
+        ],
+        [
+            "Soldier",
+            "Mock not, Enobarbus."
+        ],
+        [
+            "Soldier",
+            "I tell you true: best you safed the bringer"
+        ],
+        [
+            "Soldier",
+            "Out of the host; I must attend mine office,"
+        ],
+        [
+            "Soldier",
+            "Or would have done't myself. Your emperor"
+        ],
+        [
+            "Soldier",
+            "Continues still a Jove.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "I am alone the villain of the earth,",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "And feel I am so most. O Antony,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Thou mine of bounty, how wouldst thou have paid"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "My better service, when my turpitude"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Thou dost so crown with gold! This blows my heart:"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "If swift thought break it not, a swifter mean"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Shall outstrike thought: but thought will do't, I feel."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "I fight against thee! No: I will go seek"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Some ditch wherein to die; the foul'st best fits"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "My latter part of life.",
+            {
+                "following_direction_line": "7"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Flourish. Enter OCTAVIUS CAESAR, AGRIPPA, with DOMITIUS ENOBARBUS, and others"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter a Messenger"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt all but DOMITIUS ENOBARBUS"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Enter a Soldier of CAESAR's"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "OCTAVIUS CAESAR": [
+            [
+                "1",
+                "3"
+            ],
+            [
+                "5",
+                "7"
+            ],
+            [
+                "10",
+                "13"
+            ]
+        ],
+        "AGRIPPA": [
+            [
+                "4",
+                "4"
+            ]
+        ],
+        "Messenger": [
+            [
+                "8",
+                "9"
+            ]
+        ],
+        "DOMITIUS ENOBARBUS": [
+            [
+                "14",
+                "22"
+            ],
+            [
+                "28",
+                "28"
+            ],
+            [
+                "34",
+                "43"
+            ]
+        ],
+        "Soldier": [
+            [
+                "23",
+                "27"
+            ],
+            [
+                "29",
+                "33"
+            ]
+        ]
+    },
+    "scene_name": "SCENE VI",
+    "scene_description": "Alexandria. OCTAVIUS CAESAR's camp."
+}

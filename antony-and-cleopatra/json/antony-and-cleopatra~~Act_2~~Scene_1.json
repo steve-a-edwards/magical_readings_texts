@@ -1,0 +1,348 @@
+{
+    "scene_id": "antony and cleopatra~~Act_2~~Scene_1",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "POMPEY",
+            "If the great gods be just, they shall assist",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "POMPEY",
+            "The deeds of justest men."
+        ],
+        [
+            "MENECRATES",
+            "Know, worthy Pompey,"
+        ],
+        [
+            "MENECRATES",
+            "That what they do delay, they not deny."
+        ],
+        [
+            "POMPEY",
+            "Whiles we are suitors to their throne, decays"
+        ],
+        [
+            "POMPEY",
+            "The thing we sue for."
+        ],
+        [
+            "MENECRATES",
+            "We, ignorant of ourselves,"
+        ],
+        [
+            "MENECRATES",
+            "Beg often our own harms, which the wise powers"
+        ],
+        [
+            "MENECRATES",
+            "Deny us for our good; so find we profit"
+        ],
+        [
+            "MENECRATES",
+            "By losing of our prayers."
+        ],
+        [
+            "POMPEY",
+            "I shall do well:"
+        ],
+        [
+            "POMPEY",
+            "The people love me, and the sea is mine;"
+        ],
+        [
+            "POMPEY",
+            "My powers are crescent, and my auguring hope"
+        ],
+        [
+            "POMPEY",
+            "Says it will come to the full. Mark Antony"
+        ],
+        [
+            "POMPEY",
+            "In Egypt sits at dinner, and will make"
+        ],
+        [
+            "POMPEY",
+            "No wars without doors: Caesar gets money where"
+        ],
+        [
+            "POMPEY",
+            "He loses hearts: Lepidus flatters both,"
+        ],
+        [
+            "POMPEY",
+            "Of both is flatter'd; but he neither loves,"
+        ],
+        [
+            "POMPEY",
+            "Nor either cares for him."
+        ],
+        [
+            "MENAS",
+            "Caesar and Lepidus"
+        ],
+        [
+            "MENAS",
+            "Are in the field: a mighty strength they carry."
+        ],
+        [
+            "POMPEY",
+            "Where have you this? 'tis false."
+        ],
+        [
+            "MENAS",
+            "From Silvius, sir."
+        ],
+        [
+            "POMPEY",
+            "He dreams: I know they are in Rome together,"
+        ],
+        [
+            "POMPEY",
+            "Looking for Antony. But all the charms of love,"
+        ],
+        [
+            "POMPEY",
+            "Salt Cleopatra, soften thy waned lip!"
+        ],
+        [
+            "POMPEY",
+            "Let witchcraft join with beauty, lust with both!"
+        ],
+        [
+            "POMPEY",
+            "Tie up the libertine in a field of feasts,"
+        ],
+        [
+            "POMPEY",
+            "Keep his brain fuming; Epicurean cooks"
+        ],
+        [
+            "POMPEY",
+            "Sharpen with cloyless sauce his appetite;"
+        ],
+        [
+            "POMPEY",
+            "That sleep and feeding may prorogue his honour"
+        ],
+        [
+            "POMPEY",
+            "Even till a Lethe'd dulness!",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "POMPEY",
+            "How now, Varrius!",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "VARRIUS",
+            "This is most certain that I shall deliver:"
+        ],
+        [
+            "VARRIUS",
+            "Mark Antony is every hour in Rome"
+        ],
+        [
+            "VARRIUS",
+            "Expected: since he went from Egypt 'tis"
+        ],
+        [
+            "VARRIUS",
+            "A space for further travel."
+        ],
+        [
+            "POMPEY",
+            "I could have given less matter"
+        ],
+        [
+            "POMPEY",
+            "A better ear. Menas, I did not think"
+        ],
+        [
+            "POMPEY",
+            "This amorous surfeiter would have donn'd his helm"
+        ],
+        [
+            "POMPEY",
+            "For such a petty war: his soldiership"
+        ],
+        [
+            "POMPEY",
+            "Is twice the other twain: but let us rear"
+        ],
+        [
+            "POMPEY",
+            "The higher our opinion, that our stirring"
+        ],
+        [
+            "POMPEY",
+            "Can from the lap of Egypt's widow pluck"
+        ],
+        [
+            "POMPEY",
+            "The ne'er-lust-wearied Antony."
+        ],
+        [
+            "MENAS",
+            "I cannot hope"
+        ],
+        [
+            "MENAS",
+            "Caesar and Antony shall well greet together:"
+        ],
+        [
+            "MENAS",
+            "His wife that's dead did trespasses to Caesar;"
+        ],
+        [
+            "MENAS",
+            "His brother warr'd upon him; although, I think,"
+        ],
+        [
+            "MENAS",
+            "Not moved by Antony."
+        ],
+        [
+            "POMPEY",
+            "I know not, Menas,"
+        ],
+        [
+            "POMPEY",
+            "How lesser enmities may give way to greater."
+        ],
+        [
+            "POMPEY",
+            "Were't not that we stand up against them all,"
+        ],
+        [
+            "POMPEY",
+            "'Twere pregnant they should square between"
+        ],
+        [
+            "POMPEY",
+            "themselves;"
+        ],
+        [
+            "POMPEY",
+            "For they have entertained cause enough"
+        ],
+        [
+            "POMPEY",
+            "To draw their swords: but how the fear of us"
+        ],
+        [
+            "POMPEY",
+            "May cement their divisions and bind up"
+        ],
+        [
+            "POMPEY",
+            "The petty difference, we yet not know."
+        ],
+        [
+            "POMPEY",
+            "Be't as our gods will have't! It only stands"
+        ],
+        [
+            "POMPEY",
+            "Our lives upon to use our strongest hands."
+        ],
+        [
+            "POMPEY",
+            "Come, Menas.",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter POMPEY, MENECRATES, and MENAS, in warlike manner"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter VARRIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "POMPEY": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "5",
+                "6"
+            ],
+            [
+                "11",
+                "19"
+            ],
+            [
+                "22",
+                "22"
+            ],
+            [
+                "24",
+                "33"
+            ],
+            [
+                "38",
+                "45"
+            ],
+            [
+                "51",
+                "62"
+            ]
+        ],
+        "MENECRATES": [
+            [
+                "3",
+                "4"
+            ],
+            [
+                "7",
+                "10"
+            ]
+        ],
+        "MENAS": [
+            [
+                "20",
+                "21"
+            ],
+            [
+                "23",
+                "23"
+            ],
+            [
+                "46",
+                "50"
+            ]
+        ],
+        "VARRIUS": [
+            [
+                "34",
+                "37"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "Messina. POMPEY's house."
+}

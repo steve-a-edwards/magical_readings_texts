@@ -1,0 +1,1336 @@
+{
+    "scene_id": "antony and cleopatra~~Act_1~~Scene_2",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "CHARMIAN",
+            "Lord Alexas, sweet Alexas, most any thing Alexas,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "CHARMIAN",
+            "almost most absolute Alexas, where's the soothsayer"
+        ],
+        [
+            "CHARMIAN",
+            "that you praised so to the queen? O, that I knew"
+        ],
+        [
+            "CHARMIAN",
+            "this husband, which, you say, must charge his horns"
+        ],
+        [
+            "CHARMIAN",
+            "with garlands!"
+        ],
+        [
+            "ALEXAS",
+            "Soothsayer!"
+        ],
+        [
+            "Soothsayer",
+            "Your will?"
+        ],
+        [
+            "CHARMIAN",
+            "Is this the man? Is't you, sir, that know things?"
+        ],
+        [
+            "Soothsayer",
+            "In nature's infinite book of secrecy"
+        ],
+        [
+            "Soothsayer",
+            "A little I can read."
+        ],
+        [
+            "ALEXAS",
+            "Show him your hand.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Bring in the banquet quickly; wine enough",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Cleopatra's health to drink."
+        ],
+        [
+            "CHARMIAN",
+            "Good sir, give me good fortune."
+        ],
+        [
+            "Soothsayer",
+            "I make not, but foresee."
+        ],
+        [
+            "CHARMIAN",
+            "Pray, then, foresee me one."
+        ],
+        [
+            "Soothsayer",
+            "You shall be yet far fairer than you are."
+        ],
+        [
+            "CHARMIAN",
+            "He means in flesh."
+        ],
+        [
+            "IRAS",
+            "No, you shall paint when you are old."
+        ],
+        [
+            "CHARMIAN",
+            "Wrinkles forbid!"
+        ],
+        [
+            "ALEXAS",
+            "Vex not his prescience; be attentive."
+        ],
+        [
+            "CHARMIAN",
+            "Hush!"
+        ],
+        [
+            "Soothsayer",
+            "You shall be more beloving than beloved."
+        ],
+        [
+            "CHARMIAN",
+            "I had rather heat my liver with drinking."
+        ],
+        [
+            "ALEXAS",
+            "Nay, hear him."
+        ],
+        [
+            "CHARMIAN",
+            "Good now, some excellent fortune! Let me be married"
+        ],
+        [
+            "CHARMIAN",
+            "to three kings in a forenoon, and widow them all:"
+        ],
+        [
+            "CHARMIAN",
+            "let me have a child at fifty, to whom Herod of Jewry"
+        ],
+        [
+            "CHARMIAN",
+            "may do homage: find me to marry me with Octavius"
+        ],
+        [
+            "CHARMIAN",
+            "Caesar, and companion me with my mistress."
+        ],
+        [
+            "Soothsayer",
+            "You shall outlive the lady whom you serve."
+        ],
+        [
+            "CHARMIAN",
+            "O excellent! I love long life better than figs."
+        ],
+        [
+            "Soothsayer",
+            "You have seen and proved a fairer former fortune"
+        ],
+        [
+            "Soothsayer",
+            "Than that which is to approach."
+        ],
+        [
+            "CHARMIAN",
+            "Then belike my children shall have no names:"
+        ],
+        [
+            "CHARMIAN",
+            "prithee, how many boys and wenches must I have?"
+        ],
+        [
+            "Soothsayer",
+            "If every of your wishes had a womb."
+        ],
+        [
+            "Soothsayer",
+            "And fertile every wish, a million."
+        ],
+        [
+            "CHARMIAN",
+            "Out, fool! I forgive thee for a witch."
+        ],
+        [
+            "ALEXAS",
+            "You think none but your sheets are privy to your wishes."
+        ],
+        [
+            "CHARMIAN",
+            "Nay, come, tell Iras hers."
+        ],
+        [
+            "ALEXAS",
+            "We'll know all our fortunes."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Mine, and most of our fortunes, to-night, shall"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "be--drunk to bed."
+        ],
+        [
+            "IRAS",
+            "There's a palm presages chastity, if nothing else."
+        ],
+        [
+            "CHARMIAN",
+            "E'en as the o'erflowing Nilus presageth famine."
+        ],
+        [
+            "IRAS",
+            "Go, you wild bedfellow, you cannot soothsay."
+        ],
+        [
+            "CHARMIAN",
+            "Nay, if an oily palm be not a fruitful"
+        ],
+        [
+            "CHARMIAN",
+            "prognostication, I cannot scratch mine ear. Prithee,"
+        ],
+        [
+            "CHARMIAN",
+            "tell her but a worky-day fortune."
+        ],
+        [
+            "Soothsayer",
+            "Your fortunes are alike."
+        ],
+        [
+            "IRAS",
+            "But how, but how? give me particulars."
+        ],
+        [
+            "Soothsayer",
+            "I have said."
+        ],
+        [
+            "IRAS",
+            "Am I not an inch of fortune better than she?"
+        ],
+        [
+            "CHARMIAN",
+            "Well, if you were but an inch of fortune better than"
+        ],
+        [
+            "CHARMIAN",
+            "I, where would you choose it?"
+        ],
+        [
+            "IRAS",
+            "Not in my husband's nose."
+        ],
+        [
+            "CHARMIAN",
+            "Our worser thoughts heavens mend! Alexas,--come,"
+        ],
+        [
+            "CHARMIAN",
+            "his fortune, his fortune! O, let him marry a woman"
+        ],
+        [
+            "CHARMIAN",
+            "that cannot go, sweet Isis, I beseech thee! and let"
+        ],
+        [
+            "CHARMIAN",
+            "her die too, and give him a worse! and let worst"
+        ],
+        [
+            "CHARMIAN",
+            "follow worse, till the worst of all follow him"
+        ],
+        [
+            "CHARMIAN",
+            "laughing to his grave, fifty-fold a cuckold! Good"
+        ],
+        [
+            "CHARMIAN",
+            "Isis, hear me this prayer, though thou deny me a"
+        ],
+        [
+            "CHARMIAN",
+            "matter of more weight; good Isis, I beseech thee!"
+        ],
+        [
+            "IRAS",
+            "Amen. Dear goddess, hear that prayer of the people!"
+        ],
+        [
+            "IRAS",
+            "for, as it is a heartbreaking to see a handsome man"
+        ],
+        [
+            "IRAS",
+            "loose-wived, so it is a deadly sorrow to behold a"
+        ],
+        [
+            "IRAS",
+            "foul knave uncuckolded: therefore, dear Isis, keep"
+        ],
+        [
+            "IRAS",
+            "decorum, and fortune him accordingly!"
+        ],
+        [
+            "CHARMIAN",
+            "Amen."
+        ],
+        [
+            "ALEXAS",
+            "Lo, now, if it lay in their hands to make me a"
+        ],
+        [
+            "ALEXAS",
+            "cuckold, they would make themselves whores, but"
+        ],
+        [
+            "ALEXAS",
+            "they'ld do't!"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Hush! here comes Antony."
+        ],
+        [
+            "CHARMIAN",
+            "Not he; the queen.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "Saw you my lord?",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "No, lady."
+        ],
+        [
+            "CLEOPATRA",
+            "Was he not here?"
+        ],
+        [
+            "CHARMIAN",
+            "No, madam."
+        ],
+        [
+            "CLEOPATRA",
+            "He was disposed to mirth; but on the sudden"
+        ],
+        [
+            "CLEOPATRA",
+            "A Roman thought hath struck him. Enobarbus!"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Madam?"
+        ],
+        [
+            "CLEOPATRA",
+            "Seek him, and bring him hither."
+        ],
+        [
+            "CLEOPATRA",
+            "Where's Alexas?"
+        ],
+        [
+            "ALEXAS",
+            "Here, at your service. My lord approaches."
+        ],
+        [
+            "CLEOPATRA",
+            "We will not look upon him: go with us.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "Messenger",
+            "Fulvia thy wife first came into the field.",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Against my brother Lucius?"
+        ],
+        [
+            "Messenger",
+            "Ay:"
+        ],
+        [
+            "Messenger",
+            "But soon that war had end, and the time's state"
+        ],
+        [
+            "Messenger",
+            "Made friends of them, joining their force 'gainst Caesar;"
+        ],
+        [
+            "Messenger",
+            "Whose better issue in the war, from Italy,"
+        ],
+        [
+            "Messenger",
+            "Upon the first encounter, drave them."
+        ],
+        [
+            "MARK ANTONY",
+            "Well, what worst?"
+        ],
+        [
+            "Messenger",
+            "The nature of bad news infects the teller."
+        ],
+        [
+            "MARK ANTONY",
+            "When it concerns the fool or coward. On:"
+        ],
+        [
+            "MARK ANTONY",
+            "Things that are past are done with me. 'Tis thus:"
+        ],
+        [
+            "MARK ANTONY",
+            "Who tells me true, though in his tale lie death,"
+        ],
+        [
+            "MARK ANTONY",
+            "I hear him as he flatter'd."
+        ],
+        [
+            "Messenger",
+            "Labienus--"
+        ],
+        [
+            "Messenger",
+            "This is stiff news--hath, with his Parthian force,"
+        ],
+        [
+            "Messenger",
+            "Extended Asia from Euphrates;"
+        ],
+        [
+            "Messenger",
+            "His conquering banner shook from Syria"
+        ],
+        [
+            "Messenger",
+            "To Lydia and to Ionia; Whilst--"
+        ],
+        [
+            "MARK ANTONY",
+            "Antony, thou wouldst say,--"
+        ],
+        [
+            "Messenger",
+            "O, my lord!"
+        ],
+        [
+            "MARK ANTONY",
+            "Speak to me home, mince not the general tongue:"
+        ],
+        [
+            "MARK ANTONY",
+            "Name Cleopatra as she is call'd in Rome;"
+        ],
+        [
+            "MARK ANTONY",
+            "Rail thou in Fulvia's phrase; and taunt my faults"
+        ],
+        [
+            "MARK ANTONY",
+            "With such full licence as both truth and malice"
+        ],
+        [
+            "MARK ANTONY",
+            "Have power to utter. O, then we bring forth weeds,"
+        ],
+        [
+            "MARK ANTONY",
+            "When our quick minds lie still; and our ills told us"
+        ],
+        [
+            "MARK ANTONY",
+            "Is as our earing. Fare thee well awhile."
+        ],
+        [
+            "Messenger",
+            "At your noble pleasure.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "From Sicyon, ho, the news! Speak there!",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "First Attendant",
+            "The man from Sicyon,--is there such an one?"
+        ],
+        [
+            "Second Attendant",
+            "He stays upon your will."
+        ],
+        [
+            "MARK ANTONY",
+            "Let him appear."
+        ],
+        [
+            "MARK ANTONY",
+            "These strong Egyptian fetters I must break,"
+        ],
+        [
+            "MARK ANTONY",
+            "Or lose myself in dotage.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "What are you?",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "Second Messenger",
+            "Fulvia thy wife is dead."
+        ],
+        [
+            "MARK ANTONY",
+            "Where died she?"
+        ],
+        [
+            "Second Messenger",
+            "In Sicyon:"
+        ],
+        [
+            "Second Messenger",
+            "Her length of sickness, with what else more serious"
+        ],
+        [
+            "Second Messenger",
+            "Importeth thee to know, this bears.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Forbear me.",
+            {
+                "preceding_direction_line": "7",
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "There's a great spirit gone! Thus did I desire it:",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "What our contempt doth often hurl from us,"
+        ],
+        [
+            "MARK ANTONY",
+            "We wish it ours again; the present pleasure,"
+        ],
+        [
+            "MARK ANTONY",
+            "By revolution lowering, does become"
+        ],
+        [
+            "MARK ANTONY",
+            "The opposite of itself: she's good, being gone;"
+        ],
+        [
+            "MARK ANTONY",
+            "The hand could pluck her back that shoved her on."
+        ],
+        [
+            "MARK ANTONY",
+            "I must from this enchanting queen break off:"
+        ],
+        [
+            "MARK ANTONY",
+            "Ten thousand harms, more than the ills I know,"
+        ],
+        [
+            "MARK ANTONY",
+            "My idleness doth hatch. How now! Enobarbus!",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "What's your pleasure, sir?",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "I must with haste from hence."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Why, then, we kill all our women:"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "we see how mortal an unkindness is to them;"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "if they suffer our departure, death's the word."
+        ],
+        [
+            "MARK ANTONY",
+            "I must be gone."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Under a compelling occasion, let women die; it were"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "pity to cast them away for nothing; though, between"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "them and a great cause, they should be esteemed"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "nothing. Cleopatra, catching but the least noise of"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "this, dies instantly; I have seen her die twenty"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "times upon far poorer moment: I do think there is"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "mettle in death, which commits some loving act upon"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "her, she hath such a celerity in dying."
+        ],
+        [
+            "MARK ANTONY",
+            "She is cunning past man's thought.",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Alack, sir, no; her passions are made of nothing but",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "the finest part of pure love: we cannot call her"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "winds and waters sighs and tears; they are greater"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "storms and tempests than almanacs can report: this"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "cannot be cunning in her; if it be, she makes a"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "shower of rain as well as Jove."
+        ],
+        [
+            "MARK ANTONY",
+            "Would I had never seen her."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "O, sir, you had then left unseen a wonderful piece"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "of work; which not to have been blest withal would"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "have discredited your travel."
+        ],
+        [
+            "MARK ANTONY",
+            "Fulvia is dead."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Sir?"
+        ],
+        [
+            "MARK ANTONY",
+            "Fulvia is dead."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Fulvia!"
+        ],
+        [
+            "MARK ANTONY",
+            "Dead."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Why, sir, give the gods a thankful sacrifice. When"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "it pleaseth their deities to take the wife of a man"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "from him, it shows to man the tailors of the earth;"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "comforting therein, that when old robes are worn"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "out, there are members to make new. If there were"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "no more women but Fulvia, then had you indeed a cut,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "and the case to be lamented: this grief is crowned"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "with consolation; your old smock brings forth a new"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "petticoat: and indeed the tears live in an onion"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "that should water this sorrow."
+        ],
+        [
+            "MARK ANTONY",
+            "The business she hath broached in the state"
+        ],
+        [
+            "MARK ANTONY",
+            "Cannot endure my absence."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "And the business you have broached here cannot be"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "without you; especially that of Cleopatra's, which"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "wholly depends on your abode."
+        ],
+        [
+            "MARK ANTONY",
+            "No more light answers. Let our officers"
+        ],
+        [
+            "MARK ANTONY",
+            "Have notice what we purpose. I shall break"
+        ],
+        [
+            "MARK ANTONY",
+            "The cause of our expedience to the queen,"
+        ],
+        [
+            "MARK ANTONY",
+            "And get her leave to part. For not alone"
+        ],
+        [
+            "MARK ANTONY",
+            "The death of Fulvia, with more urgent touches,"
+        ],
+        [
+            "MARK ANTONY",
+            "Do strongly speak to us; but the letters too"
+        ],
+        [
+            "MARK ANTONY",
+            "Of many our contriving friends in Rome"
+        ],
+        [
+            "MARK ANTONY",
+            "Petition us at home: Sextus Pompeius"
+        ],
+        [
+            "MARK ANTONY",
+            "Hath given the dare to Caesar, and commands"
+        ],
+        [
+            "MARK ANTONY",
+            "The empire of the sea: our slippery people,"
+        ],
+        [
+            "MARK ANTONY",
+            "Whose love is never link'd to the deserver"
+        ],
+        [
+            "MARK ANTONY",
+            "Till his deserts are past, begin to throw"
+        ],
+        [
+            "MARK ANTONY",
+            "Pompey the Great and all his dignities"
+        ],
+        [
+            "MARK ANTONY",
+            "Upon his son; who, high in name and power,"
+        ],
+        [
+            "MARK ANTONY",
+            "Higher than both in blood and life, stands up"
+        ],
+        [
+            "MARK ANTONY",
+            "For the main soldier: whose quality, going on,"
+        ],
+        [
+            "MARK ANTONY",
+            "The sides o' the world may danger: much is breeding,"
+        ],
+        [
+            "MARK ANTONY",
+            "Which, like the courser's hair, hath yet but life,"
+        ],
+        [
+            "MARK ANTONY",
+            "And not a serpent's poison. Say, our pleasure,"
+        ],
+        [
+            "MARK ANTONY",
+            "To such whose place is under us, requires"
+        ],
+        [
+            "MARK ANTONY",
+            "Our quick remove from hence."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "I shall do't.",
+            {
+                "following_direction_line": "11"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter CHARMIAN, IRAS, ALEXAS, and a Soothsayer"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter DOMITIUS ENOBARBUS"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter CLEOPATRA"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt. Enter MARK ANTONY with a Messenger and Attendants"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Enter another Messenger"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Gives a letter"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Exit Second Messenger"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Re-enter DOMITIUS ENOBARBUS"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Exit ALEXAS"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "CHARMIAN": [
+            [
+                "1",
+                "5"
+            ],
+            [
+                "8",
+                "8"
+            ],
+            [
+                "14",
+                "14"
+            ],
+            [
+                "16",
+                "16"
+            ],
+            [
+                "18",
+                "18"
+            ],
+            [
+                "20",
+                "20"
+            ],
+            [
+                "22",
+                "22"
+            ],
+            [
+                "24",
+                "24"
+            ],
+            [
+                "26",
+                "30"
+            ],
+            [
+                "32",
+                "32"
+            ],
+            [
+                "35",
+                "36"
+            ],
+            [
+                "39",
+                "39"
+            ],
+            [
+                "41",
+                "41"
+            ],
+            [
+                "46",
+                "46"
+            ],
+            [
+                "48",
+                "50"
+            ],
+            [
+                "55",
+                "56"
+            ],
+            [
+                "58",
+                "65"
+            ],
+            [
+                "71",
+                "71"
+            ],
+            [
+                "76",
+                "76"
+            ],
+            [
+                "80",
+                "80"
+            ]
+        ],
+        "ALEXAS": [
+            [
+                "6",
+                "6"
+            ],
+            [
+                "11",
+                "11"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "25",
+                "25"
+            ],
+            [
+                "40",
+                "40"
+            ],
+            [
+                "42",
+                "42"
+            ],
+            [
+                "72",
+                "74"
+            ],
+            [
+                "86",
+                "86"
+            ]
+        ],
+        "Soothsayer": [
+            [
+                "7",
+                "7"
+            ],
+            [
+                "9",
+                "10"
+            ],
+            [
+                "15",
+                "15"
+            ],
+            [
+                "17",
+                "17"
+            ],
+            [
+                "23",
+                "23"
+            ],
+            [
+                "31",
+                "31"
+            ],
+            [
+                "33",
+                "34"
+            ],
+            [
+                "37",
+                "38"
+            ],
+            [
+                "51",
+                "51"
+            ],
+            [
+                "53",
+                "53"
+            ]
+        ],
+        "DOMITIUS ENOBARBUS": [
+            [
+                "12",
+                "13"
+            ],
+            [
+                "43",
+                "44"
+            ],
+            [
+                "75",
+                "75"
+            ],
+            [
+                "78",
+                "78"
+            ],
+            [
+                "83",
+                "83"
+            ],
+            [
+                "138",
+                "138"
+            ],
+            [
+                "140",
+                "142"
+            ],
+            [
+                "144",
+                "151"
+            ],
+            [
+                "153",
+                "158"
+            ],
+            [
+                "160",
+                "162"
+            ],
+            [
+                "164",
+                "164"
+            ],
+            [
+                "166",
+                "166"
+            ],
+            [
+                "168",
+                "177"
+            ],
+            [
+                "180",
+                "182"
+            ],
+            [
+                "204",
+                "204"
+            ]
+        ],
+        "IRAS": [
+            [
+                "19",
+                "19"
+            ],
+            [
+                "45",
+                "45"
+            ],
+            [
+                "47",
+                "47"
+            ],
+            [
+                "52",
+                "52"
+            ],
+            [
+                "54",
+                "54"
+            ],
+            [
+                "57",
+                "57"
+            ],
+            [
+                "66",
+                "70"
+            ]
+        ],
+        "CLEOPATRA": [
+            [
+                "77",
+                "77"
+            ],
+            [
+                "79",
+                "79"
+            ],
+            [
+                "81",
+                "82"
+            ],
+            [
+                "84",
+                "85"
+            ],
+            [
+                "87",
+                "87"
+            ]
+        ],
+        "Messenger": [
+            [
+                "88",
+                "88"
+            ],
+            [
+                "90",
+                "94"
+            ],
+            [
+                "96",
+                "96"
+            ],
+            [
+                "101",
+                "105"
+            ],
+            [
+                "107",
+                "107"
+            ],
+            [
+                "115",
+                "115"
+            ]
+        ],
+        "MARK ANTONY": [
+            [
+                "89",
+                "89"
+            ],
+            [
+                "95",
+                "95"
+            ],
+            [
+                "97",
+                "100"
+            ],
+            [
+                "106",
+                "106"
+            ],
+            [
+                "108",
+                "114"
+            ],
+            [
+                "116",
+                "116"
+            ],
+            [
+                "119",
+                "122"
+            ],
+            [
+                "124",
+                "124"
+            ],
+            [
+                "128",
+                "137"
+            ],
+            [
+                "139",
+                "139"
+            ],
+            [
+                "143",
+                "143"
+            ],
+            [
+                "152",
+                "152"
+            ],
+            [
+                "159",
+                "159"
+            ],
+            [
+                "163",
+                "163"
+            ],
+            [
+                "165",
+                "165"
+            ],
+            [
+                "167",
+                "167"
+            ],
+            [
+                "178",
+                "179"
+            ],
+            [
+                "183",
+                "203"
+            ]
+        ],
+        "First Attendant": [
+            [
+                "117",
+                "117"
+            ]
+        ],
+        "Second Attendant": [
+            [
+                "118",
+                "118"
+            ]
+        ],
+        "Second Messenger": [
+            [
+                "123",
+                "123"
+            ],
+            [
+                "125",
+                "127"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "The same. Another room."
+}

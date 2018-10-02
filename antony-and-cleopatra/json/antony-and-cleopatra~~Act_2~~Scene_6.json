@@ -1,0 +1,958 @@
+{
+    "scene_id": "antony and cleopatra~~Act_2~~Scene_6",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "POMPEY",
+            "Your hostages I have, so have you mine;",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "POMPEY",
+            "And we shall talk before we fight."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Most meet"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "That first we come to words; and therefore have we"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Our written purposes before us sent;"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Which, if thou hast consider'd, let us know"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "If 'twill tie up thy discontented sword,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "And carry back to Sicily much tall youth"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "That else must perish here."
+        ],
+        [
+            "POMPEY",
+            "To you all three,"
+        ],
+        [
+            "POMPEY",
+            "The senators alone of this great world,"
+        ],
+        [
+            "POMPEY",
+            "Chief factors for the gods, I do not know"
+        ],
+        [
+            "POMPEY",
+            "Wherefore my father should revengers want,"
+        ],
+        [
+            "POMPEY",
+            "Having a son and friends; since Julius Caesar,"
+        ],
+        [
+            "POMPEY",
+            "Who at Philippi the good Brutus ghosted,"
+        ],
+        [
+            "POMPEY",
+            "There saw you labouring for him. What was't"
+        ],
+        [
+            "POMPEY",
+            "That moved pale Cassius to conspire; and what"
+        ],
+        [
+            "POMPEY",
+            "Made the all-honour'd, honest Roman, Brutus,"
+        ],
+        [
+            "POMPEY",
+            "With the arm'd rest, courtiers and beauteous freedom,"
+        ],
+        [
+            "POMPEY",
+            "To drench the Capitol; but that they would"
+        ],
+        [
+            "POMPEY",
+            "Have one man but a man? And that is it"
+        ],
+        [
+            "POMPEY",
+            "Hath made me rig my navy; at whose burthen"
+        ],
+        [
+            "POMPEY",
+            "The anger'd ocean foams; with which I meant"
+        ],
+        [
+            "POMPEY",
+            "To scourge the ingratitude that despiteful Rome"
+        ],
+        [
+            "POMPEY",
+            "Cast on my noble father."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Take your time."
+        ],
+        [
+            "MARK ANTONY",
+            "Thou canst not fear us, Pompey, with thy sails;"
+        ],
+        [
+            "MARK ANTONY",
+            "We'll speak with thee at sea: at land, thou know'st"
+        ],
+        [
+            "MARK ANTONY",
+            "How much we do o'er-count thee."
+        ],
+        [
+            "POMPEY",
+            "At land, indeed,"
+        ],
+        [
+            "POMPEY",
+            "Thou dost o'er-count me of my father's house:"
+        ],
+        [
+            "POMPEY",
+            "But, since the cuckoo builds not for himself,"
+        ],
+        [
+            "POMPEY",
+            "Remain in't as thou mayst."
+        ],
+        [
+            "LEPIDUS",
+            "Be pleased to tell us--"
+        ],
+        [
+            "LEPIDUS",
+            "For this is from the present--how you take"
+        ],
+        [
+            "LEPIDUS",
+            "The offers we have sent you."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "There's the point."
+        ],
+        [
+            "MARK ANTONY",
+            "Which do not be entreated to, but weigh"
+        ],
+        [
+            "MARK ANTONY",
+            "What it is worth embraced."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "And what may follow,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "To try a larger fortune."
+        ],
+        [
+            "POMPEY",
+            "You have made me offer"
+        ],
+        [
+            "POMPEY",
+            "Of Sicily, Sardinia; and I must"
+        ],
+        [
+            "POMPEY",
+            "Rid all the sea of pirates; then, to send"
+        ],
+        [
+            "POMPEY",
+            "Measures of wheat to Rome; this 'greed upon"
+        ],
+        [
+            "POMPEY",
+            "To part with unhack'd edges, and bear back"
+        ],
+        [
+            "POMPEY",
+            "Our targes undinted."
+        ],
+        [
+            "OCTAVIUS CAESAR, MARK ANTONY and LEPIDUS",
+            "That's our offer."
+        ],
+        [
+            "POMPEY",
+            "Know, then,"
+        ],
+        [
+            "POMPEY",
+            "I came before you here a man prepared"
+        ],
+        [
+            "POMPEY",
+            "To take this offer: but Mark Antony"
+        ],
+        [
+            "POMPEY",
+            "Put me to some impatience: though I lose"
+        ],
+        [
+            "POMPEY",
+            "The praise of it by telling, you must know,"
+        ],
+        [
+            "POMPEY",
+            "When Caesar and your brother were at blows,"
+        ],
+        [
+            "POMPEY",
+            "Your mother came to Sicily and did find"
+        ],
+        [
+            "POMPEY",
+            "Her welcome friendly."
+        ],
+        [
+            "MARK ANTONY",
+            "I have heard it, Pompey;"
+        ],
+        [
+            "MARK ANTONY",
+            "And am well studied for a liberal thanks"
+        ],
+        [
+            "MARK ANTONY",
+            "Which I do owe you."
+        ],
+        [
+            "POMPEY",
+            "Let me have your hand:"
+        ],
+        [
+            "POMPEY",
+            "I did not think, sir, to have met you here."
+        ],
+        [
+            "MARK ANTONY",
+            "The beds i' the east are soft; and thanks to you,"
+        ],
+        [
+            "MARK ANTONY",
+            "That call'd me timelier than my purpose hither;"
+        ],
+        [
+            "MARK ANTONY",
+            "For I have gain'd by 't."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Since I saw you last,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "There is a change upon you."
+        ],
+        [
+            "POMPEY",
+            "Well, I know not"
+        ],
+        [
+            "POMPEY",
+            "What counts harsh fortune casts upon my face;"
+        ],
+        [
+            "POMPEY",
+            "But in my bosom shall she never come,"
+        ],
+        [
+            "POMPEY",
+            "To make my heart her vassal."
+        ],
+        [
+            "LEPIDUS",
+            "Well met here."
+        ],
+        [
+            "POMPEY",
+            "I hope so, Lepidus. Thus we are agreed:"
+        ],
+        [
+            "POMPEY",
+            "I crave our composition may be written,"
+        ],
+        [
+            "POMPEY",
+            "And seal'd between us."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "That's the next to do."
+        ],
+        [
+            "POMPEY",
+            "We'll feast each other ere we part; and let's"
+        ],
+        [
+            "POMPEY",
+            "Draw lots who shall begin."
+        ],
+        [
+            "MARK ANTONY",
+            "That will I, Pompey."
+        ],
+        [
+            "POMPEY",
+            "No, Antony, take the lot: but, first"
+        ],
+        [
+            "POMPEY",
+            "Or last, your fine Egyptian cookery"
+        ],
+        [
+            "POMPEY",
+            "Shall have the fame. I have heard that Julius Caesar"
+        ],
+        [
+            "POMPEY",
+            "Grew fat with feasting there."
+        ],
+        [
+            "MARK ANTONY",
+            "You have heard much."
+        ],
+        [
+            "POMPEY",
+            "I have fair meanings, sir."
+        ],
+        [
+            "MARK ANTONY",
+            "And fair words to them."
+        ],
+        [
+            "POMPEY",
+            "Then so much have I heard:"
+        ],
+        [
+            "POMPEY",
+            "And I have heard, Apollodorus carried--"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "No more of that: he did so."
+        ],
+        [
+            "POMPEY",
+            "What, I pray you?"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "A certain queen to Caesar in a mattress."
+        ],
+        [
+            "POMPEY",
+            "I know thee now: how farest thou, soldier?"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Well;"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "And well am like to do; for, I perceive,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Four feasts are toward."
+        ],
+        [
+            "POMPEY",
+            "Let me shake thy hand;"
+        ],
+        [
+            "POMPEY",
+            "I never hated thee: I have seen thee fight,"
+        ],
+        [
+            "POMPEY",
+            "When I have envied thy behavior."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Sir,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "I never loved you much; but I ha' praised ye,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "When you have well deserved ten times as much"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "As I have said you did."
+        ],
+        [
+            "POMPEY",
+            "Enjoy thy plainness,"
+        ],
+        [
+            "POMPEY",
+            "It nothing ill becomes thee."
+        ],
+        [
+            "POMPEY",
+            "Aboard my galley I invite you all:"
+        ],
+        [
+            "POMPEY",
+            "Will you lead, lords?"
+        ],
+        [
+            "OCTAVIUS CAESAR, MARK ANTONY and LEPIDUS",
+            "Show us the way, sir."
+        ],
+        [
+            "POMPEY",
+            "Come.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "MENAS",
+            "[Aside] Thy father, Pompey, would ne'er have",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "MENAS",
+            "made this treaty.--You and I have known, sir."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "At sea, I think."
+        ],
+        [
+            "MENAS",
+            "We have, sir."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "You have done well by water."
+        ],
+        [
+            "MENAS",
+            "And you by land."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "I will praise any man that will praise me; though it"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "cannot be denied what I have done by land."
+        ],
+        [
+            "MENAS",
+            "Nor what I have done by water."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Yes, something you can deny for your own"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "safety: you have been a great thief by sea."
+        ],
+        [
+            "MENAS",
+            "And you by land."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "There I deny my land service. But give me your"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "hand, Menas: if our eyes had authority, here they"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "might take two thieves kissing."
+        ],
+        [
+            "MENAS",
+            "All men's faces are true, whatsome'er their hands are."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "But there is never a fair woman has a true face."
+        ],
+        [
+            "MENAS",
+            "No slander; they steal hearts."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "We came hither to fight with you."
+        ],
+        [
+            "MENAS",
+            "For my part, I am sorry it is turned to a drinking."
+        ],
+        [
+            "MENAS",
+            "Pompey doth this day laugh away his fortune."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "If he do, sure, he cannot weep't back again."
+        ],
+        [
+            "MENAS",
+            "You've said, sir. We looked not for Mark Antony"
+        ],
+        [
+            "MENAS",
+            "here: pray you, is he married to Cleopatra?"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Caesar's sister is called Octavia."
+        ],
+        [
+            "MENAS",
+            "True, sir; she was the wife of Caius Marcellus."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "But she is now the wife of Marcus Antonius."
+        ],
+        [
+            "MENAS",
+            "Pray ye, sir?"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "'Tis true."
+        ],
+        [
+            "MENAS",
+            "Then is Caesar and he for ever knit together."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "If I were bound to divine of this unity, I would"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "not prophesy so."
+        ],
+        [
+            "MENAS",
+            "I think the policy of that purpose made more in the"
+        ],
+        [
+            "MENAS",
+            "marriage than the love of the parties."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "I think so too. But you shall find, the band that"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "seems to tie their friendship together will be the"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "very strangler of their amity: Octavia is of a"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "holy, cold, and still conversation."
+        ],
+        [
+            "MENAS",
+            "Who would not have his wife so?"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Not he that himself is not so; which is Mark Antony."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "He will to his Egyptian dish again: then shall the"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "sighs of Octavia blow the fire up in Caesar; and, as"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "I said before, that which is the strength of their"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "amity shall prove the immediate author of their"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "variance. Antony will use his affection where it is:"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "he married but his occasion here."
+        ],
+        [
+            "MENAS",
+            "And thus it may be. Come, sir, will you aboard?"
+        ],
+        [
+            "MENAS",
+            "I have a health for you."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "I shall take it, sir: we have used our throats in Egypt."
+        ],
+        [
+            "MENAS",
+            "Come, let's away.",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Flourish. Enter POMPEY and MENAS at one door, with drum and trumpet: at another, OCTAVIUS CAESAR, MARK ANTONY, LEPIDUS, DOMITIUS ENOBARBUS, MECAENAS, with Soldiers marching"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt all but MENAS and ENOBARBUS"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "POMPEY": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "10",
+                "25"
+            ],
+            [
+                "30",
+                "33"
+            ],
+            [
+                "42",
+                "47"
+            ],
+            [
+                "49",
+                "56"
+            ],
+            [
+                "60",
+                "61"
+            ],
+            [
+                "67",
+                "70"
+            ],
+            [
+                "72",
+                "74"
+            ],
+            [
+                "76",
+                "77"
+            ],
+            [
+                "79",
+                "82"
+            ],
+            [
+                "84",
+                "84"
+            ],
+            [
+                "86",
+                "87"
+            ],
+            [
+                "89",
+                "89"
+            ],
+            [
+                "91",
+                "91"
+            ],
+            [
+                "95",
+                "97"
+            ],
+            [
+                "102",
+                "105"
+            ],
+            [
+                "107",
+                "107"
+            ]
+        ],
+        "OCTAVIUS CAESAR": [
+            [
+                "3",
+                "9"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "37",
+                "37"
+            ],
+            [
+                "40",
+                "41"
+            ],
+            [
+                "65",
+                "66"
+            ],
+            [
+                "75",
+                "75"
+            ]
+        ],
+        "MARK ANTONY": [
+            [
+                "27",
+                "29"
+            ],
+            [
+                "38",
+                "39"
+            ],
+            [
+                "57",
+                "59"
+            ],
+            [
+                "62",
+                "64"
+            ],
+            [
+                "78",
+                "78"
+            ],
+            [
+                "83",
+                "83"
+            ],
+            [
+                "85",
+                "85"
+            ]
+        ],
+        "LEPIDUS": [
+            [
+                "34",
+                "36"
+            ],
+            [
+                "71",
+                "71"
+            ]
+        ],
+        "OCTAVIUS CAESAR, MARK ANTONY and LEPIDUS": [
+            [
+                "48",
+                "48"
+            ],
+            [
+                "106",
+                "106"
+            ]
+        ],
+        "DOMITIUS ENOBARBUS": [
+            [
+                "88",
+                "88"
+            ],
+            [
+                "90",
+                "90"
+            ],
+            [
+                "92",
+                "94"
+            ],
+            [
+                "98",
+                "101"
+            ],
+            [
+                "110",
+                "110"
+            ],
+            [
+                "112",
+                "112"
+            ],
+            [
+                "114",
+                "115"
+            ],
+            [
+                "117",
+                "118"
+            ],
+            [
+                "120",
+                "122"
+            ],
+            [
+                "124",
+                "124"
+            ],
+            [
+                "126",
+                "126"
+            ],
+            [
+                "129",
+                "129"
+            ],
+            [
+                "132",
+                "132"
+            ],
+            [
+                "134",
+                "134"
+            ],
+            [
+                "136",
+                "136"
+            ],
+            [
+                "138",
+                "139"
+            ],
+            [
+                "142",
+                "145"
+            ],
+            [
+                "147",
+                "153"
+            ],
+            [
+                "156",
+                "156"
+            ]
+        ],
+        "MENAS": [
+            [
+                "108",
+                "109"
+            ],
+            [
+                "111",
+                "111"
+            ],
+            [
+                "113",
+                "113"
+            ],
+            [
+                "116",
+                "116"
+            ],
+            [
+                "119",
+                "119"
+            ],
+            [
+                "123",
+                "123"
+            ],
+            [
+                "125",
+                "125"
+            ],
+            [
+                "127",
+                "128"
+            ],
+            [
+                "130",
+                "131"
+            ],
+            [
+                "133",
+                "133"
+            ],
+            [
+                "135",
+                "135"
+            ],
+            [
+                "137",
+                "137"
+            ],
+            [
+                "140",
+                "141"
+            ],
+            [
+                "146",
+                "146"
+            ],
+            [
+                "154",
+                "155"
+            ],
+            [
+                "157",
+                "157"
+            ]
+        ]
+    },
+    "scene_name": "SCENE VI",
+    "scene_description": "Near Misenum."
+}

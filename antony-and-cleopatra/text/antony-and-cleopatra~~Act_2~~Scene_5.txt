@@ -1,0 +1,217 @@
+_S_SCENE V. Alexandria. CLEOPATRA's palace.
+_D_Enter CLEOPATRA, CHARMIAN, IRAS, and ALEXAS
+_R_CLEOPATRA
+Give me some music; music, moody food
+Of us that trade in love.
+_R_Attendants
+The music, ho!
+_D_Enter MARDIAN
+_R_CLEOPATRA
+Let it alone; let's to billiards: come, Charmian.
+_R_CHARMIAN
+My arm is sore; best play with Mardian.
+_R_CLEOPATRA
+As well a woman with an eunuch play'd
+As with a woman. Come, you'll play with me, sir?
+_R_MARDIAN
+As well as I can, madam.
+_R_CLEOPATRA
+And when good will is show'd, though't come
+too short,
+The actor may plead pardon. I'll none now:
+Give me mine angle; we'll to the river: there,
+My music playing far off, I will betray
+Tawny-finn'd fishes; my bended hook shall pierce
+Their slimy jaws; and, as I draw them up,
+I'll think them every one an Antony,
+And say 'Ah, ha! you're caught.'
+_R_CHARMIAN
+'Twas merry when
+You wager'd on your angling; when your diver
+Did hang a salt-fish on his hook, which he
+With fervency drew up.
+_R_CLEOPATRA
+That time,--O times!--
+I laugh'd him out of patience; and that night
+I laugh'd him into patience; and next morn,
+Ere the ninth hour, I drunk him to his bed;
+Then put my tires and mantles on him, whilst
+I wore his sword Philippan.
+_D_Enter a Messenger
+O, from Italy
+Ram thou thy fruitful tidings in mine ears,
+That long time have been barren.
+_R_Messenger
+Madam, madam,--
+_R_CLEOPATRA
+Antonius dead!--If thou say so, villain,
+Thou kill'st thy mistress: but well and free,
+If thou so yield him, there is gold, and here
+My bluest veins to kiss; a hand that kings
+Have lipp'd, and trembled kissing.
+_R_Messenger
+First, madam, he is well.
+_R_CLEOPATRA
+Why, there's more gold.
+But, sirrah, mark, we use
+To say the dead are well: bring it to that,
+The gold I give thee will I melt and pour
+Down thy ill-uttering throat.
+_R_Messenger
+Good madam, hear me.
+_R_CLEOPATRA
+Well, go to, I will;
+But there's no goodness in thy face: if Antony
+Be free and healthful,--so tart a favour
+To trumpet such good tidings! If not well,
+Thou shouldst come like a Fury crown'd with snakes,
+Not like a formal man.
+_R_Messenger
+Will't please you hear me?
+_R_CLEOPATRA
+I have a mind to strike thee ere thou speak'st:
+Yet if thou say Antony lives, is well,
+Or friends with Caesar, or not captive to him,
+I'll set thee in a shower of gold, and hail
+Rich pearls upon thee.
+_R_Messenger
+Madam, he's well.
+_R_CLEOPATRA
+Well said.
+_R_Messenger
+And friends with Caesar.
+_R_CLEOPATRA
+Thou'rt an honest man.
+_R_Messenger
+Caesar and he are greater friends than ever.
+_R_CLEOPATRA
+Make thee a fortune from me.
+_R_Messenger
+But yet, madam,--
+_R_CLEOPATRA
+I do not like 'But yet,' it does allay
+The good precedence; fie upon 'But yet'!
+'But yet' is as a gaoler to bring forth
+Some monstrous malefactor. Prithee, friend,
+Pour out the pack of matter to mine ear,
+The good and bad together: he's friends with Caesar:
+In state of health thou say'st; and thou say'st free.
+_R_Messenger
+Free, madam! no; I made no such report:
+He's bound unto Octavia.
+_R_CLEOPATRA
+For what good turn?
+_R_Messenger
+For the best turn i' the bed.
+_R_CLEOPATRA
+I am pale, Charmian.
+_R_Messenger
+Madam, he's married to Octavia.
+_R_CLEOPATRA
+The most infectious pestilence upon thee!
+_D_Strikes him down
+_R_Messenger
+Good madam, patience.
+_R_CLEOPATRA
+What say you? Hence,
+_D_Strikes him again
+Horrible villain! or I'll spurn thine eyes
+Like balls before me; I'll unhair thy head:
+_D_She hales him up and down
+Thou shalt be whipp'd with wire, and stew'd in brine,
+Smarting in lingering pickle.
+_R_Messenger
+Gracious madam,
+I that do bring the news made not the match.
+_R_CLEOPATRA
+Say 'tis not so, a province I will give thee,
+And make thy fortunes proud: the blow thou hadst
+Shall make thy peace for moving me to rage;
+And I will boot thee with what gift beside
+Thy modesty can beg.
+_R_Messenger
+He's married, madam.
+_R_CLEOPATRA
+Rogue, thou hast lived too long.
+_D_Draws a knife
+_R_Messenger
+Nay, then I'll run.
+What mean you, madam? I have made no fault.
+_D_Exit
+_R_CHARMIAN
+Good madam, keep yourself within yourself:
+The man is innocent.
+_R_CLEOPATRA
+Some innocents 'scape not the thunderbolt.
+Melt Egypt into Nile! and kindly creatures
+Turn all to serpents! Call the slave again:
+Though I am mad, I will not bite him: call.
+_R_CHARMIAN
+He is afeard to come.
+_R_CLEOPATRA
+I will not hurt him.
+_D_Exit CHARMIAN
+These hands do lack nobility, that they strike
+A meaner than myself; since I myself
+Have given myself the cause.
+_D_Re-enter CHARMIAN and Messenger
+Come hither, sir.
+Though it be honest, it is never good
+To bring bad news: give to a gracious message.
+An host of tongues; but let ill tidings tell
+Themselves when they be felt.
+_R_Messenger
+I have done my duty.
+_R_CLEOPATRA
+Is he married?
+I cannot hate thee worser than I do,
+If thou again say 'Yes.'
+_R_Messenger
+He's married, madam.
+_R_CLEOPATRA
+The gods confound thee! dost thou hold there still?
+_R_Messenger
+Should I lie, madam?
+_R_CLEOPATRA
+O, I would thou didst,
+So half my Egypt were submerged and made
+A cistern for scaled snakes! Go, get thee hence:
+Hadst thou Narcissus in thy face, to me
+Thou wouldst appear most ugly. He is married?
+_R_Messenger
+I crave your highness' pardon.
+_R_CLEOPATRA
+He is married?
+_R_Messenger
+Take no offence that I would not offend you:
+To punish me for what you make me do.
+Seems much unequal: he's married to Octavia.
+_R_CLEOPATRA
+O, that his fault should make a knave of thee,
+That art not what thou'rt sure of! Get thee hence:
+The merchandise which thou hast brought from Rome
+Are all too dear for me: lie they upon thy hand,
+And be undone by 'em!
+_D_Exit Messenger
+_R_CHARMIAN
+Good your highness, patience.
+_R_CLEOPATRA
+In praising Antony, I have dispraised Caesar.
+_R_CHARMIAN
+Many times, madam.
+_R_CLEOPATRA
+I am paid for't now.
+Lead me from hence:
+I faint: O Iras, Charmian! 'tis no matter.
+Go to the fellow, good Alexas; bid him
+Report the feature of Octavia, her years,
+Her inclination, let him not leave out
+The colour of her hair: bring me word quickly.
+_D_Exit ALEXAS
+Let him for ever go:--let him not--Charmian,
+Though he be painted one way like a Gorgon,
+The other way's a Mars. Bid you Alexas
+_D_To MARDIAN
+Bring me word how tall she is. Pity me, Charmian,
+But do not speak to me. Lead me to my chamber.
+_D_Exeunt

@@ -1,0 +1,560 @@
+{
+    "scene_id": "antony and cleopatra~~Act_3~~Scene_2",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "AGRIPPA",
+            "What, are the brothers parted?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "They have dispatch'd with Pompey, he is gone;"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "The other three are sealing. Octavia weeps"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "To part from Rome; Caesar is sad; and Lepidus,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Since Pompey's feast, as Menas says, is troubled"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "With the green sickness."
+        ],
+        [
+            "AGRIPPA",
+            "'Tis a noble Lepidus."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "A very fine one: O, how he loves Caesar!"
+        ],
+        [
+            "AGRIPPA",
+            "Nay, but how dearly he adores Mark Antony!"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Caesar? Why, he's the Jupiter of men."
+        ],
+        [
+            "AGRIPPA",
+            "What's Antony? The god of Jupiter."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Spake you of Caesar? How! the non-pareil!"
+        ],
+        [
+            "AGRIPPA",
+            "O Antony! O thou Arabian bird!"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Would you praise Caesar, say 'Caesar:' go no further."
+        ],
+        [
+            "AGRIPPA",
+            "Indeed, he plied them both with excellent praises."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "But he loves Caesar best; yet he loves Antony:"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Ho! hearts, tongues, figures, scribes, bards,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "poets, cannot"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Think, speak, cast, write, sing, number, ho!"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "His love to Antony. But as for Caesar,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Kneel down, kneel down, and wonder."
+        ],
+        [
+            "AGRIPPA",
+            "Both he loves."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "They are his shards, and he their beetle.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "So;",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "This is to horse. Adieu, noble Agrippa."
+        ],
+        [
+            "AGRIPPA",
+            "Good fortune, worthy soldier; and farewell.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "No further, sir.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "You take from me a great part of myself;"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Use me well in 't. Sister, prove such a wife"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "As my thoughts make thee, and as my farthest band"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Shall pass on thy approof. Most noble Antony,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Let not the piece of virtue, which is set"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Betwixt us as the cement of our love,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "To keep it builded, be the ram to batter"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "The fortress of it; for better might we"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Have loved without this mean, if on both parts"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "This be not cherish'd."
+        ],
+        [
+            "MARK ANTONY",
+            "Make me not offended"
+        ],
+        [
+            "MARK ANTONY",
+            "In your distrust."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "I have said."
+        ],
+        [
+            "MARK ANTONY",
+            "You shall not find,"
+        ],
+        [
+            "MARK ANTONY",
+            "Though you be therein curious, the least cause"
+        ],
+        [
+            "MARK ANTONY",
+            "For what you seem to fear: so, the gods keep you,"
+        ],
+        [
+            "MARK ANTONY",
+            "And make the hearts of Romans serve your ends!"
+        ],
+        [
+            "MARK ANTONY",
+            "We will here part."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Farewell, my dearest sister, fare thee well:"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "The elements be kind to thee, and make"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Thy spirits all of comfort! fare thee well."
+        ],
+        [
+            "OCTAVIA",
+            "My noble brother!"
+        ],
+        [
+            "MARK ANTONY",
+            "The April 's in her eyes: it is love's spring,"
+        ],
+        [
+            "MARK ANTONY",
+            "And these the showers to bring it on. Be cheerful."
+        ],
+        [
+            "OCTAVIA",
+            "Sir, look well to my husband's house; and--"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "What, Octavia?"
+        ],
+        [
+            "OCTAVIA",
+            "I'll tell you in your ear."
+        ],
+        [
+            "MARK ANTONY",
+            "Her tongue will not obey her heart, nor can"
+        ],
+        [
+            "MARK ANTONY",
+            "Her heart inform her tongue,--the swan's"
+        ],
+        [
+            "MARK ANTONY",
+            "down-feather,"
+        ],
+        [
+            "MARK ANTONY",
+            "That stands upon the swell at full of tide,"
+        ],
+        [
+            "MARK ANTONY",
+            "And neither way inclines."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "[Aside to AGRIPPA] Will Caesar weep?"
+        ],
+        [
+            "AGRIPPA",
+            "[Aside to DOMITIUS ENOBARBUS] He has a cloud in 's face."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "[Aside to AGRIPPA] He were the worse for that,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "were he a horse;"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "So is he, being a man."
+        ],
+        [
+            "AGRIPPA",
+            "[Aside to DOMITIUS ENOBARBUS] Why, Enobarbus,"
+        ],
+        [
+            "AGRIPPA",
+            "When Antony found Julius Caesar dead,"
+        ],
+        [
+            "AGRIPPA",
+            "He cried almost to roaring; and he wept"
+        ],
+        [
+            "AGRIPPA",
+            "When at Philippi he found Brutus slain."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "[Aside to AGRIPPA] That year, indeed, he was"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "troubled with a rheum;"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "What willingly he did confound he wail'd,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Believe't, till I wept too."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "No, sweet Octavia,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "You shall hear from me still; the time shall not"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Out-go my thinking on you."
+        ],
+        [
+            "MARK ANTONY",
+            "Come, sir, come;"
+        ],
+        [
+            "MARK ANTONY",
+            "I'll wrestle with you in my strength of love:"
+        ],
+        [
+            "MARK ANTONY",
+            "Look, here I have you; thus I let you go,"
+        ],
+        [
+            "MARK ANTONY",
+            "And give you to the gods."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Adieu; be happy!"
+        ],
+        [
+            "LEPIDUS",
+            "Let all the number of the stars give light"
+        ],
+        [
+            "LEPIDUS",
+            "To thy fair way!"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Farewell, fa rewell!",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Farewell!",
+            {
+                "preceding_direction_line": "4",
+                "following_direction_line": "5"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter AGRIPPA at one door, DOMITIUS ENOBARBUS at another"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Trumpets within"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter OCTAVIUS CAESAR, MARK ANTONY, LEPIDUS, and OCTAVIA"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Kisses OCTAVIA"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Trumpets sound. Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "AGRIPPA": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "7",
+                "7"
+            ],
+            [
+                "9",
+                "9"
+            ],
+            [
+                "11",
+                "11"
+            ],
+            [
+                "13",
+                "13"
+            ],
+            [
+                "15",
+                "15"
+            ],
+            [
+                "22",
+                "22"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "61",
+                "61"
+            ],
+            [
+                "65",
+                "68"
+            ]
+        ],
+        "DOMITIUS ENOBARBUS": [
+            [
+                "2",
+                "6"
+            ],
+            [
+                "8",
+                "8"
+            ],
+            [
+                "10",
+                "10"
+            ],
+            [
+                "12",
+                "12"
+            ],
+            [
+                "14",
+                "14"
+            ],
+            [
+                "16",
+                "21"
+            ],
+            [
+                "23",
+                "25"
+            ],
+            [
+                "60",
+                "60"
+            ],
+            [
+                "62",
+                "64"
+            ],
+            [
+                "69",
+                "72"
+            ]
+        ],
+        "MARK ANTONY": [
+            [
+                "27",
+                "27"
+            ],
+            [
+                "38",
+                "39"
+            ],
+            [
+                "41",
+                "45"
+            ],
+            [
+                "50",
+                "51"
+            ],
+            [
+                "55",
+                "59"
+            ],
+            [
+                "76",
+                "79"
+            ],
+            [
+                "84",
+                "84"
+            ]
+        ],
+        "OCTAVIUS CAESAR": [
+            [
+                "28",
+                "37"
+            ],
+            [
+                "40",
+                "40"
+            ],
+            [
+                "46",
+                "48"
+            ],
+            [
+                "53",
+                "53"
+            ],
+            [
+                "73",
+                "75"
+            ],
+            [
+                "80",
+                "80"
+            ],
+            [
+                "83",
+                "83"
+            ]
+        ],
+        "OCTAVIA": [
+            [
+                "49",
+                "49"
+            ],
+            [
+                "52",
+                "52"
+            ],
+            [
+                "54",
+                "54"
+            ]
+        ],
+        "LEPIDUS": [
+            [
+                "81",
+                "82"
+            ]
+        ]
+    },
+    "scene_name": "SCENE II",
+    "scene_description": "Rome. An ante-chamber in OCTAVIUS CAESAR's house."
+}

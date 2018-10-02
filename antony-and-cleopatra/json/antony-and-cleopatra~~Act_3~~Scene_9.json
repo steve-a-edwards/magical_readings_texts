@@ -1,0 +1,51 @@
+{
+    "scene_id": "antony and cleopatra~~Act_3~~Scene_9",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "MARK ANTONY",
+            "Set we our squadrons on yond side o' the hill,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "In eye of Caesar's battle; from which place"
+        ],
+        [
+            "MARK ANTONY",
+            "We may the number of the ships behold,"
+        ],
+        [
+            "MARK ANTONY",
+            "And so proceed accordingly.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter MARK ANTONY and DOMITIUS ENOBARBUS"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "MARK ANTONY": [
+            [
+                "1",
+                "4"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IX",
+    "scene_description": "Another part of the plain."
+}

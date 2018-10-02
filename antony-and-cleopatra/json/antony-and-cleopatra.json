@@ -1,0 +1,75 @@
+{
+  "main_author": "Shakespeare",
+  "plays_scenes": [
+    [
+      "Act_1",
+      [
+        "Scene_1",
+        "Scene_2",
+        "Scene_3",
+        "Scene_4",
+        "Scene_5"
+      ]
+    ],
+    [
+      "Act_2",
+      [
+        "Scene_1",
+        "Scene_2",
+        "Scene_3",
+        "Scene_4",
+        "Scene_5",
+        "Scene_6",
+        "Scene_7"
+      ]
+    ],
+    [
+      "Act_3",
+      [
+        "Scene_1",
+        "Scene_2",
+        "Scene_3",
+        "Scene_4",
+        "Scene_5",
+        "Scene_6",
+        "Scene_7",
+        "Scene_8",
+        "Scene_9",
+        "Scene_10",
+        "Scene_11",
+        "Scene_12",
+        "Scene_13"
+      ]
+    ],
+    [
+      "Act_4",
+      [
+        "Scene_1",
+        "Scene_2",
+        "Scene_3",
+        "Scene_4",
+        "Scene_5",
+        "Scene_6",
+        "Scene_7",
+        "Scene_8",
+        "Scene_9",
+        "Scene_10",
+        "Scene_11",
+        "Scene_12",
+        "Scene_13",
+        "Scene_14",
+        "Scene_15"
+      ]
+    ],
+    [
+      "Act_5",
+      [
+        "Scene_1",
+        "Scene_2"
+      ]
+    ]
+  ],
+  "work_name": "antony and cleopatra",
+  "work_number": "14",
+  "work_type": "Play"
+}

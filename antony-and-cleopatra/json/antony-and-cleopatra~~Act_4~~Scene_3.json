@@ -1,0 +1,319 @@
+{
+    "scene_id": "antony and cleopatra~~Act_4~~Scene_3",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "First Soldier",
+            "Brother, good night: to-morrow is the day.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "Second Soldier",
+            "It will determine one way: fare you well."
+        ],
+        [
+            "Second Soldier",
+            "Heard you of nothing strange about the streets?"
+        ],
+        [
+            "First Soldier",
+            "Nothing. What news?"
+        ],
+        [
+            "Second Soldier",
+            "Belike 'tis but a rumour. Good night to you."
+        ],
+        [
+            "First Soldier",
+            "Well, sir, good night.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "Second Soldier",
+            "Soldiers, have careful watch.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "Third Soldier",
+            "And you. Good night, good night.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "Fourth Soldier",
+            "Here we: and if to-morrow",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "Fourth Soldier",
+            "Our navy thrive, I have an absolute hope"
+        ],
+        [
+            "Fourth Soldier",
+            "Our landmen will stand up."
+        ],
+        [
+            "Third Soldier",
+            "'Tis a brave army,"
+        ],
+        [
+            "Third Soldier",
+            "And full of purpose.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "Fourth Soldier",
+            "Peace! what noise?",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "First Soldier",
+            "List, list!"
+        ],
+        [
+            "Second Soldier",
+            "Hark!"
+        ],
+        [
+            "First Soldier",
+            "Music i' the air."
+        ],
+        [
+            "Third Soldier",
+            "Under the earth."
+        ],
+        [
+            "Fourth Soldier",
+            "It signs well, does it not?"
+        ],
+        [
+            "Third Soldier",
+            "No."
+        ],
+        [
+            "First Soldier",
+            "Peace, I say!"
+        ],
+        [
+            "First Soldier",
+            "What should this mean?"
+        ],
+        [
+            "Second Soldier",
+            "'Tis the god Hercules, whom Antony loved,"
+        ],
+        [
+            "Second Soldier",
+            "Now leaves him."
+        ],
+        [
+            "First Soldier",
+            "Walk; let's see if other watchmen"
+        ],
+        [
+            "First Soldier",
+            "Do hear what we do?",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "Second Soldier",
+            "How now, masters!",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "All",
+            "[Speaking together] How now!"
+        ],
+        [
+            "All",
+            "How now! do you hear this?"
+        ],
+        [
+            "First Soldier",
+            "Ay; is't not strange?"
+        ],
+        [
+            "Third Soldier",
+            "Do you hear, masters? do you hear?"
+        ],
+        [
+            "First Soldier",
+            "Follow the noise so far as we have quarter;"
+        ],
+        [
+            "First Soldier",
+            "Let's see how it will give off."
+        ],
+        [
+            "All",
+            "Content. 'Tis strange.",
+            {
+                "following_direction_line": "6"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter two Soldiers to their guard"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter two other Soldiers"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "They place themselves in every corner of the stage"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Music of the hautboys as under the stage"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "They advance to another post"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "First Soldier": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "4",
+                "4"
+            ],
+            [
+                "6",
+                "6"
+            ],
+            [
+                "15",
+                "15"
+            ],
+            [
+                "17",
+                "17"
+            ],
+            [
+                "21",
+                "22"
+            ],
+            [
+                "25",
+                "26"
+            ],
+            [
+                "30",
+                "30"
+            ],
+            [
+                "32",
+                "33"
+            ]
+        ],
+        "Second Soldier": [
+            [
+                "2",
+                "3"
+            ],
+            [
+                "5",
+                "5"
+            ],
+            [
+                "7",
+                "7"
+            ],
+            [
+                "16",
+                "16"
+            ],
+            [
+                "23",
+                "24"
+            ],
+            [
+                "27",
+                "27"
+            ]
+        ],
+        "Third Soldier": [
+            [
+                "8",
+                "8"
+            ],
+            [
+                "12",
+                "13"
+            ],
+            [
+                "18",
+                "18"
+            ],
+            [
+                "20",
+                "20"
+            ],
+            [
+                "31",
+                "31"
+            ]
+        ],
+        "Fourth Soldier": [
+            [
+                "9",
+                "11"
+            ],
+            [
+                "14",
+                "14"
+            ],
+            [
+                "19",
+                "19"
+            ]
+        ],
+        "All": [
+            [
+                "28",
+                "29"
+            ],
+            [
+                "34",
+                "34"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "The same. Before the palace."
+}

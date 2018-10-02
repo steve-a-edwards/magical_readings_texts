@@ -1,0 +1,479 @@
+{
+    "scene_id": "antony and cleopatra~~Act_3~~Scene_3",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "CLEOPATRA",
+            "Where is the fellow?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "ALEXAS",
+            "Half afeard to come."
+        ],
+        [
+            "CLEOPATRA",
+            "Go to, go to.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "Come hither, sir.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "ALEXAS",
+            "Good majesty,"
+        ],
+        [
+            "ALEXAS",
+            "Herod of Jewry dare not look upon you"
+        ],
+        [
+            "ALEXAS",
+            "But when you are well pleased."
+        ],
+        [
+            "CLEOPATRA",
+            "That Herod's head"
+        ],
+        [
+            "CLEOPATRA",
+            "I'll have: but how, when Antony is gone"
+        ],
+        [
+            "CLEOPATRA",
+            "Through whom I might command it? Come thou near."
+        ],
+        [
+            "Messenger",
+            "Most gracious majesty,--"
+        ],
+        [
+            "CLEOPATRA",
+            "Didst thou behold Octavia?"
+        ],
+        [
+            "Messenger",
+            "Ay, dread queen."
+        ],
+        [
+            "CLEOPATRA",
+            "Where?"
+        ],
+        [
+            "Messenger",
+            "Madam, in Rome;"
+        ],
+        [
+            "Messenger",
+            "I look'd her in the face, and saw her led"
+        ],
+        [
+            "Messenger",
+            "Between her brother and Mark Antony."
+        ],
+        [
+            "CLEOPATRA",
+            "Is she as tall as me?"
+        ],
+        [
+            "Messenger",
+            "She is not, madam."
+        ],
+        [
+            "CLEOPATRA",
+            "Didst hear her speak? is she shrill-tongued or low?"
+        ],
+        [
+            "Messenger",
+            "Madam, I heard her speak; she is low-voiced."
+        ],
+        [
+            "CLEOPATRA",
+            "That's not so good: he cannot like her long."
+        ],
+        [
+            "CHARMIAN",
+            "Like her! O Isis! 'tis impossible."
+        ],
+        [
+            "CLEOPATRA",
+            "I think so, Charmian: dull of tongue, and dwarfish!"
+        ],
+        [
+            "CLEOPATRA",
+            "What majesty is in her gait? Remember,"
+        ],
+        [
+            "CLEOPATRA",
+            "If e'er thou look'dst on majesty."
+        ],
+        [
+            "Messenger",
+            "She creeps:"
+        ],
+        [
+            "Messenger",
+            "Her motion and her station are as one;"
+        ],
+        [
+            "Messenger",
+            "She shows a body rather than a life,"
+        ],
+        [
+            "Messenger",
+            "A statue than a breather."
+        ],
+        [
+            "CLEOPATRA",
+            "Is this certain?"
+        ],
+        [
+            "Messenger",
+            "Or I have no observance."
+        ],
+        [
+            "CHARMIAN",
+            "Three in Egypt"
+        ],
+        [
+            "CHARMIAN",
+            "Cannot make better note."
+        ],
+        [
+            "CLEOPATRA",
+            "He's very knowing;"
+        ],
+        [
+            "CLEOPATRA",
+            "I do perceive't: there's nothing in her yet:"
+        ],
+        [
+            "CLEOPATRA",
+            "The fellow has good judgment."
+        ],
+        [
+            "CHARMIAN",
+            "Excellent."
+        ],
+        [
+            "CLEOPATRA",
+            "Guess at her years, I prithee."
+        ],
+        [
+            "Messenger",
+            "Madam,"
+        ],
+        [
+            "Messenger",
+            "She was a widow,--"
+        ],
+        [
+            "CLEOPATRA",
+            "Widow! Charmian, hark."
+        ],
+        [
+            "Messenger",
+            "And I do think she's thirty."
+        ],
+        [
+            "CLEOPATRA",
+            "Bear'st thou her face in mind? is't long or round?"
+        ],
+        [
+            "Messenger",
+            "Round even to faultiness."
+        ],
+        [
+            "CLEOPATRA",
+            "For the most part, too, they are foolish that are so."
+        ],
+        [
+            "CLEOPATRA",
+            "Her hair, what colour?"
+        ],
+        [
+            "Messenger",
+            "Brown, madam: and her forehead"
+        ],
+        [
+            "Messenger",
+            "As low as she would wish it."
+        ],
+        [
+            "CLEOPATRA",
+            "There's gold for thee."
+        ],
+        [
+            "CLEOPATRA",
+            "Thou must not take my former sharpness ill:"
+        ],
+        [
+            "CLEOPATRA",
+            "I will employ thee back again; I find thee"
+        ],
+        [
+            "CLEOPATRA",
+            "Most fit for business: go make thee ready;"
+        ],
+        [
+            "CLEOPATRA",
+            "Our letters are prepared.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "CHARMIAN",
+            "A proper man.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "Indeed, he is so: I repent me much"
+        ],
+        [
+            "CLEOPATRA",
+            "That so I harried him. Why, methinks, by him,"
+        ],
+        [
+            "CLEOPATRA",
+            "This creature's no such thing."
+        ],
+        [
+            "CHARMIAN",
+            "Nothing, madam."
+        ],
+        [
+            "CLEOPATRA",
+            "The man hath seen some majesty, and should know."
+        ],
+        [
+            "CHARMIAN",
+            "Hath he seen majesty? Isis else defend,"
+        ],
+        [
+            "CHARMIAN",
+            "And serving you so long!"
+        ],
+        [
+            "CLEOPATRA",
+            "I have one thing more to ask him yet, good Charmian:"
+        ],
+        [
+            "CLEOPATRA",
+            "But 'tis no matter; thou shalt bring him to me"
+        ],
+        [
+            "CLEOPATRA",
+            "Where I will write. All may be well enough."
+        ],
+        [
+            "CHARMIAN",
+            "I warrant you, madam.",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter CLEOPATRA, CHARMIAN, IRAS, and ALEXAS"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter the Messenger as before"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit Messenger"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "CLEOPATRA": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "4"
+            ],
+            [
+                "8",
+                "10"
+            ],
+            [
+                "12",
+                "12"
+            ],
+            [
+                "14",
+                "14"
+            ],
+            [
+                "18",
+                "18"
+            ],
+            [
+                "20",
+                "20"
+            ],
+            [
+                "22",
+                "22"
+            ],
+            [
+                "24",
+                "26"
+            ],
+            [
+                "31",
+                "31"
+            ],
+            [
+                "35",
+                "37"
+            ],
+            [
+                "39",
+                "39"
+            ],
+            [
+                "42",
+                "42"
+            ],
+            [
+                "44",
+                "44"
+            ],
+            [
+                "46",
+                "47"
+            ],
+            [
+                "50",
+                "54"
+            ],
+            [
+                "56",
+                "58"
+            ],
+            [
+                "60",
+                "60"
+            ],
+            [
+                "63",
+                "65"
+            ]
+        ],
+        "ALEXAS": [
+            [
+                "2",
+                "2"
+            ],
+            [
+                "5",
+                "7"
+            ]
+        ],
+        "Messenger": [
+            [
+                "11",
+                "11"
+            ],
+            [
+                "13",
+                "13"
+            ],
+            [
+                "15",
+                "17"
+            ],
+            [
+                "19",
+                "19"
+            ],
+            [
+                "21",
+                "21"
+            ],
+            [
+                "27",
+                "30"
+            ],
+            [
+                "32",
+                "32"
+            ],
+            [
+                "40",
+                "41"
+            ],
+            [
+                "43",
+                "43"
+            ],
+            [
+                "45",
+                "45"
+            ],
+            [
+                "48",
+                "49"
+            ]
+        ],
+        "CHARMIAN": [
+            [
+                "23",
+                "23"
+            ],
+            [
+                "33",
+                "34"
+            ],
+            [
+                "38",
+                "38"
+            ],
+            [
+                "55",
+                "55"
+            ],
+            [
+                "59",
+                "59"
+            ],
+            [
+                "61",
+                "62"
+            ],
+            [
+                "66",
+                "66"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "Alexandria. CLEOPATRA's palace."
+}

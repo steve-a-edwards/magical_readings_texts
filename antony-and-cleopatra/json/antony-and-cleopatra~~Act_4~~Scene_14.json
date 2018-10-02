@@ -1,0 +1,1094 @@
+{
+    "scene_id": "antony and cleopatra~~Act_4~~Scene_14",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "MARK ANTONY",
+            "Eros, thou yet behold'st me?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "EROS",
+            "Ay, noble lord."
+        ],
+        [
+            "MARK ANTONY",
+            "Sometimes we see a cloud that's dragonish;"
+        ],
+        [
+            "MARK ANTONY",
+            "A vapour sometime like a bear or lion,"
+        ],
+        [
+            "MARK ANTONY",
+            "A tower'd citadel, a pendent rock,"
+        ],
+        [
+            "MARK ANTONY",
+            "A forked mountain, or blue promontory"
+        ],
+        [
+            "MARK ANTONY",
+            "With trees upon't, that nod unto the world,"
+        ],
+        [
+            "MARK ANTONY",
+            "And mock our eyes with air: thou hast seen"
+        ],
+        [
+            "MARK ANTONY",
+            "these signs;"
+        ],
+        [
+            "MARK ANTONY",
+            "They are black vesper's pageants."
+        ],
+        [
+            "EROS",
+            "Ay, my lord,"
+        ],
+        [
+            "MARK ANTONY",
+            "That which is now a horse, even with a thought"
+        ],
+        [
+            "MARK ANTONY",
+            "The rack dislimns, and makes it indistinct,"
+        ],
+        [
+            "MARK ANTONY",
+            "As water is in water."
+        ],
+        [
+            "EROS",
+            "It does, my lord."
+        ],
+        [
+            "MARK ANTONY",
+            "My good knave Eros, now thy captain is"
+        ],
+        [
+            "MARK ANTONY",
+            "Even such a body: here I am Antony:"
+        ],
+        [
+            "MARK ANTONY",
+            "Yet cannot hold this visible shape, my knave."
+        ],
+        [
+            "MARK ANTONY",
+            "I made these wars for Egypt: and the queen,--"
+        ],
+        [
+            "MARK ANTONY",
+            "Whose heart I thought I had, for she had mine;"
+        ],
+        [
+            "MARK ANTONY",
+            "Which whilst it was mine had annex'd unto't"
+        ],
+        [
+            "MARK ANTONY",
+            "A million more, now lost,--she, Eros, has"
+        ],
+        [
+            "MARK ANTONY",
+            "Pack'd cards with Caesar, and false-play'd my glory"
+        ],
+        [
+            "MARK ANTONY",
+            "Unto an enemy's triumph."
+        ],
+        [
+            "MARK ANTONY",
+            "Nay, weep not, gentle Eros; there is left us"
+        ],
+        [
+            "MARK ANTONY",
+            "Ourselves to end ourselves.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "O! thy vile lady!",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "She has robb'd me of my sword."
+        ],
+        [
+            "MARDIAN",
+            "No, Antony;"
+        ],
+        [
+            "MARDIAN",
+            "My mistress loved thee, and her fortunes mingled"
+        ],
+        [
+            "MARDIAN",
+            "With thine entirely."
+        ],
+        [
+            "MARK ANTONY",
+            "Hence, saucy eunuch; peace!"
+        ],
+        [
+            "MARK ANTONY",
+            "She hath betray'd me and shall die the death."
+        ],
+        [
+            "MARDIAN",
+            "Death of one person can be paid but once,"
+        ],
+        [
+            "MARDIAN",
+            "And that she has discharged: what thou wouldst do"
+        ],
+        [
+            "MARDIAN",
+            "Is done unto thy hand: the last she spake"
+        ],
+        [
+            "MARDIAN",
+            "Was 'Antony! most noble Antony!'"
+        ],
+        [
+            "MARDIAN",
+            "Then in the midst a tearing groan did break"
+        ],
+        [
+            "MARDIAN",
+            "The name of Antony; it was divided"
+        ],
+        [
+            "MARDIAN",
+            "Between her heart and lips: she render'd life,"
+        ],
+        [
+            "MARDIAN",
+            "Thy name so buried in her."
+        ],
+        [
+            "MARK ANTONY",
+            "Dead, then?"
+        ],
+        [
+            "MARDIAN",
+            "Dead."
+        ],
+        [
+            "MARK ANTONY",
+            "Unarm, Eros; the long day's task is done,"
+        ],
+        [
+            "MARK ANTONY",
+            "And we must sleep.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "That thou depart'st hence safe,",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Does pay thy labour richly; go.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Off, pluck off:",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "The seven-fold shield of Ajax cannot keep"
+        ],
+        [
+            "MARK ANTONY",
+            "The battery from my heart. O, cleave, my sides!"
+        ],
+        [
+            "MARK ANTONY",
+            "Heart, once be stronger than thy continent,"
+        ],
+        [
+            "MARK ANTONY",
+            "Crack thy frail case! Apace, Eros, apace."
+        ],
+        [
+            "MARK ANTONY",
+            "No more a soldier: bruised pieces, go;"
+        ],
+        [
+            "MARK ANTONY",
+            "You have been nobly borne. From me awhile.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "I will o'ertake thee, Cleopatra, and",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Weep for my pardon. So it must be, for now"
+        ],
+        [
+            "MARK ANTONY",
+            "All length is torture: since the torch is out,"
+        ],
+        [
+            "MARK ANTONY",
+            "Lie down, and stray no farther: now all labour"
+        ],
+        [
+            "MARK ANTONY",
+            "Mars what it does; yea, very force entangles"
+        ],
+        [
+            "MARK ANTONY",
+            "Itself with strength: seal then, and all is done."
+        ],
+        [
+            "MARK ANTONY",
+            "Eros!--I come, my queen:--Eros!--Stay for me:"
+        ],
+        [
+            "MARK ANTONY",
+            "Where souls do couch on flowers, we'll hand in hand,"
+        ],
+        [
+            "MARK ANTONY",
+            "And with our sprightly port make the ghosts gaze:"
+        ],
+        [
+            "MARK ANTONY",
+            "Dido and her AEneas shall want troops,"
+        ],
+        [
+            "MARK ANTONY",
+            "And all the haunt be ours. Come, Eros, Eros!",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "EROS",
+            "What would my lord?",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Since Cleopatra died,"
+        ],
+        [
+            "MARK ANTONY",
+            "I have lived in such dishonour, that the gods"
+        ],
+        [
+            "MARK ANTONY",
+            "Detest my baseness. I, that with my sword"
+        ],
+        [
+            "MARK ANTONY",
+            "Quarter'd the world, and o'er green Neptune's back"
+        ],
+        [
+            "MARK ANTONY",
+            "With ships made cities, condemn myself to lack"
+        ],
+        [
+            "MARK ANTONY",
+            "The courage of a woman; less noble mind"
+        ],
+        [
+            "MARK ANTONY",
+            "Than she which by her death our Caesar tells"
+        ],
+        [
+            "MARK ANTONY",
+            "'I am conqueror of myself.' Thou art sworn, Eros,"
+        ],
+        [
+            "MARK ANTONY",
+            "That, when the exigent should come, which now"
+        ],
+        [
+            "MARK ANTONY",
+            "Is come indeed, when I should see behind me"
+        ],
+        [
+            "MARK ANTONY",
+            "The inevitable prosecution of"
+        ],
+        [
+            "MARK ANTONY",
+            "Disgrace and horror, that, on my command,"
+        ],
+        [
+            "MARK ANTONY",
+            "Thou then wouldst kill me: do't; the time is come:"
+        ],
+        [
+            "MARK ANTONY",
+            "Thou strikest not me, 'tis Caesar thou defeat'st."
+        ],
+        [
+            "MARK ANTONY",
+            "Put colour in thy cheek."
+        ],
+        [
+            "EROS",
+            "The gods withhold me!"
+        ],
+        [
+            "EROS",
+            "Shall I do that which all the Parthian darts,"
+        ],
+        [
+            "EROS",
+            "Though enemy, lost aim, and could not?"
+        ],
+        [
+            "MARK ANTONY",
+            "Eros,"
+        ],
+        [
+            "MARK ANTONY",
+            "Wouldst thou be window'd in great Rome and see"
+        ],
+        [
+            "MARK ANTONY",
+            "Thy master thus with pleach'd arms, bending down"
+        ],
+        [
+            "MARK ANTONY",
+            "His corrigible neck, his face subdued"
+        ],
+        [
+            "MARK ANTONY",
+            "To penetrative shame, whilst the wheel'd seat"
+        ],
+        [
+            "MARK ANTONY",
+            "Of fortunate Caesar, drawn before him, branded"
+        ],
+        [
+            "MARK ANTONY",
+            "His baseness that ensued?"
+        ],
+        [
+            "EROS",
+            "I would not see't."
+        ],
+        [
+            "MARK ANTONY",
+            "Come, then; for with a wound I must be cured."
+        ],
+        [
+            "MARK ANTONY",
+            "Draw that thy honest sword, which thou hast worn"
+        ],
+        [
+            "MARK ANTONY",
+            "Most useful for thy country."
+        ],
+        [
+            "EROS",
+            "O, sir, pardon me!"
+        ],
+        [
+            "MARK ANTONY",
+            "When I did make thee free, sworest thou not then"
+        ],
+        [
+            "MARK ANTONY",
+            "To do this when I bade thee? Do it at once;"
+        ],
+        [
+            "MARK ANTONY",
+            "Or thy precedent services are all"
+        ],
+        [
+            "MARK ANTONY",
+            "But accidents unpurposed. Draw, and come."
+        ],
+        [
+            "EROS",
+            "Turn from me, then, that noble countenance,"
+        ],
+        [
+            "EROS",
+            "Wherein the worship of the whole world lies."
+        ],
+        [
+            "MARK ANTONY",
+            "Lo thee!",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "EROS",
+            "My sword is drawn.",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Then let it do at once"
+        ],
+        [
+            "MARK ANTONY",
+            "The thing why thou hast drawn it."
+        ],
+        [
+            "EROS",
+            "My dear master,"
+        ],
+        [
+            "EROS",
+            "My captain, and my emperor, let me say,"
+        ],
+        [
+            "EROS",
+            "Before I strike this bloody stroke, farewell."
+        ],
+        [
+            "MARK ANTONY",
+            "'Tis said, man; and farewell."
+        ],
+        [
+            "EROS",
+            "Farewell, great chief. Shall I strike now?"
+        ],
+        [
+            "MARK ANTONY",
+            "Now, Eros."
+        ],
+        [
+            "EROS",
+            "Why, there then: thus I do escape the sorrow"
+        ],
+        [
+            "EROS",
+            "Of Antony's death.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Thrice-nobler than myself!",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Thou teachest me, O valiant Eros, what"
+        ],
+        [
+            "MARK ANTONY",
+            "I should, and thou couldst not. My queen and Eros"
+        ],
+        [
+            "MARK ANTONY",
+            "Have by their brave instruction got upon me"
+        ],
+        [
+            "MARK ANTONY",
+            "A nobleness in record: but I will be"
+        ],
+        [
+            "MARK ANTONY",
+            "A bridegroom in my death, and run into't"
+        ],
+        [
+            "MARK ANTONY",
+            "As to a lover's bed. Come, then; and, Eros,"
+        ],
+        [
+            "MARK ANTONY",
+            "Thy master dies thy scholar: to do thus",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "I learn'd of thee. How! not dead? not dead?",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "The guard, ho! O, dispatch me!",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "First Guard",
+            "What's the noise?",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "I have done my work in, friends: O, make an end"
+        ],
+        [
+            "MARK ANTONY",
+            "Of what I have begun."
+        ],
+        [
+            "Second Guard",
+            "The star is fall'n."
+        ],
+        [
+            "First Guard",
+            "And time is at his period."
+        ],
+        [
+            "All",
+            "Alas, and woe!"
+        ],
+        [
+            "MARK ANTONY",
+            "Let him that loves me strike me dead."
+        ],
+        [
+            "First Guard",
+            "Not I."
+        ],
+        [
+            "Second Guard",
+            "Nor I."
+        ],
+        [
+            "Third Guard",
+            "Nor any one.",
+            {
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "DERCETAS",
+            "Thy death and fortunes bid thy followers fly.",
+            {
+                "preceding_direction_line": "11"
+            }
+        ],
+        [
+            "DERCETAS",
+            "This sword but shown to Caesar, with this tidings,"
+        ],
+        [
+            "DERCETAS",
+            "Shall enter me with him.",
+            {
+                "following_direction_line": "12"
+            }
+        ],
+        [
+            "DIOMEDES",
+            "Where's Antony?",
+            {
+                "preceding_direction_line": "12"
+            }
+        ],
+        [
+            "DERCETAS",
+            "There, Diomed there."
+        ],
+        [
+            "DIOMEDES",
+            "Lives he?"
+        ],
+        [
+            "DIOMEDES",
+            "Wilt thou not answer, man?",
+            {
+                "following_direction_line": "13"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Art thou there, Diomed? Draw thy sword, and give me",
+            {
+                "preceding_direction_line": "13"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Sufficing strokes for death."
+        ],
+        [
+            "DIOMEDES",
+            "Most absolute lord,"
+        ],
+        [
+            "DIOMEDES",
+            "My mistress Cleopatra sent me to thee."
+        ],
+        [
+            "MARK ANTONY",
+            "When did she send thee?"
+        ],
+        [
+            "DIOMEDES",
+            "Now, my lord."
+        ],
+        [
+            "MARK ANTONY",
+            "Where is she?"
+        ],
+        [
+            "DIOMEDES",
+            "Lock'd in her monument. She had a prophesying fear"
+        ],
+        [
+            "DIOMEDES",
+            "Of what hath come to pass: for when she saw--"
+        ],
+        [
+            "DIOMEDES",
+            "Which never shall be found--you did suspect"
+        ],
+        [
+            "DIOMEDES",
+            "She had disposed with Caesar, and that your rage"
+        ],
+        [
+            "DIOMEDES",
+            "Would not be purged, she sent you word she was dead;"
+        ],
+        [
+            "DIOMEDES",
+            "But, fearing since how it might work, hath sent"
+        ],
+        [
+            "DIOMEDES",
+            "Me to proclaim the truth; and I am come,"
+        ],
+        [
+            "DIOMEDES",
+            "I dread, too late."
+        ],
+        [
+            "MARK ANTONY",
+            "Too late, good Diomed: call my guard, I prithee."
+        ],
+        [
+            "DIOMEDES",
+            "What, ho, the emperor's guard! The guard, what, ho!"
+        ],
+        [
+            "DIOMEDES",
+            "Come, your lord calls!",
+            {
+                "following_direction_line": "14"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Bear me, good friends, where Cleopatra bides;",
+            {
+                "preceding_direction_line": "14"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "'Tis the last service that I shall command you."
+        ],
+        [
+            "First Guard",
+            "Woe, woe are we, sir, you may not live to wear"
+        ],
+        [
+            "First Guard",
+            "All your true followers out."
+        ],
+        [
+            "All",
+            "Most heavy day!"
+        ],
+        [
+            "MARK ANTONY",
+            "Nay, good my fellows, do not please sharp fate"
+        ],
+        [
+            "MARK ANTONY",
+            "To grace it with your sorrows: bid that welcome"
+        ],
+        [
+            "MARK ANTONY",
+            "Which comes to punish us, and we punish it"
+        ],
+        [
+            "MARK ANTONY",
+            "Seeming to bear it lightly. Take me up:"
+        ],
+        [
+            "MARK ANTONY",
+            "I have led you oft: carry me now, good friends,"
+        ],
+        [
+            "MARK ANTONY",
+            "And have my thanks for all.",
+            {
+                "following_direction_line": "15"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter MARK ANTONY and EROS"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter MARDIAN"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "To MARDIAN"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit MARDIAN"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exit EROS"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Re-enter EROS"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Turning from him"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Kills himself"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Falling on his sword"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Enter DERCETAS and Guard"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "Exeunt Guard"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Enter DIOMEDES"
+        ],
+        [
+            "_DIRECTION",
+            "D13",
+            "Exit DERCETAS"
+        ],
+        [
+            "_DIRECTION",
+            "D14",
+            "Enter four or five of the Guard of MARK ANTONY"
+        ],
+        [
+            "_DIRECTION",
+            "D15",
+            "Exeunt, bearing MARK ANTONY"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "MARK ANTONY": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "10"
+            ],
+            [
+                "12",
+                "14"
+            ],
+            [
+                "16",
+                "28"
+            ],
+            [
+                "32",
+                "33"
+            ],
+            [
+                "42",
+                "42"
+            ],
+            [
+                "44",
+                "65"
+            ],
+            [
+                "67",
+                "81"
+            ],
+            [
+                "85",
+                "91"
+            ],
+            [
+                "93",
+                "95"
+            ],
+            [
+                "97",
+                "100"
+            ],
+            [
+                "103",
+                "103"
+            ],
+            [
+                "105",
+                "106"
+            ],
+            [
+                "110",
+                "110"
+            ],
+            [
+                "112",
+                "112"
+            ],
+            [
+                "115",
+                "124"
+            ],
+            [
+                "126",
+                "127"
+            ],
+            [
+                "131",
+                "131"
+            ],
+            [
+                "142",
+                "143"
+            ],
+            [
+                "146",
+                "146"
+            ],
+            [
+                "148",
+                "148"
+            ],
+            [
+                "157",
+                "157"
+            ],
+            [
+                "160",
+                "161"
+            ],
+            [
+                "165",
+                "170"
+            ]
+        ],
+        "EROS": [
+            [
+                "2",
+                "2"
+            ],
+            [
+                "11",
+                "11"
+            ],
+            [
+                "15",
+                "15"
+            ],
+            [
+                "66",
+                "66"
+            ],
+            [
+                "82",
+                "84"
+            ],
+            [
+                "92",
+                "92"
+            ],
+            [
+                "96",
+                "96"
+            ],
+            [
+                "101",
+                "102"
+            ],
+            [
+                "104",
+                "104"
+            ],
+            [
+                "107",
+                "109"
+            ],
+            [
+                "111",
+                "111"
+            ],
+            [
+                "113",
+                "114"
+            ]
+        ],
+        "MARDIAN": [
+            [
+                "29",
+                "31"
+            ],
+            [
+                "34",
+                "41"
+            ],
+            [
+                "43",
+                "43"
+            ]
+        ],
+        "First Guard": [
+            [
+                "125",
+                "125"
+            ],
+            [
+                "129",
+                "129"
+            ],
+            [
+                "132",
+                "132"
+            ],
+            [
+                "162",
+                "163"
+            ]
+        ],
+        "Second Guard": [
+            [
+                "128",
+                "128"
+            ],
+            [
+                "133",
+                "133"
+            ]
+        ],
+        "All": [
+            [
+                "130",
+                "130"
+            ],
+            [
+                "164",
+                "164"
+            ]
+        ],
+        "Third Guard": [
+            [
+                "134",
+                "134"
+            ]
+        ],
+        "DERCETAS": [
+            [
+                "135",
+                "137"
+            ],
+            [
+                "139",
+                "139"
+            ]
+        ],
+        "DIOMEDES": [
+            [
+                "138",
+                "138"
+            ],
+            [
+                "140",
+                "141"
+            ],
+            [
+                "144",
+                "145"
+            ],
+            [
+                "147",
+                "147"
+            ],
+            [
+                "149",
+                "156"
+            ],
+            [
+                "158",
+                "159"
+            ]
+        ]
+    },
+    "scene_name": "SCENE XIV",
+    "scene_description": "The same. Another room."
+}

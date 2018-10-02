@@ -1,0 +1,550 @@
+{
+    "scene_id": "antony and cleopatra~~Act_5~~Scene_1",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "OCTAVIUS CAESAR",
+            "Go to him, Dolabella, bid him yield;",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Being so frustrate, tell him he mocks"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "The pauses that he makes."
+        ],
+        [
+            "DOLABELLA",
+            "Caesar, I shall.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Wherefore is that? and what art thou that darest",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Appear thus to us?"
+        ],
+        [
+            "DERCETAS",
+            "I am call'd Dercetas;"
+        ],
+        [
+            "DERCETAS",
+            "Mark Antony I served, who best was worthy"
+        ],
+        [
+            "DERCETAS",
+            "Best to be served: whilst he stood up and spoke,"
+        ],
+        [
+            "DERCETAS",
+            "He was my master; and I wore my life"
+        ],
+        [
+            "DERCETAS",
+            "To spend upon his haters. If thou please"
+        ],
+        [
+            "DERCETAS",
+            "To take me to thee, as I was to him"
+        ],
+        [
+            "DERCETAS",
+            "I'll be to Caesar; if thou pleasest not,"
+        ],
+        [
+            "DERCETAS",
+            "I yield thee up my life."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "What is't thou say'st?"
+        ],
+        [
+            "DERCETAS",
+            "I say, O Caesar, Antony is dead."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "The breaking of so great a thing should make"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "A greater crack: the round world"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Should have shook lions into civil streets,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "And citizens to their dens: the death of Antony"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Is not a single doom; in the name lay"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "A moiety of the world."
+        ],
+        [
+            "DERCETAS",
+            "He is dead, Caesar:"
+        ],
+        [
+            "DERCETAS",
+            "Not by a public minister of justice,"
+        ],
+        [
+            "DERCETAS",
+            "Nor by a hired knife; but that self hand,"
+        ],
+        [
+            "DERCETAS",
+            "Which writ his honour in the acts it did,"
+        ],
+        [
+            "DERCETAS",
+            "Hath, with the courage which the heart did lend it,"
+        ],
+        [
+            "DERCETAS",
+            "Splitted the heart. This is his sword;"
+        ],
+        [
+            "DERCETAS",
+            "I robb'd his wound of it; behold it stain'd"
+        ],
+        [
+            "DERCETAS",
+            "With his most noble blood."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Look you sad, friends?"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "The gods rebuke me, but it is tidings"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "To wash the eyes of kings."
+        ],
+        [
+            "AGRIPPA",
+            "And strange it is,"
+        ],
+        [
+            "AGRIPPA",
+            "That nature must compel us to lament"
+        ],
+        [
+            "AGRIPPA",
+            "Our most persisted deeds."
+        ],
+        [
+            "MECAENAS",
+            "His taints and honours"
+        ],
+        [
+            "MECAENAS",
+            "Waged equal with him."
+        ],
+        [
+            "AGRIPPA",
+            "A rarer spirit never"
+        ],
+        [
+            "AGRIPPA",
+            "Did steer humanity: but you, gods, will give us"
+        ],
+        [
+            "AGRIPPA",
+            "Some faults to make us men. Caesar is touch'd."
+        ],
+        [
+            "MECAENAS",
+            "When such a spacious mirror's set before him,"
+        ],
+        [
+            "MECAENAS",
+            "He needs must see himself."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "O Antony!"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "I have follow'd thee to this; but we do lance"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Diseases in our bodies: I must perforce"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Have shown to thee such a declining day,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Or look on thine; we could not stall together"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "In the whole world: but yet let me lament,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "With tears as sovereign as the blood of hearts,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "That thou, my brother, my competitor"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "In top of all design, my mate in empire,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Friend and companion in the front of war,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "The arm of mine own body, and the heart"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Where mine his thoughts did kindle,--that our stars,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Unreconciliable, should divide"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Our equalness to this. Hear me, good friends--"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "But I will tell you at some meeter season:",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "The business of this man looks out of him;",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "We'll hear him what he says. Whence are you?"
+        ],
+        [
+            "Egyptian",
+            "A poor Egyptian yet. The queen my mistress,"
+        ],
+        [
+            "Egyptian",
+            "Confined in all she has, her monument,"
+        ],
+        [
+            "Egyptian",
+            "Of thy intents desires instruction,"
+        ],
+        [
+            "Egyptian",
+            "That she preparedly may frame herself"
+        ],
+        [
+            "Egyptian",
+            "To the way she's forced to."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Bid her have good heart:"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "She soon shall know of us, by some of ours,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "How honourable and how kindly we"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Determine for her; for Caesar cannot live"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "To be ungentle."
+        ],
+        [
+            "Egyptian",
+            "So the gods preserve thee!",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Come hither, Proculeius. Go and say,",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "We purpose her no shame: give her what comforts"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "The quality of her passion shall require,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Lest, in her greatness, by some mortal stroke"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "She do defeat us; for her life in Rome"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Would be eternal in our triumph: go,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "And with your speediest bring us what she says,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "And how you find of her."
+        ],
+        [
+            "PROCULEIUS",
+            "Caesar, I shall.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Gallus, go you along.",
+            {
+                "preceding_direction_line": "5",
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Where's Dolabella,",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "To second Proculeius?"
+        ],
+        [
+            "All",
+            "Dolabella!"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Let him alone, for I remember now"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "How he's employ'd: he shall in time be ready."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Go with me to my tent; where you shall see"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "How hardly I was drawn into this war;"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "How calm and gentle I proceeded still"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "In all my writings: go with me, and see"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "What I can show in this.",
+            {
+                "following_direction_line": "7"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter OCTAVIUS CAESAR, AGRIPPA, DOLABELLA, MECAENAS, GALLUS, PROCULEIUS, and others, his council of war"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exit. Enter DERCETAS, with the sword of MARK ANTONY"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter an Egyptian"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exit GALLUS"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "OCTAVIUS CAESAR": [
+            [
+                "1",
+                "3"
+            ],
+            [
+                "5",
+                "6"
+            ],
+            [
+                "15",
+                "15"
+            ],
+            [
+                "17",
+                "22"
+            ],
+            [
+                "31",
+                "33"
+            ],
+            [
+                "44",
+                "60"
+            ],
+            [
+                "66",
+                "70"
+            ],
+            [
+                "72",
+                "79"
+            ],
+            [
+                "81",
+                "83"
+            ],
+            [
+                "85",
+                "91"
+            ]
+        ],
+        "DOLABELLA": [
+            [
+                "4",
+                "4"
+            ]
+        ],
+        "DERCETAS": [
+            [
+                "7",
+                "14"
+            ],
+            [
+                "16",
+                "16"
+            ],
+            [
+                "23",
+                "30"
+            ]
+        ],
+        "AGRIPPA": [
+            [
+                "34",
+                "36"
+            ],
+            [
+                "39",
+                "41"
+            ]
+        ],
+        "MECAENAS": [
+            [
+                "37",
+                "38"
+            ],
+            [
+                "42",
+                "43"
+            ]
+        ],
+        "Egyptian": [
+            [
+                "61",
+                "65"
+            ],
+            [
+                "71",
+                "71"
+            ]
+        ],
+        "PROCULEIUS": [
+            [
+                "80",
+                "80"
+            ]
+        ],
+        "All": [
+            [
+                "84",
+                "84"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "Alexandria. OCTAVIUS CAESAR's camp."
+}

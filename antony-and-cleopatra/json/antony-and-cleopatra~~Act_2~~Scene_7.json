@@ -1,0 +1,1058 @@
+{
+    "scene_id": "antony and cleopatra~~Act_2~~Scene_7",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "First Servant",
+            "Here they'll be, man. Some o' their plants are",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "First Servant",
+            "ill-rooted already: the least wind i' the world"
+        ],
+        [
+            "First Servant",
+            "will blow them down."
+        ],
+        [
+            "Second Servant",
+            "Lepidus is high-coloured."
+        ],
+        [
+            "First Servant",
+            "They have made him drink alms-drink."
+        ],
+        [
+            "Second Servant",
+            "As they pinch one another by the disposition, he"
+        ],
+        [
+            "Second Servant",
+            "cries out 'No more;' reconciles them to his"
+        ],
+        [
+            "Second Servant",
+            "entreaty, and himself to the drink."
+        ],
+        [
+            "First Servant",
+            "But it raises the greater war between him and"
+        ],
+        [
+            "First Servant",
+            "his discretion."
+        ],
+        [
+            "Second Servant",
+            "Why, this is to have a name in great men's"
+        ],
+        [
+            "Second Servant",
+            "fellowship: I had as lief have a reed that will do"
+        ],
+        [
+            "Second Servant",
+            "me no service as a partisan I could not heave."
+        ],
+        [
+            "First Servant",
+            "To be called into a huge sphere, and not to be seen"
+        ],
+        [
+            "First Servant",
+            "to move in't, are the holes where eyes should be,"
+        ],
+        [
+            "First Servant",
+            "which pitifully disaster the cheeks.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "[To OCTAVIUS CAESAR] Thus do they, sir: they take",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "the flow o' the Nile"
+        ],
+        [
+            "MARK ANTONY",
+            "By certain scales i' the pyramid; they know,"
+        ],
+        [
+            "MARK ANTONY",
+            "By the height, the lowness, or the mean, if dearth"
+        ],
+        [
+            "MARK ANTONY",
+            "Or foison follow: the higher Nilus swells,"
+        ],
+        [
+            "MARK ANTONY",
+            "The more it promises: as it ebbs, the seedsman"
+        ],
+        [
+            "MARK ANTONY",
+            "Upon the slime and ooze scatters his grain,"
+        ],
+        [
+            "MARK ANTONY",
+            "And shortly comes to harvest."
+        ],
+        [
+            "LEPIDUS",
+            "You've strange serpents there."
+        ],
+        [
+            "MARK ANTONY",
+            "Ay, Lepidus."
+        ],
+        [
+            "LEPIDUS",
+            "Your serpent of Egypt is bred now of your mud by the"
+        ],
+        [
+            "LEPIDUS",
+            "operation of your sun: so is your crocodile."
+        ],
+        [
+            "MARK ANTONY",
+            "They are so."
+        ],
+        [
+            "POMPEY",
+            "Sit,--and some wine! A health to Lepidus!"
+        ],
+        [
+            "LEPIDUS",
+            "I am not so well as I should be, but I'll ne'er out."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Not till you have slept; I fear me you'll be in till then."
+        ],
+        [
+            "LEPIDUS",
+            "Nay, certainly, I have heard the Ptolemies'"
+        ],
+        [
+            "LEPIDUS",
+            "pyramises are very goodly things; without"
+        ],
+        [
+            "LEPIDUS",
+            "contradiction, I have heard that."
+        ],
+        [
+            "MENAS",
+            "[Aside to POMPEY] Pompey, a word."
+        ],
+        [
+            "POMPEY",
+            "[Aside to MENAS] Say in mine ear:"
+        ],
+        [
+            "POMPEY",
+            "what is't?"
+        ],
+        [
+            "MENAS",
+            "[Aside to POMPEY] Forsake thy seat, I do beseech"
+        ],
+        [
+            "MENAS",
+            "thee, captain,"
+        ],
+        [
+            "MENAS",
+            "And hear me speak a word."
+        ],
+        [
+            "POMPEY",
+            "[Aside to MENAS] Forbear me till anon."
+        ],
+        [
+            "POMPEY",
+            "This wine for Lepidus!"
+        ],
+        [
+            "LEPIDUS",
+            "What manner o' thing is your crocodile?"
+        ],
+        [
+            "MARK ANTONY",
+            "It is shaped, sir, like itself; and it is as broad"
+        ],
+        [
+            "MARK ANTONY",
+            "as it hath breadth: it is just so high as it is,"
+        ],
+        [
+            "MARK ANTONY",
+            "and moves with its own organs: it lives by that"
+        ],
+        [
+            "MARK ANTONY",
+            "which nourisheth it; and the elements once out of"
+        ],
+        [
+            "MARK ANTONY",
+            "it, it transmigrates."
+        ],
+        [
+            "LEPIDUS",
+            "What colour is it of?"
+        ],
+        [
+            "MARK ANTONY",
+            "Of it own colour too."
+        ],
+        [
+            "LEPIDUS",
+            "'Tis a strange serpent."
+        ],
+        [
+            "MARK ANTONY",
+            "'Tis so. And the tears of it are wet."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Will this description satisfy him?"
+        ],
+        [
+            "MARK ANTONY",
+            "With the health that Pompey gives him, else he is a"
+        ],
+        [
+            "MARK ANTONY",
+            "very epicure."
+        ],
+        [
+            "POMPEY",
+            "[Aside to MENAS] Go hang, sir, hang! Tell me of"
+        ],
+        [
+            "POMPEY",
+            "that? away!"
+        ],
+        [
+            "POMPEY",
+            "Do as I bid you. Where's this cup I call'd for?"
+        ],
+        [
+            "MENAS",
+            "[Aside to POMPEY] If for the sake of merit thou"
+        ],
+        [
+            "MENAS",
+            "wilt hear me,"
+        ],
+        [
+            "MENAS",
+            "Rise from thy stool."
+        ],
+        [
+            "POMPEY",
+            "[Aside to MENAS] I think thou'rt mad."
+        ],
+        [
+            "POMPEY",
+            "The matter?",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "MENAS",
+            "I have ever held my cap off to thy fortunes.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "POMPEY",
+            "Thou hast served me with much faith. What's else to say?"
+        ],
+        [
+            "POMPEY",
+            "Be jolly, lords."
+        ],
+        [
+            "MARK ANTONY",
+            "These quick-sands, Lepidus,"
+        ],
+        [
+            "MARK ANTONY",
+            "Keep off them, for you sink."
+        ],
+        [
+            "MENAS",
+            "Wilt thou be lord of all the world?"
+        ],
+        [
+            "POMPEY",
+            "What say'st thou?"
+        ],
+        [
+            "MENAS",
+            "Wilt thou be lord of the whole world? That's twice."
+        ],
+        [
+            "POMPEY",
+            "How should that be?"
+        ],
+        [
+            "MENAS",
+            "But entertain it,"
+        ],
+        [
+            "MENAS",
+            "And, though thou think me poor, I am the man"
+        ],
+        [
+            "MENAS",
+            "Will give thee all the world."
+        ],
+        [
+            "POMPEY",
+            "Hast thou drunk well?"
+        ],
+        [
+            "MENAS",
+            "Now, Pompey, I have kept me from the cup."
+        ],
+        [
+            "MENAS",
+            "Thou art, if thou darest be, the earthly Jove:"
+        ],
+        [
+            "MENAS",
+            "Whate'er the ocean pales, or sky inclips,"
+        ],
+        [
+            "MENAS",
+            "Is thine, if thou wilt ha't."
+        ],
+        [
+            "POMPEY",
+            "Show me which way."
+        ],
+        [
+            "MENAS",
+            "These three world-sharers, these competitors,"
+        ],
+        [
+            "MENAS",
+            "Are in thy vessel: let me cut the cable;"
+        ],
+        [
+            "MENAS",
+            "And, when we are put off, fall to their throats:"
+        ],
+        [
+            "MENAS",
+            "All there is thine."
+        ],
+        [
+            "POMPEY",
+            "Ah, this thou shouldst have done,"
+        ],
+        [
+            "POMPEY",
+            "And not have spoke on't! In me 'tis villany;"
+        ],
+        [
+            "POMPEY",
+            "In thee't had been good service. Thou must know,"
+        ],
+        [
+            "POMPEY",
+            "'Tis not my profit that does lead mine honour;"
+        ],
+        [
+            "POMPEY",
+            "Mine honour, it. Repent that e'er thy tongue"
+        ],
+        [
+            "POMPEY",
+            "Hath so betray'd thine act: being done unknown,"
+        ],
+        [
+            "POMPEY",
+            "I should have found it afterwards well done;"
+        ],
+        [
+            "POMPEY",
+            "But must condemn it now. Desist, and drink."
+        ],
+        [
+            "MENAS",
+            "[Aside] For this,"
+        ],
+        [
+            "MENAS",
+            "I'll never follow thy pall'd fortunes more."
+        ],
+        [
+            "MENAS",
+            "Who seeks, and will not take when once 'tis offer'd,"
+        ],
+        [
+            "MENAS",
+            "Shall never find it more."
+        ],
+        [
+            "POMPEY",
+            "This health to Lepidus!"
+        ],
+        [
+            "MARK ANTONY",
+            "Bear him ashore. I'll pledge it for him, Pompey."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Here's to thee, Menas!"
+        ],
+        [
+            "MENAS",
+            "Enobarbus, welcome!"
+        ],
+        [
+            "POMPEY",
+            "Fill till the cup be hid."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "There's a strong fellow, Menas.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "MENAS",
+            "Why?",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "A' bears the third part of the world, man; see'st"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "not?"
+        ],
+        [
+            "MENAS",
+            "The third part, then, is drunk: would it were all,"
+        ],
+        [
+            "MENAS",
+            "That it might go on wheels!"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Drink thou; increase the reels."
+        ],
+        [
+            "MENAS",
+            "Come."
+        ],
+        [
+            "POMPEY",
+            "This is not yet an Alexandrian feast."
+        ],
+        [
+            "MARK ANTONY",
+            "It ripens towards it. Strike the vessels, ho?"
+        ],
+        [
+            "MARK ANTONY",
+            "Here is to Caesar!"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "I could well forbear't."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "It's monstrous labour, when I wash my brain,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "And it grows fouler."
+        ],
+        [
+            "MARK ANTONY",
+            "Be a child o' the time."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Possess it, I'll make answer:"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "But I had rather fast from all four days"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Than drink so much in one."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Ha, my brave emperor!",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Shall we dance now the Egyptian Bacchanals,",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "And celebrate our drink?"
+        ],
+        [
+            "POMPEY",
+            "Let's ha't, good soldier."
+        ],
+        [
+            "MARK ANTONY",
+            "Come, let's all take hands,"
+        ],
+        [
+            "MARK ANTONY",
+            "Till that the conquering wine hath steep'd our sense"
+        ],
+        [
+            "MARK ANTONY",
+            "In soft and delicate Lethe."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "All take hands."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Make battery to our ears with the loud music:"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "The while I'll place you: then the boy shall sing;"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "The holding every man shall bear as loud"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "As his strong sides can volley.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "THE SONG.",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Come, thou monarch of the vine,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Plumpy Bacchus with pink eyne!"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "In thy fats our cares be drown'd,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "With thy grapes our hairs be crown'd:"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Cup us, till the world go round,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Cup us, till the world go round!"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "What would you more? Pompey, good night. Good brother,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Let me request you off: our graver business"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Frowns at this levity. Gentle lords, let's part;"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "You see we have burnt our cheeks: strong Enobarb"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Is weaker than the wine; and mine own tongue"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Splits what it speaks: the wild disguise hath almost"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Antick'd us all. What needs more words? Good night."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Good Antony, your hand."
+        ],
+        [
+            "POMPEY",
+            "I'll try you on the shore."
+        ],
+        [
+            "MARK ANTONY",
+            "And shall, sir; give's your hand."
+        ],
+        [
+            "POMPEY",
+            "O Antony,"
+        ],
+        [
+            "POMPEY",
+            "You have my father's house,--But, what? we are friends."
+        ],
+        [
+            "POMPEY",
+            "Come, down into the boat."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Take heed you fall not.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Menas, I'll not on shore.",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "MENAS",
+            "No, to my cabin."
+        ],
+        [
+            "MENAS",
+            "These drums! these trumpets, flutes! what!"
+        ],
+        [
+            "MENAS",
+            "Let Neptune hear we bid a loud farewell"
+        ],
+        [
+            "MENAS",
+            "To these great fellows: sound and be hang'd, sound out!",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Ho! says a' There's my cap.",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "MENAS",
+            "Ho! Noble captain, come.",
+            {
+                "following_direction_line": "9"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Music plays. Enter two or three Servants with a banquet"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "A sennet sounded. Enter OCTAVIUS CAESAR, MARK ANTONY, LEPIDUS, POMPEY, AGRIPPA, MECAENAS, DOMITIUS ENOBARBUS, MENAS, with other captains"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Rises, and walks aside"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Pointing to the Attendant who carries off LEPIDUS"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "To MARK ANTONY"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Music plays. DOMITIUS ENOBARBUS places them hand in hand"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exeunt all but DOMITIUS ENOBARBUS and MENAS"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Sound a flourish, with drums"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "First Servant": [
+            [
+                "1",
+                "3"
+            ],
+            [
+                "5",
+                "5"
+            ],
+            [
+                "9",
+                "10"
+            ],
+            [
+                "14",
+                "16"
+            ]
+        ],
+        "Second Servant": [
+            [
+                "4",
+                "4"
+            ],
+            [
+                "6",
+                "8"
+            ],
+            [
+                "11",
+                "13"
+            ]
+        ],
+        "MARK ANTONY": [
+            [
+                "17",
+                "24"
+            ],
+            [
+                "26",
+                "26"
+            ],
+            [
+                "29",
+                "29"
+            ],
+            [
+                "45",
+                "49"
+            ],
+            [
+                "51",
+                "51"
+            ],
+            [
+                "53",
+                "53"
+            ],
+            [
+                "55",
+                "56"
+            ],
+            [
+                "68",
+                "69"
+            ],
+            [
+                "100",
+                "100"
+            ],
+            [
+                "113",
+                "114"
+            ],
+            [
+                "118",
+                "118"
+            ],
+            [
+                "126",
+                "128"
+            ],
+            [
+                "150",
+                "150"
+            ]
+        ],
+        "LEPIDUS": [
+            [
+                "25",
+                "25"
+            ],
+            [
+                "27",
+                "28"
+            ],
+            [
+                "31",
+                "31"
+            ],
+            [
+                "33",
+                "35"
+            ],
+            [
+                "44",
+                "44"
+            ],
+            [
+                "50",
+                "50"
+            ],
+            [
+                "52",
+                "52"
+            ]
+        ],
+        "POMPEY": [
+            [
+                "30",
+                "30"
+            ],
+            [
+                "37",
+                "38"
+            ],
+            [
+                "42",
+                "43"
+            ],
+            [
+                "57",
+                "59"
+            ],
+            [
+                "63",
+                "64"
+            ],
+            [
+                "66",
+                "67"
+            ],
+            [
+                "71",
+                "71"
+            ],
+            [
+                "73",
+                "73"
+            ],
+            [
+                "77",
+                "77"
+            ],
+            [
+                "82",
+                "82"
+            ],
+            [
+                "87",
+                "94"
+            ],
+            [
+                "99",
+                "99"
+            ],
+            [
+                "103",
+                "103"
+            ],
+            [
+                "112",
+                "112"
+            ],
+            [
+                "125",
+                "125"
+            ],
+            [
+                "149",
+                "149"
+            ],
+            [
+                "151",
+                "153"
+            ]
+        ],
+        "DOMITIUS ENOBARBUS": [
+            [
+                "32",
+                "32"
+            ],
+            [
+                "101",
+                "101"
+            ],
+            [
+                "104",
+                "104"
+            ],
+            [
+                "106",
+                "107"
+            ],
+            [
+                "110",
+                "110"
+            ],
+            [
+                "122",
+                "124"
+            ],
+            [
+                "129",
+                "140"
+            ],
+            [
+                "154",
+                "155"
+            ],
+            [
+                "160",
+                "160"
+            ]
+        ],
+        "MENAS": [
+            [
+                "36",
+                "36"
+            ],
+            [
+                "39",
+                "41"
+            ],
+            [
+                "60",
+                "62"
+            ],
+            [
+                "65",
+                "65"
+            ],
+            [
+                "70",
+                "70"
+            ],
+            [
+                "72",
+                "72"
+            ],
+            [
+                "74",
+                "76"
+            ],
+            [
+                "78",
+                "81"
+            ],
+            [
+                "83",
+                "86"
+            ],
+            [
+                "95",
+                "98"
+            ],
+            [
+                "102",
+                "102"
+            ],
+            [
+                "105",
+                "105"
+            ],
+            [
+                "108",
+                "109"
+            ],
+            [
+                "111",
+                "111"
+            ],
+            [
+                "156",
+                "159"
+            ],
+            [
+                "161",
+                "161"
+            ]
+        ],
+        "OCTAVIUS CAESAR": [
+            [
+                "54",
+                "54"
+            ],
+            [
+                "115",
+                "117"
+            ],
+            [
+                "119",
+                "121"
+            ],
+            [
+                "141",
+                "148"
+            ]
+        ]
+    },
+    "scene_name": "SCENE VII",
+    "scene_description": "On board POMPEY's galley, off Misenum."
+}

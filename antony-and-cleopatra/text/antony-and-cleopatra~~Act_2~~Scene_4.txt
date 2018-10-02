@@ -1,0 +1,24 @@
+_S_SCENE IV. The same. A street.
+_D_Enter LEPIDUS, MECAENAS, and AGRIPPA
+_R_LEPIDUS
+Trouble yourselves no further: pray you, hasten
+Your generals after.
+_R_AGRIPPA
+Sir, Mark Antony
+Will e'en but kiss Octavia, and we'll follow.
+_R_LEPIDUS
+Till I shall see you in your soldier's dress,
+Which will become you both, farewell.
+_R_MECAENAS
+We shall,
+As I conceive the journey, be at the Mount
+Before you, Lepidus.
+_R_LEPIDUS
+Your way is shorter;
+My purposes do draw me much about:
+You'll win two days upon me.
+_R_MECAENAS and AGRIPPA
+Sir, good success!
+_R_LEPIDUS
+Farewell.
+_D_Exeunt

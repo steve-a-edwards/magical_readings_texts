@@ -1,0 +1,314 @@
+{
+    "scene_id": "antony and cleopatra~~Act_2~~Scene_3",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "MARK ANTONY",
+            "The world and my great office will sometimes",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Divide me from your bosom."
+        ],
+        [
+            "OCTAVIA",
+            "All which time"
+        ],
+        [
+            "OCTAVIA",
+            "Before the gods my knee shall bow my prayers"
+        ],
+        [
+            "OCTAVIA",
+            "To them for you."
+        ],
+        [
+            "MARK ANTONY",
+            "Good night, sir. My Octavia,"
+        ],
+        [
+            "MARK ANTONY",
+            "Read not my blemishes in the world's report:"
+        ],
+        [
+            "MARK ANTONY",
+            "I have not kept my square; but that to come"
+        ],
+        [
+            "MARK ANTONY",
+            "Shall all be done by the rule. Good night, dear lady."
+        ],
+        [
+            "MARK ANTONY",
+            "Good night, sir."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Good night.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Now, sirrah; you do wish yourself in Egypt?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "Soothsayer",
+            "Would I had never come from thence, nor you Thither!"
+        ],
+        [
+            "MARK ANTONY",
+            "If you can, your reason?"
+        ],
+        [
+            "Soothsayer",
+            "I see it in"
+        ],
+        [
+            "Soothsayer",
+            "My motion, have it not in my tongue: but yet"
+        ],
+        [
+            "Soothsayer",
+            "Hie you to Egypt again."
+        ],
+        [
+            "MARK ANTONY",
+            "Say to me,"
+        ],
+        [
+            "MARK ANTONY",
+            "Whose fortunes shall rise higher, Caesar's or mine?"
+        ],
+        [
+            "Soothsayer",
+            "Caesar's."
+        ],
+        [
+            "Soothsayer",
+            "Therefore, O Antony, stay not by his side:"
+        ],
+        [
+            "Soothsayer",
+            "Thy demon, that's thy spirit which keeps thee, is"
+        ],
+        [
+            "Soothsayer",
+            "Noble, courageous high, unmatchable,"
+        ],
+        [
+            "Soothsayer",
+            "Where Caesar's is not; but, near him, thy angel"
+        ],
+        [
+            "Soothsayer",
+            "Becomes a fear, as being o'erpower'd: therefore"
+        ],
+        [
+            "Soothsayer",
+            "Make space enough between you."
+        ],
+        [
+            "MARK ANTONY",
+            "Speak this no more."
+        ],
+        [
+            "Soothsayer",
+            "To none but thee; no more, but when to thee."
+        ],
+        [
+            "Soothsayer",
+            "If thou dost play with him at any game,"
+        ],
+        [
+            "Soothsayer",
+            "Thou art sure to lose; and, of that natural luck,"
+        ],
+        [
+            "Soothsayer",
+            "He beats thee 'gainst the odds: thy lustre thickens,"
+        ],
+        [
+            "Soothsayer",
+            "When he shines by: I say again, thy spirit"
+        ],
+        [
+            "Soothsayer",
+            "Is all afraid to govern thee near him;"
+        ],
+        [
+            "Soothsayer",
+            "But, he away, 'tis noble."
+        ],
+        [
+            "MARK ANTONY",
+            "Get thee gone:"
+        ],
+        [
+            "MARK ANTONY",
+            "Say to Ventidius I would speak with him:",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "He shall to Parthia. Be it art or hap,",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "He hath spoken true: the very dice obey him;"
+        ],
+        [
+            "MARK ANTONY",
+            "And in our sports my better cunning faints"
+        ],
+        [
+            "MARK ANTONY",
+            "Under his chance: if we draw lots, he speeds;"
+        ],
+        [
+            "MARK ANTONY",
+            "His cocks do win the battle still of mine,"
+        ],
+        [
+            "MARK ANTONY",
+            "When it is all to nought; and his quails ever"
+        ],
+        [
+            "MARK ANTONY",
+            "Beat mine, inhoop'd, at odds. I will to Egypt:"
+        ],
+        [
+            "MARK ANTONY",
+            "And though I make this marriage for my peace,"
+        ],
+        [
+            "MARK ANTONY",
+            "I' the east my pleasure lies.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "O, come, Ventidius,",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "You must to Parthia: your commission's ready;"
+        ],
+        [
+            "MARK ANTONY",
+            "Follow me, and receive't.",
+            {
+                "following_direction_line": "5"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter MARK ANTONY, OCTAVIUS CAESAR, OCTAVIA between them, and Attendants"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt OCTAVIUS CAESAR and OCTAVIA. Enter Soothsayer"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit Soothsayer"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter VENTIDIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "MARK ANTONY": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "6",
+                "10"
+            ],
+            [
+                "12",
+                "12"
+            ],
+            [
+                "14",
+                "14"
+            ],
+            [
+                "18",
+                "19"
+            ],
+            [
+                "27",
+                "27"
+            ],
+            [
+                "35",
+                "48"
+            ]
+        ],
+        "OCTAVIA": [
+            [
+                "3",
+                "5"
+            ]
+        ],
+        "OCTAVIUS CAESAR": [
+            [
+                "11",
+                "11"
+            ]
+        ],
+        "Soothsayer": [
+            [
+                "13",
+                "13"
+            ],
+            [
+                "15",
+                "17"
+            ],
+            [
+                "20",
+                "26"
+            ],
+            [
+                "28",
+                "34"
+            ]
+        ]
+    },
+    "scene_name": "SCENE III",
+    "scene_description": "The same. OCTAVIUS CAESAR's house."
+}

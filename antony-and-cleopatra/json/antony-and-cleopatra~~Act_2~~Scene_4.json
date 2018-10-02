@@ -1,0 +1,121 @@
+{
+    "scene_id": "antony and cleopatra~~Act_2~~Scene_4",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "LEPIDUS",
+            "Trouble yourselves no further: pray you, hasten",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "LEPIDUS",
+            "Your generals after."
+        ],
+        [
+            "AGRIPPA",
+            "Sir, Mark Antony"
+        ],
+        [
+            "AGRIPPA",
+            "Will e'en but kiss Octavia, and we'll follow."
+        ],
+        [
+            "LEPIDUS",
+            "Till I shall see you in your soldier's dress,"
+        ],
+        [
+            "LEPIDUS",
+            "Which will become you both, farewell."
+        ],
+        [
+            "MECAENAS",
+            "We shall,"
+        ],
+        [
+            "MECAENAS",
+            "As I conceive the journey, be at the Mount"
+        ],
+        [
+            "MECAENAS",
+            "Before you, Lepidus."
+        ],
+        [
+            "LEPIDUS",
+            "Your way is shorter;"
+        ],
+        [
+            "LEPIDUS",
+            "My purposes do draw me much about:"
+        ],
+        [
+            "LEPIDUS",
+            "You'll win two days upon me."
+        ],
+        [
+            "MECAENAS and AGRIPPA",
+            "Sir, good success!"
+        ],
+        [
+            "LEPIDUS",
+            "Farewell.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter LEPIDUS, MECAENAS, and AGRIPPA"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "LEPIDUS": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "5",
+                "6"
+            ],
+            [
+                "10",
+                "12"
+            ],
+            [
+                "14",
+                "14"
+            ]
+        ],
+        "AGRIPPA": [
+            [
+                "3",
+                "4"
+            ]
+        ],
+        "MECAENAS": [
+            [
+                "7",
+                "9"
+            ]
+        ],
+        "MECAENAS and AGRIPPA": [
+            [
+                "13",
+                "13"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IV",
+    "scene_description": "The same. A street."
+}

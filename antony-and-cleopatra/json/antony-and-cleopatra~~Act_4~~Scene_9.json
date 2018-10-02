@@ -1,0 +1,318 @@
+{
+    "scene_id": "antony and cleopatra~~Act_4~~Scene_9",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "First Soldier",
+            "If we be not relieved within this hour,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "First Soldier",
+            "We must return to the court of guard: the night"
+        ],
+        [
+            "First Soldier",
+            "Is shiny; and they say we shall embattle"
+        ],
+        [
+            "First Soldier",
+            "By the second hour i' the morn."
+        ],
+        [
+            "Second Soldier",
+            "This last day was"
+        ],
+        [
+            "Second Soldier",
+            "A shrewd one to's.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "O, bear me witness, night,--",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "Third Soldier",
+            "What man is this?"
+        ],
+        [
+            "Second Soldier",
+            "Stand close, and list him."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Be witness to me, O thou blessed moon,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "When men revolted shall upon record"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Bear hateful memory, poor Enobarbus did"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Before thy face repent!"
+        ],
+        [
+            "First Soldier",
+            "Enobarbus!"
+        ],
+        [
+            "Third Soldier",
+            "Peace!"
+        ],
+        [
+            "Third Soldier",
+            "Hark further."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "O sovereign mistress of true melancholy,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "The poisonous damp of night disponge upon me,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "That life, a very rebel to my will,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "May hang no longer on me: throw my heart"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Against the flint and hardness of my fault:"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Which, being dried with grief, will break to powder,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "And finish all foul thoughts. O Antony,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Nobler than my revolt is infamous,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Forgive me in thine own particular;"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "But let the world rank me in register"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "A master-leaver and a fugitive:"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "O Antony! O Antony!",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "Second Soldier",
+            "Let's speak To him.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "First Soldier",
+            "Let's hear him, for the things he speaks"
+        ],
+        [
+            "First Soldier",
+            "May concern Caesar."
+        ],
+        [
+            "Third Soldier",
+            "Let's do so. But he sleeps."
+        ],
+        [
+            "First Soldier",
+            "Swoons rather; for so bad a prayer as his"
+        ],
+        [
+            "First Soldier",
+            "Was never yet for sleep."
+        ],
+        [
+            "Second Soldier",
+            "Go we to him."
+        ],
+        [
+            "Third Soldier",
+            "Awake, sir, awake; speak to us."
+        ],
+        [
+            "Second Soldier",
+            "Hear you, sir?"
+        ],
+        [
+            "First Soldier",
+            "The hand of death hath raught him.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "First Soldier",
+            "Hark! the drums",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "First Soldier",
+            "Demurely wake the sleepers. Let us bear him"
+        ],
+        [
+            "First Soldier",
+            "To the court of guard; he is of note: our hour"
+        ],
+        [
+            "First Soldier",
+            "Is fully out."
+        ],
+        [
+            "Third Soldier",
+            "Come on, then;"
+        ],
+        [
+            "Third Soldier",
+            "He may recover yet.",
+            {
+                "following_direction_line": "5"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Sentinels at their post"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter DOMITIUS ENOBARBUS"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Dies"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Drums afar off"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt with the body"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "First Soldier": [
+            [
+                "1",
+                "4"
+            ],
+            [
+                "14",
+                "14"
+            ],
+            [
+                "30",
+                "31"
+            ],
+            [
+                "33",
+                "34"
+            ],
+            [
+                "38",
+                "42"
+            ]
+        ],
+        "Second Soldier": [
+            [
+                "5",
+                "6"
+            ],
+            [
+                "9",
+                "9"
+            ],
+            [
+                "29",
+                "29"
+            ],
+            [
+                "35",
+                "35"
+            ],
+            [
+                "37",
+                "37"
+            ]
+        ],
+        "DOMITIUS ENOBARBUS": [
+            [
+                "7",
+                "7"
+            ],
+            [
+                "10",
+                "13"
+            ],
+            [
+                "17",
+                "28"
+            ]
+        ],
+        "Third Soldier": [
+            [
+                "8",
+                "8"
+            ],
+            [
+                "15",
+                "16"
+            ],
+            [
+                "32",
+                "32"
+            ],
+            [
+                "36",
+                "36"
+            ],
+            [
+                "43",
+                "44"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IX",
+    "scene_description": "OCTAVIUS CAESAR's camp."
+}

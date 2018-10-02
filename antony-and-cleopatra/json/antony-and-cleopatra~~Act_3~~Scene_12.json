@@ -1,0 +1,275 @@
+{
+    "scene_id": "antony and cleopatra~~Act_3~~Scene_12",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "OCTAVIUS CAESAR",
+            "Let him appear that's come from Antony.",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Know you him?"
+        ],
+        [
+            "DOLABELLA",
+            "Caesar, 'tis his schoolmaster:"
+        ],
+        [
+            "DOLABELLA",
+            "An argument that he is pluck'd, when hither"
+        ],
+        [
+            "DOLABELLA",
+            "He sends so poor a pinion off his wing,"
+        ],
+        [
+            "DOLABELLA",
+            "Which had superfluous kings for messengers"
+        ],
+        [
+            "DOLABELLA",
+            "Not many moons gone by.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Approach, and speak.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "EUPHRONIUS",
+            "Such as I am, I come from Antony:"
+        ],
+        [
+            "EUPHRONIUS",
+            "I was of late as petty to his ends"
+        ],
+        [
+            "EUPHRONIUS",
+            "As is the morn-dew on the myrtle-leaf"
+        ],
+        [
+            "EUPHRONIUS",
+            "To his grand sea."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Be't so: declare thine office."
+        ],
+        [
+            "EUPHRONIUS",
+            "Lord of his fortunes he salutes thee, and"
+        ],
+        [
+            "EUPHRONIUS",
+            "Requires to live in Egypt: which not granted,"
+        ],
+        [
+            "EUPHRONIUS",
+            "He lessens his requests; and to thee sues"
+        ],
+        [
+            "EUPHRONIUS",
+            "To let him breathe between the heavens and earth,"
+        ],
+        [
+            "EUPHRONIUS",
+            "A private man in Athens: this for him."
+        ],
+        [
+            "EUPHRONIUS",
+            "Next, Cleopatra does confess thy greatness;"
+        ],
+        [
+            "EUPHRONIUS",
+            "Submits her to thy might; and of thee craves"
+        ],
+        [
+            "EUPHRONIUS",
+            "The circle of the Ptolemies for her heirs,"
+        ],
+        [
+            "EUPHRONIUS",
+            "Now hazarded to thy grace."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "For Antony,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "I have no ears to his request. The queen"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Of audience nor desire shall fail, so she"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "From Egypt drive her all-disgraced friend,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Or take his life there: this if she perform,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "She shall not sue unheard. So to them both."
+        ],
+        [
+            "EUPHRONIUS",
+            "Fortune pursue thee!"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Bring him through the bands.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "From Antony win Cleopatra: promise,",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "And in our name, what she requires; add more,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "From thine invention, offers: women are not"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "In their best fortunes strong; but want will perjure"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "The ne'er touch'd vestal: try thy cunning, Thyreus;"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Make thine own edict for thy pains, which we"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Will answer as a law."
+        ],
+        [
+            "THYREUS",
+            "Caesar, I go."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Observe how Antony becomes his flaw,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "And what thou think'st his very action speaks"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "In every power that moves."
+        ],
+        [
+            "THYREUS",
+            "Caesar, I shall.",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter OCTAVIUS CAESAR, DOLABELLA, THYREUS, with others"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter EUPHRONIUS, ambassador from MARK ANTONY"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exit EUPHRONIUS. To THYREUS"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "OCTAVIUS CAESAR": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "8",
+                "8"
+            ],
+            [
+                "13",
+                "13"
+            ],
+            [
+                "23",
+                "28"
+            ],
+            [
+                "30",
+                "37"
+            ],
+            [
+                "39",
+                "41"
+            ]
+        ],
+        "DOLABELLA": [
+            [
+                "3",
+                "7"
+            ]
+        ],
+        "EUPHRONIUS": [
+            [
+                "9",
+                "12"
+            ],
+            [
+                "14",
+                "22"
+            ],
+            [
+                "29",
+                "29"
+            ]
+        ],
+        "THYREUS": [
+            [
+                "38",
+                "38"
+            ],
+            [
+                "42",
+                "42"
+            ]
+        ]
+    },
+    "scene_name": "SCENE XII",
+    "scene_description": "Egypt. OCTAVIUS CAESAR's camp."
+}

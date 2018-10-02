@@ -1,0 +1,69 @@
+{
+    "scene_id": "antony and cleopatra~~Act_3~~Scene_8",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "OCTAVIUS CAESAR",
+            "Taurus!",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "TAURUS",
+            "My lord?"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Strike not by land; keep whole: provoke not battle,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Till we have done at sea. Do not exceed"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "The prescript of this scroll: our fortune lies"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Upon this jump.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter OCTAVIUS CAESAR, and TAURUS, with his army, marching"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "OCTAVIUS CAESAR": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "6"
+            ]
+        ],
+        "TAURUS": [
+            [
+                "2",
+                "2"
+            ]
+        ]
+    },
+    "scene_name": "SCENE VIII",
+    "scene_description": "A plain near Actium."
+}

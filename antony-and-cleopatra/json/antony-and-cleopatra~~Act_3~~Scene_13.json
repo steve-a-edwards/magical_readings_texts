@@ -1,0 +1,1391 @@
+{
+    "scene_id": "antony and cleopatra~~Act_3~~Scene_13",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "CLEOPATRA",
+            "What shall we do, Enobarbus?",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Think, and die."
+        ],
+        [
+            "CLEOPATRA",
+            "Is Antony or we in fault for this?"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Antony only, that would make his will"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Lord of his reason. What though you fled"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "From that great face of war, whose several ranges"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Frighted each other? why should he follow?"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "The itch of his affection should not then"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Have nick'd his captainship; at such a point,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "When half to half the world opposed, he being"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "The meered question: 'twas a shame no less"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Than was his loss, to course your flying flags,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "And leave his navy gazing."
+        ],
+        [
+            "CLEOPATRA",
+            "Prithee, peace.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Is that his answer?",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "EUPHRONIUS",
+            "Ay, my lord."
+        ],
+        [
+            "MARK ANTONY",
+            "The queen shall then have courtesy, so she"
+        ],
+        [
+            "MARK ANTONY",
+            "Will yield us up."
+        ],
+        [
+            "EUPHRONIUS",
+            "He says so."
+        ],
+        [
+            "MARK ANTONY",
+            "Let her know't."
+        ],
+        [
+            "MARK ANTONY",
+            "To the boy Caesar send this grizzled head,"
+        ],
+        [
+            "MARK ANTONY",
+            "And he will fill thy wishes to the brim"
+        ],
+        [
+            "MARK ANTONY",
+            "With principalities."
+        ],
+        [
+            "CLEOPATRA",
+            "That head, my lord?"
+        ],
+        [
+            "MARK ANTONY",
+            "To him again: tell him he wears the rose"
+        ],
+        [
+            "MARK ANTONY",
+            "Of youth upon him; from which the world should note"
+        ],
+        [
+            "MARK ANTONY",
+            "Something particular: his coin, ships, legions,"
+        ],
+        [
+            "MARK ANTONY",
+            "May be a coward's; whose ministers would prevail"
+        ],
+        [
+            "MARK ANTONY",
+            "Under the service of a child as soon"
+        ],
+        [
+            "MARK ANTONY",
+            "As i' the command of Caesar: I dare him therefore"
+        ],
+        [
+            "MARK ANTONY",
+            "To lay his gay comparisons apart,"
+        ],
+        [
+            "MARK ANTONY",
+            "And answer me declined, sword against sword,"
+        ],
+        [
+            "MARK ANTONY",
+            "Ourselves alone. I'll write it: follow me.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "[Aside] Yes, like enough, high-battled Caesar will",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Unstate his happiness, and be staged to the show,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Against a sworder! I see men's judgments are"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "A parcel of their fortunes; and things outward"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Do draw the inward quality after them,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "To suffer all alike. That he should dream,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Knowing all measures, the full Caesar will"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Answer his emptiness! Caesar, thou hast subdued"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "His judgment too.",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "Attendant",
+            "A messenger from CAESAR.",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "What, no more ceremony? See, my women!"
+        ],
+        [
+            "CLEOPATRA",
+            "Against the blown rose may they stop their nose"
+        ],
+        [
+            "CLEOPATRA",
+            "That kneel'd unto the buds. Admit him, sir.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "[Aside] Mine honesty and I begin to square.",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "The loyalty well held to fools does make"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Our faith mere folly: yet he that can endure"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "To follow with allegiance a fall'n lord"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Does conquer him that did his master conquer"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "And earns a place i' the story.",
+            {
+                "following_direction_line": "6"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "Caesar's will?",
+            {
+                "preceding_direction_line": "6"
+            }
+        ],
+        [
+            "THYREUS",
+            "Hear it apart."
+        ],
+        [
+            "CLEOPATRA",
+            "None but friends: say boldly."
+        ],
+        [
+            "THYREUS",
+            "So, haply, are they friends to Antony."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "He needs as many, sir, as Caesar has;"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Or needs not us. If Caesar please, our master"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Will leap to be his friend: for us, you know,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Whose he is we are, and that is, Caesar's."
+        ],
+        [
+            "THYREUS",
+            "So."
+        ],
+        [
+            "THYREUS",
+            "Thus then, thou most renown'd: Caesar entreats,"
+        ],
+        [
+            "THYREUS",
+            "Not to consider in what case thou stand'st,"
+        ],
+        [
+            "THYREUS",
+            "Further than he is Caesar."
+        ],
+        [
+            "CLEOPATRA",
+            "Go on: right royal."
+        ],
+        [
+            "THYREUS",
+            "He knows that you embrace not Antony"
+        ],
+        [
+            "THYREUS",
+            "As you did love, but as you fear'd him."
+        ],
+        [
+            "CLEOPATRA",
+            "O!"
+        ],
+        [
+            "THYREUS",
+            "The scars upon your honour, therefore, he"
+        ],
+        [
+            "THYREUS",
+            "Does pity, as constrained blemishes,"
+        ],
+        [
+            "THYREUS",
+            "Not as deserved."
+        ],
+        [
+            "CLEOPATRA",
+            "He is a god, and knows"
+        ],
+        [
+            "CLEOPATRA",
+            "What is most right: mine honour was not yielded,"
+        ],
+        [
+            "CLEOPATRA",
+            "But conquer'd merely."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "[Aside] To be sure of that,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "I will ask Antony. Sir, sir, thou art so leaky,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "That we must leave thee to thy sinking, for"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Thy dearest quit thee.",
+            {
+                "following_direction_line": "7"
+            }
+        ],
+        [
+            "THYREUS",
+            "Shall I say to Caesar",
+            {
+                "preceding_direction_line": "7"
+            }
+        ],
+        [
+            "THYREUS",
+            "What you require of him? for he partly begs"
+        ],
+        [
+            "THYREUS",
+            "To be desired to give. It much would please him,"
+        ],
+        [
+            "THYREUS",
+            "That of his fortunes you should make a staff"
+        ],
+        [
+            "THYREUS",
+            "To lean upon: but it would warm his spirits,"
+        ],
+        [
+            "THYREUS",
+            "To hear from me you had left Antony,"
+        ],
+        [
+            "THYREUS",
+            "And put yourself under his shrowd,"
+        ],
+        [
+            "THYREUS",
+            "The universal landlord."
+        ],
+        [
+            "CLEOPATRA",
+            "What's your name?"
+        ],
+        [
+            "THYREUS",
+            "My name is Thyreus."
+        ],
+        [
+            "CLEOPATRA",
+            "Most kind messenger,"
+        ],
+        [
+            "CLEOPATRA",
+            "Say to great Caesar this: in deputation"
+        ],
+        [
+            "CLEOPATRA",
+            "I kiss his conquering hand: tell him, I am prompt"
+        ],
+        [
+            "CLEOPATRA",
+            "To lay my crown at 's feet, and there to kneel:"
+        ],
+        [
+            "CLEOPATRA",
+            "Tell him from his all-obeying breath I hear"
+        ],
+        [
+            "CLEOPATRA",
+            "The doom of Egypt."
+        ],
+        [
+            "THYREUS",
+            "'Tis your noblest course."
+        ],
+        [
+            "THYREUS",
+            "Wisdom and fortune combating together,"
+        ],
+        [
+            "THYREUS",
+            "If that the former dare but what it can,"
+        ],
+        [
+            "THYREUS",
+            "No chance may shake it. Give me grace to lay"
+        ],
+        [
+            "THYREUS",
+            "My duty on your hand."
+        ],
+        [
+            "CLEOPATRA",
+            "Your Caesar's father oft,"
+        ],
+        [
+            "CLEOPATRA",
+            "When he hath mused of taking kingdoms in,"
+        ],
+        [
+            "CLEOPATRA",
+            "Bestow'd his lips on that unworthy place,"
+        ],
+        [
+            "CLEOPATRA",
+            "As it rain'd kisses.",
+            {
+                "following_direction_line": "8"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Favours, by Jove that thunders!",
+            {
+                "preceding_direction_line": "8"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "What art thou, fellow?"
+        ],
+        [
+            "THYREUS",
+            "One that but performs"
+        ],
+        [
+            "THYREUS",
+            "The bidding of the fullest man, and worthiest"
+        ],
+        [
+            "THYREUS",
+            "To have command obey'd."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "[Aside] You will be whipp'd."
+        ],
+        [
+            "MARK ANTONY",
+            "Approach, there! Ah, you kite! Now, gods"
+        ],
+        [
+            "MARK ANTONY",
+            "and devils!"
+        ],
+        [
+            "MARK ANTONY",
+            "Authority melts from me: of late, when I cried 'Ho!'"
+        ],
+        [
+            "MARK ANTONY",
+            "Like boys unto a muss, kings would start forth,"
+        ],
+        [
+            "MARK ANTONY",
+            "And cry 'Your will?' Have you no ears? I am"
+        ],
+        [
+            "MARK ANTONY",
+            "Antony yet.",
+            {
+                "following_direction_line": "9"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Take hence this Jack, and whip him.",
+            {
+                "preceding_direction_line": "9"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "[Aside] 'Tis better playing with a lion's whelp"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Than with an old one dying."
+        ],
+        [
+            "MARK ANTONY",
+            "Moon and stars!"
+        ],
+        [
+            "MARK ANTONY",
+            "Whip him. Were't twenty of the greatest tributaries"
+        ],
+        [
+            "MARK ANTONY",
+            "That do acknowledge Caesar, should I find them"
+        ],
+        [
+            "MARK ANTONY",
+            "So saucy with the hand of she here,--what's her name,"
+        ],
+        [
+            "MARK ANTONY",
+            "Since she was Cleopatra? Whip him, fellows,"
+        ],
+        [
+            "MARK ANTONY",
+            "Till, like a boy, you see him cringe his face,"
+        ],
+        [
+            "MARK ANTONY",
+            "And whine aloud for mercy: take him hence."
+        ],
+        [
+            "THYREUS",
+            "Mark Antony!"
+        ],
+        [
+            "MARK ANTONY",
+            "Tug him away: being whipp'd,"
+        ],
+        [
+            "MARK ANTONY",
+            "Bring him again: this Jack of Caesar's shall"
+        ],
+        [
+            "MARK ANTONY",
+            "Bear us an errand to him.",
+            {
+                "following_direction_line": "10"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "You were half blasted ere I knew you: ha!",
+            {
+                "preceding_direction_line": "10"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Have I my pillow left unpress'd in Rome,"
+        ],
+        [
+            "MARK ANTONY",
+            "Forborne the getting of a lawful race,"
+        ],
+        [
+            "MARK ANTONY",
+            "And by a gem of women, to be abused"
+        ],
+        [
+            "MARK ANTONY",
+            "By one that looks on feeders?"
+        ],
+        [
+            "CLEOPATRA",
+            "Good my lord,--"
+        ],
+        [
+            "MARK ANTONY",
+            "You have been a boggler ever:"
+        ],
+        [
+            "MARK ANTONY",
+            "But when we in our viciousness grow hard--"
+        ],
+        [
+            "MARK ANTONY",
+            "O misery on't!--the wise gods seel our eyes;"
+        ],
+        [
+            "MARK ANTONY",
+            "In our own filth drop our clear judgments; make us"
+        ],
+        [
+            "MARK ANTONY",
+            "Adore our errors; laugh at's, while we strut"
+        ],
+        [
+            "MARK ANTONY",
+            "To our confusion."
+        ],
+        [
+            "CLEOPATRA",
+            "O, is't come to this?"
+        ],
+        [
+            "MARK ANTONY",
+            "I found you as a morsel cold upon"
+        ],
+        [
+            "MARK ANTONY",
+            "Dead Caesar's trencher; nay, you were a fragment"
+        ],
+        [
+            "MARK ANTONY",
+            "Of Cneius Pompey's; besides what hotter hours,"
+        ],
+        [
+            "MARK ANTONY",
+            "Unregister'd in vulgar fame, you have"
+        ],
+        [
+            "MARK ANTONY",
+            "Luxuriously pick'd out: for, I am sure,"
+        ],
+        [
+            "MARK ANTONY",
+            "Though you can guess what temperance should be,"
+        ],
+        [
+            "MARK ANTONY",
+            "You know not what it is."
+        ],
+        [
+            "CLEOPATRA",
+            "Wherefore is this?"
+        ],
+        [
+            "MARK ANTONY",
+            "To let a fellow that will take rewards"
+        ],
+        [
+            "MARK ANTONY",
+            "And say 'God quit you!' be familiar with"
+        ],
+        [
+            "MARK ANTONY",
+            "My playfellow, your hand; this kingly seal"
+        ],
+        [
+            "MARK ANTONY",
+            "And plighter of high hearts! O, that I were"
+        ],
+        [
+            "MARK ANTONY",
+            "Upon the hill of Basan, to outroar"
+        ],
+        [
+            "MARK ANTONY",
+            "The horned herd! for I have savage cause;"
+        ],
+        [
+            "MARK ANTONY",
+            "And to proclaim it civilly, were like"
+        ],
+        [
+            "MARK ANTONY",
+            "A halter'd neck which does the hangman thank"
+        ],
+        [
+            "MARK ANTONY",
+            "For being yare about him.",
+            {
+                "following_direction_line": "11"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Is he whipp'd?",
+            {
+                "preceding_direction_line": "11"
+            }
+        ],
+        [
+            "First Attendant",
+            "Soundly, my lord."
+        ],
+        [
+            "MARK ANTONY",
+            "Cried he? and begg'd a' pardon?"
+        ],
+        [
+            "First Attendant",
+            "He did ask favour."
+        ],
+        [
+            "MARK ANTONY",
+            "If that thy father live, let him repent"
+        ],
+        [
+            "MARK ANTONY",
+            "Thou wast not made his daughter; and be thou sorry"
+        ],
+        [
+            "MARK ANTONY",
+            "To follow Caesar in his triumph, since"
+        ],
+        [
+            "MARK ANTONY",
+            "Thou hast been whipp'd for following him: henceforth"
+        ],
+        [
+            "MARK ANTONY",
+            "The white hand of a lady fever thee,"
+        ],
+        [
+            "MARK ANTONY",
+            "Shake thou to look on 't. Get thee back to Caesar,"
+        ],
+        [
+            "MARK ANTONY",
+            "Tell him thy entertainment: look, thou say"
+        ],
+        [
+            "MARK ANTONY",
+            "He makes me angry with him; for he seems"
+        ],
+        [
+            "MARK ANTONY",
+            "Proud and disdainful, harping on what I am,"
+        ],
+        [
+            "MARK ANTONY",
+            "Not what he knew I was: he makes me angry;"
+        ],
+        [
+            "MARK ANTONY",
+            "And at this time most easy 'tis to do't,"
+        ],
+        [
+            "MARK ANTONY",
+            "When my good stars, that were my former guides,"
+        ],
+        [
+            "MARK ANTONY",
+            "Have empty left their orbs, and shot their fires"
+        ],
+        [
+            "MARK ANTONY",
+            "Into the abysm of hell. If he mislike"
+        ],
+        [
+            "MARK ANTONY",
+            "My speech and what is done, tell him he has"
+        ],
+        [
+            "MARK ANTONY",
+            "Hipparchus, my enfranched bondman, whom"
+        ],
+        [
+            "MARK ANTONY",
+            "He may at pleasure whip, or hang, or torture,"
+        ],
+        [
+            "MARK ANTONY",
+            "As he shall like, to quit me: urge it thou:"
+        ],
+        [
+            "MARK ANTONY",
+            "Hence with thy stripes, begone!",
+            {
+                "following_direction_line": "12"
+            }
+        ],
+        [
+            "CLEOPATRA",
+            "Have you done yet?",
+            {
+                "preceding_direction_line": "12"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Alack, our terrene moon"
+        ],
+        [
+            "MARK ANTONY",
+            "Is now eclipsed; and it portends alone"
+        ],
+        [
+            "MARK ANTONY",
+            "The fall of Antony!"
+        ],
+        [
+            "CLEOPATRA",
+            "I must stay his time."
+        ],
+        [
+            "MARK ANTONY",
+            "To flatter Caesar, would you mingle eyes"
+        ],
+        [
+            "MARK ANTONY",
+            "With one that ties his points?"
+        ],
+        [
+            "CLEOPATRA",
+            "Not know me yet?"
+        ],
+        [
+            "MARK ANTONY",
+            "Cold-hearted toward me?"
+        ],
+        [
+            "CLEOPATRA",
+            "Ah, dear, if I be so,"
+        ],
+        [
+            "CLEOPATRA",
+            "From my cold heart let heaven engender hail,"
+        ],
+        [
+            "CLEOPATRA",
+            "And poison it in the source; and the first stone"
+        ],
+        [
+            "CLEOPATRA",
+            "Drop in my neck: as it determines, so"
+        ],
+        [
+            "CLEOPATRA",
+            "Dissolve my life! The next Caesarion smite!"
+        ],
+        [
+            "CLEOPATRA",
+            "Till by degrees the memory of my womb,"
+        ],
+        [
+            "CLEOPATRA",
+            "Together with my brave Egyptians all,"
+        ],
+        [
+            "CLEOPATRA",
+            "By the discandying of this pelleted storm,"
+        ],
+        [
+            "CLEOPATRA",
+            "Lie graveless, till the flies and gnats of Nile"
+        ],
+        [
+            "CLEOPATRA",
+            "Have buried them for prey!"
+        ],
+        [
+            "MARK ANTONY",
+            "I am satisfied."
+        ],
+        [
+            "MARK ANTONY",
+            "Caesar sits down in Alexandria; where"
+        ],
+        [
+            "MARK ANTONY",
+            "I will oppose his fate. Our force by land"
+        ],
+        [
+            "MARK ANTONY",
+            "Hath nobly held; our sever'd navy too"
+        ],
+        [
+            "MARK ANTONY",
+            "Have knit again, and fleet, threatening most sea-like."
+        ],
+        [
+            "MARK ANTONY",
+            "Where hast thou been, my heart? Dost thou hear, lady?"
+        ],
+        [
+            "MARK ANTONY",
+            "If from the field I shall return once more"
+        ],
+        [
+            "MARK ANTONY",
+            "To kiss these lips, I will appear in blood;"
+        ],
+        [
+            "MARK ANTONY",
+            "I and my sword will earn our chronicle:"
+        ],
+        [
+            "MARK ANTONY",
+            "There's hope in't yet."
+        ],
+        [
+            "CLEOPATRA",
+            "That's my brave lord!"
+        ],
+        [
+            "MARK ANTONY",
+            "I will be treble-sinew'd, hearted, breathed,"
+        ],
+        [
+            "MARK ANTONY",
+            "And fight maliciously: for when mine hours"
+        ],
+        [
+            "MARK ANTONY",
+            "Were nice and lucky, men did ransom lives"
+        ],
+        [
+            "MARK ANTONY",
+            "Of me for jests; but now I'll set my teeth,"
+        ],
+        [
+            "MARK ANTONY",
+            "And send to darkness all that stop me. Come,"
+        ],
+        [
+            "MARK ANTONY",
+            "Let's have one other gaudy night: call to me"
+        ],
+        [
+            "MARK ANTONY",
+            "All my sad captains; fill our bowls once more;"
+        ],
+        [
+            "MARK ANTONY",
+            "Let's mock the midnight bell."
+        ],
+        [
+            "CLEOPATRA",
+            "It is my birth-day:"
+        ],
+        [
+            "CLEOPATRA",
+            "I had thought to have held it poor: but, since my lord"
+        ],
+        [
+            "CLEOPATRA",
+            "Is Antony again, I will be Cleopatra."
+        ],
+        [
+            "MARK ANTONY",
+            "We will yet do well."
+        ],
+        [
+            "CLEOPATRA",
+            "Call all his noble captains to my lord."
+        ],
+        [
+            "MARK ANTONY",
+            "Do so, we'll speak to them; and to-night I'll force"
+        ],
+        [
+            "MARK ANTONY",
+            "The wine peep through their scars. Come on, my queen;"
+        ],
+        [
+            "MARK ANTONY",
+            "There's sap in't yet. The next time I do fight,"
+        ],
+        [
+            "MARK ANTONY",
+            "I'll make death love me; for I will contend"
+        ],
+        [
+            "MARK ANTONY",
+            "Even with his pestilent scythe.",
+            {
+                "following_direction_line": "13"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Now he'll outstare the lightning. To be furious,",
+            {
+                "preceding_direction_line": "13"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Is to be frighted out of fear; and in that mood"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "The dove will peck the estridge; and I see still,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "A diminution in our captain's brain"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Restores his heart: when valour preys on reason,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "It eats the sword it fights with. I will seek"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Some way to leave him.",
+            {
+                "following_direction_line": "14"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter CLEOPATRA, DOMITIUS ENOBARBUS, CHARMIAN, and IRAS"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter MARK ANTONY with EUPHRONIUS, the Ambassador"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt MARK ANTONY and EUPHRONIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Enter an Attendant"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exit Attendant"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Enter THYREUS"
+        ],
+        [
+            "_DIRECTION",
+            "D7",
+            "Exit"
+        ],
+        [
+            "_DIRECTION",
+            "D8",
+            "Re-enter MARK ANTONY and DOMITIUS ENOBARBUS"
+        ],
+        [
+            "_DIRECTION",
+            "D9",
+            "Enter Attendants"
+        ],
+        [
+            "_DIRECTION",
+            "D10",
+            "Exeunt Attendants with THYREUS"
+        ],
+        [
+            "_DIRECTION",
+            "D11",
+            "Re-enter Attendants with THYREUS"
+        ],
+        [
+            "_DIRECTION",
+            "D12",
+            "Exit THYREUS"
+        ],
+        [
+            "_DIRECTION",
+            "D13",
+            "Exeunt all but DOMITIUS ENOBARBUS"
+        ],
+        [
+            "_DIRECTION",
+            "D14",
+            "Exit"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "CLEOPATRA": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "3",
+                "3"
+            ],
+            [
+                "14",
+                "14"
+            ],
+            [
+                "24",
+                "24"
+            ],
+            [
+                "44",
+                "46"
+            ],
+            [
+                "53",
+                "53"
+            ],
+            [
+                "55",
+                "55"
+            ],
+            [
+                "65",
+                "65"
+            ],
+            [
+                "68",
+                "68"
+            ],
+            [
+                "72",
+                "74"
+            ],
+            [
+                "87",
+                "87"
+            ],
+            [
+                "89",
+                "94"
+            ],
+            [
+                "100",
+                "103"
+            ],
+            [
+                "135",
+                "135"
+            ],
+            [
+                "142",
+                "142"
+            ],
+            [
+                "150",
+                "150"
+            ],
+            [
+                "183",
+                "183"
+            ],
+            [
+                "187",
+                "187"
+            ],
+            [
+                "190",
+                "190"
+            ],
+            [
+                "192",
+                "201"
+            ],
+            [
+                "212",
+                "212"
+            ],
+            [
+                "221",
+                "223"
+            ],
+            [
+                "225",
+                "225"
+            ]
+        ],
+        "DOMITIUS ENOBARBUS": [
+            [
+                "2",
+                "2"
+            ],
+            [
+                "4",
+                "13"
+            ],
+            [
+                "34",
+                "42"
+            ],
+            [
+                "47",
+                "52"
+            ],
+            [
+                "57",
+                "60"
+            ],
+            [
+                "75",
+                "78"
+            ],
+            [
+                "109",
+                "109"
+            ],
+            [
+                "117",
+                "118"
+            ],
+            [
+                "231",
+                "237"
+            ]
+        ],
+        "MARK ANTONY": [
+            [
+                "15",
+                "15"
+            ],
+            [
+                "17",
+                "18"
+            ],
+            [
+                "20",
+                "23"
+            ],
+            [
+                "25",
+                "33"
+            ],
+            [
+                "104",
+                "105"
+            ],
+            [
+                "110",
+                "116"
+            ],
+            [
+                "119",
+                "125"
+            ],
+            [
+                "127",
+                "134"
+            ],
+            [
+                "136",
+                "141"
+            ],
+            [
+                "143",
+                "149"
+            ],
+            [
+                "151",
+                "160"
+            ],
+            [
+                "162",
+                "162"
+            ],
+            [
+                "164",
+                "182"
+            ],
+            [
+                "184",
+                "186"
+            ],
+            [
+                "188",
+                "189"
+            ],
+            [
+                "191",
+                "191"
+            ],
+            [
+                "202",
+                "211"
+            ],
+            [
+                "213",
+                "220"
+            ],
+            [
+                "224",
+                "224"
+            ],
+            [
+                "226",
+                "230"
+            ]
+        ],
+        "EUPHRONIUS": [
+            [
+                "16",
+                "16"
+            ],
+            [
+                "19",
+                "19"
+            ]
+        ],
+        "Attendant": [
+            [
+                "43",
+                "43"
+            ]
+        ],
+        "THYREUS": [
+            [
+                "54",
+                "54"
+            ],
+            [
+                "56",
+                "56"
+            ],
+            [
+                "61",
+                "64"
+            ],
+            [
+                "66",
+                "67"
+            ],
+            [
+                "69",
+                "71"
+            ],
+            [
+                "79",
+                "86"
+            ],
+            [
+                "88",
+                "88"
+            ],
+            [
+                "95",
+                "99"
+            ],
+            [
+                "106",
+                "108"
+            ],
+            [
+                "126",
+                "126"
+            ]
+        ],
+        "First Attendant": [
+            [
+                "161",
+                "161"
+            ],
+            [
+                "163",
+                "163"
+            ]
+        ]
+    },
+    "scene_name": "SCENE XIII",
+    "scene_description": "Alexandria. CLEOPATRA's palace."
+}

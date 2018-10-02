@@ -1,0 +1,297 @@
+{
+    "scene_id": "antony and cleopatra~~Act_3~~Scene_10",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "DOMITIUS ENOBARBUS",
+            "Naught, naught all, naught! I can behold no longer:",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "The Antoniad, the Egyptian admiral,"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "With all their sixty, fly and turn the rudder:"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "To see't mine eyes are blasted.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "SCARUS",
+            "Gods and goddesses,",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "SCARUS",
+            "All the whole synod of them!"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "What's thy passion!"
+        ],
+        [
+            "SCARUS",
+            "The greater cantle of the world is lost"
+        ],
+        [
+            "SCARUS",
+            "With very ignorance; we have kiss'd away"
+        ],
+        [
+            "SCARUS",
+            "Kingdoms and provinces."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "How appears the fight?"
+        ],
+        [
+            "SCARUS",
+            "On our side like the token'd pestilence,"
+        ],
+        [
+            "SCARUS",
+            "Where death is sure. Yon ribaudred nag of Egypt,--"
+        ],
+        [
+            "SCARUS",
+            "Whom leprosy o'ertake!--i' the midst o' the fight,"
+        ],
+        [
+            "SCARUS",
+            "When vantage like a pair of twins appear'd,"
+        ],
+        [
+            "SCARUS",
+            "Both as the same, or rather ours the elder,"
+        ],
+        [
+            "SCARUS",
+            "The breese upon her, like a cow in June,"
+        ],
+        [
+            "SCARUS",
+            "Hoists sails and flies."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "That I beheld:"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Mine eyes did sicken at the sight, and could not"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Endure a further view."
+        ],
+        [
+            "SCARUS",
+            "She once being loof'd,"
+        ],
+        [
+            "SCARUS",
+            "The noble ruin of her magic, Antony,"
+        ],
+        [
+            "SCARUS",
+            "Claps on his sea-wing, and, like a doting mallard,"
+        ],
+        [
+            "SCARUS",
+            "Leaving the fight in height, flies after her:"
+        ],
+        [
+            "SCARUS",
+            "I never saw an action of such shame;"
+        ],
+        [
+            "SCARUS",
+            "Experience, manhood, honour, ne'er before"
+        ],
+        [
+            "SCARUS",
+            "Did violate so itself."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Alack, alack!",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "CANIDIUS",
+            "Our fortune on the sea is out of breath,",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "CANIDIUS",
+            "And sinks most lamentably. Had our general"
+        ],
+        [
+            "CANIDIUS",
+            "Been what he knew himself, it had gone well:"
+        ],
+        [
+            "CANIDIUS",
+            "O, he has given example for our flight,"
+        ],
+        [
+            "CANIDIUS",
+            "Most grossly, by his own!"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Ay, are you thereabouts?"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Why, then, good night indeed."
+        ],
+        [
+            "CANIDIUS",
+            "Toward Peloponnesus are they fled."
+        ],
+        [
+            "SCARUS",
+            "'Tis easy to't; and there I will attend"
+        ],
+        [
+            "SCARUS",
+            "What further comes."
+        ],
+        [
+            "CANIDIUS",
+            "To Caesar will I render"
+        ],
+        [
+            "CANIDIUS",
+            "My legions and my horse: six kings already"
+        ],
+        [
+            "CANIDIUS",
+            "Show me the way of yielding."
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "I'll yet follow"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "The wounded chance of Antony, though my reason"
+        ],
+        [
+            "DOMITIUS ENOBARBUS",
+            "Sits in the wind against me.",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "CANIDIUS marcheth with his land army one way over the stage; and TAURUS, the lieutenant of OCTAVIUS CAESAR, the other way. After their going in, is heard the noise of a sea-fight. Alarum. Enter DOMITIUS ENOBARBUS"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter SCARUS"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter CANIDIUS"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "DOMITIUS ENOBARBUS": [
+            [
+                "1",
+                "4"
+            ],
+            [
+                "7",
+                "7"
+            ],
+            [
+                "11",
+                "11"
+            ],
+            [
+                "19",
+                "21"
+            ],
+            [
+                "29",
+                "29"
+            ],
+            [
+                "35",
+                "36"
+            ],
+            [
+                "43",
+                "45"
+            ]
+        ],
+        "SCARUS": [
+            [
+                "5",
+                "6"
+            ],
+            [
+                "8",
+                "10"
+            ],
+            [
+                "12",
+                "18"
+            ],
+            [
+                "22",
+                "28"
+            ],
+            [
+                "38",
+                "39"
+            ]
+        ],
+        "CANIDIUS": [
+            [
+                "30",
+                "34"
+            ],
+            [
+                "37",
+                "37"
+            ],
+            [
+                "40",
+                "42"
+            ]
+        ]
+    },
+    "scene_name": "SCENE X",
+    "scene_description": "Another part of the plain."
+}

@@ -1,0 +1,51 @@
+{
+    "scene_id": "antony and cleopatra~~Act_4~~Scene_11",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "OCTAVIUS CAESAR",
+            "But being charged, we will be still by land,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Which, as I take't, we shall; for his best force"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Is forth to man his galleys. To the vales,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "And hold our best advantage.",
+            {
+                "following_direction_line": "2"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter OCTAVIUS CAESAR, and his Army"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "OCTAVIUS CAESAR": [
+            [
+                "1",
+                "4"
+            ]
+        ]
+    },
+    "scene_name": "SCENE XI",
+    "scene_description": "Another part of the same."
+}

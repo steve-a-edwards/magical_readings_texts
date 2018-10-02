@@ -1,0 +1,478 @@
+{
+    "scene_id": "antony and cleopatra~~Act_1~~Scene_4",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "OCTAVIUS CAESAR",
+            "You may see, Lepidus, and henceforth know,",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "It is not Caesar's natural vice to hate"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Our great competitor: from Alexandria"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "This is the news: he fishes, drinks, and wastes"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "The lamps of night in revel; is not more man-like"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Than Cleopatra; nor the queen of Ptolemy"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "More womanly than he; hardly gave audience, or"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Vouchsafed to think he had partners: you shall find there"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "A man who is the abstract of all faults"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "That all men follow."
+        ],
+        [
+            "LEPIDUS",
+            "I must not think there are"
+        ],
+        [
+            "LEPIDUS",
+            "Evils enow to darken all his goodness:"
+        ],
+        [
+            "LEPIDUS",
+            "His faults in him seem as the spots of heaven,"
+        ],
+        [
+            "LEPIDUS",
+            "More fiery by night's blackness; hereditary,"
+        ],
+        [
+            "LEPIDUS",
+            "Rather than purchased; what he cannot change,"
+        ],
+        [
+            "LEPIDUS",
+            "Than what he chooses."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "You are too indulgent. Let us grant, it is not"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Amiss to tumble on the bed of Ptolemy;"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "To give a kingdom for a mirth; to sit"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "And keep the turn of tippling with a slave;"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "To reel the streets at noon, and stand the buffet"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "With knaves that smell of sweat: say this"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "becomes him,--"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "As his composure must be rare indeed"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Whom these things cannot blemish,--yet must Antony"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "No way excuse his soils, when we do bear"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "So great weight in his lightness. If he fill'd"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "His vacancy with his voluptuousness,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Full surfeits, and the dryness of his bones,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Call on him for't: but to confound such time,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "That drums him from his sport, and speaks as loud"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "As his own state and ours,--'tis to be chid"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "As we rate boys, who, being mature in knowledge,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Pawn their experience to their present pleasure,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "And so rebel to judgment.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "LEPIDUS",
+            "Here's more news.",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "Messenger",
+            "Thy biddings have been done; and every hour,"
+        ],
+        [
+            "Messenger",
+            "Most noble Caesar, shalt thou have report"
+        ],
+        [
+            "Messenger",
+            "How 'tis abroad. Pompey is strong at sea;"
+        ],
+        [
+            "Messenger",
+            "And it appears he is beloved of those"
+        ],
+        [
+            "Messenger",
+            "That only have fear'd Caesar: to the ports"
+        ],
+        [
+            "Messenger",
+            "The discontents repair, and men's reports"
+        ],
+        [
+            "Messenger",
+            "Give him much wrong'd."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "I should have known no less."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "It hath been taught us from the primal state,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "That he which is was wish'd until he were;"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "And the ebb'd man, ne'er loved till ne'er worth love,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Comes dear'd by being lack'd. This common body,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Like to a vagabond flag upon the stream,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Goes to and back, lackeying the varying tide,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "To rot itself with motion."
+        ],
+        [
+            "Messenger",
+            "Caesar, I bring thee word,"
+        ],
+        [
+            "Messenger",
+            "Menecrates and Menas, famous pirates,"
+        ],
+        [
+            "Messenger",
+            "Make the sea serve them, which they ear and wound"
+        ],
+        [
+            "Messenger",
+            "With keels of every kind: many hot inroads"
+        ],
+        [
+            "Messenger",
+            "They make in Italy; the borders maritime"
+        ],
+        [
+            "Messenger",
+            "Lack blood to think on't, and flush youth revolt:"
+        ],
+        [
+            "Messenger",
+            "No vessel can peep forth, but 'tis as soon"
+        ],
+        [
+            "Messenger",
+            "Taken as seen; for Pompey's name strikes more"
+        ],
+        [
+            "Messenger",
+            "Than could his war resisted."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Antony,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Leave thy lascivious wassails. When thou once"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Wast beaten from Modena, where thou slew'st"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Hirtius and Pansa, consuls, at thy heel"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Did famine follow; whom thou fought'st against,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Though daintily brought up, with patience more"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Than savages could suffer: thou didst drink"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "The stale of horses, and the gilded puddle"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Which beasts would cough at: thy palate then did deign"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "The roughest berry on the rudest hedge;"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Yea, like the stag, when snow the pasture sheets,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "The barks of trees thou browsed'st; on the Alps"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "It is reported thou didst eat strange flesh,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Which some did die to look on: and all this--"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "It wounds thine honour that I speak it now--"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Was borne so like a soldier, that thy cheek"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "So much as lank'd not."
+        ],
+        [
+            "LEPIDUS",
+            "'Tis pity of him."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Let his shames quickly"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Drive him to Rome: 'tis time we twain"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Did show ourselves i' the field; and to that end"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Assemble we immediate council: Pompey"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Thrives in our idleness."
+        ],
+        [
+            "LEPIDUS",
+            "To-morrow, Caesar,"
+        ],
+        [
+            "LEPIDUS",
+            "I shall be furnish'd to inform you rightly"
+        ],
+        [
+            "LEPIDUS",
+            "Both what by sea and land I can be able"
+        ],
+        [
+            "LEPIDUS",
+            "To front this present time."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Till which encounter,"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "It is my business too. Farewell."
+        ],
+        [
+            "LEPIDUS",
+            "Farewell, my lord: what you shall know meantime"
+        ],
+        [
+            "LEPIDUS",
+            "Of stirs abroad, I shall beseech you, sir,"
+        ],
+        [
+            "LEPIDUS",
+            "To let me be partaker."
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "Doubt not, sir;"
+        ],
+        [
+            "OCTAVIUS CAESAR",
+            "I knew it for my bond.",
+            {
+                "following_direction_line": "3"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter OCTAVIUS CAESAR, reading a letter, LEPIDUS, and their Train"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Enter a Messenger"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "OCTAVIUS CAESAR": [
+            [
+                "1",
+                "10"
+            ],
+            [
+                "17",
+                "35"
+            ],
+            [
+                "44",
+                "51"
+            ],
+            [
+                "61",
+                "77"
+            ],
+            [
+                "79",
+                "83"
+            ],
+            [
+                "88",
+                "89"
+            ],
+            [
+                "93",
+                "94"
+            ]
+        ],
+        "LEPIDUS": [
+            [
+                "11",
+                "16"
+            ],
+            [
+                "36",
+                "36"
+            ],
+            [
+                "78",
+                "78"
+            ],
+            [
+                "84",
+                "87"
+            ],
+            [
+                "90",
+                "92"
+            ]
+        ],
+        "Messenger": [
+            [
+                "37",
+                "43"
+            ],
+            [
+                "52",
+                "60"
+            ]
+        ]
+    },
+    "scene_name": "SCENE IV",
+    "scene_description": "Rome. OCTAVIUS CAESAR's house."
+}

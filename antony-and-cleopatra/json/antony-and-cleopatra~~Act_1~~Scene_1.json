@@ -1,0 +1,431 @@
+{
+    "scene_id": "antony and cleopatra~~Act_1~~Scene_1",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "PHILO",
+            "Nay, but this dotage of our general's",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "PHILO",
+            "O'erflows the measure: those his goodly eyes,"
+        ],
+        [
+            "PHILO",
+            "That o'er the files and musters of the war"
+        ],
+        [
+            "PHILO",
+            "Have glow'd like plated Mars, now bend, now turn,"
+        ],
+        [
+            "PHILO",
+            "The office and devotion of their view"
+        ],
+        [
+            "PHILO",
+            "Upon a tawny front: his captain's heart,"
+        ],
+        [
+            "PHILO",
+            "Which in the scuffles of great fights hath burst"
+        ],
+        [
+            "PHILO",
+            "The buckles on his breast, reneges all temper,"
+        ],
+        [
+            "PHILO",
+            "And is become the bellows and the fan"
+        ],
+        [
+            "PHILO",
+            "To cool a gipsy's lust.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "PHILO",
+            "Look, where they come:",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "PHILO",
+            "Take but good note, and you shall see in him."
+        ],
+        [
+            "PHILO",
+            "The triple pillar of the world transform'd"
+        ],
+        [
+            "PHILO",
+            "Into a strumpet's fool: behold and see."
+        ],
+        [
+            "CLEOPATRA",
+            "If it be love indeed, tell me how much."
+        ],
+        [
+            "MARK ANTONY",
+            "There's beggary in the love that can be reckon'd."
+        ],
+        [
+            "CLEOPATRA",
+            "I'll set a bourn how far to be beloved."
+        ],
+        [
+            "MARK ANTONY",
+            "Then must thou needs find out new heaven, new earth.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "Attendant",
+            "News, my good lord, from Rome.",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "Grates me: the sum."
+        ],
+        [
+            "CLEOPATRA",
+            "Nay, hear them, Antony:"
+        ],
+        [
+            "CLEOPATRA",
+            "Fulvia perchance is angry; or, who knows"
+        ],
+        [
+            "CLEOPATRA",
+            "If the scarce-bearded Caesar have not sent"
+        ],
+        [
+            "CLEOPATRA",
+            "His powerful mandate to you, 'Do this, or this;"
+        ],
+        [
+            "CLEOPATRA",
+            "Take in that kingdom, and enfranchise that;"
+        ],
+        [
+            "CLEOPATRA",
+            "Perform 't, or else we damn thee.'"
+        ],
+        [
+            "MARK ANTONY",
+            "How, my love!"
+        ],
+        [
+            "CLEOPATRA",
+            "Perchance! nay, and most like:"
+        ],
+        [
+            "CLEOPATRA",
+            "You must not stay here longer, your dismission"
+        ],
+        [
+            "CLEOPATRA",
+            "Is come from Caesar; therefore hear it, Antony."
+        ],
+        [
+            "CLEOPATRA",
+            "Where's Fulvia's process? Caesar's I would say? both?"
+        ],
+        [
+            "CLEOPATRA",
+            "Call in the messengers. As I am Egypt's queen,"
+        ],
+        [
+            "CLEOPATRA",
+            "Thou blushest, Antony; and that blood of thine"
+        ],
+        [
+            "CLEOPATRA",
+            "Is Caesar's homager: else so thy cheek pays shame"
+        ],
+        [
+            "CLEOPATRA",
+            "When shrill-tongued Fulvia scolds. The messengers!"
+        ],
+        [
+            "MARK ANTONY",
+            "Let Rome in Tiber melt, and the wide arch"
+        ],
+        [
+            "MARK ANTONY",
+            "Of the ranged empire fall! Here is my space."
+        ],
+        [
+            "MARK ANTONY",
+            "Kingdoms are clay: our dungy earth alike"
+        ],
+        [
+            "MARK ANTONY",
+            "Feeds beast as man: the nobleness of life"
+        ],
+        [
+            "MARK ANTONY",
+            "Is to do thus; when such a mutual pair",
+            {
+                "following_direction_line": "4"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "And such a twain can do't, in which I bind,",
+            {
+                "preceding_direction_line": "4"
+            }
+        ],
+        [
+            "MARK ANTONY",
+            "On pain of punishment, the world to weet"
+        ],
+        [
+            "MARK ANTONY",
+            "We stand up peerless."
+        ],
+        [
+            "CLEOPATRA",
+            "Excellent falsehood!"
+        ],
+        [
+            "CLEOPATRA",
+            "Why did he marry Fulvia, and not love her?"
+        ],
+        [
+            "CLEOPATRA",
+            "I'll seem the fool I am not; Antony"
+        ],
+        [
+            "CLEOPATRA",
+            "Will be himself."
+        ],
+        [
+            "MARK ANTONY",
+            "But stirr'd by Cleopatra."
+        ],
+        [
+            "MARK ANTONY",
+            "Now, for the love of Love and her soft hours,"
+        ],
+        [
+            "MARK ANTONY",
+            "Let's not confound the time with conference harsh:"
+        ],
+        [
+            "MARK ANTONY",
+            "There's not a minute of our lives should stretch"
+        ],
+        [
+            "MARK ANTONY",
+            "Without some pleasure now. What sport tonight?"
+        ],
+        [
+            "CLEOPATRA",
+            "Hear the ambassadors."
+        ],
+        [
+            "MARK ANTONY",
+            "Fie, wrangling queen!"
+        ],
+        [
+            "MARK ANTONY",
+            "Whom every thing becomes, to chide, to laugh,"
+        ],
+        [
+            "MARK ANTONY",
+            "To weep; whose every passion fully strives"
+        ],
+        [
+            "MARK ANTONY",
+            "To make itself, in thee, fair and admired!"
+        ],
+        [
+            "MARK ANTONY",
+            "No messenger, but thine; and all alone"
+        ],
+        [
+            "MARK ANTONY",
+            "To-night we'll wander through the streets and note"
+        ],
+        [
+            "MARK ANTONY",
+            "The qualities of people. Come, my queen;"
+        ],
+        [
+            "MARK ANTONY",
+            "Last night you did desire it: speak not to us.",
+            {
+                "following_direction_line": "5"
+            }
+        ],
+        [
+            "DEMETRIUS",
+            "Is Caesar with Antonius prized so slight?",
+            {
+                "preceding_direction_line": "5"
+            }
+        ],
+        [
+            "PHILO",
+            "Sir, sometimes, when he is not Antony,"
+        ],
+        [
+            "PHILO",
+            "He comes too short of that great property"
+        ],
+        [
+            "PHILO",
+            "Which still should go with Antony."
+        ],
+        [
+            "DEMETRIUS",
+            "I am full sorry"
+        ],
+        [
+            "DEMETRIUS",
+            "That he approves the common liar, who"
+        ],
+        [
+            "DEMETRIUS",
+            "Thus speaks of him at Rome: but I will hope"
+        ],
+        [
+            "DEMETRIUS",
+            "Of better deeds to-morrow. Rest you happy!",
+            {
+                "following_direction_line": "6"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Enter DEMETRIUS and PHILO"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Flourish. Enter ANTONY, CLEOPATRA, her Ladies, the Train, with Eunuchs fanning her"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter an Attendant"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Embracing"
+        ],
+        [
+            "_DIRECTION",
+            "D5",
+            "Exeunt MARK ANTONY and CLEOPATRA with their train"
+        ],
+        [
+            "_DIRECTION",
+            "D6",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "PHILO": [
+            [
+                "1",
+                "14"
+            ],
+            [
+                "63",
+                "65"
+            ]
+        ],
+        "CLEOPATRA": [
+            [
+                "15",
+                "15"
+            ],
+            [
+                "17",
+                "17"
+            ],
+            [
+                "21",
+                "26"
+            ],
+            [
+                "28",
+                "35"
+            ],
+            [
+                "44",
+                "47"
+            ],
+            [
+                "53",
+                "53"
+            ]
+        ],
+        "MARK ANTONY": [
+            [
+                "16",
+                "16"
+            ],
+            [
+                "18",
+                "18"
+            ],
+            [
+                "20",
+                "20"
+            ],
+            [
+                "27",
+                "27"
+            ],
+            [
+                "36",
+                "43"
+            ],
+            [
+                "48",
+                "52"
+            ],
+            [
+                "54",
+                "61"
+            ]
+        ],
+        "Attendant": [
+            [
+                "19",
+                "19"
+            ]
+        ],
+        "DEMETRIUS": [
+            [
+                "62",
+                "62"
+            ],
+            [
+                "66",
+                "69"
+            ]
+        ]
+    },
+    "scene_name": "SCENE I",
+    "scene_description": "Alexandria. A room in CLEOPATRA's palace."
+}

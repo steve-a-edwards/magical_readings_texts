@@ -1,0 +1,183 @@
+{
+    "scene_id": "antony and cleopatra~~Act_4~~Scene_7",
+    "work_number": "14",
+    "work_type": "PlayScene",
+    "role_lines": [
+        [
+            "AGRIPPA",
+            "Retire, we have engaged ourselves too far:",
+            {
+                "preceding_direction_line": "1"
+            }
+        ],
+        [
+            "AGRIPPA",
+            "Caesar himself has work, and our oppression"
+        ],
+        [
+            "AGRIPPA",
+            "Exceeds what we expected.",
+            {
+                "following_direction_line": "2"
+            }
+        ],
+        [
+            "SCARUS",
+            "O my brave emperor, this is fought indeed!",
+            {
+                "preceding_direction_line": "2"
+            }
+        ],
+        [
+            "SCARUS",
+            "Had we done so at first, we had droven them home"
+        ],
+        [
+            "SCARUS",
+            "With clouts about their heads."
+        ],
+        [
+            "MARK ANTONY",
+            "Thou bleed'st apace."
+        ],
+        [
+            "SCARUS",
+            "I had a wound here that was like a T,"
+        ],
+        [
+            "SCARUS",
+            "But now 'tis made an H."
+        ],
+        [
+            "MARK ANTONY",
+            "They do retire."
+        ],
+        [
+            "SCARUS",
+            "We'll beat 'em into bench-holes: I have yet"
+        ],
+        [
+            "SCARUS",
+            "Room for six scotches more.",
+            {
+                "following_direction_line": "3"
+            }
+        ],
+        [
+            "EROS",
+            "They are beaten, sir, and our advantage serves",
+            {
+                "preceding_direction_line": "3"
+            }
+        ],
+        [
+            "EROS",
+            "For a fair victory."
+        ],
+        [
+            "SCARUS",
+            "Let us score their backs,"
+        ],
+        [
+            "SCARUS",
+            "And snatch 'em up, as we take hares, behind:"
+        ],
+        [
+            "SCARUS",
+            "'Tis sport to maul a runner."
+        ],
+        [
+            "MARK ANTONY",
+            "I will reward thee"
+        ],
+        [
+            "MARK ANTONY",
+            "Once for thy spritely comfort, and ten-fold"
+        ],
+        [
+            "MARK ANTONY",
+            "For thy good valour. Come thee on."
+        ],
+        [
+            "SCARUS",
+            "I'll halt after.",
+            {
+                "following_direction_line": "4"
+            }
+        ]
+    ],
+    "direction_lines": [
+        [
+            "_DIRECTION",
+            "D1",
+            "Alarum. Drums and trumpets. Enter AGRIPPA and others"
+        ],
+        [
+            "_DIRECTION",
+            "D2",
+            "Exeunt. Alarums. Enter MARK ANTONY and SCARUS wounded"
+        ],
+        [
+            "_DIRECTION",
+            "D3",
+            "Enter EROS"
+        ],
+        [
+            "_DIRECTION",
+            "D4",
+            "Exeunt"
+        ]
+    ],
+    "ranges_of_roles_lines": {
+        "AGRIPPA": [
+            [
+                "1",
+                "3"
+            ]
+        ],
+        "SCARUS": [
+            [
+                "4",
+                "6"
+            ],
+            [
+                "8",
+                "9"
+            ],
+            [
+                "11",
+                "12"
+            ],
+            [
+                "15",
+                "17"
+            ],
+            [
+                "21",
+                "21"
+            ]
+        ],
+        "MARK ANTONY": [
+            [
+                "7",
+                "7"
+            ],
+            [
+                "10",
+                "10"
+            ],
+            [
+                "18",
+                "20"
+            ]
+        ],
+        "EROS": [
+            [
+                "13",
+                "14"
+            ]
+        ]
+    },
+    "scene_name": "SCENE VII",
+    "scene_description": "Field of battle between the camps."
+}
